@@ -1,15 +1,15 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-08-17 09:29:55
+// 마지막 업데이트: 2026-08-17 10:21:12
 window.NEWS_DB = [
   {
     "id": "n429d6ff4",
     "category": "IT",
-    "source": "seoulfn.com",
-    "time": "7시간 전",
+    "source": "서울파이낸스",
+    "time": "8시간 전",
     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9zY2pmOTFvV2E1V09oWTh1SERKN01OVHBZNk03bDlYVmFqZ2RXWk1aUjZQTkVWY1M5YWpXeHJtZi1oREpMR25wcG5hTldPMURzeFV0OE9LT1E1dEVqWC1ZM3U4N3hEOFd0eVE?oc=5",
     "title": "[반도체 패권 전쟁 ④] 삼성전자·SK하이닉스의 승부수···HBM 넘어 ‘AI 반도체 기업’으로 진화하라",
     "summary": [
-      "[반도체 패권 전쟁 ④] 삼성전자·SK하이닉스의 승부수···HBM 넘어 ‘AI 반도체 기업’으로 진화하라 seoulfn.com."
+      "[반도체 패권 전쟁 ④] 삼성전자·SK하이닉스의 승부수···HBM 넘어 ‘AI 반도체 기업’으로 진화하라 서울파이낸스."
     ],
     "chips": [
       "#AI",
@@ -22,7 +22,7 @@ window.NEWS_DB = [
     "id": "nac2a7a3e",
     "category": "IT",
     "source": "2news.co.kr",
-    "time": "9시간 전",
+    "time": "10시간 전",
     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5kV2VpYktBZU9IMzlCU25SdlVyLWRhc1cxbFdReWxDU25NQlVIM3ZFTlVpdlBxa3paVHdxMS1oZEE0d0phbmFWbjIxUTBYS1FITFhQNHBCTGhzLW45cmhOWG9MbHhNelNz?oc=5",
     "title": "미국 반도체 통제 속에서도 중국 AI 모델이 성장하는 배경",
     "summary": [
@@ -97,14 +97,29 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n42644652",
+    "category": "경제",
+    "source": "Mshale",
+    "time": "3일 전",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1MYTc5X29yOThmZk9vT2Zlak9nc2NQM3Mwbkk3TDlsQlUxOUZXS0F5WVBhWHlGOUttOEJObDBrUVNpR1F3czJ0dm5KeG0tb0FmU203VFhWTzc1bjg?oc=5",
+    "title": "한국은행 내일 금리 인상, 결국 증시 '이렇게' 된다 | 신얼 상상인증권 팀장 | 전략 인사이드 Dent (1QuaK5uCbd)",
+    "summary": [
+      "한국은행 내일 금리 인상, 결국 증시 '이렇게' 된다 | 신얼 상상인증권 팀장 | 전략 인사이드 Dent (1QuaK5uCbd) Mshale."
+    ],
+    "chips": [
+      "#금리",
+      "#한은"
+    ]
+  },
+  {
     "id": "n1058f97e",
     "category": "스포츠",
-    "source": "news.nate.com",
+    "source": "네이트",
     "time": "3일 전",
     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8yc083aVJTcjRRMW96ZThmS0J5NnYtWjFpdVpkWlpPMjA2RVhzQzF5dzVTcGhHdUJFaWRDUmdjY053NEFkY2g4dzZmZmNYQW5saFg4YVV4NG1sbkx0bTFMWg?oc=5",
     "title": "맑은 하늘 아래 펼쳐지는 KBO리그",
     "summary": [
-      "맑은 하늘 아래 펼쳐지는 KBO리그 news.nate.com."
+      "맑은 하늘 아래 펼쳐지는 KBO리그 네이트."
     ],
     "chips": [
       "#KBO"
@@ -159,12 +174,12 @@ window.NEWS_DB = [
   {
     "id": "n062f98b4",
     "category": "부동산",
-    "source": "한국주택경제신문",
+    "source": "arunews.com",
     "time": "17일 전",
     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9Sdmd3SUl0dmRQSWdTck5DVjJ5WXYxTTFmRnBBbEkwa09VclpLd0VsVWFTV2pPRm9sQm1sQmZDb3EyN2lwTVBvZ185RUVycVFnOEdYcHVrcVFnYTdwaGZfUDh2WkFWYndi?oc=5",
     "title": "서울 아파트값 0.25% 상승… 똘똘한 ‘역세권·대단지’가 집값 견인",
     "summary": [
-      "서울 아파트값 0.25% 상승… 똘똘한 ‘역세권·대단지’가 집값 견인 한국주택경제신문."
+      "서울 아파트값 0.25% 상승… 똘똘한 ‘역세권·대단지’가 집값 견인 arunews.com."
     ],
     "chips": [
       "#부동산"
@@ -228,20 +243,6 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n244b01bd",
-    "category": "경제",
-    "source": "스트레이트뉴스",
-    "time": "62일 전",
-    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBCMWo2YXNZMEh0aUhtSDk2czAteEZBVVM4MFVGSmNlREM2bEdPX3NaNFMyMDhNWXp1bllqd1NEbkE5elZZYlhRRnRTNm1OdFFmVmlmQ2o2LTdLZXE3TUw5Mm5uU014MFN5ZFkxXzBPbWxCS3fSAXdBVV95cUxQR1pwdFp0SFJzTkVyR3RtbjVBVm03aGxUS2JURUN6eE1iVDlKazYwZmh5bUxRdU1hQXc3dUIxWXFYRG1XZlA1cHB1S3NVR0pYUExPbEtQMFBxeWp0NnFweW5hM0xOMUNmM2o1cENPdjFqb0Q4SWJkaw?oc=5",
-    "title": "미·이란 종전 합의에 금리 전망 변화?…한은 7월 인상론 여전",
-    "summary": [
-      "미·이란 종전 합의에 금리 전망 변화?…한은 7월 인상론 여전 스트레이트뉴스."
-    ],
-    "chips": [
-      "#금리"
-    ]
-  },
-  {
     "id": "n252753ca",
     "category": "IT",
     "source": "유니콘팩토리",
@@ -273,12 +274,12 @@ window.NEWS_DB = [
   {
     "id": "nb9bdfdfb",
     "category": "스포츠",
-    "source": "푸드투데이",
+    "source": "foodtoday.or.kr",
     "time": "80일 전",
     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9BVmpLTU1zOFZsU1RWVmVOSXppaWhDWFBBRkF4akI3WHBIcXIyX2pXa3JaeXplMm9vbmE4cU1PclhFTXVZdURxQ0RCYTF3aFNsbmRKcTZ5VE9na0cwakQ2XzNuWlJ5QQ?oc=5",
     "title": "‘손흥민 월드콘.KBO몽쉘’ 축구.야구팬 다 잡자...롯데웰푸드, 스포츠마케팅 총력",
     "summary": [
-      "‘손흥민 월드콘.KBO몽쉘’ 축구.야구팬 다 잡자...롯데웰푸드, 스포츠마케팅 총력 푸드투데이."
+      "‘손흥민 월드콘.KBO몽쉘’ 축구.야구팬 다 잡자...롯데웰푸드, 스포츠마케팅 총력 foodtoday.or.kr."
     ],
     "chips": [
       "#손흥민",
@@ -346,26 +347,263 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n50a23736",
+    "id": "nc3aea004",
     "category": "사회",
     "source": "아시아경제",
-    "time": "3분 전",
-    "url": "https://view.asiae.co.kr/article/2026081718264216172",
-    "title": "류경완 남해군수, 호우경보 속 현장 점검… 재난취약지역 대응 강화",
+    "time": "방금 전",
+    "url": "https://view.asiae.co.kr/article/2026081719202767817",
+    "title": "김민석 \"이재명 정부와 전면 협력…'창조적 수평관계'\"",
     "summary": [
-      "경남 남해군이 집중호우에 따른 피해 예방을 위해 재난 대응 단계를 높이고 비상근무 인원을 확대하는 등 현장 중심의 대응체계를 강화하고 있다.",
-      "군은 지난 15일 호우주의보가 발효된 오전 4시부터 재난안전대책본부를 가동하고 본청과 읍·면 행정복지센터를 중심으로 46명이 비상근무에 들어갔다.",
-      "이후 16일 오전 10시 호우경보로 기상특보가 격상되면서 비상근무 인원을 56명으로 확대하고 강우 상황과 지역별 피해 여부를 지."
+      "김민석 더불어민주당 신임 당대표가 17일 이재명 정부와의 전면적인 협력을 약속하면서도 당이 정부를 일방적으로 지원하는 데 그치지 않는 '창조적 수평관계'를 구축하겠다고 밝혔다.",
+      "김 대표는 이날 대전컨벤션센터에서 열린 민주당 전당대회에서 당대표로 선출된 뒤 수락연설에서 \"당·청 관계, 당정관계는 국정 중심인 대통령과 정부를 지원하는 전면 협력의 창조적 수평관계가 될 것\"이라고 말했다."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n557975fb",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "1분 전",
+    "url": "https://www.newsis.com/view/NISX20260814_0003750002",
+    "title": "김민석, '운동권 황태자'에서 '18년 야인' 부침 끝 여당 대표로…'배신' 주홍글씨 씻었다[與 김민석 체제]",
+    "summary": [
+      "[서울=뉴시스] 김난영 기자 = 더불어민주당 8·17 전당대회에서 김민석 후보가 신임 당대표로 당선됐다.",
+      "86세대 운동권 황태자에서 2002년 '노무현 후보 배신 논란'과 뒤이은 18년의 야인 생활 등 기나긴 정치적 부침 끝에 집권 여당 수장 자리를 거머쥐었다.",
+      "이번 전당대회 기간 김 후보의 최대 과제는 '배신' 이미지 불식이었다."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "ned190f27",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "3분 전",
+    "url": "https://www.newsis.com/view/NISX20260817_0003751620",
+    "title": "산림청, 호우 피해 거제·통영에 산림장비·인력 급파",
+    "summary": [
+      "[대전=뉴시스] 김양수 기자 = 산림청이 기록적인 집중호우로 산사태와 침수피해가 발생한 경남 거제와 통영에 산림진화장비 및 인력을 긴급 투입해 복구지원에 나섰다.",
+      "산림청은 17일 지방정부의 신속한 피해수습을 돕기 위해 고성능·다목적산불진화차와 굴삭기·트럭 등 장비 37대, 산림재난특수진화대 76명을 거제·통영 피해현장에 급파했다고 밝혔다.",
+      "산림청은 또 피해수습을 지원키 위해 과장급으로 구성된 현장수습지원단을 현장에 파견, 지방정부의 복구업무를."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
+    "id": "nd9a5e710",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "7분 전",
+    "url": "https://www.newsis.com/view/NISX20260814_0003749692",
+    "title": "'선명성' 대신 '안정' 택한 與 당심…李정부 지지에 힘 실었다[與 김민석 체제]",
+    "summary": [
+      "[서울=뉴시스]정금민 기자 = 더불어민주당 새 당 대표에 '당정 원팀'을 강조해온 김민석 후보가 선출됐다.",
+      "집권 2년차 이재명 정부의 정책 기조와 궤를 맞춰야 한다는 방향성이 담긴 표심으로 보인다.",
+      "이번 전당대회는 이른바 대의원·권리당원 1인 1표제 첫 도입에 따른 변수로 승패 예측이 어려웠으나, 김 대표가 명심'(明心·이재명 대통령 의중)' 주자라는 점이 승부에 영향을 미쳤다는 분석이 나온다."
+    ],
+    "chips": [
+      "#정책",
+      "#정치"
+    ]
+  },
+  {
+    "id": "nb914fec8",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "7분 전",
+    "url": "https://www.newsis.com/view/NISX20260817_0003751524",
+    "title": "與 수석 최고위원 최민희…박선원·서미화·이성윤·한민수 최고위원 당선",
+    "summary": [
+      "[서울=뉴시스] 이창환 한재혁 권신혁 기자 = 더불어민주당 최민희·박선원·서미화·이성윤·한민수 의원이 17일 열린 8·17 전당대회에서 최고위원으로 선출됐다.",
+      "친명(친이재명)계 2명, 친청(친정청래)계 3명이 새 지도부에 합류하게 됐다.",
+      "민주당 중앙당선거관리위원회는 17일 대전 유성구 대전컨벤션센터에서 열린 '제3차 정기전국당원대회'에서 최민희 최고위원 후보가 총득표율 18.35%로 1위, 이어 박선원 후보 17.57%, 서미화 후보 16.60."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n6f0fd2ce",
+    "category": "사회",
+    "source": "아시아경제",
+    "time": "7분 전",
+    "url": "https://view.asiae.co.kr/article/2026081719130363654",
+    "title": "당심은 김민석, 민심은 정청래…집권여당 외연 확장 과제 남겨",
+    "summary": [
+      "8·17 더불어민주당 전당대회에서 김민석 후보가 새 당대표로 선출됐지만, 국민여론조사에서는 정청래 후보가 김 후보를 앞선 것으로 나타났다.",
+      "당의 핵심 지지층인 권리당원과 전국대의원은 김 후보를 선택했지만, 일반 국민을 대상으로 한 조사에서는 정 후보에 대한 선호가 더 높게 나타나면서 민주당 전당대회가 당심과 민심의 온도 차를 보여줬다는 평가가 나온다.",
+      "민주당이 17일 대전컨벤션센터에서 발표한 당대표 선거 결과."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "nd131778b",
+    "category": "경제",
+    "source": "연합뉴스",
+    "time": "9분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260817062900001",
+    "title": "[속보] 김민석 \"내우외환 풍파가 몰아닥칠 것…신임 지도부와 돌파\"",
+    "summary": [],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nd1d21a31",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "11분 전",
+    "url": "https://www.donga.com/news/Politics/article/all/20260817/134491042/1",
+    "title": "[프로필]‘DJ키즈’ 김민석 민주당 대표…굴곡 딛고 집권당 수장 ‘로망’ 실현",
+    "summary": [
+      "17일 더불어민주당을 이끌 수장으로 선출된 김민석(62) 신임 당 대표는 풍부한 의정 경험과 정책 역량을 갖춘 여권의 대표적인 ‘전략통’으로 꼽힌다.",
+      "30대 초반 ‘DJ(김대중 전 대통령) 키즈’로 화려하게 정치권에 입문했지만, 2002년 서울시장 선거 패배 이후 긴 정치적 부침을 겪었다.",
+      "이후 18년 만의 국회 복귀와 이재명 정부 초대 국무총리를 거쳐 집권여당 수장에까지 올랐다.김 후보는 이재명 대통령과 총선·대선부터 국정 운영까지 호흡을 맞."
+    ],
+    "chips": [
+      "#정책",
+      "#정치"
+    ]
+  },
+  {
+    "id": "ne225a350",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "12분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260817062400001",
+    "title": "[속보] 김민석 \"당청, 대통령·정부 지원하는 협력의 창조적 수평관계\"",
+    "summary": [],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "nbb781871",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "13분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260817062300001",
+    "title": "[속보] 김민석 \"민주당 바꾸겠다…언어·정책·태도·문화 진화\"",
+    "summary": [],
+    "chips": [
+      "#정책"
+    ]
+  },
+  {
+    "id": "ndfdc2845",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "13분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260817024600001",
+    "title": "3대 메가에 사활 건 김민석號…청년공간 '광화제2당사' 공약도",
+    "summary": [
+      "(서울=연합뉴스) 최주성 기자 = 8·17 전당대회를 통해 더불어민주당의 새 수장으로 17일 선출된 김민석 대표는 이재명 정부와의 공조를 강화하..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nb1ebe6d1",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "18분 전",
+    "url": "https://www.donga.com/news/Politics/article/all/20260817/134490482/2",
+    "title": "[속보]민주당 새 대표 김민석…최종 득표 54.08% 정청래 꺾었다",
+    "summary": [
+      "더불어민주당 8·17 전당대회에서 이재명 정부의 초대 국무총리를 지낸 김민석 후보가 54.08%의 득표율로 당 대표에 당선됐다.",
+      "김 신임 대표의 임기는 2년으로, 2028년 총선 공천 과정을 지휘하게 된다.",
+      "이재명 대통령과 호흡을 맞추며 국정 철학에 대한 이해도가 높은 김 대표가 당을 이끌게 되면서 집권 2년차를 맞은 이재명 정부의 국정 운영에도 한층 탄력이 붙을 것이란 전망이 나온다."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "ndb8b0a94",
+    "category": "사회",
+    "source": "아시아경제",
+    "time": "18분 전",
+    "url": "https://view.asiae.co.kr/article/2026081719025759578",
+    "title": "김민석, 민주당 새 당대표 선출…최고위원에 최민희·박선원·서미화·이성윤·한민수",
+    "summary": [
+      "더불어민주당 새 당대표에 김민석 후보가 선출됐다.",
+      "최고위원에는 최민희·박선원·서미화·이성윤·한민수 후보가 이름을 올렸다.민주당은 17일 대전컨벤션센터에서 열린 제3차 정기전국당원대회에서 이같은 내용의 당대표와 최고위원 선거 결과를 발표했다.",
+      "김 후보는 전국대의원·권리당원 투표와 국민여론조사를 합산한 최종 득표율에서 54.08%를 기록하며 정청래 후보(45.92%)를 8.16%포인트 차로 제쳤다."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "nca07357a",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "21분 전",
+    "url": "https://www.donga.com/news/Politics/article/all/20260817/134491021/1",
+    "title": "[속보]與 최고위원에 최민희·박선원·서미화·이성윤·한민수…김용 탈락",
+    "summary": [
+      "[속보]與 최고위원에 최민희·박선원·서미화·이성윤·한민수…김용 탈락더불어민주당 8·17 전당대회 마무리최종 득표율 최민희 18.35%-박선원 17.57%-서미화 16.60%-이성윤 16.35%-한민수 15.86%-김용 15.26% 순…김용 탈락."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nda87aa0d",
+    "category": "경제",
+    "source": "아시아경제",
+    "time": "22분 전",
+    "url": "https://view.asiae.co.kr/article/2026081718573646936",
+    "title": "[속보] 민주당 새 당대표에 김민석 선출…득표율 54.08%",
+    "summary": [
+      "[속보] 민주당 새 당대표에 김민석 선출…득표율 54.08%."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n45ad512f",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "28분 전",
+    "url": "https://www.chosun.com/politics/politics_general/2026/08/17/YPNQFUTEOVAMBFX7QK2S7EQN3M/",
+    "title": "[속보] 민주당 새 당대표에 김민석...선호투표 끝에 정청래 제쳐",
+    "summary": [
+      "[속보] 민주당 새 당대표에 김민석...선호투표 끝에 정청래 제쳐."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nb15a8e18",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "38분 전",
+    "url": "https://www.chosun.com/sports/baseball/2026/08/17/GRSTKOBSGY3TKYJWGY3DKZLCGE/",
+    "title": "인디언 기우제인가…타율 .189 최하위, 문보경 2군행 골든타임은 지났다, ‘밤 12시 특타’로 살아날까",
+    "summary": [
+      "[OSEN=잠실, 한용섭 기자] 프로야구 LG 트윈스는 45일째 연승이 없다.",
+      "7월 1~2일 키움전 2연승이 마지막 연승이다.",
+      "LG는 7월 이후 10승 1무 18패(승률.357)로 같은 기간 10개 구단 승률 최하위다."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
     "id": "n749c9cb0",
     "category": "경제",
     "source": "연합뉴스(경제)",
-    "time": "3분 전",
+    "time": "54분 전",
     "url": "https://www.yna.co.kr/view/AKR20260817058700002",
     "title": "KB국민은행, 집중호우 피해 긴급 금융지원",
     "summary": [
@@ -376,26 +614,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n1393b72f",
-    "category": "스포츠",
-    "source": "뉴시스",
-    "time": "7분 전",
-    "url": "https://www.newsis.com/view/NISX20260817_0003751595",
-    "title": "'배드민턴 여제' 안세영, 부상 복귀전 승리…세계선수권 32강 진출",
-    "summary": [
-      "[서울=뉴시스] 하근수 기자 = '배드민턴 여제' 안세영(삼성생명)이 칼로야나 날반토바(불가리아)를 꺾고 약 한 달 만의 부상 복귀전을 승리로 마쳤다.",
-      "세계랭킹 1위 안세영은 17일(한국 시간) 인도 뉴델리에서 열린 날반토바(40위)와의 세계배드민턴연맹(BWF) 세계선수권대회 2026 여자 단식 64강전에서 게임 점수 2-0(21-14 21-13)으로 이겼다.",
-      "32강에 진출한 안세영은 탈리타 라마드하니 위야반(인도네시아·53위) 대 아이네스 루."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
     "id": "n264fed39",
     "category": "IT",
     "source": "한경IT",
-    "time": "8분 전",
+    "time": "59분 전",
     "url": "https://www.hankyung.com/article/2026081753161",
     "title": "통신 3사 '새 먹거리' AI 인프라 매출 급증",
     "summary": [
@@ -404,226 +626,6 @@ window.NEWS_DB = [
     "chips": [
       "#AI"
     ]
-  },
-  {
-    "id": "n594c3df4",
-    "category": "IT",
-    "source": "연합뉴스",
-    "time": "9분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260817058100089",
-    "title": "유니트리, 신제품 '초인' 영상 공개…\"제자리서 2m 점프\"",
-    "summary": [
-      "(상하이=연합뉴스) 차병섭 특파원 = 중국 증시 상장을 앞둔 로봇업체 유니트리(위수커지)가 신제품 '초인'(超人·차오런) 영상을 공개하면서 제자..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "na5643de2",
-    "category": "IT",
-    "source": "한경IT",
-    "time": "9분 전",
-    "url": "https://www.hankyung.com/article/2026081753211",
-    "title": "서울 로보택시 플랫폼 두고 택시·플랫폼·카셰어링 격돌",
-    "summary": [
-      "서울 로보택시 플랫폼 두고 택시·플랫폼·카셰어링 격돌."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n0c0a66ff",
-    "category": "IT",
-    "source": "한경IT",
-    "time": "9분 전",
-    "url": "https://www.hankyung.com/article/2026081753181",
-    "title": "네이버 추월한 구글?…매일 이용은 네이버가 '1위'",
-    "summary": [
-      "네이버 추월한 구글?…매일 이용은 네이버가 '1위'."
-    ],
-    "chips": [
-      "#네이버"
-    ]
-  },
-  {
-    "id": "n63dce695",
-    "category": "IT",
-    "source": "한경IT",
-    "time": "9분 전",
-    "url": "https://www.hankyung.com/article/2026081753191",
-    "title": "KT-서울대병원 협력…AX 플랫폼 구축 나서",
-    "summary": [
-      "KT-서울대병원 협력…AX 플랫폼 구축 나서."
-    ],
-    "chips": [
-      "#의료"
-    ]
-  },
-  {
-    "id": "n2292d132",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "10분 전",
-    "url": "https://www.newsis.com/view/NISX20260817_0003751590",
-    "title": "中, 트럼프 北 언급에 \"한반도 문제, 정치적 해결 필요\"",
-    "summary": [
-      "[베이징=뉴시스]박정규 특파원 = 도널드 트럼프 미국 대통령이 북한과의 관계를 언급하면서 한·미 합동 군사훈련 축소를 지시한 데 대해 중국 정부가 한반도 문제에 대한 원론적인 입장을 재차 강조했다.",
-      "린젠 중국 외교부 대변인은 17일 정례브리핑에서 트럼프 대통령의 언급과 관련해 중국이 북·미 간 대화 재개를 지지하는지를 묻는 질문에 이같이 답했다.",
-      "린 대변인은 \"우리는 관련 보도에 주목했다\"며 \"조선반도(한반도)의 평화·안정을 수호하고 반도 문제."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "ne873ba0f",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "11분 전",
-    "url": "https://www.newsis.com/view/NISX20260817_0003751551",
-    "title": "섬닥터 일부 통계 오류…해수부 \"검증·성과 관리 강화할 것\"",
-    "summary": [
-      "[서울=뉴시스] 변해정 기자 = 해양수산부가 의료 취약지역인 섬 주민들이 안정적인 비대면 진료 서비스를 이용할 수 있도록 '섬닥터 사업' 관리를 보다 강화한다.",
-      "해수부는 17일 보도설명자료를 내고 \"진료 건수, 이용 인원, 초진·재진 등 주요 실적의 산출 기준을 명확히 하고 사업자 제출 자료에 대한 검증을 강화하겠다\"고 밝혔다.",
-      "해수부는 또 \"의료계를 포함한 외부 전문가의 자문을 통해 서비스 효과 등을 보다 객관적으로 평가하고 시스템 설치부터."
-    ],
-    "chips": [
-      "#의료"
-    ]
-  },
-  {
-    "id": "n66663da7",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "12분 전",
-    "url": "https://www.chosun.com/sports/world-baseball/2026/08/17/GBRGMZJZGVTDKZDDMQYDAOJSMU/",
-    "title": "'977억에 이어 3400억도 먹튀인가' 감독도 호소 \"우리도 이유 모른다\"",
-    "summary": [
-      "[스포츠조선 나유리 기자]최고 대우를 받고 이적했는데, 하필 첫 시즌 최악의 부진에 빠졌다.",
-      "감독은 \"우리도 부진의 이유를 모르겠다\"며 답답해했다.",
-      "LA 다저스 카일 터커가 궁지에 몰려있다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n7d97597a",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "13분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260817052351083",
-    "title": "中 7월 산업생산 4.5%↑·소매판매 0.6%↑…시장 전망치 밑돌아(종합)",
-    "summary": [
-      "(베이징=연합뉴스) 정성조 특파원 = 중국의 7월 산업 생산과 소매 판매 실적이 모두 시장 전망치를 밑돌았다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n755e7d43",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "14분 전",
-    "url": "https://www.newsis.com/view/NISX20260817_0003751598",
-    "title": "[속보]통영대전고속도로(대전 방향) 통영TG 통제…북통영IC 우회",
-    "summary": [
-      "후속기사가 이어집니다 ◎공감언론 뉴시스 sky@newsis.com."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n9b68191f",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "14분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260817058400051",
-    "title": "집중호우로 부산서 빈집 2채 붕괴…4곳서 24명 대피",
-    "summary": [
-      "(부산=연합뉴스) 김재홍 기자 = 광복절 연휴에 내린 많은 비로 부산에서 빈집 2채가 붕괴해 이웃 주민들이 긴급하게 대피했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nc3c639c3",
-    "category": "경제",
-    "source": "아시아경제",
-    "time": "16분 전",
-    "url": "https://view.asiae.co.kr/article/2026081718133212421",
-    "title": "유명현 산청군수, 집중호우 대비 긴급 점검… “인명피해 예방 최우선”",
-    "summary": [
-      "경남 산청군이 호우주의보 발효에 따라 인명피해 예방을 위한 재난 대응체계를 강화하고 있다.",
-      "유명현 산청군수는 지난 16일 오전 9시 재난상황실에서 담당관과 국·과장 등이 참석한 가운데 '호우대응 긴급 점검 회의'를 주재하고 집중호우에 따른 읍·면별 대응 상황과 주요 재난취약지역의 안전관리 실태를 점검했다.",
-      "이날 회의에서는 계곡·하천·야영장 등 피서객 이용지역의 안전관리와 출입 통제, 산사태 취약지역과 급경사."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n19ce629b",
-    "category": "스포츠",
-    "source": "아시아경제",
-    "time": "29분 전",
-    "url": "https://view.asiae.co.kr/article/2026081410481218689",
-    "title": "18조원에 LA레이커스 팔리던데…롯데자이언츠도 투자자산이 될 수 있을까 [주末머니]",
-    "summary": [
-      "미국프로농구(NBA) 명문구단 LA 레이커스가 프로 스포츠 사상 최고가에 팔렸다.",
-      "지난 12일(현지시간) 벤처투자가 조시 쿠슈너와 전 월트디즈니 최고경영자(CEO) 밥 아이거는 레이커스를 125억달러(약 18조원)에 인수하기로 했다.",
-      "레이커스는 불과 지난해 100억달러의 기업가치로 새 주인을 맞았는데 1년여 만에 가격이 25% 뛰었다."
-    ],
-    "chips": [
-      "#스타트업"
-    ]
-  },
-  {
-    "id": "n9642d440",
-    "category": "경제",
-    "source": "한국경제",
-    "time": "38분 전",
-    "url": "https://www.hankyung.com/article/2026081753621",
-    "title": "이란전 탈출구 北서 찾는 트럼프…한반도 정세 변수되나",
-    "summary": [
-      "이란전 탈출구 北서 찾는 트럼프…한반도 정세 변수되나."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n841bcb29",
-    "category": "경제",
-    "source": "한국경제",
-    "time": "39분 전",
-    "url": "https://www.hankyung.com/article/202608175249i",
-    "title": "금감원 노조 \"지방 이전은 초악수... 금융소비자 피해 우려\"",
-    "summary": [
-      "금감원 노조 \"지방 이전은 초악수... 금융소비자 피해 우려\"."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nf6a547ad",
-    "category": "경제",
-    "source": "한국경제",
-    "time": "40분 전",
-    "url": "https://www.hankyung.com/article/2026081753541",
-    "title": "트럼프 \"한·미훈련 축소\"…北에 유화 제스처",
-    "summary": [
-      "트럼프 \"한·미훈련 축소\"…北에 유화 제스처."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
   }
 ];
 
@@ -631,9 +633,9 @@ window.NEWS_DB = [
 window.KEYWORD_TOP = [
   {
     "rank": 1,
-    "tag": "뉴스",
-    "mentions": "2720건",
-    "trend": "+315%"
+    "tag": "정치",
+    "mentions": "2070건",
+    "trend": "+215%"
   },
   {
     "rank": 2,
@@ -643,9 +645,9 @@ window.KEYWORD_TOP = [
   },
   {
     "rank": 3,
-    "tag": "반도체",
-    "mentions": "1550건",
-    "trend": "+135%"
+    "tag": "뉴스",
+    "mentions": "1940건",
+    "trend": "+195%"
   }
 ];
 // ====AUTO-GENERATED-END====
