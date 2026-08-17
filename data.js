@@ -1,320 +1,6 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-08-17 10:21:12
+// 마지막 업데이트: 2026-08-17 11:16:31
 window.NEWS_DB = [
-  {
-    "id": "n429d6ff4",
-    "category": "IT",
-    "source": "서울파이낸스",
-    "time": "8시간 전",
-    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9zY2pmOTFvV2E1V09oWTh1SERKN01OVHBZNk03bDlYVmFqZ2RXWk1aUjZQTkVWY1M5YWpXeHJtZi1oREpMR25wcG5hTldPMURzeFV0OE9LT1E1dEVqWC1ZM3U4N3hEOFd0eVE?oc=5",
-    "title": "[반도체 패권 전쟁 ④] 삼성전자·SK하이닉스의 승부수···HBM 넘어 ‘AI 반도체 기업’으로 진화하라",
-    "summary": [
-      "[반도체 패권 전쟁 ④] 삼성전자·SK하이닉스의 승부수···HBM 넘어 ‘AI 반도체 기업’으로 진화하라 서울파이낸스."
-    ],
-    "chips": [
-      "#AI",
-      "#반도체",
-      "#삼성전자",
-      "#SK하이닉스"
-    ]
-  },
-  {
-    "id": "nac2a7a3e",
-    "category": "IT",
-    "source": "2news.co.kr",
-    "time": "10시간 전",
-    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5kV2VpYktBZU9IMzlCU25SdlVyLWRhc1cxbFdReWxDU25NQlVIM3ZFTlVpdlBxa3paVHdxMS1oZEE0d0phbmFWbjIxUTBYS1FITFhQNHBCTGhzLW45cmhOWG9MbHhNelNz?oc=5",
-    "title": "미국 반도체 통제 속에서도 중국 AI 모델이 성장하는 배경",
-    "summary": [
-      "미국 반도체 통제 속에서도 중국 AI 모델이 성장하는 배경 2news.co.kr."
-    ],
-    "chips": [
-      "#AI",
-      "#반도체"
-    ]
-  },
-  {
-    "id": "n066dd761",
-    "category": "IT",
-    "source": "자본시장뉴스",
-    "time": "1일 전",
-    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5IQ2o3T1ZLbVc1Tkk4NjBFb1FxRktIN25PbkhCejZzUUpmZGpnQnJLTXpJdENqdlJPNlFZcWlVb3d4XzdRRk5vZV8zQnJvXzc3QVk1ZE9FVDB6TDZKakRsZkdtVGd1LU0?oc=5",
-    "title": "인텔 21조 유상증자…삼성전자, 메모리 고객 얻고 파운드리 경쟁자 얻다",
-    "summary": [
-      "인텔 21조 유상증자…삼성전자, 메모리 고객 얻고 파운드리 경쟁자 얻다 자본시장뉴스."
-    ],
-    "chips": [
-      "#반도체",
-      "#삼성전자"
-    ]
-  },
-  {
-    "id": "n24495d23",
-    "category": "IT",
-    "source": "조선일보",
-    "time": "2일 전",
-    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQZUU1WkdSb3JwYjJYTnJuRHdBQ1c2NnFvai1VRGNJNEM3cFlkTHBBY0RZaFoxUy1Jb2lMcFhERUNVb1BxWTNrOFY2NEV4Vm4xMW1RX0dyV3pVdVp5aGRwTkxKd3daYjZkTVppWnU5ZVk3WGhINjMyVV91RklPVy15SXFQZw?oc=5",
-    "title": "엔비디아, 오픈AI 데이터센터 ‘채무 보증’ 절반 축소",
-    "summary": [
-      "엔비디아, 오픈AI 데이터센터 ‘채무 보증’ 절반 축소 조선일보."
-    ],
-    "chips": [
-      "#AI",
-      "#엔비디아"
-    ]
-  },
-  {
-    "id": "n9763e68e",
-    "category": "사회",
-    "source": "투데이경제",
-    "time": "2일 전",
-    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBEZVV0SG5SS2kwVUNpWjN4X19kU2JxOTFqY293UVVaUTc4UkxKLWVOMTFBS21XY1dTejB4YlVQY3RvV0d5SGZjNU1fVUxZVjQwcXFHZFk5MVBSdjNZZFJkc2tPZVlIOHdLSldv?oc=5",
-    "title": "수원특례시, 8월 '일자리 두드림 구인·구직의 날' 개최한다… 5개 업체 참여해 18명 채용",
-    "summary": [
-      "수원특례시, 8월 '일자리 두드림 구인·구직의 날' 개최한다… 5개 업체 참여해 18명 채용 투데이경제."
-    ],
-    "chips": [
-      "#채용",
-      "#취업",
-      "#고용"
-    ]
-  },
-  {
-    "id": "n5e7afdfd",
-    "category": "IT",
-    "source": "비즈니스포스트",
-    "time": "3일 전",
-    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9BZThJckF2RlR3cVdldGZxbWVrNTZpMVRoYkQ3bGlPREF3cDBFV2dWeXowQ3paVmFTV2hzSVhpZUpETUdnR0lDa3FNTHEzODdYOUwxMGNWUWQ0dk9vdDZzVzBWbkJtdnR1a0NjTWZkaVFxMkk?oc=5",
-    "title": "엔비디아 차세대 AI 반도체 '파인만' 양산 서두르나, 삼성전자 SK하이닉스 HBM 경쟁에도 변수",
-    "summary": [
-      "엔비디아 차세대 AI 반도체 '파인만' 양산 서두르나, 삼성전자 SK하이닉스 HBM 경쟁에도 변수 비즈니스포스트."
-    ],
-    "chips": [
-      "#AI",
-      "#반도체",
-      "#엔비디아",
-      "#삼성전자"
-    ]
-  },
-  {
-    "id": "n42644652",
-    "category": "경제",
-    "source": "Mshale",
-    "time": "3일 전",
-    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1MYTc5X29yOThmZk9vT2Zlak9nc2NQM3Mwbkk3TDlsQlUxOUZXS0F5WVBhWHlGOUttOEJObDBrUVNpR1F3czJ0dm5KeG0tb0FmU203VFhWTzc1bjg?oc=5",
-    "title": "한국은행 내일 금리 인상, 결국 증시 '이렇게' 된다 | 신얼 상상인증권 팀장 | 전략 인사이드 Dent (1QuaK5uCbd)",
-    "summary": [
-      "한국은행 내일 금리 인상, 결국 증시 '이렇게' 된다 | 신얼 상상인증권 팀장 | 전략 인사이드 Dent (1QuaK5uCbd) Mshale."
-    ],
-    "chips": [
-      "#금리",
-      "#한은"
-    ]
-  },
-  {
-    "id": "n1058f97e",
-    "category": "스포츠",
-    "source": "네이트",
-    "time": "3일 전",
-    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8yc083aVJTcjRRMW96ZThmS0J5NnYtWjFpdVpkWlpPMjA2RVhzQzF5dzVTcGhHdUJFaWRDUmdjY053NEFkY2g4dzZmZmNYQW5saFg4YVV4NG1sbkx0bTFMWg?oc=5",
-    "title": "맑은 하늘 아래 펼쳐지는 KBO리그",
-    "summary": [
-      "맑은 하늘 아래 펼쳐지는 KBO리그 네이트."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
-    "id": "n14e5eed8",
-    "category": "IT",
-    "source": "지디넷코리아",
-    "time": "4일 전",
-    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA0QnNPOWgxU3R2U1B4aFlUNjdweHZWUmVTUHV4amc1dURxRUxhbFlBSWxhcEtwR3drUlM4UERTazJHcEhtVzM3Z3R1UVgxTWlJOTBSamF3?oc=5",
-    "title": "류제명 차관 \"30년전 네이버처럼...AI 시대 유니콘 탄생 기대\"",
-    "summary": [
-      "류제명 차관 \"30년전 네이버처럼...AI 시대 유니콘 탄생 기대\" 지디넷코리아."
-    ],
-    "chips": [
-      "#AI",
-      "#스타트업",
-      "#네이버"
-    ]
-  },
-  {
-    "id": "n5ee6ae18",
-    "category": "사회",
-    "source": "아웃소싱타임스",
-    "time": "4일 전",
-    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5zc2F0ZE5OclByMVNLM3M5cTZ0ZFduRE1SaWFVQU9fTjl2U1RoV0RvU3o4NkNTQ2g2b2J3a3FGZGxSRnZHM01mVTNGMV9nOTg3OFc4RmwtZnZzdngtYVQzd0N2c2FSVXdEWVlCMGxIQTZDdw?oc=5",
-    "title": "[화제] 구직자는 늘었는데 취업은 줄었다…2026년 2분기 민간 고용서비스 ‘엇갈린 흐름’",
-    "summary": [
-      "[화제] 구직자는 늘었는데 취업은 줄었다…2026년 2분기 민간 고용서비스 ‘엇갈린 흐름’ 아웃소싱타임스."
-    ],
-    "chips": [
-      "#취업",
-      "#고용"
-    ]
-  },
-  {
-    "id": "n1f2010df",
-    "category": "IT",
-    "source": "매일일보",
-    "time": "5일 전",
-    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1fWTIxODRacVVSWGZrT3VVRU1nYW9xbW9sYlZSR1FVWnFqWlZFR3lyVTRRd1BpbTFrQ2hFdUVEekdjQzVrdVI5SkItcGpkdGlMQW5tMzRVcDE1SmdyWTVlZkNJejc?oc=5",
-    "title": "글로벌 AI 칩·파운드리 경쟁 격화에 삼성·하이닉스 기업가치 고공행진",
-    "summary": [
-      "글로벌 AI 칩·파운드리 경쟁 격화에 삼성·하이닉스 기업가치 고공행진 매일일보."
-    ],
-    "chips": [
-      "#AI",
-      "#반도체"
-    ]
-  },
-  {
-    "id": "n062f98b4",
-    "category": "부동산",
-    "source": "arunews.com",
-    "time": "17일 전",
-    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9Sdmd3SUl0dmRQSWdTck5DVjJ5WXYxTTFmRnBBbEkwa09VclpLd0VsVWFTV2pPRm9sQm1sQmZDb3EyN2lwTVBvZ185RUVycVFnOEdYcHVrcVFnYTdwaGZfUDh2WkFWYndi?oc=5",
-    "title": "서울 아파트값 0.25% 상승… 똘똘한 ‘역세권·대단지’가 집값 견인",
-    "summary": [
-      "서울 아파트값 0.25% 상승… 똘똘한 ‘역세권·대단지’가 집값 견인 arunews.com."
-    ],
-    "chips": [
-      "#부동산"
-    ]
-  },
-  {
-    "id": "nac7d261c",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "17일 전",
-    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1wZmd4RTNaSTBwNVNxSm0yRGFySTlYN19qVTZfYzRtVzBzVV9nSnR3RXdYaTNiNkZRX3F6aXhFZTA5ekUxNW9VWHIzZHFjYnoyWU0wVDNoU2FJcVE?oc=5",
-    "title": "강남구 일자리통합지원센터, 맞춤형 지원으로 취업자 25.7％ 증가",
-    "summary": [
-      "강남구 일자리통합지원센터, 맞춤형 지원으로 취업자 25.7％ 증가 연합뉴스."
-    ],
-    "chips": [
-      "#취업",
-      "#고용"
-    ]
-  },
-  {
-    "id": "n6aa2d332",
-    "category": "경제",
-    "source": "Chosunbiz",
-    "time": "18일 전",
-    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNMFYzUVVCVmVkSGhnX1lDUUZMY3NWS2NYcFVRRWNWRVVkWUw1VHRNZFpzeG5VdU9ub2xGTW84VzI3NVZCV1ppMkRXQ2JZTTgtZi1VWmpkWU1PTlBIRjZCbFVtQ2ZqMndkMW9zbktXN0xkZ3Q1QjN6UDNNOGxKb24xemxPXzBJUdIBmgFBVV95cUxQU05hWUwxVFRDcm5lUkQ1MDJaWTdjMEdEMkJjMmVFZ0xMRFh4cFFic2N5eEl0ZmplNlF4V1RfVEtNMDljc3g4bHdYdTZLZENSUTh4V3pTMVN2VTVQRlowNXZQNWpLdzh5V2c2NDJIWlVZWDVfdVFJY0NuVWp6cWEweDVaWi1wZkNTNGljS09fNFVGNVJ2Nk9lOVVR?oc=5",
-    "title": "[경제 포커스] 주가·환율 함께 떨어지는 이유는… “기업 달러 매도 본격화” - 조선비즈",
-    "summary": [
-      "[경제 포커스] 주가·환율 함께 떨어지는 이유는… “기업 달러 매도 본격화” - 조선비즈 Chosunbiz."
-    ],
-    "chips": [
-      "#환율"
-    ]
-  },
-  {
-    "id": "n56609ab4",
-    "category": "IT",
-    "source": "스타트업엔(StartupN)",
-    "time": "19일 전",
-    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE00TU4tZU4wcXlLZDJUdFMwQ3Vnb0VKR3pkVXFxbEdPVTgyclhaZG9CY1J6eHZndWRKZnVYbnJVdTh0OUEzbFdndklMLVdjMXIycmQxOURNOUFMejVYLW5GMW5pMS1iVWs20gFsQVVfeXFMT2NUNG9FcGZiaUduVXlSZFdfZ09nTWJfMVBYVUFHYVZqczQxelFGT1ZsYnBNZGtNTFBWcDBCZWNUTUhnTlRjMGdwdXcwTnRCRGdDSW1OZmNKRlgzNk5JeHZIMU5nTjhfckdCTTda?oc=5",
-    "title": "경기혁신센터·경기벤처협회, 유망 기술기업 투자 연계 ‘유니콘 브릿지 IR’ 개최",
-    "summary": [
-      "경기혁신센터·경기벤처협회, 유망 기술기업 투자 연계 ‘유니콘 브릿지 IR’ 개최 스타트업엔(StartupN)."
-    ],
-    "chips": [
-      "#스타트업"
-    ]
-  },
-  {
-    "id": "n1a764c5a",
-    "category": "부동산",
-    "source": "뉴스핌",
-    "time": "25일 전",
-    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5jaXQ1a1BmNlN6TVZWV29ucG5jajY3WlJIb2FQNEVPMnJXRWdYVHhxWnFnb3R6MG8tX3lsTTFxNFdFVjlzNmtMaFZVV0UtUUN1VWc4VEVScy1iWFIt?oc=5",
-    "title": "집값·전셋값 뛰는데 청약 경쟁률은 '뚝'…수도권 주택시장 엇박자",
-    "summary": [
-      "집값·전셋값 뛰는데 청약 경쟁률은 '뚝'…수도권 주택시장 엇박자 뉴스핌."
-    ],
-    "chips": [
-      "#부동산"
-    ]
-  },
-  {
-    "id": "n252753ca",
-    "category": "IT",
-    "source": "유니콘팩토리",
-    "time": "64일 전",
-    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBWSXM4dUswTlRBOFdwTWM1SzFqWHRkU3R3SzVNOGR0QnR5RzllZ2QzZXFHNWlGMko3bFJ1SHlJS2VINElKZndpbnVQSlFfWGRrUk5DYXFqc3ZhYXJFUHNCNFJSOERyMWVuLWZDNA?oc=5",
-    "title": "폭염만큼 뜨거운 딥테크 투자 열기…창업 한달 만에 160억 유치 기업도",
-    "summary": [
-      "폭염만큼 뜨거운 딥테크 투자 열기…창업 한달 만에 160억 유치 기업도 유니콘팩토리."
-    ],
-    "chips": [
-      "#스타트업"
-    ]
-  },
-  {
-    "id": "nabfa15b0",
-    "category": "경제",
-    "source": "YTN",
-    "time": "68일 전",
-    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE50bVBaMGNlWG1LRkQ2OEh1YUF0cjlWc1EwdS1URDE1ZzJpajQzYmtTdUpGZk9yOWc0V1REZF9fNmVWOU4yVFVhbzhtQzNzMUg3b0ZfVkhVd1dxVGl0OXc?oc=5",
-    "title": "\"韓 적정 환율은 얼마일까?\" 환율 vs 금리 vs 증시 상관관계 집중해부",
-    "summary": [
-      "\"韓 적정 환율은 얼마일까?\" 환율 vs 금리 vs 증시 상관관계 집중해부 YTN."
-    ],
-    "chips": [
-      "#금리",
-      "#환율"
-    ]
-  },
-  {
-    "id": "nb9bdfdfb",
-    "category": "스포츠",
-    "source": "foodtoday.or.kr",
-    "time": "80일 전",
-    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9BVmpLTU1zOFZsU1RWVmVOSXppaWhDWFBBRkF4akI3WHBIcXIyX2pXa3JaeXplMm9vbmE4cU1PclhFTXVZdURxQ0RCYTF3aFNsbmRKcTZ5VE9na0cwakQ2XzNuWlJ5QQ?oc=5",
-    "title": "‘손흥민 월드콘.KBO몽쉘’ 축구.야구팬 다 잡자...롯데웰푸드, 스포츠마케팅 총력",
-    "summary": [
-      "‘손흥민 월드콘.KBO몽쉘’ 축구.야구팬 다 잡자...롯데웰푸드, 스포츠마케팅 총력 foodtoday.or.kr."
-    ],
-    "chips": [
-      "#손흥민",
-      "#KBO"
-    ]
-  },
-  {
-    "id": "n5a1617c5",
-    "category": "부동산",
-    "source": "헤럴드경제",
-    "time": "97일 전",
-    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1TS2Q2aDJMQXUtYUMtcmZTZkUtNXVycDVXUTFSYk1oeTg4TXNFTXQxN3RtcGVlRUJxMWlMWXk0c05lRFFvemxzYk0wa1hsZXMwbm1hVWtn?oc=5",
-    "title": "집값 상승, 전세품귀에…서울, 분양전망 1달 만에 기준치 회복 [부동산360]",
-    "summary": [
-      "집값 상승, 전세품귀에…서울, 분양전망 1달 만에 기준치 회복 [부동산360] 헤럴드경제."
-    ],
-    "chips": [
-      "#부동산",
-      "#전세"
-    ]
-  },
-  {
-    "id": "n783ebe44",
-    "category": "스포츠",
-    "source": "테크M",
-    "time": "138일 전",
-    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4zeE1CWFFHZzZrMjhfLXJoWERMeW9jVzI5eF91RWV1NUxXelFvT1U5YWpyRjZaQ1NqclNTR1hoRWEwYl9qQmc4WTh5Q29TSWROU3ptQ1ZmXy1rajBVczZ1T1A0RXZ0UdIBakFVX3lxTE4tUUs3ak9IVFI3ZEtUQmg5NUpZbWRwdUN5OEFTU2JqaWN4WWJzMVJVc0pLU1U0UzVZTkRKMlRZSUIyNmhPVjVWMzBTVGxocHc2VUdVZl9rRWdUaXVxTjFSdUpzTzFPdEZHdnc?oc=5",
-    "title": "'야구·축구·골프'로 갈라진 국내 OTT...스포츠 팬덤 경쟁 격화",
-    "summary": [
-      "'야구·축구·골프'로 갈라진 국내 OTT...스포츠 팬덤 경쟁 격화 테크M."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
   {
     "id": "n14a65575",
     "category": "IT",
@@ -331,10 +17,256 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n311eb12a",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "1분 전",
+    "url": "https://www.donga.com/news/Entertainment/article/all/20260817/134491355/1",
+    "title": "쥬얼리 박정아, 초1 딸 둔 엄마 근황",
+    "summary": [
+      "그룹 ‘쥬얼리’ 출신 가수 겸 배우 박정아가 남다른 예능감을 뽐낸다.17일 오후 10시 방송하는 채널A 예능 프로그램 ‘탐정들의 영업비밀’(탐비)에는 최근 20년 만에 완전체로 돌아온 쥬얼리 리더 박정아가 일일 탐정으로 출연한다.결혼 11년 차이자 초등학교 1학년 딸을 둔 박정아는 이날 방송에서 부부싸움 후 분노를 다스리는 비결을 밝힌다.",
+      "그는 “내 마음의 이너피스를 찾기 위해 뜨개질로 수세미를 짜며 분노를 표출한다”고 고백한다.MC 데프콘이."
+    ],
+    "chips": [
+      "#교육"
+    ]
+  },
+  {
+    "id": "nc4212330",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "3분 전",
+    "url": "https://www.newsis.com/view/NISX20260817_0003751654",
+    "title": "김민석 與대표 1호 인선…비서실장 김태선·수석대변인 박성준",
+    "summary": [
+      "[서울·대전=뉴시스]정금민 권신혁 김윤영 기자 = 김민석 더불어민주당 신임 당대표가 17일 김태선 의원(초선)을 당 대표 비서실장, 박성준 의원(재선)을 수석대변인으로 각각 임명했다.",
+      "박 수석대변인은 이날 대전컨벤션센터에서 열린 최고위원회의 후 취재진과 만나 \"1차 최고위원회를 열어 (인선안을) 의결했다\"고 밝혔다.",
+      "박 수석대변인은 이재명 대통령이 당 대표이던 시절 수석대변인을, 박찬대 원내대표 체제에서는 원내수석부대표를 지냈다."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "ne029f5f7",
+    "category": "경제",
+    "source": "연합뉴스",
+    "time": "4분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260817058552001",
+    "title": "민주, 새 당대표에 '친명' 김민석…\"내우외환 반드시 돌파\"(종합)",
+    "summary": [
+      "(서울·대전=연합뉴스) 박경준 정연솔 기자 = 더불어민주당 김민석 의원(62·4선·서울 영등포을)이 이재명 정부의 두 번째 여당 대표로 선출됐다..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n2d32a7b2",
+    "category": "부동산",
+    "source": "아시아경제",
+    "time": "4분 전",
+    "url": "https://view.asiae.co.kr/article/2026081720120386026",
+    "title": "김민석 신임 與대표, 첫 일정은 거제 수해현장…수석대변인에 박성준",
+    "summary": [
+      "김민석 더불어민주당 신임 대표는 17일 당선 직후 폭우 피해를 입은 경남 거제로 출발했다.",
+      "김 대표는 1호 인선으로 수석대변인에 재선의 박성준 의원을, 비서실장에 초선 김태선 의원을 임명했다.",
+      "박 수석대변인은 이날 대전에서 전당대회를 마친 뒤 기자들과 만나 \"비 피해가 매우 심각해서 경남 거제로 지금 김 대표가 출발했다\"고 밝혔다."
+    ],
+    "chips": [
+      "#부동산"
+    ]
+  },
+  {
+    "id": "n46d85b0c",
+    "category": "IT",
+    "source": "아시아경제",
+    "time": "6분 전",
+    "url": "https://view.asiae.co.kr/article/2026081720095082542",
+    "title": "KT, 현장 엔지니어 500명 육성…\"AX 경쟁력은 현장\"",
+    "summary": [
+      "KT가 인공지능 전환(AX) 사업의 실행력을 높이기 위해 '현장 배치 엔지니어'(FDE)를 육성한다.",
+      "17일 업계에 따르면 KT는 향후 2년 내 500명 이상의 FDE를 육성할 계획이다.",
+      "FDE는 고객사의 업무 환경과 과제를 술·데이터 기반으로 직접 파악하고, AX 프로젝트의 제안부터 구축·운영까지 전 과정을 현장에서 주도하는 엔지니어를 말한다."
+    ],
+    "chips": [
+      "#AI",
+      "#교육",
+      "#의료",
+      "#환경"
+    ]
+  },
+  {
+    "id": "nd8ce230d",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "7분 전",
+    "url": "https://www.newsis.com/view/NISX20260817_0003751452",
+    "title": "친청계, 최고위원 5명 중 3명으로 다수 차지…친명 '막판 지원'에도 김용 낙선",
+    "summary": [
+      "[서울=뉴시스] 김난영 기자 = 17일 마무리된 더불어민주당 전당대회의 관전 포인트 한 축은 최고위원 경쟁이었다.",
+      "개표 결과 5명의 선출직 최고위원 중 친명계가 2명, 친청계가 3명으로 친청계가 다수를 차지했다.",
+      "친명계인 임미애·김영호 후보가 막판에 사퇴하면서 김용 후보를 지원했지만 결국 김용 후보는 당선되지 못했다."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n70fb9883",
+    "category": "부동산",
+    "source": "동아일보",
+    "time": "7분 전",
+    "url": "https://www.donga.com/news/Society/article/all/20260817/134490477/1",
+    "title": "거제 600㎜ 극한 폭우…아파트 1층 덮친 산사태에 1명 사망",
+    "summary": [
+      "“새벽에 지진이 난 것처럼 집이 흔들렸어요.",
+      "침대까지 휘청일 정도였습니다.”17일 경남 거제시 옥포동 삼도로얄아파트 104동 8층의 한 주민은 “거센 진동에 깨어나 창밖을 내다봤다가 산비탈이 무너진 사실을 알았다”며 이렇게 말했다.",
+      "엘리베이터가 멈춘 탓에 계단으로 뛰어 내려가니 1층 일부 가구는 이미 천장까지 토사가 들어차 손을 댈 수 없는 상태였다."
+    ],
+    "chips": [
+      "#부동산"
+    ]
+  },
+  {
+    "id": "n55a1ef09",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "7분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260817066800099",
+    "title": "이라크 쿠르드자치정부 총리 \"이란 드론이 총리실 공격\"",
+    "summary": [
+      "(요하네스버그=연합뉴스) 나확진 특파원 = 마스루르 바르자니 이라크 쿠르드자치정부(KRG) 총리가 17일(현지시간) 자신의 사무실 등이 이란 드..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nc3ed285d",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "13분 전",
+    "url": "https://www.chosun.com/entertainments/broadcast/2026/08/17/MUZTSZLDMIYDANBWHE3GIOJTGA/",
+    "title": "하하, 첫 콘서트 앞두고 깜짝 고백 \"아는 사람들 앞에서 노래하기 싫어\" ('짐종국')",
+    "summary": [
+      "영상 시청 후 작성된 리뷰 기사입니다.[OSEN=최지연 기자] 방송인 겸 가수 하하가 지인 앞에서 공연하는 것의 고충을 토로했다.",
+      "17일 유튜브 채널 '짐종국'에는 '해병대 선임과 대선배 사이...",
+      "로이킴, 하하, 김장훈, 마선호)'라는 제목의 영상이 게재됐다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n1e30ba47",
+    "category": "스포츠",
+    "source": "뉴시스",
+    "time": "14분 전",
+    "url": "https://www.newsis.com/view/NISX20260817_0003751653",
+    "title": "[전문]김민석 더불어민주당 신임 당대표 수락 연설문",
+    "summary": [
+      "[서울=뉴시스]신재현 한재혁 권신혁 김윤영 기자 = 김민석 신임 더불어민주당 대표가 17일 선출됐다.",
+      "6개 권역 권리당원 투표에서 누적 49.91%(대구·경북·경남 5% 가산 시 49.90%)로 정청래 후보를 8.40%p 앞지른 김 후보는 대의원 투표와 여론조사 결과 합산, 선호투표를 통한 표 재배분 결과 54.08%로 최종 승리를 확정했다.",
+      "다음은 김 대표 수락연설 전문."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "na303e69e",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "15분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260817066500001",
+    "title": "김민석 대표비서실장에 김태선…수석대변인은 박성준",
+    "summary": [
+      "(대전·서울=연합뉴스) 최평천 최주성 기자 = 더불어민주당 김민석 신임 대표는 17일 당 대표 비서실장에 김태선 의원, 수석대변인에 박성준 의원..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n56eb3730",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "16분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260817055900004",
+    "title": "[날씨] 남부지방 곳곳 비…제주·경남남해안 최대 60㎜ '우산 챙기세요'",
+    "summary": [
+      "(서울=연합뉴스) 양수연 기자 = 화요일인 18일 중부지방은 구름이 많겠고 남부지방과 제주도는 대체로 흐리겠다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n46b6d269",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "20분 전",
+    "url": "https://www.chosun.com/politics/politics_general/2026/08/17/UBRWB2I6DRAL7NSRDKFWIJHS7M/",
+    "title": "[속보]김민석 신임 與 대표, 거제 수해 현장으로 출발",
+    "summary": [
+      "[속보]김민석 신임 與 대표, 거제 수해 현장으로 출발."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nbefc6e3b",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "22분 전",
+    "url": "https://www.donga.com/news/Inter/article/all/20260817/134491036/1",
+    "title": "英 총리도 낚였다…백악관 비서실장 사칭범에 속아 문자 주고받아",
+    "summary": [
+      "앤디 버넘 영국 총리가 수지 와일스 미국 백악관 비서실장을 사칭한 범인에게 속아 문자 메시지를 수차례 주고 받았다고 미 정치매체 폴리티코가 17일(현지 시간) 전했다.버넘 총리와 사칭범 사이에 어떤 내용의 메시지가 몇 차례나 오갔는지에 대해선 알려지지 않았다.",
+      "다만 영국 정부 관계자는 “메시지는 몇 통에 불과했고, 별다른 의미는 없는 내용이었다”며 버넘 총리가 가짜임을 알아차린 뒤 신속히 당국에 신고했다고 전했다.",
+      "이날 총리실은 “국가안보 문제."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n99e60d3c",
+    "category": "경제",
+    "source": "아시아경제",
+    "time": "25분 전",
+    "url": "https://view.asiae.co.kr/article/2026081719510775667",
+    "title": "[속보] 김민석 1호 인선…당대표 비서실장 김태선·수석대변인 박성준",
+    "summary": [
+      "[속보] 김민석 1호 인선…당대표 비서실장 김태선·수석대변인 박성준."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "ne84ccc25",
+    "category": "스포츠",
+    "source": "동아일보",
+    "time": "28분 전",
+    "url": "https://www.donga.com/news/Sports/article/all/20260817/134488838/1",
+    "title": "‘월드컵 골든볼’ 로드리, 맨시티 떠나 FC바르셀로나 입단…이적료 6500만 파운드",
+    "summary": [
+      "2026 북중미 월드컵 ‘골든볼(최우수선수)’ 수상자 로드리(30·스페인)가 잉글랜드 프리미어리그(EPL) 맨체스터시티를 떠나 스페인 라리가 FC바르셀로나(바르사)의 유니폼을 입는다.",
+      "영국 BBC는 17일 “바르사와 맨시티가 로드리 이적에 합의했다.",
+      "이적료는 약 6500만 파운드(약 1245억 원)다”라고 보도했다."
+    ],
+    "chips": [
+      "#EPL"
+    ]
+  },
+  {
     "id": "naa04a821",
     "category": "IT",
     "source": "테크M",
-    "time": "방금 전",
+    "time": "45분 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=154380",
     "title": "[타봤다] 우아함과 야성이 공존하는 슈퍼카...마세라티 MCPURA 첼로",
     "summary": [
@@ -347,223 +279,102 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nc3aea004",
-    "category": "사회",
-    "source": "아시아경제",
-    "time": "방금 전",
-    "url": "https://view.asiae.co.kr/article/2026081719202767817",
-    "title": "김민석 \"이재명 정부와 전면 협력…'창조적 수평관계'\"",
-    "summary": [
-      "김민석 더불어민주당 신임 당대표가 17일 이재명 정부와의 전면적인 협력을 약속하면서도 당이 정부를 일방적으로 지원하는 데 그치지 않는 '창조적 수평관계'를 구축하겠다고 밝혔다.",
-      "김 대표는 이날 대전컨벤션센터에서 열린 민주당 전당대회에서 당대표로 선출된 뒤 수락연설에서 \"당·청 관계, 당정관계는 국정 중심인 대통령과 정부를 지원하는 전면 협력의 창조적 수평관계가 될 것\"이라고 말했다."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n557975fb",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "1분 전",
-    "url": "https://www.newsis.com/view/NISX20260814_0003750002",
-    "title": "김민석, '운동권 황태자'에서 '18년 야인' 부침 끝 여당 대표로…'배신' 주홍글씨 씻었다[與 김민석 체제]",
-    "summary": [
-      "[서울=뉴시스] 김난영 기자 = 더불어민주당 8·17 전당대회에서 김민석 후보가 신임 당대표로 당선됐다.",
-      "86세대 운동권 황태자에서 2002년 '노무현 후보 배신 논란'과 뒤이은 18년의 야인 생활 등 기나긴 정치적 부침 끝에 집권 여당 수장 자리를 거머쥐었다.",
-      "이번 전당대회 기간 김 후보의 최대 과제는 '배신' 이미지 불식이었다."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "ned190f27",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "3분 전",
-    "url": "https://www.newsis.com/view/NISX20260817_0003751620",
-    "title": "산림청, 호우 피해 거제·통영에 산림장비·인력 급파",
-    "summary": [
-      "[대전=뉴시스] 김양수 기자 = 산림청이 기록적인 집중호우로 산사태와 침수피해가 발생한 경남 거제와 통영에 산림진화장비 및 인력을 긴급 투입해 복구지원에 나섰다.",
-      "산림청은 17일 지방정부의 신속한 피해수습을 돕기 위해 고성능·다목적산불진화차와 굴삭기·트럭 등 장비 37대, 산림재난특수진화대 76명을 거제·통영 피해현장에 급파했다고 밝혔다.",
-      "산림청은 또 피해수습을 지원키 위해 과장급으로 구성된 현장수습지원단을 현장에 파견, 지방정부의 복구업무를."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nd9a5e710",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "7분 전",
-    "url": "https://www.newsis.com/view/NISX20260814_0003749692",
-    "title": "'선명성' 대신 '안정' 택한 與 당심…李정부 지지에 힘 실었다[與 김민석 체제]",
-    "summary": [
-      "[서울=뉴시스]정금민 기자 = 더불어민주당 새 당 대표에 '당정 원팀'을 강조해온 김민석 후보가 선출됐다.",
-      "집권 2년차 이재명 정부의 정책 기조와 궤를 맞춰야 한다는 방향성이 담긴 표심으로 보인다.",
-      "이번 전당대회는 이른바 대의원·권리당원 1인 1표제 첫 도입에 따른 변수로 승패 예측이 어려웠으나, 김 대표가 명심'(明心·이재명 대통령 의중)' 주자라는 점이 승부에 영향을 미쳤다는 분석이 나온다."
-    ],
-    "chips": [
-      "#정책",
-      "#정치"
-    ]
-  },
-  {
-    "id": "nb914fec8",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "7분 전",
-    "url": "https://www.newsis.com/view/NISX20260817_0003751524",
-    "title": "與 수석 최고위원 최민희…박선원·서미화·이성윤·한민수 최고위원 당선",
-    "summary": [
-      "[서울=뉴시스] 이창환 한재혁 권신혁 기자 = 더불어민주당 최민희·박선원·서미화·이성윤·한민수 의원이 17일 열린 8·17 전당대회에서 최고위원으로 선출됐다.",
-      "친명(친이재명)계 2명, 친청(친정청래)계 3명이 새 지도부에 합류하게 됐다.",
-      "민주당 중앙당선거관리위원회는 17일 대전 유성구 대전컨벤션센터에서 열린 '제3차 정기전국당원대회'에서 최민희 최고위원 후보가 총득표율 18.35%로 1위, 이어 박선원 후보 17.57%, 서미화 후보 16.60."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n6f0fd2ce",
-    "category": "사회",
-    "source": "아시아경제",
-    "time": "7분 전",
-    "url": "https://view.asiae.co.kr/article/2026081719130363654",
-    "title": "당심은 김민석, 민심은 정청래…집권여당 외연 확장 과제 남겨",
-    "summary": [
-      "8·17 더불어민주당 전당대회에서 김민석 후보가 새 당대표로 선출됐지만, 국민여론조사에서는 정청래 후보가 김 후보를 앞선 것으로 나타났다.",
-      "당의 핵심 지지층인 권리당원과 전국대의원은 김 후보를 선택했지만, 일반 국민을 대상으로 한 조사에서는 정 후보에 대한 선호가 더 높게 나타나면서 민주당 전당대회가 당심과 민심의 온도 차를 보여줬다는 평가가 나온다.",
-      "민주당이 17일 대전컨벤션센터에서 발표한 당대표 선거 결과."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "nd131778b",
+    "id": "na54c7bfe",
     "category": "경제",
-    "source": "연합뉴스",
-    "time": "9분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260817062900001",
-    "title": "[속보] 김민석 \"내우외환 풍파가 몰아닥칠 것…신임 지도부와 돌파\"",
-    "summary": [],
+    "source": "연합뉴스(경제)",
+    "time": "51분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260817063500002",
+    "title": "수은, 구리 안정적 확보 위해 글로벌 자원업체에 10억달러 지원",
+    "summary": [
+      "(서울=연합뉴스) 이도흔 기자 = 한국수출입은행은 구리를 안정적으로 확보하기 위해 글로벌 종합 자원기업 글렌코어에 운영자금 10억달러를 지원한다..."
+    ],
+    "chips": [
+      "#수출"
+    ]
+  },
+  {
+    "id": "ncb050ffd",
+    "category": "사회",
+    "source": "아시아경제",
+    "time": "53분 전",
+    "url": "https://view.asiae.co.kr/article/2026081719231671005",
+    "title": "소방당국, 거제에 3차 국가소방동원령…회복지원차 추가 투입",
+    "summary": [
+      "소방청은 17일 집중호우 피해가 발생한 경남 거제에 3차 국가소방동원령을 발령하고 추가 소방력을 투입했다고 밝혔다.",
+      "부산·울산·전남·창원에서 회복지원차 1대씩 총 4대와 인력 7명이 거제에 추가 투입된다.",
+      "앞서 소방청은 이날 오전 6시 23분과 6시 35분 두 차례 국가소방동원령을 발령해 거제와 통영에 험지펌프차 10대와 인력 24명을 투입했다."
+    ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "nd1d21a31",
+    "id": "ndc268bf3",
     "category": "사회",
-    "source": "동아일보",
-    "time": "11분 전",
-    "url": "https://www.donga.com/news/Politics/article/all/20260817/134491042/1",
-    "title": "[프로필]‘DJ키즈’ 김민석 민주당 대표…굴곡 딛고 집권당 수장 ‘로망’ 실현",
+    "source": "한국경제",
+    "time": "1시간 전",
+    "url": "https://www.hankyung.com/article/202608175489H",
+    "title": "[속보] 김민석 \"당청, 대통령·정부 지원하는 협력의 창조적 수평관계\"",
     "summary": [
-      "17일 더불어민주당을 이끌 수장으로 선출된 김민석(62) 신임 당 대표는 풍부한 의정 경험과 정책 역량을 갖춘 여권의 대표적인 ‘전략통’으로 꼽힌다.",
-      "30대 초반 ‘DJ(김대중 전 대통령) 키즈’로 화려하게 정치권에 입문했지만, 2002년 서울시장 선거 패배 이후 긴 정치적 부침을 겪었다.",
-      "이후 18년 만의 국회 복귀와 이재명 정부 초대 국무총리를 거쳐 집권여당 수장에까지 올랐다.김 후보는 이재명 대통령과 총선·대선부터 국정 운영까지 호흡을 맞."
+      "[속보] 김민석 \"당청, 대통령·정부 지원하는 협력의 창조적 수평관계\"."
     ],
     "chips": [
-      "#정책",
       "#정치"
     ]
   },
   {
-    "id": "ne225a350",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "12분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260817062400001",
-    "title": "[속보] 김민석 \"당청, 대통령·정부 지원하는 협력의 창조적 수평관계\"",
-    "summary": [],
+    "id": "n59a5bafc",
+    "category": "경제",
+    "source": "한국경제",
+    "time": "1시간 전",
+    "url": "https://www.hankyung.com/article/202608175462H",
+    "title": "\"당대표 로망 있다\"던 김민석 말…7개월 뒤 현실 됐다",
+    "summary": [
+      "\"당대표 로망 있다\"던 김민석 말…7개월 뒤 현실 됐다."
+    ],
     "chips": [
-      "#정치"
+      "#뉴스"
     ]
   },
   {
-    "id": "nbb781871",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "13분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260817062300001",
+    "id": "n8126d603",
+    "category": "경제",
+    "source": "한국경제",
+    "time": "1시간 전",
+    "url": "https://www.hankyung.com/article/202608175487H",
     "title": "[속보] 김민석 \"민주당 바꾸겠다…언어·정책·태도·문화 진화\"",
-    "summary": [],
+    "summary": [
+      "[속보] 김민석 \"민주당 바꾸겠다…언어·정책·태도·문화 진화\"."
+    ],
     "chips": [
       "#정책"
     ]
   },
   {
-    "id": "ndfdc2845",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "13분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260817024600001",
-    "title": "3대 메가에 사활 건 김민석號…청년공간 '광화제2당사' 공약도",
-    "summary": [
-      "(서울=연합뉴스) 최주성 기자 = 8·17 전당대회를 통해 더불어민주당의 새 수장으로 17일 선출된 김민석 대표는 이재명 정부와의 공조를 강화하..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nb1ebe6d1",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "18분 전",
-    "url": "https://www.donga.com/news/Politics/article/all/20260817/134490482/2",
-    "title": "[속보]민주당 새 대표 김민석…최종 득표 54.08% 정청래 꺾었다",
-    "summary": [
-      "더불어민주당 8·17 전당대회에서 이재명 정부의 초대 국무총리를 지낸 김민석 후보가 54.08%의 득표율로 당 대표에 당선됐다.",
-      "김 신임 대표의 임기는 2년으로, 2028년 총선 공천 과정을 지휘하게 된다.",
-      "이재명 대통령과 호흡을 맞추며 국정 철학에 대한 이해도가 높은 김 대표가 당을 이끌게 되면서 집권 2년차를 맞은 이재명 정부의 국정 운영에도 한층 탄력이 붙을 것이란 전망이 나온다."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "ndb8b0a94",
-    "category": "사회",
-    "source": "아시아경제",
-    "time": "18분 전",
-    "url": "https://view.asiae.co.kr/article/2026081719025759578",
-    "title": "김민석, 민주당 새 당대표 선출…최고위원에 최민희·박선원·서미화·이성윤·한민수",
-    "summary": [
-      "더불어민주당 새 당대표에 김민석 후보가 선출됐다.",
-      "최고위원에는 최민희·박선원·서미화·이성윤·한민수 후보가 이름을 올렸다.민주당은 17일 대전컨벤션센터에서 열린 제3차 정기전국당원대회에서 이같은 내용의 당대표와 최고위원 선거 결과를 발표했다.",
-      "김 후보는 전국대의원·권리당원 투표와 국민여론조사를 합산한 최종 득표율에서 54.08%를 기록하며 정청래 후보(45.92%)를 8.16%포인트 차로 제쳤다."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "nca07357a",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "21분 전",
-    "url": "https://www.donga.com/news/Politics/article/all/20260817/134491021/1",
-    "title": "[속보]與 최고위원에 최민희·박선원·서미화·이성윤·한민수…김용 탈락",
-    "summary": [
-      "[속보]與 최고위원에 최민희·박선원·서미화·이성윤·한민수…김용 탈락더불어민주당 8·17 전당대회 마무리최종 득표율 최민희 18.35%-박선원 17.57%-서미화 16.60%-이성윤 16.35%-한민수 15.86%-김용 15.26% 순…김용 탈락."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nda87aa0d",
+    "id": "nabf9a97e",
     "category": "경제",
-    "source": "아시아경제",
-    "time": "22분 전",
-    "url": "https://view.asiae.co.kr/article/2026081718573646936",
-    "title": "[속보] 민주당 새 당대표에 김민석 선출…득표율 54.08%",
+    "source": "한국경제",
+    "time": "1시간 전",
+    "url": "https://www.hankyung.com/article/202608175483H",
+    "title": "[속보] 김민석 \"1인1표 당원주권 첫 선택 역사적…당원·국민께 감사",
     "summary": [
-      "[속보] 민주당 새 당대표에 김민석 선출…득표율 54.08%."
+      "[속보] 김민석 \"1인1표 당원주권 첫 선택 역사적…당원·국민께 감사."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nc58a8ed9",
+    "category": "IT",
+    "source": "ZDNet Korea",
+    "time": "1시간 전",
+    "url": "https://zdnet.co.kr/view/?no=20260817185103",
+    "title": "율촌화학, 日토요켐 특허 무효화 무산...침해소송 피소",
+    "summary": [
+      "[지디넷코리아]율촌화학이 일본 화학기업 아티엔스(옛 토요잉크)그룹과 그 계열사인 토요켐이 공동 보유 중인 특허 무효화에 실패했다.",
+      "율촌화학은 서울중앙지방법원에서 진행 중인 특허침해소송에서 해당 특허를 침해하지 않았다는 점을 입증해야 한다.",
+      "17일 업계에 따르면 지난 5월 중순 특허심판원은 율촌화학이 아티엔스와 토요켐이 공동 보유 중인 특허 '도전성 시트 및 제조방법 및 전자부품' 특허(등록번호 1846474, 아래 '474 특허)를 상대로 청구."
     ],
     "chips": [
       "#뉴스"
@@ -573,37 +384,35 @@ window.NEWS_DB = [
     "id": "n45ad512f",
     "category": "사회",
     "source": "조선일보",
-    "time": "28분 전",
+    "time": "1시간 전",
     "url": "https://www.chosun.com/politics/politics_general/2026/08/17/YPNQFUTEOVAMBFX7QK2S7EQN3M/",
-    "title": "[속보] 민주당 새 당대표에 김민석...선호투표 끝에 정청래 제쳐",
+    "title": "민주당 새 대표에 김민석 “李정부 성공 위해 뛰겠다”",
     "summary": [
-      "[속보] 민주당 새 당대표에 김민석...선호투표 끝에 정청래 제쳐."
+      "민주당 새 대표에 김민석 “李정부 성공 위해 뛰겠다”."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "nb15a8e18",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "38분 전",
-    "url": "https://www.chosun.com/sports/baseball/2026/08/17/GRSTKOBSGY3TKYJWGY3DKZLCGE/",
-    "title": "인디언 기우제인가…타율 .189 최하위, 문보경 2군행 골든타임은 지났다, ‘밤 12시 특타’로 살아날까",
+    "id": "nc583ddac",
+    "category": "IT",
+    "source": "한경IT",
+    "time": "1시간 전",
+    "url": "https://www.hankyung.com/article/2026081753771",
+    "title": "챗봇·코딩 중심이던 AI 경쟁…순수과학으로 전장 넓어진다",
     "summary": [
-      "[OSEN=잠실, 한용섭 기자] 프로야구 LG 트윈스는 45일째 연승이 없다.",
-      "7월 1~2일 키움전 2연승이 마지막 연승이다.",
-      "LG는 7월 이후 10승 1무 18패(승률.357)로 같은 기간 10개 구단 승률 최하위다."
+      "챗봇·코딩 중심이던 AI 경쟁…순수과학으로 전장 넓어진다."
     ],
     "chips": [
-      "#KBO"
+      "#AI"
     ]
   },
   {
     "id": "n749c9cb0",
     "category": "경제",
     "source": "연합뉴스(경제)",
-    "time": "54분 전",
+    "time": "1시간 전",
     "url": "https://www.yna.co.kr/view/AKR20260817058700002",
     "title": "KB국민은행, 집중호우 피해 긴급 금융지원",
     "summary": [
@@ -617,7 +426,7 @@ window.NEWS_DB = [
     "id": "n264fed39",
     "category": "IT",
     "source": "한경IT",
-    "time": "59분 전",
+    "time": "1시간 전",
     "url": "https://www.hankyung.com/article/2026081753161",
     "title": "통신 3사 '새 먹거리' AI 인프라 매출 급증",
     "summary": [
@@ -626,6 +435,197 @@ window.NEWS_DB = [
     "chips": [
       "#AI"
     ]
+  },
+  {
+    "id": "na5643de2",
+    "category": "IT",
+    "source": "한경IT",
+    "time": "1시간 전",
+    "url": "https://www.hankyung.com/article/2026081753211",
+    "title": "서울 로보택시 플랫폼 두고 택시·플랫폼·카셰어링 격돌",
+    "summary": [
+      "서울 로보택시 플랫폼 두고 택시·플랫폼·카셰어링 격돌."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n0c0a66ff",
+    "category": "IT",
+    "source": "한경IT",
+    "time": "1시간 전",
+    "url": "https://www.hankyung.com/article/2026081753181",
+    "title": "네이버 추월한 구글?…매일 이용은 네이버가 '1위'",
+    "summary": [
+      "네이버 추월한 구글?…매일 이용은 네이버가 '1위'."
+    ],
+    "chips": [
+      "#네이버"
+    ]
+  },
+  {
+    "id": "n1a3635ad",
+    "category": "IT",
+    "source": "조선비즈IT",
+    "time": "2시간 전",
+    "url": "https://biz.chosun.com/it-science/ict/2026/08/17/JR7EOKS6GNAG3JDP5P7JQQ24WQ/",
+    "title": "삼성전자, 사내 커뮤니티 ‘나우톡’ 18일부터 전면 실명제",
+    "summary": [
+      "삼성전자, 사내 커뮤니티 ‘나우톡’ 18일부터 전면 실명제."
+    ],
+    "chips": [
+      "#삼성전자"
+    ]
+  },
+  {
+    "id": "ne2e425ab",
+    "category": "IT",
+    "source": "ZDNet Korea",
+    "time": "2시간 전",
+    "url": "https://zdnet.co.kr/view/?no=20260817171632",
+    "title": "전국에 말라리아 ‘경보’…연휴 습도 올라 ‘모기’ 주의",
+    "summary": [
+      "[지디넷코리아]·폭염이 잠시 주춤한 가운데 광복절 연휴 내린 비로 습도가 올라가면서 모기에 주의가 필요하다.앞서 질병관리청은 31주차(7.27.",
+      "~ 8.2.) 말라리아 위험지역 중 파주시 및 연천군에서 채집된 말라리아 매개모기(얼룩날개모기류)에서 삼일열 말라리아 원충의 유전자가 검출됨에 따라 8월13일자로 전국에 말라리아 경보를 발령했다.매개모기(얼룩날개모기류)에서 말라리아 원충이 검출됐다는 것은 매개모기에 물렸을 때 말라리아에 감염될 확률이."
+    ],
+    "chips": [
+      "#의료"
+    ]
+  },
+  {
+    "id": "n1871ccee",
+    "category": "경제",
+    "source": "연합뉴스(경제)",
+    "time": "3시간 전",
+    "url": "https://www.yna.co.kr/view/AKR20260817053700002",
+    "title": "5대 은행 주담대 가산금리 고공행진…\"가계대출 억제 영향\"",
+    "summary": [
+      "(서울=연합뉴스) 한지훈 기자 = 주요 시중은행이 가계대출 총량 관리를 강화하면서 높은 수준의 가산금리를 유지 중인 것으로 나타났다."
+    ],
+    "chips": [
+      "#금리"
+    ]
+  },
+  {
+    "id": "nd9902f9e",
+    "category": "경제",
+    "source": "조선비즈IT",
+    "time": "3시간 전",
+    "url": "https://biz.chosun.com/it-science/ict/2026/08/17/RVS27PNKJVDWXLXQRA42AFOBAI/",
+    "title": "배당 10배 늘린 넥슨, 日 증시 상한가… 3조원 특별배당 ‘환호’",
+    "summary": [
+      "배당 10배 늘린 넥슨, 日 증시 상한가… 3조원 특별배당 ‘환호’."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n51c09789",
+    "category": "IT",
+    "source": "조선비즈IT",
+    "time": "3시간 전",
+    "url": "https://biz.chosun.com/it-science/ict/2026/08/17/KURVZJUETBCNTAX3TM4ABUROKM/",
+    "title": "스트라이프, ‘AI 톨게이트’ 오픈라우터 품는다… 인수가 10조원 육박",
+    "summary": [
+      "스트라이프, ‘AI 톨게이트’ 오픈라우터 품는다… 인수가 10조원 육박."
+    ],
+    "chips": [
+      "#AI"
+    ]
+  },
+  {
+    "id": "n49964591",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "3시간 전",
+    "url": "https://www.chosun.com/international/international_general/2026/08/17/76WOQTQPBVAW5DLHEN42TA2Z2U/",
+    "title": "‘장쩌민 탄생 100주년’ 띄운 시진핑… 개혁개방 유산으로 당 결속 강조",
+    "summary": [
+      "‘장쩌민 탄생 100주년’ 띄운 시진핑… 개혁개방 유산으로 당 결속 강조."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n3c23738e",
+    "category": "사회",
+    "source": "조선비즈IT",
+    "time": "3시간 전",
+    "url": "https://biz.chosun.com/it-science/ict/2026/08/17/F4NM6JLEMVGSZNF6YYZ2SZIWNA/",
+    "title": "구글, 한국어 정치 유튜브 449개 폐쇄… 지방선거 직전 82% 집중",
+    "summary": [
+      "구글, 한국어 정치 유튜브 449개 폐쇄… 지방선거 직전 82% 집중."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n59b01ff0",
+    "category": "IT",
+    "source": "ZDNet Korea",
+    "time": "3시간 전",
+    "url": "https://zdnet.co.kr/view/?no=20260817164103",
+    "title": "독립운동의 연결고리였던 병원‧제약사",
+    "summary": [
+      "[지디넷코리아]광복 81주년을 맞아 애국지사의 독립운동을 뒤에서 묵묵히 지원했지만 알려지지 않은 분들의 발자취를 되짚는 자리와 독립운동가 후손들을 지원하는 다양한 활동이 진행되고 있다.",
+      "특히 의약계의 독립운동을 위한 노력이 재조명돼 눈길을 끈다.일제강점기의 병원은 환자를 돌보는 공간이면서 동시에 독립운동가를 보호하고 정보를 연결하는 비밀 거점의 역할도 수행했다.",
+      "일본 경찰이 자유롭게 출입하기 어려웠던 일부 병원에서는 수배 중인 독립운동가를 환자."
+    ],
+    "chips": [
+      "#의료"
+    ]
+  },
+  {
+    "id": "na4f7c4d6",
+    "category": "IT",
+    "source": "테크M",
+    "time": "3시간 전",
+    "url": "https://www.techm.kr/news/articleView.html?idxno=154345",
+    "title": "\"놀고 머물고 줍고\"...여가 플랫폼, '이색 경험'으로 재미 더한다",
+    "summary": [
+      "K-팝과 EDM을 넘나들며 공연을 즐기고, 기와가 내려주는 서늘한 그늘에서 인공지능(AI)으로 편하게 쉬고, 관광지에서 쓰레기를 주우며 여행의 즐거움과 환경 보호의 뿌듯함을 동시에 느낀다.여가를 즐기는 방식이 한층 다채로워지고 있다.",
+      "화려한 라인업을 앞세운 음악 축제부터 AI를 품은 한옥, 지역 곳곳을 둘러보며 환경까지 지키는 플로깅 여행까지.",
+      "국내외 여가 플랫폼들이 익숙한 공연·숙박·여행에 각 플랫폼별 재미와 정체성을 더하며 새로운 여가 경험."
+    ],
+    "chips": [
+      "#AI",
+      "#환경"
+    ]
+  },
+  {
+    "id": "n60cf38ad",
+    "category": "IT",
+    "source": "테크M",
+    "time": "3시간 전",
+    "url": "https://www.techm.kr/news/articleView.html?idxno=154332",
+    "title": "와디즈의 AI 양면 전략...창작 문턱 낮추고 신뢰 기준 높인다",
+    "summary": [
+      "크라우드펀딩 플랫폼 와디즈가 인공지능(AI)을 서비스 전반에 도입, 테크 기반 플랫폼으로 입지를 다지는 모습입니다.17일 업계에 따르면 와디즈는 단순한 반복 업무 자동화 수준을 넘어, 아이디어를 가진 창작자의 프로젝트 준비를 돕는 조력자 역할부터 서포터의 신뢰를 지키는 파수꾼 역할까지 AI 활용 영역을 다각도로 넓히고 있습니다.최근 유통 및 플랫폼 업계 전반에서 생성형 AI 도입이 본격화되고 있는데요.",
+      "와디즈는 펀딩에 참여하는 소비자뿐만 아니라."
+    ],
+    "chips": [
+      "#AI"
+    ]
+  },
+  {
+    "id": "n406354e1",
+    "category": "IT",
+    "source": "ZDNet Korea",
+    "time": "4시간 전",
+    "url": "https://zdnet.co.kr/view/?no=20260817161003",
+    "title": "치루 문화의 현대적 계승",
+    "summary": [
+      "[지디넷코리아]지닝, 중국 2026년 8월 17일 /PRNewswire/ -- chinadaily.com.cn 보도: 유교 문화의 발상지인 산둥성(山東省)은 '제14차 5개년 계획(2021~2025년)' 기간 혁신적인 계승과 복원을 통해 유적지와 무형문화유산을 활성화하는 데 상당한 진전을 이루었다.",
+      "지닝시 취푸(濟寧市曲阜)는 공자(孔子)의 고향으로, 세계가 중국 문명을 이해하는 창구로 이미 자리 잡았다.",
+      "중국 공자연구원내 문화체험 기지에서는 관."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
   }
 ];
 
@@ -633,21 +633,21 @@ window.NEWS_DB = [
 window.KEYWORD_TOP = [
   {
     "rank": 1,
-    "tag": "정치",
-    "mentions": "2070건",
-    "trend": "+215%"
+    "tag": "뉴스",
+    "mentions": "3370건",
+    "trend": "+415%"
   },
   {
     "rank": 2,
     "tag": "AI",
-    "mentions": "1940건",
-    "trend": "+195%"
+    "mentions": "1810건",
+    "trend": "+175%"
   },
   {
     "rank": 3,
-    "tag": "뉴스",
-    "mentions": "1940건",
-    "trend": "+195%"
+    "tag": "정치",
+    "mentions": "1550건",
+    "trend": "+135%"
   }
 ];
 // ====AUTO-GENERATED-END====
