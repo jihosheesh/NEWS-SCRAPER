@@ -1,15 +1,15 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-08-17 08:30:40
+// 마지막 업데이트: 2026-08-17 09:29:55
 window.NEWS_DB = [
   {
     "id": "n429d6ff4",
     "category": "IT",
-    "source": "서울파이낸스",
-    "time": "6시간 전",
+    "source": "seoulfn.com",
+    "time": "7시간 전",
     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9zY2pmOTFvV2E1V09oWTh1SERKN01OVHBZNk03bDlYVmFqZ2RXWk1aUjZQTkVWY1M5YWpXeHJtZi1oREpMR25wcG5hTldPMURzeFV0OE9LT1E1dEVqWC1ZM3U4N3hEOFd0eVE?oc=5",
     "title": "[반도체 패권 전쟁 ④] 삼성전자·SK하이닉스의 승부수···HBM 넘어 ‘AI 반도체 기업’으로 진화하라",
     "summary": [
-      "[반도체 패권 전쟁 ④] 삼성전자·SK하이닉스의 승부수···HBM 넘어 ‘AI 반도체 기업’으로 진화하라 서울파이낸스."
+      "[반도체 패권 전쟁 ④] 삼성전자·SK하이닉스의 승부수···HBM 넘어 ‘AI 반도체 기업’으로 진화하라 seoulfn.com."
     ],
     "chips": [
       "#AI",
@@ -22,7 +22,7 @@ window.NEWS_DB = [
     "id": "nac2a7a3e",
     "category": "IT",
     "source": "2news.co.kr",
-    "time": "8시간 전",
+    "time": "9시간 전",
     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5kV2VpYktBZU9IMzlCU25SdlVyLWRhc1cxbFdReWxDU25NQlVIM3ZFTlVpdlBxa3paVHdxMS1oZEE0d0phbmFWbjIxUTBYS1FITFhQNHBCTGhzLW45cmhOWG9MbHhNelNz?oc=5",
     "title": "미국 반도체 통제 속에서도 중국 AI 모델이 성장하는 배경",
     "summary": [
@@ -99,12 +99,12 @@ window.NEWS_DB = [
   {
     "id": "n1058f97e",
     "category": "스포츠",
-    "source": "네이트",
+    "source": "news.nate.com",
     "time": "3일 전",
     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8yc083aVJTcjRRMW96ZThmS0J5NnYtWjFpdVpkWlpPMjA2RVhzQzF5dzVTcGhHdUJFaWRDUmdjY053NEFkY2g4dzZmZmNYQW5saFg4YVV4NG1sbkx0bTFMWg?oc=5",
     "title": "맑은 하늘 아래 펼쳐지는 KBO리그",
     "summary": [
-      "맑은 하늘 아래 펼쳐지는 KBO리그 네이트."
+      "맑은 하늘 아래 펼쳐지는 KBO리그 news.nate.com."
     ],
     "chips": [
       "#KBO"
@@ -200,14 +200,28 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n56609ab4",
+    "category": "IT",
+    "source": "스타트업엔(StartupN)",
+    "time": "19일 전",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE00TU4tZU4wcXlLZDJUdFMwQ3Vnb0VKR3pkVXFxbEdPVTgyclhaZG9CY1J6eHZndWRKZnVYbnJVdTh0OUEzbFdndklMLVdjMXIycmQxOURNOUFMejVYLW5GMW5pMS1iVWs20gFsQVVfeXFMT2NUNG9FcGZiaUduVXlSZFdfZ09nTWJfMVBYVUFHYVZqczQxelFGT1ZsYnBNZGtNTFBWcDBCZWNUTUhnTlRjMGdwdXcwTnRCRGdDSW1OZmNKRlgzNk5JeHZIMU5nTjhfckdCTTda?oc=5",
+    "title": "경기혁신센터·경기벤처협회, 유망 기술기업 투자 연계 ‘유니콘 브릿지 IR’ 개최",
+    "summary": [
+      "경기혁신센터·경기벤처협회, 유망 기술기업 투자 연계 ‘유니콘 브릿지 IR’ 개최 스타트업엔(StartupN)."
+    ],
+    "chips": [
+      "#스타트업"
+    ]
+  },
+  {
     "id": "n1a764c5a",
     "category": "부동산",
-    "source": "newspim.com",
+    "source": "뉴스핌",
     "time": "25일 전",
     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5jaXQ1a1BmNlN6TVZWV29ucG5jajY3WlJIb2FQNEVPMnJXRWdYVHhxWnFnb3R6MG8tX3lsTTFxNFdFVjlzNmtMaFZVV0UtUUN1VWc4VEVScy1iWFIt?oc=5",
     "title": "집값·전셋값 뛰는데 청약 경쟁률은 '뚝'…수도권 주택시장 엇박자",
     "summary": [
-      "집값·전셋값 뛰는데 청약 경쟁률은 '뚝'…수도권 주택시장 엇박자 newspim.com."
+      "집값·전셋값 뛰는데 청약 경쟁률은 '뚝'…수도권 주택시장 엇박자 뉴스핌."
     ],
     "chips": [
       "#부동산"
@@ -301,20 +315,6 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nbcfe41a7",
-    "category": "IT",
-    "source": "연합뉴스TV",
-    "time": "175일 전",
-    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8wREZzcDhjdlBHWDRyS0l1YlIxdEszOHZaSjRrNFU1VlBPajQwc1AySHFmWFh4M2NfSVJNWnBaZXhXRHhGOExxZm12ZmZMdFl5WEhLX2owTzVNaWRYd3d0UzRSdndSY2c?oc=5",
-    "title": "\"K-방산 유니콘 키운다\"…스타트업 100개·벤처천억기업 30개 육성",
-    "summary": [
-      "\"K-방산 유니콘 키운다\"…스타트업 100개·벤처천억기업 30개 육성 연합뉴스TV."
-    ],
-    "chips": [
-      "#스타트업"
-    ]
-  },
-  {
     "id": "n14a65575",
     "category": "IT",
     "source": "테크M",
@@ -346,290 +346,280 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n1a3635ad",
-    "category": "IT",
-    "source": "조선비즈IT",
-    "time": "1분 전",
-    "url": "https://biz.chosun.com/it-science/ict/2026/08/17/JR7EOKS6GNAG3JDP5P7JQQ24WQ/",
-    "title": "삼성전자, 사내 커뮤니티 ‘나우톡’ 18일부터 전면 실명제",
-    "summary": [
-      "삼성전자, 사내 커뮤니티 ‘나우톡’ 18일부터 전면 실명제."
-    ],
-    "chips": [
-      "#삼성전자"
-    ]
-  },
-  {
-    "id": "n89945ce8",
+    "id": "n50a23736",
     "category": "사회",
-    "source": "조선일보",
+    "source": "아시아경제",
     "time": "3분 전",
-    "url": "https://www.chosun.com/video_photo/2026/08/17/YKSB7MNKDJBFDMPGC3ZA53AUOI/",
-    "title": "[더 한장]몸은 뒤로, 고삐는 앞으로… 카라치 당나귀들 날았다",
+    "url": "https://view.asiae.co.kr/article/2026081718264216172",
+    "title": "류경완 남해군수, 호우경보 속 현장 점검… 재난취약지역 대응 강화",
     "summary": [
-      "[더 한장]몸은 뒤로, 고삐는 앞으로… 카라치 당나귀들 날았다."
+      "경남 남해군이 집중호우에 따른 피해 예방을 위해 재난 대응 단계를 높이고 비상근무 인원을 확대하는 등 현장 중심의 대응체계를 강화하고 있다.",
+      "군은 지난 15일 호우주의보가 발효된 오전 4시부터 재난안전대책본부를 가동하고 본청과 읍·면 행정복지센터를 중심으로 46명이 비상근무에 들어갔다.",
+      "이후 16일 오전 10시 호우경보로 기상특보가 격상되면서 비상근무 인원을 56명으로 확대하고 강우 상황과 지역별 피해 여부를 지."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n556384ce",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "4분 전",
-    "url": "https://www.donga.com/news/Culture/article/all/20260817/134482132/1",
-    "title": "이금이 작가 “동화 쓸때만이라도 그 나이로 돌아갈 수 있어 행복”",
-    "summary": [
-      "동화작가 이금이(64)는 한국을 대표하는 아동청소년 문학가 중 한 명이다.",
-      "2024년에 이어 올해 4월에도 ‘아동문학계의 노벨상’으로 불리는 한스 크리스티안 안데르센상(HCAA) 최종 후보에 올라 ‘K아동문학’의 저력을 보여줬다.",
-      "2년마다 시상하는 이 상은 세계 최대 아동도서전인 볼로냐도서전 메인 홀에서 생중계로 수상자를 발표한다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nb6f76e7b",
-    "category": "사회",
-    "source": "아시아경제",
-    "time": "7분 전",
-    "url": "https://view.asiae.co.kr/article/2026081717230900822",
-    "title": "이 대통령 \"인니 강진 안타까워, 韓 정부 대표해 깊은 위로\"",
-    "summary": [
-      "이재명 대통령이 17일 인도네시아 동부 지역 강진 피해에 대해 \"큰 피해가 발생했다는 소식에 안타까움을 금할 수 없다\"며 애도를 표했다.",
-      "이 대통령은 이날 자신의 엑스(X·옛 트위터)에 이같이 밝힌 뒤 \"갑작스러운 재난으로 소중한 가족과 삶의 터전을 잃으신 피해자와 유가족 여러분께 대한민국 정부를 대표해 깊은 위로를 전한다\"고 밝혔다.",
-      "이 대통령은 \"구조와 수색작업이 진행되고 있는 만큼 한 분이라도 더 무사히 가족의."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "nebe79730",
-    "category": "스포츠",
-    "source": "연합뉴스",
-    "time": "8분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260817054900007",
-    "title": "한화, 김서현·정우주 드디어 부른다…강재민·김종수 말소",
-    "summary": [
-      "(서울=연합뉴스) 김경윤 기자 = 최근 3연패를 기록한 프로야구 6위 한화 이글스가 휴식일인 17일 세 명의 주축 선수를 말소했다."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
-    "id": "n32ed7fc5",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "8분 전",
-    "url": "https://www.newsis.com/view/NISX20260817_0003751511",
-    "title": "송영길 \"鄭, 지방·보궐선거 실패…무능 지도부 또 뽑으면 미래 보장 못해\"",
-    "summary": [
-      "[서울·대전=뉴시스] 이창환 권신혁 김윤영 기자 = 송영길 더불어민주당 대표 후보는 17일 \"제가 왜 정청래 전 대표의 연임이 위험하다고 판단했느냐, 잘한 것도 있지만 근본적으로 이번 지방선거와 보궐선거에 실패했다\"고 했다.",
-      "송 후보는 이날 오후 대전 유성구 대전컨벤션센터에서 열리는 '제3차 정기전국당원대회'에서 이같이 말하며 \"정청래 (당대표) 후보님이나 최민희, 이성윤, 한민수 (최고위원) 후보님들의 의견도 존중한다."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n88bf10be",
-    "category": "스포츠",
-    "source": "뉴시스",
-    "time": "9분 전",
-    "url": "https://www.newsis.com/view/NISX20260817_0003751554",
-    "title": "영국 육상 단거리 스타 헌트, 유럽선수권서 사상 첫 4관왕",
-    "summary": [
-      "[서울=뉴시스] 하근수 기자 = 영국 육상 단거리 스타 에이미 헌트가 유럽육상선수권대회에서 전례 없는 4관왕을 달성했다.",
-      "헌트는 16일(현지시간) 영국 버밍엄의 알렉산더 스타디움에서 열린 2026 유럽육상선수권 혼성 400ｍ 계주 결선에서 마지막 주자로 나서 39초97로 가장 먼저 결승선을 통과했다.",
-      "여자 100m, 여자 200m, 여자 400m 계주에 이어 혼성 400m 계주까지 제패한 헌트는 유럽육상선수권 역사상 처음 '단일 대회 쿼드러플(."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n1e5d62c6",
+    "id": "n749c9cb0",
     "category": "경제",
-    "source": "아시아경제",
+    "source": "연합뉴스(경제)",
+    "time": "3분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260817058700002",
+    "title": "KB국민은행, 집중호우 피해 긴급 금융지원",
+    "summary": [
+      "(서울=연합뉴스) 한지훈 기자 = KB국민은행은 남부 지역 집중호우로 피해를 입은 고객들에게 금융지원을 한다고 17일 밝혔다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n1393b72f",
+    "category": "스포츠",
+    "source": "뉴시스",
+    "time": "7분 전",
+    "url": "https://www.newsis.com/view/NISX20260817_0003751595",
+    "title": "'배드민턴 여제' 안세영, 부상 복귀전 승리…세계선수권 32강 진출",
+    "summary": [
+      "[서울=뉴시스] 하근수 기자 = '배드민턴 여제' 안세영(삼성생명)이 칼로야나 날반토바(불가리아)를 꺾고 약 한 달 만의 부상 복귀전을 승리로 마쳤다.",
+      "세계랭킹 1위 안세영은 17일(한국 시간) 인도 뉴델리에서 열린 날반토바(40위)와의 세계배드민턴연맹(BWF) 세계선수권대회 2026 여자 단식 64강전에서 게임 점수 2-0(21-14 21-13)으로 이겼다.",
+      "32강에 진출한 안세영은 탈리타 라마드하니 위야반(인도네시아·53위) 대 아이네스 루."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n264fed39",
+    "category": "IT",
+    "source": "한경IT",
+    "time": "8분 전",
+    "url": "https://www.hankyung.com/article/2026081753161",
+    "title": "통신 3사 '새 먹거리' AI 인프라 매출 급증",
+    "summary": [
+      "통신 3사 '새 먹거리' AI 인프라 매출 급증."
+    ],
+    "chips": [
+      "#AI"
+    ]
+  },
+  {
+    "id": "n594c3df4",
+    "category": "IT",
+    "source": "연합뉴스",
     "time": "9분 전",
-    "url": "https://view.asiae.co.kr/article/2026081717210996850",
-    "title": "中 7월 산업생산 4.5%·소매판매 0.6%…전망치 하회",
+    "url": "https://www.yna.co.kr/view/AKR20260817058100089",
+    "title": "유니트리, 신제품 '초인' 영상 공개…\"제자리서 2m 점프\"",
     "summary": [
-      "중국의 지난달 산업 생산과 소매 판매 실적이 모두 전망치를 밑돌았다.",
-      "17일 중국 국가통계국에 따르면 중국의 7월 산업 생산은 전년 동기 대비 4.5% 증가했다.",
-      "이는 로이터통신이 집계한 시장 예상치 4.8% 증가에 못 미치는 수준이다."
+      "(상하이=연합뉴스) 차병섭 특파원 = 중국 증시 상장을 앞둔 로봇업체 유니트리(위수커지)가 신제품 '초인'(超人·차오런) 영상을 공개하면서 제자..."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n5a6ce4ce",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "10분 전",
-    "url": "https://www.newsis.com/view/NISX20260817_0003751472",
-    "title": "르세라핌 '이프푸'도 넘겼다…여덟 번째 스포티파이 3억 스밍",
+    "id": "na5643de2",
+    "category": "IT",
+    "source": "한경IT",
+    "time": "9분 전",
+    "url": "https://www.hankyung.com/article/2026081753211",
+    "title": "서울 로보택시 플랫폼 두고 택시·플랫폼·카셰어링 격돌",
     "summary": [
-      "[서울=뉴시스]이재훈 기자 = 그룹 '르세라핌(LE SSERAFIM)'의 대표곡 '이브, 프시케 그리고 푸른 수염의 아내'(이프푸)가 세계 최대 음원 플랫폼 스포티파이에서 3억 스트리밍을 돌파했다.",
-      "17일 소속사 쏘스뮤직에 따르면, 르세라핌의 정규 1집 수록곡 '이브, 프시케 그리고 푸른 수염의 아내'는 지난 15일 기준 누적 재생 수 3억7만 회를 넘어섰다.",
-      "이로써 르세라핌은 '안티프래자일'(7억), '퍼펙트 나이트'(5억), '크레이지'·'."
+      "서울 로보택시 플랫폼 두고 택시·플랫폼·카셰어링 격돌."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n7dca6a54",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "13분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260817054300371",
-    "title": "중앙아 5개국 청년이 말하는 '상생의 미래'…19일 특집 강연회",
+    "id": "n0c0a66ff",
+    "category": "IT",
+    "source": "한경IT",
+    "time": "9분 전",
+    "url": "https://www.hankyung.com/article/2026081753181",
+    "title": "네이버 추월한 구글?…매일 이용은 네이버가 '1위'",
     "summary": [
-      "(서울=연합뉴스) 성도현 기자 = 다음 달 중순 처음 열리는 '제1차 한-중앙아시아 정상회의'를 앞두고 국내 거주 중앙아 5개국 청년들이 한국과..."
+      "네이버 추월한 구글?…매일 이용은 네이버가 '1위'."
     ],
     "chips": [
-      "#뉴스"
+      "#네이버"
     ]
   },
   {
-    "id": "n5a661ff6",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "13분 전",
-    "url": "https://www.newsis.com/view/NISX20260817_0003751570",
-    "title": "SK최태원·빌 게이츠, 1년 만에 '선혜원'서 재회…'SMR 동맹' 강화",
+    "id": "n63dce695",
+    "category": "IT",
+    "source": "한경IT",
+    "time": "9분 전",
+    "url": "https://www.hankyung.com/article/2026081753191",
+    "title": "KT-서울대병원 협력…AX 플랫폼 구축 나서",
     "summary": [
-      "[서울=뉴시스]박현준 기자 = 최태원 SK그룹 회장과 빌 게이츠 테라파워 이사회 의장이 소형모듈원전(SMR)을 중심으로 한 협력 관계를 다지며 차세대 원전 사업의 글로벌 확대에 힘을 싣고 있다.",
-      "17일 업계에 따르면 최 회장은 지난 14일 서울 종로구 삼청동 선혜원에서 게이츠 의장을 초청해 만찬을 함께했다.",
-      "지난해 8월 게이츠 의장의 방한을 계기로 서울에서 만난 지 약 1년 만이다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n41edf038",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "13분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260817052200073",
-    "title": "6개월 만에 병원 검사받은 다카이치…9월 개각설 무게",
-    "summary": [
-      "(도쿄=연합뉴스) 이도연 특파원 = 다카이치 사나에 일본 총리가 약 6개월 만에 병원을 찾아 검사받았다고 교도통신이 17일 보도했다."
+      "KT-서울대병원 협력…AX 플랫폼 구축 나서."
     ],
     "chips": [
       "#의료"
     ]
   },
   {
-    "id": "n6871ab0d",
-    "category": "경제",
-    "source": "아시아경제",
-    "time": "14분 전",
-    "url": "https://view.asiae.co.kr/article/2026081717082789682",
-    "title": "쌀·계란값 오르더니…'김밥 한 줄 4000원'",
+    "id": "n2292d132",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "10분 전",
+    "url": "https://www.newsis.com/view/NISX20260817_0003751590",
+    "title": "中, 트럼프 北 언급에 \"한반도 문제, 정치적 해결 필요\"",
     "summary": [
-      "'가성비' 메뉴인 김밥 가격이 주요 외식 품목 가운데 가장 빠른 속도로 상승하고 있다.",
-      "17일 한국소비자원 가격정보종합포털 참가격에 따르면 지난 6월 기준 서울 김밥 한 줄 평균 가격은 3838원이다.",
-      "이는 1년 전보다 5.9% 오른 것이다."
+      "[베이징=뉴시스]박정규 특파원 = 도널드 트럼프 미국 대통령이 북한과의 관계를 언급하면서 한·미 합동 군사훈련 축소를 지시한 데 대해 중국 정부가 한반도 문제에 대한 원론적인 입장을 재차 강조했다.",
+      "린젠 중국 외교부 대변인은 17일 정례브리핑에서 트럼프 대통령의 언급과 관련해 중국이 북·미 간 대화 재개를 지지하는지를 묻는 질문에 이같이 답했다.",
+      "린 대변인은 \"우리는 관련 보도에 주목했다\"며 \"조선반도(한반도)의 평화·안정을 수호하고 반도 문제."
     ],
     "chips": [
-      "#뉴스"
+      "#정치"
     ]
   },
   {
-    "id": "n54baa353",
+    "id": "ne873ba0f",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "11분 전",
+    "url": "https://www.newsis.com/view/NISX20260817_0003751551",
+    "title": "섬닥터 일부 통계 오류…해수부 \"검증·성과 관리 강화할 것\"",
+    "summary": [
+      "[서울=뉴시스] 변해정 기자 = 해양수산부가 의료 취약지역인 섬 주민들이 안정적인 비대면 진료 서비스를 이용할 수 있도록 '섬닥터 사업' 관리를 보다 강화한다.",
+      "해수부는 17일 보도설명자료를 내고 \"진료 건수, 이용 인원, 초진·재진 등 주요 실적의 산출 기준을 명확히 하고 사업자 제출 자료에 대한 검증을 강화하겠다\"고 밝혔다.",
+      "해수부는 또 \"의료계를 포함한 외부 전문가의 자문을 통해 서비스 효과 등을 보다 객관적으로 평가하고 시스템 설치부터."
+    ],
+    "chips": [
+      "#의료"
+    ]
+  },
+  {
+    "id": "n66663da7",
     "category": "스포츠",
     "source": "조선일보",
-    "time": "14분 전",
-    "url": "https://www.chosun.com/sports/golf/2026/08/17/HFSDMYJWGQZDOZDEGM3GGOLEGM/",
-    "title": "임성재, 올해는 투어챔피언십 못 나가나 했는데...역시나 꾸준함의 대명사",
+    "time": "12분 전",
+    "url": "https://www.chosun.com/sports/world-baseball/2026/08/17/GBRGMZJZGVTDKZDDMQYDAOJSMU/",
+    "title": "'977억에 이어 3400억도 먹튀인가' 감독도 호소 \"우리도 이유 모른다\"",
     "summary": [
-      "[스포츠조선 김용 기자] 임성재의 8년 연속 투어챔피언십 진출, 현실이 될까.",
-      "미국 PGA 투어 플레이오프 1차전, 한국 선수들이 비상했다.",
-      "김시우 김주형 임성재 모두 2차전에 출전하게 됐다."
+      "[스포츠조선 나유리 기자]최고 대우를 받고 이적했는데, 하필 첫 시즌 최악의 부진에 빠졌다.",
+      "감독은 \"우리도 부진의 이유를 모르겠다\"며 답답해했다.",
+      "LA 다저스 카일 터커가 궁지에 몰려있다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n4dd6cef4",
-    "category": "경제",
-    "source": "조선일보",
-    "time": "14분 전",
-    "url": "https://www.chosun.com/economy/stock-finance/2026/08/17/GJRDQNRXME3TEYJQGY4DGODBHA/",
-    "title": "5대 은행 주담대 가산금리 상승세… “가계대출 억제 영향”",
-    "summary": [
-      "주요 시중은행이 가계 대출 총량 관리를 강화하면서 높은 수준의 가산금리를 유지 중인 것으로 파악됐다.",
-      "17일 은행연합회에 따르면 5대 은행(KB국민·신한·우리·하나·NH농협)이 지난 6월 신규 취급한 분할상환방식 주택담보대출의 가산금리는 평균 3.27%로, 전월(3.23%)보다 0.04%포인트(p) 올랐다.",
-      "이는 관련 통계가 작성된 2019년 7월 이후 가."
-    ],
-    "chips": [
-      "#금리"
-    ]
-  },
-  {
-    "id": "n6ce7a7cc",
+    "id": "n7d97597a",
     "category": "사회",
     "source": "연합뉴스",
-    "time": "17분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260817053800003",
-    "title": "삼성전자, 개정 정통망법 따라 사내게시판 실명제 전환",
+    "time": "13분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260817052351083",
+    "title": "中 7월 산업생산 4.5%↑·소매판매 0.6%↑…시장 전망치 밑돌아(종합)",
     "summary": [
-      "(서울=연합뉴스) 강태우 기자 = 삼성전자가 사내 대표 커뮤니티인 '나우톡'(NOW Talk)을 전면 실명제로 전환한다.",
-      "최근 정부가 개정 정보..."
+      "(베이징=연합뉴스) 정성조 특파원 = 중국의 7월 산업 생산과 소매 판매 실적이 모두 시장 전망치를 밑돌았다."
     ],
     "chips": [
-      "#삼성전자"
+      "#뉴스"
     ]
   },
   {
-    "id": "n862c2383",
+    "id": "n755e7d43",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "14분 전",
+    "url": "https://www.newsis.com/view/NISX20260817_0003751598",
+    "title": "[속보]통영대전고속도로(대전 방향) 통영TG 통제…북통영IC 우회",
+    "summary": [
+      "후속기사가 이어집니다 ◎공감언론 뉴시스 sky@newsis.com."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n9b68191f",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "14분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260817058400051",
+    "title": "집중호우로 부산서 빈집 2채 붕괴…4곳서 24명 대피",
+    "summary": [
+      "(부산=연합뉴스) 김재홍 기자 = 광복절 연휴에 내린 많은 비로 부산에서 빈집 2채가 붕괴해 이웃 주민들이 긴급하게 대피했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nc3c639c3",
     "category": "경제",
-    "source": "동아일보",
-    "time": "21분 전",
-    "url": "https://www.donga.com/news/Economy/article/all/20260817/134489538/1",
-    "title": "금값 한 달 새 12% 반등…개미들 4개월 만에 순매수 전환",
+    "source": "아시아경제",
+    "time": "16분 전",
+    "url": "https://view.asiae.co.kr/article/2026081718133212421",
+    "title": "유명현 산청군수, 집중호우 대비 긴급 점검… “인명피해 예방 최우선”",
     "summary": [
-      "개인들이 4개월 만에 금을 순매수하기 시작한 것으로 나타났다.",
-      "상반기(1~6월) 고점을 찍고 20% 넘게 떨어졌던 국제 금값이 최근 한 달 새 10% 넘게 오르면서다.",
-      "미국이 당장 기준금리를 올릴 가능성이 낮아진 데다 주요국 중앙은행들이 금을 적극적으로 매입하면서 투자 심리가 살아났기 때문으로 풀이된다."
+      "경남 산청군이 호우주의보 발효에 따라 인명피해 예방을 위한 재난 대응체계를 강화하고 있다.",
+      "유명현 산청군수는 지난 16일 오전 9시 재난상황실에서 담당관과 국·과장 등이 참석한 가운데 '호우대응 긴급 점검 회의'를 주재하고 집중호우에 따른 읍·면별 대응 상황과 주요 재난취약지역의 안전관리 실태를 점검했다.",
+      "이날 회의에서는 계곡·하천·야영장 등 피서객 이용지역의 안전관리와 출입 통제, 산사태 취약지역과 급경사."
     ],
     "chips": [
-      "#금리"
+      "#뉴스"
     ]
   },
   {
-    "id": "n1871ccee",
-    "category": "경제",
-    "source": "연합뉴스(경제)",
-    "time": "21분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260817053700002",
-    "title": "5대 은행 주담대 가산금리 고공행진…\"가계대출 억제 영향\"",
-    "summary": [
-      "(서울=연합뉴스) 한지훈 기자 = 주요 시중은행이 가계대출 총량 관리를 강화하면서 높은 수준의 가산금리를 유지 중인 것으로 나타났다."
-    ],
-    "chips": [
-      "#금리"
-    ]
-  },
-  {
-    "id": "n18a29848",
+    "id": "n19ce629b",
     "category": "스포츠",
-    "source": "동아일보",
-    "time": "28분 전",
-    "url": "https://www.donga.com/news/Economy/article/all/20260817/134488412/1",
-    "title": "크래프톤, 넥슨 꺾고 게임업계 매출·영업익 1위…해외 공략 통했다",
+    "source": "아시아경제",
+    "time": "29분 전",
+    "url": "https://view.asiae.co.kr/article/2026081410481218689",
+    "title": "18조원에 LA레이커스 팔리던데…롯데자이언츠도 투자자산이 될 수 있을까 [주末머니]",
     "summary": [
-      "크래프톤이 국내 게임업계의 오랜 ‘빅3’ 구도를 흔들고 매출 및 영업이익 1위 자리에 올랐다.",
-      "올 2분기(4~6월) 실적에서 기존 1위 넥슨을 제치면서, 넥슨·엔씨(NC)·넷마블로 이어지던 한국 게임업계의 이른바 ‘3N’ 구도를 깬 것이다.17일 금융감독원 전자공시시스템 및 각사 실적 자료에 따르면 크래프톤의 올 2분기 매출은 1조2902억 원으로 지난해 2분기 대비 94.9% 증가했다.",
-      "영업이익은 4109억 원으로 67% 증가해 역대 2분기."
+      "미국프로농구(NBA) 명문구단 LA 레이커스가 프로 스포츠 사상 최고가에 팔렸다.",
+      "지난 12일(현지시간) 벤처투자가 조시 쿠슈너와 전 월트디즈니 최고경영자(CEO) 밥 아이거는 레이커스를 125억달러(약 18조원)에 인수하기로 했다.",
+      "레이커스는 불과 지난해 100억달러의 기업가치로 새 주인을 맞았는데 1년여 만에 가격이 25% 뛰었다."
+    ],
+    "chips": [
+      "#스타트업"
+    ]
+  },
+  {
+    "id": "n9642d440",
+    "category": "경제",
+    "source": "한국경제",
+    "time": "38분 전",
+    "url": "https://www.hankyung.com/article/2026081753621",
+    "title": "이란전 탈출구 北서 찾는 트럼프…한반도 정세 변수되나",
+    "summary": [
+      "이란전 탈출구 北서 찾는 트럼프…한반도 정세 변수되나."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n841bcb29",
+    "category": "경제",
+    "source": "한국경제",
+    "time": "39분 전",
+    "url": "https://www.hankyung.com/article/202608175249i",
+    "title": "금감원 노조 \"지방 이전은 초악수... 금융소비자 피해 우려\"",
+    "summary": [
+      "금감원 노조 \"지방 이전은 초악수... 금융소비자 피해 우려\"."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nf6a547ad",
+    "category": "경제",
+    "source": "한국경제",
+    "time": "40분 전",
+    "url": "https://www.hankyung.com/article/2026081753541",
+    "title": "트럼프 \"한·미훈련 축소\"…北에 유화 제스처",
+    "summary": [
+      "트럼프 \"한·미훈련 축소\"…北에 유화 제스처."
     ],
     "chips": [
       "#뉴스"
@@ -642,14 +632,14 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2330건",
-    "trend": "+255%"
+    "mentions": "2720건",
+    "trend": "+315%"
   },
   {
     "rank": 2,
     "tag": "AI",
-    "mentions": "1810건",
-    "trend": "+175%"
+    "mentions": "1940건",
+    "trend": "+195%"
   },
   {
     "rank": 3,
