@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-08-17 20:14:26
+// 마지막 업데이트: 2026-08-17 21:15:48
 window.NEWS_DB = [
   {
     "id": "nfb9efaaf",
     "category": "IT",
     "source": "한국정보기술진흥원",
-    "time": "12시간 전",
+    "time": "13시간 전",
     "url": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE53TVZlbmdDYlBLWmZzdEhKbzNQREdWZWZLNk5xc3RPcWs0djVoRE85aVJPeFNVMTZvOWV5VXo5T0o?oc=5",
     "title": "엔비디아, 오픈AI 오하이오 데이터센터 금융보증 2500억달러에서 1200억달러 미만으로 축소...전체 10GW 중 1단계 5GW만 보증, '순환 거래' 투자자 우려에 위험 노출 줄여",
     "summary": [
@@ -20,7 +20,7 @@ window.NEWS_DB = [
     "id": "n429d6ff4",
     "category": "IT",
     "source": "서울파이낸스",
-    "time": "18시간 전",
+    "time": "19시간 전",
     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9zY2pmOTFvV2E1V09oWTh1SERKN01OVHBZNk03bDlYVmFqZ2RXWk1aUjZQTkVWY1M5YWpXeHJtZi1oREpMR25wcG5hTldPMURzeFV0OE9LT1E1dEVqWC1ZM3U4N3hEOFd0eVE?oc=5",
     "title": "[반도체 패권 전쟁 ④] 삼성전자·SK하이닉스의 승부수···HBM 넘어 ‘AI 반도체 기업’으로 진화하라",
     "summary": [
@@ -37,7 +37,7 @@ window.NEWS_DB = [
     "id": "nac2a7a3e",
     "category": "IT",
     "source": "2news.co.kr",
-    "time": "19시간 전",
+    "time": "21시간 전",
     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5kV2VpYktBZU9IMzlCU25SdlVyLWRhc1cxbFdReWxDU25NQlVIM3ZFTlVpdlBxa3paVHdxMS1oZEE0d0phbmFWbjIxUTBYS1FITFhQNHBCTGhzLW45cmhOWG9MbHhNelNz?oc=5",
     "title": "미국 반도체 통제 속에서도 중국 AI 모델이 성장하는 배경",
     "summary": [
@@ -82,12 +82,12 @@ window.NEWS_DB = [
   {
     "id": "n5e7afdfd",
     "category": "IT",
-    "source": "businesspost.co.kr",
+    "source": "비즈니스포스트",
     "time": "3일 전",
     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9BZThJckF2RlR3cVdldGZxbWVrNTZpMVRoYkQ3bGlPREF3cDBFV2dWeXowQ3paVmFTV2hzSVhpZUpETUdnR0lDa3FNTHEzODdYOUwxMGNWUWQ0dk9vdDZzVzBWbkJtdnR1a0NjTWZkaVFxMkk?oc=5",
     "title": "엔비디아 차세대 AI 반도체 '파인만' 양산 서두르나, 삼성전자 SK하이닉스 HBM 경쟁에도 변수",
     "summary": [
-      "엔비디아 차세대 AI 반도체 '파인만' 양산 서두르나, 삼성전자 SK하이닉스 HBM 경쟁에도 변수 businesspost.co.kr."
+      "엔비디아 차세대 AI 반도체 '파인만' 양산 서두르나, 삼성전자 SK하이닉스 HBM 경쟁에도 변수 비즈니스포스트."
     ],
     "chips": [
       "#AI",
@@ -114,12 +114,12 @@ window.NEWS_DB = [
   {
     "id": "n1058f97e",
     "category": "스포츠",
-    "source": "네이트",
+    "source": "news.nate.com",
     "time": "4일 전",
     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8yc083aVJTcjRRMW96ZThmS0J5NnYtWjFpdVpkWlpPMjA2RVhzQzF5dzVTcGhHdUJFaWRDUmdjY053NEFkY2g4dzZmZmNYQW5saFg4YVV4NG1sbkx0bTFMWg?oc=5",
     "title": "맑은 하늘 아래 펼쳐지는 KBO리그",
     "summary": [
-      "맑은 하늘 아래 펼쳐지는 KBO리그 네이트."
+      "맑은 하늘 아래 펼쳐지는 KBO리그 news.nate.com."
     ],
     "chips": [
       "#KBO"
@@ -217,12 +217,12 @@ window.NEWS_DB = [
   {
     "id": "n1a764c5a",
     "category": "부동산",
-    "source": "뉴스핌",
+    "source": "newspim.com",
     "time": "25일 전",
     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5jaXQ1a1BmNlN6TVZWV29ucG5jajY3WlJIb2FQNEVPMnJXRWdYVHhxWnFnb3R6MG8tX3lsTTFxNFdFVjlzNmtMaFZVV0UtUUN1VWc4VEVScy1iWFIt?oc=5",
     "title": "집값·전셋값 뛰는데 청약 경쟁률은 '뚝'…수도권 주택시장 엇박자",
     "summary": [
-      "집값·전셋값 뛰는데 청약 경쟁률은 '뚝'…수도권 주택시장 엇박자 뉴스핌."
+      "집값·전셋값 뛰는데 청약 경쟁률은 '뚝'…수도권 주택시장 엇박자 newspim.com."
     ],
     "chips": [
       "#부동산"
@@ -245,12 +245,12 @@ window.NEWS_DB = [
   {
     "id": "nabfa15b0",
     "category": "경제",
-    "source": "YTN",
+    "source": "ytn.co.kr",
     "time": "68일 전",
     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE50bVBaMGNlWG1LRkQ2OEh1YUF0cjlWc1EwdS1URDE1ZzJpajQzYmtTdUpGZk9yOWc0V1REZF9fNmVWOU4yVFVhbzhtQzNzMUg3b0ZfVkhVd1dxVGl0OXc?oc=5",
     "title": "\"韓 적정 환율은 얼마일까?\" 환율 vs 금리 vs 증시 상관관계 집중해부",
     "summary": [
-      "\"韓 적정 환율은 얼마일까?\" 환율 vs 금리 vs 증시 상관관계 집중해부 YTN."
+      "\"韓 적정 환율은 얼마일까?\" 환율 vs 금리 vs 증시 상관관계 집중해부 ytn.co.kr."
     ],
     "chips": [
       "#금리",
@@ -275,16 +275,30 @@ window.NEWS_DB = [
   {
     "id": "n5a1617c5",
     "category": "부동산",
-    "source": "헤럴드경제",
+    "source": "biz.heraldcorp.com",
     "time": "97일 전",
     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1TS2Q2aDJMQXUtYUMtcmZTZkUtNXVycDVXUTFSYk1oeTg4TXNFTXQxN3RtcGVlRUJxMWlMWXk0c05lRFFvemxzYk0wa1hsZXMwbm1hVWtn?oc=5",
     "title": "집값 상승, 전세품귀에…서울, 분양전망 1달 만에 기준치 회복 [부동산360]",
     "summary": [
-      "집값 상승, 전세품귀에…서울, 분양전망 1달 만에 기준치 회복 [부동산360] 헤럴드경제."
+      "집값 상승, 전세품귀에…서울, 분양전망 1달 만에 기준치 회복 [부동산360] biz.heraldcorp.com."
     ],
     "chips": [
       "#부동산",
       "#전세"
+    ]
+  },
+  {
+    "id": "nba668fc0",
+    "category": "IT",
+    "source": "한국방송뉴스",
+    "time": "110일 전",
+    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1XaThhZXFiX3dDT0NrYVFwZ2dhNTgxbHU0WE5Bc21vcGVzR0d2Wkh2Zm5pS2MyZ1JkYlhHb2VfRkhkemdEX1F6Q1RtajJLRzR6dDdHcExQelAyS2N1OUE?oc=5",
+    "title": "1조 8000억 규모 벤처펀드 선정…\"벤처·스타트업에 적시 공급\"",
+    "summary": [
+      "1조 8000억 규모 벤처펀드 선정…\"벤처·스타트업에 적시 공급\" 한국방송뉴스."
+    ],
+    "chips": [
+      "#스타트업"
     ]
   },
   {
@@ -302,332 +316,327 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nbcfe41a7",
-    "category": "IT",
-    "source": "연합뉴스TV",
-    "time": "175일 전",
-    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8wREZzcDhjdlBHWDRyS0l1YlIxdEszOHZaSjRrNFU1VlBPajQwc1AySHFmWFh4M2NfSVJNWnBaZXhXRHhGOExxZm12ZmZMdFl5WEhLX2owTzVNaWRYd3d0UzRSdndSY2c?oc=5",
-    "title": "\"K-방산 유니콘 키운다\"…스타트업 100개·벤처천억기업 30개 육성",
+    "id": "n3ba698f0",
+    "category": "경제",
+    "source": "머니투데이",
+    "time": "방금 전",
+    "url": "https://www.mt.co.kr/industry/2026/08/18/2026081710315589739",
+    "title": "패밀리카인데 운전 재미까지…폴스타 3의 두 얼굴[메소드 시승기]",
     "summary": [
-      "\"K-방산 유니콘 키운다\"…스타트업 100개·벤처천억기업 30개 육성 연합뉴스TV."
+      "[편집자주] 누구에게나 100% 만족을 주는 '만능카'는 없다.",
+      "대신 취향과 라이프스타일에 꼭 맞는 '마이카'는 분명 존재한다.",
+      "머니투데이 자동차팀은 연기에서 역할에 깊이 몰입하는 '메소드'처럼 각기 다른 소비자의 삶에 자신을 대입해 차를 직접 경험해보는 시승기를 연재한다."
     ],
     "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nfed85be8",
+    "category": "경제",
+    "source": "아시아경제",
+    "time": "5분 전",
+    "url": "https://view.asiae.co.kr/article/2026081709483987875",
+    "title": "1815개의 태극기, 송파구의 특별한 광복절",
+    "summary": [
+      "빨강·파랑·흰색 티셔츠를 나눠 입은 1815명이 롯데콘서트홀 객석을 층층이 채웠다.",
+      "자리마다 색이 번지자 공연장은 이내 거대한 태극기 한 장이 됐다.",
+      "광복절을 하루 앞둔 지난 14일 오후, 송파구가 연 '8·15 빛을 되찾은 날, 기쁨의 합창' 무대다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n89cde164",
+    "category": "경제",
+    "source": "머니투데이",
+    "time": "6분 전",
+    "url": "https://www.mt.co.kr/world/2026/08/18/2026081806063034189",
+    "title": "美국채 30년물 19년만에 최고…증시 흔든 금리·유가[뉴욕마감]",
+    "summary": [
+      "뉴욕증시 3대 지수가 17일(현지시간) 국제유가 상승과 국채금리 급등 부담에 일제히 하락했다.",
+      "미국과 이란의 협상이 돌파구를 찾지 못하면서 국제유가가 배럴당 90달러를 다시 넘어서고 미 국채 30년물 금리가 19년만에 최고 수준으로 치솟은 충격이 컸다.",
+      "이날 뉴욕증권거래소에서 S&P500지수는 전거래일보다 40.70포인트(0.52%) 하락한 7745.06에, 기술주 중심의 나스닥종합지수는 84.25포인트(0.32%) 떨어진 2만6644.91에."
+    ],
+    "chips": [
+      "#금리"
+    ]
+  },
+  {
+    "id": "nfe3fa583",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "7분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260818008400007",
+    "title": "KLPGA 시즌 3승 서교림, 여자골프 세계랭킹 40위로 도약",
+    "summary": [
+      "(서울=연합뉴스) 최태용 기자 = 한국여자프로골프(KLPGA) 투어에서 맹활약하는 서교림이 여자골프 세계랭킹을 크게 끌어올렸다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n16b46b6f",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "7분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260818008900064",
+    "title": "충북 가끔 구름 많음…오후 남부에 최대 30㎜ 소나기",
+    "summary": [
+      "(청주=연합뉴스) 이성민 기자 = 18일 충북은 가끔 구름이 많겠다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nc9829718",
+    "category": "경제",
+    "source": "머니투데이",
+    "time": "8분 전",
+    "url": "https://www.mt.co.kr/society/2026/08/18/2026081805292584048",
+    "title": "\"돈 많으면 행복할 줄\"...한국인 잘 살아도 삶 만족도 낮은 이유",
+    "summary": [
+      "한국이 과거보다 경제적으로 풍요로운 국가로 성장했음에도 국민이 체감하는 삶의 만족도는 이에 미치지 못한다는 분석이 나왔다.",
+      "행복을 바라보는 기준 자체가 잘못돼 있다는 지적이다.",
+      "지난 17일 유튜브 채널 '머니인더트랩'에 올라온 영상에는 인지심리학자 김경일 아주대학교 교수가 출연해 한국인이 경제적 풍요에도 행복을 충분히 느끼지 못하는 이유에 대해 설명했다."
+    ],
+    "chips": [
+      "#교육"
+    ]
+  },
+  {
+    "id": "n7b551db0",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "8분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260818007300007",
+    "title": "LIV 골프 미시간 대회 취소…예정보다 1주 일찍 시즌 종료",
+    "summary": [
+      "(서울=연합뉴스) 최태용 기자 = 재정 위기를 겪는 LIV 골프가 예정보다 1주 일찍 시즌을 종료한다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n5334f0e9",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "8분 전",
+    "url": "https://www.newsis.com/view/NISX20260818_0003751731",
+    "title": "전북, 낮 30~33도 '가끔 구름'…남동부 5~40㎜ 소나기",
+    "summary": [
+      "[전북=뉴시스]고석중 기자 = 18일 화요일 전북지역은 북태평양고기압의 가장자리에 들어 가끔 구름이 많다가 밤부터 차차 흐려지겠다.",
+      "아침까지 내륙을 중심으로 가시거리 1㎞ 미만의 안개가 끼는 곳이 있어, 출근길 추돌사고 등 교통안전에 각별한 주의가 요구된다.",
+      "고창지역에 폭염주의보가 발효 중인 가운데, 대부분 지역의 낮 최고 체감온도가 33도 안팎까지 오르며 찜통더위가 맹위를 떨치겠다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n39204f1d",
+    "category": "사회",
+    "source": "머니투데이",
+    "time": "8분 전",
+    "url": "https://www.mt.co.kr/tech/2026/08/18/2026081713573380604",
+    "title": "AI 교수 아들은 대학 대신 개발 배웠다…\"개인이 조직 대신하는 시대\"",
+    "summary": [
+      "[인터뷰]윤석빈 서강대 특임교수 'AI 오케스트레이터와 슈퍼 1인 기업' 출간 \"교육·VC·채용 기존 공식 흔들려…기업도 업무 전체 AI로 재설계해야\" \"인터넷과 모바일 혁명을 모두 겪어봤지만 AI는 변화의 속도와 폭, 깊이가 훨씬 큽니다\".",
+      "윤석빈 서강대 AI·SW대학원 특임교수는 최근 펴낸 'AI 오케스트레이터와 슈퍼 1인 기업'에서 AI가 생산성 도구를 넘어 기업과 교육, 일자리의 구조를 바꾸고 있다고 진단했다."
+    ],
+    "chips": [
+      "#AI",
+      "#채용",
+      "#고용",
+      "#교육"
+    ]
+  },
+  {
+    "id": "neb62559b",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "10분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260818008600056",
+    "title": "제주, 흐리고 10∼60㎜ 비…서귀포에 기습 호우",
+    "summary": [
+      "(제주=연합뉴스) 고성식 기자 = 18일 제주지역은 대체로 흐리고 늦은 오후까지 곳에 따라 비가 내리겠다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nf713fd46",
+    "category": "경제",
+    "source": "뉴시스",
+    "time": "12분 전",
+    "url": "https://www.newsis.com/view/NISX20260816_0003750946",
+    "title": "세계 홀린 K-뷰티…ODM·신흥강자·전통 빅3 '역대급 실적'[불황 뚫은 K-프리미엄①]",
+    "summary": [
+      "[서울=뉴시스]오제일 기자 = K-뷰티의 글로벌 인기가 지속되면서 인디 브랜드와 ODM 업체, 대형 뷰티 브랜드들이 상반기 나란히 역대급 실적을 썼다.",
+      "1세대 K-뷰티 브랜드들도 해외 시장에서 성장 동력을 확보하며 시장에 이름을 다시 알리고 있다.",
+      "18일 업계 등에 따르면 화장품 수출은 지난해 11월 이후 9개월 연속 전년 동월 대비 증가세를 이어가고 있다."
+    ],
+    "chips": [
+      "#수출"
+    ]
+  },
+  {
+    "id": "n6f9bcb3b",
+    "category": "사회",
+    "source": "연합뉴스(경제)",
+    "time": "14분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260817042600003",
+    "title": "대기업 신규채용 2년새 15% 감소…청년 줄고 장년 늘며 세대역전",
+    "summary": [
+      "(서울=연합뉴스) 강태우 기자 = 국내 주요 대기업의 신규 채용이 최근 2년 새 15% 넘게 감소한 가운데, 30세 이하 청년층 고용 비중은 줄..."
+    ],
+    "chips": [
+      "#채용",
+      "#고용"
+    ]
+  },
+  {
+    "id": "nc8dbb21c",
+    "category": "경제",
+    "source": "연합뉴스(경제)",
+    "time": "14분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260817028700030",
+    "title": "\"물놀이 끝나면 해변으로 배달\"…양양 서피비치 주문 2.5배",
+    "summary": [
+      "(서울=연합뉴스) 홍국기 기자 = 올해 여름 휴가철 국내 주요 해수욕장 인근의 음식 배달 주문이 대폭 늘어난 것으로 나타났다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nf4101de5",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "14분 전",
+    "url": "https://www.newsis.com/view/NISX20260814_0003750148",
+    "title": "전장연 대표 \"출근길 시위 마음 무거워…이유 알아줬으면\"",
+    "summary": [
+      "[서울=뉴시스] 구무서 기자 = \"출근길 지하철 시위로 불편을 끼치는 데 대해 왜 미안한 마음이 없겠어요.",
+      "우리도 욕을 먹어가면서 지하철에 타는데 마음이 무겁죠.",
+      "우리에게 욕을 해도 되지만 정부에도 장애인 이동권에 대해 한 번만이라도 같이 이야기를 해주세요."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "neb04a3cc",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "14분 전",
+    "url": "https://www.newsis.com/view/NISX20260814_0003750120",
+    "title": "\"아기 위협하는 RSV\"…백신 찾아나선 제약바이오",
+    "summary": [
+      "[서울=뉴시스]이소헌 기자 = 급성호흡기감염증인 호흡기세포융합바이러스(RSV)가 신생아와 노인, 만성질환자에게는 치명적인 질환으로 알려진 가운데, 제약바이오 기업들이 예방백신 등에 대한 개발에 나섰다.",
+      "18일 제약바이오업계에 따르면 한국화이자제약, 한국GSK, 유바이오로직스, SK바이오사이언스 등은 RSV 백신, 예방항체 후보물질 등을 개발하거나 백신의 적응증을 확대하고 있다.",
+      "RSV는 급성호흡기감염증으로 전 연령에서 발생할 수 있다."
+    ],
+    "chips": [
+      "#의료"
+    ]
+  },
+  {
+    "id": "nccbd75ab",
+    "category": "경제",
+    "source": "연합뉴스(경제)",
+    "time": "15분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260816019700003",
+    "title": "전국 도시재생 명소 52곳서 스탬프투어…4곳 방문하면 상품권",
+    "summary": [
+      "(세종=연합뉴스) 오진송 기자 = 국토교통부는 11월 15일까지 전국 도시재생사업지를 둘러보는 '도시재생 스탬프투어'를 진행한다고 18일 밝혔다..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nafb278aa",
+    "category": "IT",
+    "source": "연합뉴스(경제)",
+    "time": "15분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260817033400003",
+    "title": "구직 청년 64% \"희망 직무 5년 내 AI로 대체·축소될 것\"",
+    "summary": [
+      "(서울=연합뉴스) 김윤구 기자 = 구직 청년 10명 중 6명 이상이 향후 5년 안에 자신이 희망하는 직무가 인공지능(AI)으로 대체되거나 축소될..."
+    ],
+    "chips": [
+      "#AI",
+      "#취업"
+    ]
+  },
+  {
+    "id": "n5934400c",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "15분 전",
+    "url": "https://www.chosun.com/economy/tech_it/2026/08/18/UN6S4WDGSND7BH6CUGFGIB4YZ4/",
+    "title": "콘텐츠 시장 ‘블랙홀’ 된 숏폼... 플랫폼 사용시간 1~2위 유튜브·틱톡",
+    "summary": [
+      "콘텐츠 시장 ‘블랙홀’ 된 숏폼... 플랫폼 사용시간 1~2위 유튜브·틱톡."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n5d06bf56",
+    "category": "IT",
+    "source": "조선비즈IT",
+    "time": "15분 전",
+    "url": "https://biz.chosun.com/it-science/ict/2026/08/18/D7LZZSF2JNC2XFBPJDSS43PWLA/",
+    "title": "[인터뷰] 엔비디아·소프트뱅크가 투자한 피지컬 AI 대표 유니콘 ‘스킬드 AI’… 아비나브 굽다 공동창업자 “로봇 형태 상관 없이 하나의 두뇌로 이해·제어”",
+    "summary": [
+      "[인터뷰] 엔비디아·소프트뱅크가 투자한 피지컬 AI 대표 유니콘 ‘스킬드 AI’… 아비나브 굽다 공동창업자 “로봇 형태 상관 없이 하나의 두뇌로 이해·제어”."
+    ],
+    "chips": [
+      "#AI",
+      "#엔비디아",
       "#스타트업"
     ]
   },
   {
-    "id": "n9877eb92",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "2분 전",
-    "url": "https://www.chosun.com/international/us/2026/08/18/RZG6VCXEIRB2ZEPWEOQYX6KOAU/",
-    "title": "[속보] 美전쟁부, 한미 훈련 축소에 “최고사령관 지시 이행 적극 노력”",
-    "summary": [
-      "[속보] 美전쟁부, 한미 훈련 축소에 “최고사령관 지시 이행 적극 노력”."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n78e66ac1",
+    "id": "nfeeb2522",
     "category": "경제",
-    "source": "머니투데이",
-    "time": "4분 전",
-    "url": "https://www.mt.co.kr/society/2026/08/18/2026081709350189089",
-    "title": "[광화문]형소법 대안도 급하면 부작용 낳는다",
+    "source": "아시아경제",
+    "time": "15분 전",
+    "url": "https://view.asiae.co.kr/article/2026081723152358616",
+    "title": "14년 이어온 K페스티벌 KCON…LA에 14만명 모였다",
     "summary": [
-      "단일종목 레버리지 ETF 속도전 낭패 '빛의 속도' 형소법 개정 부작용 우려 부작용 해소 대안도 충분히 논의해야 세상의 많은 돈키호테들이 가진 행동력은 분명 본받을만하다.",
-      "특히 행동하지 않는 햄릿들을 보다보면 돈키호테들의 행동력은 더욱 빛난다.",
-      "햄릿들이 '이래서 안 되고 저래서 안 된다'고 비판만 되풀이하다 일을 그르치는 걸 보면 답답하긴 하다."
+      "2012년부터 이어온 K컬처 페스티벌 '케이콘(KCON)'이 올해 미국 로스앤젤레스에서 사흘간의 일정을 마쳤다.",
+      "18일 CJ ENM에 따르면 지난 14~16일(현지시간) 미국 로스앤젤레스(LA) 컨벤션센터와 크립토닷컴 아레나에서 열린 '케이콘 엘에이 2026(KCON LA 2026)'에는 총 14만2000여명이 찾았다.",
+      "올해 행사에는 가수와 배우 등 36팀이 참여했고 기업·브랜드 부스는 724개 규모로 꾸렸다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n7bee7240",
+    "id": "n18838a7b",
     "category": "사회",
-    "source": "조선일보",
-    "time": "4분 전",
-    "url": "https://www.chosun.com/economy/startup_story/2026/08/17/INIEUTAEHRCRVC2MENEK5A7GOA/",
-    "title": "늦여름 생선의 지존, 잡자 마자 손질 마쳐 반건조한 신안 민어 특가 공구",
+    "source": "아시아경제",
+    "time": "15분 전",
+    "url": "https://view.asiae.co.kr/article/2026081714113921634",
+    "title": "청년 2명 중 1명 \"5년 내 AI가 일자리 대체\"…미취업·사무직 불안감 고조",
     "summary": [
-      "늦여름 생선의 지존, 잡자 마자 손질 마쳐 반건조한 신안 민어 특가 공구."
+      "청년 2명 중 1명 이상은 향후 5년 이내에 본인의 현재 또는 희망 직무가 인공지능(AI)으로 대체되거나 축소될 것으로 전망했다.",
+      "특히 구직 중인 미취업 청년이나 AI 기술 영향력이 높은 사무·전문직군일수록 이러한 일자리 축소 불안감을 더 크게 체감하는 것으로 나타났다.",
+      "18일 한국경제인협회(이하 한경협)가 여론조사 전문 기관 모노리서치에 의뢰해 만 19~34세 청년 1000명을 대상으로 실시한 'AI 확산에 따른 청년 일자리 인."
     ],
     "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n132712f5",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "5분 전",
-    "url": "https://www.newsis.com/view/NISX20260818_0003751720",
-    "title": "쿠슈너·네타냐후, 미군 감독하에 '가자지구 비무장화' 합의(종합)",
-    "summary": [
-      "[서울=뉴시스] 권성근 기자 = 도널드 트럼프 미국 대통령의 중동 특사이자 사위인 재러드 쿠슈너가 17일(현지 시간) 베냐민 네타냐후 이스라엘 총리와 만나 가자지구 비무장화에 합의했다고 밝혔다.",
-      "AFP통신, NBC뉴스 등에 따르면 미국 주도의 평화위원회를 이끄는 쿠슈너 특사는 이날 네타냐후 총리와의 회담에서 미군의 감독 아래 팔레스타인 무장 정파 하마스의 무기 인도 등 무장 해제에 따른 가자지구 '비무장화' 방안에 합의했다."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n91e86519",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "7분 전",
-    "url": "https://www.chosun.com/international/us/2026/08/18/M5ZG64BSWNCD7KODX6PCAM77MY/",
-    "title": "트럼프의 그림자 실세… “한국, 美와 함께 이란 비핵화 도왔어야”",
-    "summary": [
-      "트럼프의 그림자 실세… “한국, 美와 함께 이란 비핵화 도왔어야”."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nd6b5e61d",
-    "category": "IT",
-    "source": "머니투데이",
-    "time": "8분 전",
-    "url": "https://www.mt.co.kr/tech/2026/08/18/2026081713422275509",
-    "title": "LG 제친 모티프…'국가대표 AI' 2차전, 글로벌 평가가 변수",
-    "summary": [
-      "국가대표 AI 모델을 선정하는 '독자 AI 파운데이션 모델' 프로젝트 2차 평가 결과 발표가 임박했다.",
-      "글로벌 AI 모델 평가에서 모티프테크놀로지스가 LG AI연구원과 SK텔레콤을 앞서면서 최종 결과에 관심이 쏠린다.",
-      "18일 ICT업계에 따르면 과학기술정보통신부는 조만간 독자 AI 파운데이션 모델 프로젝트(독파모) 2차 평가 결과를 발표한다."
-    ],
-    "chips": [
-      "#AI"
-    ]
-  },
-  {
-    "id": "nad35c899",
-    "category": "경제",
-    "source": "뉴시스",
-    "time": "9분 전",
-    "url": "https://www.newsis.com/view/NISX20260818_0003751724",
-    "title": "[속보]뉴욕증시, 미·이란 갈등 지속에 하락 마감…다우 0.51%↓",
-    "summary": [
-      "후속기사가 이어집니다 ◎공감언론 뉴시스 ksk@newsis.com."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n0e160004",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "9분 전",
-    "url": "https://www.chosun.com/economy/startup_story/2026/08/12/M5PGTX5EV5FIXDM3ZVHEX2MA4E/",
-    "title": "한낮 야외 활동 힘겨울 때, 포도당·나트륨·구연산 배합 사탕 한 알이면 거뜬",
-    "summary": [
-      "한낮 야외 활동 힘겨울 때, 포도당·나트륨·구연산 배합 사탕 한 알이면 거뜬."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nf5ed2bb3",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "12분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260818006100527",
-    "title": "경남 거제·통영에 호우주의보 해제",
-    "summary": [
-      "(창원=연합뉴스) 기상청은 경상남도 거제·통영에 발령했던 호우주의보를 18일 오전 5시를 기해 해제한다고 밝혔다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n4e5bbfdf",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "13분 전",
-    "url": "https://www.newsis.com/view/NISX20260817_0003751709",
-    "title": "제주, 늦은 오후까지 곳에 따라 가끔 비…낮 최고 32도",
-    "summary": [
-      "[제주=뉴시스] 양영전 기자 = 화요일인 17일 제주에는 늦은 오후까지 곳에 따라 비가 내리겠다.",
-      "제주지방기상청은 \"이날 제주는 북태평양고기압의 가장자리에 들겠고 곳에 따라 가끔 비가 내리겠다\"고 예보했다.",
-      "예상 강수량은 이날 늦은 오후까지 제주도 10~60㎜다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n6d466a7a",
-    "category": "스포츠",
-    "source": "뉴시스",
-    "time": "13분 전",
-    "url": "https://www.newsis.com/view/NISX20260817_0003751659",
-    "title": "경기남부 가끔 구름, 낮 최고 33도…무더위 이어져",
-    "summary": [
-      "[수원=뉴시스] 변근아 기자 = 18일 경기남부 지역은 구름이 많고 낮 최고기온이 33도까지 오르겠다.",
-      "수도권기상청에 따르면 이날 경기남부 하늘은 가끔 구름이 많겠다.",
-      "기온은 당분간 평년과 비슷하겠다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n6e8f8728",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "14분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260817041600001",
-    "title": "국힘 윤리위, 비당권파 4인 징계 심의…오늘 결론 낼 듯",
-    "summary": [
-      "(서울=연합뉴스) 조다운 기자 = 국민의힘 중앙윤리위원회가 18일 비당권파 의원 4인에 대한 징계 여부를 결정할 것으로 보인다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n3ea41c12",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "14분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260817069000001",
-    "title": "김민석, 현충원 참배·DJ 추도식 참석…靑 비서실장 접견도",
-    "summary": [
-      "(서울=연합뉴스) 오규진 기자 = 더불어민주당 김민석 신임 대표는 18일 한병도 원내대표 등 지도부와 함께 국립서울현충원을 찾는다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n188f9741",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "14분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260814137900017",
-    "title": "[사이테크+] \"우리은하, 123억년 전에도 대규모 은하 병합 겪었다\"",
-    "summary": [
-      "(서울=연합뉴스) 이주영 기자 = 우리은하(Milky Way)가 형성되는 데 크게 기여한 것으로 알려진 가이아-소시지-엔켈라두스(GSE) 병합보..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n8b5deb4a",
-    "category": "사회",
-    "source": "머니투데이",
-    "time": "14분 전",
-    "url": "https://www.mt.co.kr/economy/2026/08/18/2026081717430191430",
-    "title": "\"노봉법 이후 사건 폭증\" 중노위 '즉결심판' 도입 검토...신뢰성 높여야",
-    "summary": [
-      "[폭증하는 노란봉투법 분쟁] (上) ━[단독]사건 쌓이는 중노위, 업무 부담에 '즉결심판' 도입 검토━ 노란봉투법 시행으로 노동분쟁 사건이 늘면서 업무 부담이 커진 중앙노동위원회가 '즉결심판' 도입을 검토한다.",
-      "사건 처리 절차를 간소화해 적체를 해소하고 노사 당사자의 권리 구제를 앞당기겠다는 취지다.",
-      "17일 정부에 따르면 중노위는 심판 사건을 보다 신속하게 처리할 수 있도록 공정거래위원회의 '약식절차' 등을 참고한 제도 도입을 내부적으로 검토하."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n2fb71bb2",
-    "category": "사회",
-    "source": "머니투데이",
-    "time": "14분 전",
-    "url": "https://www.mt.co.kr/politics/2026/08/18/2026081610483622733",
-    "title": "[우보세]\"문제가 생기면 그때 고치면 된다\"",
-    "summary": [
-      "[우리가 보는 세상] 뉴스현장에는 희로애락이 있습니다.",
-      "그 가운데 기사로 쓰기에 쉽지 않은 것도 있고, 곰곰이 생각해봐야 할 일도 많습니다.",
-      "'우리가 보는 세상'(우보세)은 머니투데이 시니어 기자들이 속보 기사에서 자칫 놓치기 쉬운 '뉴스 속의 뉴스' '뉴스 속의 스토리'를 전하는 코너입니다."
-    ],
-    "chips": [
-      "#정책",
-      "#정치"
-    ]
-  },
-  {
-    "id": "nd630688f",
-    "category": "경제",
-    "source": "연합뉴스(경제)",
-    "time": "24분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260818005200072",
-    "title": "미·이란 협상 교착에 국제유가 2%대↑…브렌트유 다시 90달러대",
-    "summary": [
-      "(뉴욕=연합뉴스) 김연숙 특파원 = 17일(현지시간) 미국과 이란 간의 종전 양해각서(MOU) 60일 협상시한 만료와 함께 외교적 해법이 교착에..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nf38e5835",
-    "category": "부동산",
-    "source": "동아일보",
-    "time": "36분 전",
-    "url": "https://www.donga.com/news/Society/article/all/20260818/134492342/1",
-    "title": "“우리 아파트 부정주차 어쩌나요”…고가차 ‘상습 민폐 주차’에 주민 호소",
-    "summary": [
-      "고가의 차량이 아파트 주차장에 반복적으로 이중주차를 한다는 글이 온라인상에 올라왔다.지난 16일 온라인 커뮤니티 보배드림에는 ‘우리 아파트 부정주차 어찌할까요’라는 제목의 글과 사진이 게시됐다.작성자 A씨는 “우리 아파트보다 비싼 차를 이렇게 일주일에 한두 번 와서 이렇게 주차한다”며 “아파트 관리사무실에서도 스티커는 부착 못 하고 아무도 얘기를 못 하고 있다.",
-      "방법이 없느냐”고 털어놓았다.글과 함께 올라온 사진 속 차량은 국내 판매 가격이 수."
-    ],
-    "chips": [
-      "#부동산"
-    ]
-  },
-  {
-    "id": "n81fd4b96",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "44분 전",
-    "url": "https://www.donga.com/news/Culture/article/all/20260818/134491731/2",
-    "title": "“동화 쓸 때만이라도 그 나이로 돌아갈 수 있어 행복”",
-    "summary": [
-      "《동화 작가 이금이(64)는 한국을 대표하는 아동청소년 문학가 중 한 명이다.",
-      "2024년에 이어 올해 4월에도 ‘아동문학계의 노벨상’으로 불리는 한스 크리스티안 안데르센상(HCAA) 최종 후보에 올라 ‘K아동문학’의 저력을 보여 줬다.",
-      "2년마다 시상하는 이 상은 세계 최대 아동도서전인 볼로냐 도서전 메인 홀에서 생중계로 수상자를 발표한다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nf33931e1",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "44분 전",
-    "url": "https://www.donga.com/news/Culture/article/all/20260818/134491735/2",
-    "title": "‘렛잇고’ 고음 퍼지자, 관객들 얼어붙었다",
-    "summary": [
-      "“렛잇고(Let It Go)∼ 렛잇고∼.” 13일 서울 송파구 샤롯데씨어터에서 개막한 뮤지컬 ‘겨울왕국’.",
-      "배우 정선아가 연기한 엘사가 천장을 뚫을 듯한 고음으로 ‘렛잇고’를 부르자 무대 곳곳은 전율이 가득차며 얼어붙는 듯했다.",
-      "엘사가 손을 뻗자 벽과 바닥은 푸른빛으로 물들었고, 보라색 대관식 의상은 순식간에 반짝이는 얼음 드레스로 바뀌었다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n204f70d4",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "44분 전",
-    "url": "https://www.donga.com/news/Culture/article/all/20260818/134491737/2",
-    "title": "“학생들 체포하려거든 나를 밟고 가라” 종교인들의 저항",
-    "summary": [
-      "“학생들을 체포하려거든 나를 밟고, 그 다음 신부와 수녀들을 밟고 지나가십시오.”(고 김수환 추기경·1987년 6월 민주항쟁 당시 명동성당에 진입하려는 경찰에게) 대한민국 민주화운동 역사는 학생과 노동자, 정치인을 중심으로 기억되고 기록된 게 많다.",
-      "하지만 그 뒤에는 시대의 아픔을 외면하지 않고, 묵묵히 함께 고난의 길을 걸었던 종교인들도 있었다.",
-      "신앙은 달랐지만, 포기할 수 없는 인간의 존엄과 정의를 지키기 위해 하나가 됐던 종교인들의 민주화."
-    ],
-    "chips": [
-      "#정치"
+      "#AI",
+      "#취업",
+      "#고용"
     ]
   }
 ];
@@ -637,20 +646,20 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2980건",
-    "trend": "+355%"
+    "mentions": "2460건",
+    "trend": "+275%"
   },
   {
     "rank": 2,
     "tag": "AI",
-    "mentions": "1810건",
-    "trend": "+175%"
+    "mentions": "2200건",
+    "trend": "+235%"
   },
   {
     "rank": 3,
-    "tag": "반도체",
-    "mentions": "1550건",
-    "trend": "+135%"
+    "tag": "고용",
+    "mentions": "1680건",
+    "trend": "+155%"
   }
 ];
 // ====AUTO-GENERATED-END====
