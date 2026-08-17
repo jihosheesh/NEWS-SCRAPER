@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-08-17 04:31:14
+// 마지막 업데이트: 2026-08-17 05:25:49
 window.NEWS_DB = [
   {
     "id": "n429d6ff4",
     "category": "IT",
     "source": "서울파이낸스",
-    "time": "2시간 전",
+    "time": "3시간 전",
     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9zY2pmOTFvV2E1V09oWTh1SERKN01OVHBZNk03bDlYVmFqZ2RXWk1aUjZQTkVWY1M5YWpXeHJtZi1oREpMR25wcG5hTldPMURzeFV0OE9LT1E1dEVqWC1ZM3U4N3hEOFd0eVE?oc=5",
     "title": "[반도체 패권 전쟁 ④] 삼성전자·SK하이닉스의 승부수···HBM 넘어 ‘AI 반도체 기업’으로 진화하라",
     "summary": [
@@ -22,7 +22,7 @@ window.NEWS_DB = [
     "id": "nac2a7a3e",
     "category": "IT",
     "source": "2news.co.kr",
-    "time": "4시간 전",
+    "time": "5시간 전",
     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5kV2VpYktBZU9IMzlCU25SdlVyLWRhc1cxbFdReWxDU25NQlVIM3ZFTlVpdlBxa3paVHdxMS1oZEE0d0phbmFWbjIxUTBYS1FITFhQNHBCTGhzLW45cmhOWG9MbHhNelNz?oc=5",
     "title": "미국 반도체 통제 속에서도 중국 AI 모델이 성장하는 배경",
     "summary": [
@@ -37,7 +37,7 @@ window.NEWS_DB = [
     "id": "n066dd761",
     "category": "IT",
     "source": "자본시장뉴스",
-    "time": "20시간 전",
+    "time": "21시간 전",
     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5IQ2o3T1ZLbVc1Tkk4NjBFb1FxRktIN25PbkhCejZzUUpmZGpnQnJLTXpJdENqdlJPNlFZcWlVb3d4XzdRRk5vZV8zQnJvXzc3QVk1ZE9FVDB6TDZKakRsZkdtVGd1LU0?oc=5",
     "title": "인텔 21조 유상증자…삼성전자, 메모리 고객 얻고 파운드리 경쟁자 얻다",
     "summary": [
@@ -52,7 +52,7 @@ window.NEWS_DB = [
     "id": "n24495d23",
     "category": "IT",
     "source": "조선일보",
-    "time": "1일 전",
+    "time": "2일 전",
     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQZUU1WkdSb3JwYjJYTnJuRHdBQ1c2NnFvai1VRGNJNEM3cFlkTHBBY0RZaFoxUy1Jb2lMcFhERUNVb1BxWTNrOFY2NEV4Vm4xMW1RX0dyV3pVdVp5aGRwTkxKd3daYjZkTVppWnU5ZVk3WGhINjMyVV91RklPVy15SXFQZw?oc=5",
     "title": "엔비디아, 오픈AI 데이터센터 ‘채무 보증’ 절반 축소",
     "summary": [
@@ -112,11 +112,11 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "ne2694309",
+    "id": "n1058f97e",
     "category": "스포츠",
     "source": "네이트",
     "time": "3일 전",
-    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE4tWEJfd1NNQUh3UUhBQVF2V3l6eS1NaTk3N19QLUNqUnJMV2RoZS1NbnJBa2pxRHlOSlZIZU1pYmQtRXhFcUJIOVlwVmRxNmRGcjFQbjc5Tk0zalhySFBfVVByZEtKTVg3?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8yc083aVJTcjRRMW96ZThmS0J5NnYtWjFpdVpkWlpPMjA2RVhzQzF5dzVTcGhHdUJFaWRDUmdjY053NEFkY2g4dzZmZmNYQW5saFg4YVV4NG1sbkx0bTFMWg?oc=5",
     "title": "맑은 하늘 아래 펼쳐지는 KBO리그",
     "summary": [
       "맑은 하늘 아래 펼쳐지는 KBO리그 네이트."
@@ -188,12 +188,12 @@ window.NEWS_DB = [
   {
     "id": "n6aa2d332",
     "category": "경제",
-    "source": "Chosunbiz",
+    "source": "biz.chosun.com",
     "time": "17일 전",
     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNMFYzUVVCVmVkSGhnX1lDUUZMY3NWS2NYcFVRRWNWRVVkWUw1VHRNZFpzeG5VdU9ub2xGTW84VzI3NVZCV1ppMkRXQ2JZTTgtZi1VWmpkWU1PTlBIRjZCbFVtQ2ZqMndkMW9zbktXN0xkZ3Q1QjN6UDNNOGxKb24xemxPXzBJUdIBmgFBVV95cUxQU05hWUwxVFRDcm5lUkQ1MDJaWTdjMEdEMkJjMmVFZ0xMRFh4cFFic2N5eEl0ZmplNlF4V1RfVEtNMDljc3g4bHdYdTZLZENSUTh4V3pTMVN2VTVQRlowNXZQNWpLdzh5V2c2NDJIWlVZWDVfdVFJY0NuVWp6cWEweDVaWi1wZkNTNGljS09fNFVGNVJ2Nk9lOVVR?oc=5",
     "title": "[경제 포커스] 주가·환율 함께 떨어지는 이유는… “기업 달러 매도 본격화” - 조선비즈",
     "summary": [
-      "[경제 포커스] 주가·환율 함께 떨어지는 이유는… “기업 달러 매도 본격화” - 조선비즈 Chosunbiz."
+      "[경제 포커스] 주가·환율 함께 떨어지는 이유는… “기업 달러 매도 본격화” - 조선비즈 biz.chosun.com."
     ],
     "chips": [
       "#환율"
@@ -258,12 +258,12 @@ window.NEWS_DB = [
   {
     "id": "nabfa15b0",
     "category": "경제",
-    "source": "ytn.co.kr",
+    "source": "YTN",
     "time": "67일 전",
     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE50bVBaMGNlWG1LRkQ2OEh1YUF0cjlWc1EwdS1URDE1ZzJpajQzYmtTdUpGZk9yOWc0V1REZF9fNmVWOU4yVFVhbzhtQzNzMUg3b0ZfVkhVd1dxVGl0OXc?oc=5",
     "title": "\"韓 적정 환율은 얼마일까?\" 환율 vs 금리 vs 증시 상관관계 집중해부",
     "summary": [
-      "\"韓 적정 환율은 얼마일까?\" 환율 vs 금리 vs 증시 상관관계 집중해부 ytn.co.kr."
+      "\"韓 적정 환율은 얼마일까?\" 환율 vs 금리 vs 증시 상관관계 집중해부 YTN."
     ],
     "chips": [
       "#금리",
@@ -298,6 +298,20 @@ window.NEWS_DB = [
     "chips": [
       "#부동산",
       "#전세"
+    ]
+  },
+  {
+    "id": "n783ebe44",
+    "category": "스포츠",
+    "source": "테크M",
+    "time": "137일 전",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4zeE1CWFFHZzZrMjhfLXJoWERMeW9jVzI5eF91RWV1NUxXelFvT1U5YWpyRjZaQ1NqclNTR1hoRWEwYl9qQmc4WTh5Q29TSWROU3ptQ1ZmXy1rajBVczZ1T1A0RXZ0UdIBakFVX3lxTE4tUUs3ak9IVFI3ZEtUQmg5NUpZbWRwdUN5OEFTU2JqaWN4WWJzMVJVc0pLU1U0UzVZTkRKMlRZSUIyNmhPVjVWMzBTVGxocHc2VUdVZl9rRWdUaXVxTjFSdUpzTzFPdEZHdnc?oc=5",
+    "title": "'야구·축구·골프'로 갈라진 국내 OTT...스포츠 팬덤 경쟁 격화",
+    "summary": [
+      "'야구·축구·골프'로 갈라진 국내 OTT...스포츠 팬덤 경쟁 격화 테크M."
+    ],
+    "chips": [
+      "#KBO"
     ]
   },
   {
@@ -349,290 +363,282 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n9a18ea54",
-    "category": "부동산",
-    "source": "뉴시스",
+    "id": "na222c5ca",
+    "category": "IT",
+    "source": "동아일보",
+    "time": "1분 전",
+    "url": "https://www.donga.com/news/Society/article/all/20260817/134488470/1",
+    "title": "사이버도박 빚 갚으려…무인점포 7곳 턴 고교생 검거",
+    "summary": [
+      "사이버 도박에 중독돼 진 빚을 갚으려 무인점포를 돌며 금고를 턴 고교생이 경찰에 붙잡혔다.17일 경기북부경찰청에 따르면 일산서부경찰서는 특수절도와 무면허운전 등 혐의로 16세 남자 고교생을 조사 중이다.",
+      "이 고교생은 지난달 9일부터 사흘에 걸쳐 고양시 일산서구의 무인 아이스크림 가게 등 점포 7곳을 돌며 현금을 훔친 혐의를 받는다.",
+      "경찰에 따르면 그는 키오스크 10개를 망치로 내려친 뒤 안에 있던 현금 총 87만 원을 훔쳤다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n2f325615",
+    "category": "경제",
+    "source": "아시아경제",
     "time": "2분 전",
-    "url": "https://www.newsis.com/view/NISX20260817_0003751415",
-    "title": "거제 '물폭탄' 1명 사망·4명 부상…주택침수 등 신고 838건(종합)",
+    "url": "https://view.asiae.co.kr/article/2026081712500619618",
+    "title": "칠곡군, 농특산물 롯데백화점 프리미엄 유통 시동",
     "summary": [
-      "[서울=뉴시스] 강지은 기자 = 경남 거제·통영 등 남해안 지역에 기록적인 폭우가 내리면서 1명이 숨지고, 4명이 다치는 등 인명 피해가 잇따랐다.",
-      "주택·도로 침수와 수목 전도 등 피해 신고도 800여건에 달했다.",
-      "17일 행정안전부 중앙재난안전대책본부(중대본)에 따르면 이날 오전 11시 기준 집중호우로 인한 인명 피해는 사망 1명, 부상 4명이다."
+      "경북 칠곡군 농특산물이 롯데백화점을 발판으로 프리미엄 유통시장 공략에 나섰다.",
+      "칠곡군은 오는 20일까지 롯데백화점 대구점 지하 2층 특설매장에서 '칠곡군-롯데백화점 지역상생 팝업스토어'를 운영한다고 17일 밝혔다.이번 행사는 지난 4월 칠곡군과 롯데백화점, 경상북도 소상공인협동조합이 체결한 '칠곡 농특산물 프리미엄 유통 상생플랫폼 구축 업무협약'의 후속 사업이다.",
+      "지역 농가 11곳이 참여해 벌꿀과 쌀, 국산 콩두부."
     ],
     "chips": [
-      "#부동산"
+      "#뉴스"
     ]
   },
   {
-    "id": "n75b54052",
+    "id": "na74da6c7",
     "category": "경제",
-    "source": "동아일보",
+    "source": "아시아경제",
     "time": "3분 전",
-    "url": "https://www.donga.com/news/Entertainment/article/all/20260817/134488495/1",
-    "title": "“덜 먹고 운동해야” 9kg 뺀 랄랄…탈수·요요 없는 건강 감량법",
+    "url": "https://view.asiae.co.kr/article/2026081712390299008",
+    "title": "김천포도축제 10만명 몰렸다",
     "summary": [
-      "크리에이터 랄랄이 9㎏ 감량 이후 달라진 수영복 자태를 공개했다.",
-      "지난 16일 랄랄은 자신의 유튜브 채널에 ‘감정기복 미친 브이로그(물벼락,탈색,주식)’이라는 제목의 영상을 올렸다.해당 영상에서 랄랄은 잔뜩 지친 기색을 보이며 “아무래도 주식 하락장 우울증에 걸린 것 같다.",
-      "아침에 주식을 확인했을 때 좌절감을 겪은 증후군이다."
+      "경북 김천시 대표 농특산물 축제인 '2026 김천포도축제'에 10만명 이상의 방문객이 몰리며 여름 대표 축제로 자리매김했다.",
+      "지난 14일부터 16일까지 열린 이번 축제는 기존 농산물 중심 행사에서 벗어나 쿨링존과 물놀이장, 포도터널, 그늘막 등을 갖춘 체류형 여름축제로 변화를 꾀했다.포도뿐 아니라 자두와 복숭아까지 선보이며 소비자들의 발길을 끌었다.",
+      "품질 좋은 농산물을 합리적인 가격에 판매하면서 일부 품목은 조기 품절."
     ],
     "chips": [
-      "#의료"
+      "#뉴스"
     ]
   },
   {
-    "id": "n65587e0d",
+    "id": "n978473de",
     "category": "경제",
     "source": "아시아경제",
     "time": "4분 전",
-    "url": "https://view.asiae.co.kr/article/2026081713270041827",
-    "title": "거제·통영 역대급 호우…경남 남해안 곳곳 산사태·침수 피해",
+    "url": "https://view.asiae.co.kr/article/2026081712253284018",
+    "title": "구미시·서울시 청년창업 협력 확대",
     "summary": [
-      "광복절 연휴 사흘간 경남 전역에 비가 내린 가운데 거제·통영 등 남해안에는 기록적인 폭우가 쏟아져 산사태와 침수 등 피해가 잇따랐다.",
-      "가뭄 해갈에는 도움이 됐지만 도로 유실과 정전, 대중교통 운행 차질 등 피해가 이어졌다.",
-      "17일 기상청에 따르면 거제에는 이날 오전 1시32분부터 1시간 동안 124.5㎜의 비가 내렸다."
+      "서울 청년들의 아이디어와 구미의 첨단 제조 인프라가 만나 미래산업 창업 생태계 구축에 속도를 낸다.",
+      "구미시는 지난 14일 서울 동대문디자인플라자(DDP)에서 열린 서울시 '넥스트로컬 지역상생×세대상생 간담회'에 김장호 시장이 참석해 서울시와 청년창업 및 지역상생 협력 확대 방안을 논의했다고 밝혔다.서울시와 구미시는 2024년 우호교류 강화 협약 이후 로컬푸드와 청년창업 분야에서 협력을 이어오고 있다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n4c2d5e26",
-    "category": "IT",
+    "id": "n6c2f0867",
+    "category": "사회",
     "source": "뉴시스",
     "time": "4분 전",
-    "url": "https://www.newsis.com/view/NISX20260817_0003751436",
-    "title": "젠슨 황 장녀, LG전자 양재 센터 찾는다…LG-엔비디아 '피지컬 AI' 협력 논의",
+    "url": "https://www.newsis.com/view/NISX20260817_0003751459",
+    "title": "'물폭탄' 맞은 거제, 산사태·침수…고립 주민 구조 비상",
     "summary": [
-      "[서울=뉴시스]남주현 기자 = 젠슨 황 엔비디아 최고경영자(CEO)의 장녀인 매디슨 황 엔비디아 옴니버스·로보틱스 제품 마케팅 수석 이사가 LG전자의 로보틱스 핵심 거점을 방문한다.",
-      "17일 관련 전자업계에 따르면 매디슨 황 수석 이사는 오는 18일 서울 서초구 양재 연구개발(R&D) 캠퍼스 내 LG전자 '데이터 팩토리'를 찾아 LG전자 고위 관계자들과 비공개 파트너십 회동을 진행한다.",
-      "양재 데이터 팩토리는 LG전자가 휴머노이드 로봇 지능화를 위."
-    ],
-    "chips": [
-      "#AI",
-      "#엔비디아"
-    ]
-  },
-  {
-    "id": "n2c35ea6e",
-    "category": "스포츠",
-    "source": "뉴시스",
-    "time": "5분 전",
-    "url": "https://www.newsis.com/view/NISX20260817_0003751409",
-    "title": "'축구 스타' 호날두, 은퇴 가능성 언급…\"선수로서 마지막 시즌\"",
-    "summary": [
-      "[서울=뉴시스] 하근수 기자 = '축구 스타' 크리스티아누 호날두(알나스르·41)가 시즌 종료 후 은퇴할 가능성을 언급했다.",
-      "17일(한국 시간) ESPN에 따르면 호날두는 미국 패션 매거진 보그를 통해 \"아마도 올 시즌이 축구 선수로서 마지막 시즌이 될 것 같다.",
-      "나는 화려한 유산을 남기고 싶다\"고 전했다."
+      "[거제=뉴시스] 신정철 기자 = 경남 거제시에 17일 하루 동안(오후 2시 기준) 600㎜ 이상의 비가 내려 산사태와 도로 유실, 하천 범람 등으로 주요 도로가 거의 막히고 주민들이 고립되면서 구조에 비상이 걸렸다.",
+      "이날 사진 촬영을 위해 오전 9시부터 거제를 방문한 본지 기자가 통영시로 나가는 국도나 부산으로 빠지는 거가대교가 막혀 5시간째 출구를 찾지 못하고 있다.",
+      "출구를 찾지 못하는 원인으로는 산사태 등으로 도로가 막히고, 거제시와 소방당."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n9465bfbd",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "6분 전",
-    "url": "https://www.newsis.com/view/NISX20260817_0003751391",
-    "title": "한국 모범이라더니…\"美 한미훈련 축소, 기존 태도와 대조적\"",
+    "id": "n961b4fc6",
+    "category": "경제",
+    "source": "머니투데이",
+    "time": "4분 전",
+    "url": "https://www.mt.co.kr/entertainment/2026/08/17/2026081714172887055",
+    "title": "루시 최상엽 깜짝 결혼 발표…\"소중한 인연과 새로운 출발\"",
     "summary": [
-      "[서울=뉴시스]신정원 기자 = 도널드 트럼프 미국 대통령이 16일(현지 시간) 소셜미디어를 통해 한미연합훈련인 '을지자유의방패'(을지프리덤실드·UFS) 대폭 축소를 지시했다고 밝힌 가운데, 이는 불과 3개월 전 한미 안보 동맹을 모범 사례로 꼽았던 태도와는 대조된다는 비판이 나오고 있다.",
-      "AP통신은 이번 결정은 \"최근 수개월간 트럼프 행정부가 한국에 보여준 평가와는 대조적\"이라며 피트 헤그세스 전쟁부(국방부) 장관의 지난 5월 발언을 일례로 들."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "nb3991b66",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "7분 전",
-    "url": "https://www.chosun.com/national/regional/2026/08/17/KLZVTCEB5RGLLOKUCZBSOBVLJY/",
-    "title": "폭우에 경남 가뭄 한숨 돌렸다…농업용수 저수율 32%→43%",
-    "summary": [
-      "폭우에 경남 가뭄 한숨 돌렸다…농업용수 저수율 32%→43%."
+      "그룹 루시 멤버 최상엽(32)이 결혼한다.",
+      "루시 소속사 미스틱은 17일 \"소속 아티스트 루시 최상엽이 8월 소중한 인연과 새로운 출발을 앞두고 있다\"라고 했다.",
+      "이어 \"갑작스러운 소식에 놀라셨을 팬 여러분들의 마음을 잘 헤아리고 있다, 따뜻한 마음으로 지켜봐 주시면 감사하겠다\"라며 \"최상엽은 앞으로도 루시의 멤버로서 변함없이 좋은 음악과 활동으로 팬 여러분께 보답할 예정이다\"라고 했다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n26682e36",
+    "id": "n4d955003",
     "category": "IT",
     "source": "아시아경제",
-    "time": "17분 전",
-    "url": "https://view.asiae.co.kr/article/2026081713040628419",
-    "title": "\"강원랜드인 줄 알았는데\"…'불법 도박 사이트에 780억 오갔다'",
+    "time": "4분 전",
+    "url": "https://view.asiae.co.kr/article/2026081712140960122",
+    "title": "구미도시공사, 고객만족도 91.3점…6년 연속 최우수",
     "summary": [
-      "강원랜드를 사칭해 해외에 서버를 두고 불법 카지노 게임을 제공한 일당이 경찰에 붙잡혔다.",
-      "17일 경북경찰청 사이버수사대는 강원랜드를 사칭해 합법적인 도박사이트로 속여 실시간 생중계로 불법 게임을 제공한 혐의(도박공간개설 등)로 도박사이트 국내 총책 러시아계 외국인 A씨(30대) 등 58명을 붙잡고 이 가운데 5명을 구속했다고 밝혔다.",
-      "나머지는 같은 혐의로 불구속 입건했다."
+      "경북 구미도시공사가 고객만족도 조사에서 91.3점을 기록하며 6년 연속 최우수기관에 선정됐다.행정안전부 주관, 지방공기업평가원 실시로 전국 389개 지방공기업을 대상으로 진행됐다.",
+      "이번 조사에서 구미도시공사는 최근 1년간 서비스를 이용한 고객 570명의 평가를 받았다.",
+      "전국 평균 84.7점보다 6.6점 높은 수준이다."
     ],
     "chips": [
-      "#뉴스"
+      "#AI"
     ]
   },
   {
-    "id": "ne81e41db",
+    "id": "n41852dd1",
     "category": "사회",
-    "source": "연합뉴스",
-    "time": "21분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260817037600530",
-    "title": "거제·통영 물폭탄에 국가소방동원령…136명 구조·1명 사망",
+    "source": "머니투데이",
+    "time": "8분 전",
+    "url": "https://www.mt.co.kr/living/2026/08/17/2026081710515831439",
+    "title": "롯데, 청년 직무 아카데미 '리프트' 진행…유통·호텔 실무교육 진행",
     "summary": [
-      "(서울=연합뉴스) 차민지 기자 = 소방청은 17일 경남 거제와 통영에 내린 집중호우로 침수와 산사태 등 피해가 잇따르자 국가소방동원령을 발령하고..."
+      "롯데그룹은 오는 18일부터 청년 직무 아카데미인 '리프트(LIFT, Lifetime Inspiration For Tomorrow)' 교육을 시작한다고 17일 밝혔다.",
+      "리프트는 고용노동부가 청년들의 직무 역량 강화와 취업을 지원하기 위해 추진하는 K-뉴딜 아카데미 사업의 일환으로 취업 준비생을 대상으로 유통과 호텔·서비스 분야의 교육 프로그램을 운영한다.",
+      "롯데는 서류 심사와 온라인 면접을 거쳐 200여명의 교육생을 선발했으며 이들은 앞으로 12주."
     ],
     "chips": [
-      "#뉴스"
+      "#취업",
+      "#고용",
+      "#교육"
     ]
   },
   {
-    "id": "nea53c625",
+    "id": "nac74a59f",
     "category": "스포츠",
-    "source": "아시아경제",
-    "time": "23분 전",
-    "url": "https://view.asiae.co.kr/article/2026081712433211970",
-    "title": "\"한국서 보신탕집 갈 뻔\"…'못생긴 개' 1위 퍼그 사연",
-    "summary": [
-      "한국에서 구조된 퍼그종 개 '진니 루(Jinny Lu)'가 미국에서 열린 '세계에서 가장 못생긴 개(World's Ugliest Dog)' 대회에서 우승했다.",
-      "지난해 준우승에 이어 네 번째 도전 끝에 정상에 오른 이 개의 과거 사연이 알려지면서 눈길을 끌고 있다.",
-      "뉴욕포스트 등은 진니 루는 지난 15일(한국시간) 미국 캘리포니아주 산타로사 소노마 카운티 페어그라운드에서 열린 제50회 대회에서 1위를 차지했다고 17일 보도했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n00ad556a",
-    "category": "경제",
-    "source": "한국경제",
-    "time": "23분 전",
-    "url": "https://www.hankyung.com/article/2026081749757",
-    "title": "\"이란 강경파, 종전 MOU 불신…미국과 확전 대비\"",
-    "summary": [
-      "\"이란 강경파, 종전 MOU 불신…미국과 확전 대비\"."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nc368ae3d",
-    "category": "경제",
     "source": "조선일보",
-    "time": "24분 전",
-    "url": "https://www.chosun.com/economy/economy_general/2026/08/17/I3TANKVD5ZF3HDSCZ6LDON3VBQ/",
-    "title": "금리 ‘동결’ 전망에도 치솟는 美 장기 국채 금리…워시 vs 채권 시장, 승자는?",
+    "time": "8분 전",
+    "url": "https://www.chosun.com/sports/world-football/2026/08/17/G4ZWCMJZMYZGEYJTGM2GCZBYME/",
+    "title": "\"아마도 올해가 마지막\" 호날두, 충격 고백! 또 한 명의 전설 떠난다...'25년 커리어' 은퇴 예고 \"멋진 유산 남기고파\"",
     "summary": [
-      "금리 ‘동결’ 전망에도 치솟는 美 장기 국채 금리…워시 vs 채권 시장, 승자는?."
+      "[OSEN=고성환 기자] 또 한 시대가 막을 내린다.",
+      "크리스티아누 호날두(41, 알 나스르)가 마침내 커리어의 끝을 선언했다.",
+      "그가 직접 2026-2027시즌이 축구선수로서 자신의 마지막이 될 것이라고 밝혔다.'ESPN'은 17일(한국시간) \"호날두는 은퇴 계획을 공개했다."
     ],
     "chips": [
-      "#금리"
+      "#뉴스"
     ]
   },
   {
-    "id": "ndbedcb16",
+    "id": "n94902a6a",
     "category": "사회",
-    "source": "연합뉴스",
-    "time": "25분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260817036200001",
-    "title": "국힘 '개헌 골프'發 여진 계속…\"연임 노림수\" 공세 속 경계감",
+    "source": "머니투데이",
+    "time": "10분 전",
+    "url": "https://www.mt.co.kr/politics/2026/08/17/2026081714143541570",
+    "title": "[속보]李대통령 \"존경하고 사랑하는 당원 동지 여러분, 우리는 하나\"",
     "summary": [
-      "(서울=연합뉴스) 박수윤 조다운 기자 = 이재명 대통령과 국민의힘 중진 의원 간 '골프 회동'에서 개헌이 화두로 올랐던 사실이 알려지면서 국민의..."
+      "[the300] 이재명 대통령, 17일 더불어민주당 전당대회 영상축사...."
     ],
     "chips": [
       "#정치"
     ]
   },
   {
-    "id": "nbf9b42a1",
-    "category": "경제",
-    "source": "아시아경제",
-    "time": "30분 전",
-    "url": "https://view.asiae.co.kr/article/2026081712395703812",
-    "title": "\"운명의 상대라 생각했다\"…26세 남성과 60세 여성 부부 탄생",
-    "summary": [
-      "일본에서 26세 남성과 60세 여성 부부가 TV 프로그램에 출연해 화제다.",
-      "최근 아메바 예능 프로그램 '가만히 있을 수 없는 여자들'에는 34살 나이 차이의 연상연하 부부가 출연했다.",
-      "60세인 아내 히로미와 26세인 남편 고타는 만난 지 1년 만에 결혼했고, 현재는 내 집 마련을 꿈꾸며 함께 살고 있다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n89a81be4",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "31분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260817036800089",
-    "title": "시진핑, 톈안먼 언급하며 \"장쩌민, 당의 정확한 결정 집행\"",
-    "summary": [
-      "(상하이=연합뉴스) 차병섭 특파원 = 시진핑 중국 국가주석이 1989년 톈안먼 민주화 시위와 관련해 \"장쩌민 전 국가주석이 (중국공산당) 당 중..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n6b64b2f9",
-    "category": "경제",
-    "source": "한국경제",
-    "time": "30분 전",
-    "url": "https://www.hankyung.com/article/202608174883i",
-    "title": "\"떨이인 줄 알았는데\"…폭염 속 의외로 잘 팔린 '생선회' [류은혁의 유통기한]",
-    "summary": [
-      "\"떨이인 줄 알았는데\"…폭염 속 의외로 잘 팔린 '생선회' [류은혁의 유통기한]."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n634aeb66",
-    "category": "사회",
-    "source": "연합뉴스(경제)",
-    "time": "32분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260816026051002",
-    "title": "정부 세제개편안 ISA '핀셋 손질'…부동산 골격은 국회논의 전망(종합)",
-    "summary": [
-      "(세종=연합뉴스) 송정은 기자 = 정부는 세제 개편안 입법 예고 후 의견 수렴 중인 가운데 개인종합자산관리계좌(ISA)의 연간 납부 한도 이월과..."
-    ],
-    "chips": [
-      "#부동산",
-      "#정치"
-    ]
-  },
-  {
-    "id": "n2fdc5593",
+    "id": "n726e8e66",
     "category": "스포츠",
+    "source": "조선일보",
+    "time": "10분 전",
+    "url": "https://www.chosun.com/entertainments/broadcast/2026/08/17/HEZTSNJRME3TSMTDMUYDINLBHE/",
+    "title": "이대호 웃음기 싹 지웠다…동료 고별전에 응원·승리 마음 교차 ('불꽃야구2')",
+    "summary": [
+      "<방송사에서 제공한 자료를 바탕으로 작성된 프리뷰 기사입니다.>[OSEN=장우영 기자] 승자만이 미소 짓는 냉정한 승부의 세계가 열린다.17일 공개되는 스튜디오C1 야구 예능 ‘불꽃야구2’에서는 불꽃 파이터즈와 화성 코리요의 낭만 가득한 승부가 펼쳐진다.선발투수 신재영은 예리한 제구력을 바탕으로 무패 행진을 이어오던 ‘에이스’답지 않게 흔들리는 모습을 보인."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
+    "id": "n6603806c",
+    "category": "사회",
+    "source": "머니투데이",
+    "time": "11분 전",
+    "url": "https://www.mt.co.kr/politics/2026/08/17/2026081714114991472",
+    "title": "[속보]李대통령 \"오늘부터 새 지도부 중심으로 다시 하나로 똘똘 뭉쳐야\"",
+    "summary": [
+      "[the300] 이재명 대통령, 17일 더불어민주당 전당대회 영상축사...."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n90bd7ccf",
+    "category": "사회",
     "source": "동아일보",
-    "time": "32분 전",
-    "url": "https://www.donga.com/news/Sports/article/all/20260817/134488348/1",
-    "title": "축구협회 “임시 감독 서류 전형 완료…이번주 온라인 면접”",
+    "time": "11분 전",
+    "url": "https://www.donga.com/news/Inter/article/all/20260817/134488668/2",
+    "title": "타지로 떠난 자녀 대신해…시골 노부모 찾아가는 30대 남성",
     "summary": [
-      "대한축구협회가 남자 축구 국가대표팀 임시 감독 공개 채용 관련 진행 상황을 17일 공지했다.축구협회는 “지난 주말 서류 적격 심사 및 결과 검수와 합격 여부 통보 등 지원자 서류 전형을 완료했다”며 “금주 중 온라인 면접을 진행할 예정”이라고 알렸다.또한 면접 전형은 각 후보자 일정 조율 과정에서 일부 변경될 수 있으며, 후보자 현황과 합격 여부 등은 개인정보보호 및 채용이 진행 중인 관계로 안내하지 않는다고 덧붙였다.축구대표팀은 2026 국제."
+      "중국의 30대 남성이 자식을 대신해 홀로 지내는 노부모를 찾아가는 서비스를 벌이고 있어 관심을 끌고 있다.",
+      "그가 1년간 산골 마을을 찾은 횟수만 200차례가 넘는다.16일(현지 시간) 홍콩 사우스차이나모닝포스트(SCMP)에 따르면 화제의 주인공은 편의점을 운영하고 있는 후베이(湖北)성 이창(宜昌) 출신 톈루이(39).",
+      "그는 과거 산고 마을을 돌아다니며 택배일을 했던 경험을 살려 지난해부터 홀로 사는 노인들을 찾아가는 서비스를 시작했다."
     ],
     "chips": [
-      "#채용"
+      "#뉴스"
     ]
   },
   {
-    "id": "nf5f2ecc3",
-    "category": "IT",
-    "source": "ZDNet Korea",
-    "time": "32분 전",
-    "url": "https://zdnet.co.kr/view/?no=20260817112725",
-    "title": "앤트로픽 CEO \"AI 반발, 내 경고 탓 아냐...본질은 신뢰 위기\"",
+    "id": "n480f19a0",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "11분 전",
+    "url": "https://www.newsis.com/view/NISX20260817_0003751462",
+    "title": "조국혁신당 \"극한 호우로 경남지역 피해 발생…정부에 총력 대응 촉구\"",
     "summary": [
-      "[지디넷코리아]다리오 아모데이 앤트로픽 최고경영자(CEO)가 인공지능(AI)에 대한 대중의 반발과 규제 강화 움직임이 자신의 위험 경고성 발언 때문이라는 비판에 정면으로 반박했다.16일(현지시간) 테크크런치에 따르면 아모데이 CEO는 최근 엑스(X·옛 트위터)에 올린 글에서 \"내 메시징이 불균형하게 부정적이었다는 데는 동의하지 않는다\"라고 밝혔다.",
-      "앞서 유명 투자자 개빈 베이커는 올인 팟캐스트와 엑스에서 아모데이 CEO가 AI 위험을 지나치게."
+      "[서울=뉴시스]정금민 기자 = 임명희 조국혁신당 대변인은 17일 경남 거제시 등에서 집중호우로 인한 피해가 발생한 데 대해 \"정부와 지자체의 신속하고 사후 차질 없는 총력 대응을 촉구한다\"고 했다.",
+      "임 대변인은 이날 서면 논평을 내고 \"지난 15일부터 이어진 극한 호우로 경남 지역에 막대한 피해가 발생했다\"며 이같이 말했다.",
+      "그는 \"거제시에서는 800mm가 넘는 폭우로 산사태가 발생해 안타깝게도 주민 한 분이 숨지고 두 분이 다치셨다\"며 \"유명."
     ],
     "chips": [
-      "#AI",
-      "#정책"
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n310d4e07",
+    "category": "스포츠",
+    "source": "연합뉴스",
+    "time": "13분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260817039800007",
+    "title": "1천480일만의 LG전 위닝시리즈 이끈 SSG 한유섬 \"팀에 미안했다\"",
+    "summary": [
+      "(서울=연합뉴스) 김동한 기자 = 프로야구 SSG 랜더스가 1천480일 만에 LG 트윈스를 상대로 위닝시리즈를 거두는 데 앞장선 한유섬(37)은..."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
+    "id": "n39a72b27",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "13분 전",
+    "url": "https://www.newsis.com/view/NISX20260817_0003751468",
+    "title": "'5·18 재조명 포럼' 이진숙 당 윤리위에 제소 \"중징계 내려야\"",
+    "summary": [
+      "[서울=뉴시스]김지훈 기자 = '5·18 민주화운동 재조명 포럼' 개최로 논란을 빚은 이진숙 국민의힘 의원이 국민의힘 윤리위원회에 17일 제소됐다.",
+      "국민의힘 한 책임당원은 이날 오후 책임당원 등 3700여명이 참여한 이 의원 제소장을 당사에 냈다.",
+      "이들은 제소장에서 \"원내대표가 취소를 요청했음에도 이를 묵살하고 강행했다\"라며 \"당의 공식 의사를 거역한 것\"이라고 주장했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "na141ab80",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "15분 전",
+    "url": "https://www.newsis.com/view/NISX20260817_0003751464",
+    "title": "인도네시아 7.7 강진으로 사망자 53명으로 늘어 [뉴시스Pic]",
+    "summary": [
+      "[서울=뉴시스]김진아 기자 = 인도네시아 동부 플로레스섬을 강타한 규모 7.7의 강진으로 인한 사망자가 53명으로 늘었다.",
+      "16일(현지 시간) AP통신에 따르면 인도네시아 구조당국은 구조대가 지진 잔해를 수색하는 과정에서 시신 6구를 추가로 발견해 사망자가 53명으로 집계됐다고 밝혔다.",
+      "앞서 지난 15일 오전 5시58분께 인도네시아 누사틍가라티무르주 플로레스섬에서 규모 7.7 강진이 발생했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n51a569b0",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "16분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260817026051530",
+    "title": "거제에 오늘만 577㎜…'2002년 태풍 루사' 이후 가장 많은 비(종합)",
+    "summary": [
+      "(서울=연합뉴스) 이재영 기자 = 17일 경남 거제에 570㎜가 넘는 비가 쏟아졌다."
+    ],
+    "chips": [
+      "#뉴스"
     ]
   }
 ];
@@ -642,14 +648,14 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2330건",
-    "trend": "+255%"
+    "mentions": "2590건",
+    "trend": "+295%"
   },
   {
     "rank": 2,
     "tag": "AI",
-    "mentions": "2200건",
-    "trend": "+235%"
+    "mentions": "2070건",
+    "trend": "+215%"
   },
   {
     "rank": 3,
