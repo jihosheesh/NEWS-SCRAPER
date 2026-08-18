@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-08-18 15:20:41
+// 마지막 업데이트: 2026-08-18 16:19:05
 window.NEWS_DB = [
   {
     "id": "n73d86871",
     "category": "IT",
     "source": "Chosunbiz",
-    "time": "8시간 전",
+    "time": "9시간 전",
     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPTzVjOFoxQUFvQVkwUlhJamtUVkF2ZXVqWmQycFpCUVAxSWVfdFIwZXJfdHQwaHlnLTl3aGlHMGFULUV2MjRfa2t2d29JR3RUMVdNUk1ESEJMY1RKRHBrR0VzWkhqdHFQcHBjQko2VjR3NHRXZnAwMTZMRzRxdm1mbnZQQ0lFTHFIR25j0gGfAUFVX3lxTE0weXV2MVRFWHhNMml1OTBtQjVMd1ppNUN0Szk3ZGNYXzlBZGYzWUhGLXVjOGN2NlNLcjBZWWVxRUZBck1QamlZUEx4TC1keUtQRjFhVHBVWHFqLVVUQVdaVGtLeUNIRURrdVlOZzlfbE5TWnNFb2FoWkw1MDNCREJrZEVJUGpVVDV2YmVoaW1UN3lNcmhVUWdURV8zSHN5TQ?oc=5",
     "title": "[현장의 시각] 한국산 AI 반도체, 장밋빛 미래보단 냉정한 현실 파악이 먼저다 - 조선비즈",
     "summary": [
@@ -20,7 +20,7 @@ window.NEWS_DB = [
     "id": "n29a690a3",
     "category": "IT",
     "source": "edaily.co.kr",
-    "time": "9시간 전",
+    "time": "10시간 전",
     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQZEV1RDBSdUFyYzdtRHNRMnJCYzVmVVFNd2dleDVseTEyc2dpVEtoVTU4NWpQazYyMXBXdHF1V2tTYVQtR2pEV0dwNjJ3V3dfZlJLbVJyWEJ4bmNhYkUtYW4xU3NPODRvSEYyekF3SHpvazJreThaY2o4VjAyYWhHbA?oc=5",
     "title": "\"K-반도체 슈퍼사이클 지속...내년 HBM4·파운드리 앞세운 삼성전자 질주\"[어쨌든경제]",
     "summary": [
@@ -35,7 +35,7 @@ window.NEWS_DB = [
     "id": "n429d6ff4",
     "category": "IT",
     "source": "서울파이낸스",
-    "time": "12시간 전",
+    "time": "13시간 전",
     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9zY2pmOTFvV2E1V09oWTh1SERKN01OVHBZNk03bDlYVmFqZ2RXWk1aUjZQTkVWY1M5YWpXeHJtZi1oREpMR25wcG5hTldPMURzeFV0OE9LT1E1dEVqWC1ZM3U4N3hEOFd0eVE?oc=5",
     "title": "[반도체 패권 전쟁 ④] 삼성전자·SK하이닉스의 승부수···HBM 넘어 ‘AI 반도체 기업’으로 진화하라",
     "summary": [
@@ -52,7 +52,7 @@ window.NEWS_DB = [
     "id": "n6066b0a5",
     "category": "IT",
     "source": "비즈니스포스트",
-    "time": "13시간 전",
+    "time": "14시간 전",
     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE91T3BqOGpUMEk3QjcwcnlOdU5rcXlNMGRJQVB6Ukh6bWNVYTZCYk92ZlJPdE8tcWFfNXZuZHFjdl9aYUF2b3dJdDFSY2pCbFZwOGYyNVJFUXVBQ09teFZhbm5oV2d5Y05ZZGMzQ2NFeG5oTm8?oc=5",
     "title": "반도체 가격 상승 \"최소한 2년 더 지속\" 전망, AI 데이터센터 수요가 버블 우려 잠재워",
     "summary": [
@@ -67,7 +67,7 @@ window.NEWS_DB = [
     "id": "nd3f35837",
     "category": "IT",
     "source": "연합뉴스",
-    "time": "19시간 전",
+    "time": "20시간 전",
     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9tYVpGSGFhVVh0clliVWxETHZzdWRCc2l0ZEhteklhbmhNeHVxXzUxWURrNG54cm5Yem1fcTZLVEVYc3RsZWlEcl9uVDVoNk5ocWNwcmRBNHlCZkHSAWBBVV95cUxPc2VBZkNraE5oc2c4X3J6T0dsX2U2U3cyMC05bnJ3czRUVXpVem5nQ18wcVNhRVV0LXNFckl2cnFLbG4tb1RsbkZYT2lTUVBKSWJQZkxmZFNjTWFwYWg5X0o?oc=5",
     "title": "엔비디아, 오픈AI 데이터센터에 150조원 보증…순환금융 지적도",
     "summary": [
@@ -126,12 +126,12 @@ window.NEWS_DB = [
   {
     "id": "n14e5eed8",
     "category": "IT",
-    "source": "zdnet.co.kr",
+    "source": "지디넷코리아",
     "time": "5일 전",
     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA0QnNPOWgxU3R2U1B4aFlUNjdweHZWUmVTUHV4amc1dURxRUxhbFlBSWxhcEtwR3drUlM4UERTazJHcEhtVzM3Z3R1UVgxTWlJOTBSamF3?oc=5",
     "title": "류제명 차관 \"30년전 네이버처럼...AI 시대 유니콘 탄생 기대\"",
     "summary": [
-      "류제명 차관 \"30년전 네이버처럼...AI 시대 유니콘 탄생 기대\" zdnet.co.kr."
+      "류제명 차관 \"30년전 네이버처럼...AI 시대 유니콘 탄생 기대\" 지디넷코리아."
     ],
     "chips": [
       "#AI",
@@ -301,12 +301,12 @@ window.NEWS_DB = [
   {
     "id": "n783ebe44",
     "category": "스포츠",
-    "source": "techm.kr",
+    "source": "테크M",
     "time": "139일 전",
     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4zeE1CWFFHZzZrMjhfLXJoWERMeW9jVzI5eF91RWV1NUxXelFvT1U5YWpyRjZaQ1NqclNTR1hoRWEwYl9qQmc4WTh5Q29TSWROU3ptQ1ZmXy1rajBVczZ1T1A0RXZ0UdIBakFVX3lxTE4tUUs3ak9IVFI3ZEtUQmg5NUpZbWRwdUN5OEFTU2JqaWN4WWJzMVJVc0pLU1U0UzVZTkRKMlRZSUIyNmhPVjVWMzBTVGxocHc2VUdVZl9rRWdUaXVxTjFSdUpzTzFPdEZHdnc?oc=5",
     "title": "'야구·축구·골프'로 갈라진 국내 OTT...스포츠 팬덤 경쟁 격화",
     "summary": [
-      "'야구·축구·골프'로 갈라진 국내 OTT...스포츠 팬덤 경쟁 격화 techm.kr."
+      "'야구·축구·골프'로 갈라진 국내 OTT...스포츠 팬덤 경쟁 격화 테크M."
     ],
     "chips": [
       "#KBO"
@@ -376,158 +376,233 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n0219419d",
-    "category": "사회",
-    "source": "뉴시스",
+    "id": "n09ac45a5",
+    "category": "경제",
+    "source": "아시아경제",
     "time": "방금 전",
-    "url": "https://www.newsis.com/view/NISX20260818_0003751908",
-    "title": "김하영 \"12kg 뺐는데 팔만 안 빠져 지방흡입수술 결심\"…장단점은",
+    "url": "https://view.asiae.co.kr/article/2026081722354047265",
+    "title": "[이주의 전시]우순옥 회고전 '예술은 이미 당신의 마음속에 있다'·김영헌 개인전 '프록시마' 外",
     "summary": [
-      "[서울=뉴시스]이지우 인턴 기자 = 배우 김하영이 지방흡입수술을 받기로 결심했다.",
-      "17일 김하영은 소셜미디어(SNS)를 통해 \"사실 고백할 것이 있다\"는 글을 올렸다.",
-      "김하영은 \"지난해 9월 결혼 전에 12㎏을 빼서 모두 '너무 말랐다' 할 정도로 홀쭉해졌다\"면서도 \"팔만 안 빠졌다\"고 밝혔다."
+      "편집자주이주의 전시는 전국 각지의 전시 중 한 주간 만나볼 수 있는 다양하고 매력적인 전시를 정리해 소개합니다.",
+      "권기수·이동기·홍경택·홍원표 4인전 'AFTER IMAGES' 이미지는 더 이상 한곳에 머물지 않는다.",
+      "권기수·이동기·홍경택·홍원표 4인전 'AFTER IMAGES'는 가상과 현실, 전통과 대중문화, 물질적 욕망과 정신적 사유가 뒤섞인 동시대의 문화 지형을 네 개의 시선으로 읽는다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "nb5f72979",
+    "id": "n527b410f",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "4분 전",
+    "url": "https://www.donga.com/news/Society/article/all/20260819/134500655/1",
+    "title": "몸 한쪽에 찌릿한 통증…근육통 아닌 ‘대상포진’",
+    "summary": [
+      "몸 한쪽에 이유 없이 찌릿한 통증이 느껴지거나 띠 모양의 물집이 생긴다면 단순 근육통이나 피부 트러블로 넘기면 안 된다.",
+      "모르고 지나치기 쉬운 대상포진 초기 증상일 수 있어서다.",
+      "증상이 나타난 뒤 72시간 안에 치료하지 않으면, 피부 병변이 회복된 뒤에도 극심한 통증이 이어지는 ‘대상포진 후 신경통’으로 이어질 수 있어 신속한 진료가 중요하다."
+    ],
+    "chips": [
+      "#의료"
+    ]
+  },
+  {
+    "id": "ne0970a8a",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "6분 전",
+    "url": "https://www.chosun.com/sports/world-football/2026/08/19/MM4TIMRUGZTDKNBZMIZWENBTMU/",
+    "title": "[오피셜]프랑스 축구 스타 파트리크 비에라, 세네갈 신임 대표팀 사령탑 선임..'티아우 후임, 9개월 만에 야인 탈출'",
+    "summary": [
+      "[스포츠조선 노주환 기자]프랑스 축구 스타 파트리크 비에라가 세네갈 축구 대표팀 사령탑에 올랐다.",
+      "세네갈축구협회는 18일(한국시각) 공식 채널을 통해 '비에라가 세네갈 대표팀의 새 감독이 됐다.",
+      "공식 취임 일정과 선임 배경은 향후 공개하겠다'고 밝혔다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nb934d02c",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "7분 전",
+    "url": "https://www.chosun.com/sports/world-football/2026/08/19/MUYTONRQGJRGIZTFGUZTSYTFHA/",
+    "title": "[오피셜]\"훌리안 알바레즈, 개막전 출전 불가능\" 아틀레티코 시메오네 감독의 개막전 사전 기자회견 \"제2의 그리즈만 없다, 그리울 것이다\"",
+    "summary": [
+      "[스포츠조선 노주환 기자]\"훌리안은 개막전에 출전할 준비가 돼 있지 않다.\" 아틀레티코 마드리드 사령탑 디에고 시메오네 감독이 주 공격수 훌리안 알바레즈의 개막전 출전이 어렵다고 밝혔다.",
+      "팀 합류가 늦었고 몸상태가 아직 원하는 수준에 도달하지 않았다는 것이다.",
+      "아틀레티코는 20일 오전 4시(한국시각) 스페인 마드리드 홈에서 말라가와 2026~2027시즌 라."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "ne74f1006",
+    "category": "스포츠",
+    "source": "아시아경제",
+    "time": "18분 전",
+    "url": "https://view.asiae.co.kr/article/2026081820280333986",
+    "title": "‘긴 방학이 끝났다’…KPGA 하반기 동아회원권그룹 오픈 스타트",
+    "summary": [
+      "한국프로골프(KPGA) 투어가 여름 휴식기를 마치고 하반기 대회를 시작한다.",
+      "KPGA 투어는 20일부터 나흘간 충남 태안의 솔라고 컨트리클럽(파72)에서 동아회원권그룹 오픈(총상금 7억원)을 개최한다.",
+      "지난 6월 KPGA 군산CC 오픈 이후 두 달여 만에 열리는 대회다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n20654009",
     "category": "사회",
     "source": "뉴시스",
-    "time": "2분 전",
-    "url": "https://www.newsis.com/view/NISX20260818_0003752685",
-    "title": "\"엄마 집서 먹고 올게\"…밥상 문제로 파경 위기 맞은 2년 차 부부",
+    "time": "19분 전",
+    "url": "https://www.newsis.com/view/NISX20260818_0003752610",
+    "title": "'2개월반 만에 30kg 감량' 쓰러졌던 정준하…단기 다이어트의 위험성",
     "summary": [
-      "[서울=뉴시스]장인혜 인턴 기자 = 맞벌이 신혼부부가 저녁 식사 문제로 갈등을 겪다 아내가 이혼까지 고려하게 된 사연이 알려졌다.",
-      "결혼 2년 차 맞벌이 아내 A씨는 최근 한 인터넷 공간에 남편 밥을 차리는 문제로 결혼생활을 계속할 수 있을지 회의감이 든다며 고민을 올렸다.",
-      "간소한 식사를 선호하는 A씨와 달리 남편은 매번 새롭고 맛있는 요리가 있어야 식사를 하는 성향이었다."
+      "[서울=뉴시스]이지우 인턴 기자 = 방송인 정준하가 단기간에 30㎏을 감량한 경험을 밝혔다.",
+      "지난 11일 유튜브 채널 '알딸딸한참견' 영상에 출연한 정준하는 과거 예능 프로그램 무한도전에 출연할 당시 바디프로필을 찍기 위해 다이어트를 진행했다고 회상했다.",
+      "정준하는 하루에 아몬드 여섯 알과 물오징어 여섯 마리만 먹으면서 체중 감량에 집중했다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n9e7c284a",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "8분 전",
-    "url": "https://www.chosun.com/sports/baseball/2026/08/19/HEZWCOBXMNSTIMRYMJQTAMDCGU/",
-    "title": "와 1⅓이닝 또 막았다! 이의리의 철벽 피칭 SV…사령탑도 활짝, \"위기 상황 막아 결국 승리했다\"",
-    "summary": [
-      "[대전=스포츠조선 이종서 기자] 접전의 연속.",
-      "승자는 확실한 불펜 투수를 둔 KIA 타이거즈가 됐다.",
-      "KIA는 18일 대전 한화생명볼파크에서 열린 한화 이글스와의 원정경기에서 4대3으로 승리했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n2596562b",
-    "category": "사회",
-    "source": "머니투데이",
-    "time": "8분 전",
-    "url": "https://www.mt.co.kr/sports/2026/08/19/2026081816384172399",
-    "title": "'19세 유망주 사고사' 충격 전말 공개, 운전자 형사처벌도 없다 \"현지 경찰 조사 결과...\"",
-    "summary": [
-      "사이클 대회 도중 불의의 사고로 세상을 떠난 영국의 19세의 비극적인 사고 전말이 경찰 조사를 통해 드러났다.",
-      "관중들이 경기가 끝난 것으로 착각해 일반 차량의 진입을 유도했던 것이 치명적인 참사로 이어진 것으로 밝혀졌다.",
-      "영국 매체 '데일리 메일'은 18일(한국시간) \"포르투갈 공화국수비대의 조사 결과 현장 경찰이 부재했던 도로 진입로에서 관중들이 밴 차량 운전자에게 손짓으로 주행을 허용한 것이 핀레이 탈링과 치명적인 충돌 사고로 이어졌다\"고."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n78adeca2",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "8분 전",
-    "url": "https://www.chosun.com/sports/basketball/2026/08/19/GU4WKMBZMZTGGOBSMRQTANBZMU/",
-    "title": "‘한일전 광복절 굴욕, 동생들이 대신 갚았다!’ U18대표팀, 일본 꺾고 3연승 질주…8강 직행 확정",
-    "summary": [
-      "[OSEN=서정환 기자] 형들이 일본에 당한 굴욕을 동생들이 대신 갚아줬다.",
-      "신종석 감독이 이끄는 U18 남자농구대표팀은 18일 인도 아메다드 비르 사바르카르 인도어 스타디움에서 개최된 FIBA U18 아시아컵 D조 예선 3차전에서 일본을 접전 끝에 67-64로 물리쳤다.",
-      "3연승을 달린 한국은 D조 선두를 확정지었다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n884dd5c8",
+    "id": "n1cc251cc",
     "category": "사회",
     "source": "뉴시스",
-    "time": "10분 전",
-    "url": "https://www.newsis.com/view/NISX20260818_0003753356",
-    "title": "IAEA, 시리아 비공개 장소서 핵물질 확인…정부 \"계속 보관\"",
+    "time": "24분 전",
+    "url": "https://www.newsis.com/view/NISX20260819_0003753363",
+    "title": "디즈니, ABC 방송면허 지키기 소송…트럼프 정부와 정면충돌",
     "summary": [
-      "[서울=뉴시스] 신효령 기자 = 국제원자력기구(IAEA)가 시리아 내 공개되지 않은 장소에 보관돼 있던 핵물질의 존재를 확인했다.",
-      "시리아 새 정부는 IAEA의 안전조치 아래 이 물질을 자국에 보관하고 평화적 목적으로 사용하겠다는 입장을 밝혔다.",
-      "18일(현지시간) AP통신 등 외신에 따르면 라파엘 그로시 IAEA 사무총장은 이날 시리아 수도 다마스쿠스에서 아사드 알시바니 시리아 외무장관과 공동 기자회견을 열고 시리아 정부의 협조로 그동안 알려지지."
+      "[서울=뉴시스] 신효령 기자 = 미국 미디어·엔터테인먼트 기업 월트디즈니가 자회사 ABC의 방송면허를 조기에 심사하려는 연방통신위원회(FCC)를 상대로 소송을 냈다.",
+      "18일(현지시간) AP통신 등에 따르면 디즈니와 ABC는 이날 워싱턴DC 연방지방법원에 소송을 제기하고 ABC가 직접 소유한 8개 지역 방송국의 면허 갱신 절차를 중단해달라고 요청했다.",
+      "디즈니는 FCC의 조치가 자사의 표현의 자유를 침해해 수정헌법 1조에 위배된다고 주장했다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n49cf8112",
-    "category": "IT",
-    "source": "뉴시스",
-    "time": "10분 전",
-    "url": "https://www.newsis.com/view/NISX20260818_0003751850",
-    "title": "\"공항에 차 두고 왔네\"…맹승지, 의사 남친과 엉뚱 데이트·10kg 뺀 수영 비법 '눈길'",
+    "id": "n485ab531",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "24분 전",
+    "url": "https://www.donga.com/news/Inter/article/all/20260819/134500571/1",
+    "title": "스페인 그라나다 규모 4.8 지진…알람브라 일부 폐쇄",
     "summary": [
-      "[서울=뉴시스]전민영 인턴 기자 = 방송인 맹승지가 의사 남자친구와의 유쾌한 일상을 공개한 가운데, 과거 10㎏ 감량에 성공한 그의 운동 습관에도 관심이 쏠리고 있다.",
-      "맹승지는 17일 자신의 사회관계망서비스(SNS)에 \"끼리끼리 만난다는데 맞는 말 같아요\"라는 글과 함께 남자친구와의 일상을 공개했다.",
-      "그는 \"어제 남친이랑 제주에서 왔는데 공항에서 택시 안 잡혀서 오랫동안 기다리다가 카카오택시 잡혀서 둘 다 엄청 행복해했다\"며 \"근데 오늘 남친이."
+      "스페인 남부 그라나다에서 사흘 만에 또 규모 4.8 지진이 발생해 3명이 다쳤다.",
+      "세계적인 관광명소 알람브라 궁전 일부 관람도 중단됐다.18일(현지시간) 스페인 국립지리원(IGN)에 따르면 이날 오전 10시37분께 그라나다 남쪽 고하르 북서쪽을 진앙으로 규모 4.8 지진이 발생했다.",
+      "진원이 매우 얕아 도심과 인근 지역에서 강한 흔들림이 감지됐다.안달루시아 당국은 3명이 경상을 입었으며 이 가운데 미성년자 1명은 병원으로 옮겨졌다고 밝혔다."
     ],
     "chips": [
-      "#카카오"
+      "#의료"
     ]
   },
   {
-    "id": "n2947a72b",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "10분 전",
-    "url": "https://www.chosun.com/sports/baseball/2026/08/19/G5SWEOBQGBSDOM3EGVSTSNJSGQ/",
-    "title": "‘와 이런 경기가’ 0:3→1:3→2:3→3:3→6:3→6:4…솔로포+밀어내기 볼넷, 152억 포수 친정 제대로 울렸다",
+    "id": "ndbe59c13",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "41분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260819000600087",
+    "title": "팝스타 샤키라, 지진피해 고국 콜롬비아 방문해 학교 재건지원",
     "summary": [
-      "[OSEN=이후광 기자] 두산이 무서운 뒷심을 앞세워 연패를 끊어냈다.프로야구 두산 베어스는 18일 창원NC파크에서 열린 2026 신한 SOL KBO리그 NC 다이노스와의 시즌 9차전에서 6-4 역전승을 거뒀다.",
-      "두산은 주중 3연전 기선제압과 함께 2연패에서 탈출하며 시즌 56승 4무 48패를 기록했다.",
-      "반면 2연패에 빠진 NC는 46승 2무 53패가 됐다."
+      "(멕시코시티=연합뉴스) 송광호 특파원 = 콜롬비아 서부를 강타한 규모 7.4의 지진으로 대규모 피해가 발생한 가운데, 콜롬비아 출신 세계적 팝스..."
     ],
     "chips": [
-      "#KBO"
+      "#교육"
     ]
   },
   {
-    "id": "n64674f84",
+    "id": "nba2f377b",
     "category": "사회",
     "source": "조선일보",
-    "time": "10분 전",
-    "url": "https://www.chosun.com/national/national_general/2026/08/19/Z5T6JR27VZFUDKY63S2O5T5TVA/",
-    "title": "[팔면봉] 與 새 지도부 첫날, 당대표는 “벽 없는 원팀” 수석 최고위원은 “원팀 개념 바꿔야”. 외",
+    "time": "43분 전",
+    "url": "https://www.chosun.com/economy/science/2026/08/19/ORID52CAF5CUBCELDVH6X4444E/",
+    "title": "하루 여러 번 인슐린 맞아도 연속혈당측정기 건보 지원 못받아...2형당뇨 ‘사각지대’",
     "summary": [
-      "[팔면봉] 與 새 지도부 첫날, 당대표는 “벽 없는 원팀” 수석 최고위원은 “원팀 개념 바꿔야”. 외."
+      "하루 여러 번 인슐린 맞아도 연속혈당측정기 건보 지원 못받아...2형당뇨 ‘사각지대’."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "nb657f140",
-    "category": "스포츠",
-    "source": "머니투데이",
-    "time": "15분 전",
-    "url": "https://www.mt.co.kr/sports/2026/08/19/2026081822430831124",
-    "title": "첫째 아내 vs 둘째 아내 \"막장 난투극\" 지켜보던 이집트 국대 감독은 '실신'... \"싸움 직후 첫째와 이혼한 이유는?\"",
+    "id": "n83a690c9",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "44분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260819000400071",
+    "title": "이란戰 꼬인 트럼프, 동맹에 화풀이…美언론 \"韓, 최근 희생양\"",
     "summary": [
-      "이집트 축구 국가대표팀의 호삼 하산 감독이 휴가지에서 두 아내가 벌인 난투극에 충격을 받아 실신했다.",
-      "이후 그는 첫째 아내와 이혼했다.",
-      "영국 '더선'은 18일(한국시간) \"하산 감독이 이집트 북부 해안 포르토 마리나의 한 고급 호텔에서 두 아내가 머리채를 잡고 싸우는 장면을 목격한 뒤 극심한 스트레스로 쓰러졌다\"고 보도했다."
+      "(워싱턴=연합뉴스) 박성민 특파원 = 도널드 트럼프 미국 대통령이 장기화하는 이란전에서 헤어 나오지 못하면서 동맹국에 화풀이하고 있으며 그 과정..."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n6f12c4ad",
+    "category": "경제",
+    "source": "동아일보",
+    "time": "48분 전",
+    "url": "https://www.donga.com/news/Economy/article/all/20260818/134498844/2",
+    "title": "韓美日 국채금리 치솟아, 가계-기업-증시 먹구름",
+    "summary": [
+      "미국 국채 금리가 19년 만에 가장 높은 수준을 기록하고, 일본 국채 금리도 30년 만에 최고치를 찍는 등 주요국 국채 금리가 치솟고 있다.",
+      "유럽 국가들에서도 국채 금리가 10여 년 만에 최고치를 나타내고, 한국 역시 국고채가 발행된 지 14년 만에 최고 금리를 기록하는 등 가파른 상승세가 이어지고 있다.",
+      "국가 부채가 불어나고 국제 유가 급등으로 물가가 더 올라 기준금리가 인상될 수 있다는 경계감이 반영된 것으로 풀이된다."
+    ],
+    "chips": [
+      "#금리"
+    ]
+  },
+  {
+    "id": "nb81d63b4",
+    "category": "경제",
+    "source": "동아일보",
+    "time": "48분 전",
+    "url": "https://www.donga.com/news/Economy/article/all/20260818/134498859/2",
+    "title": "5대 은행 가산금리 3.27% 역대 최고… 주담대 이자 부담 산더미",
+    "summary": [
+      "부산에서 매입한 신혼집 잔금을 10월에 치러야 하는 직장인 이모 씨(34)는 최근 더 낮은 금리를 찾아 은행 8곳을 직접 돌아다녔다.",
+      "이 씨는 “금리가 대출 실행일을 기준으로 결정된다고 하는데 금리가 계속 오르고 있어 걱정”이라고 했다.",
+      "정부의 가계대출 총량 규제와 금리 상승세가 맞물리면서, 조금이라도 더 낮은 금리를 찾아 발품을 팔거나 ‘오픈런’에 나서는 수요자들이 늘고 있다."
+    ],
+    "chips": [
+      "#금리",
+      "#정책"
+    ]
+  },
+  {
+    "id": "n440a554e",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "49분 전",
+    "url": "https://www.newsis.com/view/NISX20260818_0003752806",
+    "title": "중국인 사라져 日관광 폭망하나 했더니…오히려 웃었다, 왜",
+    "summary": [
+      "[서울=뉴시스]김혜경 기자 = 일본을 찾는 중국인 관광객이 지난해보다 절반가량 급감했지만, 올해 상반기 일본을 찾은 외국인 관광객 수와 여행 소비액은 중국인 관광객 감소에도 큰 타격을 받지 않은 것으로 나타났다.",
+      "한국과 대만, 미국, 호주 등 다른 국가·지역에서 일본을 찾는 관광객이 늘면서 중국인 관광객 감소분을 상당 부분 상쇄했다는 분석이다.",
+      "지난 18일 일본 매체 제이캐스트(J-CAST)에 따르면 일본 관광청과 일본정부관광국(JNTO) 등의."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n5ce8e62e",
+    "category": "사회",
+    "source": "한국경제",
+    "time": "53분 전",
+    "url": "https://www.hankyung.com/article/202608198245i",
+    "title": "디즈니, 트럼프 정부 상대 \"표현의 자유 침해\" 소송",
+    "summary": [
+      "디즈니, 트럼프 정부 상대 \"표현의 자유 침해\" 소송."
     ],
     "chips": [
       "#뉴스"
@@ -537,7 +612,7 @@ window.NEWS_DB = [
     "id": "n995f5650",
     "category": "IT",
     "source": "연합뉴스",
-    "time": "17분 전",
+    "time": "1시간 전",
     "url": "https://www.yna.co.kr/view/AKR20260819000300009",
     "title": "뉴욕증시, 30년물 금리 상승에 '비명'…필리 지수 5.44%↓",
     "summary": [
@@ -553,85 +628,11 @@ window.NEWS_DB = [
     "id": "n12190cb9",
     "category": "사회",
     "source": "연합뉴스",
-    "time": "19분 전",
+    "time": "1시간 전",
     "url": "https://www.yna.co.kr/view/AKR20260818174400082",
     "title": "\"가자 주민 매일 죽여야\" 이스라엘 극우장관 EU 제재 받나",
     "summary": [
       "(베를린=연합뉴스) 김계연 특파원 = 팔레스타인 가자지구 주민들을 매일 살해해야 한다고 발언한 이타마르 벤그비르 이스라엘 국가안보장관을 유럽연합..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n490e2599",
-    "category": "스포츠",
-    "source": "머니투데이",
-    "time": "19분 전",
-    "url": "https://www.mt.co.kr/sports/2026/08/19/2026081821035373689",
-    "title": "폭염 취약계층 돕더니 한 달 만에 또... 쵸비 정지훈, 이번엔 '944㎜ 물폭탄' 거제 위해 나섰다! 수해 이웃에 3000만 원 기부",
-    "summary": [
-      "E-스포츠 리그 오브 레전드(LoL) 프로게임단 젠지(Gen.G)의 미드 라이너 '쵸비' 정지훈(25)이 기록적인 집중호우로 큰 피해를 본 남부지역 이재민 돕기에 힘을 보탰다.",
-      "희망브리지 전국재해구호협회는 18일 \"프로게이머 쵸비가 경남 거제 등 수해 이웃을 돕기 위해 성금 3000만 원을 기부했다\"고 밝혔다.",
-      "지난 15일부터 남해안 지역에는 기록적인 폭우가 쏟아졌다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n1a50fb49",
-    "category": "스포츠",
-    "source": "머니투데이",
-    "time": "19분 전",
-    "url": "https://www.mt.co.kr/sports/2026/08/19/2026081822331231363",
-    "title": "'경기 직전 돌연 잠적' 미스터리, 눈물 쏟은 감독 \"사랑해 마르테, 많이 걱정하고 있어\"",
-    "summary": [
-      "미국 메이저리그(MLB) 애리조나 다이아몬드백스의 간판 올스타 2루수 케텔 마르테(33)가 경기 직전 돌연 행방을 감추며 팀을 무단이탈하는 초유의 사태가 발생했다.",
-      "구단은 마르테를 즉각 '제한선수 명단'에 올리며 자체 징계를 내렸지만, 토리 로불로(61) 애리조나 감독은 경기 후 인터뷰 도중 마르테에 대한 질문에 끝내 눈물을 쏟아냈다.",
-      "사건은 18일(한국시간) 미국 매사추세츠주 보스턴에 위치한 펜웨이 파크에서 열린 애리조나 다이아몬드백스와 보스."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n96d81bb4",
-    "category": "경제",
-    "source": "한국경제",
-    "time": "20분 전",
-    "url": "https://www.hankyung.com/article/2026081881567",
-    "title": "[오늘의 운세] 오늘 뭐 먹지?…8월 19일 띠별 추천 점심메뉴",
-    "summary": [
-      "[오늘의 운세] 오늘 뭐 먹지?…8월 19일 띠별 추천 점심메뉴."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "ne3ce340d",
-    "category": "경제",
-    "source": "한국경제",
-    "time": "20분 전",
-    "url": "https://www.hankyung.com/article/2026081881517",
-    "title": "[오늘의 운세] 2026년 8월 19일 별자리 운세",
-    "summary": [
-      "[오늘의 운세] 2026년 8월 19일 별자리 운세."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n09a5fb92",
-    "category": "경제",
-    "source": "한국경제",
-    "time": "20분 전",
-    "url": "https://www.hankyung.com/article/2026081881547",
-    "title": "[오늘의 운세] 8월 19일 띠별 운세",
-    "summary": [
-      "[오늘의 운세] 8월 19일 띠별 운세."
     ],
     "chips": [
       "#뉴스"
@@ -644,8 +645,8 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2980건",
-    "trend": "+355%"
+    "mentions": "2460건",
+    "trend": "+275%"
   },
   {
     "rank": 2,
