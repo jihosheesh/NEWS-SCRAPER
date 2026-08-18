@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-08-18 21:13:05
+// 마지막 업데이트: 2026-08-18 22:11:43
 window.NEWS_DB = [
   {
     "id": "n73d86871",
     "category": "IT",
     "source": "Chosunbiz",
-    "time": "14시간 전",
+    "time": "15시간 전",
     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPTzVjOFoxQUFvQVkwUlhJamtUVkF2ZXVqWmQycFpCUVAxSWVfdFIwZXJfdHQwaHlnLTl3aGlHMGFULUV2MjRfa2t2d29JR3RUMVdNUk1ESEJMY1RKRHBrR0VzWkhqdHFQcHBjQko2VjR3NHRXZnAwMTZMRzRxdm1mbnZQQ0lFTHFIR25j0gGfAUFVX3lxTE0weXV2MVRFWHhNMml1OTBtQjVMd1ppNUN0Szk3ZGNYXzlBZGYzWUhGLXVjOGN2NlNLcjBZWWVxRUZBck1QamlZUEx4TC1keUtQRjFhVHBVWHFqLVVUQVdaVGtLeUNIRURrdVlOZzlfbE5TWnNFb2FoWkw1MDNCREJrZEVJUGpVVDV2YmVoaW1UN3lNcmhVUWdURV8zSHN5TQ?oc=5",
     "title": "[현장의 시각] 한국산 AI 반도체, 장밋빛 미래보단 냉정한 현실 파악이 먼저다 - 조선비즈",
     "summary": [
@@ -20,7 +20,7 @@ window.NEWS_DB = [
     "id": "n29a690a3",
     "category": "IT",
     "source": "edaily.co.kr",
-    "time": "15시간 전",
+    "time": "16시간 전",
     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQZEV1RDBSdUFyYzdtRHNRMnJCYzVmVVFNd2dleDVseTEyc2dpVEtoVTU4NWpQazYyMXBXdHF1V2tTYVQtR2pEV0dwNjJ3V3dfZlJLbVJyWEJ4bmNhYkUtYW4xU3NPODRvSEYyekF3SHpvazJreThaY2o4VjAyYWhHbA?oc=5",
     "title": "\"K-반도체 슈퍼사이클 지속...내년 HBM4·파운드리 앞세운 삼성전자 질주\"[어쨌든경제]",
     "summary": [
@@ -34,12 +34,12 @@ window.NEWS_DB = [
   {
     "id": "n429d6ff4",
     "category": "IT",
-    "source": "seoulfn.com",
-    "time": "17시간 전",
+    "source": "서울파이낸스",
+    "time": "18시간 전",
     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9zY2pmOTFvV2E1V09oWTh1SERKN01OVHBZNk03bDlYVmFqZ2RXWk1aUjZQTkVWY1M5YWpXeHJtZi1oREpMR25wcG5hTldPMURzeFV0OE9LT1E1dEVqWC1ZM3U4N3hEOFd0eVE?oc=5",
     "title": "[반도체 패권 전쟁 ④] 삼성전자·SK하이닉스의 승부수···HBM 넘어 ‘AI 반도체 기업’으로 진화하라",
     "summary": [
-      "[반도체 패권 전쟁 ④] 삼성전자·SK하이닉스의 승부수···HBM 넘어 ‘AI 반도체 기업’으로 진화하라 seoulfn.com."
+      "[반도체 패권 전쟁 ④] 삼성전자·SK하이닉스의 승부수···HBM 넘어 ‘AI 반도체 기업’으로 진화하라 서울파이낸스."
     ],
     "chips": [
       "#AI",
@@ -51,12 +51,12 @@ window.NEWS_DB = [
   {
     "id": "nd3f35837",
     "category": "IT",
-    "source": "yna.co.kr",
+    "source": "연합뉴스",
     "time": "1일 전",
     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9tYVpGSGFhVVh0clliVWxETHZzdWRCc2l0ZEhteklhbmhNeHVxXzUxWURrNG54cm5Yem1fcTZLVEVYc3RsZWlEcl9uVDVoNk5ocWNwcmRBNHlCZkHSAWBBVV95cUxPc2VBZkNraE5oc2c4X3J6T0dsX2U2U3cyMC05bnJ3czRUVXpVem5nQ18wcVNhRVV0LXNFckl2cnFLbG4tb1RsbkZYT2lTUVBKSWJQZkxmZFNjTWFwYWg5X0o?oc=5",
     "title": "엔비디아, 오픈AI 데이터센터에 150조원 보증…순환금융 지적도",
     "summary": [
-      "엔비디아, 오픈AI 데이터센터에 150조원 보증…순환금융 지적도 yna.co.kr."
+      "엔비디아, 오픈AI 데이터센터에 150조원 보증…순환금융 지적도 연합뉴스."
     ],
     "chips": [
       "#AI",
@@ -81,12 +81,12 @@ window.NEWS_DB = [
   {
     "id": "n9763e68e",
     "category": "사회",
-    "source": "투데이경제",
+    "source": "tookyung.com",
     "time": "4일 전",
     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBEZVV0SG5SS2kwVUNpWjN4X19kU2JxOTFqY293UVVaUTc4UkxKLWVOMTFBS21XY1dTejB4YlVQY3RvV0d5SGZjNU1fVUxZVjQwcXFHZFk5MVBSdjNZZFJkc2tPZVlIOHdLSldv?oc=5",
     "title": "수원특례시, 8월 '일자리 두드림 구인·구직의 날' 개최한다… 5개 업체 참여해 18명 채용",
     "summary": [
-      "수원특례시, 8월 '일자리 두드림 구인·구직의 날' 개최한다… 5개 업체 참여해 18명 채용 투데이경제."
+      "수원특례시, 8월 '일자리 두드림 구인·구직의 날' 개최한다… 5개 업체 참여해 18명 채용 tookyung.com."
     ],
     "chips": [
       "#채용",
@@ -97,12 +97,12 @@ window.NEWS_DB = [
   {
     "id": "n5e7afdfd",
     "category": "IT",
-    "source": "businesspost.co.kr",
+    "source": "비즈니스포스트",
     "time": "4일 전",
     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9BZThJckF2RlR3cVdldGZxbWVrNTZpMVRoYkQ3bGlPREF3cDBFV2dWeXowQ3paVmFTV2hzSVhpZUpETUdnR0lDa3FNTHEzODdYOUwxMGNWUWQ0dk9vdDZzVzBWbkJtdnR1a0NjTWZkaVFxMkk?oc=5",
     "title": "엔비디아 차세대 AI 반도체 '파인만' 양산 서두르나, 삼성전자 SK하이닉스 HBM 경쟁에도 변수",
     "summary": [
-      "엔비디아 차세대 AI 반도체 '파인만' 양산 서두르나, 삼성전자 SK하이닉스 HBM 경쟁에도 변수 businesspost.co.kr."
+      "엔비디아 차세대 AI 반도체 '파인만' 양산 서두르나, 삼성전자 SK하이닉스 HBM 경쟁에도 변수 비즈니스포스트."
     ],
     "chips": [
       "#AI",
@@ -128,12 +128,12 @@ window.NEWS_DB = [
   {
     "id": "n14e5eed8",
     "category": "IT",
-    "source": "지디넷코리아",
+    "source": "zdnet.co.kr",
     "time": "5일 전",
     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA0QnNPOWgxU3R2U1B4aFlUNjdweHZWUmVTUHV4amc1dURxRUxhbFlBSWxhcEtwR3drUlM4UERTazJHcEhtVzM3Z3R1UVgxTWlJOTBSamF3?oc=5",
     "title": "류제명 차관 \"30년전 네이버처럼...AI 시대 유니콘 탄생 기대\"",
     "summary": [
-      "류제명 차관 \"30년전 네이버처럼...AI 시대 유니콘 탄생 기대\" 지디넷코리아."
+      "류제명 차관 \"30년전 네이버처럼...AI 시대 유니콘 탄생 기대\" zdnet.co.kr."
     ],
     "chips": [
       "#AI",
@@ -173,12 +173,12 @@ window.NEWS_DB = [
   {
     "id": "nac7d261c",
     "category": "사회",
-    "source": "yna.co.kr",
+    "source": "연합뉴스",
     "time": "18일 전",
     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1wZmd4RTNaSTBwNVNxSm0yRGFySTlYN19qVTZfYzRtVzBzVV9nSnR3RXdYaTNiNkZRX3F6aXhFZTA5ekUxNW9VWHIzZHFjYnoyWU0wVDNoU2FJcVE?oc=5",
     "title": "강남구 일자리통합지원센터, 맞춤형 지원으로 취업자 25.7％ 증가",
     "summary": [
-      "강남구 일자리통합지원센터, 맞춤형 지원으로 취업자 25.7％ 증가 yna.co.kr."
+      "강남구 일자리통합지원센터, 맞춤형 지원으로 취업자 25.7％ 증가 연합뉴스."
     ],
     "chips": [
       "#취업",
@@ -274,12 +274,12 @@ window.NEWS_DB = [
   {
     "id": "n5a1617c5",
     "category": "부동산",
-    "source": "biz.heraldcorp.com",
+    "source": "헤럴드경제",
     "time": "98일 전",
     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1TS2Q2aDJMQXUtYUMtcmZTZkUtNXVycDVXUTFSYk1oeTg4TXNFTXQxN3RtcGVlRUJxMWlMWXk0c05lRFFvemxzYk0wa1hsZXMwbm1hVWtn?oc=5",
     "title": "집값 상승, 전세품귀에…서울, 분양전망 1달 만에 기준치 회복 [부동산360]",
     "summary": [
-      "집값 상승, 전세품귀에…서울, 분양전망 1달 만에 기준치 회복 [부동산360] biz.heraldcorp.com."
+      "집값 상승, 전세품귀에…서울, 분양전망 1달 만에 기준치 회복 [부동산360] 헤럴드경제."
     ],
     "chips": [
       "#부동산",
@@ -289,12 +289,12 @@ window.NEWS_DB = [
   {
     "id": "nba668fc0",
     "category": "IT",
-    "source": "한국방송뉴스",
+    "source": "ikbn.news",
     "time": "111일 전",
     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1XaThhZXFiX3dDT0NrYVFwZ2dhNTgxbHU0WE5Bc21vcGVzR0d2Wkh2Zm5pS2MyZ1JkYlhHb2VfRkhkemdEX1F6Q1RtajJLRzR6dDdHcExQelAyS2N1OUE?oc=5",
     "title": "1조 8000억 규모 벤처펀드 선정…\"벤처·스타트업에 적시 공급\"",
     "summary": [
-      "1조 8000억 규모 벤처펀드 선정…\"벤처·스타트업에 적시 공급\" 한국방송뉴스."
+      "1조 8000억 규모 벤처펀드 선정…\"벤처·스타트업에 적시 공급\" ikbn.news."
     ],
     "chips": [
       "#스타트업"
@@ -315,227 +315,278 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n498a9d4e",
-    "category": "부동산",
-    "source": "머니투데이",
-    "time": "2분 전",
-    "url": "https://www.mt.co.kr/estate/2026/08/19/2026081814034765996",
-    "title": "청년·신혼부부 대상 '용산공원 주택' 검토… 토양정화·법 개정 '변수'",
-    "summary": [
-      "[용산공원 주택공급 공론화] 용산공원 주택 공급을 둘러싼 찬반 논란이 커지면서 청와대가 직접 국민 의견을 수렴하는 방안을 검토하고 있다.",
-      "국가공원으로 조성해 온 용산공원 일부를 주택 공급에 활용하는 사안인 만큼 주택 공급 여부뿐 아니라 어떤 부지를 활용할지, 누구에게 어떤 방식으로 공급할지 등에 대한 사회적 합의가 필요하다는 판단이다.",
-      "국토교통부는 일단 용산어린이정원에 한정하지 않고 용산공원 전체에서 주택 공급에 적합한 부지를 찾아보겠다는 입장."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n94970f4c",
-    "category": "경제",
-    "source": "아시아경제",
-    "time": "2분 전",
-    "url": "https://view.asiae.co.kr/article/2026081815500479530",
-    "title": "다시 '160엔 엔저'…카드사, 日여행 전 과정서 고객 접점 넓힌다",
-    "summary": [
-      "엔화 약세가 장기화하면서 카드업계가 일본 여행객을 겨냥한 서비스 경쟁을 강화하고 있다.",
-      "일본 여행 수요가 꾸준히 이어지는 가운데 환전 서비스부터 현지 교통·쇼핑 결제, 숙박·관광 할인까지 여행 전 과정으로 고객 접점이 넓어지는 모습이다.",
-      "19일 금융권에 따르면 최근 엔화 가치가 급락하면서 미·일 당국이 외환시장에 개입해 엔·달러 환율이 155엔대까지 떨어졌지만 다시 160엔선에 바짝 다가섰다."
-    ],
-    "chips": [
-      "#환율"
-    ]
-  },
-  {
-    "id": "ne86c78e3",
-    "category": "경제",
-    "source": "머니투데이",
-    "time": "7분 전",
-    "url": "https://www.mt.co.kr/world/2026/08/19/2026081906033827526",
-    "title": "'이란→유가→금리→증시' 악순환 또…반도체주 주르륵[뉴욕마감]",
-    "summary": [
-      "뉴욕증시 3대 지수가 18일(현지시간) 중동 정세 불안과 미국 국채 금리 급등 여파로 일제히 하락했다.",
-      "이날 뉴욕증권거래소에서 S&P500지수는 전장보다 53.30포인트(0.69%) 하락한 7691.76에, 기술주 중심의 나스닥종합지수는 355.20포인트(1.33%) 내린 2만6289.71에 각각 마감했다.",
-      "다우존스30산업평균지수는 전장보다 116.38포인트(0.22%) 떨어진 5만3343.40에 거래를 마쳤다."
-    ],
-    "chips": [
-      "#반도체",
-      "#금리"
-    ]
-  },
-  {
-    "id": "n5d07ccaf",
-    "category": "경제",
-    "source": "연합뉴스",
-    "time": "7분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260818153000003",
-    "title": "대기업 고액연봉자 보수 중 36%가 주식보상…SK·두산이 63%",
-    "summary": [
-      "(서울=연합뉴스) 김민지 기자 = 올해 상반기 대기업집단에서 5억원 이상을 받은 고액보수자들의 전체 보상 총액 중 36.4%가 주식보상인 것으로..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n1d295431",
-    "category": "경제",
-    "source": "연합뉴스",
-    "time": "7분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260818163100008",
-    "title": "[코스피·코스닥 전 거래일(18일) 주요공시]",
-    "summary": [
-      "[코스피·코스닥 전 거래일(18일) 주요공시]."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n41bbb3f4",
-    "category": "경제",
-    "source": "뉴시스",
-    "time": "8분 전",
-    "url": "https://www.newsis.com/view/NISX20260818_0003753064",
-    "title": "특징주 기사로 85억 챙긴 기자·회계사 일당…오늘 첫 재판",
-    "summary": [
-      "[서울=뉴시스] 신항섭 기자 = 특징주 기사를 악용해 주식 선행매매로 거액의 부당이득을 챙긴 혐의를 받는 회계사와 전·현직 경제신문기자에 대한 첫 재판이 오늘 열린다.",
-      "서울남부지법 형사합의12부(부장판사 박종열)는 19일 오후 자본시장과 금융투자업에 관한 법률 위반 등 혐의로 기소된 한모씨 등 7명에 대한 첫 공판준비기일을 진행한다.",
-      "이들 중 한씨와 최모씨, 이모씨 등 3명은 구속 상태로 재판에 넘겨졌으며, 권모씨·이모씨·남모씨·안모씨 등 나머."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nbaf5e40e",
-    "category": "스포츠",
+    "id": "n287faba8",
+    "category": "사회",
     "source": "조선일보",
-    "time": "9분 전",
-    "url": "https://www.chosun.com/sports/world-football/2026/08/19/MI2GEOLFMRRTINLEHA4DIMLEGI/",
-    "title": "'손흥민 절친' 로메로, 이제 이강인 동료됐다…토트넘 떠나 아틀레티코 마드리드 합류",
+    "time": "3분 전",
+    "url": "https://www.chosun.com/entertainments/music/2026/08/19/G4ZTEMRRGVRDAOJVG44WKY3DGE/",
+    "title": "방탄소년단, 美 빌보드 21주 연속 장기 집권…'ARIRANG' 메가 히트 이어간다",
     "summary": [
-      "[OSEN=서정환 기자] 손흥민의 절친으로 잘 알려진 크리스티안 로메로(28)가 토트넘을 떠나 아틀레티코 마드리드에 합류했다.아틀레티코는 지난 15일 로메로 영입을 공식 발표했다.",
-      "계약 기간은 2031년 6월까지이며, 이적료는 약 4000만 유로(약 654억 원)로 알려졌다.로메로는 2021년 토트넘에 합류한 뒤 5시즌 동안 활약했다."
+      "[OSEN=최이정 기자] 그룹 방탄소년단(BTS)이 미국 빌보드 메인 차트에서 21주 연속 이름을 올리며 막강한 글로벌 음원 파워를 입증했다.18일(현지시간) 미국 음악 전문 매체 빌보드가 발표한 최신 차트(8월 22일 자)에 따르면, 방탄소년단의 정규 5집 '아리랑'(ARIRANG)은 메인 앨범 차트인 '빌보드 200'에서 21위를 차지했다.앞서 이 앨."
     ],
     "chips": [
-      "#손흥민"
+      "#환경"
     ]
   },
   {
-    "id": "n3a2f6e8b",
-    "category": "스포츠",
-    "source": "연합뉴스",
-    "time": "9분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260819008600061",
-    "title": "밤사이 평택 물류 창고서 화재…5시간여 만에 진화",
+    "id": "n92a92bbf",
+    "category": "경제",
+    "source": "연합뉴스(경제)",
+    "time": "4분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260818118200057",
+    "title": "울산 첫 외국인 계절근로 지원 조례안 마련…손실보전비 지원",
     "summary": [
-      "(평택=연합뉴스) 강영훈 기자 = 19일 0시 1분께 경기도 평택시 청북읍 소재 물류 창고에서 불이 났다."
+      "(울산=연합뉴스) 장영은 기자 = 울산 울주군은 울산에서 처음 도입한 외국인 계절근로의 안정적 운영을 위한 지원책을 마련했다고 19일 밝혔다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n4197caf4",
+    "id": "n3b6f8573",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "6분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260819012600071",
+    "title": "트럼프 옛 안보보좌관 볼턴, 한미훈련 축소에 \"큰 실수\"",
+    "summary": [
+      "(워싱턴=연합뉴스) 백나리 특파원 = 대북 강경파로 1기 도널드 트럼프 미국 행정부에서 국가안보보좌관을 지낸 존 볼턴이 한미연합훈련 축소 결정을..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n354fc03e",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "6분 전",
+    "url": "https://www.chosun.com/entertainments/broadcast/2026/08/19/HE3WINJXGNRTAYJWMM2DCOJUMY/",
+    "title": "'이병헌♥' 이민정, 子 발 냄새 폭로했다 아뿔싸..\"화낼 것 같아\"",
+    "summary": [
+      "영상 시청 후 작성된 리뷰 기사입니다.[OSEN=최지연 기자] 배우 이민정이 향기템을 공개했다.",
+      "18일 유튜브 채널 '이민정MJ'에는 '이민정이 쓰는 룸 향기템 6종 공개 *집에 놀러온 사람들이 무조건 물어봄'이라는 제목의 영상이 게재됐다.",
+      "이날 이민정은 친한 지인의 딸이자 향수 관련 콘텐츠를 만드는 크리에이터와 리사와 함께 집에서 사용하는 향기템을 공개해."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n5686963b",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "10분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260819013000004",
+    "title": "서초구, 양재동 잔디어린이공원 내에 어르신놀이터 조성",
+    "summary": [
+      "(서울=연합뉴스) 정준영 기자 = 서울 서초구(구청장 전성수)는 양재동 '잔디어린이공원'에 어르신 건강증진과 여가활동을 돕기 위한 '어르신 놀이..."
+    ],
+    "chips": [
+      "#의료"
+    ]
+  },
+  {
+    "id": "nc602cb70",
     "category": "사회",
     "source": "뉴시스",
-    "time": "11분 전",
-    "url": "https://www.newsis.com/view/NISX20260818_0003753156",
-    "title": "일하는 노인 10명 중 6명 '임시근로자'…OECD 평균 3.5배",
+    "time": "10분 전",
+    "url": "https://www.newsis.com/view/NISX20260818_0003753044",
+    "title": "상습 임금체불 사업주, 지자체 보조사업 참여 못한다",
     "summary": [
-      "[서울=뉴시스]박정영 기자 = 한국에서 일하는 65세 이상 노인 10명 중 6명 이상이 임시근로자인 것으로 나타났다.",
-      "전체 임시근로 역시 경제협력개발기구(OECD) 회원국 중 가장 높은 수준으로 고용 불안정성이 두드러졌다.",
-      "19일 한국노동사회연구소가 발간한 '2025년 OECD 고용 지표로 본 한국의 노동시장' 보고서에 따르면 지난해 15세 이상 근로자의 임시근로 비율은 27.5%로 나타났다."
+      "[세종=뉴시스]성소의 기자 = 앞으로 임금을 상습적으로 체불한 사업주는 지방자치단체가 보조금을 지급하는 사업에 참여하기 어려워진다.",
+      "지방보조금 부정수급 여부와 그에 따른 제재 등을 체계적으로 심의하는 위원회를 지자체에 둘 수 있는 근거도 마련된다.",
+      "19일 관계 부처에 따르면 행정안전부는 이 같은 내용의 '지방보조금 관리기준' 일부개정안을 행정예고를 거쳐 지난 18일부터 시행했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nb77f34f8",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "10분 전",
+    "url": "https://www.newsis.com/view/NISX20260818_0003753048",
+    "title": "\"오십견인 줄 알았는데\"…어깨통증 원인 '이것'?",
+    "summary": [
+      "[서울=뉴시스]송종호 기자 = 평소 없던 어깨 통증이 발생하면 흔히 '오십견'을 의심하기 쉽다.",
+      "또 나이가 들면서 자연스러운 노화 현상으로 받아들이는 경우도 있다.",
+      "하지만 의료계는 밤잠을 이루기 어려울 정도로 심한 통증일 경우 석회성건염 등 다른 어깨 질환을 의심해볼 필요가 있다고 밝혔다."
+    ],
+    "chips": [
+      "#의료"
+    ]
+  },
+  {
+    "id": "ne7081002",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "11분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260819012300063",
+    "title": "아산서 25t 화물차-승용차 충돌…1명 심정지",
+    "summary": [
+      "(아산=연합뉴스) 이재림 기자 = 19일 0시 44분께 충남 아산시 탕정면 한 도로에서 25t(톤) 화물차와 승용차가 정면에서 충돌했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nd0c4ebe6",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "11분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260818135800005",
+    "title": "英 진출 '유앤잇' 원작자 \"현지화는 해외 시스템 들어가는 여정\"",
+    "summary": [
+      "(서울=연합뉴스) 임순현 기자 = \"'유앤잇'(YOU &amp; IT)의 영국 진출은 단순한 해외 투어가 아닙니다.",
+      "우리 뮤지컬이 영국 뮤지컬 ..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nd9db9ac1",
+    "category": "사회",
+    "source": "연합뉴스(경제)",
+    "time": "11분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260818106800063",
+    "title": "충남사회서비스원, 인사위 절차 하자로 인권침해 직원 견책 취소",
+    "summary": [
+      "(홍성=연합뉴스) 김준범 기자 = 충남사회서비스원이 인사위원회를 부적정하게 운영해 징계받은 직원의 견책 처분이 취소되고, 장애인 의무 고용률을 ..."
     ],
     "chips": [
       "#고용"
     ]
   },
   {
-    "id": "nb584d791",
-    "category": "스포츠",
-    "source": "연합뉴스",
+    "id": "n7174aa04",
+    "category": "경제",
+    "source": "연합뉴스(경제)",
     "time": "11분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260818124900053",
-    "title": "106세부터 황영조까지…대구서 펼쳐지는 '나이를 잊은 도전'",
+    "url": "https://www.yna.co.kr/view/AKR20260818150600008",
+    "title": "호텔 투자 열기 속…강남역 보원빌딩 매각 입찰",
     "summary": [
-      "(대구=연합뉴스) 박세진 기자 = 2026 대구세계마스터즈육상경기대회 개막을 이틀 앞두고 100세를 넘긴 고령 선수부터 올림픽 메달리스트까지 나..."
+      "(서울=연합뉴스) 정회인 기자 = 최근 서울 호텔 투자시장이 활기를 띠는 가운데 강남역 인근 개발 부지인 서초동 보원빌딩이 이달 말 새 주인 찾..."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n99836dc4",
-    "category": "스포츠",
-    "source": "머니투데이",
-    "time": "11분 전",
-    "url": "https://www.mt.co.kr/sports/2026/08/19/2026081812520068359",
-    "title": "'지도자 경력 0' 이동국 韓 대표팀 합류, 끝내 '최악 카드' 됐다... '임시 사령탑도 자처' 포옛의 꿈 '물거품'",
-    "summary": [
-      "거스 포옛(59·우루과이) 감독의 파격적인 '이동국 코치 카드'는 악수가 됐다.",
-      "한때 차기 대표팀 감독 1순위로 거론되던 포옛 감독은 끝내 면접도 보지 못하고 대한민국 축구 국가대표팀 사령탑 꿈을 접게 됐다.",
-      "포옛 감독은 18일 축구계에 따르면 지난 주말 대한축구협회로부터 서류 적격 심사 불합격 통보를 받았다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n70a54bb6",
-    "category": "스포츠",
-    "source": "머니투데이",
-    "time": "11분 전",
-    "url": "https://www.mt.co.kr/sports/2026/08/19/2026081816010219639",
-    "title": "한화 '8회 무사 1, 2루에 번트 NO라니'→치명적이었던 '2연속 초구 아웃, 홈런타자 대타 교체까지'",
-    "summary": [
-      "결과론이지만 번트를 대지 않은 게 상대 팀을 도와준 꼴이 됐다.",
-      "한화 이글스는 18일 대전 한화생명 볼파크에서 펼쳐진 KIA 타이거즈와 2026 신한 SOL KBO 리그 정규시즌 홈 경기에서 3-4, 한 점 차의 아쉬운 패배를 당했다.",
-      "이날 패배로 한화는 4연패에 빠진 채 48승 54패 3무를 기록했다."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
-    "id": "n37472206",
+    "id": "n889258b7",
     "category": "사회",
-    "source": "뉴시스",
-    "time": "12분 전",
-    "url": "https://www.newsis.com/view/NISX20260818_0003753257",
-    "title": "초유의 檢총장·법무장관 '동시 부재'…형소법 개정 후속작업 혼선 우려",
+    "source": "동아일보",
+    "time": "11분 전",
+    "url": "https://www.donga.com/news/It/article/all/20260818/134495438/2",
+    "title": "하늘에서 일하는 승무원·조종사, ‘방사선 관련 암’ 사망 1·2위 [건강팩트체크]",
     "summary": [
-      "[서울=뉴시스]권지원 박선정 오정우 기자 = 오는 10월 2일 중대수사범죄청(중수청)과 공소청 출범을 앞두고 구자현 검찰총장 직무대행(대검찰청 차장검사)에 이어 정성호 법무부 장관까지 사의를 표명하면서 법무부와 검찰의 수장이 공석이 되는 초유의 상황이 발생했다.",
-      "검찰을 비롯한 법조계 안팎에서는 형사소송법 개정 후속 조치를 총괄해야 할 법무부와 검찰 지휘부의 공백이 길어지는 데 대한 우려가 나오고 있다.",
-      "19일 법조계에 따르면 정성호 법무부 장관."
+      "객실 승무원과 조종사가 500개가 넘는 직업 가운데 ‘방사선 관련 암’으로 사망한 사람의 비율이 각각 1위와 2위로 나타났다.미국 하버드대학교 의과대학과 이 대학의 교육병원인 매사추세츠종합병원(Massachusetts General Hospital·MGH) 등이 공동으로 수행한 이번 연구는 국제 학술지 ‘미국의사협회저널 내의학(JAMA Internal Medicine)’에 17일(현지시각) 발표됐다.연구진은 대기권의 보호 효과가 약해지는 높은."
+    ],
+    "chips": [
+      "#교육",
+      "#의료"
+    ]
+  },
+  {
+    "id": "nebef091b",
+    "category": "스포츠",
+    "source": "뉴시스",
+    "time": "11분 전",
+    "url": "https://www.newsis.com/view/NISX20260818_0003753280",
+    "title": "안세영·김우민·우상혁·김우진…태극전사 '금빛 사냥' 출격[AG D-30②]",
+    "summary": [
+      "[서울=뉴시스]박윤서 기자 = 아시아인의 스포츠 축제 2026 아이치·나고야 아시안게임(AG)이 약 한 달 앞으로 다가왔다.",
+      "태극마크를 달고 대회에 나설 국가대표 선수들은 금빛 사냥을 위한 담금질에 전념하고 있다.",
+      "아이치·나고야 아시안게임은 오는 9월19일 개막해 10월4일까지 16일 동안 열전을 펼친다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n67f418ca",
-    "category": "사회",
+    "id": "nedfeb29d",
+    "category": "IT",
     "source": "뉴시스",
-    "time": "12분 전",
-    "url": "https://www.newsis.com/view/NISX20260818_0003753045",
-    "title": "취업 불안 '캥거루족' 청년 4명 중 1명 \"결혼은 글쎄\"",
+    "time": "11분 전",
+    "url": "https://www.newsis.com/view/NISX20260818_0003753113",
+    "title": "메가프로젝트發 전력수요 급증…12차 전기본에 LNG발전 확대 담기나",
     "summary": [
-      "[세종=뉴시스] 강진아 기자 = 부모와 한집에 살며 경제적으로 의존하는 이른바 '캥거루족' 청년 4명 중 1명이 결혼에 부정적인 것으로 나타났다.",
-      "'결혼하고 싶지 않다'에 25.4%가 응답했고, 출산 역시 21.3%가 '낳을 생각이 없다'고 답했다.",
-      "19일 국회미래연구원이 발간한 '미혼 청년의 자립유형별 가족형성 의향과 미래 전망: 캥거루족 현상을 중심으로' 보고서에 따르면 25~39세 미혼 청년은 취업 상태가 불안정한 경우 결혼·출산 등 가족."
+      "[세종=뉴시스]손차민 기자 = 메가프로젝트로 전력수요 급증이 전망되는 가운데, 기후에너지환경부가 오는 10월 확정할 제12차 전력수급기본계획(전기본)에 액화천연가스(LNG) 발전 확대를 담을지 관심이 모아진다.",
+      "반도체 산단과 인공지능 데이터센터(AIDC) 확충으로 전력수요가 당초보다 크게 늘어날 것으로 예상되는 데다, 2040년까지 석탄발전을 폐지할 경우 공백을 메울 발전원이 추가로 필요해서다.",
+      "19일 기후부에 따르면 김성환 기후부 장관은 지난."
     ],
     "chips": [
-      "#취업",
-      "#정치"
+      "#AI",
+      "#반도체",
+      "#환경"
+    ]
+  },
+  {
+    "id": "nec740b74",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "45분 전",
+    "url": "https://www.donga.com/news/Inter/article/all/20260819/134500765/2",
+    "title": "필리핀 10대 학교서 총기 난사…바디캠 착용하고 범행 생중계",
+    "summary": [
+      "필리핀 남부의 한 대학 부속 고등학교에서 10대 학생이 총기 두 자루를 들고 교실에서 총격을 벌여 동급생을 살해한 뒤 스스로 목숨을 끊는 사건이 발생했다.",
+      "18일 로이터통신 등에 따르면 이날 필리핀 남부 잠보앙가시의 아테네오 데 잠보앙가 대학 부속 고등학교에서 총격 사건이 발생해 학생 2명이 숨졌다.",
+      "경찰에 따르면 용의자는 9학년 남학생으로, 권총과 소총을 학교에 가져와 교실에서 총기를 발사한 것으로 파악됐다."
+    ],
+    "chips": [
+      "#교육"
+    ]
+  },
+  {
+    "id": "n4586f255",
+    "category": "IT",
+    "source": "한국경제",
+    "time": "1시간 전",
+    "url": "https://www.hankyung.com/article/2026081878111",
+    "title": "\"AI 검증하느라 일 더 늘어\"…뒷감당은 결국 개발자 몫",
+    "summary": [
+      "\"AI 검증하느라 일 더 늘어\"…뒷감당은 결국 개발자 몫."
+    ],
+    "chips": [
+      "#AI"
+    ]
+  },
+  {
+    "id": "ne46e26a7",
+    "category": "경제",
+    "source": "한국경제",
+    "time": "1시간 전",
+    "url": "https://www.hankyung.com/article/202608188232i",
+    "title": "권리금 4500만원 받고 독서실 팔더니…8개월 만에 '뒤통수' [사장님 고충백서]",
+    "summary": [
+      "권리금 4500만원 받고 독서실 팔더니…8개월 만에 '뒤통수' [사장님 고충백서]."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nef030cda",
+    "category": "경제",
+    "source": "한국경제",
+    "time": "1시간 전",
+    "url": "https://www.hankyung.com/article/2026081878101",
+    "title": "\"박 대리, 그 정도는 가능하지?\"…직장인 벼락치기 나선 이유",
+    "summary": [
+      "\"박 대리, 그 정도는 가능하지?\"…직장인 벼락치기 나선 이유."
+    ],
+    "chips": [
+      "#뉴스"
     ]
   },
   {
     "id": "n378eb71f",
     "category": "경제",
     "source": "연합뉴스(경제)",
-    "time": "12분 전",
+    "time": "1시간 전",
     "url": "https://www.yna.co.kr/view/AKR20260818143600030",
     "title": "신세계百, 5개 제휴 카드 페스타…사은행사·무이자 할부 제공",
     "summary": [
@@ -546,14 +597,14 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n0b2daf62",
-    "category": "부동산",
-    "source": "연합뉴스(경제)",
-    "time": "12분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260818148000004",
-    "title": "서울시, 정비사업 조합설립 소요 시간 1년→4개월로 '단축'",
+    "id": "ncd63cf65",
+    "category": "경제",
+    "source": "한국경제",
+    "time": "1시간 전",
+    "url": "https://www.hankyung.com/article/2026081878121",
+    "title": "문과·고교생도 앱 출시하는 시대",
     "summary": [
-      "(서울=연합뉴스) 김동규 기자 = 서울시가 주택 공급 속도를 높이기 위해 정비사업 조합 설립 소요 기간을 기존 1년에서 4개월로 단축한다."
+      "문과·고교생도 앱 출시하는 시대."
     ],
     "chips": [
       "#뉴스"
@@ -563,7 +614,7 @@ window.NEWS_DB = [
     "id": "n5aa9429e",
     "category": "IT",
     "source": "조선비즈IT",
-    "time": "12분 전",
+    "time": "1시간 전",
     "url": "https://biz.chosun.com/it-science/ict/2026/08/19/LCIHLRY3ZZF4NG5XPOMALM3NVE/",
     "title": "메모리 떠났던 인텔, ‘포스트 HBM’ 기술 노린다… 삼성·SK에 변수될까",
     "summary": [
@@ -571,68 +622,6 @@ window.NEWS_DB = [
     ],
     "chips": [
       "#반도체"
-    ]
-  },
-  {
-    "id": "n66bbe43c",
-    "category": "IT",
-    "source": "연합뉴스(경제)",
-    "time": "12분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260818154300003",
-    "title": "AI 특허 8년 새 7배로 증가…\"분야별 맞춤 전략 설계해야\"",
-    "summary": [
-      "(서울=연합뉴스) 장하나 기자 = 인공지능(AI) 특허 출원이 8년 새 약 7배로 증가하며 국내 특허 성장을 이끄는 가운데 분야별 강점을 활용한..."
-    ],
-    "chips": [
-      "#AI"
-    ]
-  },
-  {
-    "id": "nef48bdb8",
-    "category": "부동산",
-    "source": "아시아경제",
-    "time": "12분 전",
-    "url": "https://view.asiae.co.kr/article/2026081817375383663",
-    "title": "서울시, 재개발·재건축 조합 설립 1년→4개월로 단축한다",
-    "summary": [
-      "앞으로 서울시내 재개발·재건축 추진위원회는 정비구역 지정 전이라도 일정 주민 동의 요건을 충족하면 조합 설립 업무를 병행 처리할 수 있게 된다.",
-      "서울시는 정비사업을 통한 주택 공급 속도를 높이기 위해 정비구역 지정 전 추진위원회 단계에서부터 조합설립 절차를 병행할 수 있도록 '조합설립 공정촉진 절차 개선방안'을 마련해 18일부터 시행에 들어갔다고 19일 밝혔다.",
-      "이번 방안은 최근 도시및주거환경정비법 개정과 서울."
-    ],
-    "chips": [
-      "#재건축",
-      "#환경"
-    ]
-  },
-  {
-    "id": "n7d51823c",
-    "category": "사회",
-    "source": "아시아경제",
-    "time": "12분 전",
-    "url": "https://view.asiae.co.kr/article/2026081817004190048",
-    "title": "석유유통협회 “중소기업 가속상각 특례대상에 환경보전시설도 포함해야”",
-    "summary": [
-      "한국석유유통협회는 정부가 추진 중인 중소기업 안전시설 가속상각 특례 적용대상을 환경보전시설 관련 사업용 유형자산까지 확대해 줄 것을 재정경제부에 건의했다고 19일 밝혔다.정부는 중소기업의 안전투자를 촉진하기 위해 안전시설 관련 사업용 유형자산의 내용연수를 기준내용연수의 50% 범위에서 단축할 수 있는 가속상각 특례 신설을 추진하고 있다.",
-      "협회는 제도의 취지에 적극 공감하면서도 위험물을 저장·취급하는 주유."
-    ],
-    "chips": [
-      "#환경"
-    ]
-  },
-  {
-    "id": "n944b50be",
-    "category": "경제",
-    "source": "아시아경제",
-    "time": "12분 전",
-    "url": "https://view.asiae.co.kr/article/2026081816531006485",
-    "title": "신세계百, '5메이징 카드 페스타'…최대 24개월 무이자·리워드 혜택",
-    "summary": [
-      "신세계백화점이 5개 제휴카드사(씨티·삼성·신한·하나·BC바로)와 함께 오는 30일까지 '5메이징 카드 페스타'를 열고 연중 최대 수준의 쇼핑 혜택을 제공한다고 19일 밝혔다.",
-      "기존 제휴카드 고객뿐 아니라 신규 발급 고객도 참여할 수 있으며 무이자 할부, 신백리워드, 쿠폰, 캐시백 등을 마련했다.",
-      "이번 행사에는 고객들의 부담을 덜기 위해 카드사별 무이자 할부 혜택을 강화했다."
-    ],
-    "chips": [
-      "#뉴스"
     ]
   }
 ];
@@ -642,20 +631,20 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2330건",
-    "trend": "+255%"
+    "mentions": "2460건",
+    "trend": "+275%"
   },
   {
     "rank": 2,
-    "tag": "반도체",
+    "tag": "AI",
     "mentions": "1810건",
     "trend": "+175%"
   },
   {
     "rank": 3,
-    "tag": "AI",
-    "mentions": "1680건",
-    "trend": "+155%"
+    "tag": "반도체",
+    "mentions": "1810건",
+    "trend": "+175%"
   }
 ];
 // ====AUTO-GENERATED-END====
