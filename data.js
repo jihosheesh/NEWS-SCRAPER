@@ -1,15 +1,30 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-08-18 10:17:23
+// 마지막 업데이트: 2026-08-18 11:15:33
 window.NEWS_DB = [
+  {
+    "id": "nd946080d",
+    "category": "IT",
+    "source": "솔루션뉴스",
+    "time": "1시간 전",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBBb2hRLXhnd2wtU0JDQnp4dlFkRFNUZ3FocjZuVzFkSkJmdkl6WXc5Qlhab1h2Q21weFFBVGtYakp1bllQMktFY0VmN2REMGk5YnRGN2x3UW14OU90ZVVfVjJPaE9qN21QSkdv?oc=5",
+    "title": "엔비디아, 오픈AI 데이터센터에 146조 보증 승부수",
+    "summary": [
+      "엔비디아, 오픈AI 데이터센터에 146조 보증 승부수 솔루션뉴스."
+    ],
+    "chips": [
+      "#AI",
+      "#엔비디아"
+    ]
+  },
   {
     "id": "n73d86871",
     "category": "IT",
-    "source": "Chosunbiz",
-    "time": "3시간 전",
+    "source": "biz.chosun.com",
+    "time": "4시간 전",
     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPTzVjOFoxQUFvQVkwUlhJamtUVkF2ZXVqWmQycFpCUVAxSWVfdFIwZXJfdHQwaHlnLTl3aGlHMGFULUV2MjRfa2t2d29JR3RUMVdNUk1ESEJMY1RKRHBrR0VzWkhqdHFQcHBjQko2VjR3NHRXZnAwMTZMRzRxdm1mbnZQQ0lFTHFIR25j0gGfAUFVX3lxTE0weXV2MVRFWHhNMml1OTBtQjVMd1ppNUN0Szk3ZGNYXzlBZGYzWUhGLXVjOGN2NlNLcjBZWWVxRUZBck1QamlZUEx4TC1keUtQRjFhVHBVWHFqLVVUQVdaVGtLeUNIRURrdVlOZzlfbE5TWnNFb2FoWkw1MDNCREJrZEVJUGpVVDV2YmVoaW1UN3lNcmhVUWdURV8zSHN5TQ?oc=5",
     "title": "[현장의 시각] 한국산 AI 반도체, 장밋빛 미래보단 냉정한 현실 파악이 먼저다 - 조선비즈",
     "summary": [
-      "[현장의 시각] 한국산 AI 반도체, 장밋빛 미래보단 냉정한 현실 파악이 먼저다 - 조선비즈 Chosunbiz."
+      "[현장의 시각] 한국산 AI 반도체, 장밋빛 미래보단 냉정한 현실 파악이 먼저다 - 조선비즈 biz.chosun.com."
     ],
     "chips": [
       "#AI",
@@ -20,7 +35,7 @@ window.NEWS_DB = [
     "id": "n29a690a3",
     "category": "IT",
     "source": "edaily.co.kr",
-    "time": "4시간 전",
+    "time": "5시간 전",
     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQZEV1RDBSdUFyYzdtRHNRMnJCYzVmVVFNd2dleDVseTEyc2dpVEtoVTU4NWpQazYyMXBXdHF1V2tTYVQtR2pEV0dwNjJ3V3dfZlJLbVJyWEJ4bmNhYkUtYW4xU3NPODRvSEYyekF3SHpvazJreThaY2o4VjAyYWhHbA?oc=5",
     "title": "\"K-반도체 슈퍼사이클 지속...내년 HBM4·파운드리 앞세운 삼성전자 질주\"[어쨌든경제]",
     "summary": [
@@ -35,7 +50,7 @@ window.NEWS_DB = [
     "id": "n429d6ff4",
     "category": "IT",
     "source": "서울파이낸스",
-    "time": "7시간 전",
+    "time": "8시간 전",
     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9zY2pmOTFvV2E1V09oWTh1SERKN01OVHBZNk03bDlYVmFqZ2RXWk1aUjZQTkVWY1M5YWpXeHJtZi1oREpMR25wcG5hTldPMURzeFV0OE9LT1E1dEVqWC1ZM3U4N3hEOFd0eVE?oc=5",
     "title": "[반도체 패권 전쟁 ④] 삼성전자·SK하이닉스의 승부수···HBM 넘어 ‘AI 반도체 기업’으로 진화하라",
     "summary": [
@@ -46,21 +61,6 @@ window.NEWS_DB = [
       "#반도체",
       "#삼성전자",
       "#SK하이닉스"
-    ]
-  },
-  {
-    "id": "nd3f35837",
-    "category": "IT",
-    "source": "연합뉴스",
-    "time": "14시간 전",
-    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9tYVpGSGFhVVh0clliVWxETHZzdWRCc2l0ZEhteklhbmhNeHVxXzUxWURrNG54cm5Yem1fcTZLVEVYc3RsZWlEcl9uVDVoNk5ocWNwcmRBNHlCZkHSAWBBVV95cUxPc2VBZkNraE5oc2c4X3J6T0dsX2U2U3cyMC05bnJ3czRUVXpVem5nQ18wcVNhRVV0LXNFckl2cnFLbG4tb1RsbkZYT2lTUVBKSWJQZkxmZFNjTWFwYWg5X0o?oc=5",
-    "title": "엔비디아, 오픈AI 데이터센터에 150조원 보증…순환금융 지적도",
-    "summary": [
-      "엔비디아, 오픈AI 데이터센터에 150조원 보증…순환금융 지적도 연합뉴스."
-    ],
-    "chips": [
-      "#AI",
-      "#엔비디아"
     ]
   },
   {
@@ -95,27 +95,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n5e7afdfd",
-    "category": "IT",
-    "source": "businesspost.co.kr",
-    "time": "4일 전",
-    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9BZThJckF2RlR3cVdldGZxbWVrNTZpMVRoYkQ3bGlPREF3cDBFV2dWeXowQ3paVmFTV2hzSVhpZUpETUdnR0lDa3FNTHEzODdYOUwxMGNWUWQ0dk9vdDZzVzBWbkJtdnR1a0NjTWZkaVFxMkk?oc=5",
-    "title": "엔비디아 차세대 AI 반도체 '파인만' 양산 서두르나, 삼성전자 SK하이닉스 HBM 경쟁에도 변수",
-    "summary": [
-      "엔비디아 차세대 AI 반도체 '파인만' 양산 서두르나, 삼성전자 SK하이닉스 HBM 경쟁에도 변수 businesspost.co.kr."
-    ],
-    "chips": [
-      "#AI",
-      "#반도체",
-      "#엔비디아",
-      "#삼성전자"
-    ]
-  },
-  {
     "id": "n1058f97e",
     "category": "스포츠",
     "source": "네이트",
-    "time": "4일 전",
+    "time": "5일 전",
     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8yc083aVJTcjRRMW96ZThmS0J5NnYtWjFpdVpkWlpPMjA2RVhzQzF5dzVTcGhHdUJFaWRDUmdjY053NEFkY2g4dzZmZmNYQW5saFg4YVV4NG1sbkx0bTFMWg?oc=5",
     "title": "맑은 하늘 아래 펼쳐지는 KBO리그",
     "summary": [
@@ -188,12 +171,12 @@ window.NEWS_DB = [
   {
     "id": "n6aa2d332",
     "category": "경제",
-    "source": "Chosunbiz",
+    "source": "biz.chosun.com",
     "time": "19일 전",
     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNMFYzUVVCVmVkSGhnX1lDUUZMY3NWS2NYcFVRRWNWRVVkWUw1VHRNZFpzeG5VdU9ub2xGTW84VzI3NVZCV1ppMkRXQ2JZTTgtZi1VWmpkWU1PTlBIRjZCbFVtQ2ZqMndkMW9zbktXN0xkZ3Q1QjN6UDNNOGxKb24xemxPXzBJUdIBmgFBVV95cUxQU05hWUwxVFRDcm5lUkQ1MDJaWTdjMEdEMkJjMmVFZ0xMRFh4cFFic2N5eEl0ZmplNlF4V1RfVEtNMDljc3g4bHdYdTZLZENSUTh4V3pTMVN2VTVQRlowNXZQNWpLdzh5V2c2NDJIWlVZWDVfdVFJY0NuVWp6cWEweDVaWi1wZkNTNGljS09fNFVGNVJ2Nk9lOVVR?oc=5",
     "title": "[경제 포커스] 주가·환율 함께 떨어지는 이유는… “기업 달러 매도 본격화” - 조선비즈",
     "summary": [
-      "[경제 포커스] 주가·환율 함께 떨어지는 이유는… “기업 달러 매도 본격화” - 조선비즈 Chosunbiz."
+      "[경제 포커스] 주가·환율 함께 떨어지는 이유는… “기업 달러 매도 본격화” - 조선비즈 biz.chosun.com."
     ],
     "chips": [
       "#환율"
@@ -289,12 +272,12 @@ window.NEWS_DB = [
   {
     "id": "nba668fc0",
     "category": "IT",
-    "source": "한국방송뉴스",
+    "source": "ikbn.news",
     "time": "111일 전",
     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1XaThhZXFiX3dDT0NrYVFwZ2dhNTgxbHU0WE5Bc21vcGVzR0d2Wkh2Zm5pS2MyZ1JkYlhHb2VfRkhkemdEX1F6Q1RtajJLRzR6dDdHcExQelAyS2N1OUE?oc=5",
     "title": "1조 8000억 규모 벤처펀드 선정…\"벤처·스타트업에 적시 공급\"",
     "summary": [
-      "1조 8000억 규모 벤처펀드 선정…\"벤처·스타트업에 적시 공급\" 한국방송뉴스."
+      "1조 8000억 규모 벤처펀드 선정…\"벤처·스타트업에 적시 공급\" ikbn.news."
     ],
     "chips": [
       "#스타트업"
@@ -378,106 +361,29 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n4cdbd56a",
+    "id": "ncc42c0da",
     "category": "사회",
     "source": "뉴시스",
-    "time": "2분 전",
-    "url": "https://www.newsis.com/view/NISX20260818_0003753221",
-    "title": "中해군 전투 시스템 전문가, 중국공정원 명단서 삭제",
+    "time": "4분 전",
+    "url": "https://www.newsis.com/view/NISX20260818_0003753305",
+    "title": "선관위 특검 임명된 이태한, \"법과 원칙 따르겠다\" [뉴시스Pic]",
     "summary": [
-      "[베이징=뉴시스]박정규 특파원 = 중국의 해군 전투 시스템 전문가가 중국 최고 학술기관 명단에서 사라졌다고 18일 홍콩 사우스차이나모닝포스트(SCMP) 등이 보도했다.",
-      "보도에 따르면 중국인민해방군 해군 중장인 자오샤오저(63) 중국공정원 원사의 이름이 공정원 홈페이지의 회원 명단에서 삭제됐다.",
-      "공정원은 중국 국무원 산하 학술기관으로 중국과학원과 함께 최고 과학자와 공학자들이 속해있는 곳이다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nc1335ac2",
-    "category": "스포츠",
-    "source": "뉴시스",
-    "time": "2분 전",
-    "url": "https://www.newsis.com/view/NISX20260818_0003753247",
-    "title": "전북·대전·포항, ACLE 리그 스테이지 추첨 완료…서울·강원은 ACL2",
-    "summary": [
-      "[서울=뉴시스] 하근수 기자 = 프로축구 K리그1 전북 현대, 대전하나시티즌, 포항 스틸러스가 참가할 아시아축구연맹(AFC) 챔피언스리그 엘리트(ACLE) 리그 스테이지 추첨이 완료됐다.",
-      "AFC는 18일(한국 시간) 말레이시아 쿠알라룸푸르의 AFC 하우스에서 2026~2027시즌 ACLE 리그 스테이지 추첨식을 개최했다.",
-      "아시아 최상위 클럽대항전인 ACLE은 이번 대회부터 기존 24개 팀에서 32개 팀으로 확대돼 열린다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "ne2462b28",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "2분 전",
-    "url": "https://www.donga.com/news/Politics/article/all/20260818/134498059/1",
-    "title": "“대통령 로망 김민석, 李와 부딪힐 시점 고민하게 될 것” [황형준의 법정모독]",
-    "summary": [
-      "동아일보 정치 라이브 ＜법정모독＞- 일시: 화·목요일 오전 10~11시- 토크: 이재영 국민의힘 강동을 당협위원장, 조응천 전 국회의원- 진행·연출: 김형민 김수은 - 동아일보 유튜브 : https://www.youtube.com/@donga-ilbo 더불어민주당 김민석 대표가 차기 대선 출마를 염두에 둘 경우 향후 이재명 대통령과 갈등을 빚을 수 있다는 전망이 나왔다.국민의힘 이재영 전 의원(강동을 당협위원장)은 18일 동아일보 정치 라이브."
+      "[서울=뉴시스] 박선정 권지원 황준선 기자 = 6·3 지방선거 투표용지 부족 사태 진상규명을 위한 선거관리위원회 특별검사(특검)로 임명된 이태한 국민권익위원회 비상임위원(60·사법연수원 23기)이 \"정치적 고려 없이 실체적 진실을 규명하겠다\"는 입장을 냈다.",
+      "이 특검은 18일 이재명 대통령의 특검 임명 발표 직후 서울 서초구 법무법인 동인에서 기자회견을 열고 \"선관위를 둘러싼 여러 의혹에 대해 법과 원칙에 따라 확인해 위법행위가 있다면 책임 관."
     ],
     "chips": [
       "#정치"
     ]
   },
   {
-    "id": "n9ab49c87",
+    "id": "nbf801786",
     "category": "사회",
-    "source": "아시아경제",
-    "time": "2분 전",
-    "url": "https://view.asiae.co.kr/article/2026081819043039673",
-    "title": "\"회사 그만두고 싶어도 못 나가\"…美직장인 2300만명 발목 잡힌 이유",
-    "summary": [
-      "미국 근로자 약 2300만명이 건강보험 혜택을 잃을까 봐 그만두고 싶은 직장을 떠나지 못하고 있는 것으로 나타났다.",
-      "15일(현지시간) 폭스비즈니스는 웨스트헬스·갤럽 미국 의료센터가 낸 보고서를 인용해 직장 기반 의료보험에 가입한 미국 근로자의 약 24%(2300만명)가 이른바 '직업 고착' 현상을 겪고 있다고 전했다.",
-      "이는 2021년(16%)과 비교해 크게 늘어난 수치다."
-    ],
-    "chips": [
-      "#의료"
-    ]
-  },
-  {
-    "id": "n29a341d8",
-    "category": "스포츠",
-    "source": "조선일보",
+    "source": "뉴시스",
     "time": "5분 전",
-    "url": "https://www.chosun.com/sports/football/2026/08/18/GVQTMODGGRRGKNDGGNSWMZRYGY/",
-    "title": "[오피셜]전북-대전-포항, J리그와 숙명의 대결! 2026~2027시즌 ACLE 조추첨 발표...ACL2에서는 서울 '울상'-강원 '미소'",
+    "url": "https://www.newsis.com/view/NISX20260818_0003753303",
+    "title": "사직서 제출한 정성호 법무부 장관, '사표 수리 희망'[뉴시스Pic]",
     "summary": [
-      "[스포츠조선 박찬준 기자]아시아 정상을 향한 K리그1 팀들의 운명이 결정됐다.",
-      "아시아축구연맹(AFC)은 18일 말레이시아 콸라룸푸르에서 2026~2027시즌 아시아챔피언스리그 엘리트(이하 ACLE)의 리그 스테이지와 아시아챔피언스리그2(이하 ACL2)의 그룹 스테이지 추첨식을 개최했다.",
-      "올 시즌 ACLE 참가팀 숫자에 변화가 생겼다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n559cc6d9",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "6분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260818164100004",
-    "title": "이태한 선관위특검 \"의혹확대 아닌 해소역할…제도개선 근거 마련\"",
-    "summary": [
-      "(서울=연합뉴스) 이밝음 최원정 기자 = 6·3 지방선거 투표용지 부족 사태 등을 수사할 선거관리위원회 특별검사로 임명된 이태한(60·사법연수원..."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n70140275",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "7분 전",
-    "url": "https://www.newsis.com/view/NISX20260818_0003753203",
-    "title": "정성호 \"형소법 통과돼 역할 별로 없어\"…사직 신속 수리 요청(종합)",
-    "summary": [
-      "[서울·과천=뉴시스] 오정우 김정현 기자 = 정성호 법무부 장관이 청와대에 사직서를 제출했다.",
+      "[서울=뉴시스] 조성우 오정우 김정현 황준선 기자 = 정성호 법무부 장관이 청와대에 사직서를 제출했다.",
       "정 장관은 \"국회로 돌아가 형사소송법 개정 과정에서 생긴 약간의 문제점을 신속히 수정하는 데 할 일이 더 많을 것이라 판단했다\"고 설명했다.",
       "정 장관은 18일 오후 6시께 정부과천종합청사 법무부에서 퇴근하는 길에 취재진을 만나 이같이 밝혔다."
     ],
@@ -486,145 +392,243 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nf44c1bb6",
+    "id": "n0716baa4",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "5분 전",
+    "url": "https://www.chosun.com/sports/baseball/2026/08/18/MQZTIMDDGRTDSNRRHE3TOYZTGM/",
+    "title": "친정 상대 7번-유격수 전격 출전…사령탑의 미소, \"뭉클해서 못 칠까 걱정이네요\"",
+    "summary": [
+      "[대전=스포츠조선 이종서 기자] \"본인이 가지고 있는 능력만 보여주면 문제 없을 것이다.\" KIA 타이거즈는 18일 대전 한화생명볼파크에서 한화 이글스와 맞대결을 펼친다.",
+      "이날 KIA는 박재현(좌익수)-김선빈(지명타자)-김도영(3루수)-해럴드 카스트로(1루수)-나성범(우익수)-김호령(중견수)-하주석(유격수)-김태군(포수)-윤도현(2루수) 순으로 선발 라인업."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n4f134e4b",
+    "category": "스포츠",
+    "source": "동아일보",
+    "time": "6분 전",
+    "url": "https://www.donga.com/news/Sports/article/all/20260818/134496823/1",
+    "title": "평균자책점 1위 곽빈·홈런 1위 김도영, 대만에 설욕 나선다",
+    "summary": [
+      "한국프로야구를 대표하는 스타로 발돋움한 ‘선발투수’ 곽빈(27·두산)과 ‘홈런타자’ 김도영(23·KIA)이 중심이 된 한국 야구 대표팀이 내달 개막하는 2026 아이치-나고야 아시안게임에서 5회 연속 우승에 나선다.",
+      "둘에게는 이번 아시안게임에서 갚아야 할 빚이 있다.",
+      "최근 들어 ‘한국 천적’으로 떠오른 대만에 설욕하는 것이다."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
+    "id": "n4999656d",
     "category": "사회",
     "source": "연합뉴스",
     "time": "8분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260818159551057",
-    "title": "'임협 난항' 현대차 노조, 10년 만에 전면파업한다(종합)",
+    "url": "https://www.yna.co.kr/view/AKR20260818167700055",
+    "title": "전주 건물 1층서 불…연기 흡입 4명 병원 이송",
     "summary": [
-      "(울산=연합뉴스) 김근주 기자 = 올해 임금협상 난항으로 현대자동차 노동조합(금속노조 현대차지부)이 10년 만에 전면 파업에 들어간다."
+      "(전주=연합뉴스) 최영수 기자 = 18일 오후 3시 30분께 전북 전주시 완산구 서신동 한 사무건물 1층에서 불이 났다."
     ],
     "chips": [
-      "#뉴스"
+      "#의료"
     ]
   },
   {
-    "id": "n3acfccf4",
+    "id": "n85ff35cb",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "11분 전",
+    "url": "https://www.donga.com/news/Society/article/all/20260818/134498942/1",
+    "title": "‘선관위 특검’에 이태한…“참정권 지킨다는 막중한 사명감”",
+    "summary": [
+      "6·3 지방선거 ‘투표용지 부족 사태’ 등 중앙선거관리위원회를 둘러싼 부실 선거관리 의혹을 수사할 특별검사로 이태한 국민권익위원회 비상임위원(60·사법연수원 23기)이 임명됐다.강유정 청와대 수석대변인은 이재명 대통령이 18일 오후 국민추천위원회가 추천한 후보자 가운데 이 위원을 특별검사로 임명했다고 밝혔다.",
+      "검사 출신인 이 특검은 울산지검 특수부장과 서울남부지검 형사4부장 등을 지냈다.",
+      "과거 김진욱 초대 고위공직자범죄수사처장 퇴임 후 처장 후."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "nd48e87ad",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "14분 전",
+    "url": "https://www.donga.com/news/Politics/article/all/20260818/134498832/1",
+    "title": "李, 이진숙 5·18 포럼 겨냥 “특정 사건 조롱, 실질적 제재 있어야”",
+    "summary": [
+      "이재명 대통령은 18일 “표현의 자유를 침해하지 않는 범위 내에서 특정 지역 비하나, 특정 사건 피해자들을 조롱하는 건 실질적인 제재가 있어야 한다”고 밝혔다.이 대통령은 이날 청와대에서 주재한 국무회의에서 법무부와 방송미디어통신위원회의 ‘혐오 표현에 대한 제재방안’을 보고받고 “개인 간의 갈등과 관계를 다루던 과거 방식으로 대응해서는 안된다”며 이같이 지시했다고 청와대 강유정 수석대변인이 브리핑에서 전했다.",
+      "정보통신망법 개정에 따라 혐오 표현."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n9553bc75",
     "category": "사회",
     "source": "뉴시스",
-    "time": "10분 전",
-    "url": "https://www.newsis.com/view/NISX20260818_0003752797",
-    "title": "설현, 찡그려도 상큼한 미모…여유 가득한 일상 공개",
+    "time": "14분 전",
+    "url": "https://www.newsis.com/view/NISX20260818_0003752803",
+    "title": "최다니엘, 4167m 설산서 바지 내려…김대호 \"더티맨\"",
     "summary": [
-      "[서울=뉴시스]박재민 인턴 기자 = 그룹 AOA 출신 배우 설현이 밝게 웃는 모습을 공개했다.",
-      "설현은 18일 소셜미디어에 \"너른 마음에 기댈 수 있는 계절\"이라는 글과 함께 사진 여러 장을 공개했다.",
-      "그는 한 카페 벽에 붙어있는 딸기 케이크 포스터 옆에 서서 익살스러운 표정을 지었다."
+      "[서울=뉴시스]전재경 기자 = 배우 최다니엘이 등반 도중 예상 밖의 행동으로 출연진을 놀라게 했다.",
+      "18일 오후 9시 30분 방송되는 MBC에브리원 '위대한 가이드3'에서는 박명수, 김대호, 최다니엘, 이무진이 북아프리카 최고봉인 투브칼산 등반에 나선 모습이 공개된다.",
+      "이들은 봄기운과 설경이 함께 펼쳐진 산길을 오르며 본격적인 등반을 시작한다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n503a81d7",
-    "category": "부동산",
-    "source": "아시아경제",
-    "time": "10분 전",
-    "url": "https://view.asiae.co.kr/article/2026081819062679333",
-    "title": "김윤덕, 공공·건설업계 주택공급 속도 주문…\"비상한 각오로 임해 달라\"",
-    "summary": [
-      "정부가 18일 수도권 공공기관과 주택건설 업계에 주택 공급 속도를 높여 달라고 주문했다.",
-      "김윤덕 국토교통부 장관은 필요한 경우 전방위적인 지원을 펼치겠다고 약속했다.",
-      "김 장관은 이날 유관 공공기관 및 주택건설 업계와의 간담회를 주재하고 지난 13일 발표한 '주택 신속공급 방안' 후속조치 계획을 점검했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n4f7c57d8",
+    "id": "n2ac5a2e1",
     "category": "사회",
     "source": "연합뉴스",
-    "time": "10분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260818160900061",
-    "title": "또래 여학생 얼굴로 딥페이크 음란물 제작·유포한 중학생 송치",
+    "time": "15분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260818163900371",
+    "title": "[동포의 창] 말라위에 '희망의 빛'…한인사회, 백내장 환자 돕기 동참",
     "summary": [
-      "(수원=연합뉴스) 김솔 기자 = 또래 여학생들의 사진을 합성해 이른바 '딥페이크(Deepfake)' 음란물을 만든 후 SNS에 유포한 중학생이 ..."
+      "(서울=연합뉴스) 박현수 기자 = 아프리카중동한인회총연합회(회장 김점배)가 말라위 백내장 환자들의 시력 회복을 위해 수술비를 후원하고, 현지 한..."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n385c89b1",
+    "id": "n73dfb023",
     "category": "경제",
-    "source": "연합뉴스(경제)",
-    "time": "11분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260818163800008",
-    "title": "에스에스알, 70억원 유상증자…지란지교에스앤씨 등에 3자 배정",
-    "summary": [
-      "(서울=연합뉴스) 코스닥 상장사 에스에스알[275630]은 운영자금 등 약 70억원을 조달하고자 제3자배정 유상증자를 결정했다고 18일 공시했다..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n87756573",
-    "category": "사회",
     "source": "아시아경제",
-    "time": "22분 전",
-    "url": "https://view.asiae.co.kr/article/2026081818543957492",
-    "title": "[속보]이태한 선관위 특검 \"정치적 고려·선입견 없이 진실 규명\"",
+    "time": "15분 전",
+    "url": "https://view.asiae.co.kr/article/2026081818291358170",
+    "title": "\"전범 후손 배우를 굳이\" 유명 밴드 신곡 뮤비출연 日배우에 온라인 갑론을박",
     "summary": [
-      "[속보]이태한 선관위 특검 \"정치적 고려·선입견 없이 진실 규명\"."
+      "밴드 혁오가 새롭게 공개한 뮤직비디오 속 배우 안도 사쿠라를 둘러싸고 온라인상에서 갑론을박이 벌어지고 있다.혁오는 17일 싱글 타이틀곡 '갓스피드!'(GODSPEED!) 뮤직비디오를 공개했다.",
+      "'갓스피드'는 반복되는 일상 속에서 쌓이는 무기력과 그 곁을 지켜온 사랑을 통해 다시 삶을 살아가는 이야기를 담은 곡으로, 해당 뮤직비디오는 영화 '어느 가족', '괴물', '백엔의 사랑' 등을 통해 국내 관객에게도 얼굴을 알린 배우 안도."
     ],
     "chips": [
-      "#정치"
+      "#뉴스"
     ]
   },
   {
-    "id": "n2b39cb10",
+    "id": "n5f49d753",
     "category": "사회",
-    "source": "아시아경제",
-    "time": "31분 전",
-    "url": "https://view.asiae.co.kr/article/2026081818460300180",
-    "title": "사표 제출한 정성호 법무장관 \"국회에서 형소법 문제점 신속 수정\"",
+    "source": "연합뉴스",
+    "time": "15분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260818152700004",
+    "title": "[날씨] 내일 전국 곳곳에 소나기…천둥·번개 주의",
     "summary": [
-      "정성호 법무부 장관이 18일 사의 표명에 대해 \"국회에 가서 형사소송법 개정 과정에서 나타난 문제점을 신속하게 수정하는데 할 일이 더 많지 않겠느냐는 판단하에 (사직서를) 제출했다\"고 설명했다.",
-      "정 장관은 이날 오후 6시께 정부과천종합청사 법무부 퇴근길에 기자들을 만나 \"형소법이 통과됐고 남은 것은 공소청 출범인데 기존 검찰 조직에 간판만 바꿔 달고 업무 조정만 하면 되기 때문에 제가 큰 역할을 할 게 없다\"며 이같."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n4bea2915",
-    "category": "경제",
-    "source": "한국경제",
-    "time": "35분 전",
-    "url": "https://www.hankyung.com/article/2026081878741",
-    "title": "연금자산투자 실전가이드 강연회",
-    "summary": [
-      "연금자산투자 실전가이드 강연회."
+      "(서울=연합뉴스) 김채린 기자 = 수요일인 19일은 전국 곳곳에 빗방울이 떨어지겠다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "ndb32a992",
-    "category": "경제",
-    "source": "한국경제",
-    "time": "36분 전",
-    "url": "https://www.hankyung.com/article/2026081878711",
-    "title": "\"상폐 피하려 1000원 턱걸이\"…당국, 동전株 점검",
-    "summary": [
-      "\"상폐 피하려 1000원 턱걸이\"…당국, 동전株 점검."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "ne89b5008",
+    "id": "nd6dea931",
     "category": "스포츠",
-    "source": "동아일보",
-    "time": "37분 전",
-    "url": "https://www.donga.com/news/Entertainment/article/all/20260818/134498912/1",
-    "title": "‘1박2일’ 출연 배명호…전처 “17개월 아이 두고 가정 떠나, 양육비 미지급”",
+    "source": "조선일보",
+    "time": "15분 전",
+    "url": "https://www.chosun.com/sports/baseball/2026/08/18/GVQTEOBXMU4DMZJRMU2DIMZXGU/",
+    "title": "'한화→KIA' 대전 찾은 하주석, 헬멧 벗고 친정팀 팬들 향해 깍듯한 인사…왕옌청 상대로 2루타",
     "summary": [
-      "격투기 선수 배명호의 전처 정 모 씨가 양육비 미지급을 주장하며 법적 절차를 밟고 있다고 밝혔다.정 씨는 18일 자신의 사회관계망서비스(SNS) 계정을 통해 “제 개인사와 관련해 있었던 일들에 대해 이제는 제 입장을 말씀드려야 할 시점이라고 판단해 입장문을 게시한다”며 글을 올렸다.그는 “그동안 해결되지 않았던 여러 문제에 대해 법적 절차가 시작됐음을 말씀드린다”며 “결혼생활 동안 저는 상대의 반복되는 생활 문제와 그로 인해 벌어진 일들을 수습."
+      "[OSEN=대전, 조은혜 기자] 트레이드 이적 후 처음으로 대전을 찾은 프로야구 KIA 타이거즈 하주석이 친정팀 팬들을 향해 깍듯하게 인사했다.하주석은 18일 대전 한화생명 볼파크에서 열린 2026 신한 SOL KBO리그 한화 이글스와의 원정경기에서 7번타자 겸 유격수로 선발 출전했다.",
+      "지난달 23일 KIA와 한화의 1대1 트레이드로 KIA 유니폼을 입은."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
+    "id": "n2c2a816b",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "15분 전",
+    "url": "https://www.chosun.com/entertainments/broadcast/2026/08/18/GQYDCMTFGBTDMOBXGIZTOMRSMY/",
+    "title": "사유리, 자신감 넘치는 레깅스 핏..탄탄한 등 근육까지 깜짝",
+    "summary": [
+      "[OSEN=임혜영 기자] 방송인 사유리가 운동에 푹 빠진 근황을 전했다.사유리는 18일 개인 채널에 별다른 문구 없이 짧은 영상을 게재했다.공개된 영상 속 사유리는 헬스장을 찾은 모습이다.",
+      "사유리는 크롭 톱에 레깅스, 운동화, 모자를 착용했으며 기구를 활용한 운동에 집중하고 있다.사유리는 군살 하나 없이 탄탄한 등, 허리 근육과 더불어 건강미 넘치는 하체로."
+    ],
+    "chips": [
+      "#의료"
+    ]
+  },
+  {
+    "id": "n7291e916",
+    "category": "IT",
+    "source": "아시아경제",
+    "time": "15분 전",
+    "url": "https://view.asiae.co.kr/article/2026081818272423829",
+    "title": "전국민 무료 '모두의 AI'에 SKT·KT·카카오 등 6개사 참여(종합)",
+    "summary": [
+      "국산 인공지능(AI) 모델을 활용해 대국민 AI 서비스를 무료로 제공하는 '모두의 AI' 프로젝트에 이동통신 3사와 카카오 등이 사업 참여를 신청했다.",
+      "정부는 이달 말 사업자 선정을 거쳐 오는 9월 말 베타서비스, 12월 정식 서비스를 시작한다는 목표다.",
+      "과학기술정보통신부는 \"모두의 AI 프로젝트 참여 사업자 공모 결과, 총 6개의 사업자(컨소시엄) 제안이 접수됐다\"고 18일 밝혔다."
+    ],
+    "chips": [
+      "#AI",
+      "#카카오"
+    ]
+  },
+  {
+    "id": "nf25e1d4f",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "16분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260818167000084",
+    "title": "필리핀 10대, 학교서 총기 난사…바디캠으로 범행 온라인 생중계",
+    "summary": [
+      "(하노이=연합뉴스) 박진형 특파원 = 총기가 암시장 등을 통해 흔히 유통되는 필리핀에서 10대 중학교 학생이 학교에서 총기를 난사, 학생 1명을..."
+    ],
+    "chips": [
+      "#교육"
+    ]
+  },
+  {
+    "id": "n5c07599c",
+    "category": "경제",
+    "source": "뉴시스",
+    "time": "16분 전",
+    "url": "https://www.newsis.com/view/NISX20260818_0003753301",
+    "title": "[올댓차이나] 홍콩 증시, 중국 정책 기대에 상승 마감… H주 0.16%↑",
+    "summary": [
+      "[서울=뉴시스]이재준 기자 = 홍콩 증시는 18일 전날 뉴욕 증시 약세 여파로 반락 개장했다가 중국 경기부양책 기대로 저가 매수세가 유입하면서 이틀째 상승 마감했다.",
+      "항셍지수는 이날 전일 대비 17.92 포인트, 0.07% 올라간 2만5471.15로 폐장했다.",
+      "홍콩 증시 상장 중국기업주 중심의 H주 지수는 전일보다 13.23 포인트, 0.16% 상승한 8453.20으로 장을 끝냈다."
+    ],
+    "chips": [
+      "#정책"
+    ]
+  },
+  {
+    "id": "n1545d6e2",
+    "category": "IT",
+    "source": "한경IT",
+    "time": "18분 전",
+    "url": "https://www.hankyung.com/article/2026081881087",
+    "title": "'모두의 AI'에 6곳 도전장…SKT·카카오·KT 격돌",
+    "summary": [
+      "'모두의 AI'에 6곳 도전장…SKT·카카오·KT 격돌."
+    ],
+    "chips": [
+      "#AI",
+      "#카카오"
+    ]
+  },
+  {
+    "id": "n3ecf75fd",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "25분 전",
+    "url": "https://www.donga.com/news/Culture/article/all/20260818/134499438/2",
+    "title": "‘푸바오 동생 이름’ 최종후보 5개…투표 이벤트 30일까지",
+    "summary": [
+      "생후 77일을 맞은 에버랜드 아기 판다의 이름을 정하기 위한 온·오프라인 투표가 시작됐다.",
+      "18일 삼성물산 리조트부문 에버랜드에 따르면 판다 가족의 넷째인 아기 판다 이름을 정하는 전국민 대상 투표 이벤트가 이날부터 30일까지 진행된다.앞서 에버랜드가 지난달 온라인 채널을 통해 진행한 이름 공모에는 1만 건이 넘는 댓글이 달렸다.",
+      "에버랜드는 네이밍 선정위원회를 통해 아기 판다와의 최종 후보 5개를 엄선했다.최종 후보는 △쥬바오(珠宝·진주나 보석."
     ],
     "chips": [
       "#뉴스"
@@ -637,18 +641,18 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2590건",
-    "trend": "+295%"
+    "mentions": "1940건",
+    "trend": "+195%"
   },
   {
     "rank": 2,
     "tag": "AI",
-    "mentions": "1680건",
-    "trend": "+155%"
+    "mentions": "1810건",
+    "trend": "+175%"
   },
   {
     "rank": 3,
-    "tag": "반도체",
+    "tag": "KBO",
     "mentions": "1550건",
     "trend": "+135%"
   }
