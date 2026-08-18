@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-08-18 18:20:52
+// 마지막 업데이트: 2026-08-18 19:20:48
 window.NEWS_DB = [
   {
     "id": "n73d86871",
     "category": "IT",
     "source": "Chosunbiz",
-    "time": "11시간 전",
+    "time": "12시간 전",
     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPTzVjOFoxQUFvQVkwUlhJamtUVkF2ZXVqWmQycFpCUVAxSWVfdFIwZXJfdHQwaHlnLTl3aGlHMGFULUV2MjRfa2t2d29JR3RUMVdNUk1ESEJMY1RKRHBrR0VzWkhqdHFQcHBjQko2VjR3NHRXZnAwMTZMRzRxdm1mbnZQQ0lFTHFIR25j0gGfAUFVX3lxTE0weXV2MVRFWHhNMml1OTBtQjVMd1ppNUN0Szk3ZGNYXzlBZGYzWUhGLXVjOGN2NlNLcjBZWWVxRUZBck1QamlZUEx4TC1keUtQRjFhVHBVWHFqLVVUQVdaVGtLeUNIRURrdVlOZzlfbE5TWnNFb2FoWkw1MDNCREJrZEVJUGpVVDV2YmVoaW1UN3lNcmhVUWdURV8zSHN5TQ?oc=5",
     "title": "[현장의 시각] 한국산 AI 반도체, 장밋빛 미래보단 냉정한 현실 파악이 먼저다 - 조선비즈",
     "summary": [
@@ -20,7 +20,7 @@ window.NEWS_DB = [
     "id": "n29a690a3",
     "category": "IT",
     "source": "edaily.co.kr",
-    "time": "12시간 전",
+    "time": "13시간 전",
     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQZEV1RDBSdUFyYzdtRHNRMnJCYzVmVVFNd2dleDVseTEyc2dpVEtoVTU4NWpQazYyMXBXdHF1V2tTYVQtR2pEV0dwNjJ3V3dfZlJLbVJyWEJ4bmNhYkUtYW4xU3NPODRvSEYyekF3SHpvazJreThaY2o4VjAyYWhHbA?oc=5",
     "title": "\"K-반도체 슈퍼사이클 지속...내년 HBM4·파운드리 앞세운 삼성전자 질주\"[어쨌든경제]",
     "summary": [
@@ -35,7 +35,7 @@ window.NEWS_DB = [
     "id": "n429d6ff4",
     "category": "IT",
     "source": "서울파이낸스",
-    "time": "15시간 전",
+    "time": "16시간 전",
     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9zY2pmOTFvV2E1V09oWTh1SERKN01OVHBZNk03bDlYVmFqZ2RXWk1aUjZQTkVWY1M5YWpXeHJtZi1oREpMR25wcG5hTldPMURzeFV0OE9LT1E1dEVqWC1ZM3U4N3hEOFd0eVE?oc=5",
     "title": "[반도체 패권 전쟁 ④] 삼성전자·SK하이닉스의 승부수···HBM 넘어 ‘AI 반도체 기업’으로 진화하라",
     "summary": [
@@ -52,7 +52,7 @@ window.NEWS_DB = [
     "id": "n6066b0a5",
     "category": "IT",
     "source": "비즈니스포스트",
-    "time": "16시간 전",
+    "time": "17시간 전",
     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE91T3BqOGpUMEk3QjcwcnlOdU5rcXlNMGRJQVB6Ukh6bWNVYTZCYk92ZlJPdE8tcWFfNXZuZHFjdl9aYUF2b3dJdDFSY2pCbFZwOGYyNVJFUXVBQ09teFZhbm5oV2d5Y05ZZGMzQ2NFeG5oTm8?oc=5",
     "title": "반도체 가격 상승 \"최소한 2년 더 지속\" 전망, AI 데이터센터 수요가 버블 우려 잠재워",
     "summary": [
@@ -66,12 +66,12 @@ window.NEWS_DB = [
   {
     "id": "nd3f35837",
     "category": "IT",
-    "source": "연합뉴스",
-    "time": "22시간 전",
+    "source": "yna.co.kr",
+    "time": "23시간 전",
     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9tYVpGSGFhVVh0clliVWxETHZzdWRCc2l0ZEhteklhbmhNeHVxXzUxWURrNG54cm5Yem1fcTZLVEVYc3RsZWlEcl9uVDVoNk5ocWNwcmRBNHlCZkHSAWBBVV95cUxPc2VBZkNraE5oc2c4X3J6T0dsX2U2U3cyMC05bnJ3czRUVXpVem5nQ18wcVNhRVV0LXNFckl2cnFLbG4tb1RsbkZYT2lTUVBKSWJQZkxmZFNjTWFwYWg5X0o?oc=5",
     "title": "엔비디아, 오픈AI 데이터센터에 150조원 보증…순환금융 지적도",
     "summary": [
-      "엔비디아, 오픈AI 데이터센터에 150조원 보증…순환금융 지적도 연합뉴스."
+      "엔비디아, 오픈AI 데이터센터에 150조원 보증…순환금융 지적도 yna.co.kr."
     ],
     "chips": [
       "#AI",
@@ -171,12 +171,12 @@ window.NEWS_DB = [
   {
     "id": "nac7d261c",
     "category": "사회",
-    "source": "연합뉴스",
+    "source": "yna.co.kr",
     "time": "18일 전",
     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1wZmd4RTNaSTBwNVNxSm0yRGFySTlYN19qVTZfYzRtVzBzVV9nSnR3RXdYaTNiNkZRX3F6aXhFZTA5ekUxNW9VWHIzZHFjYnoyWU0wVDNoU2FJcVE?oc=5",
     "title": "강남구 일자리통합지원센터, 맞춤형 지원으로 취업자 25.7％ 증가",
     "summary": [
-      "강남구 일자리통합지원센터, 맞춤형 지원으로 취업자 25.7％ 증가 연합뉴스."
+      "강남구 일자리통합지원센터, 맞춤형 지원으로 취업자 25.7％ 증가 yna.co.kr."
     ],
     "chips": [
       "#취업",
@@ -287,12 +287,12 @@ window.NEWS_DB = [
   {
     "id": "nba668fc0",
     "category": "IT",
-    "source": "한국방송뉴스",
+    "source": "ikbn.news",
     "time": "111일 전",
     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1XaThhZXFiX3dDT0NrYVFwZ2dhNTgxbHU0WE5Bc21vcGVzR0d2Wkh2Zm5pS2MyZ1JkYlhHb2VfRkhkemdEX1F6Q1RtajJLRzR6dDdHcExQelAyS2N1OUE?oc=5",
     "title": "1조 8000억 규모 벤처펀드 선정…\"벤처·스타트업에 적시 공급\"",
     "summary": [
-      "1조 8000억 규모 벤처펀드 선정…\"벤처·스타트업에 적시 공급\" 한국방송뉴스."
+      "1조 8000억 규모 벤처펀드 선정…\"벤처·스타트업에 적시 공급\" ikbn.news."
     ],
     "chips": [
       "#스타트업"
@@ -313,10 +313,134 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n77830f9e",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "3분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260818173851071",
+    "title": "\"美항모 부재에 한미훈련 축소…태평양 안보 공백 현실화\"(종합)",
+    "summary": [
+      "(워싱턴=연합뉴스) 백나리 특파원 = 태평양에 배치됐던 미 해군 항공모함이 중동으로 이동하면서 태평양 안보 공백이 현실화하고 있다는 우려가 미 ..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n9db5c0d7",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "3분 전",
+    "url": "https://www.chosun.com/sports/baseball/2026/08/19/HBRDIZRZMRRDEMRZHA3DMZLCGY/",
+    "title": "이정도면 LG 새 4번이라고 해도 될까요...본인이 거부했다 \"우리 팀 4번은 보경이 형\" [잠실 현장]",
+    "summary": [
+      "[잠실=스포츠조선 김용 기자] \"LG 4번타자는 (문)보경이 형입니다.\" LG 트윈스 문정빈이 끝내주는 하루를 보냈다.",
+      "문정빈은 18일 잠실구장에서 열린 KT 위즈와의 주중 3연전 1차전 4번타자로 나서 5회 결정적 만루포 포함, 5타점 경기를 하며 팀의 9대1 승리를 이끌었다.",
+      "최근 LG 새로운 4번타자로 자리매김한 문정빈은 이날 생애 첫 그랜드슬램, 생."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n0aa222b3",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "5분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260819004800071",
+    "title": "美, 일본 국적 ICC 소장 등 2명 제재…\"ICC 체계적 해체하겠다\"",
+    "summary": [
+      "(워싱턴=연합뉴스) 박성민 특파원 = 도널드 트럼프 미국 행정부는 18일(현지시간) 국제형사재판소(ICC) 최고위 인사 2명을 제재했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nc4bc12fd",
+    "category": "IT",
+    "source": "뉴시스",
+    "time": "8분 전",
+    "url": "https://www.newsis.com/view/NISX20260819_0003753374",
+    "title": "오픈AI, 청소년용 챗GPT 출시…유해대화·정서적 유착 제한",
+    "summary": [
+      "[서울=뉴시스] 신효령 기자 = 오픈AI가 청소년 보호 기능을 강화한 '청소년용 챗GPT'를 18일(현지시간) 출시했다.",
+      "청소년의 챗봇 이용을 둘러싼 자해·정신건강 논란과 소송이 이어지는 가운데 나온 조치다.",
+      "오픈AI에 따르면 청소년용 챗GPT는 13~17세 이용자를 대상으로 한다."
+    ],
+    "chips": [
+      "#AI",
+      "#의료"
+    ]
+  },
+  {
+    "id": "nc80b5895",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "18분 전",
+    "url": "https://www.chosun.com/sports/baseball/2026/08/19/GJSTCYTGGJTDEZJUMY2DQNRWGU/",
+    "title": "한이닝 13점이라니? '0:8→15:10' 뒤집기 실화냐…'한동희 그랜드슬램, 손성빈 결승타+쐐기포' 잠못드는 부산의 여름밤 [SC포커스]",
+    "summary": [
+      "[스포츠조선 김영록 기자] 롯데 자이언츠가 부산 야구팬들에게 그 어느 때보다도 달콤한 '한여름밤의 꿈'을 선물했다.",
+      "롯데는 18일 부산 사직구장에서 열린 키움 히어로즈와의 시즌 10차전에서 장단 29안타를 주고받는 난타전 끝에 15대10으로 승리했다.",
+      "이로써 롯데는 47승째(2무57패)를 기록, 중위권 도약을 위한 발판을 마련했다."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
+    "id": "naeef4847",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "19분 전",
+    "url": "https://www.newsis.com/view/NISX20260818_0003753255",
+    "title": "대구·경북 폭염주의보 속 소나기…낮 최고 31~34도",
+    "summary": [
+      "[대구=뉴시스] 이상제 기자 = 19일 대구·경북은 대체로 흐리고 비가 내리는 곳이 있을 것으로 예상된다.",
+      "대구지방기상청은 이날 \"경북서부내륙에는 늦은 새벽부터 아침 사이 비가 오겠고, 대구·경북에는 오후부터 저녁 사이 곳에 따라 소나기가 내리겠다\"고 예보했다.",
+      "예상 강수량은 경북서부내륙 5~30㎜, 대구·경북 5~40㎜다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nc5f61918",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "28분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260819004400081",
+    "title": "'눈에는 눈'…프랑스, 이란 외교관 2명 추방",
+    "summary": [
+      "(파리=연합뉴스) 송진원 특파원 = 지난달 이란 주재 프랑스 외교관 2명이 현지 당국에 억류됐다 풀려난 데 대한 맞대응으로 프랑스가 이란 외교관..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n8a9eca73",
+    "category": "IT",
+    "source": "아시아경제",
+    "time": "31분 전",
+    "url": "https://view.asiae.co.kr/article/2026081903485439541",
+    "title": "앤스로픽, IPO 앞두고 100억달러 신용한도 추진",
+    "summary": [
+      "인공지능(AI) 스타트업 앤스로픽이 기업공개(IPO)를 앞두고 100억달러(약 14조1000억원)를 웃도는 규모의 회전신용한도(revolving credit facility) 확보를 추진하고 있다.",
+      "대형 IPO 주관사 자리를 노리는 글로벌 은행들이 대출 참여를 확대하면서 당초 목표액을 넘어설 가능성이 커지고 있다.",
+      "18일(현지시간) 블룸버그통신은 복수의 소식통을 인용해 앤스로픽이 추진 중인 회전신용한도가 당초 목표인 약 100억달러를 넘어설 것."
+    ],
+    "chips": [
+      "#AI",
+      "#스타트업"
+    ]
+  },
+  {
     "id": "nd4e6bc79",
     "category": "IT",
     "source": "테크M",
-    "time": "방금 전",
+    "time": "31분 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=154409",
     "title": "[카드뉴스] 모바일 게임이 사라졌다?.. BIC 2026에서 달라진 인디게임의 성공 공식",
     "summary": [
@@ -332,7 +456,7 @@ window.NEWS_DB = [
     "id": "n4281a171",
     "category": "IT",
     "source": "테크M",
-    "time": "방금 전",
+    "time": "32분 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=154407",
     "title": "딥파인, 100억원 규모 시리즈 B 투자 유치...누적 투자 180억원",
     "summary": [
@@ -345,10 +469,40 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n77ffe24b",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "33분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260819004200071",
+    "title": "\"이란전에 취약성 드러난 미군기지…걸프지역 미군 축소 검토\"",
+    "summary": [
+      "(워싱턴=연합뉴스) 이유미 특파원 = 미국 국방부(전쟁부)가 이란전이 끝난 뒤 페르시아만을 중심으로 중동 지역의 미군 주둔 규모를 축소하는 방안..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "ne2a9190c",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "40분 전",
+    "url": "https://www.newsis.com/view/NISX20260819_0003753372",
+    "title": "이스라엘, 美 가자 로드맵 거부 속 또 공습…6명 사망",
+    "summary": [
+      "[서울=뉴시스] 신효령 기자 = 미국이 추진하는 가자지구 평화 로드맵을 둘러싼 협상이 교착된 가운데 이스라엘군이 가자시티 항구를 공습해 어린이를 포함한 6명이 숨졌다.",
+      "18일(현지시간) AFP통신 등 외신에 따르면 가자지구 민방위대의 마무드 바살 대변인은 이스라엘군이 가자시티 항구의 피란민 텐트가 있는 지역을 공습했다고 밝혔다.",
+      "사망자 중에는 어린이 1명이 포함됐으며 12명이 다쳤다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
     "id": "na68df694",
     "category": "사회",
     "source": "뉴시스",
-    "time": "1분 전",
+    "time": "1시간 전",
     "url": "https://www.newsis.com/view/NISX20260819_0003753370",
     "title": "美, 페르시아만 주둔군 철수·재배치 검토…이란 공격 후폭풍",
     "summary": [
@@ -361,144 +515,24 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nb70d839e",
+    "id": "n94edd303",
     "category": "사회",
-    "source": "연합뉴스",
-    "time": "4분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260819003500087",
-    "title": "브라질 국민배우 로라 카르도소 별세…향년 99세",
-    "summary": [
-      "(멕시코시티=연합뉴스) 송광호 특파원 = 브라질 TV 드라마 100여편에 출연한 국민배우 로라 카르도소가 지난 17일(현지시간) 밤 노환으로 별..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n101abff5",
-    "category": "경제",
-    "source": "머니투데이",
-    "time": "4분 전",
-    "url": "https://www.mt.co.kr/entertainment/2026/08/19/2026081903061713085",
-    "title": "'♥레이디제인' 임현태, 주식 수익 900% 고백 \"상위 3%까지 등극",
-    "summary": [
-      "임현태가 레이디제인과 쌍둥이 딸들을 위해 주식 투자에 몰두하는 일상을 공개한 가운데 초기 자금 500만 원을 5000만 원까지 늘리고 한때 증권사 수익률 상위 3%에 올랐다고 밝혀 놀라움을 안겼다.",
-      "18일 방영된 SBS '동상이몽2-너는 내 운명' 452회에서는 딸 쌍둥이 부모가 된 레이디제인, 임현태 부부의 일상이 그려졌다.",
-      "이날 임현태는 레이디제인과 함께 딸 쌍둥이를 돌보던 중 아침 주식장이 열리는 시간이 되자마자 자리를 이탈했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n2d43f1f3",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "5분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260819002600075",
-    "title": "BTS, 美MTV VMA '올해의 노래' 후보에…리사 4개 부문 올라",
-    "summary": [
-      "(로스앤젤레스=연합뉴스) 김경윤 특파원 = 4년 만에 컴백한 방탄소년단(BTS)이 미국 4대 대중음악 시상식 중 하나인 MTV 비디오 뮤직 어워..."
-    ],
-    "chips": [
-      "#환경"
-    ]
-  },
-  {
-    "id": "na87784ea",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "6분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260819003700079",
-    "title": "'트럼프의 평화안' 거부 이스라엘, 가자지구 또 공습…6명 사망",
-    "summary": [
-      "(카이로=연합뉴스) 김상훈 특파원 = 가자지구 보건 당국은 18일(현지시간) 가자시티 항구에 대한 이스라엘군의 공습으로 6명이 숨지고 10여 명..."
-    ],
-    "chips": [
-      "#의료"
-    ]
-  },
-  {
-    "id": "n8486e3d6",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "8분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260819003300099",
-    "title": "민주콩고 에볼라 확진 5천명 넘어…WHO \"통제되기엔 멀어\"",
-    "summary": [
-      "(요하네스버그=연합뉴스) 나확진 특파원 = 콩고민주공화국이 에볼라 발병을 선언한 지 3개월여만에 확진자가 5천명을 넘었다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nbeb8fe0d",
-    "category": "사회",
-    "source": "머니투데이",
-    "time": "9분 전",
-    "url": "https://www.mt.co.kr/politics/2026/08/19/2026081819541248615",
-    "title": "李대통령 \"백해무익 정쟁보다 손 맞잡을 때\" 정치권 협치 당부",
-    "summary": [
-      "대내외 난제 산적… 국힘 향해 국회에 화합 강조 메시지 '당 통합·국정협력' 오늘 김민석·정청래·송영길과 만찬 핵잠 속도·국군사관학교 창설 준비 등 안보의지도 피력 이재명 대통령이 \"당이 달라도, 진영이 달라도, 서로 치열하게 경쟁을 벌인 상대라 하더라도 국민과 나라를 위한 공동의 책임을 짊어진 동반자들로서 그 책임은 다르지 않다\"고 강조했다.",
-      "더불어민주당 전당대회가 끝난 이후 여당을 포함한 국회에 화합을 당부한 것으로 풀이된다."
-    ],
-    "chips": [
-      "#정치",
-      "#교육"
-    ]
-  },
-  {
-    "id": "nd4bc32c8",
-    "category": "사회",
-    "source": "머니투데이",
-    "time": "10분 전",
-    "url": "https://www.mt.co.kr/estate/2026/08/19/2026081820075380699",
-    "title": "靑, 용산공원 '주택공급' 국민의견 묻는다",
-    "summary": [
-      "찬반 논란에 여론조사 등 논의 국토부는 '공론화위원회' 검토 정부가 용산어린이정원을 포함한 용산공원 전체를 대상으로 주택공급이 가능한 부지를 살펴보는 가운데 청와대가 직접 여론조사 등 국민 의견수렴 방안을 논의 중인 것으로 파악됐다.",
-      "정부는 특히 이번 사안과 관련해 '공론화위원회' 등도 검토하는 것으로 전해졌다.【8월5일자 본지 1면 \"국유지 '용산어린이정원'에 주택공급\" 참조】 18일 정치권에 따르면 용산공원 주택공급을 둘러싼 찬반논란이 커지."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n7d5bdb5e",
-    "category": "부동산",
-    "source": "머니투데이",
-    "time": "16분 전",
-    "url": "https://www.mt.co.kr/politics/2026/08/19/2026081820021934702",
-    "title": "'첫 인선' 김민석 체제 가동… 부동산·檢개혁 '산 넘어 산'",
-    "summary": [
-      "與, 사무총장 한정애·정책위의장 권칠승 등 보직 인사 단행 세제개편·메가특구법에 당내 수습·외연확장까지 현안 쌓여 김민석 신임 더불어민주당 대표가 당내 주요 보직에 대한 인선을 발표하며 임기에 본격 시동을 걸었다.",
-      "김 대표는 임기 시작과 동시에 부동산 세제개편안, 3대 메가프로젝트 지원, 검찰개혁 후속법안 등 녹록지 않은 과제들을 마주했다.",
-      "새로 구성된 당 지도부와 함께 상임위의 본격 가동에 맞춰 입법 속도전을 펼칠 전망이다."
-    ],
-    "chips": [
-      "#부동산",
-      "#정책"
-    ]
-  },
-  {
-    "id": "nf03f9c1a",
-    "category": "IT",
     "source": "조선일보",
-    "time": "20분 전",
-    "url": "https://www.chosun.com/economy/tech_it/2026/08/19/ETC5IGAP5BHAVJ474H7ICP6ILQ/",
-    "title": "“헤이 구글, 이 건물 뭐야?”… AI 스마트 안경이 일상을 바꾼다",
+    "time": "1시간 전",
+    "url": "https://www.chosun.com/premium/2026/08/19/3FZRWX6VWJFMVLO2MUG7DRLSZM/",
+    "title": "‘말죽거리 잔혹사’가 남긴 역사적 교훈… 이괄은 왜 창을 거꾸로 쥐었나",
     "summary": [
-      "“헤이 구글, 이 건물 뭐야?”… AI 스마트 안경이 일상을 바꾼다."
+      "‘말죽거리 잔혹사’가 남긴 역사적 교훈… 이괄은 왜 창을 거꾸로 쥐었나."
     ],
     "chips": [
-      "#AI"
+      "#뉴스"
     ]
   },
   {
     "id": "nbcf5e425",
     "category": "사회",
     "source": "조선일보",
-    "time": "20분 전",
+    "time": "1시간 전",
     "url": "https://www.chosun.com/culture-life/book/2026/08/19/QE6SIG5EHVDVLLHZOO67TZXQ5Q/",
     "title": "[68화] 하늘조차 거부한 세 번의 장례",
     "summary": [
@@ -509,54 +543,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n61cec2da",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "20분 전",
-    "url": "https://www.chosun.com/national/national_general/2026/08/19/ZCTAZ65IAVE7VI55RP3SIFUV5A/",
-    "title": "‘부산 돌려차기’ 진실 밝힌 82년생 엄마 검사… 평범한 검사들이 지켜온 것들",
-    "summary": [
-      "‘부산 돌려차기’ 진실 밝힌 82년생 엄마 검사… 평범한 검사들이 지켜온 것들."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nb1927333",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "20분 전",
-    "url": "https://www.chosun.com/culture-life/2026/08/19/6CJAEJXMN5EH3JZJOFM3XEN6V4/",
-    "title": "독사도 씹어 먹는 ‘아프리카 최강 괴수’… 벌꿀오소리가 한국에 왔다",
-    "summary": [
-      "독사도 씹어 먹는 ‘아프리카 최강 괴수’… 벌꿀오소리가 한국에 왔다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n04cad629",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "30분 전",
-    "url": "https://www.newsis.com/view/NISX20260818_0003753080",
-    "title": "\"우리 아이도 마운자로\"…美 부모들, 자녀에게 비만약 쓰는 이유",
-    "summary": [
-      "[서울=뉴시스]김혜경 기자 = 위고비, 마운자로 등 비만 치료제로 알려진 GLP-1 계열 약물을 자녀에게 투여하는 미국 부모들이 늘고 있다.",
-      "심각한 비만으로 건강 문제를 겪는 아이들의 치료를 위해서지만, 성장·발달 과정에 있는 소아·청소년에게 약물을 사용하는 것이 적절한지를 두고 논란도 이어지고 있다.",
-      "17일(현지 시간) 미국 뉴욕포스트에 따르면 미국에서는 최근 비만으로 건강 문제를 겪는 자녀에게 위고비 등 GLP-1 계열 약물을 사용하려는 부."
-    ],
-    "chips": [
-      "#의료"
-    ]
-  },
-  {
     "id": "n6dc903e8",
     "category": "IT",
     "source": "테크M",
-    "time": "36분 전",
+    "time": "1시간 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=154408",
     "title": "넷마블, 서브컬처 수집형 RPG '펄인블루' TGS 2026 출격...日 정조준",
     "summary": [
@@ -568,27 +558,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n3d162fb2",
-    "category": "부동산",
-    "source": "뉴시스",
-    "time": "42분 전",
-    "url": "https://www.newsis.com/view/NISX20260819_0003753369",
-    "title": "美 7월 잠정주택판매 전월비 2.3%↓…고금리에 두달째 감소",
-    "summary": [
-      "[서울=뉴시스] 신효령 기자 = 미국의 7월 잠정주택판매가 감소했다.",
-      "높은 모기지 금리와 집값이 매수세를 억눌렀다.",
-      "18일(현지시간) 전미부동산중개인협회(NAR)에 따르면 7월 잠정주택판매는 전월보다 2.3% 감소했다."
-    ],
-    "chips": [
-      "#부동산",
-      "#금리"
-    ]
-  },
-  {
     "id": "n77974c15",
     "category": "IT",
     "source": "테크M",
-    "time": "43분 전",
+    "time": "1시간 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=154406",
     "title": "스노우플레이크, 한국 지사장에 구글 클라우드 출신 이용석 선임",
     "summary": [
@@ -601,26 +574,24 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n43341dd3",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "58분 전",
-    "url": "https://www.newsis.com/view/NISX20260819_0003753368",
-    "title": "젤렌스키, 새 국방장관에 흐마라 지명…페도로우 후임",
+    "id": "n58bbc5dc",
+    "category": "IT",
+    "source": "한국경제",
+    "time": "1시간 전",
+    "url": "https://www.hankyung.com/article/202608198257i",
+    "title": "채권자경단 '패닉 버튼' 누를까…월가, 반도체 조정장 올지 주시[박신영의 개장전 요것만]",
     "summary": [
-      "[서울=뉴시스] 신효령 기자 = 볼로디미르 젤렌스키 우크라이나 대통령이 예우헨 흐마라 국방장관 권한대행을 정식 국방장관 후보자로 지명했다.",
-      "18일(현지시간) 우크라이나 현지 매체 등에 따르면 젤렌스키 대통령은 이날 흐마라를 국방장관으로 임명해달라는 지명안을 의회에 제출했다.",
-      "우크라이나 의회는 이르면 19일 흐마라 임명안을 표결할 것으로 예상된다."
+      "채권자경단 '패닉 버튼' 누를까…월가, 반도체 조정장 올지 주시[박신영의 개장전 요것만]."
     ],
     "chips": [
-      "#정치"
+      "#반도체"
     ]
   },
   {
     "id": "n6ee79f89",
     "category": "경제",
     "source": "아시아경제",
-    "time": "1시간 전",
+    "time": "2시간 전",
     "url": "https://view.asiae.co.kr/article/2026081901362135475",
     "title": "[갤러리 산책]사인 없는 마지막 세 점…박서보미술관은 왜 다른 화가와 문을 열었나",
     "summary": [
@@ -631,6 +602,38 @@ window.NEWS_DB = [
     "chips": [
       "#뉴스"
     ]
+  },
+  {
+    "id": "n09ac45a5",
+    "category": "경제",
+    "source": "아시아경제",
+    "time": "3시간 전",
+    "url": "https://view.asiae.co.kr/article/2026081722354047265",
+    "title": "[이주의 전시]우순옥 회고전 '예술은 이미 당신의 마음속에 있다'·김영헌 개인전 '프록시마' 外",
+    "summary": [
+      "편집자주이주의 전시는 전국 각지의 전시 중 한 주간 만나볼 수 있는 다양하고 매력적인 전시를 정리해 소개합니다.",
+      "권기수·이동기·홍경택·홍원표 4인전 'AFTER IMAGES' 이미지는 더 이상 한곳에 머물지 않는다.",
+      "권기수·이동기·홍경택·홍원표 4인전 'AFTER IMAGES'는 가상과 현실, 전통과 대중문화, 물질적 욕망과 정신적 사유가 뒤섞인 동시대의 문화 지형을 네 개의 시선으로 읽는다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n527b410f",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "3시간 전",
+    "url": "https://www.donga.com/news/Society/article/all/20260819/134500655/1",
+    "title": "몸 한쪽에 찌릿한 통증…근육통 아닌 ‘대상포진’",
+    "summary": [
+      "몸 한쪽에 이유 없이 찌릿한 통증이 느껴지거나 띠 모양의 물집이 생긴다면 단순 근육통이나 피부 트러블로 넘기면 안 된다.",
+      "모르고 지나치기 쉬운 대상포진 초기 증상일 수 있어서다.",
+      "증상이 나타난 뒤 72시간 안에 치료하지 않으면, 피부 병변이 회복된 뒤에도 극심한 통증이 이어지는 ‘대상포진 후 신경통’으로 이어질 수 있어 신속한 진료가 중요하다."
+    ],
+    "chips": [
+      "#의료"
+    ]
   }
 ];
 
@@ -639,20 +642,20 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2070건",
-    "trend": "+215%"
+    "mentions": "2590건",
+    "trend": "+295%"
   },
   {
     "rank": 2,
     "tag": "AI",
-    "mentions": "1810건",
-    "trend": "+175%"
+    "mentions": "1940건",
+    "trend": "+195%"
   },
   {
     "rank": 3,
     "tag": "반도체",
-    "mentions": "1550건",
-    "trend": "+135%"
+    "mentions": "1680건",
+    "trend": "+155%"
   }
 ];
 // ====AUTO-GENERATED-END====
