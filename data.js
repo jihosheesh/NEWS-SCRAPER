@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-08-18 19:20:48
+// 마지막 업데이트: 2026-08-18 20:11:56
 window.NEWS_DB = [
   {
     "id": "n73d86871",
     "category": "IT",
     "source": "Chosunbiz",
-    "time": "12시간 전",
+    "time": "13시간 전",
     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPTzVjOFoxQUFvQVkwUlhJamtUVkF2ZXVqWmQycFpCUVAxSWVfdFIwZXJfdHQwaHlnLTl3aGlHMGFULUV2MjRfa2t2d29JR3RUMVdNUk1ESEJMY1RKRHBrR0VzWkhqdHFQcHBjQko2VjR3NHRXZnAwMTZMRzRxdm1mbnZQQ0lFTHFIR25j0gGfAUFVX3lxTE0weXV2MVRFWHhNMml1OTBtQjVMd1ppNUN0Szk3ZGNYXzlBZGYzWUhGLXVjOGN2NlNLcjBZWWVxRUZBck1QamlZUEx4TC1keUtQRjFhVHBVWHFqLVVUQVdaVGtLeUNIRURrdVlOZzlfbE5TWnNFb2FoWkw1MDNCREJrZEVJUGpVVDV2YmVoaW1UN3lNcmhVUWdURV8zSHN5TQ?oc=5",
     "title": "[현장의 시각] 한국산 AI 반도체, 장밋빛 미래보단 냉정한 현실 파악이 먼저다 - 조선비즈",
     "summary": [
@@ -20,7 +20,7 @@ window.NEWS_DB = [
     "id": "n29a690a3",
     "category": "IT",
     "source": "edaily.co.kr",
-    "time": "13시간 전",
+    "time": "14시간 전",
     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQZEV1RDBSdUFyYzdtRHNRMnJCYzVmVVFNd2dleDVseTEyc2dpVEtoVTU4NWpQazYyMXBXdHF1V2tTYVQtR2pEV0dwNjJ3V3dfZlJLbVJyWEJ4bmNhYkUtYW4xU3NPODRvSEYyekF3SHpvazJreThaY2o4VjAyYWhHbA?oc=5",
     "title": "\"K-반도체 슈퍼사이클 지속...내년 HBM4·파운드리 앞세운 삼성전자 질주\"[어쨌든경제]",
     "summary": [
@@ -51,12 +51,12 @@ window.NEWS_DB = [
   {
     "id": "n6066b0a5",
     "category": "IT",
-    "source": "비즈니스포스트",
-    "time": "17시간 전",
+    "source": "businesspost.co.kr",
+    "time": "18시간 전",
     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE91T3BqOGpUMEk3QjcwcnlOdU5rcXlNMGRJQVB6Ukh6bWNVYTZCYk92ZlJPdE8tcWFfNXZuZHFjdl9aYUF2b3dJdDFSY2pCbFZwOGYyNVJFUXVBQ09teFZhbm5oV2d5Y05ZZGMzQ2NFeG5oTm8?oc=5",
     "title": "반도체 가격 상승 \"최소한 2년 더 지속\" 전망, AI 데이터센터 수요가 버블 우려 잠재워",
     "summary": [
-      "반도체 가격 상승 \"최소한 2년 더 지속\" 전망, AI 데이터센터 수요가 버블 우려 잠재워 비즈니스포스트."
+      "반도체 가격 상승 \"최소한 2년 더 지속\" 전망, AI 데이터센터 수요가 버블 우려 잠재워 businesspost.co.kr."
     ],
     "chips": [
       "#AI",
@@ -66,12 +66,12 @@ window.NEWS_DB = [
   {
     "id": "nd3f35837",
     "category": "IT",
-    "source": "yna.co.kr",
-    "time": "23시간 전",
+    "source": "연합뉴스",
+    "time": "1일 전",
     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9tYVpGSGFhVVh0clliVWxETHZzdWRCc2l0ZEhteklhbmhNeHVxXzUxWURrNG54cm5Yem1fcTZLVEVYc3RsZWlEcl9uVDVoNk5ocWNwcmRBNHlCZkHSAWBBVV95cUxPc2VBZkNraE5oc2c4X3J6T0dsX2U2U3cyMC05bnJ3czRUVXpVem5nQ18wcVNhRVV0LXNFckl2cnFLbG4tb1RsbkZYT2lTUVBKSWJQZkxmZFNjTWFwYWg5X0o?oc=5",
     "title": "엔비디아, 오픈AI 데이터센터에 150조원 보증…순환금융 지적도",
     "summary": [
-      "엔비디아, 오픈AI 데이터센터에 150조원 보증…순환금융 지적도 yna.co.kr."
+      "엔비디아, 오픈AI 데이터센터에 150조원 보증…순환금융 지적도 연합뉴스."
     ],
     "chips": [
       "#AI",
@@ -96,12 +96,12 @@ window.NEWS_DB = [
   {
     "id": "n9763e68e",
     "category": "사회",
-    "source": "투데이경제",
+    "source": "tookyung.com",
     "time": "4일 전",
     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBEZVV0SG5SS2kwVUNpWjN4X19kU2JxOTFqY293UVVaUTc4UkxKLWVOMTFBS21XY1dTejB4YlVQY3RvV0d5SGZjNU1fVUxZVjQwcXFHZFk5MVBSdjNZZFJkc2tPZVlIOHdLSldv?oc=5",
     "title": "수원특례시, 8월 '일자리 두드림 구인·구직의 날' 개최한다… 5개 업체 참여해 18명 채용",
     "summary": [
-      "수원특례시, 8월 '일자리 두드림 구인·구직의 날' 개최한다… 5개 업체 참여해 18명 채용 투데이경제."
+      "수원특례시, 8월 '일자리 두드림 구인·구직의 날' 개최한다… 5개 업체 참여해 18명 채용 tookyung.com."
     ],
     "chips": [
       "#채용",
@@ -112,12 +112,12 @@ window.NEWS_DB = [
   {
     "id": "n1058f97e",
     "category": "스포츠",
-    "source": "네이트",
+    "source": "news.nate.com",
     "time": "5일 전",
     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8yc083aVJTcjRRMW96ZThmS0J5NnYtWjFpdVpkWlpPMjA2RVhzQzF5dzVTcGhHdUJFaWRDUmdjY053NEFkY2g4dzZmZmNYQW5saFg4YVV4NG1sbkx0bTFMWg?oc=5",
     "title": "맑은 하늘 아래 펼쳐지는 KBO리그",
     "summary": [
-      "맑은 하늘 아래 펼쳐지는 KBO리그 네이트."
+      "맑은 하늘 아래 펼쳐지는 KBO리그 news.nate.com."
     ],
     "chips": [
       "#KBO"
@@ -171,12 +171,12 @@ window.NEWS_DB = [
   {
     "id": "nac7d261c",
     "category": "사회",
-    "source": "yna.co.kr",
+    "source": "연합뉴스",
     "time": "18일 전",
     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1wZmd4RTNaSTBwNVNxSm0yRGFySTlYN19qVTZfYzRtVzBzVV9nSnR3RXdYaTNiNkZRX3F6aXhFZTA5ekUxNW9VWHIzZHFjYnoyWU0wVDNoU2FJcVE?oc=5",
     "title": "강남구 일자리통합지원센터, 맞춤형 지원으로 취업자 25.7％ 증가",
     "summary": [
-      "강남구 일자리통합지원센터, 맞춤형 지원으로 취업자 25.7％ 증가 yna.co.kr."
+      "강남구 일자리통합지원센터, 맞춤형 지원으로 취업자 25.7％ 증가 연합뉴스."
     ],
     "chips": [
       "#취업",
@@ -287,12 +287,12 @@ window.NEWS_DB = [
   {
     "id": "nba668fc0",
     "category": "IT",
-    "source": "ikbn.news",
+    "source": "한국방송뉴스",
     "time": "111일 전",
     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1XaThhZXFiX3dDT0NrYVFwZ2dhNTgxbHU0WE5Bc21vcGVzR0d2Wkh2Zm5pS2MyZ1JkYlhHb2VfRkhkemdEX1F6Q1RtajJLRzR6dDdHcExQelAyS2N1OUE?oc=5",
     "title": "1조 8000억 규모 벤처펀드 선정…\"벤처·스타트업에 적시 공급\"",
     "summary": [
-      "1조 8000억 규모 벤처펀드 선정…\"벤처·스타트업에 적시 공급\" ikbn.news."
+      "1조 8000억 규모 벤처펀드 선정…\"벤처·스타트업에 적시 공급\" 한국방송뉴스."
     ],
     "chips": [
       "#스타트업"
@@ -313,134 +313,205 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n77830f9e",
+    "id": "n8f90fda6",
+    "category": "경제",
+    "source": "아시아경제",
+    "time": "방금 전",
+    "url": "https://view.asiae.co.kr/article/2026081904352347646",
+    "title": "[속보]미국채 30년물 수익률 고공행진에 일제히 하락 마감",
+    "summary": [
+      "미국의 30년 만기 국채 금리가 고공행진을 이어가자 18일(현지시간) 미국의 3대 지수는 일제히 하락세로 마쳤다.",
+      "이날 뉴욕증권거래소(NYSE)에서 다우존스30산업평균지수(다우지수)는 전 거래일보다 0.22% 떨어져 마감했다.",
+      "대형주 중심의 S&P500지수는 0.69%, 기술주 중심의 나스닥지수는 1.33% 내려 장을 마무리했다."
+    ],
+    "chips": [
+      "#금리"
+    ]
+  },
+  {
+    "id": "n7faf1fd8",
     "category": "사회",
-    "source": "연합뉴스",
-    "time": "3분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260818173851071",
-    "title": "\"美항모 부재에 한미훈련 축소…태평양 안보 공백 현실화\"(종합)",
-    "summary": [
-      "(워싱턴=연합뉴스) 백나리 특파원 = 태평양에 배치됐던 미 해군 항공모함이 중동으로 이동하면서 태평양 안보 공백이 현실화하고 있다는 우려가 미 ..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n9db5c0d7",
-    "category": "스포츠",
     "source": "조선일보",
-    "time": "3분 전",
-    "url": "https://www.chosun.com/sports/baseball/2026/08/19/HBRDIZRZMRRDEMRZHA3DMZLCGY/",
-    "title": "이정도면 LG 새 4번이라고 해도 될까요...본인이 거부했다 \"우리 팀 4번은 보경이 형\" [잠실 현장]",
+    "time": "1분 전",
+    "url": "https://www.chosun.com/economy/startup_story/2026/08/19/QYFCF4THKRFDLGRCKGD4XAPK2M/",
+    "title": "나이 들면 떨어지는 ‘근력’ 강황으로 지켜, 연세대 의대 교수가 개발했다",
     "summary": [
-      "[잠실=스포츠조선 김용 기자] \"LG 4번타자는 (문)보경이 형입니다.\" LG 트윈스 문정빈이 끝내주는 하루를 보냈다.",
-      "문정빈은 18일 잠실구장에서 열린 KT 위즈와의 주중 3연전 1차전 4번타자로 나서 5회 결정적 만루포 포함, 5타점 경기를 하며 팀의 9대1 승리를 이끌었다.",
-      "최근 LG 새로운 4번타자로 자리매김한 문정빈은 이날 생애 첫 그랜드슬램, 생."
+      "나이 들면 떨어지는 ‘근력’ 강황으로 지켜, 연세대 의대 교수가 개발했다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n0aa222b3",
+    "id": "n40ffc4d7",
     "category": "사회",
-    "source": "연합뉴스",
-    "time": "5분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260819004800071",
-    "title": "美, 일본 국적 ICC 소장 등 2명 제재…\"ICC 체계적 해체하겠다\"",
+    "source": "조선일보",
+    "time": "6분 전",
+    "url": "https://www.chosun.com/economy/startup_story/2026/08/19/BZ3FTJXRRBEHTOA6YMO36CZ4SE/",
+    "title": "이렇게 싼데 달고 아삭하기까지, 영주 ‘주먹 부사’ 25개 4만원대 특가",
     "summary": [
-      "(워싱턴=연합뉴스) 박성민 특파원 = 도널드 트럼프 미국 행정부는 18일(현지시간) 국제형사재판소(ICC) 최고위 인사 2명을 제재했다."
+      "이렇게 싼데 달고 아삭하기까지, 영주 ‘주먹 부사’ 25개 4만원대 특가."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "nc4bc12fd",
-    "category": "IT",
-    "source": "뉴시스",
-    "time": "8분 전",
-    "url": "https://www.newsis.com/view/NISX20260819_0003753374",
-    "title": "오픈AI, 청소년용 챗GPT 출시…유해대화·정서적 유착 제한",
-    "summary": [
-      "[서울=뉴시스] 신효령 기자 = 오픈AI가 청소년 보호 기능을 강화한 '청소년용 챗GPT'를 18일(현지시간) 출시했다.",
-      "청소년의 챗봇 이용을 둘러싼 자해·정신건강 논란과 소송이 이어지는 가운데 나온 조치다.",
-      "오픈AI에 따르면 청소년용 챗GPT는 13~17세 이용자를 대상으로 한다."
-    ],
-    "chips": [
-      "#AI",
-      "#의료"
-    ]
-  },
-  {
-    "id": "nc80b5895",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "18분 전",
-    "url": "https://www.chosun.com/sports/baseball/2026/08/19/GJSTCYTGGJTDEZJUMY2DQNRWGU/",
-    "title": "한이닝 13점이라니? '0:8→15:10' 뒤집기 실화냐…'한동희 그랜드슬램, 손성빈 결승타+쐐기포' 잠못드는 부산의 여름밤 [SC포커스]",
-    "summary": [
-      "[스포츠조선 김영록 기자] 롯데 자이언츠가 부산 야구팬들에게 그 어느 때보다도 달콤한 '한여름밤의 꿈'을 선물했다.",
-      "롯데는 18일 부산 사직구장에서 열린 키움 히어로즈와의 시즌 10차전에서 장단 29안타를 주고받는 난타전 끝에 15대10으로 승리했다.",
-      "이로써 롯데는 47승째(2무57패)를 기록, 중위권 도약을 위한 발판을 마련했다."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
-    "id": "naeef4847",
+    "id": "n6a0e2212",
     "category": "사회",
     "source": "뉴시스",
-    "time": "19분 전",
-    "url": "https://www.newsis.com/view/NISX20260818_0003753255",
-    "title": "대구·경북 폭염주의보 속 소나기…낮 최고 31~34도",
+    "time": "9분 전",
+    "url": "https://www.newsis.com/view/NISX20260818_0003752715",
+    "title": "\"난공불락 허문다\"…안구건조증 신약 잇단 도전",
     "summary": [
-      "[대구=뉴시스] 이상제 기자 = 19일 대구·경북은 대체로 흐리고 비가 내리는 곳이 있을 것으로 예상된다.",
-      "대구지방기상청은 이날 \"경북서부내륙에는 늦은 새벽부터 아침 사이 비가 오겠고, 대구·경북에는 오후부터 저녁 사이 곳에 따라 소나기가 내리겠다\"고 예보했다.",
-      "예상 강수량은 경북서부내륙 5~30㎜, 대구·경북 5~40㎜다."
+      "[서울=뉴시스]이소헌 기자 = 개발이 어렵다고 알려진 안구건조증 치료제 분야에 국내 제약바이오 기업들이 임상 시험 등을 진행하며 신약 개발에 뛰어들고 있다.",
+      "19일 제약바이오업계에 따르면 휴온스, 한올바이오파마, 아주약품, 지엘팜텍 등 국내 기업들은 안구건조증 치료제 개발에 나서고 있다.",
+      "안구건조증은 발병 원인이 여러 가지인 데다, 환자군의 이질성과 증상 변동성이 커 효능 평가를 위한 뚜렷한 지표 설정 등이 어려워 개발이 까다로운 것으로 알려졌."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "nc5f61918",
+    "id": "n558fadec",
     "category": "사회",
-    "source": "연합뉴스",
-    "time": "28분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260819004400081",
-    "title": "'눈에는 눈'…프랑스, 이란 외교관 2명 추방",
+    "source": "아시아경제",
+    "time": "10분 전",
+    "url": "https://view.asiae.co.kr/article/2026081821383462960",
+    "title": "결국 사직서 낸 정성호 법무, 李정부 '순차 개각' 힘 실리나",
     "summary": [
-      "(파리=연합뉴스) 송진원 특파원 = 지난달 이란 주재 프랑스 외교관 2명이 현지 당국에 억류됐다 풀려난 데 대한 맞대응으로 프랑스가 이란 외교관..."
+      "정성호 법무부 장관이 사직서를 제출한 뒤 조속한 사표 수리를 공개적으로 요청하면서 이재명 정부의 개각 시간표가 다시 주목받고 있다.",
+      "최근까지 국정감사와 인사청문회 일정 등을 감안하면 중폭 이상의 개각은 연말께나 가능할 것이라는 관측이 우세했지만, 정 장관이 퇴진 의사를 거듭 분명히 하면서 법무부를 비롯해 인사가 불가피한 일부 부처부터 먼저 손볼 가능성이 제기된다.",
+      "19일 청와대에 따르면 정 장관은 전날 국무회."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n8a9eca73",
+    "id": "nd1c25473",
+    "category": "경제",
+    "source": "뉴시스",
+    "time": "10분 전",
+    "url": "https://www.newsis.com/view/NISX20260819_0003753379",
+    "title": "[속보]뉴욕증시, 미국·이란 갈등 지속에 하락 마감…나스닥 1.33%↓",
+    "summary": [
+      "후속기사가 이어집니다 ◎공감언론 뉴시스 snow@newsis.com."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n1dc4b39e",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "10분 전",
+    "url": "https://www.newsis.com/view/NISX20260818_0003753175",
+    "title": "인천, 낮 최고 체감온도 33도 안팎…일부 열대야",
+    "summary": [
+      "[인천=뉴시스] 전예준 기자 = 19일 인천은 낮 최고 체감온도가 33도 안팎으로 오르고, 열대야도 일부 지역에서 나타나겠다.",
+      "하늘은 북태평양 고기압의 가장자리에 들어 흐리다가 오후부터 구름 많겠다.",
+      "수도권기상청은 \"아침 최저기온은 24도, 낮 최고기온은 31도 내외의 분포를 보이겠다\"며 \"당분간 대부분 지역에서 최고 체감온도가 33도 안팎으로 올라 무덥겠다\"고 예보했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n6428f9bf",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "10분 전",
+    "url": "https://www.newsis.com/view/NISX20260818_0003753157",
+    "title": "[오늘의 주요일정]식품의약품안전처(8월19일 수요일)",
+    "summary": [
+      "[서울=뉴시스] ◇처장 ▲10:00 상임위 전체회의 ◇차장 ▲10:00 상임위 전체회의."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "ne6278e3a",
+    "category": "사회",
+    "source": "아시아경제",
+    "time": "11분 전",
+    "url": "https://view.asiae.co.kr/article/2026081820301979593",
+    "title": "李대통령, 전대 종료 이틀 만에 金·鄭·宋과 한 자리…전대 후유증 차단",
+    "summary": [
+      "이재명 대통령이 19일 김민석 더불어민주당 당대표 자리를 놓고 경쟁했던 정청래·송영길 의원을 청와대로 초청해 만찬을 갖는다.",
+      "전당대회가 끝난 지 불과 이틀 만이다.",
+      "한 달 넘게 이어진 경선이 친명(친이재명)계와 친청(친정청래)계의 세 대결로 번지며 적잖은 상흔을 남긴 만큼, 승자와 패자를 한자리에 불러 전대의 시간을 끝내고 집권 2년 차 국정 운영을 위한 '원팀'을 신속하게 재건하겠다는 뜻으로 풀이된다."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n5eee3870",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "11분 전",
+    "url": "https://www.chosun.com/national/national_general/2026/08/19/JRBOOTEMJJFUZGMCJ5EP4DRVC4/",
+    "title": "[단독] 논문 뺏길까봐… 초안 미리 등록하는 대학원생들",
+    "summary": [
+      "[단독] 논문 뺏길까봐… 초안 미리 등록하는 대학원생들."
+    ],
+    "chips": [
+      "#교육"
+    ]
+  },
+  {
+    "id": "n1864f23c",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "11분 전",
+    "url": "https://www.chosun.com/economy/startup_story/2026/08/19/WPR5WOHWGVEV3GZHETDJWNJWUQ/",
+    "title": "시동 켜면 좋은 향기 내고 주차 후 내리면 꺼져, 스마트 차량용 디퓨저",
+    "summary": [
+      "시동 켜면 좋은 향기 내고 주차 후 내리면 꺼져, 스마트 차량용 디퓨저."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nf3e424a2",
+    "category": "경제",
+    "source": "한국경제",
+    "time": "21분 전",
+    "url": "https://www.hankyung.com/article/202608188185i",
+    "title": "신진서, 몽백합배 첫 8강…한국 자존심 지켰다",
+    "summary": [
+      "신진서, 몽백합배 첫 8강…한국 자존심 지켰다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n73900893",
     "category": "IT",
     "source": "아시아경제",
-    "time": "31분 전",
-    "url": "https://view.asiae.co.kr/article/2026081903485439541",
-    "title": "앤스로픽, IPO 앞두고 100억달러 신용한도 추진",
+    "time": "38분 전",
+    "url": "https://view.asiae.co.kr/article/2026081904322943027",
+    "title": "美 30년물 19년 만에 최고…'큰손' 수요 약화에 장기금리 급등",
     "summary": [
-      "인공지능(AI) 스타트업 앤스로픽이 기업공개(IPO)를 앞두고 100억달러(약 14조1000억원)를 웃도는 규모의 회전신용한도(revolving credit facility) 확보를 추진하고 있다.",
-      "대형 IPO 주관사 자리를 노리는 글로벌 은행들이 대출 참여를 확대하면서 당초 목표액을 넘어설 가능성이 커지고 있다.",
-      "18일(현지시간) 블룸버그통신은 복수의 소식통을 인용해 앤스로픽이 추진 중인 회전신용한도가 당초 목표인 약 100억달러를 넘어설 것."
+      "미국의 장기 국채 금리가 19년 만에 최고 수준으로 치솟고 있다.",
+      "재정지출 확대와 국채 공급 증가가 이어지는 가운데 중앙은행 등 전통적인 장기채 투자자의 수요가 약해지고, 인공지능(AI) 투자 확대를 위한 빅테크의 회사채 발행까지 늘면서 장기금리에 상승 압력이 커지고 있다.",
+      "18일(현지시간) 월스트리트저널(WSJ)과 블룸버그 등에 따르면 미 30년 만기 국채 금리는 이날 장중 연 5.33%대까지 올라 2007년 이후 19년 만에 최고."
     ],
     "chips": [
       "#AI",
-      "#스타트업"
+      "#금리"
     ]
   },
   {
     "id": "nd4e6bc79",
     "category": "IT",
     "source": "테크M",
-    "time": "31분 전",
+    "time": "1시간 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=154409",
     "title": "[카드뉴스] 모바일 게임이 사라졌다?.. BIC 2026에서 달라진 인디게임의 성공 공식",
     "summary": [
@@ -456,7 +527,7 @@ window.NEWS_DB = [
     "id": "n4281a171",
     "category": "IT",
     "source": "테크M",
-    "time": "32분 전",
+    "time": "1시간 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=154407",
     "title": "딥파인, 100억원 규모 시리즈 B 투자 유치...누적 투자 180억원",
     "summary": [
@@ -469,84 +540,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n77ffe24b",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "33분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260819004200071",
-    "title": "\"이란전에 취약성 드러난 미군기지…걸프지역 미군 축소 검토\"",
-    "summary": [
-      "(워싱턴=연합뉴스) 이유미 특파원 = 미국 국방부(전쟁부)가 이란전이 끝난 뒤 페르시아만을 중심으로 중동 지역의 미군 주둔 규모를 축소하는 방안..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "ne2a9190c",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "40분 전",
-    "url": "https://www.newsis.com/view/NISX20260819_0003753372",
-    "title": "이스라엘, 美 가자 로드맵 거부 속 또 공습…6명 사망",
-    "summary": [
-      "[서울=뉴시스] 신효령 기자 = 미국이 추진하는 가자지구 평화 로드맵을 둘러싼 협상이 교착된 가운데 이스라엘군이 가자시티 항구를 공습해 어린이를 포함한 6명이 숨졌다.",
-      "18일(현지시간) AFP통신 등 외신에 따르면 가자지구 민방위대의 마무드 바살 대변인은 이스라엘군이 가자시티 항구의 피란민 텐트가 있는 지역을 공습했다고 밝혔다.",
-      "사망자 중에는 어린이 1명이 포함됐으며 12명이 다쳤다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "na68df694",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "1시간 전",
-    "url": "https://www.newsis.com/view/NISX20260819_0003753370",
-    "title": "美, 페르시아만 주둔군 철수·재배치 검토…이란 공격 후폭풍",
-    "summary": [
-      "[서울=뉴시스] 신효령 기자 = 미국 국방부가 이란전 피해를 계기로 페르시아만 주둔 미군을 줄이고 일부 병력을 다른 지역으로 재배치하는 방안을 검토 중이다.",
-      "18일(현지시간) 워싱턴포스트(WP)는 미 당국자 등 사안에 정통한 8명을 인용해 국방부가 중동 주둔 미군의 규모와 배치를 분석하고 있다고 보도했다.",
-      "핵심 쟁점은 이란의 미사일과 드론 공격에 노출된 페르시아만에서 병력을 일부 철수할지 여부다."
-    ],
-    "chips": [
-      "#정책"
-    ]
-  },
-  {
-    "id": "n94edd303",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "1시간 전",
-    "url": "https://www.chosun.com/premium/2026/08/19/3FZRWX6VWJFMVLO2MUG7DRLSZM/",
-    "title": "‘말죽거리 잔혹사’가 남긴 역사적 교훈… 이괄은 왜 창을 거꾸로 쥐었나",
-    "summary": [
-      "‘말죽거리 잔혹사’가 남긴 역사적 교훈… 이괄은 왜 창을 거꾸로 쥐었나."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nbcf5e425",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "1시간 전",
-    "url": "https://www.chosun.com/culture-life/book/2026/08/19/QE6SIG5EHVDVLLHZOO67TZXQ5Q/",
-    "title": "[68화] 하늘조차 거부한 세 번의 장례",
-    "summary": [
-      "[68화] 하늘조차 거부한 세 번의 장례."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
     "id": "n6dc903e8",
     "category": "IT",
     "source": "테크M",
-    "time": "1시간 전",
+    "time": "2시간 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=154408",
     "title": "넷마블, 서브컬처 수집형 RPG '펄인블루' TGS 2026 출격...日 정조준",
     "summary": [
@@ -561,7 +558,7 @@ window.NEWS_DB = [
     "id": "n77974c15",
     "category": "IT",
     "source": "테크M",
-    "time": "1시간 전",
+    "time": "2시간 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=154406",
     "title": "스노우플레이크, 한국 지사장에 구글 클라우드 출신 이용석 선임",
     "summary": [
@@ -577,7 +574,7 @@ window.NEWS_DB = [
     "id": "n58bbc5dc",
     "category": "IT",
     "source": "한국경제",
-    "time": "1시간 전",
+    "time": "2시간 전",
     "url": "https://www.hankyung.com/article/202608198257i",
     "title": "채권자경단 '패닉 버튼' 누를까…월가, 반도체 조정장 올지 주시[박신영의 개장전 요것만]",
     "summary": [
@@ -588,51 +585,47 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n6ee79f89",
-    "category": "경제",
-    "source": "아시아경제",
-    "time": "2시간 전",
-    "url": "https://view.asiae.co.kr/article/2026081901362135475",
-    "title": "[갤러리 산책]사인 없는 마지막 세 점…박서보미술관은 왜 다른 화가와 문을 열었나",
-    "summary": [
-      "박서보미술관 3층에는 박서보(1931~2023)가 사인을 남기지 못한 그림 세 점이 있다.",
-      "'묘법 No.230127', '묘법 No.230128', '묘법 No.230129'.",
-      "모두 그가 세상을 떠난 2023년에 그렸다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n09ac45a5",
-    "category": "경제",
-    "source": "아시아경제",
-    "time": "3시간 전",
-    "url": "https://view.asiae.co.kr/article/2026081722354047265",
-    "title": "[이주의 전시]우순옥 회고전 '예술은 이미 당신의 마음속에 있다'·김영헌 개인전 '프록시마' 外",
-    "summary": [
-      "편집자주이주의 전시는 전국 각지의 전시 중 한 주간 만나볼 수 있는 다양하고 매력적인 전시를 정리해 소개합니다.",
-      "권기수·이동기·홍경택·홍원표 4인전 'AFTER IMAGES' 이미지는 더 이상 한곳에 머물지 않는다.",
-      "권기수·이동기·홍경택·홍원표 4인전 'AFTER IMAGES'는 가상과 현실, 전통과 대중문화, 물질적 욕망과 정신적 사유가 뒤섞인 동시대의 문화 지형을 네 개의 시선으로 읽는다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n527b410f",
+    "id": "n5ce8e62e",
     "category": "사회",
-    "source": "동아일보",
-    "time": "3시간 전",
-    "url": "https://www.donga.com/news/Society/article/all/20260819/134500655/1",
-    "title": "몸 한쪽에 찌릿한 통증…근육통 아닌 ‘대상포진’",
+    "source": "한국경제",
+    "time": "4시간 전",
+    "url": "https://www.hankyung.com/article/202608198245i",
+    "title": "디즈니, 트럼프 정부 상대 \"표현의 자유 침해\" 소송",
     "summary": [
-      "몸 한쪽에 이유 없이 찌릿한 통증이 느껴지거나 띠 모양의 물집이 생긴다면 단순 근육통이나 피부 트러블로 넘기면 안 된다.",
-      "모르고 지나치기 쉬운 대상포진 초기 증상일 수 있어서다.",
-      "증상이 나타난 뒤 72시간 안에 치료하지 않으면, 피부 병변이 회복된 뒤에도 극심한 통증이 이어지는 ‘대상포진 후 신경통’으로 이어질 수 있어 신속한 진료가 중요하다."
+      "디즈니, 트럼프 정부 상대 \"표현의 자유 침해\" 소송."
     ],
     "chips": [
-      "#의료"
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n96d81bb4",
+    "category": "경제",
+    "source": "한국경제",
+    "time": "5시간 전",
+    "url": "https://www.hankyung.com/article/2026081881567",
+    "title": "[오늘의 운세] 오늘 뭐 먹지?…8월 19일 띠별 추천 점심메뉴",
+    "summary": [
+      "[오늘의 운세] 오늘 뭐 먹지?…8월 19일 띠별 추천 점심메뉴."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n138909c9",
+    "category": "IT",
+    "source": "ZDNet Korea",
+    "time": "7시간 전",
+    "url": "https://zdnet.co.kr/view/?no=20260818220838",
+    "title": "AI로 연구비 '대박' 후보 골랐더니, 뜻밖 1위 누구…챗GPT는 아니었다",
+    "summary": [
+      "[지디넷코리아]영국 정부가 세금으로 나가는 연구비를 더 똑똑하게 쓰려고 인공지능(AI)에게 숙제를 하나 맡겼다.",
+      "산더미처럼 쌓인 연구 제안서를 읽고, 그 안에서 다음 대박이 될 만한 유망 분야를 미리 찾아내라는 것이었다.",
+      "그런데 성적표를 열어보니 가장 유명한 챗GPT(ChatGPT)도 단독 1위를 차지하지 못했고, 정부가 직접 만든 전용 도구는 오히려 뒤처졌다."
+    ],
+    "chips": [
+      "#AI"
     ]
   }
 ];
