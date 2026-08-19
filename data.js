@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-08-18 23:12:00
+// 마지막 업데이트: 2026-08-19 00:36:48
 window.NEWS_DB = [
   {
     "id": "n73d86871",
     "category": "IT",
     "source": "Chosunbiz",
-    "time": "16시간 전",
+    "time": "17시간 전",
     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPTzVjOFoxQUFvQVkwUlhJamtUVkF2ZXVqWmQycFpCUVAxSWVfdFIwZXJfdHQwaHlnLTl3aGlHMGFULUV2MjRfa2t2d29JR3RUMVdNUk1ESEJMY1RKRHBrR0VzWkhqdHFQcHBjQko2VjR3NHRXZnAwMTZMRzRxdm1mbnZQQ0lFTHFIR25j0gGfAUFVX3lxTE0weXV2MVRFWHhNMml1OTBtQjVMd1ppNUN0Szk3ZGNYXzlBZGYzWUhGLXVjOGN2NlNLcjBZWWVxRUZBck1QamlZUEx4TC1keUtQRjFhVHBVWHFqLVVUQVdaVGtLeUNIRURrdVlOZzlfbE5TWnNFb2FoWkw1MDNCREJrZEVJUGpVVDV2YmVoaW1UN3lNcmhVUWdURV8zSHN5TQ?oc=5",
     "title": "[현장의 시각] 한국산 AI 반도체, 장밋빛 미래보단 냉정한 현실 파악이 먼저다 - 조선비즈",
     "summary": [
@@ -20,7 +20,7 @@ window.NEWS_DB = [
     "id": "n29a690a3",
     "category": "IT",
     "source": "edaily.co.kr",
-    "time": "17시간 전",
+    "time": "19시간 전",
     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQZEV1RDBSdUFyYzdtRHNRMnJCYzVmVVFNd2dleDVseTEyc2dpVEtoVTU4NWpQazYyMXBXdHF1V2tTYVQtR2pEV0dwNjJ3V3dfZlJLbVJyWEJ4bmNhYkUtYW4xU3NPODRvSEYyekF3SHpvazJreThaY2o4VjAyYWhHbA?oc=5",
     "title": "\"K-반도체 슈퍼사이클 지속...내년 HBM4·파운드리 앞세운 삼성전자 질주\"[어쨌든경제]",
     "summary": [
@@ -35,7 +35,7 @@ window.NEWS_DB = [
     "id": "n429d6ff4",
     "category": "IT",
     "source": "서울파이낸스",
-    "time": "19시간 전",
+    "time": "21시간 전",
     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9zY2pmOTFvV2E1V09oWTh1SERKN01OVHBZNk03bDlYVmFqZ2RXWk1aUjZQTkVWY1M5YWpXeHJtZi1oREpMR25wcG5hTldPMURzeFV0OE9LT1E1dEVqWC1ZM3U4N3hEOFd0eVE?oc=5",
     "title": "[반도체 패권 전쟁 ④] 삼성전자·SK하이닉스의 승부수···HBM 넘어 ‘AI 반도체 기업’으로 진화하라",
     "summary": [
@@ -128,12 +128,12 @@ window.NEWS_DB = [
   {
     "id": "n14e5eed8",
     "category": "IT",
-    "source": "zdnet.co.kr",
+    "source": "지디넷코리아",
     "time": "5일 전",
     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA0QnNPOWgxU3R2U1B4aFlUNjdweHZWUmVTUHV4amc1dURxRUxhbFlBSWxhcEtwR3drUlM4UERTazJHcEhtVzM3Z3R1UVgxTWlJOTBSamF3?oc=5",
     "title": "류제명 차관 \"30년전 네이버처럼...AI 시대 유니콘 탄생 기대\"",
     "summary": [
-      "류제명 차관 \"30년전 네이버처럼...AI 시대 유니콘 탄생 기대\" zdnet.co.kr."
+      "류제명 차관 \"30년전 네이버처럼...AI 시대 유니콘 탄생 기대\" 지디넷코리아."
     ],
     "chips": [
       "#AI",
@@ -159,12 +159,12 @@ window.NEWS_DB = [
   {
     "id": "n062f98b4",
     "category": "부동산",
-    "source": "한국주택경제신문",
+    "source": "arunews.com",
     "time": "18일 전",
     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9Sdmd3SUl0dmRQSWdTck5DVjJ5WXYxTTFmRnBBbEkwa09VclpLd0VsVWFTV2pPRm9sQm1sQmZDb3EyN2lwTVBvZ185RUVycVFnOEdYcHVrcVFnYTdwaGZfUDh2WkFWYndi?oc=5",
     "title": "서울 아파트값 0.25% 상승… 똘똘한 ‘역세권·대단지’가 집값 견인",
     "summary": [
-      "서울 아파트값 0.25% 상승… 똘똘한 ‘역세권·대단지’가 집값 견인 한국주택경제신문."
+      "서울 아파트값 0.25% 상승… 똘똘한 ‘역세권·대단지’가 집값 견인 arunews.com."
     ],
     "chips": [
       "#부동산"
@@ -183,20 +183,6 @@ window.NEWS_DB = [
     "chips": [
       "#취업",
       "#고용"
-    ]
-  },
-  {
-    "id": "n8ba4b4fa",
-    "category": "IT",
-    "source": "머니투데이",
-    "time": "19일 전",
-    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9lNHJLZzhEdGREMDBvNktGLTdtQ1A4ZEFZaTVDYnA1clN0OE40Nm9hQkE0T0RaeGJfZHdXV3lJNFdrNWhEN08wZEFuRHRQU3pDYktvQ0w1dnNFemcwMnhIMWZMMm9TOXPSAWxBVV95cUxQaV8tWDFiNGs5QUE2WERwaE5JRmRjbDMta2twQlYtcXlhTF9GYTVRNHlTeDdzUGhGa0V6MkhrcDY2QlgtUXlCdWVDUXVVQ25FSkh1ek1OU1U4OXBBbkJMdkdtLUZOQ0EtZkhjSVA?oc=5",
-    "title": "우본, 한국벤처투자와 업무협약…\"글로벌 유니콘 기업 육성하겠다\" - 머니투데이",
-    "summary": [
-      "우본, 한국벤처투자와 업무협약…\"글로벌 유니콘 기업 육성하겠다\" - 머니투데이 머니투데이."
-    ],
-    "chips": [
-      "#스타트업"
     ]
   },
   {
@@ -242,6 +228,20 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n252753ca",
+    "category": "IT",
+    "source": "유니콘팩토리",
+    "time": "65일 전",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBWSXM4dUswTlRBOFdwTWM1SzFqWHRkU3R3SzVNOGR0QnR5RzllZ2QzZXFHNWlGMko3bFJ1SHlJS2VINElKZndpbnVQSlFfWGRrUk5DYXFqc3ZhYXJFUHNCNFJSOERyMWVuLWZDNA?oc=5",
+    "title": "폭염만큼 뜨거운 딥테크 투자 열기…창업 한달 만에 160억 유치 기업도",
+    "summary": [
+      "폭염만큼 뜨거운 딥테크 투자 열기…창업 한달 만에 160억 유치 기업도 유니콘팩토리."
+    ],
+    "chips": [
+      "#스타트업"
+    ]
+  },
+  {
     "id": "nabfa15b0",
     "category": "경제",
     "source": "YTN",
@@ -274,12 +274,12 @@ window.NEWS_DB = [
   {
     "id": "n5a1617c5",
     "category": "부동산",
-    "source": "biz.heraldcorp.com",
+    "source": "헤럴드경제",
     "time": "98일 전",
     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1TS2Q2aDJMQXUtYUMtcmZTZkUtNXVycDVXUTFSYk1oeTg4TXNFTXQxN3RtcGVlRUJxMWlMWXk0c05lRFFvemxzYk0wa1hsZXMwbm1hVWtn?oc=5",
     "title": "집값 상승, 전세품귀에…서울, 분양전망 1달 만에 기준치 회복 [부동산360]",
     "summary": [
-      "집값 상승, 전세품귀에…서울, 분양전망 1달 만에 기준치 회복 [부동산360] biz.heraldcorp.com."
+      "집값 상승, 전세품귀에…서울, 분양전망 1달 만에 기준치 회복 [부동산360] 헤럴드경제."
     ],
     "chips": [
       "#부동산",
@@ -315,321 +315,324 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nb8cb0034",
-    "category": "경제",
-    "source": "아시아경제",
+    "id": "nfac82782",
+    "category": "IT",
+    "source": "뉴시스",
     "time": "방금 전",
-    "url": "https://view.asiae.co.kr/article/2026081809361002098",
-    "title": "[이주의 관.종]역대급 실적에 국민연금까지 담았다…주가 폭등한 이 기업",
+    "url": "https://www.newsis.com/view/NISX20260819_0003753749",
+    "title": "성남시·KAIST, AI로 지역 현안 해결 경진대회 개최",
     "summary": [
-      "편집자주성공 투자를 꿈꾸는 개미 투자자 여러분.",
-      "'내돈내산' 주식, 얼마나 알고 투자하고 계신가요.",
-      "정제되지 않은 온갖 정보가 난무하는 온라인 환경에서 아시아경제는 개미 여러분들의 손과 발, 눈과 귀가 돼 기업에 대한 정확한 정보를 전해드리려고 합니다."
+      "[성남=뉴시스] 신정훈 기자 = 인공지능(AI) 기술을 활용해 시민 생활 속 불편과 사회적 약자 지원 등 지역 현안을 해결하는 아이디어 경연이 경기 성남에서 열린다.",
+      "성남시는 한국과학기술원(KAIST)과 공동으로 '제2회 성남×KAIST 인공지능(AI) 경진대회'를 연다고 19일 밝혔다.",
+      "대회 주제는 시민생활 편의와 사회적 약자 지원, 청소년·정신건강, 도시문화·브랜딩 등 지역사회가 직면한 다양한 문제다."
     ],
     "chips": [
-      "#환경"
+      "#AI",
+      "#의료"
     ]
   },
   {
-    "id": "n3113e99a",
+    "id": "n0b0296f2",
     "category": "사회",
     "source": "뉴시스",
-    "time": "2분 전",
-    "url": "https://www.newsis.com/view/NISX20260819_0003753470",
-    "title": "다큐 3일 안동역 촬영 불발시킨 폭발물 협박…10대 징역형 집유",
-    "summary": [
-      "[서울=뉴시스]이태성 기자 = 지난해 8월 KBS 다큐멘터리 3일 특별판을 촬영 중이던 경북 옛 안동역 광장에 폭발물을 설치했다는 허위 글을 온라인에 작성한 10대가 1심에서 징역형의 집행유예를 선고받았다.",
-      "19일 법조계에 따르면 서울북부지법 형사8단독 김천수 판사는 공중협박, 위계공무집행방해 등 혐의로 기소된 양모(19)씨에게 최근 징역 6개월의 집행유예 2년을 선고하고, 보호관찰을 명령했다.",
-      "양씨는 지난해 8월 15일 오전 7시36분께 서울."
-    ],
+    "time": "1분 전",
+    "url": "https://www.newsis.com/view/NISX20260819_0003753751",
+    "title": "[속보]'교부금 개편' 해결책 찾을까…대통령, 교육계 대표들 만난다",
+    "summary": [],
     "chips": [
-      "#뉴스"
+      "#정치",
+      "#교육"
     ]
   },
   {
-    "id": "n5db8f53f",
-    "category": "경제",
-    "source": "연합뉴스",
-    "time": "2분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260819020700008",
-    "title": "[마켓뷰] '6일만 반락' 코스피, 美악재에 추가 하락 이어지나",
-    "summary": [
-      "(서울=연합뉴스) 이민영 기자 = 전날 6거래일 만에 반락한 코스피가 19일 미국 국채금리 급등과 뉴욕증시 약세 등에 추가 하락을 이어갈지 주목..."
-    ],
-    "chips": [
-      "#금리"
-    ]
-  },
-  {
-    "id": "n01273825",
-    "category": "IT",
-    "source": "아시아경제",
-    "time": "4분 전",
-    "url": "https://view.asiae.co.kr/article/2026081908073814039",
-    "title": "코인원, 카카오뱅크와 실명확인 계좌 1년 재계약",
-    "summary": [
-      "가상자산 거래소 코인원이 카카오뱅크와 실명확인 계좌 계약기간을 1년 연장했다.",
-      "코인원은 카카오뱅크와 실명확인 계좌 발급에 대한 재계약을 완료했다고 19일 밝혔다.",
-      "코인원은 지난 2022년 8월 카카오뱅크와 최초 실명확인 계좌를 제휴한 이래 4년째 관계를 지속해 오고 있다."
-    ],
-    "chips": [
-      "#카카오"
-    ]
-  },
-  {
-    "id": "nfecc0691",
+    "id": "nd0132c58",
     "category": "사회",
-    "source": "연합뉴스",
-    "time": "5분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260819018800051",
-    "title": "부산서 글로벌 도핑방지 캠프 개막…국내외 청소년 60명 참가",
+    "source": "뉴시스",
+    "time": "1분 전",
+    "url": "https://www.newsis.com/view/NISX20260819_0003753732",
+    "title": "\"손가락 관절 통증이 시작\"…전신 염증 부르는 '이것'",
     "summary": [
-      "(부산=연합뉴스) 김선호 기자 = 부산시는 19일부터 22일까지 국립부경대 대연캠퍼스에서 '2026 글로벌 도핑 방지 청소년 캠프'를 한다고 밝..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n1cb9b8b7",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "5분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260819019000005",
-    "title": "'이런 엿같은 사랑', 하영 증조부 논란 속 넷플 비영어쇼 1위",
-    "summary": [
-      "(서울=연합뉴스) 고가혜 기자 = 배우 정해인, 하영 주연의 로맨틱 코미디 '이런 엿같은 사랑'이 공개 2주 차에 전 세계 넷플릭스 이용자들이 ..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n6f942cc1",
-    "category": "경제",
-    "source": "아시아경제",
-    "time": "6분 전",
-    "url": "https://view.asiae.co.kr/article/2026081908051161566",
-    "title": "특발성 폐섬유증 동반 폐암, 양성자 치료 가능성 확인",
-    "summary": [
-      "특발성 폐섬유증(IPF)을 동반해 방사선 치료가 어려웠던 폐암 환자에게 양성자 치료가 새로운 치료 선택지가 될 수 있다는 연구 결과가 나왔다.",
-      "특히 초기 폐암에서는 중증 폐독성 발생률이 10% 미만으로 나타나 안전하게 근치적 치료를 시도할 가능성을 확인했다.",
-      "다만 3기 이상 진행된 폐암이나 중증 특발성 폐섬유증을 동반한 환자에서는 중증 폐독성 위험이 높아 주의가 필요한 것으로 나타났다."
+      "[서울=뉴시스]송종호 기자 = 손가락이나 발가락처럼 작은 관절에 통증이 생겼다고 단순한 관절 문제로 넘겼다가는 병을 키울 수 있다.",
+      "작은 관절에서 시작된 염증이 여러 관절로 번지고 전신에 영향을 미칠 수 있기 때문이다.",
+      "류마티스관절염이 대표적이다."
     ],
     "chips": [
       "#의료"
     ]
   },
   {
-    "id": "nfd291890",
+    "id": "n73b20735",
     "category": "사회",
     "source": "뉴시스",
-    "time": "7분 전",
-    "url": "https://www.newsis.com/view/NISX20260819_0003753471",
-    "title": "나노, 중동 HRSG용 SCR 촉매 공급 계약",
+    "time": "1분 전",
+    "url": "https://www.newsis.com/view/NISX20260819_0003753738",
+    "title": "알리익스프레스, 글로벌 브랜드 할인…'브랜드에 ALL-IN' 행사",
     "summary": [
-      "[서울=뉴시스] 김경택 기자 = 선택적촉매환원(SCR) 탈질촉매 전문기업 나노는 중동 복합화력발전 프로젝트에서 배열회수보일러(HRSG)용 SCR 촉매 공급계약을 확보했다고 19일 밝혔다.",
-      "회사 측에 따르면 이번 프로젝트에는 나노의 신공장에서 생산되는 75셀 고밀도 촉매가 적용된다.",
-      "회사는 특히 중동 지역에서 고밀도 촉매 수주를 추가로 확보하면서 해외 복합화력발전 시장 내 공급 기반을 넓혔다."
+      "[서울=뉴시스]오제일 기자 = 알리익스프레스(AliExpress)는 글로벌 인기 브랜드 상품을 카테고리별로 집중 선보이는 '브랜드에 ALL-IN' 프로모션을 26일까지 진행한다고 19일 밝혔다.",
+      "카테고리별 '브랜드 데이'를 순차적으로 운영한다.",
+      "이날까지는 전 카테고리의 주요 브랜드 상품을 한데 모아 선보인다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "nfa152259",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "7분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260819018700051",
-    "title": "부산시, 소상공인 회생 지원 협력체계 구축…희망상담버스 운행",
-    "summary": [
-      "(부산=연합뉴스) 김선호 기자 = 부산시는 19일 오전 시청 국제의전실에서 민생재기 원스톱 100일 프로젝트 업무협약식을 열고 찾아가는 희망상담..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n1fb57307",
+    "id": "nb8640ddb",
     "category": "사회",
     "source": "아시아경제",
-    "time": "8분 전",
-    "url": "https://view.asiae.co.kr/article/2026081908031824093",
-    "title": "강동구, 3주기 연속 ‘평생학습도시’ 재지정",
+    "time": "2분 전",
+    "url": "https://view.asiae.co.kr/article/2026081909334839890",
+    "title": "대한건설協, '스마트건설 청년인재 채용설명회' 25일 건설회관서 개최",
     "summary": [
-      "서울 강동구(구청장 이수희)가 교육부와 국가평생교육진흥원이 주관한 '2026년 평생학습도시 재지정 평가'를 통과해 3주기 연속 평생학습도시로 재지정됐다고 19일 밝혔다.평생학습도시 재지정 평가는 최초 지정 이후 만 4년이 지난 지방자치단체를 대상으로 최근 3년간의 평생학습 추진 체계와 사업 운영 실적·성과를 종합 평가해 재지정 여부를 결정하는 제도다.",
-      "강동구는 2007년 평생학습도시로 처음 지정된 이후 지역 특성과."
+      "대한건설협회와 건설산업사회공헌재단은 오는 25일 서울 강남구 논현동 건설회관에서 '2026 스마트건설 청년인재 채용설명회'를 개최한다.",
+      "국토교통부가 후원하는 이번 행사에는 주요 건설사와 국토부 산하 공기업 등 25개 사가 참여한다.",
+      "행사에서는 기업 인사담당자와의 ▲1대1 채용 상담 ▲기업별 채용계획 발표 등이 이뤄진다."
+    ],
+    "chips": [
+      "#채용"
+    ]
+  },
+  {
+    "id": "n06d46c85",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "3분 전",
+    "url": "https://www.donga.com/news/Society/article/all/20260819/134501379/1",
+    "title": "밤 더위 끝난 줄 알았는데…수도권·남부 곳곳 ‘잠 못 이루는 밤’",
+    "summary": [
+      "밤사이 일부 도심과 해안에서 최저기온이 25도 아래로 떨어지지 않으면서 열대야가 나타났다.",
+      "열대야주의보가 내려지지 않은 인천과 전남·경상권 일부 지역에서도 열대야가 관측된 가운데, 전국 대부분 지역으로 폭염주의보가 확대돼 밤낮 더위가 당분간 이어질 전망이다.기상청 방재기상플랫폼에 따르면 전날(18일) 오후 6시부터 이날 아침까지 최저기온이 가장 높았던 곳은 제주로 수은주가 26.5도 아래로 내려가지 않았다 강원 강릉의 최저기온이 26.2도로 뒤."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n7fedd781",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "3분 전",
+    "url": "https://www.donga.com/news/Entertainment/article/all/20260819/134501369/1",
+    "title": "홍민기, 데이트 폭력 의혹…폭로글 확산",
+    "summary": [
+      "배우 홍민기가 데이트 폭력 의혹에 휩싸였다.19일 연예계에 따르면, 인플루언서 A씨는 이날 자신의 소셜미디어를 통해 홍민기를 겨냥한 폭로글과 함께 법무법인을 통해 보낸 내용증명을 공개했다.",
+      "A씨는 이후 홍민기의 사진을 올리며 “앞 스토리 이분 얘기 맞다”고 밝혀 폭로 대상이 홍민기임을 직접 지목했다.공개된 내용증명은 지난 7월 28일 작성된 것으로, 제목은 ‘불법 범죄 행위에 대한 법적 조치 예고 통보’다.",
+      "문서에는 홍민기가 A씨를 상대로 위험."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n5c537e49",
+    "category": "사회",
+    "source": "머니투데이",
+    "time": "3분 전",
+    "url": "https://www.mt.co.kr/politics/2026/08/19/2026081908565572263",
+    "title": "\"대통령 무시? 탄핵사유 늘어\"...조희대 대법관 서면제청에 與 '분노'",
+    "summary": [
+      "[the300] 조희대 대법원장이 청와대와 사전 협의 없이 노태악 전 대법관 후임자를 제청한 것을 놓고 더불어민주당에선 \"이재명 대통령을 무시하는 것은 국민과 헌법을 무시하는 것\"이라며 \"탄핵 이유가 하나 더 늘었다\"는 반발이 터져 나왔다.",
+      "박지원 민주당 의원은 19일 CBS라디오 박성태의 뉴스쇼에서 \"사법 정치를 너무 심하게 한다.",
+      "국민의 인내심을 시험하는 것 같다\"며 \"당에서 (이 대통령) 파기환송 등을 이유로 탄핵이 언급되고 있는데 조 대."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n4e55bcb5",
+    "category": "경제",
+    "source": "머니투데이",
+    "time": "5분 전",
+    "url": "https://www.mt.co.kr/entertainment/2026/08/19/2026081909317278158",
+    "title": "드디어 K팝 제왕이…빅뱅, 20주년에 쏘는 'BiiiG'",
+    "summary": [
+      "데뷔 20주년인 오늘(19일) 오후 6시 신곡 'BiiiG' 발매 지드래곤 작사·작곡 참여…빅뱅 고유 음악색 집약 보이그룹 빅뱅이 데뷔 20주년 당일인 오늘(19일) 신곡 'BiiiG'으로 돌아온다.",
+      "빅뱅은 19일 오후 6시 새 디지털 싱글 'BiiiG'(빅)을 발표한다.",
+      "2022년 이후 약 4년 4개월 만에 선보이는 신곡으로, 데뷔 20주년을 맞아 시작하는 새로운 음악 여정의 출발점이라는 점에서 의미를 더한다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nf270ae1b",
+    "category": "사회",
+    "source": "머니투데이",
+    "time": "5분 전",
+    "url": "https://www.mt.co.kr/world/2026/08/19/2026081909064250011",
+    "title": "10만명 모인 불꽃축제 대참사…군중 속에 폭죽 떨어져 27명 부상",
+    "summary": [
+      "스페인 발렌시아 알리칸테도 베니도름 해변에서 불꽃축제 도중 폭죽이 군중을 향해 발사돼 27명이 다치는 사고가 발생했다.",
+      "19일(한국시간) 데일리스타 등 외신에 따르면 지난 9일 스페인 베니도름 해변에서 폭죽이 불꽃축제를 즐기던 군중 한복판에 떨어져 27명이 특수화상치료실 등으로 긴급 이송됐다.",
+      "사고 당시 행사 주최 측이 바다 위에서 쏜 폭죽이 해변에서 불꽃놀이를 구경하던 군중 속으로 떨어진 것으로 파악됐다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nf047f9b6",
+    "category": "경제",
+    "source": "아시아경제",
+    "time": "5분 전",
+    "url": "https://view.asiae.co.kr/article/2026081909280166996",
+    "title": "올리브영, 현대카드와 손잡고 '20% 적립' 카드 출시",
+    "summary": [
+      "올리브영이 현대카드와 손잡고 올리브영 결제 금액의 20%를 '올리브 포인트'로 적립할 수 있는 '올리브영 현대카드 Plus'를 선보인다고 19일 밝혔다.",
+      "올리브영의 새로운 포인트 적립 체계를 반영한 첫 신용카드로, 높은 적립률과 낮은 연회비를 앞세워 고객 혜택을 강화한 것이 특징이다.",
+      "'올리브영 현대카드 Plus'는 올리브영 온라인몰과 오프라인 매장에서 현금처럼 사용할 수 있는 올리브 포인트 적립 혜택을 제공한다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n2238a805",
+    "category": "사회",
+    "source": "머니투데이",
+    "time": "5분 전",
+    "url": "https://www.mt.co.kr/entertainment/2026/08/19/2026081909307229174",
+    "title": "김종관 감독 '낮과 밤은 서로에게', 제31회 부산국제영화제 개막작 선정",
+    "summary": [
+      "김종관 감독의 '낮과 밤은 서로에게'가 오는 10월 6일 개막하는 제31회 부산국제영화제 개막작으로 선정됐다.",
+      "'낮과 밤은 서로에게'는 여름부터 가을까지 계절이 변화하는 시기, 하나의 카페에 스쳐 간 네 쌍의 남녀가 담아낸 유쾌하고 담백하며 사랑스러운 대화의 영화다.",
+      "동일한 카페에 서로 다른 시간대에 머문 유진(김민하)과 현오(주종혁)의 우연한 마주침, 중학교 시절 친구인 상미(한선화)와 영민(장률)의 엉뚱하고 느닷없는 재회, 웹소설 작가 혜진."
+    ],
+    "chips": [
+      "#채용",
+      "#교육"
+    ]
+  },
+  {
+    "id": "nc78aa66e",
+    "category": "경제",
+    "source": "아시아경제",
+    "time": "5분 전",
+    "url": "https://view.asiae.co.kr/article/2026081908542686239",
+    "title": "[오늘의신상]\"토마토가 빵으로?\"…'연세우유 멋쟁이 토마토 크림빵'",
+    "summary": [
+      "연세대학교 연세유업이 '연세우유 멋쟁이 토마토 크림빵'을 출시한다고 19일 밝혔다.",
+      "이 제품은 토마토와 크림치즈를 조합해 속을 채웠으며, 외형은 동글고 붉은 토마토의 모습으로 제작됐다.",
+      "신제품은 전국 CU편의점에서 만나볼 수 있다."
     ],
     "chips": [
       "#교육"
     ]
   },
   {
-    "id": "n04680fbd",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "8분 전",
-    "url": "https://www.newsis.com/view/NISX20260819_0003753466",
-    "title": "포톤, 엣지큐 투자 완료…지분 50% 확보",
+    "id": "n05a0e33c",
+    "category": "IT",
+    "source": "아시아경제",
+    "time": "6분 전",
+    "url": "https://view.asiae.co.kr/article/2026081909303544038",
+    "title": "\"AI경쟁 병목, GPU 확보에서 '열 관리'로 이동\"",
     "summary": [
-      "[서울=뉴시스] 김경택 기자 = 액추에이터 부품 전문기업 포톤은 엣지큐(EdgeQ)에 대한 투자를 완료하고 지분 50%를 확보했다고 19일 밝혔다.",
-      "회사 측에 따르면 포톤은 지난 6월 엣지큐와 투자 약정 및 전략적 업무협약(MOA)을 체결한 이후 공동 연구개발과 사업화 방안을 추진해 왔다.",
-      "이후 포톤은 최근 이사회 결의를 거쳐 엣지큐에 대한 투자를 마무리했다."
+      "인공지능(AI) 산업의 경쟁 구도가 그래픽처리장치(GPU) 확보에서 '열 관리'로 이동하고 있다.",
+      "AI 데이터센터의 전력 소비와 발열이 급증하면서 '냉각'이 더 이상 보조 설비가 아닌, AI 인프라 경쟁력을 좌우하는 핵심 인프라로 부상하고 있다는 분석이다.",
+      "19일 삼일PwC는 이같은 내용을 담은 '열을 잡는 자가 AI를 잡는다: AI 시대의 새로운 병목, 냉각 기술의 부상' 보고서를 발간했다고 밝혔다."
     ],
     "chips": [
-      "#뉴스"
+      "#AI"
     ]
   },
   {
-    "id": "n895c3a59",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "8분 전",
-    "url": "https://www.newsis.com/view/NISX20260818_0003753110",
-    "title": "마이스와 사람·지역… 26~29일 '고양 데스티네이션 위크'",
-    "summary": [
-      "[고양=뉴시스] 김도희 기자 = 고양국제박람회재단은 26~29일 고양꽃전시관에서 '고양 데스티네이션 위크'를 연다고 19일 밝혔다.",
-      "이번 행사는 'MICE Legacy : MICE(마이스)가 만드는 사람과 지역 역량 강화'를 주제로 MICE를 통해 지역과 지역주민을 위한 유의미한 결과물들을 생산한다는 취지다.",
-      "나흘간 각기 다른 프로그램을 통해 다양한 전문가들과 교류를 이어가며 첫날 고양 시민과 함께 마이스 미래에 대해 논의하는 'MICE, 시민."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n80ed6d7c",
+    "id": "n1e3dcce9",
     "category": "경제",
     "source": "연합뉴스(경제)",
-    "time": "10분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260818155900061",
-    "title": "삼성전자 평택캠퍼스에 3층짜리 팹 건설되나…용적률 상향 추진",
+    "time": "6분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260819037200017",
+    "title": "[바이오스냅] 유한양행, 공식몰서 할인 판매 기획전",
     "summary": [
-      "(평택=연합뉴스) 최해민 기자 = 삼성전자 평택캠퍼스 내 산업용지의 용적률 상향을 위한 행정절차가 진행 중이다."
+      "(서울=연합뉴스) 신선미 기자 = 유한양행은 공식 온라인몰에서 대표 브랜드를 할인 판매하는 기획전을 연다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n058af10c",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "6분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260819042800063",
+    "title": "세종지방법원 청사 설계안 내달 1일 공개…\"상징·공공성 심사\"",
+    "summary": [
+      "(세종=연합뉴스) 양영석 기자 = 행정중심복합도시건설청(행복청)은 다음 달 1일 세종지방법원 설계안을 공개한다고 19일 밝혔다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nc9cb11e9",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "6분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260818167100057",
+    "title": "울산시, 공공기관 2차 이전 긴급회의…유치 방안 점검",
+    "summary": [
+      "(울산=연합뉴스) 김근주 기자 = 울산시는 19일 공공기관 2차 이전 유치 대응 긴급회의를 열었다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "na9850d75",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "6분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260819018300530",
+    "title": "초대 중수청장 인선 착수…26일까지 국민 추천 받는다",
+    "summary": [
+      "(서울=연합뉴스) 차민지 기자 = 행정안전부는 오는 10월 2일 출범하는 중대범죄수사청의 초대 청장 후보자 추천을 위해 19일 중대범죄수사청장 ..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "na56c25a2",
+    "category": "IT",
+    "source": "조선비즈IT",
+    "time": "6분 전",
+    "url": "https://biz.chosun.com/it-science/ict/2026/08/19/QYXWXIO6FNDJ7IHOY7GQUQMZNI/",
+    "title": "삼성전자, 광주사업장에 플랙트그룹 HVAC 신규 생산라인 구축",
+    "summary": [
+      "삼성전자, 광주사업장에 플랙트그룹 HVAC 신규 생산라인 구축."
     ],
     "chips": [
       "#삼성전자"
     ]
   },
   {
-    "id": "n8fec4617",
-    "category": "경제",
-    "source": "연합뉴스(경제)",
-    "time": "11분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260818143900008",
-    "title": "기준금리 인상 한 달, 초장기채만 무너졌다…\"정책보다 수급\"",
-    "summary": [
-      "(서울=연합뉴스) 강수지 기자 = 지난 7월 한국은행이 3년 반 만에 기준금리를 인상한 이후 한 달이 지난 가운데 국고채 단기물 금리는 내렸지만..."
-    ],
-    "chips": [
-      "#금리",
-      "#한은",
-      "#정책"
-    ]
-  },
-  {
-    "id": "nc2f2a166",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "13분 전",
-    "url": "https://www.donga.com/news/Culture/article/all/20260819/134500828/1",
-    "title": "금붕어의 명상부터 붉은빛 해방까지… 식물원에서 만난 앙리 마티스",
-    "summary": [
-      "초록의 지중해 식물 사이로 강렬한 빨강과 파랑, 노랑이 번진다.",
-      "프랑스 화가 앙리 마티스(1869∼1954)의 그림이다.",
-      "미술관이 아닌 식물원에서 만나는 마티스다.국립세종수목원이 12월 31일까지 사계절전시온실 지중해전시관에서 기획 전시 ‘앙리 마티스가 그린 오색 정원’​을 연다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n165e78cd",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "14분 전",
-    "url": "https://www.donga.com/news/Culture/article/all/20260819/134500838/1",
-    "title": "겹겹이 쌓인 물감 위 반짝이는 윤슬… 20년 내공의 캔버스 위 휴양지",
-    "summary": [
-      "눈부시게 파란 하늘 아래 수평선이 길게 이어지고 모래사장에는 사람들이 점처럼 흩어져 있다.",
-      "조금 더 가까이 다가서면 풍경이 달라진다.",
-      "알록달록한 파라솔 아래 누워 있는 사람, 바다를 향해 걸어가는 사람, 물속에 몸을 띄운 사람…."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n0a720aaa",
-    "category": "경제",
-    "source": "연합뉴스(경제)",
-    "time": "14분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260819019400004",
-    "title": "강남구, 체납 구민 방문시 미리 알리고 일정 조율한다",
-    "summary": [
-      "(서울=연합뉴스) 정준영 기자 = 서울 강남구(구청장 김현기)는 세금 납부가 늦어진 구민을 찾아갈 때 방문 사실을 미리 알리고, 원하는 경우 만..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n79d31b6b",
-    "category": "사회",
-    "source": "연합뉴스(경제)",
-    "time": "41분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260818155300004",
-    "title": "'공룡경찰' 로펌행 제동 급증…지난해 취업심사 4건 중 3건 막혀",
-    "summary": [
-      "(서울=연합뉴스) 한지은 기자 = 형사소송법 개정으로 경찰 수사권이 대폭 커지는 상황에서 퇴직 경찰관의 법무법인(로펌) 재취업에 제동이 걸린 사..."
-    ],
-    "chips": [
-      "#취업"
-    ]
-  },
-  {
-    "id": "n9d889a03",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "41분 전",
-    "url": "https://www.donga.com/news/Economy/article/all/20260818/134496157/2",
-    "title": "말랑이·슬라임 왜 자꾸 만지나…1020 여성 빠진 ‘촉감 소비’ [요즘소비]",
-    "summary": [
-      "말랑이·슬라임·키캡 등 ‘촉감 소비’가 10·20대 여성을 중심으로 확산하고 있다.",
-      "무료함과 스트레스를 달래는 수단으로 찾는 소비자가 많았다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nee4ec9e1",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "42분 전",
-    "url": "https://www.donga.com/news/Society/article/all/20260819/134500802/1",
-    "title": "역주행 승용차, 25t 트럭과 충돌…30대 운전자 숨져",
-    "summary": [
-      "충남 아산에서 역주행하던 승용차가 25 t 트럭과 충돌하는 사고가 발생했다.",
-      "이 사고로 30대 승용차 운전자가 숨졌다.",
-      "아산경찰서 등에 따르면 19일 오전 12시 43분경 충남 아산 탕정면 갈산리 도로에서 25 t 트럭이 정상 주행 중 반대편에서 오던 승용차와 충돌했다.사고 현장을 살펴보면 흰색 승용차가 트럭 밑에 깔려 운전석이 완전히 뭉개진 것처럼 보인다."
-    ],
-    "chips": [
-      "#의료"
-    ]
-  },
-  {
-    "id": "nf16fba9f",
+    "id": "nfdac91bc",
     "category": "사회",
     "source": "조선일보",
-    "time": "48분 전",
-    "url": "https://www.chosun.com/economy/economy_general/2026/08/19/WG32SE6USBDSXOA3DDQAPUNU24/",
-    "title": "“50대 조기퇴직 후회 없다”... 83%가 말한 공통점",
+    "time": "6분 전",
+    "url": "https://www.chosun.com/national/national_general/2026/08/19/J2KARNXGN5DKFPJQBQMC65BLLM/",
+    "title": "초대 중수청장 국민 추천 받는다… 26일까지 후보 천거",
     "summary": [
-      "“50대 조기퇴직 후회 없다”... 83%가 말한 공통점."
+      "초대 중수청장 국민 추천 받는다… 26일까지 후보 천거."
     ],
     "chips": [
       "#뉴스"
+    ]
+  },
+  {
+    "id": "na9c52d0f",
+    "category": "IT",
+    "source": "조선일보",
+    "time": "6분 전",
+    "url": "https://www.chosun.com/economy/tech_it/2026/08/19/TR7KZG6WQFESDCDJEE2IVQBZQE/",
+    "title": "삼성전자, 광주사업장에 냉난방공조 생산라인 구축...AI 데이터센터 공략",
+    "summary": [
+      "삼성전자, 광주사업장에 냉난방공조 생산라인 구축...AI 데이터센터 공략."
+    ],
+    "chips": [
+      "#AI",
+      "#삼성전자"
     ]
   }
 ];
@@ -639,20 +642,20 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2460건",
-    "trend": "+275%"
+    "mentions": "2330건",
+    "trend": "+255%"
   },
   {
     "rank": 2,
     "tag": "AI",
-    "mentions": "1550건",
-    "trend": "+135%"
+    "mentions": "1940건",
+    "trend": "+195%"
   },
   {
     "rank": 3,
-    "tag": "반도체",
-    "mentions": "1550건",
-    "trend": "+135%"
+    "tag": "삼성전자",
+    "mentions": "1680건",
+    "trend": "+155%"
   }
 ];
 // ====AUTO-GENERATED-END====
