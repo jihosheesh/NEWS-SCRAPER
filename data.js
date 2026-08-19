@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-08-19 19:18:00
+// 마지막 업데이트: 2026-08-19 20:14:45
 window.NEWS_DB = [
   {
     "id": "n9f012d76",
     "category": "IT",
     "source": "뉴시스",
-    "time": "12시간 전",
+    "time": "13시간 전",
     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9NUS1xeGF1Wkdibll3b0tDU2dVTHpmNW5zaU14RENwcTRpd29pbVNCYy1mUG51YUNyMVNVVzByUkUtYVkwczZveUdENTEwaktRRENPNWZsNmc5ZV9rdDlHbnZaRmM2bTJSOWo2V1JkRklOU0JpMTlJM9IBeEFVX3lxTE9NUS1xeGF1Wkdibll3b0tDU2dVTHpmNW5zaU14RENwcTRpd29pbVNCYy1mUG51YUNyMVNVVzByUkUtYVkwczZveUdENTEwaktRRENPNWZsNmc5ZV9rdDlHbnZaRmM2bTJSOWo2V1JkRklOU0JpMTlJMw?oc=5",
     "title": "수십년 경쟁한 韓·대만, AI 시대엔 '한 팀'…\"서로 없인 못 만들어\"",
     "summary": [
@@ -19,7 +19,7 @@ window.NEWS_DB = [
     "id": "n60102c3f",
     "category": "IT",
     "source": "비즈니스포스트",
-    "time": "13시간 전",
+    "time": "14시간 전",
     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5FdnkxZUE2bDNoa3Y0MHVlcVZoTi1HZHdmNFJBM24yNk1GNVBiRXQzWWNHS2lTNWJWRjlobE9DUlBGYkVtbENyVGtMaFZqWWVvQzZ2NTF6NG1QNGZlSlRELUJMX21zb2VOcU5QenRkMG5NMFE?oc=5",
     "title": "엔비디아의 AI 데이터센터 투자금 지원은 \"가치 있는 베팅\" 평가, 고객사 선점에 유리",
     "summary": [
@@ -66,7 +66,7 @@ window.NEWS_DB = [
     "id": "nd3f35837",
     "category": "IT",
     "source": "연합뉴스",
-    "time": "1일 전",
+    "time": "2일 전",
     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9tYVpGSGFhVVh0clliVWxETHZzdWRCc2l0ZEhteklhbmhNeHVxXzUxWURrNG54cm5Yem1fcTZLVEVYc3RsZWlEcl9uVDVoNk5ocWNwcmRBNHlCZkHSAWBBVV95cUxPc2VBZkNraE5oc2c4X3J6T0dsX2U2U3cyMC05bnJ3czRUVXpVem5nQ18wcVNhRVV0LXNFckl2cnFLbG4tb1RsbkZYT2lTUVBKSWJQZkxmZFNjTWFwYWg5X0o?oc=5",
     "title": "엔비디아, 오픈AI 데이터센터에 150조원 보증…순환금융 지적도",
     "summary": [
@@ -111,12 +111,12 @@ window.NEWS_DB = [
   {
     "id": "n1058f97e",
     "category": "스포츠",
-    "source": "네이트",
+    "source": "news.nate.com",
     "time": "6일 전",
     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8yc083aVJTcjRRMW96ZThmS0J5NnYtWjFpdVpkWlpPMjA2RVhzQzF5dzVTcGhHdUJFaWRDUmdjY053NEFkY2g4dzZmZmNYQW5saFg4YVV4NG1sbkx0bTFMWg?oc=5",
     "title": "맑은 하늘 아래 펼쳐지는 KBO리그",
     "summary": [
-      "맑은 하늘 아래 펼쳐지는 KBO리그 네이트."
+      "맑은 하늘 아래 펼쳐지는 KBO리그 news.nate.com."
     ],
     "chips": [
       "#KBO"
@@ -199,12 +199,12 @@ window.NEWS_DB = [
   {
     "id": "n64dc67f5",
     "category": "IT",
-    "source": "unicornfactory.co.kr",
+    "source": "유니콘팩토리",
     "time": "58일 전",
     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1ORFIxM2VUWmNQaWh2Z0xiY2xXeUlzZFZvT3l4dGwyNFdvdXlyZ0lJdGtNT2cyYjFaU0pNX0FUcnRQelZxZzBXZDZ0Qi1OSWt4V3lCUFRhWXBYZ0g1M0EzTVVmMTZTVEVIeW5ISA?oc=5",
     "title": "수도권 쏠림 깨기 나선 중기부…창업도시 4곳서 스타트업 278곳 키운다",
     "summary": [
-      "수도권 쏠림 깨기 나선 중기부…창업도시 4곳서 스타트업 278곳 키운다 unicornfactory.co.kr."
+      "수도권 쏠림 깨기 나선 중기부…창업도시 4곳서 스타트업 278곳 키운다 유니콘팩토리."
     ],
     "chips": [
       "#스타트업"
@@ -227,12 +227,12 @@ window.NEWS_DB = [
   {
     "id": "nabfa15b0",
     "category": "경제",
-    "source": "YTN",
+    "source": "ytn.co.kr",
     "time": "70일 전",
     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE50bVBaMGNlWG1LRkQ2OEh1YUF0cjlWc1EwdS1URDE1ZzJpajQzYmtTdUpGZk9yOWc0V1REZF9fNmVWOU4yVFVhbzhtQzNzMUg3b0ZfVkhVd1dxVGl0OXc?oc=5",
     "title": "\"韓 적정 환율은 얼마일까?\" 환율 vs 금리 vs 증시 상관관계 집중해부",
     "summary": [
-      "\"韓 적정 환율은 얼마일까?\" 환율 vs 금리 vs 증시 상관관계 집중해부 YTN."
+      "\"韓 적정 환율은 얼마일까?\" 환율 vs 금리 vs 증시 상관관계 집중해부 ytn.co.kr."
     ],
     "chips": [
       "#금리",
@@ -256,12 +256,12 @@ window.NEWS_DB = [
   {
     "id": "nb9bdfdfb",
     "category": "스포츠",
-    "source": "푸드투데이",
+    "source": "foodtoday.or.kr",
     "time": "82일 전",
     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9BVmpLTU1zOFZsU1RWVmVOSXppaWhDWFBBRkF4akI3WHBIcXIyX2pXa3JaeXplMm9vbmE4cU1PclhFTXVZdURxQ0RCYTF3aFNsbmRKcTZ5VE9na0cwakQ2XzNuWlJ5QQ?oc=5",
     "title": "‘손흥민 월드콘.KBO몽쉘’ 축구.야구팬 다 잡자...롯데웰푸드, 스포츠마케팅 총력",
     "summary": [
-      "‘손흥민 월드콘.KBO몽쉘’ 축구.야구팬 다 잡자...롯데웰푸드, 스포츠마케팅 총력 푸드투데이."
+      "‘손흥민 월드콘.KBO몽쉘’ 축구.야구팬 다 잡자...롯데웰푸드, 스포츠마케팅 총력 foodtoday.or.kr."
     ],
     "chips": [
       "#손흥민",
@@ -328,303 +328,308 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n83fc7183",
+    "id": "n3e706ceb",
     "category": "사회",
-    "source": "뉴시스",
-    "time": "2분 전",
-    "url": "https://www.newsis.com/view/NISX20260820_0003755063",
-    "title": "우크라 공습에 타격…산유국 러, 연료 수입 시작",
+    "source": "조선일보",
+    "time": "4분 전",
+    "url": "https://www.chosun.com/economy/startup_story/2026/08/20/6D4AQS4B4BH3VCGGK6ZOBRFHGY/",
+    "title": "태안 신진도에서 오늘 잡은 생물 오징어, 1마리 최저 4000원 초특가",
     "summary": [
-      "[서울=뉴시스] 김예진 기자 = 산유국인 러시아가 19일(현지 시간) 연료 수입을 시작했다고 밝혔다.",
-      "우크라이나의 공습으로 인한 연료난을 해소하기 위해서다.",
-      "타스통신, 인테르팍스 통신 등에 따르면 알렉산드르 노박 러시아 부총리는 이날 러시아 국영방송 베스티의 기자 파벨 자루빈에게 연료의 \"수입은 이미 시작됐다\"고 밝혔다."
+      "태안 신진도에서 오늘 잡은 생물 오징어, 1마리 최저 4000원 초특가."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n1bd41e4b",
-    "category": "사회",
-    "source": "연합뉴스",
+    "id": "ne457283d",
+    "category": "경제",
+    "source": "아시아경제",
     "time": "5분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260820004700075",
-    "title": "'히어로즈' 배우 사망에 커진 의혹…\"폭력 애인과 함께였다\"",
+    "url": "https://view.asiae.co.kr/article/2026082004503203064",
+    "title": "[속보]재무부 '바이백' 확대 소식에 소폭 상승 마감",
     "summary": [
-      "(로스앤젤레스=연합뉴스) 김경윤 특파원 = 미국 인기 시리즈 '히어로즈'·'내슈빌' 등에 출연했던 배우 헤이든 패네티어(36)의 갑작스러운 사망..."
+      "미 재무부가 30년 만기 미국채 금리가 치솟자 미국채 매입(바이백) 규모를 최소 두 배 이상 확대하겠다고 밝히면서 19일(현지시간) 미국의 3대 지수는 일제히 소폭 오름세로 마쳤다.",
+      "이날 뉴욕증권거래소(NYSE)에서 다우존스30산업평균지수(다우지수)는 전 거래일보다 0.22% 상승하며 마감했다.",
+      "대형주 중심의 S&P500지수는 0.21%, 기술주 중심의 나스닥지수는 0.16% 올라 장을 마무리했다."
+    ],
+    "chips": [
+      "#금리"
+    ]
+  },
+  {
+    "id": "n3616dcb2",
+    "category": "경제",
+    "source": "머니투데이",
+    "time": "6분 전",
+    "url": "https://www.mt.co.kr/entertainment/2026/08/20/2026082004594018423",
+    "title": "'♥여에스더' 홍혜걸, 폐 질환 완치 판정 \"제주 요양 5년 만\"",
+    "summary": [
+      "의학전문기자 홍혜걸이 폐에 문제가 생겨 제주도에서 5년간 요양 생활을 했다고 밝힌 가운데 최근 폐 질환 완치 판정을 받았다고 전해 희소식을 안겼다.",
+      "19일 방영된 MBC '라디오스타' 977회는 '역시 난 죽지 않아 킥킥' 특집으로 꾸며져 홍혜걸, 하하, 박영진, 허키 시바세키가 출연해 입담을 뽐냈다.",
+      "이날 유세윤은 홍혜걸을 소개하며 \"여에스더 옆에 딱 붙어서 별거 아닌 삶을 살고 있다고 들었다\"고 말해 웃음을 자아냈다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n8539064e",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "15분 전",
-    "url": "https://www.newsis.com/view/NISX20260819_0003754929",
-    "title": "대구·경북 대체로 흐리고 소나기…낮 최고 33도 무더위",
-    "summary": [
-      "[대구=뉴시스] 이상제 기자 = 20일 대구·경북은 대체로 흐리고 비가 내리는 곳이 있을 것으로 예상된다.",
-      "대구지방기상청은 이날 \"대구·경북에 새벽부터 아침 사이 곳에 따라 0.1㎜ 미만의 빗방울이 떨어지는 곳이 있겠고, 오전부터 저녁 사이엔 곳에 따라 5~60㎜의 소나기가 오겠다\"고 예보했다.",
-      "대구와 경북(문경, 영양산지, 봉화산지, 울진산지 제외) 대부분 지역에는 폭염주의보가 발효 중이다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nf6d8b1e2",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "16분 전",
-    "url": "https://www.chosun.com/sports/baseball/2026/08/20/GJRTOZJQGUYDCZDDGE2TAZRZGA/",
-    "title": "‘역시 아홉수가 문제였나’ 20세 국가대표, 다승 공동 1위-ERA 2위 행진...두산 위닝시리즈 확정",
-    "summary": [
-      "[OSEN=길준영 기자] 프로야구 두산 베어스 최민석이 아홉수를 탈출하자마자 10연승을 질주했다.",
-      "두산은 19일 창원 NC파크에서 열린 ‘2026 신한은행 SOL Bank KBO리그’ NC 다이노스와의 경기에서 8-2로 승리했다.",
-      "2연승을 질주한 두산은 주중 3연전 위닝시리즈를 확정했다.두산 선발투수 최민석은 5이닝 6피안타(1피홈런) 3볼넷 4탈삼진 2실."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
-    "id": "nc62914c5",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "17분 전",
-    "url": "https://www.newsis.com/view/NISX20260820_0003755061",
-    "title": "美, 대만 160㎞ 앞까지 대함미사일 전개 훈련…中함대 길목 겨냥",
-    "summary": [
-      "[서울=뉴시스]박영환 기자 = 미국이 대만에서 약 160㎞ 떨어진 필리핀 최북단 섬에서 실시한 연합훈련에 지상 발사형 대함미사일을 투입했다.",
-      "필리핀 군시설 9곳의 활주로와 격납고, 저장시설을 확충해 중국이 대만에 무력을 사용할 때 치러야 할 비용을 키우려는 전략이다.",
-      "월스트리트저널(WSJ)은 19일(현지시간) 미국이 첨단 미사일을 전개하고 연합훈련을 고도화하며 군사·물류 시설을 확충하는 방식으로 필리핀 내 군사 활동 범위를 넓히고 있다고 보도했."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n46f510b1",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "20분 전",
-    "url": "https://www.chosun.com/sports/baseball/2026/08/20/GA3TINJVMFTDGMZYHFQTSYJWHE/",
-    "title": "\"아기 기린이 뛰어가는 줄…\" 휘청휘청 롱다리 새 외인 '투혼의 질주', 강렬했던 데뷔전 비하인드",
-    "summary": [
-      "[잠실=스포츠조선 정현석 기자]LG 트윈스의 신규 아시아쿼터 외국인 좌완 투수 존 케네디가 강렬하고 인상적인 KBO 리그 데뷔전을 치렀다.",
-      "선발 톨허스트의 7이닝 무실점 완벽투와 케네디의 살짝 어색했지만 완벽했던 병살타 유도가 더해지며 LG는 19일 잠실 KT전에서 1대0 신승을 거뒀다.",
-      "케네디는 데뷔전에서 딱 한 타자를 상대로 4구 만에 아웃카운트 2개를."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
-    "id": "neaacb624",
+    "id": "n57a813b3",
     "category": "사회",
     "source": "연합뉴스",
-    "time": "21분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260820004800079",
-    "title": "네타냐후 \"시리아 공군기지 공습, 튀르키예가 경고 무시한 결과\"",
+    "time": "7분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260820006500071",
+    "title": "트럼프, '북미대화 목표 비핵화냐'에 \"그 얘기 하고 싶지 않다\"",
     "summary": [
-      "(카이로=연합뉴스) 김상훈 특파원 = 베냐민 네타냐후 이스라엘 총리는 시리아 북부 공군기지를 공습한 것은 튀르키예가 자신들의 경고를 무시한 데 ..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n0488383e",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "22분 전",
-    "url": "https://www.donga.com/news/Society/article/all/20260820/134508807/1",
-    "title": "지하철서 울던 직장인에 사탕 건넨 아이…“내일도 버틸 용기 생겼어요”",
-    "summary": [
-      "직장 내 따돌림으로 힘든 시간을 보내던 한 여성이 퇴근길 지하철에서 눈물을 흘리던 중 이름 모를 어린아이에게 사탕을 건네받고 위로받았다는 사연이 전해졌다.13일 직장인 커뮤니티 리멤버에는 ‘지하철에서 울고 있는 여자에게 사탕 주신 분’이라는 제목의 글이 올라왔다.작성자 A씨는 최근 팀원들과 관계가 틀어지면서 은근한 따돌림을 겪고 있다고 털어놨다.",
-      "이직을 준비하고 있지만 뜻대로 되지 않아 하루하루를 버티고 있다는 A씨는 이날도 함께 밥을 먹을 사."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n9c56cb2e",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "28분 전",
-    "url": "https://www.newsis.com/view/NISX20260820_0003755065",
-    "title": "싱글대디 쿨 김성수 \"딸은 내 인생 최대 업적이다\"",
-    "summary": [
-      "[서울=뉴시스] 손정빈 기자 = 그룹 쿨 김성수가 딸에 관해 얘기하며 \"내 인생 최대 업적\"이라고 했다.",
-      "김성수는 19일 방송한 KBS 1TV 예능프로그램 '황신혜의 같이 삽시다'에 나와 딸을 향한 사랑을 드러냈다.",
-      "김성수는 \"인생 살면서 쿨 활동으로 수상하고 돈 번 것도 좋지만 딸이 잘 자라준 게 제 인생 최대 업적\"이라고 말했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n8ea4e138",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "47분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260820004600071",
-    "title": "'김정은과 연내 회담' 확언한 트럼프…북미 줄다리기 시동거나",
-    "summary": [
-      "(워싱턴=연합뉴스) 백나리 특파원 = 도널드 트럼프 미국 대통령이 김정은 북한 국무위원장과의 연내 회담을 확언하면서 신속한 북미대화 재개 의지를..."
+      "(워싱턴=연합뉴스) 이유미 특파원 = 도널드 트럼프 미국 대통령은 19일(현지시간) 김정은 북한 국무위원장과의 대화 재개 목표가 여전히 '북한의..."
     ],
     "chips": [
       "#정치"
     ]
   },
   {
-    "id": "n368e4848",
+    "id": "n9e331070",
     "category": "사회",
-    "source": "연합뉴스",
-    "time": "58분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260820004300087",
-    "title": "6년 동안 올 비가 하루 만에…칠레 북부지역에 비상사태 선포",
+    "source": "뉴시스",
+    "time": "9분 전",
+    "url": "https://www.newsis.com/view/NISX20260819_0003755043",
+    "title": "여에스더, 10년 넘게 챙겨준 가사 도우미에 강남집 플렉스",
     "summary": [
-      "(멕시코시티=연합뉴스) 송광호 특파원 = 칠레 북부 지역에 6년 동안 내릴 비가 하루 만에 쏟아져 산사태가 발생하는 등 피해가 잇따르자 정부가 ..."
+      "[서울=뉴시스]강주희 기자 = 가정의학과 전문의 여에스더가 10년 넘게 자신을 챙겨준 가사 도우미에게 집을 선물한 사연이 공개됐다.",
+      "19일 방송된 MBC 예능 프로그램 '라디오 스타'에는 홍혜걸, 하하, 박영진, 허키 시바세키가 게스트로 출연했다.",
+      "이날 홍혜걸은 아내 여에스더의 근황을 전했다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n94145389",
-    "category": "IT",
-    "source": "테크M",
-    "time": "1시간 전",
-    "url": "https://www.techm.kr/news/articleView.html?idxno=154440",
-    "title": "[카드뉴스] AI 회사 향하는 통신3사...SKT·KT·LGU+가 꺼낸 무기는 달랐다",
+    "id": "nce82566d",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "9분 전",
+    "url": "https://www.newsis.com/view/NISX20260819_0003755038",
+    "title": "박보경, 진선규 성공 속 홀로 눈물…\"연기하는 내 모습 기억 안 났다\"",
     "summary": [
-      "통신 3사의 경쟁 무대가 통신을 넘어 AI로 빠르게 넓어지고 있습니다.",
-      "SK텔레콤은 AI 모델부터 인프라·서비스까지 아우르는 ‘풀 스택’을, KT는 국산 AI 생태계와 기업용 AI를, LG유플러스는 카카오·LG 계열사와 손잡고 AI 연합과 통신망 고도화에 나섰는데요.",
-      "같은 AI 시장을 바라보고 있지만 승부수는 서로 다릅니다."
+      "[서울=뉴시스]강주희 기자 = 배우 박보경이 육아에 전념하기 위해 연기를 중단했던 시기를 돌아봤다.",
+      "19일 방송된 tvN 예능 프로그램 '유 퀴즈 온 더 블럭'에는 넷플릭스 '레이디 두아'로 청룡영화상 여우조연상을 수상한 배우 박보경이 출연했다.",
+      "이날 박보경은 \"지금 넘치는 축하를 받고 있다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n2810dbbc",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "9분 전",
+    "url": "https://www.chosun.com/economy/startup_story/2026/08/20/RT6KNK2YRNFANIE4Q4U32WJANQ/",
+    "title": "비싼 제로토크 퍼터가 20만원대, 4만~20만원 가격대별 퍼터 성능 총정리",
+    "summary": [
+      "비싼 제로토크 퍼터가 20만원대, 4만~20만원 가격대별 퍼터 성능 총정리."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n873e0769",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "12분 전",
+    "url": "https://www.newsis.com/view/NISX20260820_0003755066",
+    "title": "네타냐후, 시리아 공습 후 \"튀르키예 군사력 증강 용납못해\"",
+    "summary": [
+      "[서울=뉴시스] 김예진 기자 = 베냐민 네타냐후 이스라엘 총리는 19일(현지 시간) 시리아 공군기지 공습 후 튀르키예에 시리아 내 군사력 증강을 용납하지 않겠다고 압박했다.",
+      "타임스오브이스라엘(TOI) 등에 따르면 그는 이날 팟캐스트와 인터뷰하며 시리아의 \"남쪽으로 내려오는 튀르키예의 군사력 증강은 우리를 위협하기 때문에 용납하지 않을 것\"이라고 밝혔다.",
+      "네타냐후 총리는 튀르키예에 시리아에서 그러한 군사 활동을 하지 말라고 경고했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nd13cf52d",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "12분 전",
+    "url": "https://www.newsis.com/view/NISX20260819_0003754635",
+    "title": "\"삼전 출신 모셔라\"…손 내민 의료기기 업체들",
+    "summary": [
+      "[서울=뉴시스]송종호 기자 = 미용의료기기 업계에 삼성전자 출신 인재 영입 바람이 불고 있다.",
+      "제품 기술력과 영업망 확대를 넘어 글로벌 마케팅과 기업 운영 역량을 강화하려는 움직임으로 풀이된다.",
+      "지난해 8월 삼성전자 출신 김창영 부사장을 영입한 원텍은 글로벌 기업에서 쌓은 경험을 조직 운영과 마케팅에 접목하며 변화를 꾀하고 있다."
+    ],
+    "chips": [
+      "#삼성전자",
+      "#의료"
+    ]
+  },
+  {
+    "id": "nd01bfdb9",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "12분 전",
+    "url": "https://www.chosun.com/international/us/2026/08/20/TRN7532OLBDRRCETFJIXFFY2OA/",
+    "title": "[속보] 트럼프 “한국이 호르무즈 문제 돕는데 관심 없어 기분 별로였다”",
+    "summary": [
+      "[속보] 트럼프 “한국이 호르무즈 문제 돕는데 관심 없어 기분 별로였다”."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nbb7f3ffc",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "14분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260819159200001",
+    "title": "李대통령, 오늘 왕이 접견…종전 다자논의·북미대화 의견교환 주목",
+    "summary": [
+      "(서울=연합뉴스) 설승은 기자 = 이재명 대통령은 20일 청와대에서 방한 중인 왕이 중국공산당 중앙정치국 위원 겸 외교부장을 만난다."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n7b83bf5c",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "14분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260819159700001",
+    "title": "김민석, 오늘 이해찬·김근태 묘역 참배…국회서 조의장 예방도",
+    "summary": [
+      "(서울=연합뉴스) 오규진 기자 = 더불어민주당 김민석 신임 대표는 20일 고(故) 이해찬 전 총리·김근태 전 보건복지부 장관 묘역을 잇달아 참배..."
+    ],
+    "chips": [
+      "#정치",
+      "#의료"
+    ]
+  },
+  {
+    "id": "n2b44ad2a",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "14분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260819150700001",
+    "title": "당원투표로 전국 당협위원장 새로 뽑나…국힘, 오늘 최고위 논의",
+    "summary": [
+      "(서울=연합뉴스) 조다운 기자 = 국민의힘은 20일 최고위와 의원총회를 잇따라 열고 당협위원장 선출 방식 변경 문제를 논의한다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n630657c4",
+    "category": "IT",
+    "source": "머니투데이",
+    "time": "14분 전",
+    "url": "https://www.mt.co.kr/future/2026/08/20/2026081916072462501",
+    "title": "AI·딥테크에 몰리는 모험자본…초기기업·지방까지 달아올랐다",
+    "summary": [
+      "상반기 벤처투자 8.9조 '역대 최대'…지방 투자 105% 늘었다 [이 기사에 나온 스타트업에 대한 보다 다양한 기업정보는 유니콘팩토리 빅데이터 플랫폼 ‘데이터랩’에서 볼 수 있습니다.] 올해 상반기 국내 신규 벤처투자액이 8조8676억원으로 역대 최대치를 기록했다.",
+      "특히 비수도권 투자가 104.7% 증가하면서 수도권 투자(49.9%)보다 높은 증가율을 보였다.",
+      "위축됐던 초기 투자도 56.4% 늘어나며 시장 전반에 훈풍이 이어졌다."
     ],
     "chips": [
       "#AI",
-      "#카카오"
+      "#스타트업"
     ]
   },
   {
-    "id": "na05e67c2",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "1시간 전",
-    "url": "https://www.chosun.com/national/court_law/2026/08/20/BXHTOEGFZRDCPKTHA4DHU2UPFA/",
-    "title": "하루 이자만 1억3000만 원… 최태원 회장이 재상고 기한 ‘1분 전’ 서류 낸 이유",
-    "summary": [
-      "하루 이자만 1억3000만 원… 최태원 회장이 재상고 기한 ‘1분 전’ 서류 낸 이유."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n7eaa190a",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "1시간 전",
-    "url": "https://www.chosun.com/national/2026/08/20/GGMPTVNQDFCOTOQ5CPZSRFIFGE/",
-    "title": "[굿모닝 멤버십] “그냥 하던 대로” 선택한 리더의 최후",
-    "summary": [
-      "[굿모닝 멤버십] “그냥 하던 대로” 선택한 리더의 최후."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nd12ed8d9",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "1시간 전",
-    "url": "https://www.donga.com/news/Entertainment/article/all/20260820/134508784/1",
-    "title": "알디원, 신곡 ‘본 다이어’ MV 티저 공개…강렬 에너지",
-    "summary": [
-      "보이그룹 알파드라이브원(ALPHA DRIVE ONE)이 강렬한 에너지의 신곡으로 돌아온다.19일 알파드라이브원은 공식 사회관계망서비스(SNS) 계정에 미니 2집 ‘언브레이커블 : 소년비스트’ 타이틀곡 ‘본 다이어’(BORN DIRE)의 뮤직비디오 티저 영상을 올렸다.공개된 티저는 시작부터 강렬한 사운드가 울리며 전개된다.",
-      "이어 의미심장한 표정의 멤버들의 모습과 함께 타이틀곡의 음원 일부가 흘러나왔고, 화면을 가득 채운 댄서들이 알파드라이브원을."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n592d6b12",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "1시간 전",
-    "url": "https://www.donga.com/news/Entertainment/article/all/20260820/134508781/1",
-    "title": "오정연, 아이유도 앓는 이관개방증 수술 받았다 “30년 견뎌”",
-    "summary": [
-      "방송인 오정연이 이관개방증을 앓고 있다고 밝혔다.오정연은 19일 자신의 인스타그램 스토리에 “고등학생 때부터 느껴온 고질적 증세의 질환명이 존재한다는 걸 처음 알았다, 이관개방증”이라고 글을 올렸다.그는 “아이유 님도 이 때문에 계획했던 9월 콘서트를 취소했다는 기사를 얼마 전에 접했는데, 나도 운동이나 방송을 좀 무리해서 하면 어김없이 발현되는 그 힘듦을 알아 더 안타까웠다”고 밝혔다.이어 “30년간 불편해도 견디고 살아야 하는 줄 알았건만."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n74673b00",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "1시간 전",
-    "url": "https://www.donga.com/news/Entertainment/article/all/20260820/134508778/1",
-    "title": "듀스 이현도, 부친상 비보…가족들과 빈소 지켜",
-    "summary": [
-      "듀스 출신 가수 겸 프로듀서 이현도(53)가 부친상을 당했다.19일 유족에 따르면 이현도의 부친 이환범 씨가 이날 별세했다.",
-      "이현도는 가족들과 함께 빈소를 지키고 있다.빈소는 서울성모장례식장 31호실에 마련됐다.",
-      "발인은 21일 오전이며, 장지는 영락동산이다.한편 이현도는 지난 1993년 고(故) 김성재와 함께 힙합 듀오 듀스로 데뷔해 활동했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n43e4daf0",
+    "id": "ndca010ea",
     "category": "경제",
-    "source": "한국경제",
-    "time": "2시간 전",
-    "url": "https://www.hankyung.com/article/2026081907451",
-    "title": "\"韓·中에 밀린 LNG선 되찾자\"…日, 9년 만에 독 신설",
+    "source": "머니투데이",
+    "time": "14분 전",
+    "url": "https://www.mt.co.kr/economy/2026/08/20/2026081918063014185",
+    "title": "\"빚내서 집 사고 주식하더니\" 가계 빚 2020조...'금리 인상' 명분 커졌다",
     "summary": [
-      "\"韓·中에 밀린 LNG선 되찾자\"…日, 9년 만에 독 신설."
+      "[빚더미 대한민국](종합) ━부동산·빚투가 키운 '가계빚 2020조'…금리 인상 명분 커졌다━ 2분기 가계 빚이 사상 처음 2000조원을 넘어선 것은 주택관련대출이 이끌던 증가세에 신용대출까지 본격적으로 가세했다는 점에서 의미가 크다.",
+      "주택 거래 증가와 가격 상승, 증시 활황이 맞물리면서 주택 매수 자금과 '빚투' 수요가 동시에 불어났다.",
+      "가계부채 관리 부담은 커지면서 한국은행의 추가 금리 인상에 힘이 실릴 것이란 전망이 나온다."
+    ],
+    "chips": [
+      "#부동산",
+      "#금리",
+      "#한은"
+    ]
+  },
+  {
+    "id": "nd522f79d",
+    "category": "부동산",
+    "source": "아시아경제",
+    "time": "14분 전",
+    "url": "https://view.asiae.co.kr/article/2026081921483194052",
+    "title": "수도권 주택공급 대책 삼킨 '용산공원'…공급 총력전이 '공원 전쟁' 된 까닭",
+    "summary": [
+      "이재명 정부의 수도권 '23만호+알파(α)' 주택 공급과 공공택지 착공기간 단축을 앞세운 8·13 공급대책이 발표된 지 일주일도 지나지 않아 정책을 둘러싼 시선이 서울 용산공원 한 곳으로 빨려 들어갔다.",
+      "용산공원 본체부지는 8·13 대책에 공급 물량이 확정돼 들어간 곳도, 당장 착공할 수 있는 땅도 아니다.",
+      "그럼에도 용산이 대책 전체를 대표하는 쟁점이 된 것은 이 땅이 서울의 공급 부족과 청년 주거, 도심 녹지, 중앙정부와."
+    ],
+    "chips": [
+      "#정책"
+    ]
+  },
+  {
+    "id": "n0728622a",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "14분 전",
+    "url": "https://www.chosun.com/economy/startup_story/2026/08/20/AHMOLIDQOFFUTJIVR7XIXVFXDI/",
+    "title": "맛이 어떻길래 2년 간 349만봉 팔린 양곰탕, 2인분 같은 1인분에 6800원",
+    "summary": [
+      "맛이 어떻길래 2년 간 349만봉 팔린 양곰탕, 2인분 같은 1인분에 6800원."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n3b7b90b4",
-    "category": "IT",
-    "source": "테크M",
-    "time": "2시간 전",
-    "url": "https://www.techm.kr/news/articleView.html?idxno=154439",
-    "title": "자체 AI 기술 상용화 속도내는 넥써쓰...게임·콘텐츠·결제까지 확장",
+    "id": "nf82e4e2c",
+    "category": "경제",
+    "source": "머니투데이",
+    "time": "22분 전",
+    "url": "https://www.mt.co.kr/entertainment/2026/08/20/2026082004452248861",
+    "title": "허키 시바세키, 배철수에 DM 보냈는데 무응답에 서운 \"대단한 깡\"",
     "summary": [
-      "넥써쓰가 자체 AI 기술을 실제 서비스에 적용하고 AI 활용 범위를 넓히며 인공지능 전환에 속도를 내고 있다.",
-      "AI 연구개발에 그치지 않고 자체 플랫폼을 통해 서비스를 직접 구현하고, 이를 글로벌 게임·콘텐츠 생태계와 연결하는 전략이다.넥써쓰는 19일 자체 개발한 AI 솔루션 11종을 한자리에 모은 포털 '넥써쓰 AI 랩스'를 오픈했다고 밝혔다.",
-      "AI 기술을 실제 업무와 콘텐츠 제작에 활용할 수 있는 제품으로 구현해 AI 전환 역량을 보여주겠다."
+      "프로듀서 허키 시바세키가 과거 배철수에게 자신의 노래를 라디오에서 틀어달라고 DM을 보냈지만 답장을 받지 못했다.",
+      "19일 방영된 MBC '라디오스타' 977회는 '역시 난 죽지 않아 킥킥' 특집으로 꾸며져 홍혜걸, 하하, 박영진, 허키 시바세키가 출연해 입담을 뽐냈다.",
+      "이날 유세윤은 허키 시바세키를 소개하며 \"2년 연속 힙합 트로피를 싹쓸이했다."
     ],
     "chips": [
-      "#AI"
+      "#뉴스"
     ]
   },
   {
-    "id": "nb34d4665",
-    "category": "IT",
-    "source": "테크M",
-    "time": "2시간 전",
-    "url": "https://www.techm.kr/news/articleView.html?idxno=154434",
-    "title": "왓챠피디아 품는 키노라이츠, 日 '필마크' 따라가나",
+    "id": "n2b50d0df",
+    "category": "사회",
+    "source": "아시아경제",
+    "time": "44분 전",
+    "url": "https://view.asiae.co.kr/article/2026082004301799953",
+    "title": "빅터 차 \"트럼프, 北·이란 핵문제 다르게 접근할 수밖에\"",
     "summary": [
-      "키노라이츠가 왓챠 인수를 추진하면서 7억3000만건에 달하는 왓챠피디아의 콘텐츠 평가 데이터도 새 주인을 만날 가능성이 높아졌다.",
-      "최근 2년간 왓챠피디아 애플리케이션 월간활성이용자(MAU)는 키노라이츠의 3배 수준까지 커졌다.",
-      "영화 투자·배급 사업에 진출한 키노라이츠가 기존 검색 데이터와 성격이 다른 대규모 취향 데이터를 함께 거느리게 되는 셈이다.일각에선 키노라이츠가 '한국형 필마크(Filmarks)'로 거듭나는 것이 아니냐는 전망이 나온다."
+      "미국 싱크탱크 전략국제문제연구소(CSIS)의 빅터 차 한국 석좌가 도널드 트럼프 미국 대통령이 북한과 이란의 핵 문제에 서로 다른 접근법을 취하는 데 나름의 전략적 논리가 있다고 평가했다.",
+      "차 석좌는 19일(현지시간) 워싱턴포스트(WP) 기고문에서 트럼프 대통령이 이란에는 핵무기 보유를 허용하지 않겠다는 강경한 입장을 취하면서도 북한에는 핵무기 보유 현실을 고려한 협상에 나서려 한다며, 이를 단순한 '이중잣대'로 규."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n12c898c2",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "44분 전",
+    "url": "https://www.donga.com/news/Culture/article/all/20260820/134507930/2",
+    "title": "오디세우스는 귀향했지만… 아이맥스의 여정은 시작됐다",
+    "summary": [
+      "네필들이 ‘오디세이’를 보기 위해 오디세이(긴 여정)를 떠났다(Cinephiles Took Their Own Odysseys to Watch ‘The Odyssey’).” 미국 뉴욕타임스(NYT)는 최근 영화 ‘오디세이’의 아이맥스 관람 글로벌 열풍을 이렇게 표현했다.",
+      "실제로 소셜미디어엔 세계 곳곳에서 관람객이 아이맥스관을 찾아다니는 ‘원정 관람 인증’이 잇따르고 있다.",
+      "미국에선 아이맥스 70mm 상영관을 찾아 왕복 1450km를 운전한 이가."
     ],
     "chips": [
       "#뉴스"
@@ -637,20 +642,20 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2980건",
-    "trend": "+355%"
+    "mentions": "2460건",
+    "trend": "+275%"
   },
   {
     "rank": 2,
     "tag": "AI",
-    "mentions": "1940건",
-    "trend": "+195%"
+    "mentions": "1810건",
+    "trend": "+175%"
   },
   {
     "rank": 3,
-    "tag": "KBO",
-    "mentions": "1550건",
-    "trend": "+135%"
+    "tag": "스타트업",
+    "mentions": "1420건",
+    "trend": "+115%"
   }
 ];
 // ====AUTO-GENERATED-END====
