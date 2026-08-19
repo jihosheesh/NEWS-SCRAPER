@@ -1,11 +1,25 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-08-19 21:16:03
+// 마지막 업데이트: 2026-08-19 22:13:47
 window.NEWS_DB = [
+  {
+    "id": "n32852c6f",
+    "category": "IT",
+    "source": "dailycar.co.kr",
+    "time": "51분 전",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9hVm1BTHlYaUJYRmNZdnduSUNQemFkaXNlTTU3VDZFcjZNVmR3aHc4N3pSTGx1dmZGemJLWURldjRVbXFzalBscDlBNV8xUGRwbWdJWk5LVDRtdllDSi1HY2R2X3lKU1BneGFnbXBOWEJ3N3BneFE?oc=5",
+    "title": "삼성 파운드리, 풀가동 신호탄 쐈다..HBM이 살린 위탁생산",
+    "summary": [
+      "삼성 파운드리, 풀가동 신호탄 쐈다..HBM이 살린 위탁생산 dailycar.co.kr."
+    ],
+    "chips": [
+      "#반도체"
+    ]
+  },
   {
     "id": "n9f012d76",
     "category": "IT",
     "source": "뉴시스",
-    "time": "14시간 전",
+    "time": "15시간 전",
     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9NUS1xeGF1Wkdibll3b0tDU2dVTHpmNW5zaU14RENwcTRpd29pbVNCYy1mUG51YUNyMVNVVzByUkUtYVkwczZveUdENTEwaktRRENPNWZsNmc5ZV9rdDlHbnZaRmM2bTJSOWo2V1JkRklOU0JpMTlJM9IBeEFVX3lxTE9NUS1xeGF1Wkdibll3b0tDU2dVTHpmNW5zaU14RENwcTRpd29pbVNCYy1mUG51YUNyMVNVVzByUkUtYVkwczZveUdENTEwaktRRENPNWZsNmc5ZV9rdDlHbnZaRmM2bTJSOWo2V1JkRklOU0JpMTlJMw?oc=5",
     "title": "수십년 경쟁한 韓·대만, AI 시대엔 '한 팀'…\"서로 없인 못 만들어\"",
     "summary": [
@@ -18,12 +32,12 @@ window.NEWS_DB = [
   {
     "id": "n60102c3f",
     "category": "IT",
-    "source": "businesspost.co.kr",
-    "time": "15시간 전",
+    "source": "비즈니스포스트",
+    "time": "16시간 전",
     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5FdnkxZUE2bDNoa3Y0MHVlcVZoTi1HZHdmNFJBM24yNk1GNVBiRXQzWWNHS2lTNWJWRjlobE9DUlBGYkVtbENyVGtMaFZqWWVvQzZ2NTF6NG1QNGZlSlRELUJMX21zb2VOcU5QenRkMG5NMFE?oc=5",
     "title": "엔비디아의 AI 데이터센터 투자금 지원은 \"가치 있는 베팅\" 평가, 고객사 선점에 유리",
     "summary": [
-      "엔비디아의 AI 데이터센터 투자금 지원은 \"가치 있는 베팅\" 평가, 고객사 선점에 유리 businesspost.co.kr."
+      "엔비디아의 AI 데이터센터 투자금 지원은 \"가치 있는 베팅\" 평가, 고객사 선점에 유리 비즈니스포스트."
     ],
     "chips": [
       "#AI",
@@ -75,21 +89,6 @@ window.NEWS_DB = [
     "chips": [
       "#AI",
       "#엔비디아"
-    ]
-  },
-  {
-    "id": "n066dd761",
-    "category": "IT",
-    "source": "자본시장뉴스",
-    "time": "3일 전",
-    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5IQ2o3T1ZLbVc1Tkk4NjBFb1FxRktIN25PbkhCejZzUUpmZGpnQnJLTXpJdENqdlJPNlFZcWlVb3d4XzdRRk5vZV8zQnJvXzc3QVk1ZE9FVDB6TDZKakRsZkdtVGd1LU0?oc=5",
-    "title": "인텔 21조 유상증자…삼성전자, 메모리 고객 얻고 파운드리 경쟁자 얻다",
-    "summary": [
-      "인텔 21조 유상증자…삼성전자, 메모리 고객 얻고 파운드리 경쟁자 얻다 자본시장뉴스."
-    ],
-    "chips": [
-      "#반도체",
-      "#삼성전자"
     ]
   },
   {
@@ -240,6 +239,20 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n79d12fb6",
+    "category": "부동산",
+    "source": "Chosunbiz",
+    "time": "82일 전",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQc01fQzQ5RjhjTzMxV0xObHgwUFQ5Z0ozcklaR19VYmhUOXBxVURFZVBjZkxKT2ozQUhsVzViV1JCLXdvVUQ1YWVwYTA5bVB1TjdaYlZHTXFCQUJoRTBsdHNHZXZ5MnJQdVliYzVUUktidVpvNDNzWVJXakYzUFBTMFMxd1Y0NFVrTnhSR1c5WXctLTdFRnhJMtIBrAFBVV95cUxOMk9EaXo0bmRJdnJyRVgyM0REZE1IR1VEVkNzWVNHZW9nR3p3WDRXcXQ0dnpfNk5LRE9SVFVscW45RzlqYTZGTWhWdTlybngycnM5QUliSG1haVFoQW5xT3ZpbFJvWU5hYjNYUGNLTHVyNHgwcDdLZWFsdFhMTHhCNlBodDFsdkFTT0tFX3NXWGZ1M2hCTEpmbTVUVXRzREtvSy1CdkRyWE5sbU5p?oc=5",
+    "title": "매물 줄고 분양가 뛰고… 전국 아파트 매매·전셋값 동반 상승세 지속 - 조선비즈",
+    "summary": [
+      "매물 줄고 분양가 뛰고… 전국 아파트 매매·전셋값 동반 상승세 지속 - 조선비즈 Chosunbiz."
+    ],
+    "chips": [
+      "#부동산"
+    ]
+  },
+  {
     "id": "nb9bdfdfb",
     "category": "스포츠",
     "source": "푸드투데이",
@@ -298,25 +311,180 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nbe3faaa9",
-    "category": "부동산",
-    "source": "arunews.com",
-    "time": "188일 전",
-    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBySlBpV3FLRUFBelkwS3NUZWhrOC1qcGdZTW1obGIyVDV3Z2I5WHlwSGRzUkRCSjllUnpRX2Vld2FRa3VRWU56VEROM19hS3lGUU11VFJPS3RZUThkcTRGR0dEa0p2V0xy?oc=5",
-    "title": "서울 집값 0.22% ↑… \"재건축·역세권이 끌었다“",
+    "id": "n60844cad",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "1분 전",
+    "url": "https://www.donga.com/news/Society/article/all/20260820/134508861/2",
+    "title": "초교 교무실에 직원들 몰래 홈캠 설치한 교감…檢 송치",
     "summary": [
-      "서울 집값 0.22% ↑… \"재건축·역세권이 끌었다“ arunews.com."
+      "초등학교 교무실에서 동료 교직원들에게 알리지 않고 촬영과 녹음이 가능한 가정용 홈캠을 설치한 교감이 검찰에 넘겨졌다.광주 동부경찰서는 통신비밀보호법 및 개인정보보호법 위반 혐의로 50대 교감을 이달 초 불구속 송치했다고 19일 밝혔다.해당 교감은 전남·광주 지역의 한 초등학교 교무실에서 자신의 책상에 가정용 홈캠을 설치해 다른 교직원들의 동의 없이 음성을 녹음한 혐의를 받고 있다.",
+      "이 홈캠은 영상 촬영과 음성 녹음이 모두 가능한 기기인 것으로."
     ],
     "chips": [
-      "#부동산",
-      "#재건축"
+      "#교육"
+    ]
+  },
+  {
+    "id": "n113f6aad",
+    "category": "IT",
+    "source": "아시아경제",
+    "time": "2분 전",
+    "url": "https://view.asiae.co.kr/article/2026082007113030234",
+    "title": "경기도서관, 9월 '도민해설사와 함께하는 도서관 견학 프로그램' 운영",
+    "summary": [
+      "경기도서관이 오는 9월1일부터 17일까지 '도민 해설사와 함께하는 경기도서관 견학' 프로그램을 운영한다.",
+      "경기도서관은 지난 7월 도민이 직접 도서관 해설 콘텐츠를 기획·운영하는 '도서관학교'를 통해 경기도서관 도민 해설사 31명을 양성했다.",
+      "도서관 견학은 일반견학 12회, AI 프로그램 견학 4회, 세계친구 책마을 책 낭독 프로그램 3회 등 총 19회 운영되며, 프로그램별로 회차당 4~10명까지 참여할 수 있다."
+    ],
+    "chips": [
+      "#AI",
+      "#교육"
+    ]
+  },
+  {
+    "id": "nc4350f69",
+    "category": "경제",
+    "source": "아시아경제",
+    "time": "3분 전",
+    "url": "https://view.asiae.co.kr/article/2026081816582224800",
+    "title": "의류쇼핑 줄었는데…6개 패션기업 일제히 반등, 왜?",
+    "summary": [
+      "국내 패션 소비가 위축된 가운데 주요 패션기업들이 올 2분기 일제히 외형 성장에 성공했다.",
+      "소비자들이 의류 구매를 줄이면서도 선호도가 높은 브랜드에는 지갑을 여는 '선택적 소비'가 확산된 영향으로 풀이된다.",
+      "특히 백화점 등 핵심 유통채널을 중심으로 수입·프리미엄 브랜드 판매가 빠르게 늘면서 내수 부진을 상쇄했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n5b783ef5",
+    "category": "IT",
+    "source": "아시아경제",
+    "time": "3분 전",
+    "url": "https://view.asiae.co.kr/article/2026081014365556083",
+    "title": "[AIDC 시대의 공존법]⑤\"열린 공청회 수십번…데이터센터는 좋은 이웃 돼야\"..MS 핀란드 대외협력 이사 인터뷰",
+    "summary": [
+      "편집자주인공지능(AI) 시대, 정부가 3대 메가프로젝트 일환으로 2035년까지 총 18.4GW 규모의 데이터센터를 구축해 국가 미래 성장동력으로 삼겠다는 계획을 발표했다.",
+      "IT서비스, 웹 애플리케이션, 데이터 저장·공유를 지원하는 시설에 그쳤던 데이터센터는 현재 AI 연산자원을 생산·공급하는 산업 플랫폼으로 진화 중이다.",
+      "하지만 국가 산업 경쟁력을 좌우하는 핵심 인프라라는 공통된 인식에도 AI데이터센터(AIDC) 확장까지 풀."
+    ],
+    "chips": [
+      "#AI"
+    ]
+  },
+  {
+    "id": "n7eecf799",
+    "category": "스포츠",
+    "source": "뉴시스",
+    "time": "4분 전",
+    "url": "https://www.newsis.com/view/NISX20260820_0003755097",
+    "title": "이강인, 데뷔전서 마수걸이 득점…아틀레티코는 개막전 완승",
+    "summary": [
+      "[서울=뉴시스] 김진엽 기자 = 한국 남자 축구 대표팀의 핵심 미드필더인 이강인(25)이 스페인 프로축구 프리메라리가 아틀레티코 마드리드 데뷔전에서 마수걸이 득점을 기록하며 팀을 개막전 승리로 이끌었다.",
+      "아틀레티코는 20일(한국 시간) 스페인 마드리드의 리야드 에어 메트로폴리타노에서 열린 말라가와의 2026~2027시즌 스페인 라리가 1라운드 홈 개막전에서 2-0 완승을 거뒀다.",
+      "과거 발렌시아 유스를 거쳐 발렌시아, 마요르카 등에서 활약했던 이."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n5f18df2c",
+    "category": "경제",
+    "source": "아시아경제",
+    "time": "4분 전",
+    "url": "https://view.asiae.co.kr/article/2026082007085115528",
+    "title": "[부고]이상호(전 대전지검장)씨 모친상",
+    "summary": [
+      "이상곤·상헌·상훈·상호(법무법인 율우 대표변호사.",
+      "전 대전지검장)·상민·상례·상경·상애 모친상.",
+      "김명자·김혜은·김미란·박은희·최미선 시모상."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n44e6760a",
+    "category": "스포츠",
+    "source": "연합뉴스",
+    "time": "6분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260820014100007",
+    "title": "매킬로이 \"LIV 골프 선수들, 가치가 있나?\"…평가절하",
+    "summary": [
+      "(서울=연합뉴스) 최태용 기자 = 남자골프 세계랭킹 2위 로리 매킬로이(북아일랜드)가 LIV 골프에서 뛰는 선수들을 평가절하하는 비판의 목소리를..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n88fad002",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "8분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260820014000004",
+    "title": "서초구, 제2회 추경안 357억원 편성…\"민생사업 집중\"",
+    "summary": [
+      "(서울=연합뉴스) 정준영 기자 = 서울 서초구(구청장 전성수)는 골목상권 활성화, 어르신 대중교통비 지원 등 생활밀착 사업을 중심으로 357억원..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n7a33dbee",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "9분 전",
+    "url": "https://www.chosun.com/entertainments/broadcast/2026/08/20/GQZTANRYMQ3WCOJXGRSDIMDGMI/",
+    "title": "아유미, 황정음 '배우병' 폭로 \"명품백에 대본 넣고 나타나\"",
+    "summary": [
+      "영상 시청 후 작성된 리뷰 기사입니다.[OSEN=최지연 기자] 그룹 슈가 출신 아유미가 황정음의 과거 허세를 폭로했다.",
+      "19일 유튜브 채널 '황정음'에는 '아이돌 메이크업하고 아유미랑 클럽 간 날'이라는 제목의 영상이 게재됐다.",
+      "이날 아유미와 황정음은 이태원의 한 분식집에서 만났다.이날 아유미는 황정음의 슈가 탈퇴 후 오랜만에 재회했던 때를 떠올렸다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n138efb5c",
+    "category": "IT",
+    "source": "연합뉴스",
+    "time": "10분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260820013400009",
+    "title": "스트라이프, 오픈라우터 인수…AI 결제 인프라 확장",
+    "summary": [
+      "(서울=연합뉴스) 정주호 기자 = 결제 전문업체 스트라이프가 인공지능(AI) 기업들을 겨냥한 결제 인프라를 확장하기 위해 AI 모델 마켓플레이스..."
+    ],
+    "chips": [
+      "#AI"
+    ]
+  },
+  {
+    "id": "n08e3e3a8",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "10분 전",
+    "url": "https://www.newsis.com/view/NISX20260820_0003755099",
+    "title": "알프스 빙하, 폭염에 녹아내리자…34년 전 조난자 시신 찾아",
+    "summary": [
+      "[서울=뉴시스]박지혁 기자 = 스위스 알프스 빙하가 폭염에 녹아내리면서 34년 전에 조난한 벨기에 등반가 2명의 시신이 발견됐다.",
+      "19일(현지시간) 미국 CBS에 따르면, 스위스 남부 발레주 경찰이 지난달 말 빙하에서 시신 2구를 발견했다고 발표했다.",
+      "경찰에 따르면, 발견된 시신의 DNA를 분석한 결과, 지난 1992년 바이스미스 지역에서 실종된 벨기에 출신 등반가 2명이었다."
+    ],
+    "chips": [
+      "#뉴스"
     ]
   },
   {
     "id": "ncbfd1dc9",
     "category": "사회",
     "source": "테크M",
-    "time": "방금 전",
+    "time": "10분 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=154441",
     "title": "티빙, 개인정보 유출 두 달 뒤에도 '피싱 주의보'...사칭 사례 지속",
     "summary": [
@@ -329,294 +497,138 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n7a7e383f",
+    "id": "n19ee72ce",
     "category": "사회",
     "source": "뉴시스",
-    "time": "5분 전",
-    "url": "https://www.newsis.com/view/NISX20260820_0003755077",
-    "title": "\"조업 중 닻에 발 걸려\"…군산 앞바다서 외국인 선원 실종",
+    "time": "11분 전",
+    "url": "https://www.newsis.com/view/NISX20260820_0003755095",
+    "title": "[오늘의 주요일정]경기남부(8월20일 목요일)",
     "summary": [
-      "[군산=뉴시스]고석중 기자 = 전북 군산 앞바다에서 조업 중이던 어선에서 외국인 선원 1명이 바다로 추락해 해경이 긴급 수색에 나섰다.",
-      "20일 군산해양경찰서에 따르면 전날 오후 11시57분께 군산시 옥도면 직도 남서쪽 10해리(18㎞) 해상에서 89t급 근해통발 어선 A호(통영 선적·승선원 12명)의 선원이 바다에 빠졌다.",
-      "이번 상황은 20일 오전 0시3분께 통영어선안전조업국을 거쳐 군산해경 상황실에 접수됐다."
+      "[수원=뉴시스] ◇경기도 ▲오후 3시, 도정현안회의, 서희홀 ◇수원시 ▲오전 11시, 과밀억제권역 자치단체 공동대응협의회 연구용역 결과보고회, 시청 상황실 ◇용인시 ▲오후 6시, 용인한빛라이온스 제1주년 행사 및 회장 이·취임식, 컨벤션홀 ◇화성시 ▲오후 1시30분, 도시농업관리사 양성교육, 도시농업지원센터 ◇안산시 ▲오전 10시, 포레나안산고잔 경로당 개소식, 포레나안산고잔경로당 ▲오후 3시, 안산시 안전정책심의위원회, 상황실 ◇평택시 ▲오전."
+    ],
+    "chips": [
+      "#정책",
+      "#교육"
+    ]
+  },
+  {
+    "id": "n45cacca3",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "11분 전",
+    "url": "https://www.newsis.com/view/NISX20260819_0003755012",
+    "title": "국가가 대신 지급하는 체불임금…회수율 30%도 못 미쳐",
+    "summary": [
+      "[서울=뉴시스] 고홍주 기자 = 지난해 국가가 체불 사업주 대신 근로자에게 지급한 대지급금의 회수율이 30%에도 미치지 못한 것으로 나타났다.",
+      "대지급금의 재원이 되는 임금채권보장기금 적립금도 5년 새 60% 넘게 감소하면서 대지급금 회수율을 높이기 위한 대책이 필요하다는 지적이 나온다.",
+      "20일 국회 기후에너지환경노동위원회 소속 나경원 국민의힘 의원실이 제공한 '2025회계연도 고용노동부 소관 결산 검토보고서'에 따르면 지난해 대지급금 지급액은."
+    ],
+    "chips": [
+      "#고용",
+      "#정치",
+      "#환경"
+    ]
+  },
+  {
+    "id": "n8f949635",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "11분 전",
+    "url": "https://www.chosun.com/entertainments/broadcast/2026/08/20/MVSWIMJRMY4GIM3FMRSWCZDCGI/",
+    "title": "[단독] '친일파 논란' 하영, '심신 불안' 촬영 일주일 중단..오늘(20일) 복귀",
+    "summary": [
+      "[OSEN=하수정 기자] 배우 하영이 '증조부 친일 논란' 이슈에도 SBS 새 드라마 '승산 있습니다'를 찍고 있는 가운데, 제작진의 배려로 일주일간 마음을 추스르는 시간을 가졌다.",
+      "20일 OSEN 취재 결과, 하영은 지난주부터 SBS 신작 '승산 있습니다'의 촬영을 잠시 쉬면서 몸과 마음을 가다듬는 일주일을 보냈다.",
+      "최근 하영이 북받치는 감정을 억누르지."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n60e9ad8f",
+    "id": "n4b4d5880",
     "category": "사회",
-    "source": "뉴시스",
-    "time": "5분 전",
-    "url": "https://www.newsis.com/view/NISX20260820_0003755076",
-    "title": "[속보]유엔사무총장, 서안 이스라엘 불법 정착촌 확대에 \"경고\"",
+    "source": "연합뉴스",
+    "time": "12분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260819121300053",
+    "title": "U대회서 마스터즈까지…대구, 23년만에 국제 육상도시 우뚝",
     "summary": [
-      "[서울=뉴시스] 차미례 기자 = outposts ◎공감언론 뉴시스 cmr@newsis.com."
+      "(대구=연합뉴스) 박세진 기자 = 2003년 세계하계유니버시아드대회를 계기로 '육상도시'로 첫발을 내디딘 대구가 23년 만에 세계적인 육상도시로..."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n5fdac8a5",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "9분 전",
-    "url": "https://www.newsis.com/view/NISX20260819_0003754894",
-    "title": "수업비 수천만원인데…미인가 국제학교, 폐쇄 거부시 하루 16만원",
+    "id": "n57737a91",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "12분 전",
+    "url": "https://www.chosun.com/sports/world-football/2026/08/20/MQYWEMTGMNRTMY3GGI3DANJZGQ/",
+    "title": "'ATM 7번' 이강인 왼발 미쳤다! 데뷔전서 '환상 감아차기' 데뷔골...1173일 만에 라리가 복귀→아틀레티코 2-0 승리 견인",
     "summary": [
-      "[세종=뉴시스]용윤신 기자 = 교육당국이 미인가 국제학교에 이행강제금을 부과하기로 했지만 하루 최대 16만원 수준에 그쳐 실효성이 떨어진다는 지적이 나온다.",
-      "전문가들은 미인가 국제학교가 사실상 학교 형태로 운영되면서 수천만원의 교육비를 받고 있는 상황에서 폐쇄명령을 이행하지 않는 데 따른 비용이 지나치게 낮으면 제재 효과를 거두기 어렵다고 지적했다.",
-      "20일 관계부처에 따르면 교육부는 미인가 교육시설에 대한 이행강제금 부과 기준을 담은 초·중등교."
+      "[OSEN=고성환 기자] '등번호 7번' 이강인(25)이 아틀레티코 마드리드 데뷔전에서 데뷔골을 신고했다.",
+      "그가 환상적인 중거리 득점으로 1173일 만의 라리가 복귀를 화려하게 마쳤다.아틀레티코는 20일(한국시간) 스페인 마드리드에 위치한 리야드 에어 메트로폴리타노에서 열린 2026-2027시즌 라리가 1라운드 개막전에서 말라가를 2-0으로 격파했다.디에고."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n9d9bd13b",
+    "category": "스포츠",
+    "source": "연합뉴스(경제)",
+    "time": "13분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260819154500056",
+    "title": "추석 앞두고 민생지원금 푸는 지자체들…1인당 최대 50만원",
+    "summary": [
+      "(전국종합=연합뉴스) 추석을 앞두고 각 지방자치단체가 '민생지원금' 지급을 추진하고 있다.",
+      "고유가와 경기 침체 장기화 속 주민들의 생활 부담을 ..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "ned2484ae",
+    "category": "경제",
+    "source": "연합뉴스(경제)",
+    "time": "13분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260814147100898",
+    "title": "[우분투칼럼] ODA가 빠진 자리, 무엇으로 채울까",
+    "summary": [
+      "[※ 편집자 주 = 연합뉴스 글로벌문화교류단이 국내 주요대학 아프리카 연구기관 등과 손잡고 '우분투 칼럼'을 게재합니다.",
+      "우분투 칼럼에는 인류 ..."
     ],
     "chips": [
       "#교육"
     ]
   },
   {
-    "id": "n27566c6c",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "10분 전",
-    "url": "https://www.newsis.com/view/NISX20260819_0003754579",
-    "title": "'중수청 수사관' 오늘 마감…'깜깜이' 속 검사 지원 주목",
+    "id": "nccd87241",
+    "category": "IT",
+    "source": "조선일보",
+    "time": "13분 전",
+    "url": "https://www.chosun.com/economy/science/2026/08/20/E2KR4EGXXZC7NFAEMWYIUUUZHU/",
+    "title": "사용자 정치 성향 따라 답변 달라져…AI는 ‘정치 카멜레온’",
     "summary": [
-      "[서울=뉴시스] 강지은 기자 = 오는 10월 2일 출범하는 중대범죄수사청(중수청) 수사 인력을 유치하기 위한 임용 신청이 20일 마감된다.",
-      "4급 이상 상당의 '수사관'으로 신분이 바뀌게 되는 검사들의 지원 규모에 관심이 집중될 전망이다.",
-      "행정안전부에 따르면 중수청 개청준비단은 지난 7일부터 접수한 중수청 수사관 임용 희망 신청을 이날 오후 6시 마감할 예정이다."
+      "사용자 정치 성향 따라 답변 달라져…AI는 ‘정치 카멜레온’."
     ],
     "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "naa48fb91",
-    "category": "스포츠",
-    "source": "머니투데이",
-    "time": "9분 전",
-    "url": "https://www.mt.co.kr/sports/2026/08/20/2026082005493531883",
-    "title": "'역대급 데뷔전' 이강인, 아틀레티코 1호골 폭발→선제 결승골 '영웅 등극'... 첫 공식경기 2-0 완승",
-    "summary": [
-      "이보다 완벽한 데뷔전이 있을까.",
-      "이강인(25)이 아틀레티코 마드리드 첫 공식 경기에서 환상적인 선제 결승골을 터뜨리며 팀의 영웅으로 등극했다.",
-      "아틀레티코 마드리드는 20일 오전 4시(한국시간) 스페인 마드리드의 리야드 에어 메트로폴리타노에서 열린 2026~2027 스페인 라리가 1라운드 개막전에서 말라가에 2-0 완승을 거뒀다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nac7980f1",
-    "category": "경제",
-    "source": "연합뉴스",
-    "time": "10분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260819166800008",
-    "title": "[코스피·코스닥 전 거래일(19일) 주요공시]",
-    "summary": [
-      "[코스피·코스닥 전 거래일(19일) 주요공시]."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n305917b2",
-    "category": "사회",
-    "source": "머니투데이",
-    "time": "11분 전",
-    "url": "https://www.mt.co.kr/world/2026/08/20/2026082005555949028",
-    "title": "美 국가부채 40조달러 돌파 '재정위기 빨간불'…9년새 2배 증가",
-    "summary": [
-      "미국 국가부채가 사상 처음ㅇ로 40조달러(약 5경5568조원)를 넘어섰다.",
-      "19일(현지시간) 미 재무부에 따르면 연방정부 총부채가 전날 기준 40조470억달러로 집계됐다.",
-      "이 가운데 일반 투자자들이 보유한 국채가 32조2660억달러, 정부 보유분은 7조7820억달러로 나타났다."
-    ],
-    "chips": [
+      "#AI",
       "#정치"
     ]
   },
   {
-    "id": "nd1394365",
-    "category": "경제",
-    "source": "머니투데이",
-    "time": "13분 전",
-    "url": "https://www.mt.co.kr/world/2026/08/20/2026082005140220847",
-    "title": "美·캐나다 무역 합의 잠정 타결… 자동차 15%·철강 25%로 관세 인하",
+    "id": "n37cc7c0f",
+    "category": "스포츠",
+    "source": "동아일보",
+    "time": "22분 전",
+    "url": "https://www.donga.com/news/Inter/article/all/20260820/134508850/2",
+    "title": "이강인, AT마드리드 데뷔전 데뷔골로 팀 승리 견인…MOM 선정",
     "summary": [
-      "자동차 부품 공제 적용 시 실효 관세율 더 낮아질 듯 미국과 캐나다 간의 잠정 무역 합의로 철강 및 알루미늄 등 특정 캐나다산 수출품에 대한 관세가 25%로 낮아질 것으로 관측된다.",
-      "19일(현지시간) 블룸버그, 로이터통신에 따르면 협상이 진행 중인 미국-캐나다 무역 합의로 인해 캐나다산 자동차 및 트럭에 대한 관세율이 기존 25%에서 15%로 낮아지고, 캐나다산 철강 및 알루미늄에 대한 관세율은 절반인 25%로 줄어들 것으로 예상된다."
-    ],
-    "chips": [
-      "#수출"
-    ]
-  },
-  {
-    "id": "n3afe7c04",
-    "category": "부동산",
-    "source": "연합뉴스",
-    "time": "14분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260819151400030",
-    "title": "배민, '과도한 출입통제' 아파트 실태조사…\"대응안 검토\"",
-    "summary": [
-      "(서울=연합뉴스) 홍국기 기자 = 배달의민족이 주상복합 건물에서 발생하는 배달 라이더들의 출입·이동 관련 불편 사항을 파악하기 위한 설문 조사를..."
-    ],
-    "chips": [
-      "#부동산"
-    ]
-  },
-  {
-    "id": "nf94f1ed8",
-    "category": "경제",
-    "source": "한국경제",
-    "time": "15분 전",
-    "url": "https://www.hankyung.com/article/202608190506i",
-    "title": "“1100원짜리가 5000원”…10분 만에 동난 '삼계탕 라면' 뭐길래 [권 기자의 장바구니]",
-    "summary": [
-      "“1100원짜리가 5000원”…10분 만에 동난 '삼계탕 라면' 뭐길래 [권 기자의 장바구니]."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nd613fe0f",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "15분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260819124300530",
-    "title": "[돌봄을 돌봄] ② 오늘도 절망을 마주한다…환자의 고통이 남긴 상처",
-    "summary": [
-      "(서울=연합뉴스) 성서호 기자 = \"바로 전날까지도 별다른 징후 없이 상태가 좋으셨어요.",
-      "그런데 다음 날 출근하던 길에 그 환자분이 사망한 채로..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "na342a3cf",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "15분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260819105300063",
-    "title": "대전 고향사랑기부제 답례품 부동의 1위는 '성심당 빵'",
-    "summary": [
-      "(대전=연합뉴스) 박주영 기자 = 대전지역 유명 베이커리인 성심당의 빵이 고향사랑기부제 답례품 3년 연속 1위를 차지했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n6839a1bb",
-    "category": "사회",
-    "source": "연합뉴스(경제)",
-    "time": "15분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260819127400003",
-    "title": "도시에 사는 인구 4천700만명…국토 17%에 국민 92% 거주",
-    "summary": [
-      "(세종=연합뉴스) 오진송 기자 = 국토의 16.7%를 차지하는 도시지역에 전체 인구의 92.1%가 거주하는 것으로 나타났다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nea097f2f",
-    "category": "사회",
-    "source": "연합뉴스(경제)",
-    "time": "15분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260819129600003",
-    "title": "환경규제 강화되는데…기업 66% \"탄소데이터 나홀로 관리\"",
-    "summary": [
-      "(서울=연합뉴스) 임성호 기자 = 한국을 비롯한 글로벌 주요국의 ESG(환경·사회·기업지배구조) 공시가 의무화 단계로 접어드는 등 국내외 탄소 ..."
-    ],
-    "chips": [
-      "#정책",
-      "#환경"
-    ]
-  },
-  {
-    "id": "ne81b3c61",
-    "category": "경제",
-    "source": "한국경제",
-    "time": "15분 전",
-    "url": "https://www.hankyung.com/article/2026081903481",
-    "title": "\"삼성전자 사장 됐는데 2년 반 만에\"…70년대생의 눈물",
-    "summary": [
-      "\"삼성전자 사장 됐는데 2년 반 만에\"…70년대생의 눈물."
-    ],
-    "chips": [
-      "#삼성전자"
-    ]
-  },
-  {
-    "id": "nc43e36f6",
-    "category": "경제",
-    "source": "연합뉴스(경제)",
-    "time": "15분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260819148800002",
-    "title": "비청산 장외파생상품거래 증거금 가이드라인 1년 연장",
-    "summary": [
-      "(서울=연합뉴스) 강류나 기자 = 중앙청산소에서 청산되지 않은 장외파생상품거래에 거래당사자 간 증거금(담보)을 사전 교환하는 '증거금 교환제도'..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "ndf0698cc",
-    "category": "경제",
-    "source": "한국경제",
-    "time": "15분 전",
-    "url": "https://www.hankyung.com/article/202608190184i",
-    "title": "\"비정상 로그인 시도\"…이런 문자 받았다면 절대 클릭 금지",
-    "summary": [
-      "\"비정상 로그인 시도\"…이런 문자 받았다면 절대 클릭 금지."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n4c18eb3b",
-    "category": "경제",
-    "source": "한국경제",
-    "time": "15분 전",
-    "url": "https://www.hankyung.com/article/2026081996896",
-    "title": "금감원, 비청산 장외파생상품 증거금 교환 가이드라인 1년 연장",
-    "summary": [
-      "금감원, 비청산 장외파생상품 증거금 교환 가이드라인 1년 연장."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n9207d14e",
-    "category": "IT",
-    "source": "조선비즈IT",
-    "time": "15분 전",
-    "url": "https://biz.chosun.com/it-science/ict/2026/08/20/3WHHOQETWFAKFB3VPHCDKNHJHU/",
-    "title": "삼성전자·SK하이닉스 실적은 ‘역대급’인데… 소부장은 ‘K자 양극화’",
-    "summary": [
-      "삼성전자·SK하이닉스 실적은 ‘역대급’인데… 소부장은 ‘K자 양극화’."
-    ],
-    "chips": [
-      "#삼성전자",
-      "#SK하이닉스"
-    ]
-  },
-  {
-    "id": "n7d99c3d7",
-    "category": "IT",
-    "source": "조선비즈IT",
-    "time": "15분 전",
-    "url": "https://biz.chosun.com/it-science/ict/2026/08/20/LNM4PY3NMJA63PP6RVI7K6AKJE/",
-    "title": "[인터뷰] “최고의 웨어러블은 계속 차고 싶은 기기”… 애플 24년 베테랑이 ‘반지’에 주목한 이유",
-    "summary": [
-      "[인터뷰] “최고의 웨어러블은 계속 차고 싶은 기기”… 애플 24년 베테랑이 ‘반지’에 주목한 이유."
+      "이강인이 아틀레티코 마드리드(AT 마드리드) 공식 데뷔전에서 선제골을 터뜨리며 팀의 새 시즌 개막전 승리를 이끌었다.이강인은 20일(한국시간) 스페인 마드리드에 위치한 리야드 에어 메트로폴리타노에서 열린 말라가와의 2026-2027시즌 스페인 라리가 1라운드 홈경기에서 후반 교체 투입돼 선제골을 기록했다.",
+      "AT 마드리드는 이강인의 선제골과 바에나의 추가골에 힘입어 2-0으로 승리했다.이번 시즌을 앞두고 파리생제르맹(PSG)을 떠나 AT 마드리드."
     ],
     "chips": [
       "#뉴스"
@@ -629,18 +641,18 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2720건",
-    "trend": "+315%"
+    "mentions": "2590건",
+    "trend": "+295%"
   },
   {
     "rank": 2,
     "tag": "AI",
-    "mentions": "1680건",
-    "trend": "+155%"
+    "mentions": "2200건",
+    "trend": "+235%"
   },
   {
     "rank": 3,
-    "tag": "삼성전자",
+    "tag": "고용",
     "mentions": "1420건",
     "trend": "+115%"
   }
