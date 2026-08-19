@@ -1,5 +1,5 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-08-19 13:36:19
+// 마지막 업데이트: 2026-08-19 14:22:44
 window.NEWS_DB = [
   {
     "id": "n9f012d76",
@@ -18,12 +18,12 @@ window.NEWS_DB = [
   {
     "id": "n60102c3f",
     "category": "IT",
-    "source": "비즈니스포스트",
+    "source": "businesspost.co.kr",
     "time": "8시간 전",
     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5FdnkxZUE2bDNoa3Y0MHVlcVZoTi1HZHdmNFJBM24yNk1GNVBiRXQzWWNHS2lTNWJWRjlobE9DUlBGYkVtbENyVGtMaFZqWWVvQzZ2NTF6NG1QNGZlSlRELUJMX21zb2VOcU5QenRkMG5NMFE?oc=5",
     "title": "엔비디아의 AI 데이터센터 투자금 지원은 \"가치 있는 베팅\" 평가, 고객사 선점에 유리",
     "summary": [
-      "엔비디아의 AI 데이터센터 투자금 지원은 \"가치 있는 베팅\" 평가, 고객사 선점에 유리 비즈니스포스트."
+      "엔비디아의 AI 데이터센터 투자금 지원은 \"가치 있는 베팅\" 평가, 고객사 선점에 유리 businesspost.co.kr."
     ],
     "chips": [
       "#AI",
@@ -31,19 +31,18 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "ndf6b4fc5",
+    "id": "n73d86871",
     "category": "IT",
-    "source": "비즈니스포스트",
-    "time": "10시간 전",
-    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1iU3VyMW9HaWV4blUxUVk4Skh4QlJ3MW9PRUZGY0V4VDhKM25XMmZORTQ4aldYZGwwTUlOVWZ2d1RnUk5RQmhsQzhsY2pvYk9xbGF4Rm5VSkxLVnAzTGJjNjl3ZjNoRW94NDU0WUJBdDJzcTg?oc=5",
-    "title": "영국 FT \"중국 정부 엔비디아 'H200' AI 반도체 반입 허가\", 바이트댄스와 텐센트가 대량 구매",
+    "source": "Chosunbiz",
+    "time": "1일 전",
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPTzVjOFoxQUFvQVkwUlhJamtUVkF2ZXVqWmQycFpCUVAxSWVfdFIwZXJfdHQwaHlnLTl3aGlHMGFULUV2MjRfa2t2d29JR3RUMVdNUk1ESEJMY1RKRHBrR0VzWkhqdHFQcHBjQko2VjR3NHRXZnAwMTZMRzRxdm1mbnZQQ0lFTHFIR25j0gGfAUFVX3lxTE0weXV2MVRFWHhNMml1OTBtQjVMd1ppNUN0Szk3ZGNYXzlBZGYzWUhGLXVjOGN2NlNLcjBZWWVxRUZBck1QamlZUEx4TC1keUtQRjFhVHBVWHFqLVVUQVdaVGtLeUNIRURrdVlOZzlfbE5TWnNFb2FoWkw1MDNCREJrZEVJUGpVVDV2YmVoaW1UN3lNcmhVUWdURV8zSHN5TQ?oc=5",
+    "title": "[현장의 시각] 한국산 AI 반도체, 장밋빛 미래보단 냉정한 현실 파악이 먼저다 - 조선비즈",
     "summary": [
-      "영국 FT \"중국 정부 엔비디아 'H200' AI 반도체 반입 허가\", 바이트댄스와 텐센트가 대량 구매 비즈니스포스트."
+      "[현장의 시각] 한국산 AI 반도체, 장밋빛 미래보단 냉정한 현실 파악이 먼저다 - 조선비즈 Chosunbiz."
     ],
     "chips": [
       "#AI",
-      "#반도체",
-      "#엔비디아"
+      "#반도체"
     ]
   },
   {
@@ -66,12 +65,12 @@ window.NEWS_DB = [
   {
     "id": "nd3f35837",
     "category": "IT",
-    "source": "yna.co.kr",
+    "source": "연합뉴스",
     "time": "1일 전",
     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9tYVpGSGFhVVh0clliVWxETHZzdWRCc2l0ZEhteklhbmhNeHVxXzUxWURrNG54cm5Yem1fcTZLVEVYc3RsZWlEcl9uVDVoNk5ocWNwcmRBNHlCZkHSAWBBVV95cUxPc2VBZkNraE5oc2c4X3J6T0dsX2U2U3cyMC05bnJ3czRUVXpVem5nQ18wcVNhRVV0LXNFckl2cnFLbG4tb1RsbkZYT2lTUVBKSWJQZkxmZFNjTWFwYWg5X0o?oc=5",
     "title": "엔비디아, 오픈AI 데이터센터에 150조원 보증…순환금융 지적도",
     "summary": [
-      "엔비디아, 오픈AI 데이터센터에 150조원 보증…순환금융 지적도 yna.co.kr."
+      "엔비디아, 오픈AI 데이터센터에 150조원 보증…순환금융 지적도 연합뉴스."
     ],
     "chips": [
       "#AI",
@@ -157,12 +156,12 @@ window.NEWS_DB = [
   {
     "id": "nac7d261c",
     "category": "사회",
-    "source": "yna.co.kr",
+    "source": "연합뉴스",
     "time": "19일 전",
     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1wZmd4RTNaSTBwNVNxSm0yRGFySTlYN19qVTZfYzRtVzBzVV9nSnR3RXdYaTNiNkZRX3F6aXhFZTA5ekUxNW9VWHIzZHFjYnoyWU0wVDNoU2FJcVE?oc=5",
     "title": "강남구 일자리통합지원센터, 맞춤형 지원으로 취업자 25.7％ 증가",
     "summary": [
-      "강남구 일자리통합지원센터, 맞춤형 지원으로 취업자 25.7％ 증가 yna.co.kr."
+      "강남구 일자리통합지원센터, 맞춤형 지원으로 취업자 25.7％ 증가 연합뉴스."
     ],
     "chips": [
       "#취업",
@@ -287,12 +286,12 @@ window.NEWS_DB = [
   {
     "id": "nba668fc0",
     "category": "IT",
-    "source": "ikbn.news",
+    "source": "한국방송뉴스",
     "time": "112일 전",
     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1XaThhZXFiX3dDT0NrYVFwZ2dhNTgxbHU0WE5Bc21vcGVzR0d2Wkh2Zm5pS2MyZ1JkYlhHb2VfRkhkemdEX1F6Q1RtajJLRzR6dDdHcExQelAyS2N1OUE?oc=5",
     "title": "1조 8000억 규모 벤처펀드 선정…\"벤처·스타트업에 적시 공급\"",
     "summary": [
-      "1조 8000억 규모 벤처펀드 선정…\"벤처·스타트업에 적시 공급\" ikbn.news."
+      "1조 8000억 규모 벤처펀드 선정…\"벤처·스타트업에 적시 공급\" 한국방송뉴스."
     ],
     "chips": [
       "#스타트업"
@@ -378,30 +377,72 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n4020998c",
-    "category": "스포츠",
-    "source": "머니투데이",
+    "id": "nff48926c",
+    "category": "사회",
+    "source": "뉴시스",
     "time": "1분 전",
-    "url": "https://www.mt.co.kr/society/2026/08/19/2026081922171543072",
-    "title": "82년 한국야구 세계 첫 우승 이끈 어우홍 전 감독 별세…향년 95세",
+    "url": "https://www.newsis.com/view/NISX20260819_0003755044",
+    "title": "[속보]조현 \"北 조속한 대화 복귀 위한 中역할 당부\"…왕이 \"한반도 정책 연속성 유지\"",
     "summary": [
-      "1982년 세계야구선수권대회에서 대한민국을 우승으로 이끈 어우홍 전 감독이 19일 별세했다.",
-      "어 전 감독은 동래중(현 동래고)에서 투수로 야구를 시작해 제 3회 전국지구 대표 중등학교 야구쟁패전(현 황금사자기 전국고교야구대회) 우수선수상을 받았다.",
-      "이후 성균관대를 거쳐 조선전업, 남선전기 등 실업팀에서 뛰다 선수 은퇴 후 지도자 생활을 시작했다."
+      "후속기사가 이어집니다 ◎공감언론 뉴시스 pjh@newsis.com."
     ],
     "chips": [
-      "#KBO",
-      "#고용",
-      "#교육"
+      "#정책"
     ]
   },
   {
-    "id": "n945f7e7a",
-    "category": "스포츠",
+    "id": "na689f76e",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "1분 전",
+    "url": "https://www.donga.com/news/Opinion/article/all/20260819/134508032/2",
+    "title": "[김순덕 칼럼]김민석은 ‘민주당의 한동훈’이 될 수도 있다",
+    "summary": [
+      "“대통령이 아예 아바타 세워놓고 직접 당무 보고 공천도 다 알아서 하겠다는 것 아닌가.” 더불어민주당 김민석 대표 당선에 대한 국민의힘 반응이 아니다.",
+      "2023년 12월 당시 여당 국힘의 비상대책위원장으로 한동훈 법무부 장관이 급부상하자 민주당이 내놨던 논평이다.",
+      "‘조선 제일의 검’ 출신으로 집권당 대표 격에 낙점된 한동훈과 운동권 엘리트 출신으로 당 대표 로망을 이룬 김민석을 동격으로 봤다간 좌우 진영을 격분시킬지 모른다."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n2fcde88e",
+    "category": "경제",
     "source": "뉴시스",
     "time": "2분 전",
-    "url": "https://www.newsis.com/view/NISX20260819_0003755023",
-    "title": "'김도영 37호포' KIA, 한화 6-3 꺾고 4연승 질주",
+    "url": "https://www.newsis.com/view/NISX20260819_0003755036",
+    "title": "日의 1차 대미투자 '멕시코만 원유항 사업', 美법원이 승인 취소",
+    "summary": [
+      "[서울=뉴시스] 김예진 기자 = 도널드 트럼프 미국 행정부와 다카이치 사나에(高市早苗) 일본 정권이 합의한 텍사스주 원유 선적항 건설 프로젝트에 대해 미 법원이 승인을 취소했다고 19일 니혼게이자이신문(닛케이)이 보도했다.",
+      "신문에 따르면 이는 양국이 합의한 5500억 달러(약 763조 원) 규모 일본의 1차 대미 투자 프로젝트 중 하나다.",
+      "사업 비용은 21억 달러(약 2조9140억 원)로 전망됐다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nd5203089",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "4분 전",
+    "url": "https://www.newsis.com/view/NISX20260819_0003755042",
+    "title": "[속보]왕이 \"韓 대통령, 11월 선전 APEC회의 참석시 정상간 회동 적극 고려\"",
+    "summary": [
+      "후속기사가 이어집니다 ◎공감언론 뉴시스 pjh@newsis.com."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n6ecafc75",
+    "category": "스포츠",
+    "source": "뉴시스",
+    "time": "4분 전",
+    "url": "https://www.newsis.com/view/NISX20260819_0003755035",
+    "title": "KIA 4연승·LG 48일 만에 연승…2위 삼성, 1위 KT와 승차 '0'(종합)",
     "summary": [
       "[서울=뉴시스]박윤서 기자 = 프로야구 KIA 타이거즈가 투타의 고른 활약을 앞세워 4연승 행진을 벌였다.",
       "KIA는 19일 대전 한화생명볼파크에서 열린 2026 신한 쏠 KBO리그 한화 이글스와의 원정 경기에서 6-3으로 이겼다.",
@@ -412,213 +453,187 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "neb1211c5",
+    "id": "n8f9afa74",
     "category": "사회",
-    "source": "머니투데이",
-    "time": "3분 전",
-    "url": "https://www.mt.co.kr/politics/2026/08/19/2026081922191188555",
-    "title": "李대통령, 김민석·정청래·송영길과 만찬…\"더 강한 원팀\" 다짐",
+    "source": "동아일보",
+    "time": "4분 전",
+    "url": "https://www.donga.com/news/Opinion/article/all/20260819/134508036/2",
+    "title": "“세상에, 인스타그램은 마약이야” [횡설수설/우경임]",
     "summary": [
-      "[the300] 만찬 메뉴는 각 후보 고향 식재료로 만든 '화합육회' 金 과한 표현 사과, 鄭 정권재창출 합심 강조, 宋 정청래와 오해 풀어 이재명 대통령이 더불어민주당 당 대표 선거에서 경쟁했던 김민석 민주당 대표, 정청래 전 민주당 대표, 송영길 의원 등과 만찬 회동을 가졌다.",
-      "이 자리에서 참석자들은 '더 강한 원팀'으로 거듭나자고 뜻을 모은 것으로 전해진다.",
-      "홍익표 청와대 정무수석은 19일 만찬 관련 서면 브리핑을 통해 \"이 대통령이 당의."
+      "2020년 미국 콜로라도주 여고생이었던 애널리 쇼트는 18세 나이로 세상을 떠났다.",
+      "인스타그램, 틱톡에서 끊임없이 또래 여자아이들의 외모와 비교했고 ‘스스로 못생겼다고 느낀다’고 일기에 썼다.",
+      "그의 부모는 딸이 사망한 뒤에 소셜네트워크서비스(SNS) 계정을 열어봤다가 딸이 겪은 고통을 알게 됐다."
     ],
     "chips": [
-      "#정치"
+      "#뉴스"
     ]
   },
   {
-    "id": "nd132ef5c",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "6분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260819175700071",
-    "title": "美중간선거 경선서 '트럼프 지지' 주지사 후보 2명 희비 엇갈려",
-    "summary": [
-      "(워싱턴=연합뉴스) 박성민 특파원 = 오는 11월 중간선거를 앞두고 플로리다주와 와이오밍주의 주지사 후보를 결정하는 공화당 경선(예비선거)에서 ..."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "nc3fa45c8",
-    "category": "사회",
-    "source": "머니투데이",
-    "time": "6분 전",
-    "url": "https://www.mt.co.kr/politics/2026/08/19/2026081922280658881",
-    "title": "[속보]\"李대통령, 김민석·정청래에 국정 동반자…힘 모아달라\"",
-    "summary": [
-      "[the300] 이재명 대통령, 19일 더불어민주당 당대표 후보 만찬 간담회...."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n5b684cfb",
+    "id": "nedfdfdf2",
     "category": "스포츠",
-    "source": "머니투데이",
-    "time": "6분 전",
-    "url": "https://www.mt.co.kr/sports/2026/08/19/2026081920470670340",
-    "title": "'이럴수가' 김도영을 안 걸러?→9회 스리런포 쾅!→이의리 공 3개로 끝냈다, KIA 파죽의 4연승 질주 [대전 현장리뷰]",
-    "summary": [
-      "주전급이 대거 선발 라인업에서 빠진 KIA 타이거즈가 에이스를 앞세운 한화 이글스를 제압, 위닝시리즈 예약과 동시에 4연승을 내달렸다.",
-      "KIA는 19일 대전 한화생명 볼파크에서 열린 한화와 2026 신한 SOL KBO 리그 정규시즌 원정 경기에서 6-3으로 승리했다.",
-      "이 승리로 KIA는 4연승을 질주하며 58승 48패 2무를 마크했다."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
-    "id": "n51341f13",
-    "category": "사회",
     "source": "조선일보",
     "time": "7분 전",
-    "url": "https://www.chosun.com/entertainments/2026/08/19/R2AUN4HV2NFVTGKRZAHAEYZZ2U/",
-    "title": "아유미, 황정음 과거 폭로 “명품백에 대본 넣고 바쁜 배우인 척”",
+    "url": "https://www.chosun.com/sports/baseball/2026/08/19/MYYDAYJQMI4DOMBXMIYDCYLBG4/",
+    "title": "김도영인데 안 거르고 승부한다고? 이틀 연속 홈런으로 응수했다! 타이거즈 新 진짜 보인다",
     "summary": [
-      "아유미, 황정음 과거 폭로 “명품백에 대본 넣고 바쁜 배우인 척”."
+      "[대전=스포츠조선 이종서 기자] KIA 타이거즈의 김도영이 연이틀 홈런을 날렸다.",
+      "김도영은 19일 대전 한화생명볼파크에서 열린 한화 이글스와의 원정경기에 3번타자 겸 3루수로 선발 출전해 9회초 홈런을 쳤다.",
+      "2-2에서 3-2로 앞서나간 9회초."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "nba73b8e1",
-    "category": "경제",
+    "id": "ne12047fa",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "7분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260819179000007",
+    "title": "2위 삼성, 선두 kt 0.002 차 추격…3위 LG, 48일 만에 2연승(종합)",
+    "summary": [
+      "(서울=연합뉴스) 천병혁 김동한 기자 = 삼성 라이온즈가 선두 탈환을 눈앞에 뒀다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n74be8268",
+    "category": "사회",
     "source": "동아일보",
-    "time": "8분 전",
-    "url": "https://www.donga.com/news/Politics/article/all/20260819/134508325/2",
-    "title": "[속보]김여정 “한미훈련 축소한다고 본질 달라지는 것 아냐”",
+    "time": "7분 전",
+    "url": "https://www.donga.com/news/Opinion/article/all/20260819/134508013/2",
+    "title": "[오늘과 내일/신광영]형사사법 판 바꾸는데 영국 40년 걸렸다",
     "summary": [
-      "김정은 북한 국무위원장의 동생인 김여정 노동당 총무부장이 19일 한미연합훈련 축소 결정과 관련해 “우리는 개별적 훈련의 축소나 단축이 아니라 현재까지 한미 사이의 합동군사연습이 지속적으로 진행 중에 있다는 현실에 주목하고 있다”고 밝혔다.",
-      "19일 조선중앙통신은 “김 부장은 전 지구적인 안보 위기를 가증시키고있는 주요 국제 문제들과 관련해 이날 다음과 같은 입장을 표명했다”며 이같이 보도했다.",
-      "김 부장은 “미국 측이 이번에 취한 자기들의 조치를."
+      "40년 전 영국에선 형사사법 제도의 거대한 실험이 벌어졌다.",
+      "당시 영국 경찰은 무소불위 권력이었다.",
+      "수사와 기소를 모두 독점했다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n8a7018f9",
-    "category": "스포츠",
+    "id": "n7dcd992a",
+    "category": "사회",
     "source": "조선일보",
-    "time": "9분 전",
-    "url": "https://www.chosun.com/sports/baseball/2026/08/19/MUZTGMBSMU4WMZDEGU4DQZJYME/",
-    "title": "어제는 역전타, 오늘은 동점포!...손성빈 동점포 발사! 이틀 연속 롯데시네마 개장 [오!쎈 부산]",
+    "time": "8분 전",
+    "url": "https://www.chosun.com/international/international_general/2026/08/19/HBQTMMZVGY2TKOJRGQZTEODCGU/",
+    "title": "“지금은 한미훈련 줄일 때 아니다”…美 상원의원들, 트럼프에 서한",
     "summary": [
-      "[OSEN=부산, 조형래 기자] 롯데 자이언츠 포수 손성빈이 이틀 연속 결정적인 점수를 뽑아내며 팀을 패배 위기에서 구해냈다.손성빈은 19일 부산 사직구장에서 열린 프로야구 정규시즌 키움 히어로즈와의 경기, 3-4로 역전을 당한 뒤 맞이한 9회말, 1사 주자 없는 상황에서 키움의 마무리로 등판한 원종현을 상대로 좌중간 담장을 넘기는 동점 솔로포를 터뜨렸다."
+      "미국 상원의원들이 도널드 트럼프 대통령의 한미연합훈련 축소 지시에 공개적으로 반발하며 훈련 규모를 원상회복할 것을 촉구했다.",
+      "한미연합훈련 축소가 주한미군과 한국군의 상호운용성과 대비태세를 떨어뜨리고 북한에 잘못된 신호를 줄 수 있다는 이유에서다.",
+      "18일(현지 시각) 미국 공화당 톰 틸리스 상원의원과 민주당 마크 켈리 상원의원은 트럼프 대통령과 피트 헤그세스."
     ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
-    "id": "nb5384eb8",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "9분 전",
-    "url": "https://www.newsis.com/view/NISX20260819_0003755034",
-    "title": "[속보]정청래 \"이재명 정부와 운명 공동체, 총·대선 승리로 정권 재창출\"",
-    "summary": [],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n2c2b69c3",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "10분 전",
-    "url": "https://www.newsis.com/view/NISX20260819_0003755032",
-    "title": "[속보]김민석 \"전당대회 과한 표현 사과해…당 단합·국정운영 뒷받침 함께하자\"",
-    "summary": [],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "ned950eaa",
-    "category": "스포츠",
-    "source": "연합뉴스",
-    "time": "11분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260818172351007",
-    "title": "[프로야구 대전전적] KIA 6-3 한화",
-    "summary": [
-      "[프로야구 대전전적] KIA 6-3 한화."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
-    "id": "na8201b9a",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "12분 전",
-    "url": "https://www.newsis.com/view/NISX20260819_0003755030",
-    "title": "[속보]김여정 \"추가 파병, 전혀 사실 무근…북러 동맹 의무는 무한 책임\"",
-    "summary": [],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n88915d9d",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "12분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260819176900001",
-    "title": "[속보] 金 \"전대 때 과한 표현 사과\"…鄭 \"우린 내란의 사선 넘은 동지\"",
-    "summary": [],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "ncd56bc02",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "13분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260819176700001",
-    "title": "[속보] 靑 \"李대통령-金·鄭·宋, 만찬서 '더 강한 원팀' 공감대\"",
-    "summary": [],
     "chips": [
       "#정치"
     ]
   },
   {
-    "id": "n930bb1e9",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "14분 전",
-    "url": "https://www.chosun.com/entertainments/broadcast/2026/08/19/MJSGGNJSGNQWCN3GMZRWINRWMY/",
-    "title": "오연서, 자극적 썸네일에 깜짝..긴급 해명 \"오해 없으셨으면 한다\"",
+    "id": "nc4498e66",
+    "category": "경제",
+    "source": "연합뉴스",
+    "time": "8분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260819179400009",
+    "title": "뉴욕증시, 美 재무부 '기습 바이백'에 화색…강세 출발",
     "summary": [
-      "[OSEN=장우영 기자] 배우 오연서가 항간에 불거진 오해를 바로 잡았다.19일 오연서는 유튜브 채널에 ‘저 덕후 아닙니다.",
-      "19세 미만 입장 금지’라는 제목의 영상을 공개했다.영상에서 오연서는 “긴급하게 해명할 게 있다.",
-      "덕후가 되기에는 레벨이 부족하다."
+      "(뉴욕=연합뉴스) 진정호 연합인포맥스 특파원 = 뉴욕증시가 동반 강세로 출발했다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "na669a985",
-    "category": "IT",
-    "source": "ZDNet Korea",
-    "time": "15분 전",
-    "url": "https://zdnet.co.kr/view/?no=20260819222035",
-    "title": "발전 5사-주요 대학, 공동 에너지 전환 대응 산학협력 체결",
+    "id": "n214c887c",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "10분 전",
+    "url": "https://www.donga.com/news/Opinion/article/all/20260819/134508029/2",
+    "title": "[광화문에서/조종엽]‘순이 랭면’도 옥류관 냉면도 ‘평냉’도 모두 한민족의 냉면",
     "summary": [
-      "[지디넷코리아]한국남부발전(사장 김준동)을 비롯한 발전 5사(한국남동발전·한국중부발전·한국서부발전·한국남부발전·한국동서발전)는 건국대학교·단국대학교·서울과학기술대학교·서울대학교와 ‘에너지 전환 대응 산학협력 강화를 위한 업무협약’을 체결했다고 밝혔다.이번 협약은 신재생에너지 중심 에너지 전환과 전력시장 구조 변화 등 급변하는 에너지 시장 상황에 발전 5사와 학계가 공동 대응하고, 국가 탄소중립 목표 달성을 위한 정책연구와 미래 인재양성 체계를."
+      "지난달 중국 옌볜(延邊·연변) 조선족자치주 룽징(龍井·용정)시에서 점심으로 먹은 ‘순이 랭면’은 색달랐다.",
+      "물냉면인데도 면은 검고 쫀득했고, 육수는 막국수처럼 새콤했다.",
+      "하지만 시원한 육수에 고명으로 편육과 오이 등을 올린 것을 비롯해, 직관적으로 ‘냉면이구나’ 싶었다."
     ],
     "chips": [
-      "#정책",
-      "#교육",
-      "#환경"
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n794f97d6",
+    "category": "경제",
+    "source": "아시아경제",
+    "time": "10분 전",
+    "url": "https://view.asiae.co.kr/article/2026081923114062289",
+    "title": "美 재무부, 바이백 전격 확대…30년물 10bp 급락",
+    "summary": [
+      "미국 재무부가 장기 국채금리가 19년 만에 최고 수준으로 치솟자 장기물 국채 바이백(매입) 규모를 최소 두 배로 확대하기로 했다.",
+      "재무부의 전격적인 시장 개입에 미국 30년 만기 국채금리는 장중 약 10bp(1bp=0.01%포인트) 급락했다.",
+      "19일(현지시간) 미 재무부와 블룸버그통신 등에 따르면 재무부는 이날 10~20년물과 20~30년물 명목 국채를 대상으로 실시하는 유동성 지원 바이백의 건당 최대 규모를 기존 20억달러에서 최소 40."
+    ],
+    "chips": [
+      "#금리"
+    ]
+  },
+  {
+    "id": "n886509ff",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "11분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260819178400109",
+    "title": "종전 협상은 멈췄지만…러·우크라, 포로 103명씩 맞교환",
+    "summary": [
+      "(로마=연합뉴스) 민경락 특파원 = 러시아와 우크라이나가 전쟁 포로 103명씩을 서로 교환했다고 로이터·AFP 통신 등이 19일(현지시간) 보도..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n14b615b8",
+    "category": "사회",
+    "source": "아시아경제",
+    "time": "12분 전",
+    "url": "https://view.asiae.co.kr/article/2026081923100658437",
+    "title": "李대통령, 金·鄭·宋과 한자리…\"모두가 주역, 더 강한 원팀으로\"",
+    "summary": [
+      "이재명 대통령이 19일 김민석 더불어민주당 신임 대표와 당권을 놓고 경쟁했던 정청래·송영길 의원을 청와대로 초청해 전당대회 과정에서 불거진 갈등 봉합에 나섰다.",
+      "김 대표는 경선 과정의 '과한 표현'을 사과했고 송 의원도 정 의원과의 오해를 풀며 유감을 표명했다.",
+      "이 대통령은 세 사람을 \"생사고락을 함께한 동지\"라며 국정 성과를 위한 '원팀'을 주문했다."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n277783d8",
+    "category": "경제",
+    "source": "아시아경제",
+    "time": "15분 전",
+    "url": "https://view.asiae.co.kr/article/2026081923070954087",
+    "title": "[뉴욕증시]재무부 장기국채 바이백 확대…나스닥 약보합",
+    "summary": [
+      "19일(현지시간) 미국 뉴욕증시의 3대 지수는 혼조세를 보인다.",
+      "미국의 30년 만기 국채 수익률이 19년 만에 최고 수준으로 치솟자 이날 미국 재무부가 장기국채 매입(바이백)을 최소 두 배 늘리겠다고 밝힌 영향이다.",
+      "뉴욕증권거래소(NYSE)에서 오전 9시 57분 현재 다우지수는 전 거래일보다 258.00포인트(0.48%) 상승한 5만3601.40에 거래 중이다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n4eaf80af",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "15분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260819178200099",
+    "title": "짐바브웨 여객선 참사 사망자 94명으로 늘어…\"어린이 30명\"",
+    "summary": [
+      "(요하네스버그=연합뉴스) 나확진 특파원 = 최근 짐바브웨 카리바호수에서 발생한 여객선 전복 사고로 인한 사망자가 94명으로 늘었다."
+    ],
+    "chips": [
+      "#뉴스"
     ]
   }
 ];
@@ -628,8 +643,8 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2070건",
-    "trend": "+215%"
+    "mentions": "2460건",
+    "trend": "+275%"
   },
   {
     "rank": 2,
@@ -640,8 +655,8 @@ window.KEYWORD_TOP = [
   {
     "rank": 3,
     "tag": "KBO",
-    "mentions": "1940건",
-    "trend": "+195%"
+    "mentions": "1420건",
+    "trend": "+115%"
   }
 ];
 // ====AUTO-GENERATED-END====
