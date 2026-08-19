@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-08-19 04:26:15
+// 마지막 업데이트: 2026-08-19 05:19:58
 window.NEWS_DB = [
   {
     "id": "ndf6b4fc5",
     "category": "IT",
     "source": "비즈니스포스트",
-    "time": "1시간 전",
+    "time": "2시간 전",
     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1iU3VyMW9HaWV4blUxUVk4Skh4QlJ3MW9PRUZGY0V4VDhKM25XMmZORTQ4aldYZGwwTUlOVWZ2d1RnUk5RQmhsQzhsY2pvYk9xbGF4Rm5VSkxLVnAzTGJjNjl3ZjNoRW94NDU0WUJBdDJzcTg?oc=5",
     "title": "외신 \"중국 정부 엔비디아 'H200' AI 반도체 반입 허가\", 바이트댄스와 텐센트가 대량 구매",
     "summary": [
@@ -21,7 +21,7 @@ window.NEWS_DB = [
     "id": "n9f6a70b1",
     "category": "IT",
     "source": "비즈니스포스트",
-    "time": "3시간 전",
+    "time": "4시간 전",
     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5mX093cS1PTHJya19vM3ZBSGlEQU95RG1MVkVuOFRmbHBmUGZITGEzTXdSSXplLUVBQ1ktekluZkxfYzJMU2FJX1EyQ0tMWEF0YXhqX3hxbWQ4VGNzVzlCcXZLd2ZXZWttSjFTLU9hbkFoUjA?oc=5",
     "title": "구글 AMD와 차기 AI 반도체 협력 전망, 삼성전자와 SK하이닉스 HBM도 수혜 커지나",
     "summary": [
@@ -38,7 +38,7 @@ window.NEWS_DB = [
     "id": "n73d86871",
     "category": "IT",
     "source": "Chosunbiz",
-    "time": "21시간 전",
+    "time": "22시간 전",
     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPTzVjOFoxQUFvQVkwUlhJamtUVkF2ZXVqWmQycFpCUVAxSWVfdFIwZXJfdHQwaHlnLTl3aGlHMGFULUV2MjRfa2t2d29JR3RUMVdNUk1ESEJMY1RKRHBrR0VzWkhqdHFQcHBjQko2VjR3NHRXZnAwMTZMRzRxdm1mbnZQQ0lFTHFIR25j0gGfAUFVX3lxTE0weXV2MVRFWHhNMml1OTBtQjVMd1ppNUN0Szk3ZGNYXzlBZGYzWUhGLXVjOGN2NlNLcjBZWWVxRUZBck1QamlZUEx4TC1keUtQRjFhVHBVWHFqLVVUQVdaVGtLeUNIRURrdVlOZzlfbE5TWnNFb2FoWkw1MDNCREJrZEVJUGpVVDV2YmVoaW1UN3lNcmhVUWdURV8zSHN5TQ?oc=5",
     "title": "[현장의 시각] 한국산 AI 반도체, 장밋빛 미래보단 냉정한 현실 파악이 먼저다 - 조선비즈",
     "summary": [
@@ -53,7 +53,7 @@ window.NEWS_DB = [
     "id": "n29a690a3",
     "category": "IT",
     "source": "edaily.co.kr",
-    "time": "22시간 전",
+    "time": "23시간 전",
     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQZEV1RDBSdUFyYzdtRHNRMnJCYzVmVVFNd2dleDVseTEyc2dpVEtoVTU4NWpQazYyMXBXdHF1V2tTYVQtR2pEV0dwNjJ3V3dfZlJLbVJyWEJ4bmNhYkUtYW4xU3NPODRvSEYyekF3SHpvazJreThaY2o4VjAyYWhHbA?oc=5",
     "title": "\"K-반도체 슈퍼사이클 지속...내년 HBM4·파운드리 앞세운 삼성전자 질주\"[어쨌든경제]",
     "summary": [
@@ -129,12 +129,12 @@ window.NEWS_DB = [
   {
     "id": "n14e5eed8",
     "category": "IT",
-    "source": "지디넷코리아",
+    "source": "zdnet.co.kr",
     "time": "6일 전",
     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA0QnNPOWgxU3R2U1B4aFlUNjdweHZWUmVTUHV4amc1dURxRUxhbFlBSWxhcEtwR3drUlM4UERTazJHcEhtVzM3Z3R1UVgxTWlJOTBSamF3?oc=5",
     "title": "류제명 차관 \"30년전 네이버처럼...AI 시대 유니콘 탄생 기대\"",
     "summary": [
-      "류제명 차관 \"30년전 네이버처럼...AI 시대 유니콘 탄생 기대\" 지디넷코리아."
+      "류제명 차관 \"30년전 네이버처럼...AI 시대 유니콘 탄생 기대\" zdnet.co.kr."
     ],
     "chips": [
       "#AI",
@@ -160,12 +160,12 @@ window.NEWS_DB = [
   {
     "id": "n062f98b4",
     "category": "부동산",
-    "source": "한국주택경제신문",
+    "source": "arunews.com",
     "time": "18일 전",
     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9Sdmd3SUl0dmRQSWdTck5DVjJ5WXYxTTFmRnBBbEkwa09VclpLd0VsVWFTV2pPRm9sQm1sQmZDb3EyN2lwTVBvZ185RUVycVFnOEdYcHVrcVFnYTdwaGZfUDh2WkFWYndi?oc=5",
     "title": "서울 아파트값 0.25% 상승… 똘똘한 ‘역세권·대단지’가 집값 견인",
     "summary": [
-      "서울 아파트값 0.25% 상승… 똘똘한 ‘역세권·대단지’가 집값 견인 한국주택경제신문."
+      "서울 아파트값 0.25% 상승… 똘똘한 ‘역세권·대단지’가 집값 견인 arunews.com."
     ],
     "chips": [
       "#부동산"
@@ -217,12 +217,12 @@ window.NEWS_DB = [
   {
     "id": "n244b01bd",
     "category": "경제",
-    "source": "스트레이트뉴스",
+    "source": "straightnews.co.kr",
     "time": "63일 전",
     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBCMWo2YXNZMEh0aUhtSDk2czAteEZBVVM4MFVGSmNlREM2bEdPX3NaNFMyMDhNWXp1bllqd1NEbkE5elZZYlhRRnRTNm1OdFFmVmlmQ2o2LTdLZXE3TUw5Mm5uU014MFN5ZFkxXzBPbWxCS3fSAXdBVV95cUxQR1pwdFp0SFJzTkVyR3RtbjVBVm03aGxUS2JURUN6eE1iVDlKazYwZmh5bUxRdU1hQXc3dUIxWXFYRG1XZlA1cHB1S3NVR0pYUExPbEtQMFBxeWp0NnFweW5hM0xOMUNmM2o1cENPdjFqb0Q4SWJkaw?oc=5",
     "title": "미·이란 종전 합의에 금리 전망 변화?…한은 7월 인상론 여전",
     "summary": [
-      "미·이란 종전 합의에 금리 전망 변화?…한은 7월 인상론 여전 스트레이트뉴스."
+      "미·이란 종전 합의에 금리 전망 변화?…한은 7월 인상론 여전 straightnews.co.kr."
     ],
     "chips": [
       "#금리"
@@ -290,12 +290,12 @@ window.NEWS_DB = [
   {
     "id": "nba668fc0",
     "category": "IT",
-    "source": "ikbn.news",
+    "source": "한국방송뉴스",
     "time": "111일 전",
     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1XaThhZXFiX3dDT0NrYVFwZ2dhNTgxbHU0WE5Bc21vcGVzR0d2Wkh2Zm5pS2MyZ1JkYlhHb2VfRkhkemdEX1F6Q1RtajJLRzR6dDdHcExQelAyS2N1OUE?oc=5",
     "title": "1조 8000억 규모 벤처펀드 선정…\"벤처·스타트업에 적시 공급\"",
     "summary": [
-      "1조 8000억 규모 벤처펀드 선정…\"벤처·스타트업에 적시 공급\" ikbn.news."
+      "1조 8000억 규모 벤처펀드 선정…\"벤처·스타트업에 적시 공급\" 한국방송뉴스."
     ],
     "chips": [
       "#스타트업"
@@ -379,264 +379,267 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n801d035f",
+    "id": "n3daf0762",
     "category": "경제",
-    "source": "동아일보",
+    "source": "아시아경제",
+    "time": "방금 전",
+    "url": "https://view.asiae.co.kr/article/2026081914013607330",
+    "title": "80년 전남체육회 역사속으로…광주와 통합 앞두고 '해산·청산' 착수",
+    "summary": [
+      "창립 80주년을 맞은 전라남도체육회가 전남광주통합특별시 출범에 따른 체육단체 통합을 위해 법인 해산과 청산 절차에 착수한다.",
+      "전라남도체육회는 20일 오후 2시 전남체육회관 1층 다목적체육관에서 제64차 이사회를 열고 전남광주 통합체육회 출범을 위한 주요 안건을 심의·의결한다고 19일 밝혔다.이날 이사회엔 송진호 전남체육회장을 비롯한 임원과 각종 위원회 위원장 등 60여 명이 참석해 체육단체 통합 추진 상황을 공유."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nb07b9091",
+    "category": "사회",
+    "source": "뉴시스",
     "time": "2분 전",
-    "url": "https://www.donga.com/news/Economy/article/all/20260819/134502827/1",
-    "title": "원·달러 환율, 1300원대로…작년 10월 이후 처음",
+    "url": "https://www.newsis.com/view/NISX20260819_0003754355",
+    "title": "[부천소식]AI활용 사무원 취업과정 교육 참가자 모집 등",
     "summary": [
-      "원·달러 환율이 10개월여 만에 1300원대로 내려갔다.19일 서울 외환시장에 따르면 이날 낮 12시 2분 원·달러 환율은 1399.0원이다.환율이 1400원대 아래로 내려온 것은 지난해 10월 2일(1399.5원) 이후 10개월여 만에 처음 있는 일이다.수출업체들이 월말 달러 매도 물량을 조기에 내놓으며 달러가 약세 압력을 받는 것으로 보인다.미국 소비자물가지수(CPI)와 생산자물가지수(PPI) 모두 예상치를 밑돌며 연방준비제도(Fed·연준)."
+      "[부천=뉴시스] 김지현 기자 = 경기 부천시는 인공지능(AI) 활용 사무 역량을 갖춘 인재 양성을 위해 'AI 플랫폼 기반 원격 근무 전문가 사무원 취업과정' 교육 참가자를 모집한다고 19일 밝혔다.",
+      "교육은 AI 명령어 작성부터 엑셀 업무 자동화, 데이터 분석·시각화, 기업·직무 분석 등 실제 사무업무에 적용할 수 있는 실습 중심으로 진행된다.",
+      "교육비는 전액 무료이며, 수료 이후 기업의 구인 수요와 연계한 취업 지원과 사후 관리도 제공된다."
     ],
     "chips": [
-      "#환율",
-      "#수출"
-    ]
-  },
-  {
-    "id": "naa5ad8c7",
-    "category": "경제",
-    "source": "아시아경제",
-    "time": "2분 전",
-    "url": "https://view.asiae.co.kr/article/2026081913141688821",
-    "title": "“더위야 안녕”… 렛츠런파크 부경, ‘SUN 더 워터페스티벌’ 성료",
-    "summary": [
-      "렛츠런파크 부산경남이 가족 단위 방문객을 겨냥해 마련한 여름 물놀이 축제가 어린이들의 웃음 속에 막을 내렸다.",
-      "한국마사회 렛츠런파크 부산경남은 지난 7월 4일부터 8월 17일까지 주말을 중심으로 총 13일간 운영한 'SUN 더 워터페스티벌'을 성공적으로 마무리했다고 19일 전했다.",
-      "렛츠런파크 부산경남은 매년 여름 물놀이 콘텐츠를 선보이며 가족 단위 고객들이 부담 없이 즐길 수 있는 여름 나들이 공간을 마련하고 있다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n39fa1f43",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "3분 전",
-    "url": "https://www.newsis.com/view/NISX20260819_0003754249",
-    "title": "거창군, 지방공기업 고객만족도 '상하수도' 경남도내 1위",
-    "summary": [
-      "[거창=뉴시스] 서희원 기자 = 경남 거창군은 행정안전부와 지방공기업 평가원이 실시한 '지난해 지방공기업 경영평가 고객만족도조사' 결과 상수도·하수도 분야 경남도내 1위를 차지했다고 19일 밝혔다.",
-      "이번 조사는 지방공기업 경영평가 대상 기관인 전국 392개 기관(광역 64곳, 기초 328곳)을 대상으로 4월10일부터 지난달 30일까지 실시됐다.",
-      "상·하수도를 이용하는 일반 거주민 각 200명을 대상으로 구조화된 설문지를 활용한 전화조사로 진행됐다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "ne1447986",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "4분 전",
-    "url": "https://www.chosun.com/sports/baseball/2026/08/19/MRSTEY3EGJSWIODGGRTGCMRQHE/",
-    "title": "\"좋지도 않은 직구 왜 던지나\" 자신 비판한 유튜버에 직접 등판한 임찬규, 분석 영상도 봤다는데...",
-    "summary": [
-      "[스포츠조선 김용 기자] \"전적으로 존중한다.",
-      "잘 봤다.\" LG 트윈스 임찬규는 18일 잠실구장에서 열린 KT 위즈전에 선발로 등판, 6이닝 1실점 호투를 펼치며 팀의 9대1 승리를 이끌었다.",
-      "지난달 30일 키움 히어로즈전 승리 투수가 되며 시즌 10승을 달성했고, 11승째를 채우며 올시즌 LG의 에이스임을 확실하게 증명했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nad186cc8",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "4분 전",
-    "url": "https://www.newsis.com/view/NISX20260819_0003753633",
-    "title": "13세 소녀 숨지자…브라질서 디스코드 '라이브 스트리밍' 전면 중단",
-    "summary": [
-      "[서울=뉴시스]이준형 인턴 기자 = 세계적인 메신저 플랫폼 디스코드가 청소년 보호 조치가 미흡하다는 브라질 당국의 제재에 따라 브라질 내 라이브 스트리밍 서비스를 전면 중단했다.",
-      "18일(현지 시간) AP통신에 따르면 디스코드는 브라질 국가데이터보호청(ANPD)의 서비스 정지 명령을 받아들여 브라질 이용자 대상의 라이브 스트리밍 기능을 중단했다고 밝혔다.",
-      "디스코드 측은 \"브라질 이용자를 위해 관련 기능을 재개할 수 있는 해결책을 모색하고 있다\"며."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n03588d7b",
-    "category": "경제",
-    "source": "아시아경제",
-    "time": "4분 전",
-    "url": "https://view.asiae.co.kr/article/2026081913215246262",
-    "title": "변리사회-중국상표협회, 'K브랜드' 보호에 맞손",
-    "summary": [
-      "중국 현지 내 'K브랜드' 보호를 위해 한국과 중국 간 상표 전문 기관이 손을 맞잡았다.",
-      "내년 중국 상표법 개편에 대응해 관련 정보를 공유하고, 전문가 협력체계 강화로 K브랜드 보호에 실효성을 높인다는 취지에서다.",
-      "대한변리사회는 18일 대한변리사회관에서 중국상표협회와 양국 기업의 상표·브랜드 보호 및 상표제도 발전에 상호 협력하는 내용의 업무협약을 체결했다고 밝혔다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "ncd6aef41",
-    "category": "스포츠",
-    "source": "뉴시스",
-    "time": "4분 전",
-    "url": "https://www.newsis.com/view/NISX20260819_0003754221",
-    "title": "윤민섭 작가, 인천공항서 공공예술 협력전시 ‘박새의 여행’",
-    "summary": [
-      "[서울=뉴시스] 홍찬선 기자 = 인천국제공항공사는 경기문화재단과 공공예술 협력사업 다섯 번째 전시인 윤민섭 작가의 '박새의 여행'을 인천공항 제2여객터미널에서 선보인다고 19일 밝혔다.",
-      "이번 전시는 제2여객터미널 서편 탑승구역에서 진행된다.",
-      "전시기간은 19일부터 오는 12월16일까지 약 4개월간 무료로 진행된다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n735a2284",
-    "category": "경제",
-    "source": "아시아경제",
-    "time": "5분 전",
-    "url": "https://view.asiae.co.kr/article/2026081913054417414",
-    "title": "“찰나의 질주를 담아라”… 렛츠런파크 부경, 말 사진 공모전",
-    "summary": [
-      "렛츠런파크 부산경남이 대상경주 현장을 찾는 관람객을 대상으로 말 사진 공모전을 연다.",
-      "한국마사회 렛츠런파크 부산경남은 오는 9월 11일 열리는 제3회 강서구청장배 대상경주를 맞아 말 사진 공모전 '마(馬)생샷을 잡아라'를 개최한다고 19일 전했다.",
-      "이번 공모전은 대상경주 당일 현장에서 참가자들이 직접 촬영한 사진을 대상으로 심사하는 방식으로 진행된다."
-    ],
-    "chips": [
-      "#채용"
-    ]
-  },
-  {
-    "id": "n2b2de791",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "5분 전",
-    "url": "https://www.newsis.com/view/NISX20260819_0003754215",
-    "title": "中쓰촨성서 대학 입학 잔치하다 벽 무너져 5명 사망",
-    "summary": [
-      "[베이징=뉴시스]박정규 특파원 = 중국 서남부 쓰촨성에서 자녀의 대학 입학을 축하하는 잔치를 벌이다 벽이 무너져 5명이 사망하는 사고가 발생했다고 19일 관영 신화통신 등이 보도했다.",
-      "보도에 따르면 전날 오후 5시30분께 쓰촨성 창닝현 한 마을의 가정집 마당 1층 지붕의 난간벽이 붕괴되는 사고가 일어났다고 창닝현 비상관리국이 밝혔다.",
-      "해당 사고는 임시로 설치한 차양에 빗물이 과도하게 고여 이를 고정하던 밧줄의 장력이 커지면서 벌어졌다."
-    ],
-    "chips": [
+      "#AI",
+      "#채용",
+      "#취업",
       "#교육"
     ]
   },
   {
-    "id": "n52f35def",
-    "category": "경제",
-    "source": "연합뉴스(경제)",
-    "time": "9분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260819091700017",
-    "title": "인투셀, 연내 ADC 파이프라인 5개 추가…\"2개 발굴 완료\"",
+    "id": "n52bf7f73",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "2분 전",
+    "url": "https://www.newsis.com/view/NISX20260819_0003754351",
+    "title": "'소나무재선충병과의 전쟁' 태안, 드론 방제…2차 띄운다",
     "summary": [
-      "(서울=연합뉴스) 신선미 기자 = 박태교 인투셀[287840] 대표는 19일 \"신규 타깃 발굴 등을 통해 연내 5개 파이프라인을 추가할 계획\"이..."
+      "[태안=뉴시스]김덕진 기자 = 지난 12일 소나무재선충병과의 전쟁을 선포한 충남 태안군은 1차 드론 방제를 마쳤다고 19일 밝혔다.",
+      "이번 1차 방제는 지난 18일 근흥면 도황리와 백화산 등 총 79㏊를 대상으로 매개충이 다수 분포하는 신규 발생지와 사각지대를 우선 선정해 이뤄졌다.",
+      "전체 산림면적(2만1708㏊) 69%인 1만5057㏊가 소나무림으로 구성된 군은 현재 기후변화 등으로 20만 그루가 재선충병에 감염된 것으로 추정되고 있는 가운데 확."
+    ],
+    "chips": [
+      "#환경"
+    ]
+  },
+  {
+    "id": "ne609d521",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "2분 전",
+    "url": "https://www.newsis.com/view/NISX20260819_0003754335",
+    "title": "한양대, 학생 주도 '지역 상권 활성화 프로젝트' 일본으로 확장",
+    "summary": [
+      "[서울=뉴시스]박시은 인턴 기자 = 한양대학교 글로벌사회혁신단이 국내에서 진행해 온 학생 주도형 지역 상권 활성화 프로젝트를 일본 오사카 현지로 확장했다.",
+      "19일 한양대에 따르면 글로벌사회혁신단은 '지속가능한 ESG(환경·사회·지배구조) 리더과정 3.0' 2기 심화 과정의 연계 프로그램으로, 지난달 27일부터 29일까지 오사카에서 '오사카대학교 교류회'를 운영했다.",
+      "글로벌사회혁신단은 서울청년센터 성동과의 협력을 바탕으로 지난 5월 2기 심화 과."
+    ],
+    "chips": [
+      "#교육",
+      "#환경"
+    ]
+  },
+  {
+    "id": "n8e9b52f6",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "2분 전",
+    "url": "https://www.newsis.com/view/NISX20260819_0003754327",
+    "title": "\"중고거래 사이트에 내 지갑이\"…만취자에게서 훔쳐 팔다 덜미",
+    "summary": [
+      "[대전=뉴시스]김도현 기자 = 만취해 길가에 누워있던 시민에게서 명품 지갑과 백화점 상품권을 훔쳐 중고거래를 시도한 30대가 불구속 송치됐다.",
+      "대전 둔산경찰서는 최근 절도 혐의를 받는 30대 남성 A씨를 불구속 송치했다고 19일 밝혔다.",
+      "A씨는 지난 6월 27일 오전 4시께 대전 서구의 한 골목길에서 오토바이를 운전하던 중 누워있던 20대 B씨를 깨우며 명품 지갑과 백화점 상품권 약 17만원 상당을 훔친 혐의를 받고 있다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "ne539ad84",
+    "id": "na0e8b6a0",
     "category": "경제",
+    "source": "머니투데이",
+    "time": "3분 전",
+    "url": "https://www.mt.co.kr/living/2026/08/19/2026081914071054856",
+    "title": "점포 늘리기보다 매출 높이기...세븐일레븐, 수익성 강화 승부수",
+    "summary": [
+      "11분기 만에 흑자 전환에 성공한 세븐일레븐이 하반기 질적 성장에 집중한다.",
+      "편의점 시장이 포화 상태에 접어든 만큼 무리한 점포 수 확대보다 기존 점포의 수익성을 높이는 데 초점을 맞춘다.",
+      "점포 리뉴얼과 상품 경쟁력 강화를 통해 흑자 기조를 이어간다는 구상이다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "neb82a73f",
+    "category": "사회",
     "source": "아시아경제",
-    "time": "11분 전",
-    "url": "https://view.asiae.co.kr/article/2026081913144601032",
-    "title": "20일 오후 2시 전국 민방위 훈련…긴급차량 길 터주기 훈련 실시",
+    "time": "3분 전",
+    "url": "https://view.asiae.co.kr/article/2026081914152918658",
+    "title": "수능 대구 인문계열 수석 박지원, 모교 경북고 방문 장학금 500만원 기탁",
     "summary": [
-      "내일(20일) 오후 2시부터 20분간 전국에서 공습 상황을 가정한 민방위 훈련을 실시한다.",
-      "이번 민방위 훈련은 공습경보, 경계경보, 경보해제 순으로 진행된다.",
-      "오후 2시 정각 공습경보 사이렌이 울리면 모든 국민들은 즉시 가까운 민방위 대피소나 인근 지하공간으로 대피해야 한다.이어 오후 2시15분 경계경보가 발령되면 대피소에서 나와 경계 태세를 유지하며 통행할 수 있으며, 2시20분 경보해제와 함께 모든 훈련이 종료된다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n53e93f11",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "11분 전",
-    "url": "https://www.chosun.com/sports/sports_general/2026/08/19/MQYDSNDGGA3DENZVGM2TGOBYGY/",
-    "title": "'DN 수퍼스'의 반란…6연승으로 '2026 LoL KeSPA컵' 제패",
-    "summary": [
-      "DN 수퍼스가 '2026 LoL KeSPA컵' 정상에 오르며 LCK 플레이오프 탈락의 아쉬움을 만회했다.",
-      "1군 멤버가 모두 나선 DN은 지난 18일 대전이스포츠경기장에서 열린 KeSPA컵 결승에서 역시 1군 선수가 주축이 된 농심 레드포스를 세트스코어 3대 0으로 꺾고 우승 트로피를 들어 올렸다.",
-      "파이널 스테이지에 진출한 뒤 6경기를 모두 승리하며 대회 내."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nc7e7e8c7",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "12분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260819094100005",
-    "title": "[부고] 신세훈(시인·전 한국문인협회 이사장)씨 별세",
-    "summary": [
-      "[부고] 신세훈(시인·전 한국문인협회 이사장)씨 별세."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n9fc020d6",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "12분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260819085700005",
-    "title": "[공연소식] 국립국악원 창작악단, 국악기 협주곡 5편 초연",
-    "summary": [
-      "(서울=연합뉴스) 권지현 기자 =."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n2ff00be3",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "17분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260819091900064",
-    "title": "\"농어촌기본소득 내년엔 꼭…\" 영동군, 인프라 구축 안간힘",
-    "summary": [
-      "(영동=연합뉴스) 박병기 기자 = 충북 영동군이 농어촌 기본소득 시범사업에 공을 들이고 있다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nb3ba66f9",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "24분 전",
-    "url": "https://www.donga.com/news/Society/article/all/20260819/134502683/1",
-    "title": "정은경 “기초연금 하후상박 내년 시행 목표…중증응급 전 단계 강화”",
-    "summary": [
-      "정은경 보건복지부 장관은 기초연금을 저소득층에게 더 많이 보장하는 방식의 하후상박 개편을 추진하는 한편 현장 이송부터 최종치료까지 중증응급 의료체계 전 단계를 강화하겠다고 밝혔다.정 장관은 19일 오전 국회 보건복지위원회에서 열린 전체회의에 참석해 업무보고를 했다.",
-      "이날 회의는 하반기 국회 복지위가 구성된 이후 처음 열린 자리다.정 장관은 “복지부는 생명존중 복지국가, 함께 도약하는 대한민국을 비전으로 삶을 지키는 사회안전망 생명을 살리는 지역."
+      "올해 대구 경북고등학교를 졸업한 박지원 학생이 지난 18일 모교를 방문해 장학금 500만원을 기탁했다.",
+      "박지원 학생은 2026학년도 수능 대구지역 인문계열 수석을 차지하고 서울대 정치외교학부에 입학해 학업을 이어가고 있다.",
+      "박지원 학생은 \"고등학교 3년 동안 받은 장학금 덕분에 학업에만 오롯이 전념할 수 있었다."
     ],
     "chips": [
       "#정치",
+      "#교육"
+    ]
+  },
+  {
+    "id": "nb6c38913",
+    "category": "사회",
+    "source": "아시아경제",
+    "time": "4분 전",
+    "url": "https://view.asiae.co.kr/article/2026081914001662189",
+    "title": "을지연습 비상근무중인데…만취 음주운전중 사고낸 경찰 적발",
+    "summary": [
+      "을지연습으로 경찰 전역에 비상근무가 내려진 기간에 현직 경찰관이 만취 상태로 차를 몰다 사고를 내 경찰에 붙잡혔다.광주 광산경찰서는 도로교통법 위반(음주운전) 혐의로 광주 서부경찰서 소속 30대 A 경장을 불구속 입건해 조사 중이라고 19일 밝혔다.",
+      "A 경장은 이날 오전 3시께 전남광주 광산구 신가동의 한 도로에서 술에 취한 상태로 자신의 승용차를 운전한 혐의를 받는다.",
+      "당시 홀로 차량을 몰던 A 경장은 차선을 오가며."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n0a3d6ac0",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "4분 전",
+    "url": "https://www.donga.com/news/Society/article/all/20260819/134503301/1",
+    "title": "“리센느 원이 덕에 북적였는데…” 폭우 할퀸 덕포해수욕장 ‘아수라장’",
+    "summary": [
+      "“올해는 원이 덕에 관광객이 많았는데 비 때문에 해수욕장이 이렇게 됐네요.”19일 경남 거제시 옥포2동 하덕마을 덕포해수욕장에서 만난 매점 상인 이영호 씨(80)는 폭우에 망가진 백사장을 바라보며 연신 한숨을 내쉬었다.광복절 연휴에 쏟아진 기록적인 폭우로 해수욕장은 곳곳이 깊게 파이고 각종 부유물이 뒤엉켜 아수라장이 돼 있었다.모래사장에는 폭우에 떠내려온 나뭇가지와 잡초, 쓰레기가 길게 띠를 이루며 쌓였다.",
+      "거센 물살이 훑고 지나간 곳에는 모래."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n6ec04071",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "5분 전",
+    "url": "https://www.chosun.com/kid/kid_cartoon-quiz/kid_puzzle-game/2026/08/19/MYAAB7DNEZEJ7G6ADTFF4RPP6A/",
+    "title": "[초·고]열세 살 우리의 이야기",
+    "summary": [
+      "[초·고]열세 살 우리의 이야기."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n03515d9a",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "6분 전",
+    "url": "https://www.chosun.com/politics/assembly/2026/08/19/TZ46GMZLWFFZZLNYQOWUCSXR7U/",
+    "title": "법사위, ‘대법관 서면 제청’ 조희대 대법원장 출석 요구안 의결",
+    "summary": [
+      "법사위, ‘대법관 서면 제청’ 조희대 대법원장 출석 요구안 의결."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n6c226327",
+    "category": "IT",
+    "source": "조선일보",
+    "time": "6분 전",
+    "url": "https://www.chosun.com/economy/economy_general/2026/08/19/KAFC3LMRFZE5PHJZT627KUIKOQ/",
+    "title": "KDI, 올해 성장률 전망치 3.2%로 0.7%p↑ “0.6%p가 반도체 영향”",
+    "summary": [
+      "KDI, 올해 성장률 전망치 3.2%로 0.7%p↑ “0.6%p가 반도체 영향”."
+    ],
+    "chips": [
+      "#반도체"
+    ]
+  },
+  {
+    "id": "n87727513",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "6분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260819105500055",
+    "title": "농진청 \"반려견 사료에 '참풀가사리' 넣으면 무기물 소화율↑\"",
+    "summary": [
+      "(전주=연합뉴스) 정경재 기자 = 우리나라 연안에 자생하는 홍조류인 '참풀가사리'를 넣은 사료를 먹은 반려견의 무기물질 소화율이 유의미하게 증가..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n2466288c",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "6분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260819100600052",
+    "title": "거제·통영, 극한호우 뒤 다시 폭염…수해 복구작업 애로",
+    "summary": [
+      "(거제·통영=연합뉴스) 정종호 기자 = 광복절 연휴 900㎜가 넘는 극한호우로 극심한 피해가 발생한 경남 거제와 통영에 비가 그친 뒤 다시 무더..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n4c024e25",
+    "category": "스포츠",
+    "source": "연합뉴스",
+    "time": "6분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260819105200060",
+    "title": "동두천휴양림, 전국 최초 공공형 로컬 연결 플랫폼 '숲픽' 운영",
+    "summary": [
+      "(동두천=연합뉴스) 노승혁 기자 = 경기 동두천자연휴양림이 지역 소상공인과 상생하는 공공형 로컬 연결 플랫폼 '숲픽(SOOP PICK)'을 선보..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "ncec01a97",
+    "category": "경제",
+    "source": "아시아경제",
+    "time": "7분 전",
+    "url": "https://view.asiae.co.kr/article/2026081814153967507",
+    "title": "17년의 얼굴, 60년의 발걸음[슬레이트]",
+    "summary": [
+      "1960년 도쿄농업대학을 갓 졸업한 스물세 살 청년은 홀로 카메라를 들고 미나마타로 향했다.",
+      "친구가 건넨 잡지에 실린 미나마타병 르포를 읽고 취재를 결심했다.",
+      "그의 이름은 구와바라 시세이."
+    ],
+    "chips": [
+      "#교육",
       "#의료"
     ]
   },
   {
-    "id": "n8e03e18b",
-    "category": "경제",
-    "source": "연합뉴스(경제)",
-    "time": "25분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260819046500003",
-    "title": "암참, 구윤철 부총리 초청 간담회…3천500억 달러 전략적 투자 이행 논의",
+    "id": "n640f4d71",
+    "category": "사회",
+    "source": "머니투데이",
+    "time": "7분 전",
+    "url": "https://www.mt.co.kr/society/2026/08/19/2026081914020644955",
+    "title": "아이들은 자정까지 학원 뺑뺑이…아내 휴대폰엔 \"자기야, 오늘도 그 시간?\"",
     "summary": [
-      "(서울=연합뉴스) 김민지 기자 = 주한미국상공회의소(이하 암참)은 서울 용산구 그랜드 하얏트 서울 호텔에서 구윤철 부총리 겸 재정경제부 장관 초..."
+      "자녀들이 학원에 간 사이 다른 남성을 만나는 등 외도를 이어온 아내와 이혼하려는 남편의 사연이 알려졌다.",
+      "19일 YTN 라디오 '조인섭 변호사의 상담소'에는 결혼 14년 차로, 초등학교 6학년 딸과 4학년 아들을 둔 아빠 A씨의 사연이 소개됐다.",
+      "A씨는 평범한 직장인으로, 전업주부인 아내에게 그동안 집안일과 자녀 교육을 맡겨왔다."
     ],
     "chips": [
-      "#뉴스"
+      "#교육"
     ]
   }
 ];
@@ -646,20 +649,20 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2850건",
-    "trend": "+335%"
+    "mentions": "2460건",
+    "trend": "+275%"
   },
   {
     "rank": 2,
     "tag": "AI",
-    "mentions": "1810건",
-    "trend": "+175%"
+    "mentions": "1940건",
+    "trend": "+195%"
   },
   {
     "rank": 3,
     "tag": "반도체",
-    "mentions": "1680건",
-    "trend": "+155%"
+    "mentions": "1810건",
+    "trend": "+175%"
   }
 ];
 // ====AUTO-GENERATED-END====
