@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-08-19 17:17:27
+// 마지막 업데이트: 2026-08-19 18:18:09
 window.NEWS_DB = [
   {
     "id": "n9f012d76",
     "category": "IT",
     "source": "뉴시스",
-    "time": "10시간 전",
+    "time": "11시간 전",
     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9NUS1xeGF1Wkdibll3b0tDU2dVTHpmNW5zaU14RENwcTRpd29pbVNCYy1mUG51YUNyMVNVVzByUkUtYVkwczZveUdENTEwaktRRENPNWZsNmc5ZV9rdDlHbnZaRmM2bTJSOWo2V1JkRklOU0JpMTlJM9IBeEFVX3lxTE9NUS1xeGF1Wkdibll3b0tDU2dVTHpmNW5zaU14RENwcTRpd29pbVNCYy1mUG51YUNyMVNVVzByUkUtYVkwczZveUdENTEwaktRRENPNWZsNmc5ZV9rdDlHbnZaRmM2bTJSOWo2V1JkRklOU0JpMTlJMw?oc=5",
     "title": "수십년 경쟁한 韓·대만, AI 시대엔 '한 팀'…\"서로 없인 못 만들어\"",
     "summary": [
@@ -19,7 +19,7 @@ window.NEWS_DB = [
     "id": "n60102c3f",
     "category": "IT",
     "source": "비즈니스포스트",
-    "time": "11시간 전",
+    "time": "12시간 전",
     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5FdnkxZUE2bDNoa3Y0MHVlcVZoTi1HZHdmNFJBM24yNk1GNVBiRXQzWWNHS2lTNWJWRjlobE9DUlBGYkVtbENyVGtMaFZqWWVvQzZ2NTF6NG1QNGZlSlRELUJMX21zb2VOcU5QenRkMG5NMFE?oc=5",
     "title": "엔비디아의 AI 데이터센터 투자금 지원은 \"가치 있는 베팅\" 평가, 고객사 선점에 유리",
     "summary": [
@@ -65,12 +65,12 @@ window.NEWS_DB = [
   {
     "id": "nd3f35837",
     "category": "IT",
-    "source": "yna.co.kr",
+    "source": "연합뉴스",
     "time": "1일 전",
     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9tYVpGSGFhVVh0clliVWxETHZzdWRCc2l0ZEhteklhbmhNeHVxXzUxWURrNG54cm5Yem1fcTZLVEVYc3RsZWlEcl9uVDVoNk5ocWNwcmRBNHlCZkHSAWBBVV95cUxPc2VBZkNraE5oc2c4X3J6T0dsX2U2U3cyMC05bnJ3czRUVXpVem5nQ18wcVNhRVV0LXNFckl2cnFLbG4tb1RsbkZYT2lTUVBKSWJQZkxmZFNjTWFwYWg5X0o?oc=5",
     "title": "엔비디아, 오픈AI 데이터센터에 150조원 보증…순환금융 지적도",
     "summary": [
-      "엔비디아, 오픈AI 데이터센터에 150조원 보증…순환금융 지적도 yna.co.kr."
+      "엔비디아, 오픈AI 데이터센터에 150조원 보증…순환금융 지적도 연합뉴스."
     ],
     "chips": [
       "#AI",
@@ -156,12 +156,12 @@ window.NEWS_DB = [
   {
     "id": "nac7d261c",
     "category": "사회",
-    "source": "yna.co.kr",
+    "source": "연합뉴스",
     "time": "19일 전",
     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1wZmd4RTNaSTBwNVNxSm0yRGFySTlYN19qVTZfYzRtVzBzVV9nSnR3RXdYaTNiNkZRX3F6aXhFZTA5ekUxNW9VWHIzZHFjYnoyWU0wVDNoU2FJcVE?oc=5",
     "title": "강남구 일자리통합지원센터, 맞춤형 지원으로 취업자 25.7％ 증가",
     "summary": [
-      "강남구 일자리통합지원센터, 맞춤형 지원으로 취업자 25.7％ 증가 yna.co.kr."
+      "강남구 일자리통합지원센터, 맞춤형 지원으로 취업자 25.7％ 증가 연합뉴스."
     ],
     "chips": [
       "#취업",
@@ -199,12 +199,12 @@ window.NEWS_DB = [
   {
     "id": "n64dc67f5",
     "category": "IT",
-    "source": "유니콘팩토리",
+    "source": "unicornfactory.co.kr",
     "time": "58일 전",
     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1ORFIxM2VUWmNQaWh2Z0xiY2xXeUlzZFZvT3l4dGwyNFdvdXlyZ0lJdGtNT2cyYjFaU0pNX0FUcnRQelZxZzBXZDZ0Qi1OSWt4V3lCUFRhWXBYZ0g1M0EzTVVmMTZTVEVIeW5ISA?oc=5",
     "title": "수도권 쏠림 깨기 나선 중기부…창업도시 4곳서 스타트업 278곳 키운다",
     "summary": [
-      "수도권 쏠림 깨기 나선 중기부…창업도시 4곳서 스타트업 278곳 키운다 유니콘팩토리."
+      "수도권 쏠림 깨기 나선 중기부…창업도시 4곳서 스타트업 278곳 키운다 unicornfactory.co.kr."
     ],
     "chips": [
       "#스타트업"
@@ -331,7 +331,7 @@ window.NEWS_DB = [
     "id": "n94145389",
     "category": "IT",
     "source": "테크M",
-    "time": "방금 전",
+    "time": "3분 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=154440",
     "title": "[카드뉴스] AI 회사 향하는 통신3사...SKT·KT·LGU+가 꺼낸 무기는 달랐다",
     "summary": [
@@ -345,10 +345,234 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "nbfca0772",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "18분 전",
+    "url": "https://www.newsis.com/view/NISX20260819_0003754773",
+    "title": "35년 전 '초코바' 발견하고 깜짝…\"지금보다 훨씬 크네\" 슈링크플레이션 실감",
+    "summary": [
+      "[서울=뉴시스]김혜경 기자 = 영국의 한 청소업체 직원이 35년 전 생산된 초콜릿바를 발견한 뒤 현재 판매되는 제품과 크기를 비교한 사진을 공개해 '슈링크플레이션'(shrinkflation)을 실감하게 했다.",
+      "최근 미국 뉴욕포스트에 따르면 영국 링컨셔에서 특수 청소업체를 운영하는 빅토리아 고든(44)은 이달 초 한 저장강박증 환자의 집을 청소하던 중 1991년 생산된 것으로 보이는 '마스(Mars)바'를 발견했다.",
+      "마스바는 캐러멜과 누가를 밀크."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nf5f2cd1f",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "18분 전",
+    "url": "https://www.newsis.com/view/NISX20260819_0003754672",
+    "title": "지하철서 울던 직장인에 사탕 건넨 아이…\"내일도 버틸 용기 생겼어요\"",
+    "summary": [
+      "[서울=뉴시스]전민영 인턴 기자 = 직장 내 따돌림으로 힘든 시간을 보내던 한 여성이 퇴근길 지하철에서 눈물을 흘리던 중 이름 모를 어린아이에게 사탕을 건네받고 위로받았다는 사연이 전해졌다.",
+      "13일 직장인 커뮤니티 리멤버에는 '지하철에서 울고 있는 여자에게 사탕 주신 분'이라는 제목의 글이 올라왔다.",
+      "작성자 A씨는 최근 팀원들과 관계가 틀어지면서 은근한 따돌림을 겪고 있다고 털어놨다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n7eaa190a",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "18분 전",
+    "url": "https://www.chosun.com/national/2026/08/20/GGMPTVNQDFCOTOQ5CPZSRFIFGE/",
+    "title": "[굿모닝 멤버십] “그냥 하던 대로” 선택한 리더의 최후",
+    "summary": [
+      "[굿모닝 멤버십] “그냥 하던 대로” 선택한 리더의 최후."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nee410b38",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "18분 전",
+    "url": "https://www.chosun.com/international/china/2026/08/20/7VCMN53BWNH2DOYV47ZUMWVHTE/",
+    "title": "중국산 DUV 5대 생산에… ‘삼전닉스’ 주가 30% 날아갔다",
+    "summary": [
+      "중국산 DUV 5대 생산에… ‘삼전닉스’ 주가 30% 날아갔다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n3f4e493a",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "18분 전",
+    "url": "https://www.chosun.com/economy/weeklybiz/2026/08/20/RKURBH4QUNDN5C53HN6ZEOJDTE/",
+    "title": "왜 우리는 불리한 상황에서도 ‘기존대로’를 고집할까?",
+    "summary": [
+      "왜 우리는 불리한 상황에서도 ‘기존대로’를 고집할까?."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nc5c03a24",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "18분 전",
+    "url": "https://www.chosun.com/culture-life/book/2026/08/20/SE7OTNI44VF5RJ2XX4JB72HKKY/",
+    "title": "[42화] 모든 퍼즐이 맞춰졌다",
+    "summary": [
+      "[42화] 모든 퍼즐이 맞춰졌다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n0e20ae1a",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "30분 전",
+    "url": "https://www.newsis.com/view/NISX20260820_0003755060",
+    "title": "빅터 차 \"트럼프 이란엔 핵 보유 불허…北엔 타협적 접근법 취해\"",
+    "summary": [
+      "[서울=뉴시스] 김예진 기자 = 도널드 트럼프 미국 대통령이 비핵화를 둘러싸고 북한과 이란에 다르게 접근하고 있는 것은 논리적이라는 분석이 나왔다.",
+      "빅터 차 미국 전략국제문제연구소(CSIS) 한국석좌는 19일(현지 시간) 워싱턴포스트(WP)에 기고한 글에서 \"미국의 핵 비확산 정책에서 한 가지 일관된 점이 있다면 바로 일관성이 없다는 것\"이라며 이같이 분석했다.",
+      "차 석좌는 리비아 비핵화 이후 미국 정부가 모든 비핵화에 대해 리비아에서 성공한 '."
+    ],
+    "chips": [
+      "#정책",
+      "#정치"
+    ]
+  },
+  {
+    "id": "n811059ea",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "36분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260820003600108",
+    "title": "산유국 러시아, 공급 위기 못버티고 연료 수입 시작",
+    "summary": [
+      "(이스탄불=연합뉴스) 김동호 특파원 = 산유국 러시아가 19일(현지시간) 외국에서 연료를 수입하기 시작했다고 밝혔다.",
+      "에너지 인프라를 노린 우크..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n7f6d7a09",
+    "category": "IT",
+    "source": "연합뉴스",
+    "time": "42분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260820003000091",
+    "title": "구글, 반도체기업 마벨과 AI칩 동맹…최대 17조원 신주인수권",
+    "summary": [
+      "(샌프란시스코=연합뉴스) 권영전 특파원 = 구글이 맞춤형 인공지능(AI) 반도체 공급망 확보를 위해 미국의 반도체 설계회사 마벨 테크놀로지와 파..."
+    ],
+    "chips": [
+      "#AI",
+      "#반도체"
+    ]
+  },
+  {
+    "id": "n26ad2a6a",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "45분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260820002900071",
+    "title": "트럼프, FDA국장에 보건 참모 오버턴 지명…\"행정부 록스타\"",
+    "summary": [
+      "(워싱턴=연합뉴스) 이유미 특파원 = 도널드 트럼프 미국 대통령이 19일(현지시간) 하이디 오버턴 백악관 정책 보좌관을 식품의약국(FDA) 국장..."
+    ],
+    "chips": [
+      "#정책",
+      "#정치",
+      "#의료"
+    ]
+  },
+  {
+    "id": "nd12ed8d9",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "45분 전",
+    "url": "https://www.donga.com/news/Entertainment/article/all/20260820/134508784/1",
+    "title": "알디원, 신곡 ‘본 다이어’ MV 티저 공개…강렬 에너지",
+    "summary": [
+      "보이그룹 알파드라이브원(ALPHA DRIVE ONE)이 강렬한 에너지의 신곡으로 돌아온다.19일 알파드라이브원은 공식 사회관계망서비스(SNS) 계정에 미니 2집 ‘언브레이커블 : 소년비스트’ 타이틀곡 ‘본 다이어’(BORN DIRE)의 뮤직비디오 티저 영상을 올렸다.공개된 티저는 시작부터 강렬한 사운드가 울리며 전개된다.",
+      "이어 의미심장한 표정의 멤버들의 모습과 함께 타이틀곡의 음원 일부가 흘러나왔고, 화면을 가득 채운 댄서들이 알파드라이브원을."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nad2c30d8",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "45분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260820003100099",
+    "title": "케냐 북부서 헬기 추락…에콰도르 정보기관 수장 등 7명 사망(종합)",
+    "summary": [
+      "(요하네스버그=연합뉴스) 나확진 특파원 = 관광지로 알려진 케냐 북부 삼부루 카운티에서 19일(현지시간) 조종사와 승객 등 7명이 탄 헬기가 추..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n592d6b12",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "45분 전",
+    "url": "https://www.donga.com/news/Entertainment/article/all/20260820/134508781/1",
+    "title": "오정연, 아이유도 앓는 이관개방증 수술 받았다 “30년 견뎌”",
+    "summary": [
+      "방송인 오정연이 이관개방증을 앓고 있다고 밝혔다.오정연은 19일 자신의 인스타그램 스토리에 “고등학생 때부터 느껴온 고질적 증세의 질환명이 존재한다는 걸 처음 알았다, 이관개방증”이라고 글을 올렸다.그는 “아이유 님도 이 때문에 계획했던 9월 콘서트를 취소했다는 기사를 얼마 전에 접했는데, 나도 운동이나 방송을 좀 무리해서 하면 어김없이 발현되는 그 힘듦을 알아 더 안타까웠다”고 밝혔다.이어 “30년간 불편해도 견디고 살아야 하는 줄 알았건만."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n74673b00",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "45분 전",
+    "url": "https://www.donga.com/news/Entertainment/article/all/20260820/134508778/1",
+    "title": "듀스 이현도, 부친상 비보…가족들과 빈소 지켜",
+    "summary": [
+      "듀스 출신 가수 겸 프로듀서 이현도(53)가 부친상을 당했다.19일 유족에 따르면 이현도의 부친 이환범 씨가 이날 별세했다.",
+      "이현도는 가족들과 함께 빈소를 지키고 있다.빈소는 서울성모장례식장 31호실에 마련됐다.",
+      "발인은 21일 오전이며, 장지는 영락동산이다.한편 이현도는 지난 1993년 고(故) 김성재와 함께 힙합 듀오 듀스로 데뷔해 활동했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nfe185cbe",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "46분 전",
+    "url": "https://www.donga.com/news/Sports/article/all/20260820/134508775/1",
+    "title": "‘테니스 악동’ 키리오스, 코카인 양성 반응으로 자격 정지",
+    "summary": [
+      "‘코트의 악동’으로 불리는 닉 키리오스(919위·호주)가 코카인 앙성 반응으로 자격 정지 처분을 받았다.19일(한국 시간) 영국 매체 ‘BBC’가 관련 내용을 보도했다.매체는 “키리오스는 지난 6월22일 마요르카 오픈 기간에 샘플을 제출했고, 이 샘플에서 코카인 대사 물질인 벤조일에코닌이 검출됐다”며 “키리오는 지난 4일부터 잠정 자격 정지 상태”라고 전했다.이어 “키리오스는 잠정 자격 정지에 대해 항소할 수 있으나, 국제테니스청렴기구(ITIA."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
     "id": "n4c063f45",
     "category": "사회",
     "source": "뉴시스",
-    "time": "3분 전",
+    "time": "1시간 전",
     "url": "https://www.newsis.com/view/NISX20260820_0003755059",
     "title": "트럼프 \"北김정은과 연내 만날 것…그는 57개 핵무기 보유\"(종합)",
     "summary": [
@@ -361,43 +585,14 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nb9e069e6",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "7분 전",
-    "url": "https://www.chosun.com/sports/baseball/2026/08/20/GE2TAOJRMVSWENRYMZSDIMRWGQ/",
-    "title": "'와' 박재현의 기막힌 페이크번트 앤 슬래시, 보는 사람도 하는 사람도 \"홈런보다 더 짜릿했다\"",
+    "id": "n43e4daf0",
+    "category": "경제",
+    "source": "한국경제",
+    "time": "1시간 전",
+    "url": "https://www.hankyung.com/article/2026081907451",
+    "title": "\"韓·中에 밀린 LNG선 되찾자\"…日, 9년 만에 독 신설",
     "summary": [
-      "[OSEN=대전, 조은혜 기자] 프로야구 KIA 타이거즈 박재현이 재치있는 페이크번트 앤 슬래시로 팀의 승리를 이끌었다.이범호 감독이 이끄는 KIA는 19일 대전 한화생명 볼파크에서 열린 2026 신한 SOL KBO리그 한화 이글스와의 원정경기에서 6-3 승리로 4연승을 달성했다.",
-      "이날 1번타자 겸 우익수로 선발 출전한 박재현은 결승타 포함 5타수 2안타."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
-    "id": "nf4306b92",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "10분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260820002600085",
-    "title": "\"스페인, 세우타 미성년 이주민 500명 본토로 옮길 계획\"",
-    "summary": [
-      "(런던=연합뉴스) 김지연 특파원 = 스페인이 북아프리카에 있는 자치 도시 세우타에서 보호자 없이 지내는 미성년 이주민 약 500명을 스페인 본토..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n44e690dc",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "13분 전",
-    "url": "https://www.chosun.com/international/us/2026/08/20/OQUP436KXVAWFF6U7S6NSJKHW4/",
-    "title": "트럼프 “김정은, 57개 매우 강력한 핵무기 보유… 올해 안에 만날 것”",
-    "summary": [
-      "트럼프 “김정은, 57개 매우 강력한 핵무기 보유… 올해 안에 만날 것”."
+      "\"韓·中에 밀린 LNG선 되찾자\"…日, 9년 만에 독 신설."
     ],
     "chips": [
       "#뉴스"
@@ -407,7 +602,7 @@ window.NEWS_DB = [
     "id": "nd609e9f5",
     "category": "경제",
     "source": "머니투데이",
-    "time": "17분 전",
+    "time": "1시간 전",
     "url": "https://www.mt.co.kr/opinion/2026/08/20/2026081908324179440",
     "title": "연구보안제도의 새로운 전환[MT시평/장항배]",
     "summary": [
@@ -423,7 +618,7 @@ window.NEWS_DB = [
     "id": "n2ab64f35",
     "category": "사회",
     "source": "머니투데이",
-    "time": "17분 전",
+    "time": "1시간 전",
     "url": "https://www.mt.co.kr/opinion/2026/08/20/2026081915334537311",
     "title": "[딥 포인트]세계는 왜 청소년 SNS를 막기 시작했나?",
     "summary": [
@@ -434,208 +629,6 @@ window.NEWS_DB = [
     "chips": [
       "#교육"
     ]
-  },
-  {
-    "id": "nc299a96c",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "17분 전",
-    "url": "https://www.newsis.com/view/NISX20260819_0003753950",
-    "title": "세상을 떠난 뒤 도착한 '병장' 계급장…하늘의 아버지께 바친 아들과 손자의 선물",
-    "summary": [
-      "[서울=뉴시스]장인혜 인턴 기자 = 상병으로 군 복무를 마치고 세상을 떠난 아버지의 병장 특별진급 소식이 뒤늦게 전해진 가운데, 군 면제를 받았던 손자까지 재검을 통해 해군에 입대한 사연이 알려져 감동을 주고 있다.",
-      "최근 한 온라인 커뮤니티 게시판에는 \"군면제받은 아들 몰래 재검해서 해군 입대했어요\"라는 제목의 글이 올라왔다.",
-      "작성자는 얼마 전 집으로 국방부에서 특별진급 대상자로 선정됐다는 우편물이 도착했다고 밝혔다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n3b7b90b4",
-    "category": "IT",
-    "source": "테크M",
-    "time": "17분 전",
-    "url": "https://www.techm.kr/news/articleView.html?idxno=154439",
-    "title": "자체 AI 기술 상용화 속도내는 넥써쓰...게임·콘텐츠·결제까지 확장",
-    "summary": [
-      "넥써쓰가 자체 AI 기술을 실제 서비스에 적용하고 AI 활용 범위를 넓히며 인공지능 전환에 속도를 내고 있다.",
-      "AI 연구개발에 그치지 않고 자체 플랫폼을 통해 서비스를 직접 구현하고, 이를 글로벌 게임·콘텐츠 생태계와 연결하는 전략이다.넥써쓰는 19일 자체 개발한 AI 솔루션 11종을 한자리에 모은 포털 '넥써쓰 AI 랩스'를 오픈했다고 밝혔다.",
-      "AI 기술을 실제 업무와 콘텐츠 제작에 활용할 수 있는 제품으로 구현해 AI 전환 역량을 보여주겠다."
-    ],
-    "chips": [
-      "#AI"
-    ]
-  },
-  {
-    "id": "n57c329e9",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "22분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260820002000072",
-    "title": "모더나·머크, 맞춤형 mRNA 암 치료제 3상 성공…항암제 새 지평",
-    "summary": [
-      "(뉴욕=연합뉴스) 김연숙 특파원 = 미국 제약사 모더나와 머크가 공동 개발한 환자 맞춤형 mRNA 암 백신이 고위험 흑색종 환자를 대상으로 한 ..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n24fd4c4c",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "29분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260820002500079",
-    "title": "이스라엘군 참모총장, 시리아 점령지 방문 \"적 위협 용납 못해\"",
-    "summary": [
-      "(카이로=연합뉴스) 김상훈 특파원 = 이스라엘군 참모총장이 19일(현지시간) 시리아 남부 점령지를 방문해 적대 세력이 국경에 자리 잡는 것을 절..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nb34d4665",
-    "category": "IT",
-    "source": "테크M",
-    "time": "30분 전",
-    "url": "https://www.techm.kr/news/articleView.html?idxno=154434",
-    "title": "왓챠피디아 품는 키노라이츠, 日 '필마크' 따라가나",
-    "summary": [
-      "키노라이츠가 왓챠 인수를 추진하면서 7억3000만건에 달하는 왓챠피디아의 콘텐츠 평가 데이터도 새 주인을 만날 가능성이 높아졌다.",
-      "최근 2년간 왓챠피디아 애플리케이션 월간활성이용자(MAU)는 키노라이츠의 3배 수준까지 커졌다.",
-      "영화 투자·배급 사업에 진출한 키노라이츠가 기존 검색 데이터와 성격이 다른 대규모 취향 데이터를 함께 거느리게 되는 셈이다.일각에선 키노라이츠가 '한국형 필마크(Filmarks)'로 거듭나는 것이 아니냐는 전망이 나온다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n75bf7f10",
-    "category": "스포츠",
-    "source": "머니투데이",
-    "time": "32분 전",
-    "url": "https://www.mt.co.kr/sports/2026/08/20/2026081923594874186",
-    "title": "\"코카인 한 거 맞다\" 약물 의혹 인정한 테니스 악동 \"내 뜻대로 경기가 안 돼서 실수\"... 코트 떠나 재활원 갈듯",
-    "summary": [
-      "호주 출신 테니스 스타 닉 키리오스(31)가 코카인 양성 반응을 보여 출전 정지 징계를 받았다.",
-      "키리오스는 투약 사실을 인정하며 공개 사과했다.",
-      "영국 '더선'은 19일(한국시간) \"키리오스가 윔블던 웜업 대회인 마요르카 오픈에서 코카인 양성 반응을 보여 국제테니스청렴기구(ITIA)로부터 잠정 출전 정지 처분을 받았다\"고 보도했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n0981841f",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "33분 전",
-    "url": "https://www.chosun.com/international/international_general/2026/08/20/32THR3HEQ5HVVDF4RUM6NJVVX4/",
-    "title": "트럼프 “연내 김정은 만날 것…잘 지내는 건 좋은 일”",
-    "summary": [
-      "도널드 트럼프 미국 대통령이 김정은 북한 국무위원장과 올해 안에 만나겠다고 밝혔다.",
-      "최근 한미연합훈련 축소를 지시하며 북한에 유화적인 메시지를 보낸 데 이어 북미 정상회담 재개 의지까지 직접 밝힌 것이다.",
-      "트럼프 대통령은 19일(현지 시각) 백악관에서 취재진과 만나 ‘올해 안에 김정은 위원장을 만날 것으로 예상하느냐’는 질문에 “그렇다."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n97294923",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "36분 전",
-    "url": "https://www.chosun.com/sports/world-football/2026/08/20/GMYWMYRYGFSWMMLFMNSGEZTCGE/",
-    "title": "그리즈만에게 ‘에이스 7번’ 물려받은 이강인, 라리가 개막전부터 선발 출격 유력",
-    "summary": [
-      "[OSEN=서정환 기자] 이강인(25·아틀레티코 마드리드)이 라리가 개막전부터 선발 출전할 가능성이 커지고 있다.",
-      "아틀레티코 마드리드는 20일 오전 4시(한국시간) 마드리드 리야드 에어 메트로폴리타노에서 말라가와 2026-27시즌 라리가 개막전을 치른다.",
-      "이강인의 선발출격 여부에 관심이 집중된다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "na2ee5b3f",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "42분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260820001000071",
-    "title": "빅터차 \"트럼프, 핵불허 이란과 달리 핵보유 北엔 타협적 접근\"",
-    "summary": [
-      "(워싱턴=연합뉴스) 백나리 특파원 = 미국 싱크탱크 전략국제문제연구소(CSIS)의 빅터 차 한국 석좌는 19일(현지시간) 비핵화라는 관점에서 도..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n3d2e6730",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "48분 전",
-    "url": "https://www.newsis.com/view/NISX20260820_0003755053",
-    "title": "러·우크라, 전쟁 포로 103명씩 교환 성사",
-    "summary": [
-      "[서울=뉴시스] 김예진 기자 = 전쟁 중인 러시아와 우크라이나가 전쟁 포로 103명씩을 교환한 것으로 전해졌다.",
-      "AFP통신 등에 따르면 볼로디미르 젤렌스키 우크라이나 대통령은 이날 \"오늘 우크라이나 장병 103명이 러시아의 포로 생활에서 벗어나 고국으로 돌아왔다\"고 밝혔다.",
-      "그는 석방된 포로 가운데 2022년 수개월간의 포위 공격으로 초토화된 항구도시 마리우폴의 방어 병력과 7개 전선 지역에서 포로로 잡힌 장병들이 포함됐다고 설명했다."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "ndd2cacdc",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "54분 전",
-    "url": "https://www.donga.com/news/Inter/article/all/20260820/134508698/1",
-    "title": "[속보]트럼프 “김정은, 57개 핵무기 있어…연내 만날 것”",
-    "summary": [
-      "도널드 트럼프 미국 대통령이 19일(현지 시간) 김정은 북한 국무위원장과 올해 안에 만날 것이라고 밝혔다.트럼프 대통령은 이날 백악관 내 헬리콥터 착륙장 건설 현장에서 기자들과 만나 ‘올해 안에 김정은과 만날 것으로 예상하느냐’는 질문에 “그렇다.",
-      "만날 것이다”라고 답했다.김 위원장과 편지를 교환했느냐는 질문에 “그건 말할 수 없다”면서도 “하지만 나는 그와 잘 지내고 있다.",
-      "내가 그와 잘 지낸다는 사실은 나쁜 게 아니라 좋은 일”이라고 말했다."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n03814ab0",
-    "category": "사회",
-    "source": "머니투데이",
-    "time": "1시간 전",
-    "url": "https://www.mt.co.kr/world/2026/08/20/2026082001103249741",
-    "title": "美 여야 상원의원 \"한미연합훈련 축소 철회해야\"…트럼프에 서한",
-    "summary": [
-      "미국 상원의 여야 중진 의원들이 도널드 트럼프 대통령의 한미연합군사훈련 축소 방침에 강한 우려를 표명하며 훈련 축소 철회를 요구했다.",
-      "미 공화당 톰 틸리스 상원의원과 민주당 마크 켈리 상원의원은 19일(현지시간) 트럼프 대통령과 피트 헤그세스 국방장관에게 한미연합훈련 축소 결정을 재검토하고 동맹의 준비 태세를 유지할 수 있는 강도 높은 훈련을 지속할 것을 요구하는 공동 서한을 발송했다고 밝혔다.",
-      "틸리스 의원은 이날 의원실 공식 홈페이지를 통해."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n90ead9d3",
-    "category": "경제",
-    "source": "동아일보",
-    "time": "1시간 전",
-    "url": "https://www.donga.com/news/Economy/article/all/20260819/134506752/2",
-    "title": "한화 ‘국산 완성 무기체계’로 美 방산시장 첫 진출",
-    "summary": [
-      "한화에어로스페이스가 국산 완성 무기체계로는 처음으로 미군 시장에 진출했다.",
-      "그동안 국내 방산업체들은 탄약과 방산 부품 등을 중심으로 미국에 수출해왔지만, 이번에는 완성 무기체계를 미군에 직접 공급하면서 세계 최대 방산시장 공략의 교두보를 마련했다는 평가다.",
-      "향후 본계약과 다른 국가로의 추가 수출에도 청신호가 켜졌다는 분석이 나온다."
-    ],
-    "chips": [
-      "#수출"
-    ]
   }
 ];
 
@@ -644,8 +637,8 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2330건",
-    "trend": "+255%"
+    "mentions": "2850건",
+    "trend": "+335%"
   },
   {
     "rank": 2,
@@ -655,9 +648,9 @@ window.KEYWORD_TOP = [
   },
   {
     "rank": 3,
-    "tag": "정치",
-    "mentions": "1550건",
-    "trend": "+135%"
+    "tag": "반도체",
+    "mentions": "1420건",
+    "trend": "+115%"
   }
 ];
 // ====AUTO-GENERATED-END====
