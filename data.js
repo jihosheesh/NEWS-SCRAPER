@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-08-20 12:24:43
+// 마지막 업데이트: 2026-08-20 13:38:19
 window.NEWS_DB = [
   {
     "id": "n6f9d632c",
     "category": "IT",
     "source": "Counterpoint Research",
-    "time": "3시간 전",
+    "time": "5시간 전",
     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNWldFd0pOdDliUnJ6TDJUV2FTaGE1RndLODFNdVNleVoyNFVMdnRlQkEtODNMSDRQZDJCWjlab29yZ21sSldSU1BJWnFSc2QzRlZzOXMwY1ZqYkwxOWN4VkJVQ0FKRl8tRGg0TG1jYWZpeDIzVllxREtMZDhYbnZWTmVRNGhMQVB1WjJSdUl3?oc=5",
     "title": "인텔은 메모리 넘본다…삼성은 파운드리 반격",
     "summary": [
@@ -19,7 +19,7 @@ window.NEWS_DB = [
     "id": "nd000c55e",
     "category": "IT",
     "source": "데이터넷",
-    "time": "3시간 전",
+    "time": "5시간 전",
     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE11QUd4NkhZaDRidFpDRHoyWnFPeURfYVpIMjRZc1pjSmdiTDBiYmVZbnpCQkJxd0ZJaUdMeW5DWVhaTlVmOW53X3BuVTh4bGtYVWM4OUd3a1RtdFdtNm5xSVZMakxxb1lsUnNONA?oc=5",
     "title": "“인텔은 메모리 넘보고, 삼성은 파운드리 반격”",
     "summary": [
@@ -33,7 +33,7 @@ window.NEWS_DB = [
     "id": "n72333e67",
     "category": "사회",
     "source": "서울뉴스통신",
-    "time": "5시간 전",
+    "time": "7시간 전",
     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1PU0xyNnJwRUhKbThVQm9zempWb0p3QVBUUEE3YVQxZ05XdXdUeUtfT01hZlVMbTA2ZTlKU2ctUlhJTVNWVlJMNXFHenVndGxFVG9xMGdVdnh1dEtZUENkdFQ5dXdRRjNTdVh3?oc=5",
     "title": "고용센터 AI 기반 맞춤형으로 개편…구직 상담·기업 채용지원 대폭 강화",
     "summary": [
@@ -50,7 +50,7 @@ window.NEWS_DB = [
     "id": "n13d51c3b",
     "category": "IT",
     "source": "뉴시스",
-    "time": "6시간 전",
+    "time": "7시간 전",
     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9rWS0wRFlYVEJqMTVFVmtUb1Z3YnkzaS1kUnNoMFhVYjVvZUVEYVI4Zk0yTTFnOXRrWW9MOEFZdV9LRnBhZWtPWHc3Nkp1cjBWdkxPeGZvNml6dUFKR01YTW5TeDJ4TUxiWGZQSUpzRW9sb2hxclZJeNIBeEFVX3lxTE9rWS0wRFlYVEJqMTVFVmtUb1Z3YnkzaS1kUnNoMFhVYjVvZUVEYVI4Zk0yTTFnOXRrWW9MOEFZdV9LRnBhZWtPWHc3Nkp1cjBWdkxPeGZvNml6dUFKR01YTW5TeDJ4TUxiWGZQSUpzRW9sb2hxclZJeA?oc=5",
     "title": "\"엔비디아 종속 막자\"…정부·AMD·K반도체 '연합 전선' 구축(종합)",
     "summary": [
@@ -65,7 +65,7 @@ window.NEWS_DB = [
     "id": "n29c6183f",
     "category": "IT",
     "source": "리드경제",
-    "time": "6시간 전",
+    "time": "7시간 전",
     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE95dVc1a3FlSHJ2d3E0c2cwM2loSVY0cGVNcVcxYU0tMTJPZkxYWWQ3VnUwcHBYVlJxWmwwM3pnU2JWTlhqYXAzS1dmbnMxd0xvc3FKeV9nVVpNSTgwb1lKUEhkcnZ6eDBUb3BQRG9qTQ?oc=5",
     "title": "인텔, 메모리 넘본다…삼성 파운드리 반격",
     "summary": [
@@ -79,7 +79,7 @@ window.NEWS_DB = [
     "id": "n2beeb2e6",
     "category": "IT",
     "source": "비즈니스포스트",
-    "time": "6시간 전",
+    "time": "7시간 전",
     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBMbVI5anZMMjl0ZTNFZGFrYlVqdTNCYUNCRm9rRzdWcVZBVHR6ZVNWVnBsM0t4SU5DZ2o4VjU4OUFBcUQ1cF9EYkE0a0prYzZXTFVXT3AtYmFGRXVfMTJHS25ESWViUUNmS0dCWUFrTmRUcUE?oc=5",
     "title": "엔비디아 고객사에 금융지원 전략 성패는 메모리 공급망에 달렸다, 공급과잉 전환 시점이 중요",
     "summary": [
@@ -375,252 +375,254 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "ncdb625db",
-    "category": "경제",
-    "source": "아시아경제",
-    "time": "3분 전",
-    "url": "https://view.asiae.co.kr/article/2026082021204313408",
-    "title": "[속보] 김여정 \"美안보지원 공짜 아냐…이 기회에 생존의 답 찾아야\"",
-    "summary": [
-      "김여정 \"美안보지원 공짜 아냐…이 기회에 생존의 답 찾아야\"."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nfebc7d18",
-    "category": "경제",
-    "source": "아시아경제",
-    "time": "5분 전",
-    "url": "https://view.asiae.co.kr/article/2026082021193288710",
-    "title": "라부부 열풍 식자 팝마트 해외매출 11% '뚝'…성장세 급제동",
-    "summary": [
-      "세계적인 인기를 끌었던 캐릭터 인형 '라부부'(LABUBU) 열풍이 한풀 꺾이면서 중국 완구업체 팝마트의 성장세에도 제동이 걸렸다.",
-      "20일 블룸버그통신 등에 따르면 팝마트의 올해 상반기 매출은 172억위안(약 3조5600억원)으로 전년 동기 대비 24% 증가했다.",
-      "매출은 늘었지만 지난해 같은 기간 200%를 웃돌았던 증가율과 비교하면 성장세가 크게 둔화했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nde90c58a",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "5분 전",
-    "url": "https://www.donga.com/news/list/article/all/20260820/134516128/2",
-    "title": "[속보]김여정, UFS훈련 축소에 “전쟁놀이 못하게된 서울…가긍한 처지“",
-    "summary": [
-      "김정은 북한 국무위원장의 동생인 김여정 노동당 총무부장이 20일 한미연합연습 ‘을지 자유의 방패(UFS) 축소를 두고 “트럼프의 말 한마디에 서울은 제일 즐겨하던 ‘전쟁놀이’ 판을 거두어야 하는 가긍한 처지에 놓이게 됐다”라고 밝혔다.김여정 노동당 총무부장은 20일 ‘그리도 즐겨하던 전쟁놀이를 못하게 된 서울의 가긍한 처지’라는 제목의 담화를 통해 “제일 하고싶던 ‘전쟁놀이’를 못하게 돼 시르죽은 꼴이 된 한국의 처지는 그들이 자랑하던 ‘한미혈."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n56b1165a",
-    "category": "스포츠",
-    "source": "뉴시스",
-    "time": "6분 전",
-    "url": "https://www.newsis.com/view/NISX20260820_0003756730",
-    "title": "천안에서 5회째 K리그 유스챔피언십…경제효과에 천안시도 '함박웃음'",
-    "summary": [
-      "[천안=뉴시스]최영민 기자 = 올해로 다섯 번째를 맞는 K리그 유스 챔피언십이 U18대회와 U15 대회를 성공적으로 마쳤다.",
-      "대회를 치러낸 천안시도 함박웃음을 지었다.",
-      "지난 7월 11일부터 23일까지 13일간 먼저 열린 U18 챔피언십에는 김해와 파주를 제외한 K리그 소속 27개 팀이 조별리그 2~3경기와 16강 이후 토너먼트 경기를 펼치며 우승팀을 가렸다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n8c6360cd",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "6분 전",
-    "url": "https://www.chosun.com/entertainments/broadcast/2026/08/20/GM3GKZRUME3TAZBZMQ4GGOJRMI/",
-    "title": "\"속시원하다\" 한그루, 김성은 덕분에 유통기한 지난 식재료 전부 폐기 ('햅삐')",
-    "summary": [
-      "영상 시청 후 작성된 리뷰 기사입니다.[OSEN=최지연 기자] 배우 김성은이 한그루의 냉장고 정리에 나섰다.",
-      "20일 유튜브 채널 '햅삐 김성은 KIM SUNG EUN'에서는 '10년 묵은 음식이 냉동고에서 나왔다고요?'라는 제목의 영상이 게재됐다.이날 김성은은 한그루의 집을 찾았다.",
-      "김성은은 \"저에게 냉장고 정리를 의뢰하셨다\"고 언급, 한그루는 \"냉장고는."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n86a4ee65",
+    "id": "nfa53137a",
     "category": "스포츠",
     "source": "연합뉴스",
-    "time": "7분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260820182400007",
-    "title": "폭염에 지친 류현진, 5경기 연속 부진…후반기 ERA 9.41",
+    "time": "5분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260820185200073",
+    "title": "日축구협회, '韓 성접대 의혹' 조사…\"확인 안 돼\"",
     "summary": [
-      "(서울=연합뉴스) 천병혁 기자 = 불혹을 바라보는 류현진(39·한화 이글스)이 한여름 부진을 거듭하고 있다."
+      "(도쿄=연합뉴스) 이도연 특파원 = 대한축구협회가 외국인 심판과 감독관에 대해 '성 접대'를 했다는 의혹과 관련해 일본 축구협회가 자국 심판 7..."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "nf0eca602",
+    "id": "n870738c6",
     "category": "사회",
-    "source": "동아일보",
+    "source": "조선일보",
     "time": "7분 전",
-    "url": "https://www.donga.com/news/Politics/article/all/20260820/134515560/1",
-    "title": "서울시장 지정하던 토허구역, 국토부 장관도 ‘콕 집어’ 지정 가능",
+    "url": "https://www.chosun.com/entertainments/broadcast/2026/08/20/G5SDINTBHEYDONRQGEYGGMLEG4/",
+    "title": "\"더한 인간도 봤다\" 안선영, 걸러야 되는 사람 특징 3가지 공개 ('이중생활')",
     "summary": [
-      "현재 최장 330일이 걸리는 패스트트랙(신속처리안건) 심사 기간을 90일로 단축하는 국회법 개정안이 20일 국회 본회의를 통과했다.",
-      "국토교통부 장관에게 동일 시도 내 토지거래허가구역 지정 권한을 부여하는 법안 등 정부 여당이 추진해온 부동산 관련 법안들도 처리됐다.",
-      "다만 용산공원 조성 특별법 등 국민의힘이 반대하는 일부 법안은 상정되지 않았다.민주당과 조국혁신당 등 범여권은 이날 국회 본회의에서 국회법 개정안을 재석 234명 중 찬성 153명,."
+      "영상 시청 후 작성된 리뷰 기사입니다.[OSEN=최지연 기자] 방송인 안선영이 인간관계에 대한 생각을 밝혔다.",
+      "20일 유튜브 채널 ‘안선영의 이중생활’(이하 '이중생활')에는 ‘사기당하고 알게 된 ‘나를 배신하지 않는 사람들’의 특징 3가지 | 친구, 회사인간관계가 힘들 때 꼭 보세요’라는 제목의 영상이 게재됐다.",
+      "이날 안선영은 걸러야 되는 사람 3가지 특."
     ],
     "chips": [
-      "#부동산",
-      "#정책",
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "neb9182c8",
+    "category": "IT",
+    "source": "ZDNet Korea",
+    "time": "8분 전",
+    "url": "https://zdnet.co.kr/view/?no=20260820221610",
+    "title": "프라임마스, 마이크론과 100TB급 CXL 메모리 구현…美DOE 프로젝트 참여",
+    "summary": [
+      "[지디넷코리아]국내 팹리스(반도체 설계전문) 프라임마스가 마이크론과 손잡고 100테라바이트(TB)를 넘어서는 컴퓨트 익스프레스 링크(CXL) 기반 풀드 메모리 사업에 나선다.",
+      "미국 정부가 지원하는 인공지능(AI)·고성능컴퓨팅(HPC) 프로젝트에 참여해 글로벌 시장 공략을 본격화한다.",
+      "올해 관련 제품 양산과 매출 발생을 시작으로 내년 말까지 2억달러(약 2787억원) 매출을 달성한다는 목표다.프라임마스는 20일 경기도 분당 프라임마스코리아 사옥에."
+    ],
+    "chips": [
+      "#AI",
+      "#반도체"
+    ]
+  },
+  {
+    "id": "n2e89f868",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "9분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260820183351504",
+    "title": "김여정 \"전쟁놀이 못하게 된 서울의 가긍한 처지\"…조롱·막말(종합)",
+    "summary": [
+      "(서울=연합뉴스) 이은정 기자 = 김정은 북한 국무위원장의 동생인 김여정 노동당 총무부장이 도널드 트럼프 미국 대통령 지시로 한미연합훈련이 축소..."
+    ],
+    "chips": [
       "#정치"
     ]
   },
   {
-    "id": "n343a1a8c",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "7분 전",
-    "url": "https://www.chosun.com/entertainments/broadcast/2026/08/20/HEZTOOLFHAZWGZLGGJRDQNBYMU/",
-    "title": "\"발가락에 힘 줬어요\"…채정안, 힙한 패션 뒤에 숨겨진 폭소 '비하인드' ('채정안TV')",
-    "summary": [
-      "[OSEN=박근희 기자] 배우 채정안이 솔직하고 유쾌한 입담으로 여름 데일리 패션 비하인드를 공개했다.20일 오후 유튜브 채널 ‘채정안TV’에는 '\"야! 너도 한유주 될 수 있어!\" 26시즌 채정안의 여름 데일리 패션 공개'라는 제목의 영상이 게재됐다.제작진은 채정안에게 \"요즘 인스타 피드에 아주 예쁜 옷들이 많으시더라고요\"라며 칭찬을 건넸다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n366290c5",
+    "id": "n1739d491",
     "category": "사회",
     "source": "연합뉴스",
-    "time": "7분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260820180100109",
-    "title": "'오르반 편향' 지적받은 헝가리 공영방송, 한달반만에 뉴스 재개",
-    "summary": [
-      "(로마=연합뉴스) 민경락 특파원 = 오르반 빅토르 전 정부에 편향됐다는 지적을 받은 헝가리 공영방송 뉴스 송출이 재개됐다고 AFP통신이 20일(..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n5cd45363",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "9분 전",
-    "url": "https://www.newsis.com/view/NISX20260820_0003756731",
-    "title": "[속보]김여정 \"이재명, 안팎 다른 이중적 언행…韓 불안초조한 모순심리 보여줘\"",
-    "summary": [
-      "후속기사가 이어집니다 ◎공감언론 뉴시스 south@newsis.com."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n22146c1b",
-    "category": "사회",
-    "source": "뉴시스",
     "time": "11분 전",
-    "url": "https://www.newsis.com/view/NISX20260820_0003756728",
-    "title": "[속보]김여정 UFS 축소에 \"韓, 전쟁놀이 판 거두어야 하는 가긍한 처지\"",
+    "url": "https://www.yna.co.kr/view/AKR20260820185600007",
+    "title": "권희동 짜릿한 끝내기…'창원 잔류' NC, 3연패 탈출",
     "summary": [
-      "후속기사가 이어집니다 ◎공감언론 뉴시스 south@newsis.com."
+      "(서울=연합뉴스) 천병혁 기자 = NC 다이노스가 연고 지역 창원 잔류를 선언한 날 연패에서 벗어났다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n14d91676",
+    "id": "n81415dd4",
     "category": "사회",
     "source": "연합뉴스",
-    "time": "13분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260820180800001",
-    "title": "韓총리 \"제주 실종여성 수색에 최선…2차 가해 엄정대응\"",
+    "time": "14분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260820184651530",
+    "title": "중수청 특례임용에 검사·수사관 등 2천375명 지원…정원의 82.6%",
     "summary": [
-      "(서울=연합뉴스) 황윤기 기자 = 한성숙 국무총리는 제주에서 3개월 전 실종된 장미란(37) 씨 사건과 관련해 경찰청에 \"수색에 최선을 다하라\"..."
+      "(서울=연합뉴스) 차민지 기자 = 오는 10월 출범하는 중대범죄수사청(중수청) 특례 임용에 검찰청 소속 검사와 수사관 등 2천375명이 지원했다..."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n1e943b1f",
+    "id": "nb8f04c16",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "16분 전",
+    "url": "https://www.newsis.com/view/NISX20260820_0003756552",
+    "title": "중수청 2874명 모집에 2375명 지원…검사 규모는 '비공개'",
+    "summary": [
+      "[서울=뉴시스] 강지은 기자 = 오는 10월 2일 출범하는 중대범죄수사청(중수청) 수사 인력 등 2874명 모집에 2375명이 지원한 것으로 최종 집계됐다.",
+      "그러나 이 중 4급 이상 상당의 수사관으로 신분이 바뀌게 되는 검사의 신청 규모는 공개되지 않았다.",
+      "행정안전부 중수청 개청준비단은 지난 7일부터 20일 오후 6시까지 검찰청 소속 검사와 검찰 수사관 등을 대상으로 중수청 임용 희망 신청 접수를 받은 결과, 이같이 집계됐다고 밝혔다."
+    ],
+    "chips": [
+      "#채용"
+    ]
+  },
+  {
+    "id": "n92339cb8",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "16분 전",
+    "url": "https://www.newsis.com/view/NISX20260820_0003756759",
+    "title": "美항모 조지 워싱턴호 중동 도착…'장기 배치' 링컨호와 교대",
+    "summary": [
+      "[서울=뉴시스] 문예성 기자 = 미국 항공모함 조지 워싱턴호가 중동에 도착해 장기간 배치된 에이브러햄 링컨호와 임무를 교대했다.",
+      "20일(현지 시간) CNN 등에 따르면 미 중부사령부는 이날 엑스(X·옛 트위터)를 통해 “조지 워싱턴호 항모강습단이 전날 중부사령부 작전구역에 도착했으며 예정된 배치 일정에 따라 중동에서 작전을 수행하고 있다”고 밝혔다.",
+      "중부사령부는 조지 워싱턴호가 아라비아해를 항해하는 동안 승조원들이 비행갑판에서 작업하는 모습이."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n6421d1fc",
     "category": "사회",
     "source": "뉴시스",
     "time": "18분 전",
-    "url": "https://www.newsis.com/view/NISX20260820_0003756723",
-    "title": "한동훈, 국힘 윤리위 징계 결정에 \"선택적·자의적 징계 정치 계속돼\"",
+    "url": "https://www.newsis.com/view/NISX20260820_0003756762",
+    "title": "제자 물통에 소변 넣은 日교사, 한 달 뒤 자수…日교육계 '발칵'",
     "summary": [
-      "[서울=뉴시스]전상우 기자 = 한동훈 무소속 의원은 20일 국민의힘 중앙윤리위원회가 조경태·진종오·권영진·서범수 의원에게 '당원권 정지' 징계를 내린 데 대해 \"국민들께 버림받게 될 것\"이라고 했다.",
-      "한 의원은 이날 자신의 페이스북에 \"공당을 사당화하기 위한 선택적이고 자의적인 징계 정치가 계속되고 있다\"며 이같이 적었다.",
-      "앞서 한 의원은 국회 본회의 도중 기자들과 만나 \"사당화된 야당이 이재명 정권의 연임 독재 시도를 어떻게 비판하고 제어하겠."
+      "[서울=뉴시스]김혜경 기자 = 일본의 한 고등학교 교사가 자신이 가르치던 학생의 물통에 소변을 넣은 사실이 드러나 면직 처분을 받았다.",
+      "20일 일본 FNN 프라임온라인 등에 따르면 군마현의 20대 남성 교사는 지난 5월28일 근무 중 학교 건물 내 인적이 드문 곳에서 자신이 수업을 담당하던 학생의 물통에 소변을 넣었다.",
+      "학생은 물통을 집에 가져가 열어본 뒤 이상한 점을 발견했고, 보호자에게 알렸다."
+    ],
+    "chips": [
+      "#교육"
+    ]
+  },
+  {
+    "id": "n8ae84a33",
+    "category": "경제",
+    "source": "한국경제",
+    "time": "21분 전",
+    "url": "https://www.hankyung.com/article/2026082033697",
+    "title": "[속보] 중수청 특례임용 지원, 정원의 83%…\"세부 지원내역 비공개\"",
+    "summary": [
+      "[속보] 중수청 특례임용 지원, 정원의 83%…\"세부 지원내역 비공개\"."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nf773affa",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "23분 전",
+    "url": "https://www.newsis.com/view/NISX20260820_0003755960",
+    "title": "\"내 '남편'이 나를 깨우는 방법\"…호날두♥조지나, 결혼 후 달달한 신혼 공개",
+    "summary": [
+      "[서울=뉴시스]김성은 인턴 기자 = 10년 열애 끝에 결혼식을 올린 크리스티아누 호날두와 조지나 로드리게스가 결혼 후 달콤한 일상을 공개하며 팬들의 관심을 끌고 있다.",
+      "특히 조지나가 호날두를 처음으로 공개적으로 '남편'이라고 부르며 신혼의 설렘을 드러냈다.",
+      "영국 매체 더선은 17일(현지 시간) 조지나 로드리게스가 자신의 인스타그램에 \"이것이 바로 내 남편이 나를 깨우는 방법\"이라는 글과 함께 호날두의 모습을 담은 영상을 공개했다고 보도했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n93ca82e8",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "28분 전",
+    "url": "https://www.chosun.com/national/national_general/2026/08/20/J2VUC4QQFZB5NIPXGDS6ENE5KI/",
+    "title": "수사관·검사 2375명 중수청 지원…정원 82.6% 채워",
+    "summary": [
+      "수사관·검사 2375명 중수청 지원…정원 82.6% 채워."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n7b5bcfbd",
+    "category": "경제",
+    "source": "한국경제",
+    "time": "32분 전",
+    "url": "https://www.hankyung.com/article/2026082033647",
+    "title": "[속보] 중수청 특례임용에 수사관·검사 2375명 지원",
+    "summary": [
+      "[속보] 중수청 특례임용에 수사관·검사 2375명 지원."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n47fee632",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "37분 전",
+    "url": "https://www.donga.com/news/Politics/article/all/20260820/134515638/1",
+    "title": "위성락·왕이 ‘짜장면 오찬’…한중 안보실장급 채널 5년만에 복원",
+    "summary": [
+      "위성락 국가안보실장은 20일 왕이(王毅) 중국 공산당 중앙외사판공실 주임 겸 외교부장과 회담 겸 오찬을 가졌다.",
+      "한중 안보실장급 회담이 이뤄진 건 2021년 이후 5년 만이다.20일 청와대에 따르면 왕 부장은 이날 청와대에서 이재명 대통령과 면담한 뒤 위 실장과 회담 겸 오찬을 가졌다.",
+      "청와대는 “2021년 12월 이후 중단됐던 우리 국가안보실장과 중국 중앙외사판공실 주임 간 대화채널이 약 5년 만에 복원됐다”면서 “양측은 고위급 외교안보 라인."
     ],
     "chips": [
       "#정치"
     ]
   },
   {
-    "id": "n8fb0bdae",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "19분 전",
-    "url": "https://www.chosun.com/culture-life/culture_general/2026/08/20/6LWMXSKXTFELXMDZB32PDEJJTY/",
-    "title": "추신수·현주엽·구자철·김예지·정용택...TV조선 아시안게임 중계 ‘별’이 뜨다",
+    "id": "nad4ecd01",
+    "category": "IT",
+    "source": "한국경제",
+    "time": "37분 전",
+    "url": "https://www.hankyung.com/article/202608203352i",
+    "title": "[단독] 李 대통령, 최태원과 비공개 회동…반도체 투자 논의한 듯",
     "summary": [
-      "추신수·현주엽·구자철·김예지·정용택...TV조선 아시안게임 중계 ‘별’이 뜨다."
+      "[단독] 李 대통령, 최태원과 비공개 회동…반도체 투자 논의한 듯."
+    ],
+    "chips": [
+      "#반도체",
+      "#정치"
+    ]
+  },
+  {
+    "id": "n356c73fd",
+    "category": "경제",
+    "source": "한국경제",
+    "time": "37분 전",
+    "url": "https://www.hankyung.com/article/2026082026886",
+    "title": "'돈은 주주에게' SK하닉의 통 큰 결단…\"40조는 시작일 뿐\" [분석+]",
+    "summary": [
+      "'돈은 주주에게' SK하닉의 통 큰 결단…\"40조는 시작일 뿐\" [분석+]."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n1e484815",
-    "category": "부동산",
-    "source": "한경IT",
-    "time": "24분 전",
-    "url": "https://www.hankyung.com/article/2026082029621",
-    "title": "\"우리 아파트 경비원 새로 오셨는데…\" 타워팰리스 '술렁'",
-    "summary": [
-      "\"우리 아파트 경비원 새로 오셨는데…\" 타워팰리스 '술렁'."
-    ],
-    "chips": [
-      "#부동산"
-    ]
-  },
-  {
-    "id": "n9d2a2029",
-    "category": "스포츠",
-    "source": "아시아경제",
-    "time": "26분 전",
-    "url": "https://view.asiae.co.kr/article/2026082020575488303",
-    "title": "[내일날씨] 중부지방 흐리고 곳곳 소나기…낮 최고 35도",
-    "summary": [
-      "금요일인 21일은 중부지방을 중심으로 대체로 흐린 가운데 곳곳에 소나기가 내리겠다.",
-      "당분간 무더위가 이어지는 가운데 돌풍과 천둥·번개를 동반한 강한 소나기가 나타나는 곳도 있겠다.",
-      "수도권에는 최대 50~60㎜의 비가 내릴 것으로 예상된다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n1482778f",
+    "id": "ncef91eae",
     "category": "사회",
     "source": "조선일보",
-    "time": "27분 전",
-    "url": "https://www.chosun.com/national/national_general/2026/08/20/WBC3P6KWENB55GBPDTUMSD4L6M/",
-    "title": "국비유학생 출신 진대제 “애국심에 얽매이지 마라…꿈 좇아 성공하는 게 애국”",
+    "time": "38분 전",
+    "url": "https://www.chosun.com/politics/north_korea/2026/08/20/IOHET46PVNF5FAIWACCLTJWTWE/",
+    "title": "김여정 “트럼프 말 한마디에 항변 못하고 아첨하는 이재명”",
     "summary": [
-      "국비유학생 출신 진대제 “애국심에 얽매이지 마라…꿈 좇아 성공하는 게 애국”."
+      "김여정 “트럼프 말 한마디에 항변 못하고 아첨하는 이재명”."
     ],
     "chips": [
       "#뉴스"
@@ -633,18 +635,18 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2850건",
-    "trend": "+335%"
+    "mentions": "2460건",
+    "trend": "+275%"
   },
   {
     "rank": 2,
-    "tag": "부동산",
-    "mentions": "1550건",
-    "trend": "+135%"
+    "tag": "반도체",
+    "mentions": "1680건",
+    "trend": "+155%"
   },
   {
     "rank": 3,
-    "tag": "반도체",
+    "tag": "AI",
     "mentions": "1420건",
     "trend": "+115%"
   }
