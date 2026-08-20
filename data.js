@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-08-20 09:23:15
+// 마지막 업데이트: 2026-08-20 10:19:07
 window.NEWS_DB = [
   {
     "id": "nd000c55e",
     "category": "IT",
     "source": "데이터넷",
-    "time": "49분 전",
+    "time": "1시간 전",
     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE11QUd4NkhZaDRidFpDRHoyWnFPeURfYVpIMjRZc1pjSmdiTDBiYmVZbnpCQkJxd0ZJaUdMeW5DWVhaTlVmOW53X3BuVTh4bGtYVWM4OUd3a1RtdFdtNm5xSVZMakxxb1lsUnNONA?oc=5",
     "title": "“인텔은 메모리 넘보고, 삼성은 파운드리 반격”",
     "summary": [
@@ -16,10 +16,24 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n04c9840b",
+    "category": "IT",
+    "source": "ebn.co.kr",
+    "time": "2시간 전",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5jNy1zd3VfY0dldFJwanlTb1U0aUR0elE4amU1Ui1FaXRORkV5TWZZZEJlVVlHc1ZhVjByWTg1MFFIMXdLUVJCcjBwYXlJMk1JQkFHVGR1RTdhSy1WMU5sbEJveU5xRktt?oc=5",
+    "title": "인텔, 메모리 접점 확대…삼성은 파운드리 반격 나섰다",
+    "summary": [
+      "인텔, 메모리 접점 확대…삼성은 파운드리 반격 나섰다 ebn.co.kr."
+    ],
+    "chips": [
+      "#반도체"
+    ]
+  },
+  {
     "id": "n72333e67",
     "category": "사회",
     "source": "서울뉴스통신",
-    "time": "2시간 전",
+    "time": "3시간 전",
     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1PU0xyNnJwRUhKbThVQm9zempWb0p3QVBUUEE3YVQxZ05XdXdUeUtfT01hZlVMbTA2ZTlKU2ctUlhJTVNWVlJMNXFHenVndGxFVG9xMGdVdnh1dEtZUENkdFQ5dXdRRjNTdVh3?oc=5",
     "title": "고용센터 AI 기반 맞춤형으로 개편…구직 상담·기업 채용지원 대폭 강화",
     "summary": [
@@ -33,11 +47,11 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nd8d1ec11",
+    "id": "n13d51c3b",
     "category": "IT",
     "source": "뉴시스",
-    "time": "3시간 전",
-    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAzSzVEUmt2cGJsWlBCWGJlQ05UV2t2WDhhRy1kV0xocVZVNkZyVG5yempFVHlhSTFkaEYyMWVpWjljVFBRUXdpdmxLYTN3TjVRR0FKajFYYXIxRUptT2NuZdIBeEFVX3lxTE9rWS0wRFlYVEJqMTVFVmtUb1Z3YnkzaS1kUnNoMFhVYjVvZUVEYVI4Zk0yTTFnOXRrWW9MOEFZdV9LRnBhZWtPWHc3Nkp1cjBWdkxPeGZvNml6dUFKR01YTW5TeDJ4TUxiWGZQSUpzRW9sb2hxclZJeA?oc=5",
+    "time": "4시간 전",
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9rWS0wRFlYVEJqMTVFVmtUb1Z3YnkzaS1kUnNoMFhVYjVvZUVEYVI4Zk0yTTFnOXRrWW9MOEFZdV9LRnBhZWtPWHc3Nkp1cjBWdkxPeGZvNml6dUFKR01YTW5TeDJ4TUxiWGZQSUpzRW9sb2hxclZJeNIBeEFVX3lxTE9rWS0wRFlYVEJqMTVFVmtUb1Z3YnkzaS1kUnNoMFhVYjVvZUVEYVI4Zk0yTTFnOXRrWW9MOEFZdV9LRnBhZWtPWHc3Nkp1cjBWdkxPeGZvNml6dUFKR01YTW5TeDJ4TUxiWGZQSUpzRW9sb2hxclZJeA?oc=5",
     "title": "\"엔비디아 종속 막자\"…정부·AMD·K반도체 '연합 전선' 구축(종합)",
     "summary": [
       "\"엔비디아 종속 막자\"…정부·AMD·K반도체 '연합 전선' 구축(종합) 뉴시스."
@@ -48,24 +62,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n29c6183f",
-    "category": "IT",
-    "source": "리드경제",
-    "time": "3시간 전",
-    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE95dVc1a3FlSHJ2d3E0c2cwM2loSVY0cGVNcVcxYU0tMTJPZkxYWWQ3VnUwcHBYVlJxWmwwM3pnU2JWTlhqYXAzS1dmbnMxd0xvc3FKeV9nVVpNSTgwb1lKUEhkcnZ6eDBUb3BQRG9qTQ?oc=5",
-    "title": "인텔, 메모리 넘본다…삼성 파운드리 반격",
-    "summary": [
-      "인텔, 메모리 넘본다…삼성 파운드리 반격 리드경제."
-    ],
-    "chips": [
-      "#반도체"
-    ]
-  },
-  {
     "id": "n2beeb2e6",
     "category": "IT",
     "source": "비즈니스포스트",
-    "time": "3시간 전",
+    "time": "4시간 전",
     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBMbVI5anZMMjl0ZTNFZGFrYlVqdTNCYUNCRm9rRzdWcVZBVHR6ZVNWVnBsM0t4SU5DZ2o4VjU4OUFBcUQ1cF9EYkE0a0prYzZXTFVXT3AtYmFGRXVfMTJHS25ESWViUUNmS0dCWUFrTmRUcUE?oc=5",
     "title": "엔비디아 고객사에 금융지원 전략 성패는 메모리 공급망에 달렸다, 공급과잉 전환 시점이 중요",
     "summary": [
@@ -79,7 +79,7 @@ window.NEWS_DB = [
     "id": "n6f9d632c",
     "category": "IT",
     "source": "Counterpoint Research",
-    "time": "4시간 전",
+    "time": "5시간 전",
     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNWldFd0pOdDliUnJ6TDJUV2FTaGE1RndLODFNdVNleVoyNFVMdnRlQkEtODNMSDRQZDJCWjlab29yZ21sSldSU1BJWnFSc2QzRlZzOXMwY1ZqYkwxOWN4VkJVQ0FKRl8tRGg0TG1jYWZpeDIzVllxREtMZDhYbnZWTmVRNGhMQVB1WjJSdUl3?oc=5",
     "title": "인텔은 메모리 넘본다…삼성은 파운드리 반격",
     "summary": [
@@ -309,12 +309,28 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "nc9e8a726",
+    "category": "IT",
+    "source": "테크M",
+    "time": "방금 전",
+    "url": "https://www.techm.kr/news/articleView.html?idxno=154483",
+    "title": "카카오모빌리티 2대주주 TPG, 美 상장 '검토'...카카오 \"결정된 바 없어\"",
+    "summary": [
+      "카카오모빌리티 2대 주주 TPG가 투자금 회수를 위해 보유 중인 카카오모빌리티 지분의 미국 상장을 검토하고 있다.",
+      "이에 따라 지난 7월 미국 증권거래위원회(SEC)에 상장 관련 등록 신청서를 비공개로 제출했다.",
+      "다만, 아직 발행 규모 등 구체적인 내용은 확정되지 않았으며 카카오 이사회는 이와 관련해 결정한 사항이 없다는 입장을 보였다."
+    ],
+    "chips": [
+      "#카카오"
+    ]
+  },
+  {
     "id": "nce8bfc4a",
     "category": "IT",
     "source": "테크M",
     "time": "방금 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=154482",
-    "title": "[카드뉴스] PK도 직업도 없다...카카오게임즈가 권하는 색다른 MMORPG '도깨비의 세계'",
+    "title": "[카드뉴스] 무차별 PK 제한, 직업 대신 스킬 조합...카카오게임즈가 권하는 색다른 MMORPG '도깨비의 세계'",
     "summary": [
       "카카오게임즈가 오는 10월 신작 MMORPG '도깨비의세계'를 선보입니다.",
       "한국적인 세계관과 도트 그래픽도 눈에 띄지만, 진짜 차이는 게임 안에 있습니다.",
@@ -356,275 +372,270 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n97943adc",
-    "category": "IT",
-    "source": "테크M",
-    "time": "방금 전",
-    "url": "https://www.techm.kr/news/articleView.html?idxno=154479",
-    "title": "美 규제당국 문 두드린 두나무…'업비트 글로벌' 판 커진다",
+    "id": "n3501a73f",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "1분 전",
+    "url": "https://www.newsis.com/view/NISX20260820_0003756668",
+    "title": "'대법관 서면 제청' 논란에…\"대면은 관행일뿐\" vs \"제청권 남용\"(종합2보)",
     "summary": [
-      "국내 최대 디지털자산 사업자 두나무의 글로벌 시장 진출에 속도가 붙을지 관심이 쏠리고 있다.",
-      "미국이 해외에서 성장한 가상자산 사업자를 자국 규제체계 안으로 끌어들이는 정책에 힘을 싣기 시작하면서다.",
-      "국내 1위 거래소 업비트를 키운 두나무가 미국 규제당국과 직접 접촉한 것으로 알려지면서 '업비트 글로벌' 구상이 한층 구체화될 수 있다는 기대도 나온다.20일 가상자산업계에 따르면 두나무 최고위 경영진은 지난 6월 이후 미국 현지에서 증권거래위원회(."
-    ],
-    "chips": [
-      "#정책"
-    ]
-  },
-  {
-    "id": "n010052e0",
-    "category": "스포츠",
-    "source": "아시아경제",
-    "time": "방금 전",
-    "url": "https://view.asiae.co.kr/article/2026082018220096053",
-    "title": "故 안성기가 고른 여섯 편, 부산영화제 스크린에",
-    "summary": [
-      "지난 1월 별세한 배우 안성기의 대표작들이 오는 10월 스크린에 다시 걸린다.",
-      "부산국제영화제 사무국은 10월 6일 개막하는 영화제에서 한국영상자료원과 공동으로 특별 기획 '아름다운 시절, 안성기'를 연다고 20일 밝혔다.",
-      "상영작은 여섯 편으로, 안성기가 생전 이 기획을 제안받았을 때 직접 골랐다."
+      "[서울=뉴시스]홍연우 기자 = 조희대 대법원장의 대법관 서면 제청 논란과 관련해 보수 성향 변호사단체가 대면 제청은 관행일 뿐, 법적 의무가 아니라고 비판했다.",
+      "반면 진보 성향 변호사 단체는 조 대법원장이 제청권을 남용한 것이라며, 즉각 사과하라고 촉구에 나섰다.",
+      "보수 성향 변호사단체 한반도 인권과 통일을 위한 변호사모임(한변)은 20일 성명을 내 \"대면 제청은 하나의 관행일 뿐, 결코 법적 의무가 아니다\"라는 입장을 냈다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n76c55668",
-    "category": "사회",
+    "id": "n076a6dda",
+    "category": "IT",
     "source": "아시아경제",
-    "time": "2분 전",
-    "url": "https://view.asiae.co.kr/article/2026082018170182757",
-    "title": "김천시, 공공기관 2차 이전·철도망 국회 지원 요청",
+    "time": "1분 전",
+    "url": "https://view.asiae.co.kr/article/2026082019171330975",
+    "title": "프랑스군, 테슬라·BYD 차량에 경고…\"군사기밀 유출 우려\"",
     "summary": [
-      "경북 김천시가 공공기관 2차 이전 유치와 철도 교통망 확충을 위해 국회와의 협력 강화에 나섰다.",
-      "배낙호 김천시장은 20일 송언석 국회의원과 함께 유의동 국회 국토교통위원장을 만나 김천혁신도시의 공공기관 2차 이전 당위성을 설명하고 철도 핵심사업에 대한 국비 지원을 요청했다.",
-      "김천시는 이미 구축된 혁신도시 인프라와 교통 접근성을 강점으로 내세우며 공공기관 추가 이전의 최적지임을 강조했다."
+      "프랑스군이 테슬라·BYD 차량부터 틴더·스트라바 등 스마트폰 애플리케이션까지 일상적으로 사용하는 각종 기기가 군사기밀을 노출할 수 있다며 장병들에게 주의를 당부했다.",
+      "20일(현지시간) 일간 르파리지앵에 따르면 프랑스 국방정보보안국(DRSD)은 최근 중국 BYD와 미국 테슬라 차량이 군사기지에 들어올 경우 정보 유출 위험이 있다며 여러 차례 경고했다.",
+      "두 차량 모두 전후좌우를 촬영할 수 있는 카메라가 장착돼 있어 군사."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n981889de",
+    "category": "사회",
+    "source": "머니투데이",
+    "time": "1분 전",
+    "url": "https://www.mt.co.kr/politics/2026/08/20/2026082018335377747",
+    "title": "北, 탄도미사일 10여발 발사…안규백 \"600㎜ 방사포로 추정\"(종합)",
+    "summary": [
+      "[the300] 북한이 20일 동해상으로 탄도미사일 10여발을 발사했다.",
+      "도널드 트럼프 미국 대통령의 대화 제안에도 약 1주일 만에 대규모 무력시위에 나섰다.",
+      "합동참모본부는 이날 \"우리 군은 이날 오후 5시쯤 북한 평양 일대에서 동해상으로 발사된 단거리 탄도미사일 십여발을 포착했다\"고 밝혔다."
     ],
     "chips": [
       "#정치"
     ]
   },
   {
-    "id": "n5a879699",
-    "category": "사회",
-    "source": "뉴시스",
+    "id": "n854e09c6",
+    "category": "경제",
+    "source": "아시아경제",
     "time": "2분 전",
-    "url": "https://www.newsis.com/view/NISX20260820_0003756624",
-    "title": "북, 단거리탄도미사일 십여발 평양서 동해로 발사…한미 UFS연습 도중 도발",
+    "url": "https://view.asiae.co.kr/article/2026082019163426347",
+    "title": "영풍·MBK \"서스틴베스트, 이사 선임 반대는 명백한 자기모순\"",
     "summary": [
-      "[서울=뉴시스] 옥승욱 기자 = 북한이 20일 오후 단거리탄도미사일(SRBM)을 발사하며, 8일 만에 미사일 도발을 재개했다.",
-      "합동참모본부에 따르면 우리 군은 20일 오후 5시경 북한 평양 일대에서 동해상으로 발사된 단거리탄도미사일 10여발을 포착했다.",
-      "한미 정보당국은 미사일의 정확한 제원과 사거리 등을 분석 중에 있다."
+      "다음달 9일 열리는 고려아연 임시주주총회을 앞두고 영풍·MBK파트너스는 자신들이 추천한 고려아연 감사위원 후보에 반대를 권고한 의결권 자문사 서스틴베스트를 20일 정면으로 반박했다.",
+      "서스틴베스트는 앞서 낸 보고서에서 \"현 경영체제의 연속성을 유지하는 것이 전체 주주의 장기적 이익에 상대적으로 더 부합한다\"며 회사 측이 추천한 백인규 후보의 손을 들어줬다.",
+      "영풍·MBK 측 박유경 후보에 대해서는 \"회계·감사 전문성."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n05c48a94",
-    "category": "사회",
+    "id": "n5175e31a",
+    "category": "부동산",
     "source": "뉴시스",
-    "time": "2분 전",
-    "url": "https://www.newsis.com/view/NISX20260820_0003756616",
-    "title": "의사로 10년, 이젠 질병 연구자…GIST 하반기 학위수여식",
+    "time": "3분 전",
+    "url": "https://www.newsis.com/view/NISX20260820_0003756665",
+    "title": "경산 아파트 방화범 숨져, 총 5명 사망…공소권없음 종결",
     "summary": [
-      "[전남광주=뉴시스]이창우 기자 = 광주과학기술원(GIST)은 20일 오룡관 대강당에서 '올해 하반기 학위수여식'을 열고 박사 63명, 석사 79명, 학사 56명 등 총 198명에게 학위를 수여했다.",
-      "GIST가 1993년 설립 이후 배출한 과학기술 인재는 박사 2228명, 석사 5480명, 학사 1656명 등 총 9364명으로 늘었다.",
-      "이번 졸업생들은 의사 출신 과학자, 해외 대학원 진학, 연구 성과를 창업으로 연결한 기업가 등 각자의 질문과 도."
+      "[경산=뉴시스] 강병서 기자 = 경북 경산 아파트 관리사무소 방화 사건의 피의자 류모(71)씨가 20일 오후 숨져 이번 사건의 사망자는 5명으로 늘었다.",
+      "경찰과 경산시 등에 따르면 류씨는 이날 오후 5시께 치료를 받던 대구 한 병원에서 사망했다.",
+      "사건 발생 28일만에 방화 사건 주범이 숨졌다."
     ],
     "chips": [
-      "#교육",
+      "#부동산",
       "#의료"
     ]
   },
   {
-    "id": "ncd0d7c92",
+    "id": "n2949a4a0",
     "category": "사회",
     "source": "뉴시스",
-    "time": "2분 전",
-    "url": "https://www.newsis.com/view/NISX20260820_0003756617",
-    "title": "스위스 알프스 빙하 녹으면서 34년 전 실종 벨기에 등산가 2명 유해 발견",
-    "summary": [
-      "[제네바(스위스)=AP/뉴시스] 유세진 기자 = 스위스 알프스에서 30년도 더 전 실종됐던 벨기에 등반가 2명의 시신이 빙하가 녹으면서 발견됐다고 당국이 20일 밝혔다.",
-      "지난 세기 동안 실종자 명단을 보유한 남서부 발레 지역 정부는 빙하의 후퇴로 수십년 전 실종된 사람들의 유해가 나타나게 됐다고 밝혔다.",
-      "지난달 말, 한 등산객이 루체른시 남쪽의 트리프트 빙하가 녹으면서 드러난 유해를 발견했고, 이에 따라 수습 작업이 진행됐다고 지역 정부가 19."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n22fbf52f",
-    "category": "경제",
-    "source": "아시아경제",
     "time": "3분 전",
-    "url": "https://view.asiae.co.kr/article/2026081904550551721",
-    "title": "[디깅 트래블]뜨거운 물에서 파도 위까지…하이난, 휴양의 온도를 바꾸다",
+    "url": "https://www.newsis.com/view/NISX20260820_0003756663",
+    "title": "송일국 \"익숙한 이미지 깬다\"…'욕망이라는 이름의 전차' 스탠리 도전",
     "summary": [
-      "하이난에서 가장 오래 기억에 남은 물은 바닷물이 아니었다.",
-      "열대우림 속으로 들어가자 크고 작은 야외 온천탕이 숲 사이로 이어졌다.",
-      "나무는 물가까지 내려왔고, 뜨거운 물 위로 습한 공기가 낮게 머물렀다."
+      "[서울=뉴시스]김주희 기자 = \"배우에게 익숙한 이미지가 있는 건 감사한 일인데, 그걸 깨부수는 것 또한 배우의 몫이죠.",
+      "이번 기회에 제가 갖고 있던 이미지를 제대로 깨보겠습니다.\" 배우 송일국이 새로운 얼굴을 예고했다.",
+      "그는 20일 서울 강남구 더샵갤러리에서 열린 연극 '욕망이라는 이름의 전차' 제작발표회에서 \"관객분들이 '저 사람 송일국이었지'라는 사실을 잊게 만드는 게 목표\"라며 연기 변신에 대한 각오를 밝혔다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n24310410",
+    "id": "nb2a8d76b",
     "category": "경제",
-    "source": "아시아경제",
-    "time": "4분 전",
-    "url": "https://view.asiae.co.kr/article/2026082018183117446",
-    "title": "연구에서 한 권의 책까지…대우재단, 45년 기초학문 지원 이어간다",
+    "source": "머니투데이",
+    "time": "3분 전",
+    "url": "https://www.mt.co.kr/world/2026/08/20/2026082018330361049",
+    "title": "1992년 알프스서 실종된 두 남성…34년 만에 빙하 속에서 발견",
     "summary": [
-      "연구비를 지원하는 데서 그치지 않고 연구 결과가 한 권의 학술서로 나올 때까지 돕는 기초학문 지원 공모가 열린다.",
-      "1981년 시작된 대우재단의 학술지원사업은 45년 동안 쌓인 연구 성과를 860여권의 책으로 남겼다.",
-      "대우재단은 박사학위 소지 연구자를 대상으로 '2026년 정기 학술연구지원' 과제를 다음 달 15일까지 공개 모집한다고 20일 밝혔다."
+      "스위스 알프스를 오르다 34년 전 실종된 벨기에 등반가 2명의 유해가 녹아내린 빙하 속에서 발견됐다.",
+      "20일(현지 시간) AP통신 등에 따르면 스위스 발레주 경찰은 알프스 트리프트 빙하에서 발견된 유해 2구가 1992년 실종된 벨기에 등반가들의 것으로 확인됐다고 밝혔다.",
+      "이 유해들은 당시 빙하를 지나던 한 등산객이 발견해 경찰에 신고했다."
     ],
     "chips": [
-      "#채용"
+      "#의료"
     ]
   },
   {
-    "id": "ne3cc2cca",
-    "category": "스포츠",
+    "id": "nd156433b",
+    "category": "경제",
+    "source": "머니투데이",
+    "time": "4분 전",
+    "url": "https://www.mt.co.kr/society/2026/08/20/2026082018304124785",
+    "title": "초음파 공개했던 홍민기 전 여친, 폭로글 삭제…\"법정서 다툴 것\"",
+    "summary": [
+      "배우 홍민기(24)의 데이트 폭력과 낙태 종용을 주장해 파문을 일으킨 전 여자친구 A씨가 폭로를 멈추고 법적으로 대응하겠다는 입장을 밝혔다.",
+      "홍민기의 전 여자친구 A씨는 20일 자신의 SNS(소셜미디어)를 통해 \"이제 개인 SNS에 그 사람 관련 내용은 올리지 않을 예정\"이라며 \"고소하고 법정에서 제대로 처벌받게 할 것\"이라고 밝혔다.",
+      "그러면서 앞서 공개했던 초음파 사진, 산부인과 진료 관련 서류, 멍 자국 사진 등을 모두 삭제했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n95bc16fc",
+    "category": "사회",
     "source": "뉴시스",
     "time": "5분 전",
-    "url": "https://www.newsis.com/view/NISX20260820_0003756428",
-    "title": "가장 먼저 10패 채운 SSG 타케다, 결국 2군행…우완 영건 변건우 합류",
+    "url": "https://www.newsis.com/view/NISX20260820_0003756672",
+    "title": "中, 김정은·트럼프 APEC 만남 여부에 \"구체적 정보 없어\"",
     "summary": [
-      "[서울=뉴시스]김희준 기자 = 올 시즌 가장 먼저 10패에 도달한 프로야구 SSG 랜더스의 아시아 쿼터 일본인 투수 타케다 쇼타가 2군으로 내려갔다.",
-      "SSG는 20일 대구 삼성라이온즈파크에서 벌어지는 2026 신한 쏠 KBO리그 삼성 라이온즈와의 경기를 앞두고 타케다를 1군 엔트리에서 제외했다.",
-      "타케다는 올 시즌부터 도입된 아시아 쿼터를 통해 KBO리그 무대를 밟았다."
+      "[베이징=뉴시스]박정규 특파원 = 도널드 트럼프 미국 대통령이 김정은 북한 국무위원장과 연내에 만날 것이라는 언급을 내놓은 가운데 오는 11월 열릴 아시아태평양경제협력체(APEC) 정상회의에서 양측이 만날 가능성에 대해 중국 정부가 함구했다.",
+      "린젠 중국 외교부 대변인은 20일 정례브리핑에서 11월 중국 선전에서 열리는 APEC 정상회의에서 북·미 정상회담을 여는 방안을 검토하고 있다는 일부 보도와 관련한 입장을 묻는 질문에 \"조선(북한)·미국."
     ],
     "chips": [
-      "#KBO"
+      "#정치"
     ]
   },
   {
-    "id": "nfe088e6a",
+    "id": "ne68c0762",
     "category": "경제",
-    "source": "연합뉴스(경제)",
-    "time": "7분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260820168500002",
-    "title": "보이스피싱 조직원, 수사 협조하면 형량 감면된다",
+    "source": "아시아경제",
+    "time": "5분 전",
+    "url": "https://view.asiae.co.kr/article/2026082019131819653",
+    "title": "김정관 산업장관 \"대미투자 협상 상당한 진전…1호 프로젝트 9월 중 발표\"(종합)",
     "summary": [
-      "(서울=연합뉴스) 강수련 기자 = 앞으로 보이스피싱 범죄조직 핵심 가담자 검거에 협조한 내부자는 형벌이 감면된다."
+      "김정관 산업통상부 장관이 대미 전략투자 협상과 관련해 \"상당히 의미 있는 진전이 있었다\"며 1호 프로젝트가 9월 중 가시화할 것으로 전망했다.",
+      "첫 투자 분야는 기존에 협의해 온 에너지 분야를 중심으로 추진하기로 했다.",
+      "미국 무역법 301조 조사에 따른 관세 문제에 대해서도 한미가 기존에 합의한 '15% 상한선'을 유지하는 데 공감대를 확인했다고 밝혔다."
     ],
     "chips": [
-      "#뉴스"
+      "#수출"
     ]
   },
   {
-    "id": "n1f898d32",
+    "id": "n84362851",
     "category": "사회",
-    "source": "연합뉴스",
-    "time": "8분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260820165500054",
-    "title": "경북도·전남광주특별시, 국립의대 신설 계획서 교육부에 제출",
+    "source": "머니투데이",
+    "time": "5분 전",
+    "url": "https://www.mt.co.kr/society/2026/08/20/2026082018461613475",
+    "title": "\"내 아들이 학폭 가해자?\"…악성민원 넣은 학부모, 법정구속",
     "summary": [
-      "(전남광주·안동=연합뉴스) 형민우 이승형 기자 = 경북도와 전남광주통합특별시는 20일 국립의대 신설 추진 계획서를 교육부에 제출했다."
+      "자녀가 학교폭력 가해자로 지목되자 초등학교 교직원 등 여러 명을 상대로 상습적인 협박과 폭언을 일삼은 40대 학부모가 법정구속됐다.",
+      "20일 뉴시스에 따르면 청주지법 영동지원 형사1단독 강창호 판사는 정보통신망법(정보통신망 이용촉진 및 정보보호 등에 관한 법률) 위반, 아동복지법 위반(아동학대) 혐의 등으로 기소된 A씨에게 징역 1년 4개월에 벌금 20만원을 선고하고 법정구속했다.",
+      "A는 2024년 충북의 한 초등학교에 다니는 아들(당시 3학년)이."
     ],
     "chips": [
       "#교육"
     ]
   },
   {
-    "id": "n91f8b337",
+    "id": "n045763dc",
     "category": "사회",
     "source": "연합뉴스",
-    "time": "8분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260820167400004",
-    "title": "검찰, 송민호 '부실복무' 도운 공단 관리자에 징역 1년 구형",
+    "time": "6분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260820169600001",
+    "title": "국힘, '전국 당협위원장 일괄사퇴後 재선출' 일단 보류…내주 의결 전망",
     "summary": [
-      "(서울=연합뉴스) 윤민혁 기자 = 검찰이 사회복무요원 근무지를 무단 이탈한 혐의를 받는 아이돌 그룹 '위너'의 송민호(33)의 복무 당시 관리책..."
+      "(서울=연합뉴스) 이정현 조다운 기자 = 국민의힘 장동혁 대표 체제 지도부가 20일 현역 의원을 포함한 전체 당협위원장을 이달 말 임기 만료를 ..."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "nbaf95cd3",
+    "id": "n24dbc0a2",
+    "category": "사회",
+    "source": "아시아경제",
+    "time": "8분 전",
+    "url": "https://view.asiae.co.kr/article/2026082019105315083",
+    "title": "두 하녀의 욕망과 증오…장 주네 ‘하녀들’ 대학로 무대에",
+    "summary": [
+      "1933년 프랑스에서 가정부 자매가 자신이 일하던 집의 안주인과 그의 딸을 잔혹하게 살해한 '파팽 자매 사건'에서 영감을 얻은 것으로 알려진 연극 '하녀들'이 대학로 무대에 오른다.",
+      "극단 수는 2026년 한국문화예술위원회 공연예술창작주체사업 선정작으로 '빛과 어둠의 경계에서', '낭만적인 개소리'에 이어 올해 마지막 작품인 '하녀들'을 오는 9월17일부터 27일까지 대학로 나온씨어터에서 공연한다고 20일 밝혔다."
+    ],
+    "chips": [
+      "#교육"
+    ]
+  },
+  {
+    "id": "n377914ff",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "9분 전",
+    "url": "https://www.chosun.com/sports/world-baseball/2026/08/20/MEZWEMRUMMZWMODGG5RGMODCGA/",
+    "title": "'131구→158구→136구' 완투 퍼레이드도, '156km' 괴물도 모두 무너졌다…에이스의 숙명",
+    "summary": [
+      "[스포츠조선 김영록 기자] 150㎞대 중반의 공을 씽씽 뿌리는 넘버원 투수와 올해를 대표하는 완투 머신, 올여름을 불태운 두 남자는 고시엔 우승과는 인연이 없었다.",
+      "3778개팀의 정점에 설 기회, 일본 고교야구 '꿈의무대' 여름 고시엔(전국고교야구선수권)의 우승 향방이 단 2팀으로 좁혀졌다.",
+      "20일 일본 니시노미야시의 고시엔에서 열린 대회 준결승전에서 지벤."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
+    "id": "nb0f836b2",
     "category": "사회",
     "source": "연합뉴스",
     "time": "9분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260820167000004",
-    "title": "경찰 순환인사제, 수사개혁위 검토 거쳐 시행…현장 반발 반영",
+    "url": "https://www.yna.co.kr/view/AKR20260820072551061",
+    "title": "경찰, '수원 마약영상' 30대 4시간 소환 조사…송치여부 검토(종합)",
     "summary": [
-      "(서울=연합뉴스) 한지은 기자 = 경찰이 추진하는 순환인사제 확대가 현장 경찰관 반발을 반영해 경찰 수사개혁위원회의 검토를 거쳐 시행하기로 했다..."
+      "(수원=연합뉴스) 권준우 김솔 기자 = 길거리에서 이른바 '좀비 마약'을 투약한 듯 등이 굽은 자세로 서 있어 충격을 줬던 '수원 마약 의심 영..."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n5233010b",
+    "id": "n8b638dcf",
     "category": "사회",
     "source": "조선일보",
-    "time": "16분 전",
-    "url": "https://www.chosun.com/economy/economy_general/2026/08/20/UGOAT3K6URCMZCLWMVXJHU7K24/",
-    "title": "상장사 ‘주가 누르기’ 막는다...앞으로는 시가 대신 공정가액으로 합병가액 산정",
+    "time": "12분 전",
+    "url": "https://www.chosun.com/politics/diplomacy-defense/2026/08/20/33WRTZGYCJDJFLPLSC4XTP4BZA/",
+    "title": "‘대양해군의 설계자’ 안병태 전 해참총장, 회고록 출간",
     "summary": [
-      "상장사 ‘주가 누르기’ 막는다...앞으로는 시가 대신 공정가액으로 합병가액 산정."
+      "‘대양해군의 설계자’ 안병태 전 해참총장, 회고록 출간."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n3f656269",
+    "id": "neff4f827",
     "category": "IT",
-    "source": "ZDNet Korea",
-    "time": "22분 전",
-    "url": "https://zdnet.co.kr/view/?no=20260820172508",
-    "title": "스튜디오비사이드 '스타세이비어', 신규 이벤트 스토리 '잿빛 잔화의 메타바시스' 업데이트",
+    "source": "동아일보",
+    "time": "12분 전",
+    "url": "https://www.donga.com/news/It/article/all/20260820/134515610/1",
+    "title": "[헬스케어픽] 진단부터 처방까지···AI, 의료 현장 깊숙이 파고든다",
     "summary": [
-      "[지디넷코리아]스튜디오비사이드가 수집형 육성 RPG '스타세이비어'에 신규 서사와 전투 캐릭터를 추가하는 대규모 콘텐츠 업데이트를 적용한다.스튜디오비사이드(대표 류금태)는 수집형 육성 RPG '스타세이비어'에 신규 이벤트 스토리 '잿빛 잔화의 메타바시스'를 업데이트했다고 20일 밝혔다.이번 이벤트 스토리는 모렐 해운상회로부터 고대 유적 탐사를 의뢰받은 '단장'의 여정을 중심으로 전개된다.",
-      "플레이어는 기존 캐릭터 '에데'와 신규 캐릭터 '크리스텔."
+      "헬스케어 산업의 지형이 빠르게 바뀌고 있습니다.",
+      "이 변화의 흐름 속에서 두각을 나타내는 국내외 기업과 서비스를 엄선해 소개합니다.",
+      "헬스케어픽은 신기술을 앞세운 스타트업부터 사업 확장에 나선 대기업, 그리고 주목할 만한 서비스까지 국경을 가리지 않고 헬스케어 업계의 소식을 전합니다.UHS, 톡스페이스 인수 완료···정신건강 서비스 통합 나선다미국 최대 병원 그룹 중 하나인 유니버설 헬스 서비스(Universal Health Services, UH."
     ],
     "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "na9e8fadc",
-    "category": "경제",
-    "source": "연합뉴스(경제)",
-    "time": "22분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260820145900051",
-    "title": "북극항로 시대 연다…국내 컨테이너선 22일 첫 시범운항",
-    "summary": [
-      "(부산=연합뉴스) 이영재 기자 = 한국 컨테이너선이 오는 22일 북극항로를 거쳐 유럽까지 가는 첫 시범 운항에 나선다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nc09bb3c5",
-    "category": "경제",
-    "source": "연합뉴스(경제)",
-    "time": "22분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260820160000011",
-    "title": "[연합뉴스 이 시각 헤드라인] - 18:00",
-    "summary": [
-      "[연합뉴스 이 시각 헤드라인] - 18:00."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n8f771e40",
-    "category": "IT",
-    "source": "ZDNet Korea",
-    "time": "23분 전",
-    "url": "https://zdnet.co.kr/view/?no=20260820174842",
-    "title": "방미통위, 광주서 비상방송 제작·송출 훈련 진행",
-    "summary": [
-      "[지디넷코리아]방송미디어통신위원회는 전시 등 비상상황에서도 방송을 안정적으로 선보이기 위한 비상방송 제작·송출 훈련을 진행했다고 20일 밝혔다.올해 을지연습 실제 훈련 일환으로, 이날 전남광주통합특별시 서구 소재 광주시청자미디어센터에서 진행됐다.적의 공격으로 방송국 시설이 파괴된 상황을 가정, 광주시청자미디어센터를 비상방송 제작 거점으로 활용해 방송 기능을 유지하는 절차를 점검하기 위해 마련됐다.전시 방송 공백을 막기 위한 훈련엔 방미통위를 비."
-    ],
-    "chips": [
-      "#뉴스"
+      "#AI",
+      "#스타트업",
+      "#의료"
     ]
   }
 ];
@@ -634,8 +645,8 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2720건",
-    "trend": "+315%"
+    "mentions": "2200건",
+    "trend": "+235%"
   },
   {
     "rank": 2,
@@ -645,7 +656,7 @@ window.KEYWORD_TOP = [
   },
   {
     "rank": 3,
-    "tag": "KBO",
+    "tag": "AI",
     "mentions": "1420건",
     "trend": "+115%"
   }
