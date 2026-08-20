@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-08-20 22:15:53
+// 마지막 업데이트: 2026-08-20 23:15:59
 window.NEWS_DB = [
   {
     "id": "n6f9d632c",
     "category": "IT",
     "source": "Counterpoint Research",
-    "time": "13시간 전",
+    "time": "14시간 전",
     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNWldFd0pOdDliUnJ6TDJUV2FTaGE1RndLODFNdVNleVoyNFVMdnRlQkEtODNMSDRQZDJCWjlab29yZ21sSldSU1BJWnFSc2QzRlZzOXMwY1ZqYkwxOWN4VkJVQ0FKRl8tRGg0TG1jYWZpeDIzVllxREtMZDhYbnZWTmVRNGhMQVB1WjJSdUl3?oc=5",
     "title": "인텔은 메모리 넘본다…삼성은 파운드리 반격",
     "summary": [
@@ -19,7 +19,7 @@ window.NEWS_DB = [
     "id": "nd000c55e",
     "category": "IT",
     "source": "데이터넷",
-    "time": "13시간 전",
+    "time": "14시간 전",
     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE11QUd4NkhZaDRidFpDRHoyWnFPeURfYVpIMjRZc1pjSmdiTDBiYmVZbnpCQkJxd0ZJaUdMeW5DWVhaTlVmOW53X3BuVTh4bGtYVWM4OUd3a1RtdFdtNm5xSVZMakxxb1lsUnNONA?oc=5",
     "title": "“인텔은 메모리 넘보고, 삼성은 파운드리 반격”",
     "summary": [
@@ -33,7 +33,7 @@ window.NEWS_DB = [
     "id": "n36bf22dc",
     "category": "사회",
     "source": "뉴스 따옴",
-    "time": "13시간 전",
+    "time": "14시간 전",
     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1JYmRLTlA3Yk9LMUJzM3k2cHd4bzJlcWJmVEM4Ukx0aGpZdWNYYnUwaUIxY2MzdVRNWmpBemNkRnpNV1ppVnNiSDAzcFY3WEhEOUdIMnVKc2tUNjR5eS14cUdmem80cHlESzJGTTdn0gFyQVVfeXFMT0Q0MHBweW9XVm1JaUJWTnJLcW1Dbm5VcXhjVjRNV1dCOHh5UTlIUGxEUnhfVmR3Tmk0bng0TGcyTkc4RmhVRHAwd1JTaW00STFJcUxGUVdYNDBpWTdNQzdqUENBcDVGeWN1eU1lTEFqMk5n?oc=5",
     "title": "고용노동부 안양지청, 원하는 일자리는 가까이에, 고용센터 ‘일자리 수요데이’로 통(通)하다",
     "summary": [
@@ -47,7 +47,7 @@ window.NEWS_DB = [
     "id": "n72333e67",
     "category": "사회",
     "source": "서울뉴스통신",
-    "time": "15시간 전",
+    "time": "16시간 전",
     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1PU0xyNnJwRUhKbThVQm9zempWb0p3QVBUUEE3YVQxZ05XdXdUeUtfT01hZlVMbTA2ZTlKU2ctUlhJTVNWVlJMNXFHenVndGxFVG9xMGdVdnh1dEtZUENkdFQ5dXdRRjNTdVh3?oc=5",
     "title": "고용센터 AI 기반 맞춤형으로 개편…구직 상담·기업 채용지원 대폭 강화",
     "summary": [
@@ -64,7 +64,7 @@ window.NEWS_DB = [
     "id": "n13d51c3b",
     "category": "IT",
     "source": "뉴시스",
-    "time": "16시간 전",
+    "time": "17시간 전",
     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9rWS0wRFlYVEJqMTVFVmtUb1Z3YnkzaS1kUnNoMFhVYjVvZUVEYVI4Zk0yTTFnOXRrWW9MOEFZdV9LRnBhZWtPWHc3Nkp1cjBWdkxPeGZvNml6dUFKR01YTW5TeDJ4TUxiWGZQSUpzRW9sb2hxclZJeNIBeEFVX3lxTE9rWS0wRFlYVEJqMTVFVmtUb1Z3YnkzaS1kUnNoMFhVYjVvZUVEYVI4Zk0yTTFnOXRrWW9MOEFZdV9LRnBhZWtPWHc3Nkp1cjBWdkxPeGZvNml6dUFKR01YTW5TeDJ4TUxiWGZQSUpzRW9sb2hxclZJeA?oc=5",
     "title": "\"엔비디아 종속 막자\"…정부·AMD·K반도체 '연합 전선' 구축(종합)",
     "summary": [
@@ -79,7 +79,7 @@ window.NEWS_DB = [
     "id": "n29c6183f",
     "category": "IT",
     "source": "리드경제",
-    "time": "16시간 전",
+    "time": "17시간 전",
     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE95dVc1a3FlSHJ2d3E0c2cwM2loSVY0cGVNcVcxYU0tMTJPZkxYWWQ3VnUwcHBYVlJxWmwwM3pnU2JWTlhqYXAzS1dmbnMxd0xvc3FKeV9nVVpNSTgwb1lKUEhkcnZ6eDBUb3BQRG9qTQ?oc=5",
     "title": "인텔, 메모리 넘본다…삼성 파운드리 반격",
     "summary": [
@@ -93,7 +93,7 @@ window.NEWS_DB = [
     "id": "n2beeb2e6",
     "category": "IT",
     "source": "비즈니스포스트",
-    "time": "16시간 전",
+    "time": "17시간 전",
     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBMbVI5anZMMjl0ZTNFZGFrYlVqdTNCYUNCRm9rRzdWcVZBVHR6ZVNWVnBsM0t4SU5DZ2o4VjU4OUFBcUQ1cF9EYkE0a0prYzZXTFVXT3AtYmFGRXVfMTJHS25ESWViUUNmS0dCWUFrTmRUcUE?oc=5",
     "title": "엔비디아 고객사에 금융지원 전략 성패는 메모리 공급망에 달렸다, 공급과잉 전환 시점이 중요",
     "summary": [
@@ -310,102 +310,307 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n37237e4c",
+    "id": "n680c4721",
     "category": "사회",
-    "source": "뉴시스",
-    "time": "3분 전",
-    "url": "https://www.newsis.com/view/NISX20260821_0003756831",
-    "title": "[오늘의 주요일정]울산(8월21일 금요일)",
-    "summary": [],
+    "source": "아시아경제",
+    "time": "방금 전",
+    "url": "https://view.asiae.co.kr/article/2026082108130900058",
+    "title": "2026 거리판 '오징어게임'…美 도로에 20t 넘는 오징어 '와르르'",
+    "summary": [
+      "미국 로드아일랜드주의 한 도로에서 오징어를 가득 실은 트럭이 전복돼 20t이 넘는 오징어가 도로 위로 쏟아지는 사고가 발생했다.",
+      "20일(현지시간) AP통신과 가디언 등 외신은 도로에 오징어 트럭이 전복되면서 사고 수습에만 약 8시간이 걸렸고, 더운 날씨 속에 오징어가 장시간 방치되면서 일대에는 심한 악취까지 퍼졌다고 보도했다.",
+      "사고는 지난 16일 오전 9시 30분께 미국 로드아일랜드주 내러갠셋의 한 도로에서 발생했다."
+    ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "ncd65c725",
-    "category": "경제",
+    "id": "n33e5f632",
+    "category": "사회",
     "source": "아시아경제",
-    "time": "4분 전",
-    "url": "https://view.asiae.co.kr/article/2026082014145379446",
-    "title": "[먹어보니]학교 앞 추억의 맛을 뛰어 넘었다…'왕뚜껑 국물라볶이'",
+    "time": "2분 전",
+    "url": "https://view.asiae.co.kr/article/2026082108134713624",
+    "title": "민경선 고양시장 “고양은평선 일산 연장·고양신사선 국가계획 반영해야”",
     "summary": [
-      "떡과 어묵, 그리고 라면의 단순한 조합이지만 눈 깜짝할 사이 빈 접시만 남아있던 추억의 라볶이.",
-      "이따금 한 번씩 생각나 집에서 만들어 보면 추억의 맛을 만들어 내기 쉽지 않아 은근히 까다로운 음식이다.",
-      "학창 시절 분식점에서 먹던 라볶이 맛을 손쉽고 간편하게 즐길 수 있는 제품이 출시됐다.팔도에서 만든 '왕뚜껑 국물라볶이'가 그 주인공이다."
+      "민경선 고양특례시장이 수도권 서북부의 출퇴근 교통난을 해소하기 위해 고양은평선 일산 연장과 고양신사선 건설을 국가계획에 반영해 달라고 정부에 건의했다.",
+      "민 시장은 지난 20일 국회의원회관에서 대도시권광역교통위원회 위원장을 만나 고양시의 주요 광역교통 현안을 담은 정책 건의서를 전달했다.",
+      "이날 면담은 고양시가 지역구인 김성회 국회의원의 협조로 마련됐다."
+    ],
+    "chips": [
+      "#정책",
+      "#채용",
+      "#정치"
+    ]
+  },
+  {
+    "id": "n9f8bf258",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "2분 전",
+    "url": "https://www.newsis.com/view/NISX20260821_0003756887",
+    "title": "SBI인베스트먼트, 11억 규모 자사주 전량 소각 결정",
+    "summary": [
+      "[서울=뉴시스] 김경택 기자 = 벤처투자회사 SBI인베스트먼트는 보유 중인 자사주 47만313주 소각을 결정했다고 21일 밝혔다.",
+      "소각 예정금액은 약 11억원으로 소각 예정일은 오는 27일이다.",
+      "회사 측에 따르면 이번 소각으로 SBI인베스트먼트가 보유한 자사주는 모두 소멸한다."
+    ],
+    "chips": [
+      "#스타트업"
+    ]
+  },
+  {
+    "id": "nbc966882",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "3분 전",
+    "url": "https://www.newsis.com/view/NISX20260821_0003756885",
+    "title": "[대학소식]국립창원대, 우즈베키스탄 봉사단 파견 등",
+    "summary": [
+      "[창원=뉴시스]홍정명 기자 = 국립창원대학교는 2026년 대학생 해외봉사단을 20일부터 30일까지 일정으로 우즈베키스탄 타슈켄트 35번학교에 파견했다고 21일 밝혔다.",
+      "봉사단은 현지에서 한국 전통문화와 K-컬처를 소개하는 프로그램과 교육봉사, 문화교류, 체험활동 등 대학 전공과 역량을 활용한 다양한 봉사활동을 펼친다.",
+      "학생과 백승엽 처장은 \"이번 해외봉사는 단순한 봉사 활동을 넘어 현지의 문화를 이해하고 서로의 문화를 나누는 국제교류의 장이 될."
     ],
     "chips": [
       "#교육"
     ]
   },
   {
-    "id": "n895950ba",
+    "id": "n3bc41edc",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "3분 전",
+    "url": "https://www.newsis.com/view/NISX20260821_0003756884",
+    "title": "원주시 단구근린공원 유휴부지 '주민 쉼터'로 탈바꿈",
+    "summary": [
+      "[원주=뉴시스]이덕화 기자 = 불법 쓰레기 투기 등으로 주민 민원이 이어지던 강원 원주시 단구근린공원 내 유휴부지가 주민들이 쉬어갈 수 있는 생활밀착형 공간으로 탈바꿈했다.",
+      "원주시는 '단구근린공원 휴게쉼터 조성'을 마무리하고 24일부터 주민들에게 전면 개방한다고 21일 밝혔다.",
+      "이번 쉼터 조성은 지난해 8월 열린 '단구동 이동시장실'에서 나온 주민들의 건의가 계기가 됐다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n20c406f6",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "4분 전",
+    "url": "https://www.newsis.com/view/NISX20260821_0003756882",
+    "title": "엔비티, 딥클린 액체세제 신제품 출시…IP 커머스 확대",
+    "summary": [
+      "[서울=뉴시스] 김경택 기자 = 엔비티는 세탁 전문 브랜드 월드크리닝과 공동 개발한 딥클린 액체세제 신제품 '프리스틴 블루 특유취제거'를 출시했다고 21일 밝혔다.",
+      "회사 측에 따르면 프리스틴 블루는 월드크리닝이 27년간 축적한 세탁 노하우를 가정용 제품에 적용한 액체세제다.",
+      "땀 냄새와 쉰내 등 특유취 제거에 초점을 맞췄으며, 기능성 효소를 적용해 황변 얼룩과 냄새 제거 기능을 강화했다."
+    ],
+    "chips": [
+      "#환경"
+    ]
+  },
+  {
+    "id": "n3cd1f819",
     "category": "경제",
-    "source": "뉴시스",
+    "source": "조선일보",
     "time": "5분 전",
-    "url": "https://www.newsis.com/view/NISX20260821_0003756816",
-    "title": "美재무, 국채금리 상승에 추가 대응 시사…\"바이백 40억달러 넘길 수도\"",
+    "url": "https://www.chosun.com/economy/stock-finance/2026/08/21/4OID5P6JQJEIFO7S6A6HLBUWJY/",
+    "title": "31억달러 ‘숏 스퀴즈’ 터졌다…비트코인 7만2000달러 돌파",
     "summary": [
-      "[서울=뉴시스] 신효령 기자 = 스콧 베선트 미국 재무장관이 장기 국채시장 불안에 대응하기 위해 국채 바이백(재매입) 규모를 회당 40억달러(약 5조5800억원) 이상으로 늘릴 수 있다고 밝혔다.",
-      "베선트 장관은 20일(현지시간) 미국 CNBC와의 인터뷰에서 \"바이백 규모를 늘릴 것\"이라며 \"회당 40억달러를 넘어설 수도 있다\"고 말했다.",
-      "미 재무부는 전날 10~20년물과 20~30년물 장기 국채의 바이백 한도를 기존 회당 20억달러(약 2조79."
+      "31억달러 ‘숏 스퀴즈’ 터졌다…비트코인 7만2000달러 돌파."
     ],
     "chips": [
-      "#금리"
+      "#뉴스"
     ]
   },
   {
-    "id": "ne57d94b9",
+    "id": "n1fb16d94",
     "category": "사회",
-    "source": "연합뉴스",
+    "source": "아시아경제",
     "time": "5분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260821015500004",
-    "title": "서초구, '서래마을 상권' 제9호 골목형상점가로 지정",
+    "url": "https://view.asiae.co.kr/article/2026082108104539525",
+    "title": "태광그룹 '큰희망', 장애 고교생 사회 진출 돕는다",
     "summary": [
-      "(서울=연합뉴스) 정준영 기자 = 서울 서초구(구청장 전성수)는 지난 19일 서래마을 일대 상권을 서초구 제9호 골목형상점가로 지정했다고 21일..."
+      "태광그룹 계열 장애인 표준사업장 '큰희망'이 장애 고등학생의 사회 진출을 돕기 위한 직업훈련을 이어가고 있다.",
+      "지난해에는 직업훈련 수료생 가운데 처음으로 정규직 채용 사례도 나왔다.",
+      "태광그룹 레저·인프라 계열사 티시스의 장애인 표준사업장 큰희망은 2019년부터 진행해 온 장애 고등학생 직업훈련 8기가 한 달간의 현장실습을 마쳤다고 21일 밝혔다."
     ],
     "chips": [
-      "#뉴스"
+      "#채용",
+      "#교육"
     ]
   },
   {
-    "id": "n3266ac7f",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "7분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260821015100004",
-    "title": "선유도역 인근 공장서 암모니아 가스 누출…인명피해 없어",
+    "id": "n2ee36211",
+    "category": "경제",
+    "source": "아시아경제",
+    "time": "5분 전",
+    "url": "https://view.asiae.co.kr/article/2026082108104335873",
+    "title": "SBI인베, 보유 자사주 47만주 전량 소각…기업가치 제고",
     "summary": [
-      "(서울=연합뉴스) 정윤주 기자 = 21일 오전 5시 30분께 서울 영등포구 선유도역 인근 식품 공장에서 암모니아 가스가 누출돼 소방당국이 출동했..."
+      "국내 벤처투자회사 SBI인베스트먼트는 보유 중인 자사주를 전량 소각할 예정이라고 21일 밝혔다.",
+      "SBI인베스트먼트는 전날 이사회를 열고 보유 중인 자사주 47만313주 전량을 소각하기로 결의했다.",
+      "소각 예정 금액은 약 11억800만원, 예정일은 27일이다."
     ],
     "chips": [
-      "#뉴스"
+      "#스타트업"
     ]
   },
   {
-    "id": "n7533e9d5",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "8분 전",
-    "url": "https://www.newsis.com/view/NISX20260821_0003756829",
-    "title": "울산, 낮 최고 33도 폭염 계속…밤에는 열대야",
-    "summary": [
-      "[울산=뉴시스] 박수지 기자 = 21일 울산지역은 폭염으로 낮 최고기온이 33도까지 오르겠다.",
-      "기상청에 따르면 이날 울산의 아침 최저기온은 25도, 낮 최고기온은 33도로 평년보다 2~4도 높겠다.",
-      "하늘 상태는 구름이 많겠다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n38a13362",
+    "id": "n23e9ea12",
     "category": "스포츠",
-    "source": "연합뉴스",
-    "time": "9분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260821015000007",
-    "title": "베식타시 오현규, 시즌 첫 골에 PK도 유도…UEL 본선행 청신호",
+    "source": "조선일보",
+    "time": "5분 전",
+    "url": "https://www.chosun.com/sports/baseball/2026/08/21/MM4TCYRXHEZTMMDDMM4WIZLBMQ/",
+    "title": "‘하늘이 돕는걸까’ KIA, 시즌 첫 3위 달성하니 10위→7위→9위→6위 만나는 황금일정…선두 경쟁 뛰어들까",
     "summary": [
-      "(서울=연합뉴스) 오명언 기자 = 국가대표 스트라이커 오현규(베식타시)가 튀르키예 프로축구 무대에서 올 시즌 공식전 6경기 만에 첫 골을 신고했..."
+      "[OSEN=길준영 기자] 프로야구 KIA 타이거즈가 올 시즌 처음으로 리그 3위에 오른 가운데 하위권 팀들을 연달아 만나는 일정을 소화한다.",
+      "KIA는 지난 20일 대전 한화생명볼파크에서 열린 ‘2026 신한은행 SOL Bank KBO리그’ 한화 이글스와의 경기에서 10-6으로 승리하며 5연승을 질주했다.",
+      "김도영(3안타 4득점), 해럴드 카스트로(2안타 3타."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
+    "id": "n1245b85f",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "6분 전",
+    "url": "https://www.chosun.com/sports/world-football/2026/08/21/GE3WGYRTGU3WMZDEGRTDGNLGMM/",
+    "title": "'LEE, 유니폼을 팔기 위해 뛰는 것이 아니다' 이강인 환상적인 결승골 데뷔전, 아틀레티코 '새 7번' 자격을 증명했다..마르카 '그의 직업은 스나이퍼'",
+    "summary": [
+      "[스포츠조선 노주환 기자]'이강인, 직업은 스나이퍼' 한국 축구 대표팀 에이스 이강인이 새롭게 둥지를 튼 스페인 아틀레티코 마드리드 데뷔전에서 환상적인 결승골로 강한 인상을 남겼다.",
+      "이에 스페인 매체 마르카는 이 같은 헤드라인의 기사를 21일 보도했다.",
+      "또 '코리안, 아틀레티코 데뷔전에서 메트로폴리타노를 사로잡다'라고 평가했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n89e21e79",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "10분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260821021100005",
+    "title": "'유미의 세포들'과 실천하는 탄소중립…22∼30일 체험관 운영",
+    "summary": [
+      "(서울=연합뉴스) 임순현 기자 = 문화체육관광부는 22∼30일 서울 마포구 홍대 스타스퀘어에서 체험관 '구해줘! 탄소0향력 세포마을'을 운영한다..."
+    ],
+    "chips": [
+      "#환경"
+    ]
+  },
+  {
+    "id": "ne7447ecc",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "12분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260821021800052",
+    "title": "'극한호우' 거제·통영, 민관군 복구 전력…섬지역도 장비 투입",
+    "summary": [
+      "(거제=연합뉴스) 정종호 기자 = 경남 남부지역을 강타한 극한호우로 큰 피해가 발생한 지 닷새째인 21일 거제와 통영에서는 민관군이 협동해 수해..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nd72fff67",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "14분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260821020800051",
+    "title": "[부산소식] 보건환경연구원, 2027년 연구사업 과제 공모",
+    "summary": [
+      "(부산=연합뉴스) 부산시 보건환경연구원은 24일부터 다음 달 23일까지 2027년 연구사업 과제를 공모한다고 21일 밝혔다."
+    ],
+    "chips": [
+      "#의료",
+      "#환경"
+    ]
+  },
+  {
+    "id": "nc0acd904",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "15분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260820135600005",
+    "title": "[베스트셀러] 영화 흥행 속 서점가도 '오디세이' 인기",
+    "summary": [
+      "(서울=연합뉴스) 강종훈 기자 = 영화 개봉과 함께 '오디세이' 관련 도서 판매도 큰 폭으로 증가했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n5895ac24",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "15분 전",
+    "url": "https://www.donga.com/news/Inter/article/all/20260821/134516659/1",
+    "title": "뉴욕 심장부 상륙한 올리브영…“클렌징 제품, 美보다 순해서 잘 나가”",
+    "summary": [
+      "“토리든, 이니스프리 같은 한국 뷰티 브랜드가 뉴요커들 사이에서도 이미 매우 유명해요.",
+      "16세부터 50대 손님들까지 나이대와 상관없이 많이 사 갑니다.”일명 ‘K-뷰티’라 불리는 한국 화장품이 미국 뉴욕 심장부에 상륙했다.",
+      "20일(현지 시간) 오전 미국 뉴욕 타임스퀘어 세포라 매장 안에 입점한 올리브영 코너에서 현지 직원 리즈베스 씨는 “특히 클렌징 제품이 미국 제품들보다 순해서 인기가 많다”고 소개했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n3cd93618",
+    "category": "스포츠",
+    "source": "동아일보",
+    "time": "17분 전",
+    "url": "https://www.donga.com/news/Sports/article/all/20260821/134516951/1",
+    "title": "미트윌란 조규성, 시즌 마수걸이 득점포…팀은 2-0 완승",
+    "summary": [
+      "축구 국가대표 골잡이 조규성(미트윌란)이 유럽클럽대항전에서 시즌 마수걸이 득점에 성공했다.미트윌란은 21일(한국 시간) 덴마크 헤르닝의 MCH 아레나에서 열린 2026~2027시즌 유럽축구연맹(UEFA) 콘퍼런스리그(UECL) 플레이오프(PO) 1차전에서 리예카(크로아티아)를 2-0으로 완파했다.이날 최전방 스트라이커로 선발 출전한 조규성은 0-0으로 맞선 전반 20분 프란쿨리누의 크로스를 헤더로 마무리해 선제골을 터트렸다.이번 시즌 공식전 7."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n68966ab6",
+    "category": "스포츠",
+    "source": "동아일보",
+    "time": "20분 전",
+    "url": "https://www.donga.com/news/Sports/article/all/20260821/134516948/1",
+    "title": "MLB 샌프란시스코 이정후, 클리블랜드전 4타수 1안타",
+    "summary": [
+      "미국프로야구 메이저리그사커(MLB) 샌프란시스코 자이언츠의 이정후가 2경기 연속 안타를 기록했으나, 팀 패배를 막진 못했다.이정후는 21일(한국 시간) 미국 오하이오주 클리블랜드의 프로그레시브 필드에서 열린 2026 MLB 클리블랜드 가디언스와의 원정 경기에서 5번 타자 우익수로 선발 출전해 4타수 1안타를 쳤다.지난 19일 결장으로 재충전한 이정후는 클리블랜드를 상대로 2경기 연속 안타를 만들어냈다.다만 시즌 타율은 0.294에서 0.293으."
+    ],
+    "chips": [
+      "#KBO",
+      "#전기차"
+    ]
+  },
+  {
+    "id": "nd86ad4fa",
+    "category": "스포츠",
+    "source": "동아일보",
+    "time": "20분 전",
+    "url": "https://www.donga.com/news/Sports/article/all/20260821/134516945/1",
+    "title": "베식타시 오현규, 올 시즌 6경기 만에 1호골…PK 유도까지",
+    "summary": [
+      "축구 국가대표 스트라이커 오현규(베식타시)가 올 시즌 공식전 6경기 만에 시즌 1호골을 터트렸다.베식타시는 21일(한국 시간) 튀르키예 이스탄불의 튀프라쉬 스타디움에서 열린 카우노 잘기리스(리투아니아)와의 2026~2027시즌 유럽축구연맹(UEFA) 유로파리그(UEL) 플레이오프(PO) 1차전 홈 경기에서 3-0 승리했다.오현규는 이날 최전방 공격수로 선발 출전해 약 60분을 뛰며 시즌 마수걸이 득점포와 함께 페널티킥을 유도하는 등 맹활약했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n5e0a2a77",
+    "category": "경제",
+    "source": "연합뉴스(경제)",
+    "time": "45분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260821015200011",
+    "title": "[연합뉴스 이 시각 헤드라인] - 07:30",
+    "summary": [
+      "[연합뉴스 이 시각 헤드라인] - 07:30."
     ],
     "chips": [
       "#뉴스"
@@ -415,204 +620,11 @@ window.NEWS_DB = [
     "id": "na817d02f",
     "category": "경제",
     "source": "한국경제",
-    "time": "9분 전",
+    "time": "1시간 전",
     "url": "https://www.hankyung.com/article/2026082135437",
     "title": "현대차 노조, 10년 만에 전면파업",
     "summary": [
       "현대차 노조, 10년 만에 전면파업."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n169a9127",
-    "category": "경제",
-    "source": "아시아경제",
-    "time": "12분 전",
-    "url": "https://view.asiae.co.kr/article/2026082107034169172",
-    "title": "월마트, 기존점포 매출 증가율 6년 만에 최저…소비 둔화 영향",
-    "summary": [
-      "미국 최대 유통업체 월마트의 미국 동일점포 매출 증가율이 6년여 만에 최저 수준으로 둔화했다.",
-      "이란 전쟁 여파로 휘발유 가격이 오르고 생활비 부담이 커지면서 미국 소비자들이 지출에 신중해진 영향이다.",
-      "다만 전자상거래 성장 등에 힘입어 연간 실적 전망은 상향했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n232f695f",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "14분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260818137500007",
-    "title": "'한국인 최초 F1 드라이버' 꿈꾸는 17세 이규호의 '위대한 도전'",
-    "summary": [
-      "(서울=연합뉴스) 이영호 기자 = \"앞으로 3∼4년 안에 한국인 최초의 포뮬러원(F1) 드라이버가 되는 게 꿈입니다!\"."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n1e3e1081",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "14분 전",
-    "url": "https://www.newsis.com/view/NISX20260820_0003756430",
-    "title": "\"휴가 후 허리 통증\"…장기간 운전에 '이것' 의심",
-    "summary": [
-      "[서울=뉴시스]송종호 기자 = 여름휴가를 마치고 일상으로 돌아온 뒤 허리가 뻐근하거나 움직일 때마다 통증이 느껴진다면 무리한 활동으로 허리 주변 근육과 근막에 부담이 쌓인 것은 아닌지 살펴볼 필요가 있다.",
-      "장거리 운전으로 같은 자세를 오래 유지하거나 무거운 짐을 옮기고, 평소 하지 않던 야외활동을 한 것이 원인이 될 수 있다.",
-      "21일 의료계에 따르면 휴가 후 갑작스럽게 허리 통증이 나타났다면 허리 주변 근육과 근막의 과도한 사용으로 발생하는 요."
-    ],
-    "chips": [
-      "#의료"
-    ]
-  },
-  {
-    "id": "n39b46114",
-    "category": "경제",
-    "source": "한국경제",
-    "time": "15분 전",
-    "url": "https://www.hankyung.com/article/202608202291H",
-    "title": "\"뼈 빠지게 팔아도 안 남아요\"…김밥집 줄폐업에 '비명' [벼랑 끝 사장님]",
-    "summary": [
-      "\"뼈 빠지게 팔아도 안 남아요\"…김밥집 줄폐업에 '비명' [벼랑 끝 사장님]."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nee0d1f91",
-    "category": "사회",
-    "source": "아시아경제",
-    "time": "15분 전",
-    "url": "https://view.asiae.co.kr/article/2026082007102223957",
-    "title": "[기자수첩]北을 '적'에서 '위협'으로 바꾼다고 뭐가 달라지나",
-    "summary": [
-      "요즘 북한이 우리의 '적'인지를 놓고 정부에서 논란이 벌어지고 있다.",
-      "정동영 통일부 장관은 북한을 '적'으로 규정하는 데 동의하지 않는다며 대신 '위협'이라는 표현이 적절하다고 했다.",
-      "남북 평화공존을 추진하면서 상대를 적으로 규정하는 것은 맞지 않는다는 취지다."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n72316bd8",
-    "category": "IT",
-    "source": "아시아경제",
-    "time": "25분 전",
-    "url": "https://view.asiae.co.kr/article/2026082014520590931",
-    "title": "9000가구 난방은 데이터센터가 지원...메타는 덴마크에 어떻게 데이터 거점을 세웠나[AIDC 시대의 공존법]⑨",
-    "summary": [
-      "편집자주인공지능(AI) 시대, 정부가 3대 메가프로젝트 일환으로 2035년까지 총 18.4GW 규모의 데이터센터를 구축해 국가 미래 성장동력으로 삼겠다는 계획을 발표했다.",
-      "IT서비스, 웹 애플리케이션(앱), 데이터 저장·공유를 지원하는 시설에 그쳤던 데이터센터는 현재 AI 연산자원을 생산·공급하는 산업 플랫폼으로 진화 중이다.",
-      "하지만 국가 산업 경쟁력을 좌우하는 핵심 인프라라는 공통된 인식에도 AI데이터센터(AIDC) 확장까지."
-    ],
-    "chips": [
-      "#AI"
-    ]
-  },
-  {
-    "id": "na354e078",
-    "category": "스포츠",
-    "source": "동아일보",
-    "time": "29분 전",
-    "url": "https://www.donga.com/news/Society/article/all/20260821/134516835/2",
-    "title": "“하늘이 시켰다” 80대 모친 살해 후 나체 활보한 딸…무기징역 구형",
-    "summary": [
-      "경기 성남시에서 함께 살던 80대 어머니를 살해한 혐의로 재판에 넘겨진 50대 딸에게 검찰이 무기징역을 구형했다.수원지법 성남지원 형사1부(김경훈 부장판사)는 20일 존속살해 혐의로 기소된 50대 여성의 결심공판을 진행했다.",
-      "검찰은 별도의 구형 사유 없이 재판부에 무기징역을 선고해달라고 요청했다.피고인 측 변호인은 범행 당시 정신질환으로 인해 심신미약 상태에 있었다며 선처를 호소했다.",
-      "변호인은 피고인이 중학교 1학년 때 학업을 중단한 뒤 어머니."
-    ],
-    "chips": [
-      "#교육"
-    ]
-  },
-  {
-    "id": "n0243a121",
-    "category": "경제",
-    "source": "한국경제",
-    "time": "35분 전",
-    "url": "https://www.hankyung.com/article/2026082135247",
-    "title": "전국 비 또는 소나기…낮에는 35도 무더위 계속",
-    "summary": [
-      "전국 비 또는 소나기…낮에는 35도 무더위 계속."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n8a11d4c8",
-    "category": "경제",
-    "source": "한국경제",
-    "time": "42분 전",
-    "url": "https://www.hankyung.com/article/2026082135197",
-    "title": "페루 남부서 규모 6.6∼6.7 강진",
-    "summary": [
-      "페루 남부서 규모 6.6∼6.7 강진."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n91b2cc2c",
-    "category": "스포츠",
-    "source": "동아일보",
-    "time": "54분 전",
-    "url": "https://www.donga.com/news/Society/article/all/20260821/134516824/2",
-    "title": "남양주 집 나선뒤 실종 한달…70대女 추정 시신 구리 한강변서 발견",
-    "summary": [
-      "경기 남양주시에서 실종된 70대 여성으로 추정되는 시신이 구리시 한강변에서 발견돼 경찰이 신원 확인에 나섰다.20일 경찰에 따르면 이날 낮 12시 50분경 구리시 한강시민공원 강변에서 여성으로 추정되는 시신 1구가 발견됐다.",
-      "시신은 이날 실종자 수색 지원을 위해 현장에 투입된 경기북부경찰청 과학수사대 채취견이 발견했다.경찰은 발견된 시신의 옷차림 등을 토대로 지난달 남양주시 다산동에서 실종된 70대 여성일 가능성이 높은 것으로 보고 있다.이 여."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n5702ccd6",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "55분 전",
-    "url": "https://www.donga.com/news/Inter/article/all/20260821/134516821/1",
-    "title": "페루 남부 안데스서 규모 6.7 강진…피해 보고 아직 없어",
-    "summary": [
-      "페루 남부 안데스산맥 지역에서 20일(현지 시간) 규모 6.7의 강진이 발생했다.미국 지질조사국(USGS)에 따르면 이날 오후 1시께 페루 남부 아야쿠초 지역 파리나코차스주 우파우아초시 인근에서 규모 6.7의 지진이 발생했다.진앙은 우파우아초시에서 북서쪽으로 약 31㎞ 떨어진 지점이며 진원의 깊이는 99㎞로 관측됐다.이번 지진으로 인한 진동은 페루 중·남부 여러 지역과 수도 리마에서도 감지됐다.페루 지구물리연구소(IGP)는 이번 지진의 규모를."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n7deee608",
-    "category": "부동산",
-    "source": "연합뉴스(경제)",
-    "time": "1시간 전",
-    "url": "https://www.yna.co.kr/view/AKR20260821008500004",
-    "title": "6월 서울 아파트값 한달새 2.5%↑…5년 만에 최대폭 상승",
-    "summary": [
-      "(서울=연합뉴스) 김동규 기자 = 지난 6월 서울 아파트값이 한 달 사이 2.5% 급등하며 5년 만에 가장 큰 폭으로 오른 것으로 나타났다."
-    ],
-    "chips": [
-      "#부동산"
-    ]
-  },
-  {
-    "id": "n2822f602",
-    "category": "경제",
-    "source": "연합뉴스(경제)",
-    "time": "1시간 전",
-    "url": "https://www.yna.co.kr/view/AKR20260820144800004",
-    "title": "서울미래인재재단, 이금희 초청 청년 대상 '스피치 특강'",
-    "summary": [
-      "(서울=연합뉴스) 황재하 기자 = 서울미래인재재단은 21일 오후 마포구에 있는 재단 커뮤니티센터에서 이금희 아나운서를 초청해 '스피치 클리닉·소..."
     ],
     "chips": [
       "#뉴스"
@@ -625,20 +637,20 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2720건",
-    "trend": "+315%"
+    "mentions": "2330건",
+    "trend": "+255%"
   },
   {
     "rank": 2,
-    "tag": "반도체",
-    "mentions": "1420건",
-    "trend": "+115%"
+    "tag": "KBO",
+    "mentions": "1550건",
+    "trend": "+135%"
   },
   {
     "rank": 3,
-    "tag": "AI",
-    "mentions": "1420건",
-    "trend": "+115%"
+    "tag": "스타트업",
+    "mentions": "1550건",
+    "trend": "+135%"
   }
 ];
 // ====AUTO-GENERATED-END====
