@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-08-20 21:18:06
+// 마지막 업데이트: 2026-08-20 22:15:53
 window.NEWS_DB = [
   {
     "id": "n6f9d632c",
     "category": "IT",
     "source": "Counterpoint Research",
-    "time": "12시간 전",
+    "time": "13시간 전",
     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNWldFd0pOdDliUnJ6TDJUV2FTaGE1RndLODFNdVNleVoyNFVMdnRlQkEtODNMSDRQZDJCWjlab29yZ21sSldSU1BJWnFSc2QzRlZzOXMwY1ZqYkwxOWN4VkJVQ0FKRl8tRGg0TG1jYWZpeDIzVllxREtMZDhYbnZWTmVRNGhMQVB1WjJSdUl3?oc=5",
     "title": "인텔은 메모리 넘본다…삼성은 파운드리 반격",
     "summary": [
@@ -19,7 +19,7 @@ window.NEWS_DB = [
     "id": "nd000c55e",
     "category": "IT",
     "source": "데이터넷",
-    "time": "12시간 전",
+    "time": "13시간 전",
     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE11QUd4NkhZaDRidFpDRHoyWnFPeURfYVpIMjRZc1pjSmdiTDBiYmVZbnpCQkJxd0ZJaUdMeW5DWVhaTlVmOW53X3BuVTh4bGtYVWM4OUd3a1RtdFdtNm5xSVZMakxxb1lsUnNONA?oc=5",
     "title": "“인텔은 메모리 넘보고, 삼성은 파운드리 반격”",
     "summary": [
@@ -47,7 +47,7 @@ window.NEWS_DB = [
     "id": "n72333e67",
     "category": "사회",
     "source": "서울뉴스통신",
-    "time": "14시간 전",
+    "time": "15시간 전",
     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1PU0xyNnJwRUhKbThVQm9zempWb0p3QVBUUEE3YVQxZ05XdXdUeUtfT01hZlVMbTA2ZTlKU2ctUlhJTVNWVlJMNXFHenVndGxFVG9xMGdVdnh1dEtZUENkdFQ5dXdRRjNTdVh3?oc=5",
     "title": "고용센터 AI 기반 맞춤형으로 개편…구직 상담·기업 채용지원 대폭 강화",
     "summary": [
@@ -64,7 +64,7 @@ window.NEWS_DB = [
     "id": "n13d51c3b",
     "category": "IT",
     "source": "뉴시스",
-    "time": "15시간 전",
+    "time": "16시간 전",
     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9rWS0wRFlYVEJqMTVFVmtUb1Z3YnkzaS1kUnNoMFhVYjVvZUVEYVI4Zk0yTTFnOXRrWW9MOEFZdV9LRnBhZWtPWHc3Nkp1cjBWdkxPeGZvNml6dUFKR01YTW5TeDJ4TUxiWGZQSUpzRW9sb2hxclZJeNIBeEFVX3lxTE9rWS0wRFlYVEJqMTVFVmtUb1Z3YnkzaS1kUnNoMFhVYjVvZUVEYVI4Zk0yTTFnOXRrWW9MOEFZdV9LRnBhZWtPWHc3Nkp1cjBWdkxPeGZvNml6dUFKR01YTW5TeDJ4TUxiWGZQSUpzRW9sb2hxclZJeA?oc=5",
     "title": "\"엔비디아 종속 막자\"…정부·AMD·K반도체 '연합 전선' 구축(종합)",
     "summary": [
@@ -79,7 +79,7 @@ window.NEWS_DB = [
     "id": "n29c6183f",
     "category": "IT",
     "source": "리드경제",
-    "time": "15시간 전",
+    "time": "16시간 전",
     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE95dVc1a3FlSHJ2d3E0c2cwM2loSVY0cGVNcVcxYU0tMTJPZkxYWWQ3VnUwcHBYVlJxWmwwM3pnU2JWTlhqYXAzS1dmbnMxd0xvc3FKeV9nVVpNSTgwb1lKUEhkcnZ6eDBUb3BQRG9qTQ?oc=5",
     "title": "인텔, 메모리 넘본다…삼성 파운드리 반격",
     "summary": [
@@ -93,7 +93,7 @@ window.NEWS_DB = [
     "id": "n2beeb2e6",
     "category": "IT",
     "source": "비즈니스포스트",
-    "time": "15시간 전",
+    "time": "16시간 전",
     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBMbVI5anZMMjl0ZTNFZGFrYlVqdTNCYUNCRm9rRzdWcVZBVHR6ZVNWVnBsM0t4SU5DZ2o4VjU4OUFBcUQ1cF9EYkE0a0prYzZXTFVXT3AtYmFGRXVfMTJHS25ESWViUUNmS0dCWUFrTmRUcUE?oc=5",
     "title": "엔비디아 고객사에 금융지원 전략 성패는 메모리 공급망에 달렸다, 공급과잉 전환 시점이 중요",
     "summary": [
@@ -280,16 +280,17 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n783ebe44",
+    "id": "n80dc1407",
     "category": "스포츠",
-    "source": "테크M",
-    "time": "141일 전",
-    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4zeE1CWFFHZzZrMjhfLXJoWERMeW9jVzI5eF91RWV1NUxXelFvT1U5YWpyRjZaQ1NqclNTR1hoRWEwYl9qQmc4WTh5Q29TSWROU3ptQ1ZmXy1rajBVczZ1T1A0RXZ0UdIBakFVX3lxTE4tUUs3ak9IVFI3ZEtUQmg5NUpZbWRwdUN5OEFTU2JqaWN4WWJzMVJVc0pLU1U0UzVZTkRKMlRZSUIyNmhPVjVWMzBTVGxocHc2VUdVZl9rRWdUaXVxTjFSdUpzTzFPdEZHdnc?oc=5",
-    "title": "'야구·축구·골프'로 갈라진 국내 OTT...스포츠 팬덤 경쟁 격화",
+    "source": "중앙일보",
+    "time": "163일 전",
+    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1kSmhBTDdKY1NsbWktSU80SFYtRWN3VGpnQjRNeEpaNF9LZVo0ZS1wb19tbkZxQUJMOU1NYjVTdVpPLW9aMW9hN0ZRQXVWY3hjQl81MG1R?oc=5",
+    "title": "축구는 손흥민, 야구는 이정후…대표팀 주장의 품격",
     "summary": [
-      "'야구·축구·골프'로 갈라진 국내 OTT...스포츠 팬덤 경쟁 격화 테크M."
+      "축구는 손흥민, 야구는 이정후…대표팀 주장의 품격 중앙일보."
     ],
     "chips": [
+      "#손흥민",
       "#KBO"
     ]
   },
@@ -309,135 +310,281 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "neca0478f",
+    "id": "n37237e4c",
     "category": "사회",
     "source": "뉴시스",
     "time": "3분 전",
-    "url": "https://www.newsis.com/view/NISX20260820_0003755712",
-    "title": "\"따로 먹겠습니다\" 말 한마디에 냉기…점심 '혼밥' 놓고 직장 내 갈등",
-    "summary": [
-      "[서울=뉴시스] 김종민 기자 = \"다이어트를 위해 식단 챙기는 중인데, 점심 부대찌개 먹으러 간다니…\" 직장 내 점심시간을 둘러싸고 팀워크와 소통을 강조하는 동행 문화와 완전한 휴식 보장을 요구하는 개인 혼밥 권리가 충돌하며 갈등이 깊어지고 있다.",
-      "근무 시간 중 점심시간은 법적으로 보장된 휴게 시간이지만, 일부 현장에서는 여전히 조직 문화의 연장선으로 인식되는 사례가 적지 않다.",
-      "최근 한 직장인 익명 커뮤니티에는 \"오늘 점심은 따로 먹겠습니다\"."
-    ],
+    "url": "https://www.newsis.com/view/NISX20260821_0003756831",
+    "title": "[오늘의 주요일정]울산(8월21일 금요일)",
+    "summary": [],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "nf573eb2a",
+    "id": "ncd65c725",
     "category": "경제",
     "source": "아시아경제",
-    "time": "3분 전",
-    "url": "https://view.asiae.co.kr/article/2026082106144503014",
-    "title": "美 국채시장 대응 엇갈린 행보…Fed는 시장에, 재무부는 개입",
+    "time": "4분 전",
+    "url": "https://view.asiae.co.kr/article/2026082014145379446",
+    "title": "[먹어보니]학교 앞 추억의 맛을 뛰어 넘었다…'왕뚜껑 국물라볶이'",
     "summary": [
-      "미국 장기 국채금리가 급등하는 가운데 연방준비제도(Fed)와 재무부가 국채시장 대응에서 상반된 행보를 보이고 있다는 분석이 나왔다.",
-      "케빈 워시 Fed 의장은 시장의 가격 결정 기능을 중시하며 개입을 줄이려는 반면, 스콧 베선트 재무장관은 국채 바이백을 확대하며 장기금리 상승에 적극 대응하고 있다는 것이다.",
-      "20일(현지시간) 악시오스에 따르면 워시 의장은 Fed가 오랫동안 금융시장에 제공해 온 강한 정책 신호와 직접적인."
+      "떡과 어묵, 그리고 라면의 단순한 조합이지만 눈 깜짝할 사이 빈 접시만 남아있던 추억의 라볶이.",
+      "이따금 한 번씩 생각나 집에서 만들어 보면 추억의 맛을 만들어 내기 쉽지 않아 은근히 까다로운 음식이다.",
+      "학창 시절 분식점에서 먹던 라볶이 맛을 손쉽고 간편하게 즐길 수 있는 제품이 출시됐다.팔도에서 만든 '왕뚜껑 국물라볶이'가 그 주인공이다."
     ],
     "chips": [
-      "#금리",
-      "#정책"
+      "#교육"
     ]
   },
   {
-    "id": "n009c68f0",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "5분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260821010500056",
-    "title": "제주 무덥고 곳에 따라 소나기…낮 최고 30∼32도",
-    "summary": [
-      "(제주=연합뉴스) 백나용 기자 = 21일 제주는 무덥고, 곳에 따라 소나기가 내리겠다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nf6fad8ab",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "6분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260820143500530",
-    "title": "단 한 달 일하고 119개월치 추납…외국인 국민연금 수급 논란",
-    "summary": [
-      "(서울=연합뉴스) 서한기 기자 = 국내에서 단 1개월만 국민연금에 가입해 일한 뒤 과거 기간에 대한 보험료를 한꺼번에 내고 평생 매월 노령연금을..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n29343d88",
+    "id": "n895950ba",
     "category": "경제",
-    "source": "한국경제",
-    "time": "7분 전",
-    "url": "https://www.hankyung.com/article/2026082135017",
-    "title": "베선트 '바이백' 언급에도…美 국채금리 또 솟구쳐",
+    "source": "뉴시스",
+    "time": "5분 전",
+    "url": "https://www.newsis.com/view/NISX20260821_0003756816",
+    "title": "美재무, 국채금리 상승에 추가 대응 시사…\"바이백 40억달러 넘길 수도\"",
     "summary": [
-      "베선트 '바이백' 언급에도…美 국채금리 또 솟구쳐."
+      "[서울=뉴시스] 신효령 기자 = 스콧 베선트 미국 재무장관이 장기 국채시장 불안에 대응하기 위해 국채 바이백(재매입) 규모를 회당 40억달러(약 5조5800억원) 이상으로 늘릴 수 있다고 밝혔다.",
+      "베선트 장관은 20일(현지시간) 미국 CNBC와의 인터뷰에서 \"바이백 규모를 늘릴 것\"이라며 \"회당 40억달러를 넘어설 수도 있다\"고 말했다.",
+      "미 재무부는 전날 10~20년물과 20~30년물 장기 국채의 바이백 한도를 기존 회당 20억달러(약 2조79."
     ],
     "chips": [
       "#금리"
     ]
   },
   {
-    "id": "n6bb55b07",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "8분 전",
-    "url": "https://www.newsis.com/view/NISX20260821_0003756786",
-    "title": "'눈 성형 7번' 강예원, 여권 사진 불일치에 당황…\"누굴 탓해\"",
-    "summary": [
-      "[서울=뉴시스]강주희 기자 = 배우 강예원이 여권 사진과 얼굴이 달라 자동입국 심사를 통과하지 못한 사연을 전했다.",
-      "20일 유튜브 채널 '광예원'에는 '하루 매출 2000억의 전설? 중국 왕홍 1등을 만났다! 강예원×딴딴'이라는 제목의 영상이 공개됐다.",
-      "영상에는 16년 만에 중국 항저우를 찾은 강예원의 모습이 담겼다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n8ec31ad4",
+    "id": "ne57d94b9",
     "category": "사회",
     "source": "연합뉴스",
-    "time": "8분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260821010300063",
-    "title": "대전·세종·충남 오전까지 비…낮 최고 33도 무더위",
+    "time": "5분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260821015500004",
+    "title": "서초구, '서래마을 상권' 제9호 골목형상점가로 지정",
     "summary": [
-      "(대전=연합뉴스) 변선진 기자 = 금요일인 21일 대전·세종·충남은 오전까지 비가 내리다가 낮부터 저녁 사이 소나기가 오는 곳이 있겠고, 낮 기..."
+      "(서울=연합뉴스) 정준영 기자 = 서울 서초구(구청장 전성수)는 지난 19일 서래마을 일대 상권을 서초구 제9호 골목형상점가로 지정했다고 21일..."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "nb467b852",
+    "id": "n3266ac7f",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "7분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260821015100004",
+    "title": "선유도역 인근 공장서 암모니아 가스 누출…인명피해 없어",
+    "summary": [
+      "(서울=연합뉴스) 정윤주 기자 = 21일 오전 5시 30분께 서울 영등포구 선유도역 인근 식품 공장에서 암모니아 가스가 누출돼 소방당국이 출동했..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n7533e9d5",
     "category": "사회",
     "source": "뉴시스",
+    "time": "8분 전",
+    "url": "https://www.newsis.com/view/NISX20260821_0003756829",
+    "title": "울산, 낮 최고 33도 폭염 계속…밤에는 열대야",
+    "summary": [
+      "[울산=뉴시스] 박수지 기자 = 21일 울산지역은 폭염으로 낮 최고기온이 33도까지 오르겠다.",
+      "기상청에 따르면 이날 울산의 아침 최저기온은 25도, 낮 최고기온은 33도로 평년보다 2~4도 높겠다.",
+      "하늘 상태는 구름이 많겠다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n38a13362",
+    "category": "스포츠",
+    "source": "연합뉴스",
     "time": "9분 전",
-    "url": "https://www.newsis.com/view/NISX20260821_0003756802",
-    "title": "美밴스 \"대이란 경제압박이 가장 효과적\"…신중한 접근 촉구",
+    "url": "https://www.yna.co.kr/view/AKR20260821015000007",
+    "title": "베식타시 오현규, 시즌 첫 골에 PK도 유도…UEL 본선행 청신호",
     "summary": [
-      "[서울=뉴시스] 문예성 기자 = JD 밴스 미국 부통령이 이란을 상대로 경제적 압박을 가하는 것이 가장 효과적인 수단이라면서도 미국 경제에 미칠 영향을 고려해 신중하게 접근해야 한다고 주장했다.",
-      "밴스 부통령은 20일(현지 시간) 미국 보수 성향 라디오 프로그램 ‘클레이 트래비스 앤드 벅 섹스턴 쇼’에 출연해 “우리가 가진 가장 효과적인 수단은 이란에 가할 수 있는 경제적 압박”이라고 말했다.",
-      "밴스 부통령은 “이는 섬세한 줄타기”라며 “우리가 이."
+      "(서울=연합뉴스) 오명언 기자 = 국가대표 스트라이커 오현규(베식타시)가 튀르키예 프로축구 무대에서 올 시즌 공식전 6경기 만에 첫 골을 신고했..."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n544d92b5",
+    "id": "na817d02f",
+    "category": "경제",
+    "source": "한국경제",
+    "time": "9분 전",
+    "url": "https://www.hankyung.com/article/2026082135437",
+    "title": "현대차 노조, 10년 만에 전면파업",
+    "summary": [
+      "현대차 노조, 10년 만에 전면파업."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n169a9127",
+    "category": "경제",
+    "source": "아시아경제",
+    "time": "12분 전",
+    "url": "https://view.asiae.co.kr/article/2026082107034169172",
+    "title": "월마트, 기존점포 매출 증가율 6년 만에 최저…소비 둔화 영향",
+    "summary": [
+      "미국 최대 유통업체 월마트의 미국 동일점포 매출 증가율이 6년여 만에 최저 수준으로 둔화했다.",
+      "이란 전쟁 여파로 휘발유 가격이 오르고 생활비 부담이 커지면서 미국 소비자들이 지출에 신중해진 영향이다.",
+      "다만 전자상거래 성장 등에 힘입어 연간 실적 전망은 상향했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n232f695f",
     "category": "사회",
     "source": "연합뉴스",
-    "time": "10분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260821010200064",
-    "title": "충북 오전에 비…낮 최고 32도",
+    "time": "14분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260818137500007",
+    "title": "'한국인 최초 F1 드라이버' 꿈꾸는 17세 이규호의 '위대한 도전'",
     "summary": [
-      "(청주=연합뉴스) 이성민 기자 = 21일 충북은 대체로 흐리겠다."
+      "(서울=연합뉴스) 이영호 기자 = \"앞으로 3∼4년 안에 한국인 최초의 포뮬러원(F1) 드라이버가 되는 게 꿈입니다!\"."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n1e3e1081",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "14분 전",
+    "url": "https://www.newsis.com/view/NISX20260820_0003756430",
+    "title": "\"휴가 후 허리 통증\"…장기간 운전에 '이것' 의심",
+    "summary": [
+      "[서울=뉴시스]송종호 기자 = 여름휴가를 마치고 일상으로 돌아온 뒤 허리가 뻐근하거나 움직일 때마다 통증이 느껴진다면 무리한 활동으로 허리 주변 근육과 근막에 부담이 쌓인 것은 아닌지 살펴볼 필요가 있다.",
+      "장거리 운전으로 같은 자세를 오래 유지하거나 무거운 짐을 옮기고, 평소 하지 않던 야외활동을 한 것이 원인이 될 수 있다.",
+      "21일 의료계에 따르면 휴가 후 갑작스럽게 허리 통증이 나타났다면 허리 주변 근육과 근막의 과도한 사용으로 발생하는 요."
+    ],
+    "chips": [
+      "#의료"
+    ]
+  },
+  {
+    "id": "n39b46114",
+    "category": "경제",
+    "source": "한국경제",
+    "time": "15분 전",
+    "url": "https://www.hankyung.com/article/202608202291H",
+    "title": "\"뼈 빠지게 팔아도 안 남아요\"…김밥집 줄폐업에 '비명' [벼랑 끝 사장님]",
+    "summary": [
+      "\"뼈 빠지게 팔아도 안 남아요\"…김밥집 줄폐업에 '비명' [벼랑 끝 사장님]."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nee0d1f91",
+    "category": "사회",
+    "source": "아시아경제",
+    "time": "15분 전",
+    "url": "https://view.asiae.co.kr/article/2026082007102223957",
+    "title": "[기자수첩]北을 '적'에서 '위협'으로 바꾼다고 뭐가 달라지나",
+    "summary": [
+      "요즘 북한이 우리의 '적'인지를 놓고 정부에서 논란이 벌어지고 있다.",
+      "정동영 통일부 장관은 북한을 '적'으로 규정하는 데 동의하지 않는다며 대신 '위협'이라는 표현이 적절하다고 했다.",
+      "남북 평화공존을 추진하면서 상대를 적으로 규정하는 것은 맞지 않는다는 취지다."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n72316bd8",
+    "category": "IT",
+    "source": "아시아경제",
+    "time": "25분 전",
+    "url": "https://view.asiae.co.kr/article/2026082014520590931",
+    "title": "9000가구 난방은 데이터센터가 지원...메타는 덴마크에 어떻게 데이터 거점을 세웠나[AIDC 시대의 공존법]⑨",
+    "summary": [
+      "편집자주인공지능(AI) 시대, 정부가 3대 메가프로젝트 일환으로 2035년까지 총 18.4GW 규모의 데이터센터를 구축해 국가 미래 성장동력으로 삼겠다는 계획을 발표했다.",
+      "IT서비스, 웹 애플리케이션(앱), 데이터 저장·공유를 지원하는 시설에 그쳤던 데이터센터는 현재 AI 연산자원을 생산·공급하는 산업 플랫폼으로 진화 중이다.",
+      "하지만 국가 산업 경쟁력을 좌우하는 핵심 인프라라는 공통된 인식에도 AI데이터센터(AIDC) 확장까지."
+    ],
+    "chips": [
+      "#AI"
+    ]
+  },
+  {
+    "id": "na354e078",
+    "category": "스포츠",
+    "source": "동아일보",
+    "time": "29분 전",
+    "url": "https://www.donga.com/news/Society/article/all/20260821/134516835/2",
+    "title": "“하늘이 시켰다” 80대 모친 살해 후 나체 활보한 딸…무기징역 구형",
+    "summary": [
+      "경기 성남시에서 함께 살던 80대 어머니를 살해한 혐의로 재판에 넘겨진 50대 딸에게 검찰이 무기징역을 구형했다.수원지법 성남지원 형사1부(김경훈 부장판사)는 20일 존속살해 혐의로 기소된 50대 여성의 결심공판을 진행했다.",
+      "검찰은 별도의 구형 사유 없이 재판부에 무기징역을 선고해달라고 요청했다.피고인 측 변호인은 범행 당시 정신질환으로 인해 심신미약 상태에 있었다며 선처를 호소했다.",
+      "변호인은 피고인이 중학교 1학년 때 학업을 중단한 뒤 어머니."
+    ],
+    "chips": [
+      "#교육"
+    ]
+  },
+  {
+    "id": "n0243a121",
+    "category": "경제",
+    "source": "한국경제",
+    "time": "35분 전",
+    "url": "https://www.hankyung.com/article/2026082135247",
+    "title": "전국 비 또는 소나기…낮에는 35도 무더위 계속",
+    "summary": [
+      "전국 비 또는 소나기…낮에는 35도 무더위 계속."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n8a11d4c8",
+    "category": "경제",
+    "source": "한국경제",
+    "time": "42분 전",
+    "url": "https://www.hankyung.com/article/2026082135197",
+    "title": "페루 남부서 규모 6.6∼6.7 강진",
+    "summary": [
+      "페루 남부서 규모 6.6∼6.7 강진."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n91b2cc2c",
+    "category": "스포츠",
+    "source": "동아일보",
+    "time": "54분 전",
+    "url": "https://www.donga.com/news/Society/article/all/20260821/134516824/2",
+    "title": "남양주 집 나선뒤 실종 한달…70대女 추정 시신 구리 한강변서 발견",
+    "summary": [
+      "경기 남양주시에서 실종된 70대 여성으로 추정되는 시신이 구리시 한강변에서 발견돼 경찰이 신원 확인에 나섰다.20일 경찰에 따르면 이날 낮 12시 50분경 구리시 한강시민공원 강변에서 여성으로 추정되는 시신 1구가 발견됐다.",
+      "시신은 이날 실종자 수색 지원을 위해 현장에 투입된 경기북부경찰청 과학수사대 채취견이 발견했다.경찰은 발견된 시신의 옷차림 등을 토대로 지난달 남양주시 다산동에서 실종된 70대 여성일 가능성이 높은 것으로 보고 있다.이 여."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n5702ccd6",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "55분 전",
+    "url": "https://www.donga.com/news/Inter/article/all/20260821/134516821/1",
+    "title": "페루 남부 안데스서 규모 6.7 강진…피해 보고 아직 없어",
+    "summary": [
+      "페루 남부 안데스산맥 지역에서 20일(현지 시간) 규모 6.7의 강진이 발생했다.미국 지질조사국(USGS)에 따르면 이날 오후 1시께 페루 남부 아야쿠초 지역 파리나코차스주 우파우아초시 인근에서 규모 6.7의 지진이 발생했다.진앙은 우파우아초시에서 북서쪽으로 약 31㎞ 떨어진 지점이며 진원의 깊이는 99㎞로 관측됐다.이번 지진으로 인한 진동은 페루 중·남부 여러 지역과 수도 리마에서도 감지됐다.페루 지구물리연구소(IGP)는 이번 지진의 규모를."
     ],
     "chips": [
       "#뉴스"
@@ -447,7 +594,7 @@ window.NEWS_DB = [
     "id": "n7deee608",
     "category": "부동산",
     "source": "연합뉴스(경제)",
-    "time": "15분 전",
+    "time": "1시간 전",
     "url": "https://www.yna.co.kr/view/AKR20260821008500004",
     "title": "6월 서울 아파트값 한달새 2.5%↑…5년 만에 최대폭 상승",
     "summary": [
@@ -458,164 +605,14 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "ne43e80f3",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "17분 전",
-    "url": "https://www.newsis.com/view/NISX20260821_0003756787",
-    "title": "한가인, 자녀 얼굴 모자이크 지적에…\"나중에 '왜 공개했냐' 할까봐\"",
-    "summary": [
-      "[서울=뉴시스]강주희 기자 = 배우 한가인이 자녀들의 유튜브 출연에 대한 생각을 밝혔다.",
-      "20일 유튜브 채널 '자유부인 한가인'에는 SNS에서 화제가 된 라면 레시피에 도전하는 한가인의 모습이 공개됐다.",
-      "영상에서 한가인은 자녀들과 함께 촬영하면서 얼굴은 공개하지 않은 이유를 밝혔다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nb527d46a",
-    "category": "경제",
-    "source": "한국경제",
-    "time": "17분 전",
-    "url": "https://www.hankyung.com/article/202608201673i",
-    "title": "\"매일 먹던 배달음식 끊지마세요\"…의사가 권한 뜻밖의 식습관",
-    "summary": [
-      "\"매일 먹던 배달음식 끊지마세요\"…의사가 권한 뜻밖의 식습관."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nbe6edbbf",
-    "category": "경제",
-    "source": "한국경제",
-    "time": "17분 전",
-    "url": "https://www.hankyung.com/article/202608202452i",
-    "title": "\"연 5兆 추가 소비 창출\"…서울이 '안 자는 도시' 만들겠다는 이유 [김영리의 서울메이트]",
-    "summary": [
-      "\"연 5兆 추가 소비 창출\"…서울이 '안 자는 도시' 만들겠다는 이유 [김영리의 서울메이트]."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
     "id": "n2822f602",
     "category": "경제",
     "source": "연합뉴스(경제)",
-    "time": "17분 전",
+    "time": "1시간 전",
     "url": "https://www.yna.co.kr/view/AKR20260820144800004",
     "title": "서울미래인재재단, 이금희 초청 청년 대상 '스피치 특강'",
     "summary": [
       "(서울=연합뉴스) 황재하 기자 = 서울미래인재재단은 21일 오후 마포구에 있는 재단 커뮤니티센터에서 이금희 아나운서를 초청해 '스피치 클리닉·소..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "na32021f1",
-    "category": "부동산",
-    "source": "한국경제",
-    "time": "17분 전",
-    "url": "https://www.hankyung.com/article/2026082030871",
-    "title": "\"99억 찍던 아파트 78억에 내놨다\"…다급해진 강남 집주인들",
-    "summary": [
-      "\"99억 찍던 아파트 78억에 내놨다\"…다급해진 강남 집주인들."
-    ],
-    "chips": [
-      "#부동산"
-    ]
-  },
-  {
-    "id": "n4b9e4403",
-    "category": "경제",
-    "source": "연합뉴스(경제)",
-    "time": "17분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260820151900002",
-    "title": "유가 떨어지자 7월 생산자 물가 11개월 만에 하락",
-    "summary": [
-      "(서울=연합뉴스) 한지훈 기자 = 지난달 국내 생산자물가지수가 11개월 만에 하락 전환했다.",
-      "폭염에 농산물 가격이 뛰었으나, 국제 유가 하락의 ..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n5c575878",
-    "category": "경제",
-    "source": "연합뉴스(경제)",
-    "time": "17분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260820164700002",
-    "title": "6월 국내은행 대출 연체율 0.56%…동월 기준 10년 만에 최고",
-    "summary": [
-      "(서울=연합뉴스) 강수련 기자 = 국내 은행의 원화대출 연체율이 6월말 기준으로 10년만에 최고치를 기록했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n5d6f5649",
-    "category": "부동산",
-    "source": "아시아경제",
-    "time": "17분 전",
-    "url": "https://view.asiae.co.kr/article/2026082018531280851",
-    "title": "6월 서울 아파트 실거래가 치솟아…5년 만 월간 상승률 최고치",
-    "summary": [
-      "지난 6월 서울 아파트 실거래가가 전월 대비 2.5% 오르면서 5년 만에 월간 상승률 최고치 기록을 세웠다.",
-      "서울시가 21일 한국부동산원 아파트 실거래가격지수 동향을 분석한 결과 지난 6월 서울 아파트 가격은 전월 대비 2.5%, 전년 동월 대비 13.79% 상승했다.",
-      "특히 전월 대비 상승률은 과거 집값 급등기였던 2021년 6월 2.44%를 넘어 5년 만에 최고치를 기록했다."
-    ],
-    "chips": [
-      "#부동산"
-    ]
-  },
-  {
-    "id": "n3d550c08",
-    "category": "경제",
-    "source": "아시아경제",
-    "time": "17분 전",
-    "url": "https://view.asiae.co.kr/article/2026082017074279068",
-    "title": "생산자물가, 11개월 만에 하락 전환…\"이달 다시 오른다\"",
-    "summary": [
-      "지난달 국내 생산자물가가 11개월 만에 하락 전환했다.",
-      "국제유가 하락 영향에 석탄 및 석유제품과 화학제품 가격이 내린 결과다.",
-      "국내 주가가 조정을 받으며 위탁매매 수수료가 하락한 영향도 있었다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n94764e02",
-    "category": "경제",
-    "source": "아시아경제",
-    "time": "17분 전",
-    "url": "https://view.asiae.co.kr/article/2026082017071366625",
-    "title": "외국인, 국내주식 7개월 연속 '팔자'…7월 32조 순매도",
-    "summary": [
-      "외국인이 국내 주식에 대한 매도 우위를 7개월 연속 이어가고 있다.",
-      "21일 금융감독원의 '2026년 7월 외국인 증권투자 동향'에 따르면 지난달 외국인은 국내 상장주식을 7개월 연속 순매도한 것으로 나타났다.",
-      "지난달 순매도 규모는 31조6640억원으로 전월(49조3360억원)보단 소폭 줄었다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "na4963864",
-    "category": "경제",
-    "source": "동아일보",
-    "time": "21분 전",
-    "url": "https://www.donga.com/news/Inter/article/all/20260821/134516812/1",
-    "title": "美, 헤즈볼라 자금운반책 10명 제재…민항기로 수억달러 이동",
-    "summary": [
-      "미국 정부가 레바논의 친이란 무장정파 헤즈볼라를 위한 자금운반망 관련자 10명을 제재하고, 헤즈볼라는 이란 대리 단체로 재지정했다.",
-      "20일(현지 시간) 미 재무부에 따르면 해외자산통제국(OFAC)은 이날 헤즈볼라의 자금 조달과 제재 회피를 지원한 현금운반망 관련자 10명을 제재 명단에 올렸다.이들은 민간 항공편을 이용해 레바논과 튀르키예, 아랍에미리트(UAE), 이란을 오가며 최대 수억 달러를 운반한 혐의를 받는다.미 재무부는 “이 네트워크가."
     ],
     "chips": [
       "#뉴스"
@@ -628,18 +625,18 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2980건",
-    "trend": "+355%"
+    "mentions": "2720건",
+    "trend": "+315%"
   },
   {
     "rank": 2,
-    "tag": "부동산",
-    "mentions": "1680건",
-    "trend": "+155%"
+    "tag": "반도체",
+    "mentions": "1420건",
+    "trend": "+115%"
   },
   {
     "rank": 3,
-    "tag": "반도체",
+    "tag": "AI",
     "mentions": "1420건",
     "trend": "+115%"
   }
