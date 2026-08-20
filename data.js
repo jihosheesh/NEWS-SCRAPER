@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-08-20 16:21:52
+// 마지막 업데이트: 2026-08-20 17:19:11
 window.NEWS_DB = [
   {
     "id": "n6f9d632c",
     "category": "IT",
     "source": "Counterpoint Research",
-    "time": "7시간 전",
+    "time": "8시간 전",
     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNWldFd0pOdDliUnJ6TDJUV2FTaGE1RndLODFNdVNleVoyNFVMdnRlQkEtODNMSDRQZDJCWjlab29yZ21sSldSU1BJWnFSc2QzRlZzOXMwY1ZqYkwxOWN4VkJVQ0FKRl8tRGg0TG1jYWZpeDIzVllxREtMZDhYbnZWTmVRNGhMQVB1WjJSdUl3?oc=5",
     "title": "인텔은 메모리 넘본다…삼성은 파운드리 반격",
     "summary": [
@@ -19,7 +19,7 @@ window.NEWS_DB = [
     "id": "nd000c55e",
     "category": "IT",
     "source": "데이터넷",
-    "time": "7시간 전",
+    "time": "8시간 전",
     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE11QUd4NkhZaDRidFpDRHoyWnFPeURfYVpIMjRZc1pjSmdiTDBiYmVZbnpCQkJxd0ZJaUdMeW5DWVhaTlVmOW53X3BuVTh4bGtYVWM4OUd3a1RtdFdtNm5xSVZMakxxb1lsUnNONA?oc=5",
     "title": "“인텔은 메모리 넘보고, 삼성은 파운드리 반격”",
     "summary": [
@@ -33,7 +33,7 @@ window.NEWS_DB = [
     "id": "n04c9840b",
     "category": "IT",
     "source": "ebn.co.kr",
-    "time": "8시간 전",
+    "time": "9시간 전",
     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5jNy1zd3VfY0dldFJwanlTb1U0aUR0elE4amU1Ui1FaXRORkV5TWZZZEJlVVlHc1ZhVjByWTg1MFFIMXdLUVJCcjBwYXlJMk1JQkFHVGR1RTdhSy1WMU5sbEJveU5xRktt?oc=5",
     "title": "인텔, 메모리 접점 확대…삼성은 파운드리 반격 나섰다",
     "summary": [
@@ -47,7 +47,7 @@ window.NEWS_DB = [
     "id": "n72333e67",
     "category": "사회",
     "source": "서울뉴스통신",
-    "time": "9시간 전",
+    "time": "10시간 전",
     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1PU0xyNnJwRUhKbThVQm9zempWb0p3QVBUUEE3YVQxZ05XdXdUeUtfT01hZlVMbTA2ZTlKU2ctUlhJTVNWVlJMNXFHenVndGxFVG9xMGdVdnh1dEtZUENkdFQ5dXdRRjNTdVh3?oc=5",
     "title": "고용센터 AI 기반 맞춤형으로 개편…구직 상담·기업 채용지원 대폭 강화",
     "summary": [
@@ -64,7 +64,7 @@ window.NEWS_DB = [
     "id": "n13d51c3b",
     "category": "IT",
     "source": "뉴시스",
-    "time": "10시간 전",
+    "time": "11시간 전",
     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9rWS0wRFlYVEJqMTVFVmtUb1Z3YnkzaS1kUnNoMFhVYjVvZUVEYVI4Zk0yTTFnOXRrWW9MOEFZdV9LRnBhZWtPWHc3Nkp1cjBWdkxPeGZvNml6dUFKR01YTW5TeDJ4TUxiWGZQSUpzRW9sb2hxclZJeNIBeEFVX3lxTE9rWS0wRFlYVEJqMTVFVmtUb1Z3YnkzaS1kUnNoMFhVYjVvZUVEYVI4Zk0yTTFnOXRrWW9MOEFZdV9LRnBhZWtPWHc3Nkp1cjBWdkxPeGZvNml6dUFKR01YTW5TeDJ4TUxiWGZQSUpzRW9sb2hxclZJeA?oc=5",
     "title": "\"엔비디아 종속 막자\"…정부·AMD·K반도체 '연합 전선' 구축(종합)",
     "summary": [
@@ -79,7 +79,7 @@ window.NEWS_DB = [
     "id": "n2beeb2e6",
     "category": "IT",
     "source": "비즈니스포스트",
-    "time": "10시간 전",
+    "time": "11시간 전",
     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBMbVI5anZMMjl0ZTNFZGFrYlVqdTNCYUNCRm9rRzdWcVZBVHR6ZVNWVnBsM0t4SU5DZ2o4VjU4OUFBcUQ1cF9EYkE0a0prYzZXTFVXT3AtYmFGRXVfMTJHS25ESWViUUNmS0dCWUFrTmRUcUE?oc=5",
     "title": "엔비디아 고객사에 금융지원 전략 성패는 메모리 공급망에 달렸다, 공급과잉 전환 시점이 중요",
     "summary": [
@@ -360,10 +360,42 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n789c3752",
+    "category": "경제",
+    "source": "뉴시스",
+    "time": "16분 전",
+    "url": "https://www.newsis.com/view/NISX20260821_0003756792",
+    "title": "이란 \"美 추가 제재는 경제테러·반인도 범죄\"",
+    "summary": [
+      "[서울=뉴시스] 문예성 기자 = 이란 정부가 미국이 예고한 대규모 경제·무역 제재를 ‘경제테러’이자 ‘반인도적 범죄’로 규정하며 강력히 반발했다.",
+      "20일(현지 시간) CNN 등에 따르면 이란 외무부는 이날 성명을 통해 “미국이 발표한 광범위한 대이란 경제·무역 제재는 경제테러이자 반인도적 범죄에 해당한다”고 밝혔다.",
+      "이어 “이처럼 극악한 범죄를 저지른 제재의 기획자와 집행자는 재판을 받고 처벌돼야 한다”고 주장했다."
+    ],
+    "chips": [
+      "#수출"
+    ]
+  },
+  {
+    "id": "n5cb65a5d",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "19분 전",
+    "url": "https://www.newsis.com/view/NISX20260820_0003755973",
+    "title": "\"내가 연봉 3천만원 더 버는데\"…가사 5대5 요구한 아내에 남편 '발끈'",
+    "summary": [
+      "[서울=뉴시스]김혜경 기자 = 연봉이 3000만원가량 차이 나는 맞벌이 부부가 가사분담 비율을 놓고 갈등을 빚고 있다는 사연이 전해졌다.",
+      "지난 18일 한 직장인 커뮤니티에는 '연봉 차이 나는데 가사분담 5:5 강요하는 아내'라는 제목의 글이 올라왔다.",
+      "글쓴이 A씨는 자신의 연봉이 약 8000만원, 아내의 연봉은 약 5000만원이라며 \"월급으로 치면 제가 한 달에 가져오는 돈이 150만원 이상 더 많고 생활비나 대출금도 제가 소득 비율대로 더 부."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
     "id": "n36d6706c",
     "category": "IT",
     "source": "테크M",
-    "time": "방금 전",
+    "time": "32분 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=154481",
     "title": "판교역 광장서 펼쳐지는 게임문화축제 'GXG 2026', 내달 11일 막 오른다",
     "summary": [
@@ -376,10 +408,74 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n1f6f17fa",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "34분 전",
+    "url": "https://www.chosun.com/international/international_general/2026/08/21/GFRWIYRSGYZWEMBUMNTDEMBUMI/",
+    "title": "월마트 실적에 美 소비 둔화 우려… 주가 2022년 이후 최대 낙폭",
+    "summary": [
+      "미국 최대 유통업체 월마트의 미국 내 기존점포 매출 증가율이 6년 만에 최저 수준으로 떨어졌다.",
+      "시장 기대에 못 미친 실적에 소비 둔화 우려까지 겹치면서 주가도 큰 폭으로 하락했다.",
+      "월마트는 20일(현지시각) 회계연도 2분기(5~7월) 총매출이 전년 동기 대비 5.9% 증가했다고 밝혔다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n3688df94",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "38분 전",
+    "url": "https://www.chosun.com/sports/world-football/2026/08/21/GQ3DCMZYGQ2DGYTCMYYWKM3CGI/",
+    "title": "스페인 1면 장악해버린 이강인, 각종 현지 언론서 \"ATM, 제대로 된 선수 품었다\" 극찬",
+    "summary": [
+      "[OSEN=정승우 기자] 이강인(25, 아틀레티코 마드리드)이 데뷔전부터 강렬한 인상을 남겼다.",
+      "교체 투입 13분 만에 결승골을 터뜨렸고, 경기 최우수선수(MVP)까지 차지했다.",
+      "스페인 주요 매체들은 이강인의 활약을 일제히 1면과 주요 기사로 다뤘다.아틀레티코는 20일(한국시간) 스페인 마드리드의 리야드 에어 메트로폴리타노에서 열린 2026-2027시즌 라."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nd47baa1b",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "39분 전",
+    "url": "https://www.chosun.com/sports/baseball/2026/08/21/MEYGMZJVGM3GIMTGHBQTCZBRGE/",
+    "title": "대구가 더 싫은 삼성 투수들, 왜 홈에서 이렇게 작아지나…4:1→4:6, 또 뼈아픈 역전패",
+    "summary": [
+      "[OSEN=길준영 기자] 프로야구 삼성 라이온즈가 뼈아픈 역전패를 당하며 홈에서 위닝시리즈를 내줬다.",
+      "삼성은 20일 대구 삼성라이온즈파크에서 열린 ‘2026 신한은행 SOL Bank KBO리그’ SSG 랜더스와의 경기에서 4-6으로 패했다.",
+      "이날 패배로 주중 홈 3연전에서 루징시리즈를 당했다.삼성 선발투수 최원태는 5이닝 5피안타 7탈삼진 1실점을 기록했다."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
+    "id": "ne1c88a84",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "40분 전",
+    "url": "https://www.chosun.com/entertainments/broadcast/2026/08/21/G5RGMMRVMVQTSZJYGE3TIMJZMU/",
+    "title": "\"입원 권유 받아‥위태로웠던 날들\" 이재용, 30대에 우울증 진단 받아 ('요즘 뭐해')",
+    "summary": [
+      "영상 시청 후 작성된 리뷰 기사입니다.[OSEN=최지연 기자] 배우 이재용이 과거 우울증으로 투병했다고 알렸다.",
+      "20일 유튜브 채널 '요즘 뭐해'에는 '[단독] ‘야인시대’ 미와 이재용, 8년간 우울증을 견딘 이유… “연기가 나를 살렸다”'라는 제목의 영상이 게재됐다.",
+      "이날 배우 조상구는 이재용에게 \"7, 8년 이상을 우울증 약을 먹었다고 들었다\"고 물었다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
     "id": "nfb619e82",
     "category": "사회",
     "source": "동아일보",
-    "time": "2분 전",
+    "time": "59분 전",
     "url": "https://www.donga.com/news/Inter/article/all/20260821/134516715/1",
     "title": "美재무 “이란 정권 붕괴시킬 것”…역대 최강 제재 예고",
     "summary": [
@@ -390,57 +486,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n847725f7",
-    "category": "사회",
-    "source": "머니투데이",
-    "time": "6분 전",
-    "url": "https://www.mt.co.kr/entertainment/2026/08/21/2026082023065862575",
-    "title": "애 다쳤는데 남편 밥타령...아내 타박에 \"나도 귀한 사람\" 눈물 펑펑",
-    "summary": [
-      "14개월 아들이 다쳤는데 밥부터 찾은 것을 타박했다는 이유로 토라져 아내가 무릎 꿇고 사과하는데도 이를 받아주지 않은 남편의 이야기가 전해졌다.",
-      "지난 20일 방송된 JTBC 예능 프로그램 '이혼숙려캠프'에서는 23기 세 번째 부부인 '쪼잔 부부'의 가사조사가 그려졌다.",
-      "이날 방송에서 '쪼잔 부부' 남편은 4년 전 장모 환갑 때 처가에서 발생한 '라면 사건'으로 아내에게 서운했다고 밝혔다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n523318e4",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "6분 전",
-    "url": "https://www.chosun.com/sports/baseball/2026/08/21/GI3TMYTCMZTDAYRVGFRTGNLCGE/",
-    "title": "'1점→0점→16점' 3연전 나눠서 쳤더라면...15안타 13사사구 대폭발→1위 수성 \"이틀간 방망이 안 맞았는데, 김민혁 역전 적시타로 분위기를 가져왔다\"",
-    "summary": [
-      "[OSEN=잠실, 한용섭 기자] 프로야구 KT 위즈가 LG 트윈스 마운드를 폭격하며 대승을 거뒀다.",
-      "자력으로 1위 자리를 지켰고, 2위 삼성에 1경기 차이로 도망갔다.",
-      "KT는 20일 서울 잠실구장에서 열린 LG와 경기에서 16-4 대승을 거뒀다."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
-    "id": "n19360cdb",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "8분 전",
-    "url": "https://www.chosun.com/entertainments/broadcast/2026/08/21/MZRDOOJWMI2GIOBQMNSGGNRXGY/",
-    "title": "'마수리' 김희정 맞아? 스페인 핫걸됐다...눈부신 미모 눈길",
-    "summary": [
-      "[OSEN=김수형 기자]배우 김희정이 스페인 여행 중 눈부신 비주얼을 자랑했다.김희정은 20일 자신의 SNS에 “메뉴판에서 샹그리아 한참 찾았는데 여기선 Tinto de verano”라는 글과 함께 여행지에서 보낸 일상을 공개했다.사진 속 김희정은 현지 레스토랑에서 음료를 앞에 두고 여유를 만끽하고 있다.",
-      "플라워 패턴의 원피스에 머리를 올려 묶은 김희정은."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
     "id": "nfe8642b0",
     "category": "사회",
     "source": "연합뉴스",
-    "time": "10분 전",
+    "time": "1시간 전",
     "url": "https://www.yna.co.kr/view/AKR20260821002500071",
     "title": "美 \"우리편이냐 맞설거냐\"…'이란경제 붕괴' 동맹 동참 압박",
     "summary": [
@@ -451,26 +500,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n925b3549",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "11분 전",
-    "url": "https://www.chosun.com/sports/sports_general/2026/08/21/MFRTKNLCMRQTKNZSGU4DKMBQMQ/",
-    "title": "'안세영 라이벌' 천위페이 '충격 탈락', 방심은 금물...안세영 앞에 중국 '빅3' 한웨가 기다린다",
-    "summary": [
-      "[OSEN=정승우 기자] 중국 여자 단식의 강력한 카드 하나가 먼저 탈락했다.",
-      "안세영(24, 삼성생명)의 라이벌로 유명한 천위페이(세계 4위)가 세계선수권 16강에서 짐을 쌌다.",
-      "중국의 견제 구도가 완전히 무너진 것은 아니다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
     "id": "n0cf17c77",
     "category": "사회",
     "source": "연합뉴스",
-    "time": "12분 전",
+    "time": "1시간 전",
     "url": "https://www.yna.co.kr/view/AKR20260821001800099",
     "title": "WHO, 에볼라 확산 민주콩고에 자이르형 백신 긴급 투입",
     "summary": [
@@ -481,26 +514,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "na96f0d8f",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "12분 전",
-    "url": "https://www.chosun.com/sports/world-baseball/2026/08/21/GFRDENBUGRRWIZDBGYYDSN3CGE/",
-    "title": "\"한국이 야구하러 간 곳 중 최고였다\" 이 투수 뭐지? KBO 출신도 아니고, 이정후한테 홈런까지 맞았는데…뭐가 좋았길래",
-    "summary": [
-      "[OSEN=이상학 객원기자] KBO리그 출신도 아닌데 한국을 최고로 꼽은 메이저리그 투수가 있다.",
-      "워싱턴 내셔널스 좌완 투수 톰 코스그로브(30)가 그 주인공이다.",
-      "코스그로브는 지난 20일(이하 한국시간) ‘MLB.com’ 워싱턴 담당 기자 제시카 카메라토와 인터뷰를 한국을 언급했다."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
     "id": "n4ac34599",
     "category": "사회",
     "source": "동아일보",
-    "time": "16분 전",
+    "time": "1시간 전",
     "url": "https://www.donga.com/news/It/article/all/20260821/134516690/1",
     "title": "“야식은 못참지”…의지 박약 아닌 ‘이 호르몬’ 탓?",
     "summary": [
@@ -513,58 +530,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nf263d318",
-    "category": "스포츠",
-    "source": "머니투데이",
-    "time": "20분 전",
-    "url": "https://www.mt.co.kr/sports/2026/08/21/2026082013184928564",
-    "title": "'구시대 산물' 와이파이 차단·강제 새벽 운동 다 없앴다... 김택수 선수촌장 \"선수·지도자들 믿었다\" [진천 현장]",
-    "summary": [
-      "30일 앞으로 다가온 2026 아이치·나고야(일본) 하계 아시아경기대회(아시안게임) 준비 과정에서 가장 크게 달라진 점 중 하나는 국가대표 선수촌에 보장된 '자율성'이다.",
-      "앞서 2022 항저우 대회나 2024 파리 올림픽 준비 과정에선 선수촌에 입촌한 선수들의 행동을 강제 또는 제한하는 사항들이 많았다면, 지난해 4월 김택수 선수촌장 취임 이후엔 문화가 크게 바뀐 것이다.",
-      "실제 과거 대표팀 선수촌에서는 심야 와이파이 차단이나 새벽 운동 의무화,."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n49250ff5",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "21분 전",
-    "url": "https://www.newsis.com/view/NISX20260820_0003756381",
-    "title": "이영애, '대장금' 요리 스승과 재회…\"23년 전 그대로\" 동안 미모 비결은",
-    "summary": [
-      "[서울=뉴시스]서이현 인턴 기자 = 배우 이영애가 드라마 '대장금'의 요리 스승이었던 한복려 궁중음식연구가를 만나 훈훈한 근황을 전했다.",
-      "이영애는 20일 자신의 사회관계망서비스(SNS)에 \"궁중음식연구가 한복려 스승님 감사합니다 건강하셔요 '대장금' 나의 스승님\"이라는 글과 함께 여러 장의 사진을 올렸다.",
-      "사진 속에는 궁중음식연구원을 방문한 이영애의 모습이 담겼다."
-    ],
-    "chips": [
-      "#의료"
-    ]
-  },
-  {
-    "id": "nc8ae766b",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "21분 전",
-    "url": "https://www.newsis.com/view/NISX20260820_0003755406",
-    "title": "정류장 기둥에 '신체 만진 손' 문지른 남성…민원·신고 넣었지만",
-    "summary": [
-      "[서울=뉴시스]김성은 인턴 기자 = 공공장소에서 자신의 신체 부위를 만진 뒤 버스정류장 시설물에 손을 문지르는 듯한 행동을 한 남성이 포착돼 논란이 일고 있다.",
-      "19일 방송된 JTBC '사건반장'에서는 버스정류장 인근에서 촬영된 제보 영상이 공개됐다.",
-      "영상에는 한 남성이 버스정류장 기둥 앞에서 바지 안으로 손을 넣어 자신의 신체 부위를 긁거나 만지는 모습이 담겼다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
     "id": "n6fd86bc1",
     "category": "사회",
     "source": "연합뉴스",
-    "time": "22분 전",
+    "time": "1시간 전",
     "url": "https://www.yna.co.kr/view/AKR20260821002400072",
     "title": "월마트, 美 매장 매출 증가율 6년만에 최저…주가 급락",
     "summary": [
@@ -578,7 +547,7 @@ window.NEWS_DB = [
     "id": "nf0a234b1",
     "category": "경제",
     "source": "연합뉴스",
-    "time": "26분 전",
+    "time": "1시간 전",
     "url": "https://www.yna.co.kr/view/AKR20260821002300072",
     "title": "美재무장관 \"국채 바이백 회당 40억달러 이상 될 수도\"",
     "summary": [
@@ -592,7 +561,7 @@ window.NEWS_DB = [
     "id": "na4b0bcaa",
     "category": "사회",
     "source": "동아일보",
-    "time": "48분 전",
+    "time": "1시간 전",
     "url": "https://www.donga.com/news/Inter/article/all/20260821/134516644/1",
     "title": "예멘 후티 “사우디 나즈란공항·아람코 시설 공격”",
     "summary": [
@@ -606,7 +575,7 @@ window.NEWS_DB = [
     "id": "n5ccce7ac",
     "category": "스포츠",
     "source": "동아일보",
-    "time": "50분 전",
+    "time": "1시간 전",
     "url": "https://www.donga.com/news/Sports/article/all/20260821/134516637/1",
     "title": "‘배드민턴 최강’ 안세영, 세계선수권 8강 안착…서승재·김원호도 8강행",
     "summary": [
@@ -617,19 +586,45 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "ne1cfce07",
-    "category": "사회",
-    "source": "머니투데이",
-    "time": "53분 전",
-    "url": "https://www.mt.co.kr/future/2026/08/21/2026082017265047415",
-    "title": "멸종위기 '하늘다람쥐'도 살린다…삼표시멘트, 척박한 땅 '숲'으로 복원",
+    "id": "n2e9e9a90",
+    "category": "스포츠",
+    "source": "한국경제",
+    "time": "2시간 전",
+    "url": "https://www.hankyung.com/article/202608203412i",
+    "title": "3년 전 '눈물' 씻겠다…이윤서 \"목표는 당연히 우승이죠\"",
     "summary": [
-      "삼표시멘트가 지속가능한 생태환경 조성을 위해 채광이 끝난 광산 부지 생태계 복원 작업을 진행한다고 20일 밝혔다.",
-      "삼표시멘트에 따르면 자회사 삼표자원개발은 강원특별자치도 삼척시 석회석 광산에서 지형·식생 복원 활동을 진행 중이다.",
-      "이 활동은 광산 부지의 지형을 안정화하는 것을 넘어 주변 자생식물을 활용해 식생을 회복하고 야생동물의 서식 기반을 조성하는 생태복원 프로젝트다."
+      "3년 전 '눈물' 씻겠다…이윤서 \"목표는 당연히 우승이죠\"."
     ],
     "chips": [
-      "#환경"
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n1662ddf4",
+    "category": "경제",
+    "source": "한국경제",
+    "time": "2시간 전",
+    "url": "https://www.hankyung.com/article/2026082032467",
+    "title": "[오늘의 운세] 오늘 뭐 먹지?…8월 21일 띠별 추천 점심메뉴",
+    "summary": [
+      "[오늘의 운세] 오늘 뭐 먹지?…8월 21일 띠별 추천 점심메뉴."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n01dcc7ea",
+    "category": "경제",
+    "source": "한국경제",
+    "time": "2시간 전",
+    "url": "https://www.hankyung.com/article/2026082032637",
+    "title": "[오늘의 운세] 8월 21일 띠별 운세",
+    "summary": [
+      "[오늘의 운세] 8월 21일 띠별 운세."
+    ],
+    "chips": [
+      "#뉴스"
     ]
   }
 ];
@@ -639,18 +634,18 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2590건",
-    "trend": "+295%"
+    "mentions": "2850건",
+    "trend": "+335%"
   },
   {
     "rank": 2,
-    "tag": "KBO",
-    "mentions": "1550건",
-    "trend": "+135%"
+    "tag": "반도체",
+    "mentions": "1420건",
+    "trend": "+115%"
   },
   {
     "rank": 3,
-    "tag": "반도체",
+    "tag": "KBO",
     "mentions": "1420건",
     "trend": "+115%"
   }
