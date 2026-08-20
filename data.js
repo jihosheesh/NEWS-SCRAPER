@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-08-20 11:17:08
+// 마지막 업데이트: 2026-08-20 12:24:43
 window.NEWS_DB = [
   {
     "id": "n6f9d632c",
     "category": "IT",
     "source": "Counterpoint Research",
-    "time": "2시간 전",
+    "time": "3시간 전",
     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNWldFd0pOdDliUnJ6TDJUV2FTaGE1RndLODFNdVNleVoyNFVMdnRlQkEtODNMSDRQZDJCWjlab29yZ21sSldSU1BJWnFSc2QzRlZzOXMwY1ZqYkwxOWN4VkJVQ0FKRl8tRGg0TG1jYWZpeDIzVllxREtMZDhYbnZWTmVRNGhMQVB1WjJSdUl3?oc=5",
     "title": "인텔은 메모리 넘본다…삼성은 파운드리 반격",
     "summary": [
@@ -19,7 +19,7 @@ window.NEWS_DB = [
     "id": "nd000c55e",
     "category": "IT",
     "source": "데이터넷",
-    "time": "2시간 전",
+    "time": "3시간 전",
     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE11QUd4NkhZaDRidFpDRHoyWnFPeURfYVpIMjRZc1pjSmdiTDBiYmVZbnpCQkJxd0ZJaUdMeW5DWVhaTlVmOW53X3BuVTh4bGtYVWM4OUd3a1RtdFdtNm5xSVZMakxxb1lsUnNONA?oc=5",
     "title": "“인텔은 메모리 넘보고, 삼성은 파운드리 반격”",
     "summary": [
@@ -30,24 +30,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n04c9840b",
-    "category": "IT",
-    "source": "ebn.co.kr",
-    "time": "3시간 전",
-    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5jNy1zd3VfY0dldFJwanlTb1U0aUR0elE4amU1Ui1FaXRORkV5TWZZZEJlVVlHc1ZhVjByWTg1MFFIMXdLUVJCcjBwYXlJMk1JQkFHVGR1RTdhSy1WMU5sbEJveU5xRktt?oc=5",
-    "title": "인텔, 메모리 접점 확대…삼성은 파운드리 반격 나섰다",
-    "summary": [
-      "인텔, 메모리 접점 확대…삼성은 파운드리 반격 나섰다 ebn.co.kr."
-    ],
-    "chips": [
-      "#반도체"
-    ]
-  },
-  {
     "id": "n72333e67",
     "category": "사회",
     "source": "서울뉴스통신",
-    "time": "4시간 전",
+    "time": "5시간 전",
     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1PU0xyNnJwRUhKbThVQm9zempWb0p3QVBUUEE3YVQxZ05XdXdUeUtfT01hZlVMbTA2ZTlKU2ctUlhJTVNWVlJMNXFHenVndGxFVG9xMGdVdnh1dEtZUENkdFQ5dXdRRjNTdVh3?oc=5",
     "title": "고용센터 AI 기반 맞춤형으로 개편…구직 상담·기업 채용지원 대폭 강화",
     "summary": [
@@ -64,7 +50,7 @@ window.NEWS_DB = [
     "id": "n13d51c3b",
     "category": "IT",
     "source": "뉴시스",
-    "time": "5시간 전",
+    "time": "6시간 전",
     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9rWS0wRFlYVEJqMTVFVmtUb1Z3YnkzaS1kUnNoMFhVYjVvZUVEYVI4Zk0yTTFnOXRrWW9MOEFZdV9LRnBhZWtPWHc3Nkp1cjBWdkxPeGZvNml6dUFKR01YTW5TeDJ4TUxiWGZQSUpzRW9sb2hxclZJeNIBeEFVX3lxTE9rWS0wRFlYVEJqMTVFVmtUb1Z3YnkzaS1kUnNoMFhVYjVvZUVEYVI4Zk0yTTFnOXRrWW9MOEFZdV9LRnBhZWtPWHc3Nkp1cjBWdkxPeGZvNml6dUFKR01YTW5TeDJ4TUxiWGZQSUpzRW9sb2hxclZJeA?oc=5",
     "title": "\"엔비디아 종속 막자\"…정부·AMD·K반도체 '연합 전선' 구축(종합)",
     "summary": [
@@ -76,10 +62,24 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n29c6183f",
+    "category": "IT",
+    "source": "리드경제",
+    "time": "6시간 전",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE95dVc1a3FlSHJ2d3E0c2cwM2loSVY0cGVNcVcxYU0tMTJPZkxYWWQ3VnUwcHBYVlJxWmwwM3pnU2JWTlhqYXAzS1dmbnMxd0xvc3FKeV9nVVpNSTgwb1lKUEhkcnZ6eDBUb3BQRG9qTQ?oc=5",
+    "title": "인텔, 메모리 넘본다…삼성 파운드리 반격",
+    "summary": [
+      "인텔, 메모리 넘본다…삼성 파운드리 반격 리드경제."
+    ],
+    "chips": [
+      "#반도체"
+    ]
+  },
+  {
     "id": "n2beeb2e6",
     "category": "IT",
     "source": "비즈니스포스트",
-    "time": "5시간 전",
+    "time": "6시간 전",
     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBMbVI5anZMMjl0ZTNFZGFrYlVqdTNCYUNCRm9rRzdWcVZBVHR6ZVNWVnBsM0t4SU5DZ2o4VjU4OUFBcUQ1cF9EYkE0a0prYzZXTFVXT3AtYmFGRXVfMTJHS25ESWViUUNmS0dCWUFrTmRUcUE?oc=5",
     "title": "엔비디아 고객사에 금융지원 전략 성패는 메모리 공급망에 달렸다, 공급과잉 전환 시점이 중요",
     "summary": [
@@ -108,7 +108,7 @@ window.NEWS_DB = [
     "id": "n9763e68e",
     "category": "사회",
     "source": "투데이경제",
-    "time": "5일 전",
+    "time": "6일 전",
     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBEZVV0SG5SS2kwVUNpWjN4X19kU2JxOTFqY293UVVaUTc4UkxKLWVOMTFBS21XY1dTejB4YlVQY3RvV0d5SGZjNU1fVUxZVjQwcXFHZFk5MVBSdjNZZFJkc2tPZVlIOHdLSldv?oc=5",
     "title": "수원특례시, 8월 '일자리 두드림 구인·구직의 날' 개최한다… 5개 업체 참여해 18명 채용",
     "summary": [
@@ -237,6 +237,20 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n79d12fb6",
+    "category": "부동산",
+    "source": "Chosunbiz",
+    "time": "83일 전",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQc01fQzQ5RjhjTzMxV0xObHgwUFQ5Z0ozcklaR19VYmhUOXBxVURFZVBjZkxKT2ozQUhsVzViV1JCLXdvVUQ1YWVwYTA5bVB1TjdaYlZHTXFCQUJoRTBsdHNHZXZ5MnJQdVliYzVUUktidVpvNDNzWVJXakYzUFBTMFMxd1Y0NFVrTnhSR1c5WXctLTdFRnhJMtIBrAFBVV95cUxOMk9EaXo0bmRJdnJyRVgyM0REZE1IR1VEVkNzWVNHZW9nR3p3WDRXcXQ0dnpfNk5LRE9SVFVscW45RzlqYTZGTWhWdTlybngycnM5QUliSG1haVFoQW5xT3ZpbFJvWU5hYjNYUGNLTHVyNHgwcDdLZWFsdFhMTHhCNlBodDFsdkFTT0tFX3NXWGZ1M2hCTEpmbTVUVXRzREtvSy1CdkRyWE5sbU5p?oc=5",
+    "title": "매물 줄고 분양가 뛰고… 전국 아파트 매매·전셋값 동반 상승세 지속 - 조선비즈",
+    "summary": [
+      "매물 줄고 분양가 뛰고… 전국 아파트 매매·전셋값 동반 상승세 지속 - 조선비즈 Chosunbiz."
+    ],
+    "chips": [
+      "#부동산"
+    ]
+  },
+  {
     "id": "nb9bdfdfb",
     "category": "스포츠",
     "source": "푸드투데이",
@@ -295,18 +309,21 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nbe3faaa9",
-    "category": "부동산",
-    "source": "한국주택경제신문",
-    "time": "189일 전",
-    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBySlBpV3FLRUFBelkwS3NUZWhrOC1qcGdZTW1obGIyVDV3Z2I5WHlwSGRzUkRCSjllUnpRX2Vld2FRa3VRWU56VEROM19hS3lGUU11VFJPS3RZUThkcTRGR0dEa0p2V0xy?oc=5",
-    "title": "서울 집값 0.22% ↑… \"재건축·역세권이 끌었다“",
+    "id": "nd5248b9d",
+    "category": "사회",
+    "source": "테크M",
+    "time": "방금 전",
+    "url": "https://www.techm.kr/news/articleView.html?idxno=154484",
+    "title": "'닥터나우 방지법' 결국 국회 통과…벤처업계 \"제2의 타다 사태 우려\"",
     "summary": [
-      "서울 집값 0.22% ↑… \"재건축·역세권이 끌었다“ 한국주택경제신문."
+      "비대면 진료 플랫폼의 의약품 도매업 겸업을 제한하는 약사법 개정안이 결국 국회 문턱을 넘었다.",
+      "비대면 진료가 제도권 의료서비스로 자리 잡아가는 상황에서 플랫폼의 의약품 유통시장 진출에는 제동이 걸린 셈이다.",
+      "벤처업계는 특정 사업모델을 법으로 차단한 '제2의 타다 금지법'이 될 수 있다며 반발하고 있다.20일 관련 업계에 따르면 국회는 이날 본회의에서 비대면 진료 중개업자의 의약품 도매업 겸영을 제한하는 내용의 약사법 개정안을 통과시켰다."
     ],
     "chips": [
-      "#부동산",
-      "#재건축"
+      "#스타트업",
+      "#정치",
+      "#의료"
     ]
   },
   {
@@ -358,269 +375,252 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n2197239f",
-    "category": "IT",
-    "source": "테크M",
-    "time": "방금 전",
-    "url": "https://www.techm.kr/news/articleView.html?idxno=154480",
-    "title": "강율빈 넵튠 대표, 인도 광고 생태계에 '게임 마케팅' 가능성 알린다",
+    "id": "ncdb625db",
+    "category": "경제",
+    "source": "아시아경제",
+    "time": "3분 전",
+    "url": "https://view.asiae.co.kr/article/2026082021204313408",
+    "title": "[속보] 김여정 \"美안보지원 공짜 아냐…이 기회에 생존의 답 찾아야\"",
     "summary": [
-      "강율빈 넵튠 대표가 인도 광고·마케팅 업계 관계자들이 모이는 컨퍼런스에서 게임을 활용한 마케팅 전략과 게임 미디어의 가능성을 소개한다.넵튠은 강율빈 대표가 오는 21일 인도 뭄바이에서 열리는 ‘에이펙스 미디어 퀘스트 서밋 2026' 컨퍼런스에 발표자로 참석한다고 20일 밝혔다.올해 2회째를 맞는 이번 행사는 인도의 광고·마케팅·미디어 전문 매체 '에이펙스'가 주최하는 전문 네트워킹 컨퍼런스다.",
-      "인도 미디어·광고 업계의 C레벨 의사결정권자를 비롯."
+      "김여정 \"美안보지원 공짜 아냐…이 기회에 생존의 답 찾아야\"."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n2081a856",
-    "category": "부동산",
-    "source": "뉴시스",
-    "time": "2분 전",
-    "url": "https://www.newsis.com/view/NISX20260820_0003756674",
-    "title": "신고 없이 민간임대 투자자 모집 금지…민간 건설공사 대금 '직접지급'",
+    "id": "nfebc7d18",
+    "category": "경제",
+    "source": "아시아경제",
+    "time": "5분 전",
+    "url": "https://view.asiae.co.kr/article/2026082021193288710",
+    "title": "라부부 열풍 식자 팝마트 해외매출 11% '뚝'…성장세 급제동",
     "summary": [
-      "[서울=뉴시스] 변해정 기자 = 앞으로는 신고 없이 민간임대주택 예비임차인(투자자·회원)을 모집하는 행위가 전면 금지된다.",
-      "노후 공공건축물의 그린리모델링이 의무화 되고, 민간 건설공사도 전자대금지급시스템을 통해 공사대금을 청구·수령하게 된다.",
-      "국토교통부는 20일 국회 본회의에서 '민간임대주택에 관한 특별법'(민간임대주택법)과 '녹색건축물 조성 지원법'(녹색건축법), '건설산업기본법' 개정안이 통과했다고 밝혔다."
+      "세계적인 인기를 끌었던 캐릭터 인형 '라부부'(LABUBU) 열풍이 한풀 꺾이면서 중국 완구업체 팝마트의 성장세에도 제동이 걸렸다.",
+      "20일 블룸버그통신 등에 따르면 팝마트의 올해 상반기 매출은 172억위안(약 3조5600억원)으로 전년 동기 대비 24% 증가했다.",
+      "매출은 늘었지만 지난해 같은 기간 200%를 웃돌았던 증가율과 비교하면 성장세가 크게 둔화했다."
     ],
     "chips": [
-      "#채용",
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nde90c58a",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "5분 전",
+    "url": "https://www.donga.com/news/list/article/all/20260820/134516128/2",
+    "title": "[속보]김여정, UFS훈련 축소에 “전쟁놀이 못하게된 서울…가긍한 처지“",
+    "summary": [
+      "김정은 북한 국무위원장의 동생인 김여정 노동당 총무부장이 20일 한미연합연습 ‘을지 자유의 방패(UFS) 축소를 두고 “트럼프의 말 한마디에 서울은 제일 즐겨하던 ‘전쟁놀이’ 판을 거두어야 하는 가긍한 처지에 놓이게 됐다”라고 밝혔다.김여정 노동당 총무부장은 20일 ‘그리도 즐겨하던 전쟁놀이를 못하게 된 서울의 가긍한 처지’라는 제목의 담화를 통해 “제일 하고싶던 ‘전쟁놀이’를 못하게 돼 시르죽은 꼴이 된 한국의 처지는 그들이 자랑하던 ‘한미혈."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n56b1165a",
+    "category": "스포츠",
+    "source": "뉴시스",
+    "time": "6분 전",
+    "url": "https://www.newsis.com/view/NISX20260820_0003756730",
+    "title": "천안에서 5회째 K리그 유스챔피언십…경제효과에 천안시도 '함박웃음'",
+    "summary": [
+      "[천안=뉴시스]최영민 기자 = 올해로 다섯 번째를 맞는 K리그 유스 챔피언십이 U18대회와 U15 대회를 성공적으로 마쳤다.",
+      "대회를 치러낸 천안시도 함박웃음을 지었다.",
+      "지난 7월 11일부터 23일까지 13일간 먼저 열린 U18 챔피언십에는 김해와 파주를 제외한 K리그 소속 27개 팀이 조별리그 2~3경기와 16강 이후 토너먼트 경기를 펼치며 우승팀을 가렸다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n8c6360cd",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "6분 전",
+    "url": "https://www.chosun.com/entertainments/broadcast/2026/08/20/GM3GKZRUME3TAZBZMQ4GGOJRMI/",
+    "title": "\"속시원하다\" 한그루, 김성은 덕분에 유통기한 지난 식재료 전부 폐기 ('햅삐')",
+    "summary": [
+      "영상 시청 후 작성된 리뷰 기사입니다.[OSEN=최지연 기자] 배우 김성은이 한그루의 냉장고 정리에 나섰다.",
+      "20일 유튜브 채널 '햅삐 김성은 KIM SUNG EUN'에서는 '10년 묵은 음식이 냉동고에서 나왔다고요?'라는 제목의 영상이 게재됐다.이날 김성은은 한그루의 집을 찾았다.",
+      "김성은은 \"저에게 냉장고 정리를 의뢰하셨다\"고 언급, 한그루는 \"냉장고는."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n86a4ee65",
+    "category": "스포츠",
+    "source": "연합뉴스",
+    "time": "7분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260820182400007",
+    "title": "폭염에 지친 류현진, 5경기 연속 부진…후반기 ERA 9.41",
+    "summary": [
+      "(서울=연합뉴스) 천병혁 기자 = 불혹을 바라보는 류현진(39·한화 이글스)이 한여름 부진을 거듭하고 있다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nf0eca602",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "7분 전",
+    "url": "https://www.donga.com/news/Politics/article/all/20260820/134515560/1",
+    "title": "서울시장 지정하던 토허구역, 국토부 장관도 ‘콕 집어’ 지정 가능",
+    "summary": [
+      "현재 최장 330일이 걸리는 패스트트랙(신속처리안건) 심사 기간을 90일로 단축하는 국회법 개정안이 20일 국회 본회의를 통과했다.",
+      "국토교통부 장관에게 동일 시도 내 토지거래허가구역 지정 권한을 부여하는 법안 등 정부 여당이 추진해온 부동산 관련 법안들도 처리됐다.",
+      "다만 용산공원 조성 특별법 등 국민의힘이 반대하는 일부 법안은 상정되지 않았다.민주당과 조국혁신당 등 범여권은 이날 국회 본회의에서 국회법 개정안을 재석 234명 중 찬성 153명,."
+    ],
+    "chips": [
+      "#부동산",
+      "#정책",
       "#정치"
     ]
   },
   {
-    "id": "nac11c7ab",
+    "id": "n343a1a8c",
     "category": "사회",
-    "source": "뉴시스",
-    "time": "3분 전",
-    "url": "https://www.newsis.com/view/NISX20260820_0003756708",
-    "title": "강진서 1t 트럭 도로 옹벽 충격…운전자 숨져",
+    "source": "조선일보",
+    "time": "7분 전",
+    "url": "https://www.chosun.com/entertainments/broadcast/2026/08/20/HEZTOOLFHAZWGZLGGJRDQNBYMU/",
+    "title": "\"발가락에 힘 줬어요\"…채정안, 힙한 패션 뒤에 숨겨진 폭소 '비하인드' ('채정안TV')",
     "summary": [
-      "[전남광주=뉴시스]류형근 기자 = 20일 오후 5시22분께 전남광주 강진군 성전면 한 도로에서 A(60대)씨가 운전하던 1t트럭이 옹벽을 받았다.",
-      "신고를 받고 출동한 119에 의해 구조된 A씨는 심정지 상태로 병원으로 옮겨졌지만 숨졌다.",
-      "경찰은 A씨의 차량이 중앙분리대를 1차 충격한 후 옹벽을 받고 멈춘 것으로 보고 정확한 사고 경위를 조사 중이다."
+      "[OSEN=박근희 기자] 배우 채정안이 솔직하고 유쾌한 입담으로 여름 데일리 패션 비하인드를 공개했다.20일 오후 유튜브 채널 ‘채정안TV’에는 '\"야! 너도 한유주 될 수 있어!\" 26시즌 채정안의 여름 데일리 패션 공개'라는 제목의 영상이 게재됐다.제작진은 채정안에게 \"요즘 인스타 피드에 아주 예쁜 옷들이 많으시더라고요\"라며 칭찬을 건넸다."
     ],
     "chips": [
-      "#의료"
+      "#뉴스"
     ]
   },
   {
-    "id": "naf4c9079",
-    "category": "부동산",
-    "source": "뉴시스",
-    "time": "4분 전",
-    "url": "https://www.newsis.com/view/NISX20260820_0003756705",
-    "title": "전남광주 아파트 지하 주차장 차량 화재…인명피해 없어",
+    "id": "n366290c5",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "7분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260820180100109",
+    "title": "'오르반 편향' 지적받은 헝가리 공영방송, 한달반만에 뉴스 재개",
     "summary": [
-      "[전남광주=뉴시스]류형근 기자 = 20일 오후 6시46분께 전남광주 광산구 한 아파트 지하 주차장에 주차돼 있던 승용차에서 불이 났다.",
-      "불은 신고를 받고 출동한 119에 의해 진화됐으며 인명피해는 없는 것으로 알려졌다.",
-      "또 옆에 있던 주차차량이 그을림 피해를 입은 것으로 전해졌다."
+      "(로마=연합뉴스) 민경락 특파원 = 오르반 빅토르 전 정부에 편향됐다는 지적을 받은 헝가리 공영방송 뉴스 송출이 재개됐다고 AFP통신이 20일(..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n5cd45363",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "9분 전",
+    "url": "https://www.newsis.com/view/NISX20260820_0003756731",
+    "title": "[속보]김여정 \"이재명, 안팎 다른 이중적 언행…韓 불안초조한 모순심리 보여줘\"",
+    "summary": [
+      "후속기사가 이어집니다 ◎공감언론 뉴시스 south@newsis.com."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n22146c1b",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "11분 전",
+    "url": "https://www.newsis.com/view/NISX20260820_0003756728",
+    "title": "[속보]김여정 UFS 축소에 \"韓, 전쟁놀이 판 거두어야 하는 가긍한 처지\"",
+    "summary": [
+      "후속기사가 이어집니다 ◎공감언론 뉴시스 south@newsis.com."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n14d91676",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "13분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260820180800001",
+    "title": "韓총리 \"제주 실종여성 수색에 최선…2차 가해 엄정대응\"",
+    "summary": [
+      "(서울=연합뉴스) 황윤기 기자 = 한성숙 국무총리는 제주에서 3개월 전 실종된 장미란(37) 씨 사건과 관련해 경찰청에 \"수색에 최선을 다하라\"..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n1e943b1f",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "18분 전",
+    "url": "https://www.newsis.com/view/NISX20260820_0003756723",
+    "title": "한동훈, 국힘 윤리위 징계 결정에 \"선택적·자의적 징계 정치 계속돼\"",
+    "summary": [
+      "[서울=뉴시스]전상우 기자 = 한동훈 무소속 의원은 20일 국민의힘 중앙윤리위원회가 조경태·진종오·권영진·서범수 의원에게 '당원권 정지' 징계를 내린 데 대해 \"국민들께 버림받게 될 것\"이라고 했다.",
+      "한 의원은 이날 자신의 페이스북에 \"공당을 사당화하기 위한 선택적이고 자의적인 징계 정치가 계속되고 있다\"며 이같이 적었다.",
+      "앞서 한 의원은 국회 본회의 도중 기자들과 만나 \"사당화된 야당이 이재명 정권의 연임 독재 시도를 어떻게 비판하고 제어하겠."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n8fb0bdae",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "19분 전",
+    "url": "https://www.chosun.com/culture-life/culture_general/2026/08/20/6LWMXSKXTFELXMDZB32PDEJJTY/",
+    "title": "추신수·현주엽·구자철·김예지·정용택...TV조선 아시안게임 중계 ‘별’이 뜨다",
+    "summary": [
+      "추신수·현주엽·구자철·김예지·정용택...TV조선 아시안게임 중계 ‘별’이 뜨다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n1e484815",
+    "category": "부동산",
+    "source": "한경IT",
+    "time": "24분 전",
+    "url": "https://www.hankyung.com/article/2026082029621",
+    "title": "\"우리 아파트 경비원 새로 오셨는데…\" 타워팰리스 '술렁'",
+    "summary": [
+      "\"우리 아파트 경비원 새로 오셨는데…\" 타워팰리스 '술렁'."
     ],
     "chips": [
       "#부동산"
     ]
   },
   {
-    "id": "nf9821538",
-    "category": "부동산",
-    "source": "연합뉴스(경제)",
-    "time": "5분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260820179300530",
-    "title": "성평등부, 은평구 공공주택 공급에 여성사박물관 부지 이전키로",
-    "summary": [
-      "(서울=연합뉴스) 홍준석 기자 = 국립여성사박물관이 공공주택 공급계획 영향으로 새 부지를 찾게 됐다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n6e90c07b",
+    "id": "n9d2a2029",
     "category": "스포츠",
-    "source": "뉴시스",
-    "time": "6분 전",
-    "url": "https://www.newsis.com/view/NISX20260820_0003756703",
-    "title": "구리 한강변에서 지난달 실종된 70대 추정 시신 발견",
-    "summary": [
-      "[남양주=뉴시스]이호진 기자 = 지난달 경기 남양주시에서 실종된 70대 여성으로 보이는 시신이 구리시 한강변에서 발견됐다.",
-      "20일 경찰에 따르면 이날 낮 12시50분께 구리시 한강시민공원 강변에 여성으로 추정되는 시신이 쓰러져 있는 것을 이날 수색 지원을 나왔던 경기북부경찰청 과학수사대 채취견이 발견했다.",
-      "경찰은 발견된 시신이 옷차림 등으로 볼 때 지난달 15일 오전 2시30분께 남양주시 다산동에서 자택을 나간 뒤 실종된 70대 여성 A씨일 가."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n6c256337",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "6분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260820178500001",
-    "title": "국힘 윤리위, 비당권파 현역 의원 4인에 '당원권 정지' 중징계",
-    "summary": [
-      "(서울=연합뉴스) 김연정 노선웅 기자 = 국민의힘 중앙윤리위원회가 20일 징계 심사 대상에 오른 6선 조경태·재선 권영진·서범수·초선 진종오 의..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n7b3453ef",
-    "category": "스포츠",
-    "source": "동아일보",
-    "time": "7분 전",
-    "url": "https://www.donga.com/news/Society/article/all/20260820/134515772/1",
-    "title": "검찰, ‘송민호 부실복무’ 관리책임자 징역 1년 구형",
-    "summary": [
-      "검찰이 그룹 ‘위너’ 송민호(33)의 사회복무요원 부실 복무를 방조한 혐의로 재판에 넘겨진 당시 복무 관리책임자에게 징역 1년을 구형했다.서울서부지법 형사10단독(판사 성준규)은 20일 오후 병역법 위반 혐의로 기소된 마포구시설관리공단 직원 이모씨에 대한 결심공판을 열었다.검찰은 “피고인은 송씨가 장기간 무단결근할 수 있도록 필수적인 역할을 수행하고 감독기관에 적발되지 않도록 적극적으로 조치했다”며 징역 1년을 선고해달라고 재판부에 요청했다.이."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n68868ab3",
-    "category": "경제",
-    "source": "동아일보",
-    "time": "7분 전",
-    "url": "https://www.donga.com/news/Economy/article/all/20260820/134515766/1",
-    "title": "신임 한은 부총재에 권민수 부총재보 임명",
-    "summary": [
-      "한국은행은 신임 부총재로 권민수 부총재보가 임명됐다고 20일 밝혔다.한은법에 따르면 부총재는 총재가 추천해 대통령이 임명한다.",
-      "권 부총재보의 임기는 유상대 부총재가 퇴임하는 오는 21일부터 2029년 8월 20일까지다.권 부총재보는 1970년생으로 서울 휘문고와 연세대 경영학과를 나왔다.",
-      "이후 미국 예일대에서 경영학 석사를 취득했다.권 부총재보는 외자운용원과 국제국에서 오랜 기간 일하며 탁월한 업무 역량과 전문성, 기여도를 인정받은 대표적 외환."
-    ],
-    "chips": [
-      "#한은",
-      "#정치"
-    ]
-  },
-  {
-    "id": "nb6027278",
-    "category": "경제",
-    "source": "한국경제",
-    "time": "7분 전",
-    "url": "https://www.hankyung.com/article/2026082032337",
-    "title": "밤잠 설치게 하던 열대야의 귀환…폭염 다시 시작된다",
-    "summary": [
-      "밤잠 설치게 하던 열대야의 귀환…폭염 다시 시작된다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nb3990b6c",
-    "category": "사회",
     "source": "아시아경제",
-    "time": "8분 전",
-    "url": "https://view.asiae.co.kr/article/2026082020084503309",
-    "title": "특검, 심우정·전무곤 불구속기소…“계엄 내란 중요임무 종사”",
+    "time": "26분 전",
+    "url": "https://view.asiae.co.kr/article/2026082020575488303",
+    "title": "[내일날씨] 중부지방 흐리고 곳곳 소나기…낮 최고 35도",
     "summary": [
-      "12·3 비상계엄 내란 가담 및 윤석열 전 대통령 구속 취소 결정에 대한 즉시항고 포기와 관련해 직권남용 의혹을 받는 심우정 전 검찰총장이 재판에 넘겨졌다.",
-      "권창영 2차 종합특별검사팀은 20일 심 전 총장과 전무곤 전 대검 기획조정부장을 내란중요임무종사 및 직권남용권리행사방해 혐의로 불구속기소했다고 밝혔다.",
-      "심 전 총장은 비상계엄이 선포된 2024년 12월 3일부터 이튿날 새벽까지 박성재 전 법무부 장관 지시로 계엄 합."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n10c0abc9",
-    "category": "경제",
-    "source": "한국경제",
-    "time": "9분 전",
-    "url": "https://www.hankyung.com/article/2026082032471",
-    "title": "특검, 심우정 전 검찰총장 불구속 기소",
-    "summary": [
-      "특검, 심우정 전 검찰총장 불구속 기소."
+      "금요일인 21일은 중부지방을 중심으로 대체로 흐린 가운데 곳곳에 소나기가 내리겠다.",
+      "당분간 무더위가 이어지는 가운데 돌풍과 천둥·번개를 동반한 강한 소나기가 나타나는 곳도 있겠다.",
+      "수도권에는 최대 50~60㎜의 비가 내릴 것으로 예상된다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "nc745dcc2",
-    "category": "경제",
-    "source": "한국경제",
-    "time": "10분 전",
-    "url": "https://www.hankyung.com/article/2026082032697",
-    "title": "“군대에서도 그렇게는 못 먹는다”…교도소 '특식'에 부글부글",
-    "summary": [
-      "“군대에서도 그렇게는 못 먹는다”…교도소 '특식'에 부글부글."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n37e2f008",
-    "category": "경제",
-    "source": "연합뉴스(경제)",
-    "time": "11분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260820178900002",
-    "title": "한은 부총재에 '국제통' 권민수 부총재보 임명",
-    "summary": [
-      "(서울=연합뉴스) 한지훈 기자 = 한국은행 신임 부총재에 권민수(56) 국제금융·협력 담당 부총재보가 임명됐다고 한은이 20일 밝혔다."
-    ],
-    "chips": [
-      "#한은"
-    ]
-  },
-  {
-    "id": "n4bef697a",
-    "category": "경제",
-    "source": "한국경제",
-    "time": "11분 전",
-    "url": "https://www.hankyung.com/article/202608203164i",
-    "title": "2년 연속 1위 굳혔다…단백질 시장 흔드는 남양유업",
-    "summary": [
-      "2년 연속 1위 굳혔다…단백질 시장 흔드는 남양유업."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "ne4abef60",
+    "id": "n1482778f",
     "category": "사회",
     "source": "조선일보",
-    "time": "13분 전",
-    "url": "https://www.chosun.com/entertainments/broadcast/2026/08/20/GJSTEMBQMM4DAZRXGQZDMOJQGU/",
-    "title": "노홍철, 신구 한 마디에 각성..\"한숨도 안 자고 공항으로\"",
+    "time": "27분 전",
+    "url": "https://www.chosun.com/national/national_general/2026/08/20/WBC3P6KWENB55GBPDTUMSD4L6M/",
+    "title": "국비유학생 출신 진대제 “애국심에 얽매이지 마라…꿈 좇아 성공하는 게 애국”",
     "summary": [
-      "영상 시청 후 작성된 리뷰 기사입니다.[OSEN=최지연 기자] 방송인 노홍철이 배우 신구의 말에 각성했다.",
-      "20일 유튜브 채널 '노홍철'에는 '지난 인도 여행의 물갈이 지옥을 끝내러 다시 찾은 노홍철'이라는 제목의 영상이 게재됐다.",
-      "이날 노홍철은 \"어저께 연극을 한 편 봤다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nda47622d",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "13분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260820179200527",
-    "title": "전남 담양에 호우주의보 해제…여수 등 26곳 폭염주의보 유지",
-    "summary": [
-      "(광주=연합뉴스) 기상청은 담양에 발령했던 호우주의보를 20일 오후 8시를 기해 해제한다고 밝혔다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nc7c6e1b5",
-    "category": "경제",
-    "source": "연합뉴스(경제)",
-    "time": "17분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260820177900003",
-    "title": "노후 공공건축물 '그린리모델링' 의무화…민간은 보조금 지원",
-    "summary": [
-      "(세종=연합뉴스) 오진송 기자 = 에너지 성능 개선이 필요한 노후 공공건축물에 대한 그린리모델링이 의무화된다."
+      "국비유학생 출신 진대제 “애국심에 얽매이지 마라…꿈 좇아 성공하는 게 애국”."
     ],
     "chips": [
       "#뉴스"
@@ -633,18 +633,18 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2590건",
-    "trend": "+295%"
+    "mentions": "2850건",
+    "trend": "+335%"
   },
   {
     "rank": 2,
-    "tag": "반도체",
-    "mentions": "1420건",
-    "trend": "+115%"
+    "tag": "부동산",
+    "mentions": "1550건",
+    "trend": "+135%"
   },
   {
     "rank": 3,
-    "tag": "부동산",
+    "tag": "반도체",
     "mentions": "1420건",
     "trend": "+115%"
   }
