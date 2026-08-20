@@ -1,11 +1,25 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-08-20 10:19:07
+// 마지막 업데이트: 2026-08-20 11:17:08
 window.NEWS_DB = [
+  {
+    "id": "n6f9d632c",
+    "category": "IT",
+    "source": "Counterpoint Research",
+    "time": "2시간 전",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNWldFd0pOdDliUnJ6TDJUV2FTaGE1RndLODFNdVNleVoyNFVMdnRlQkEtODNMSDRQZDJCWjlab29yZ21sSldSU1BJWnFSc2QzRlZzOXMwY1ZqYkwxOWN4VkJVQ0FKRl8tRGg0TG1jYWZpeDIzVllxREtMZDhYbnZWTmVRNGhMQVB1WjJSdUl3?oc=5",
+    "title": "인텔은 메모리 넘본다…삼성은 파운드리 반격",
+    "summary": [
+      "인텔은 메모리 넘본다…삼성은 파운드리 반격 Counterpoint Research."
+    ],
+    "chips": [
+      "#반도체"
+    ]
+  },
   {
     "id": "nd000c55e",
     "category": "IT",
     "source": "데이터넷",
-    "time": "1시간 전",
+    "time": "2시간 전",
     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE11QUd4NkhZaDRidFpDRHoyWnFPeURfYVpIMjRZc1pjSmdiTDBiYmVZbnpCQkJxd0ZJaUdMeW5DWVhaTlVmOW53X3BuVTh4bGtYVWM4OUd3a1RtdFdtNm5xSVZMakxxb1lsUnNONA?oc=5",
     "title": "“인텔은 메모리 넘보고, 삼성은 파운드리 반격”",
     "summary": [
@@ -19,7 +33,7 @@ window.NEWS_DB = [
     "id": "n04c9840b",
     "category": "IT",
     "source": "ebn.co.kr",
-    "time": "2시간 전",
+    "time": "3시간 전",
     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5jNy1zd3VfY0dldFJwanlTb1U0aUR0elE4amU1Ui1FaXRORkV5TWZZZEJlVVlHc1ZhVjByWTg1MFFIMXdLUVJCcjBwYXlJMk1JQkFHVGR1RTdhSy1WMU5sbEJveU5xRktt?oc=5",
     "title": "인텔, 메모리 접점 확대…삼성은 파운드리 반격 나섰다",
     "summary": [
@@ -33,7 +47,7 @@ window.NEWS_DB = [
     "id": "n72333e67",
     "category": "사회",
     "source": "서울뉴스통신",
-    "time": "3시간 전",
+    "time": "4시간 전",
     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1PU0xyNnJwRUhKbThVQm9zempWb0p3QVBUUEE3YVQxZ05XdXdUeUtfT01hZlVMbTA2ZTlKU2ctUlhJTVNWVlJMNXFHenVndGxFVG9xMGdVdnh1dEtZUENkdFQ5dXdRRjNTdVh3?oc=5",
     "title": "고용센터 AI 기반 맞춤형으로 개편…구직 상담·기업 채용지원 대폭 강화",
     "summary": [
@@ -50,7 +64,7 @@ window.NEWS_DB = [
     "id": "n13d51c3b",
     "category": "IT",
     "source": "뉴시스",
-    "time": "4시간 전",
+    "time": "5시간 전",
     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9rWS0wRFlYVEJqMTVFVmtUb1Z3YnkzaS1kUnNoMFhVYjVvZUVEYVI4Zk0yTTFnOXRrWW9MOEFZdV9LRnBhZWtPWHc3Nkp1cjBWdkxPeGZvNml6dUFKR01YTW5TeDJ4TUxiWGZQSUpzRW9sb2hxclZJeNIBeEFVX3lxTE9rWS0wRFlYVEJqMTVFVmtUb1Z3YnkzaS1kUnNoMFhVYjVvZUVEYVI4Zk0yTTFnOXRrWW9MOEFZdV9LRnBhZWtPWHc3Nkp1cjBWdkxPeGZvNml6dUFKR01YTW5TeDJ4TUxiWGZQSUpzRW9sb2hxclZJeA?oc=5",
     "title": "\"엔비디아 종속 막자\"…정부·AMD·K반도체 '연합 전선' 구축(종합)",
     "summary": [
@@ -65,7 +79,7 @@ window.NEWS_DB = [
     "id": "n2beeb2e6",
     "category": "IT",
     "source": "비즈니스포스트",
-    "time": "4시간 전",
+    "time": "5시간 전",
     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBMbVI5anZMMjl0ZTNFZGFrYlVqdTNCYUNCRm9rRzdWcVZBVHR6ZVNWVnBsM0t4SU5DZ2o4VjU4OUFBcUQ1cF9EYkE0a0prYzZXTFVXT3AtYmFGRXVfMTJHS25ESWViUUNmS0dCWUFrTmRUcUE?oc=5",
     "title": "엔비디아 고객사에 금융지원 전략 성패는 메모리 공급망에 달렸다, 공급과잉 전환 시점이 중요",
     "summary": [
@@ -73,20 +87,6 @@ window.NEWS_DB = [
     ],
     "chips": [
       "#엔비디아"
-    ]
-  },
-  {
-    "id": "n6f9d632c",
-    "category": "IT",
-    "source": "Counterpoint Research",
-    "time": "5시간 전",
-    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNWldFd0pOdDliUnJ6TDJUV2FTaGE1RndLODFNdVNleVoyNFVMdnRlQkEtODNMSDRQZDJCWjlab29yZ21sSldSU1BJWnFSc2QzRlZzOXMwY1ZqYkwxOWN4VkJVQ0FKRl8tRGg0TG1jYWZpeDIzVllxREtMZDhYbnZWTmVRNGhMQVB1WjJSdUl3?oc=5",
-    "title": "인텔은 메모리 넘본다…삼성은 파운드리 반격",
-    "summary": [
-      "인텔은 메모리 넘본다…삼성은 파운드리 반격 Counterpoint Research."
-    ],
-    "chips": [
-      "#반도체"
     ]
   },
   {
@@ -124,7 +124,7 @@ window.NEWS_DB = [
     "id": "n1058f97e",
     "category": "스포츠",
     "source": "네이트",
-    "time": "6일 전",
+    "time": "7일 전",
     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8yc083aVJTcjRRMW96ZThmS0J5NnYtWjFpdVpkWlpPMjA2RVhzQzF5dzVTcGhHdUJFaWRDUmdjY053NEFkY2g4dzZmZmNYQW5saFg4YVV4NG1sbkx0bTFMWg?oc=5",
     "title": "맑은 하늘 아래 펼쳐지는 KBO리그",
     "summary": [
@@ -237,20 +237,6 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n79d12fb6",
-    "category": "부동산",
-    "source": "Chosunbiz",
-    "time": "83일 전",
-    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQc01fQzQ5RjhjTzMxV0xObHgwUFQ5Z0ozcklaR19VYmhUOXBxVURFZVBjZkxKT2ozQUhsVzViV1JCLXdvVUQ1YWVwYTA5bVB1TjdaYlZHTXFCQUJoRTBsdHNHZXZ5MnJQdVliYzVUUktidVpvNDNzWVJXakYzUFBTMFMxd1Y0NFVrTnhSR1c5WXctLTdFRnhJMtIBrAFBVV95cUxOMk9EaXo0bmRJdnJyRVgyM0REZE1IR1VEVkNzWVNHZW9nR3p3WDRXcXQ0dnpfNk5LRE9SVFVscW45RzlqYTZGTWhWdTlybngycnM5QUliSG1haVFoQW5xT3ZpbFJvWU5hYjNYUGNLTHVyNHgwcDdLZWFsdFhMTHhCNlBodDFsdkFTT0tFX3NXWGZ1M2hCTEpmbTVUVXRzREtvSy1CdkRyWE5sbU5p?oc=5",
-    "title": "매물 줄고 분양가 뛰고… 전국 아파트 매매·전셋값 동반 상승세 지속 - 조선비즈",
-    "summary": [
-      "매물 줄고 분양가 뛰고… 전국 아파트 매매·전셋값 동반 상승세 지속 - 조선비즈 Chosunbiz."
-    ],
-    "chips": [
-      "#부동산"
-    ]
-  },
-  {
     "id": "nb9bdfdfb",
     "category": "스포츠",
     "source": "푸드투데이",
@@ -306,6 +292,21 @@ window.NEWS_DB = [
     ],
     "chips": [
       "#KBO"
+    ]
+  },
+  {
+    "id": "nbe3faaa9",
+    "category": "부동산",
+    "source": "한국주택경제신문",
+    "time": "189일 전",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBySlBpV3FLRUFBelkwS3NUZWhrOC1qcGdZTW1obGIyVDV3Z2I5WHlwSGRzUkRCSjllUnpRX2Vld2FRa3VRWU56VEROM19hS3lGUU11VFJPS3RZUThkcTRGR0dEa0p2V0xy?oc=5",
+    "title": "서울 집값 0.22% ↑… \"재건축·역세권이 끌었다“",
+    "summary": [
+      "서울 집값 0.22% ↑… \"재건축·역세권이 끌었다“ 한국주택경제신문."
+    ],
+    "chips": [
+      "#부동산",
+      "#재건축"
     ]
   },
   {
@@ -372,270 +373,257 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n3501a73f",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "1분 전",
-    "url": "https://www.newsis.com/view/NISX20260820_0003756668",
-    "title": "'대법관 서면 제청' 논란에…\"대면은 관행일뿐\" vs \"제청권 남용\"(종합2보)",
-    "summary": [
-      "[서울=뉴시스]홍연우 기자 = 조희대 대법원장의 대법관 서면 제청 논란과 관련해 보수 성향 변호사단체가 대면 제청은 관행일 뿐, 법적 의무가 아니라고 비판했다.",
-      "반면 진보 성향 변호사 단체는 조 대법원장이 제청권을 남용한 것이라며, 즉각 사과하라고 촉구에 나섰다.",
-      "보수 성향 변호사단체 한반도 인권과 통일을 위한 변호사모임(한변)은 20일 성명을 내 \"대면 제청은 하나의 관행일 뿐, 결코 법적 의무가 아니다\"라는 입장을 냈다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n076a6dda",
-    "category": "IT",
-    "source": "아시아경제",
-    "time": "1분 전",
-    "url": "https://view.asiae.co.kr/article/2026082019171330975",
-    "title": "프랑스군, 테슬라·BYD 차량에 경고…\"군사기밀 유출 우려\"",
-    "summary": [
-      "프랑스군이 테슬라·BYD 차량부터 틴더·스트라바 등 스마트폰 애플리케이션까지 일상적으로 사용하는 각종 기기가 군사기밀을 노출할 수 있다며 장병들에게 주의를 당부했다.",
-      "20일(현지시간) 일간 르파리지앵에 따르면 프랑스 국방정보보안국(DRSD)은 최근 중국 BYD와 미국 테슬라 차량이 군사기지에 들어올 경우 정보 유출 위험이 있다며 여러 차례 경고했다.",
-      "두 차량 모두 전후좌우를 촬영할 수 있는 카메라가 장착돼 있어 군사."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n981889de",
-    "category": "사회",
-    "source": "머니투데이",
-    "time": "1분 전",
-    "url": "https://www.mt.co.kr/politics/2026/08/20/2026082018335377747",
-    "title": "北, 탄도미사일 10여발 발사…안규백 \"600㎜ 방사포로 추정\"(종합)",
-    "summary": [
-      "[the300] 북한이 20일 동해상으로 탄도미사일 10여발을 발사했다.",
-      "도널드 트럼프 미국 대통령의 대화 제안에도 약 1주일 만에 대규모 무력시위에 나섰다.",
-      "합동참모본부는 이날 \"우리 군은 이날 오후 5시쯤 북한 평양 일대에서 동해상으로 발사된 단거리 탄도미사일 십여발을 포착했다\"고 밝혔다."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n854e09c6",
-    "category": "경제",
-    "source": "아시아경제",
-    "time": "2분 전",
-    "url": "https://view.asiae.co.kr/article/2026082019163426347",
-    "title": "영풍·MBK \"서스틴베스트, 이사 선임 반대는 명백한 자기모순\"",
-    "summary": [
-      "다음달 9일 열리는 고려아연 임시주주총회을 앞두고 영풍·MBK파트너스는 자신들이 추천한 고려아연 감사위원 후보에 반대를 권고한 의결권 자문사 서스틴베스트를 20일 정면으로 반박했다.",
-      "서스틴베스트는 앞서 낸 보고서에서 \"현 경영체제의 연속성을 유지하는 것이 전체 주주의 장기적 이익에 상대적으로 더 부합한다\"며 회사 측이 추천한 백인규 후보의 손을 들어줬다.",
-      "영풍·MBK 측 박유경 후보에 대해서는 \"회계·감사 전문성."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n5175e31a",
+    "id": "n2081a856",
     "category": "부동산",
     "source": "뉴시스",
-    "time": "3분 전",
-    "url": "https://www.newsis.com/view/NISX20260820_0003756665",
-    "title": "경산 아파트 방화범 숨져, 총 5명 사망…공소권없음 종결",
+    "time": "2분 전",
+    "url": "https://www.newsis.com/view/NISX20260820_0003756674",
+    "title": "신고 없이 민간임대 투자자 모집 금지…민간 건설공사 대금 '직접지급'",
     "summary": [
-      "[경산=뉴시스] 강병서 기자 = 경북 경산 아파트 관리사무소 방화 사건의 피의자 류모(71)씨가 20일 오후 숨져 이번 사건의 사망자는 5명으로 늘었다.",
-      "경찰과 경산시 등에 따르면 류씨는 이날 오후 5시께 치료를 받던 대구 한 병원에서 사망했다.",
-      "사건 발생 28일만에 방화 사건 주범이 숨졌다."
+      "[서울=뉴시스] 변해정 기자 = 앞으로는 신고 없이 민간임대주택 예비임차인(투자자·회원)을 모집하는 행위가 전면 금지된다.",
+      "노후 공공건축물의 그린리모델링이 의무화 되고, 민간 건설공사도 전자대금지급시스템을 통해 공사대금을 청구·수령하게 된다.",
+      "국토교통부는 20일 국회 본회의에서 '민간임대주택에 관한 특별법'(민간임대주택법)과 '녹색건축물 조성 지원법'(녹색건축법), '건설산업기본법' 개정안이 통과했다고 밝혔다."
     ],
     "chips": [
-      "#부동산",
-      "#의료"
-    ]
-  },
-  {
-    "id": "n2949a4a0",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "3분 전",
-    "url": "https://www.newsis.com/view/NISX20260820_0003756663",
-    "title": "송일국 \"익숙한 이미지 깬다\"…'욕망이라는 이름의 전차' 스탠리 도전",
-    "summary": [
-      "[서울=뉴시스]김주희 기자 = \"배우에게 익숙한 이미지가 있는 건 감사한 일인데, 그걸 깨부수는 것 또한 배우의 몫이죠.",
-      "이번 기회에 제가 갖고 있던 이미지를 제대로 깨보겠습니다.\" 배우 송일국이 새로운 얼굴을 예고했다.",
-      "그는 20일 서울 강남구 더샵갤러리에서 열린 연극 '욕망이라는 이름의 전차' 제작발표회에서 \"관객분들이 '저 사람 송일국이었지'라는 사실을 잊게 만드는 게 목표\"라며 연기 변신에 대한 각오를 밝혔다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nb2a8d76b",
-    "category": "경제",
-    "source": "머니투데이",
-    "time": "3분 전",
-    "url": "https://www.mt.co.kr/world/2026/08/20/2026082018330361049",
-    "title": "1992년 알프스서 실종된 두 남성…34년 만에 빙하 속에서 발견",
-    "summary": [
-      "스위스 알프스를 오르다 34년 전 실종된 벨기에 등반가 2명의 유해가 녹아내린 빙하 속에서 발견됐다.",
-      "20일(현지 시간) AP통신 등에 따르면 스위스 발레주 경찰은 알프스 트리프트 빙하에서 발견된 유해 2구가 1992년 실종된 벨기에 등반가들의 것으로 확인됐다고 밝혔다.",
-      "이 유해들은 당시 빙하를 지나던 한 등산객이 발견해 경찰에 신고했다."
-    ],
-    "chips": [
-      "#의료"
-    ]
-  },
-  {
-    "id": "nd156433b",
-    "category": "경제",
-    "source": "머니투데이",
-    "time": "4분 전",
-    "url": "https://www.mt.co.kr/society/2026/08/20/2026082018304124785",
-    "title": "초음파 공개했던 홍민기 전 여친, 폭로글 삭제…\"법정서 다툴 것\"",
-    "summary": [
-      "배우 홍민기(24)의 데이트 폭력과 낙태 종용을 주장해 파문을 일으킨 전 여자친구 A씨가 폭로를 멈추고 법적으로 대응하겠다는 입장을 밝혔다.",
-      "홍민기의 전 여자친구 A씨는 20일 자신의 SNS(소셜미디어)를 통해 \"이제 개인 SNS에 그 사람 관련 내용은 올리지 않을 예정\"이라며 \"고소하고 법정에서 제대로 처벌받게 할 것\"이라고 밝혔다.",
-      "그러면서 앞서 공개했던 초음파 사진, 산부인과 진료 관련 서류, 멍 자국 사진 등을 모두 삭제했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n95bc16fc",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "5분 전",
-    "url": "https://www.newsis.com/view/NISX20260820_0003756672",
-    "title": "中, 김정은·트럼프 APEC 만남 여부에 \"구체적 정보 없어\"",
-    "summary": [
-      "[베이징=뉴시스]박정규 특파원 = 도널드 트럼프 미국 대통령이 김정은 북한 국무위원장과 연내에 만날 것이라는 언급을 내놓은 가운데 오는 11월 열릴 아시아태평양경제협력체(APEC) 정상회의에서 양측이 만날 가능성에 대해 중국 정부가 함구했다.",
-      "린젠 중국 외교부 대변인은 20일 정례브리핑에서 11월 중국 선전에서 열리는 APEC 정상회의에서 북·미 정상회담을 여는 방안을 검토하고 있다는 일부 보도와 관련한 입장을 묻는 질문에 \"조선(북한)·미국."
-    ],
-    "chips": [
+      "#채용",
       "#정치"
     ]
   },
   {
-    "id": "ne68c0762",
-    "category": "경제",
-    "source": "아시아경제",
-    "time": "5분 전",
-    "url": "https://view.asiae.co.kr/article/2026082019131819653",
-    "title": "김정관 산업장관 \"대미투자 협상 상당한 진전…1호 프로젝트 9월 중 발표\"(종합)",
-    "summary": [
-      "김정관 산업통상부 장관이 대미 전략투자 협상과 관련해 \"상당히 의미 있는 진전이 있었다\"며 1호 프로젝트가 9월 중 가시화할 것으로 전망했다.",
-      "첫 투자 분야는 기존에 협의해 온 에너지 분야를 중심으로 추진하기로 했다.",
-      "미국 무역법 301조 조사에 따른 관세 문제에 대해서도 한미가 기존에 합의한 '15% 상한선'을 유지하는 데 공감대를 확인했다고 밝혔다."
-    ],
-    "chips": [
-      "#수출"
-    ]
-  },
-  {
-    "id": "n84362851",
+    "id": "nac11c7ab",
     "category": "사회",
-    "source": "머니투데이",
-    "time": "5분 전",
-    "url": "https://www.mt.co.kr/society/2026/08/20/2026082018461613475",
-    "title": "\"내 아들이 학폭 가해자?\"…악성민원 넣은 학부모, 법정구속",
+    "source": "뉴시스",
+    "time": "3분 전",
+    "url": "https://www.newsis.com/view/NISX20260820_0003756708",
+    "title": "강진서 1t 트럭 도로 옹벽 충격…운전자 숨져",
     "summary": [
-      "자녀가 학교폭력 가해자로 지목되자 초등학교 교직원 등 여러 명을 상대로 상습적인 협박과 폭언을 일삼은 40대 학부모가 법정구속됐다.",
-      "20일 뉴시스에 따르면 청주지법 영동지원 형사1단독 강창호 판사는 정보통신망법(정보통신망 이용촉진 및 정보보호 등에 관한 법률) 위반, 아동복지법 위반(아동학대) 혐의 등으로 기소된 A씨에게 징역 1년 4개월에 벌금 20만원을 선고하고 법정구속했다.",
-      "A는 2024년 충북의 한 초등학교에 다니는 아들(당시 3학년)이."
+      "[전남광주=뉴시스]류형근 기자 = 20일 오후 5시22분께 전남광주 강진군 성전면 한 도로에서 A(60대)씨가 운전하던 1t트럭이 옹벽을 받았다.",
+      "신고를 받고 출동한 119에 의해 구조된 A씨는 심정지 상태로 병원으로 옮겨졌지만 숨졌다.",
+      "경찰은 A씨의 차량이 중앙분리대를 1차 충격한 후 옹벽을 받고 멈춘 것으로 보고 정확한 사고 경위를 조사 중이다."
     ],
     "chips": [
-      "#교육"
+      "#의료"
     ]
   },
   {
-    "id": "n045763dc",
+    "id": "naf4c9079",
+    "category": "부동산",
+    "source": "뉴시스",
+    "time": "4분 전",
+    "url": "https://www.newsis.com/view/NISX20260820_0003756705",
+    "title": "전남광주 아파트 지하 주차장 차량 화재…인명피해 없어",
+    "summary": [
+      "[전남광주=뉴시스]류형근 기자 = 20일 오후 6시46분께 전남광주 광산구 한 아파트 지하 주차장에 주차돼 있던 승용차에서 불이 났다.",
+      "불은 신고를 받고 출동한 119에 의해 진화됐으며 인명피해는 없는 것으로 알려졌다.",
+      "또 옆에 있던 주차차량이 그을림 피해를 입은 것으로 전해졌다."
+    ],
+    "chips": [
+      "#부동산"
+    ]
+  },
+  {
+    "id": "nf9821538",
+    "category": "부동산",
+    "source": "연합뉴스(경제)",
+    "time": "5분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260820179300530",
+    "title": "성평등부, 은평구 공공주택 공급에 여성사박물관 부지 이전키로",
+    "summary": [
+      "(서울=연합뉴스) 홍준석 기자 = 국립여성사박물관이 공공주택 공급계획 영향으로 새 부지를 찾게 됐다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n6e90c07b",
+    "category": "스포츠",
+    "source": "뉴시스",
+    "time": "6분 전",
+    "url": "https://www.newsis.com/view/NISX20260820_0003756703",
+    "title": "구리 한강변에서 지난달 실종된 70대 추정 시신 발견",
+    "summary": [
+      "[남양주=뉴시스]이호진 기자 = 지난달 경기 남양주시에서 실종된 70대 여성으로 보이는 시신이 구리시 한강변에서 발견됐다.",
+      "20일 경찰에 따르면 이날 낮 12시50분께 구리시 한강시민공원 강변에 여성으로 추정되는 시신이 쓰러져 있는 것을 이날 수색 지원을 나왔던 경기북부경찰청 과학수사대 채취견이 발견했다.",
+      "경찰은 발견된 시신이 옷차림 등으로 볼 때 지난달 15일 오전 2시30분께 남양주시 다산동에서 자택을 나간 뒤 실종된 70대 여성 A씨일 가."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n6c256337",
     "category": "사회",
     "source": "연합뉴스",
     "time": "6분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260820169600001",
-    "title": "국힘, '전국 당협위원장 일괄사퇴後 재선출' 일단 보류…내주 의결 전망",
+    "url": "https://www.yna.co.kr/view/AKR20260820178500001",
+    "title": "국힘 윤리위, 비당권파 현역 의원 4인에 '당원권 정지' 중징계",
     "summary": [
-      "(서울=연합뉴스) 이정현 조다운 기자 = 국민의힘 장동혁 대표 체제 지도부가 20일 현역 의원을 포함한 전체 당협위원장을 이달 말 임기 만료를 ..."
+      "(서울=연합뉴스) 김연정 노선웅 기자 = 국민의힘 중앙윤리위원회가 20일 징계 심사 대상에 오른 6선 조경태·재선 권영진·서범수·초선 진종오 의..."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n24dbc0a2",
+    "id": "n7b3453ef",
+    "category": "스포츠",
+    "source": "동아일보",
+    "time": "7분 전",
+    "url": "https://www.donga.com/news/Society/article/all/20260820/134515772/1",
+    "title": "검찰, ‘송민호 부실복무’ 관리책임자 징역 1년 구형",
+    "summary": [
+      "검찰이 그룹 ‘위너’ 송민호(33)의 사회복무요원 부실 복무를 방조한 혐의로 재판에 넘겨진 당시 복무 관리책임자에게 징역 1년을 구형했다.서울서부지법 형사10단독(판사 성준규)은 20일 오후 병역법 위반 혐의로 기소된 마포구시설관리공단 직원 이모씨에 대한 결심공판을 열었다.검찰은 “피고인은 송씨가 장기간 무단결근할 수 있도록 필수적인 역할을 수행하고 감독기관에 적발되지 않도록 적극적으로 조치했다”며 징역 1년을 선고해달라고 재판부에 요청했다.이."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n68868ab3",
+    "category": "경제",
+    "source": "동아일보",
+    "time": "7분 전",
+    "url": "https://www.donga.com/news/Economy/article/all/20260820/134515766/1",
+    "title": "신임 한은 부총재에 권민수 부총재보 임명",
+    "summary": [
+      "한국은행은 신임 부총재로 권민수 부총재보가 임명됐다고 20일 밝혔다.한은법에 따르면 부총재는 총재가 추천해 대통령이 임명한다.",
+      "권 부총재보의 임기는 유상대 부총재가 퇴임하는 오는 21일부터 2029년 8월 20일까지다.권 부총재보는 1970년생으로 서울 휘문고와 연세대 경영학과를 나왔다.",
+      "이후 미국 예일대에서 경영학 석사를 취득했다.권 부총재보는 외자운용원과 국제국에서 오랜 기간 일하며 탁월한 업무 역량과 전문성, 기여도를 인정받은 대표적 외환."
+    ],
+    "chips": [
+      "#한은",
+      "#정치"
+    ]
+  },
+  {
+    "id": "nb6027278",
+    "category": "경제",
+    "source": "한국경제",
+    "time": "7분 전",
+    "url": "https://www.hankyung.com/article/2026082032337",
+    "title": "밤잠 설치게 하던 열대야의 귀환…폭염 다시 시작된다",
+    "summary": [
+      "밤잠 설치게 하던 열대야의 귀환…폭염 다시 시작된다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nb3990b6c",
     "category": "사회",
     "source": "아시아경제",
     "time": "8분 전",
-    "url": "https://view.asiae.co.kr/article/2026082019105315083",
-    "title": "두 하녀의 욕망과 증오…장 주네 ‘하녀들’ 대학로 무대에",
+    "url": "https://view.asiae.co.kr/article/2026082020084503309",
+    "title": "특검, 심우정·전무곤 불구속기소…“계엄 내란 중요임무 종사”",
     "summary": [
-      "1933년 프랑스에서 가정부 자매가 자신이 일하던 집의 안주인과 그의 딸을 잔혹하게 살해한 '파팽 자매 사건'에서 영감을 얻은 것으로 알려진 연극 '하녀들'이 대학로 무대에 오른다.",
-      "극단 수는 2026년 한국문화예술위원회 공연예술창작주체사업 선정작으로 '빛과 어둠의 경계에서', '낭만적인 개소리'에 이어 올해 마지막 작품인 '하녀들'을 오는 9월17일부터 27일까지 대학로 나온씨어터에서 공연한다고 20일 밝혔다."
+      "12·3 비상계엄 내란 가담 및 윤석열 전 대통령 구속 취소 결정에 대한 즉시항고 포기와 관련해 직권남용 의혹을 받는 심우정 전 검찰총장이 재판에 넘겨졌다.",
+      "권창영 2차 종합특별검사팀은 20일 심 전 총장과 전무곤 전 대검 기획조정부장을 내란중요임무종사 및 직권남용권리행사방해 혐의로 불구속기소했다고 밝혔다.",
+      "심 전 총장은 비상계엄이 선포된 2024년 12월 3일부터 이튿날 새벽까지 박성재 전 법무부 장관 지시로 계엄 합."
     ],
     "chips": [
-      "#교육"
+      "#정치"
     ]
   },
   {
-    "id": "n377914ff",
-    "category": "스포츠",
-    "source": "조선일보",
+    "id": "n10c0abc9",
+    "category": "경제",
+    "source": "한국경제",
     "time": "9분 전",
-    "url": "https://www.chosun.com/sports/world-baseball/2026/08/20/MEZWEMRUMMZWMODGG5RGMODCGA/",
-    "title": "'131구→158구→136구' 완투 퍼레이드도, '156km' 괴물도 모두 무너졌다…에이스의 숙명",
+    "url": "https://www.hankyung.com/article/2026082032471",
+    "title": "특검, 심우정 전 검찰총장 불구속 기소",
     "summary": [
-      "[스포츠조선 김영록 기자] 150㎞대 중반의 공을 씽씽 뿌리는 넘버원 투수와 올해를 대표하는 완투 머신, 올여름을 불태운 두 남자는 고시엔 우승과는 인연이 없었다.",
-      "3778개팀의 정점에 설 기회, 일본 고교야구 '꿈의무대' 여름 고시엔(전국고교야구선수권)의 우승 향방이 단 2팀으로 좁혀졌다.",
-      "20일 일본 니시노미야시의 고시엔에서 열린 대회 준결승전에서 지벤."
+      "특검, 심우정 전 검찰총장 불구속 기소."
     ],
     "chips": [
-      "#KBO"
+      "#뉴스"
     ]
   },
   {
-    "id": "nb0f836b2",
+    "id": "nc745dcc2",
+    "category": "경제",
+    "source": "한국경제",
+    "time": "10분 전",
+    "url": "https://www.hankyung.com/article/2026082032697",
+    "title": "“군대에서도 그렇게는 못 먹는다”…교도소 '특식'에 부글부글",
+    "summary": [
+      "“군대에서도 그렇게는 못 먹는다”…교도소 '특식'에 부글부글."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n37e2f008",
+    "category": "경제",
+    "source": "연합뉴스(경제)",
+    "time": "11분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260820178900002",
+    "title": "한은 부총재에 '국제통' 권민수 부총재보 임명",
+    "summary": [
+      "(서울=연합뉴스) 한지훈 기자 = 한국은행 신임 부총재에 권민수(56) 국제금융·협력 담당 부총재보가 임명됐다고 한은이 20일 밝혔다."
+    ],
+    "chips": [
+      "#한은"
+    ]
+  },
+  {
+    "id": "n4bef697a",
+    "category": "경제",
+    "source": "한국경제",
+    "time": "11분 전",
+    "url": "https://www.hankyung.com/article/202608203164i",
+    "title": "2년 연속 1위 굳혔다…단백질 시장 흔드는 남양유업",
+    "summary": [
+      "2년 연속 1위 굳혔다…단백질 시장 흔드는 남양유업."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "ne4abef60",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "13분 전",
+    "url": "https://www.chosun.com/entertainments/broadcast/2026/08/20/GJSTEMBQMM4DAZRXGQZDMOJQGU/",
+    "title": "노홍철, 신구 한 마디에 각성..\"한숨도 안 자고 공항으로\"",
+    "summary": [
+      "영상 시청 후 작성된 리뷰 기사입니다.[OSEN=최지연 기자] 방송인 노홍철이 배우 신구의 말에 각성했다.",
+      "20일 유튜브 채널 '노홍철'에는 '지난 인도 여행의 물갈이 지옥을 끝내러 다시 찾은 노홍철'이라는 제목의 영상이 게재됐다.",
+      "이날 노홍철은 \"어저께 연극을 한 편 봤다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nda47622d",
     "category": "사회",
     "source": "연합뉴스",
-    "time": "9분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260820072551061",
-    "title": "경찰, '수원 마약영상' 30대 4시간 소환 조사…송치여부 검토(종합)",
+    "time": "13분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260820179200527",
+    "title": "전남 담양에 호우주의보 해제…여수 등 26곳 폭염주의보 유지",
     "summary": [
-      "(수원=연합뉴스) 권준우 김솔 기자 = 길거리에서 이른바 '좀비 마약'을 투약한 듯 등이 굽은 자세로 서 있어 충격을 줬던 '수원 마약 의심 영..."
+      "(광주=연합뉴스) 기상청은 담양에 발령했던 호우주의보를 20일 오후 8시를 기해 해제한다고 밝혔다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n8b638dcf",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "12분 전",
-    "url": "https://www.chosun.com/politics/diplomacy-defense/2026/08/20/33WRTZGYCJDJFLPLSC4XTP4BZA/",
-    "title": "‘대양해군의 설계자’ 안병태 전 해참총장, 회고록 출간",
+    "id": "nc7c6e1b5",
+    "category": "경제",
+    "source": "연합뉴스(경제)",
+    "time": "17분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260820177900003",
+    "title": "노후 공공건축물 '그린리모델링' 의무화…민간은 보조금 지원",
     "summary": [
-      "‘대양해군의 설계자’ 안병태 전 해참총장, 회고록 출간."
+      "(세종=연합뉴스) 오진송 기자 = 에너지 성능 개선이 필요한 노후 공공건축물에 대한 그린리모델링이 의무화된다."
     ],
     "chips": [
       "#뉴스"
-    ]
-  },
-  {
-    "id": "neff4f827",
-    "category": "IT",
-    "source": "동아일보",
-    "time": "12분 전",
-    "url": "https://www.donga.com/news/It/article/all/20260820/134515610/1",
-    "title": "[헬스케어픽] 진단부터 처방까지···AI, 의료 현장 깊숙이 파고든다",
-    "summary": [
-      "헬스케어 산업의 지형이 빠르게 바뀌고 있습니다.",
-      "이 변화의 흐름 속에서 두각을 나타내는 국내외 기업과 서비스를 엄선해 소개합니다.",
-      "헬스케어픽은 신기술을 앞세운 스타트업부터 사업 확장에 나선 대기업, 그리고 주목할 만한 서비스까지 국경을 가리지 않고 헬스케어 업계의 소식을 전합니다.UHS, 톡스페이스 인수 완료···정신건강 서비스 통합 나선다미국 최대 병원 그룹 중 하나인 유니버설 헬스 서비스(Universal Health Services, UH."
-    ],
-    "chips": [
-      "#AI",
-      "#스타트업",
-      "#의료"
     ]
   }
 ];
@@ -645,8 +633,8 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2200건",
-    "trend": "+235%"
+    "mentions": "2590건",
+    "trend": "+295%"
   },
   {
     "rank": 2,
@@ -656,7 +644,7 @@ window.KEYWORD_TOP = [
   },
   {
     "rank": 3,
-    "tag": "AI",
+    "tag": "부동산",
     "mentions": "1420건",
     "trend": "+115%"
   }
