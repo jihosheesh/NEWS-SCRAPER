@@ -1,11 +1,25 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-08-20 08:24:44
+// 마지막 업데이트: 2026-08-20 09:23:15
 window.NEWS_DB = [
+  {
+    "id": "nd000c55e",
+    "category": "IT",
+    "source": "데이터넷",
+    "time": "49분 전",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE11QUd4NkhZaDRidFpDRHoyWnFPeURfYVpIMjRZc1pjSmdiTDBiYmVZbnpCQkJxd0ZJaUdMeW5DWVhaTlVmOW53X3BuVTh4bGtYVWM4OUd3a1RtdFdtNm5xSVZMakxxb1lsUnNONA?oc=5",
+    "title": "“인텔은 메모리 넘보고, 삼성은 파운드리 반격”",
+    "summary": [
+      "“인텔은 메모리 넘보고, 삼성은 파운드리 반격” 데이터넷."
+    ],
+    "chips": [
+      "#반도체"
+    ]
+  },
   {
     "id": "n72333e67",
     "category": "사회",
     "source": "서울뉴스통신",
-    "time": "1시간 전",
+    "time": "2시간 전",
     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1PU0xyNnJwRUhKbThVQm9zempWb0p3QVBUUEE3YVQxZ05XdXdUeUtfT01hZlVMbTA2ZTlKU2ctUlhJTVNWVlJMNXFHenVndGxFVG9xMGdVdnh1dEtZUENkdFQ5dXdRRjNTdVh3?oc=5",
     "title": "고용센터 AI 기반 맞춤형으로 개편…구직 상담·기업 채용지원 대폭 강화",
     "summary": [
@@ -22,7 +36,7 @@ window.NEWS_DB = [
     "id": "nd8d1ec11",
     "category": "IT",
     "source": "뉴시스",
-    "time": "2시간 전",
+    "time": "3시간 전",
     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAzSzVEUmt2cGJsWlBCWGJlQ05UV2t2WDhhRy1kV0xocVZVNkZyVG5yempFVHlhSTFkaEYyMWVpWjljVFBRUXdpdmxLYTN3TjVRR0FKajFYYXIxRUptT2NuZdIBeEFVX3lxTE9rWS0wRFlYVEJqMTVFVmtUb1Z3YnkzaS1kUnNoMFhVYjVvZUVEYVI4Zk0yTTFnOXRrWW9MOEFZdV9LRnBhZWtPWHc3Nkp1cjBWdkxPeGZvNml6dUFKR01YTW5TeDJ4TUxiWGZQSUpzRW9sb2hxclZJeA?oc=5",
     "title": "\"엔비디아 종속 막자\"…정부·AMD·K반도체 '연합 전선' 구축(종합)",
     "summary": [
@@ -37,7 +51,7 @@ window.NEWS_DB = [
     "id": "n29c6183f",
     "category": "IT",
     "source": "리드경제",
-    "time": "2시간 전",
+    "time": "3시간 전",
     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE95dVc1a3FlSHJ2d3E0c2cwM2loSVY0cGVNcVcxYU0tMTJPZkxYWWQ3VnUwcHBYVlJxWmwwM3pnU2JWTlhqYXAzS1dmbnMxd0xvc3FKeV9nVVpNSTgwb1lKUEhkcnZ6eDBUb3BQRG9qTQ?oc=5",
     "title": "인텔, 메모리 넘본다…삼성 파운드리 반격",
     "summary": [
@@ -51,7 +65,7 @@ window.NEWS_DB = [
     "id": "n2beeb2e6",
     "category": "IT",
     "source": "비즈니스포스트",
-    "time": "2시간 전",
+    "time": "3시간 전",
     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBMbVI5anZMMjl0ZTNFZGFrYlVqdTNCYUNCRm9rRzdWcVZBVHR6ZVNWVnBsM0t4SU5DZ2o4VjU4OUFBcUQ1cF9EYkE0a0prYzZXTFVXT3AtYmFGRXVfMTJHS25ESWViUUNmS0dCWUFrTmRUcUE?oc=5",
     "title": "엔비디아 고객사에 금융지원 전략 성패는 메모리 공급망에 달렸다, 공급과잉 전환 시점이 중요",
     "summary": [
@@ -65,25 +79,11 @@ window.NEWS_DB = [
     "id": "n6f9d632c",
     "category": "IT",
     "source": "Counterpoint Research",
-    "time": "3시간 전",
+    "time": "4시간 전",
     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNWldFd0pOdDliUnJ6TDJUV2FTaGE1RndLODFNdVNleVoyNFVMdnRlQkEtODNMSDRQZDJCWjlab29yZ21sSldSU1BJWnFSc2QzRlZzOXMwY1ZqYkwxOWN4VkJVQ0FKRl8tRGg0TG1jYWZpeDIzVllxREtMZDhYbnZWTmVRNGhMQVB1WjJSdUl3?oc=5",
     "title": "인텔은 메모리 넘본다…삼성은 파운드리 반격",
     "summary": [
       "인텔은 메모리 넘본다…삼성은 파운드리 반격 Counterpoint Research."
-    ],
-    "chips": [
-      "#반도체"
-    ]
-  },
-  {
-    "id": "n32852c6f",
-    "category": "IT",
-    "source": "dailycar.co.kr",
-    "time": "4시간 전",
-    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9hVm1BTHlYaUJYRmNZdnduSUNQemFkaXNlTTU3VDZFcjZNVmR3aHc4N3pSTGx1dmZGemJLWURldjRVbXFzalBscDlBNV8xUGRwbWdJWk5LVDRtdllDSi1HY2R2X3lKU1BneGFnbXBOWEJ3N3BneFE?oc=5",
-    "title": "삼성 파운드리, 풀가동 신호탄 쐈다..HBM이 살린 위탁생산",
-    "summary": [
-      "삼성 파운드리, 풀가동 신호탄 쐈다..HBM이 살린 위탁생산 dailycar.co.kr."
     ],
     "chips": [
       "#반도체"
@@ -194,14 +194,14 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n64dc67f5",
+    "id": "n207a7abe",
     "category": "IT",
-    "source": "유니콘팩토리",
-    "time": "59일 전",
-    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1ORFIxM2VUWmNQaWh2Z0xiY2xXeUlzZFZvT3l4dGwyNFdvdXlyZ0lJdGtNT2cyYjFaU0pNX0FUcnRQelZxZzBXZDZ0Qi1OSWt4V3lCUFRhWXBYZ0g1M0EzTVVmMTZTVEVIeW5ISA?oc=5",
-    "title": "수도권 쏠림 깨기 나선 중기부…창업도시 4곳서 스타트업 278곳 키운다",
+    "source": "Chosunbiz",
+    "time": "58일 전",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPUGdtbi01TkVMYXphY1VqbF9xRzB3TkVUbWtrM2NhN2d1NmpvS29NLTY5UWFtbFNrangxUlRnQUpxOW9rSEZwWVZuWU42aUdIU1FUUlhnQ0NLbjBXdlNpQ2labGU1cUt3WVZ3NEhVVmtJNjJlc3lUalByb0tqZDBucVJleGVLUFpaanFZX3RLZWvSAaQBQVVfeXFMTXFmYjM1dzZaM0d5QjZZQXJIb0VnanMzR29JcWlBQVZreFhGVVZlRmd4c2xoejc0ajVvdDhkUVo5ZWJ5bWlyVlZSUzlveG9EamJZblA5VDkwRG16QW1hRW1Qel9mTHRfdWI3MHhvbTJfd3ZoRTNIb3dVbjByNmI5T3llUUt2ZlZjVmEwQlV4M0FvMTRVT0JYaG4zNDZ6Rkw1LVVodlA?oc=5",
+    "title": "중기부, 2030년까지 ‘유니콘’ 50개 육성 나선다 - 조선비즈",
     "summary": [
-      "수도권 쏠림 깨기 나선 중기부…창업도시 4곳서 스타트업 278곳 키운다 유니콘팩토리."
+      "중기부, 2030년까지 ‘유니콘’ 50개 육성 나선다 - 조선비즈 Chosunbiz."
     ],
     "chips": [
       "#스타트업"
@@ -309,6 +309,22 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "nce8bfc4a",
+    "category": "IT",
+    "source": "테크M",
+    "time": "방금 전",
+    "url": "https://www.techm.kr/news/articleView.html?idxno=154482",
+    "title": "[카드뉴스] PK도 직업도 없다...카카오게임즈가 권하는 색다른 MMORPG '도깨비의 세계'",
+    "summary": [
+      "카카오게임즈가 오는 10월 신작 MMORPG '도깨비의세계'를 선보입니다.",
+      "한국적인 세계관과 도트 그래픽도 눈에 띄지만, 진짜 차이는 게임 안에 있습니다.",
+      "무차별 PK를 제한하고 정해진 직업 대신 자유로운 스킬 조합을 내세우며, 경쟁보다 '함께 성장하는 재미'에 힘을 줬는데요."
+    ],
+    "chips": [
+      "#카카오"
+    ]
+  },
+  {
     "id": "n36d6706c",
     "category": "IT",
     "source": "테크M",
@@ -356,272 +372,256 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n835f2b94",
-    "category": "IT",
-    "source": "테크M",
+    "id": "n010052e0",
+    "category": "스포츠",
+    "source": "아시아경제",
     "time": "방금 전",
-    "url": "https://www.techm.kr/news/articleView.html?idxno=154477",
-    "title": "데이터 분석 넘어 행동까지 잇는다...세일즈포스, 태블로 에이전트 전략 공개",
+    "url": "https://view.asiae.co.kr/article/2026082018220096053",
+    "title": "故 안성기가 고른 여섯 편, 부산영화제 스크린에",
     "summary": [
-      "세일즈포스가 데이터 분석 플랫폼 '태블로'를 통해 조직 내 데이터 가치를 한층 높인다.",
-      "기업에서 데이터가 갖는 의미와 업무 맥락을 AI가 이해하도록 하고 데이터 분석에서 의사결정과 후속 업무까지 이어지는 구조를 만들겠다는 방침이다.",
-      "세일즈포스는 20일 서울 강남구 그랜드 인터컨티넨탈 서울 파르나스에서 연례 AI·데이터 컨퍼런스 '데이터팸 서울 2026'을 열고 자사 데이터 분석 플랫폼 태블로의 전략을 공개했다.'데이터팸 서울'은 데이터 전문가와."
-    ],
-    "chips": [
-      "#AI"
-    ]
-  },
-  {
-    "id": "nc3e86cf1",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "1분 전",
-    "url": "https://www.donga.com/news/Society/article/all/20260820/134514373/1",
-    "title": "北, 동해상으로 미상 발사체 발사",
-    "summary": [
-      "합참은 20일 북한이 동해상으로 미상 발사체 발사했다고 밝혔다.",
-      "같은 날 일본 총리관저도 “북한에서 탄도 미사일일 가능성이 있는 것이 발사됐다”며 “ 추가 소식이 들어오는 대로 알리겠다”고 발표했다.북한은 이달 6일과 12일에도 동해상으로 탄도미사일을 발사했다."
+      "지난 1월 별세한 배우 안성기의 대표작들이 오는 10월 스크린에 다시 걸린다.",
+      "부산국제영화제 사무국은 10월 6일 개막하는 영화제에서 한국영상자료원과 공동으로 특별 기획 '아름다운 시절, 안성기'를 연다고 20일 밝혔다.",
+      "상영작은 여섯 편으로, 안성기가 생전 이 기획을 제안받았을 때 직접 골랐다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n69b55a89",
+    "id": "n76c55668",
+    "category": "사회",
+    "source": "아시아경제",
+    "time": "2분 전",
+    "url": "https://view.asiae.co.kr/article/2026082018170182757",
+    "title": "김천시, 공공기관 2차 이전·철도망 국회 지원 요청",
+    "summary": [
+      "경북 김천시가 공공기관 2차 이전 유치와 철도 교통망 확충을 위해 국회와의 협력 강화에 나섰다.",
+      "배낙호 김천시장은 20일 송언석 국회의원과 함께 유의동 국회 국토교통위원장을 만나 김천혁신도시의 공공기관 2차 이전 당위성을 설명하고 철도 핵심사업에 대한 국비 지원을 요청했다.",
+      "김천시는 이미 구축된 혁신도시 인프라와 교통 접근성을 강점으로 내세우며 공공기관 추가 이전의 최적지임을 강조했다."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n5a879699",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "2분 전",
+    "url": "https://www.newsis.com/view/NISX20260820_0003756624",
+    "title": "북, 단거리탄도미사일 십여발 평양서 동해로 발사…한미 UFS연습 도중 도발",
+    "summary": [
+      "[서울=뉴시스] 옥승욱 기자 = 북한이 20일 오후 단거리탄도미사일(SRBM)을 발사하며, 8일 만에 미사일 도발을 재개했다.",
+      "합동참모본부에 따르면 우리 군은 20일 오후 5시경 북한 평양 일대에서 동해상으로 발사된 단거리탄도미사일 10여발을 포착했다.",
+      "한미 정보당국은 미사일의 정확한 제원과 사거리 등을 분석 중에 있다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n05c48a94",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "2분 전",
+    "url": "https://www.newsis.com/view/NISX20260820_0003756616",
+    "title": "의사로 10년, 이젠 질병 연구자…GIST 하반기 학위수여식",
+    "summary": [
+      "[전남광주=뉴시스]이창우 기자 = 광주과학기술원(GIST)은 20일 오룡관 대강당에서 '올해 하반기 학위수여식'을 열고 박사 63명, 석사 79명, 학사 56명 등 총 198명에게 학위를 수여했다.",
+      "GIST가 1993년 설립 이후 배출한 과학기술 인재는 박사 2228명, 석사 5480명, 학사 1656명 등 총 9364명으로 늘었다.",
+      "이번 졸업생들은 의사 출신 과학자, 해외 대학원 진학, 연구 성과를 창업으로 연결한 기업가 등 각자의 질문과 도."
+    ],
+    "chips": [
+      "#교육",
+      "#의료"
+    ]
+  },
+  {
+    "id": "ncd0d7c92",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "2분 전",
+    "url": "https://www.newsis.com/view/NISX20260820_0003756617",
+    "title": "스위스 알프스 빙하 녹으면서 34년 전 실종 벨기에 등산가 2명 유해 발견",
+    "summary": [
+      "[제네바(스위스)=AP/뉴시스] 유세진 기자 = 스위스 알프스에서 30년도 더 전 실종됐던 벨기에 등반가 2명의 시신이 빙하가 녹으면서 발견됐다고 당국이 20일 밝혔다.",
+      "지난 세기 동안 실종자 명단을 보유한 남서부 발레 지역 정부는 빙하의 후퇴로 수십년 전 실종된 사람들의 유해가 나타나게 됐다고 밝혔다.",
+      "지난달 말, 한 등산객이 루체른시 남쪽의 트리프트 빙하가 녹으면서 드러난 유해를 발견했고, 이에 따라 수습 작업이 진행됐다고 지역 정부가 19."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n22fbf52f",
     "category": "경제",
     "source": "아시아경제",
-    "time": "1분 전",
-    "url": "https://view.asiae.co.kr/article/2026082017224846438",
-    "title": "이퀄베리, LA '올리브영 페스타' 참가…K-뷰티 현지 접점 확대",
+    "time": "3분 전",
+    "url": "https://view.asiae.co.kr/article/2026081904550551721",
+    "title": "[디깅 트래블]뜨거운 물에서 파도 위까지…하이난, 휴양의 온도를 바꾸다",
     "summary": [
-      "글로벌 커머스 기업 부스터스의 스킨케어 브랜드 이퀄베리가 미국 시장에서 현지 소비자와의 접점을 넓혔다.",
-      "이퀄베리는 지난 14~16일 미국 로스앤젤레스(LA) 컨벤션센터에서 열린 '올리브영 페스타 LA 2026'에 참가했다고 20일 밝혔다.",
-      "행사 기간 이퀄베리 부스에는 약 4000명이 방문했다."
+      "하이난에서 가장 오래 기억에 남은 물은 바닷물이 아니었다.",
+      "열대우림 속으로 들어가자 크고 작은 야외 온천탕이 숲 사이로 이어졌다.",
+      "나무는 물가까지 내려왔고, 뜨거운 물 위로 습한 공기가 낮게 머물렀다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "na69299e2",
-    "category": "부동산",
-    "source": "동아일보",
-    "time": "1분 전",
-    "url": "https://www.donga.com/news/Economy/article/all/20260820/134512229/1",
-    "title": "전세금 HUG가 관리, 집주인엔 연 4%대 수익 지급…‘안심신탁’ 9월 시작",
+    "id": "n24310410",
+    "category": "경제",
+    "source": "아시아경제",
+    "time": "4분 전",
+    "url": "https://view.asiae.co.kr/article/2026082018183117446",
+    "title": "연구에서 한 권의 책까지…대우재단, 45년 기초학문 지원 이어간다",
     "summary": [
-      "주택도시보증공사(HUG)가 집주인 대신 전세보증금을 관리하는 ‘전월세 안심신탁’ 사업이 9월부터 본격 시작된다.",
-      "전세사기를 막고 세입자의 월세 부담은 줄이면서, 집주인에게 매달 월세처럼 수익을 보장하겠다는 취지다.20일 서울 영등포구 HUG 서울서부지사에서 열린 전월세 안심신탁 기자간담회에서 최인호 HUG 사장은 “9월부터 전월세 안심신탁 모집 공고가 나간다”며 “12월부터 시범 입주가 시작되고, 내년 1월에는 전면 시행할 수 있을 것으로 보인."
+      "연구비를 지원하는 데서 그치지 않고 연구 결과가 한 권의 학술서로 나올 때까지 돕는 기초학문 지원 공모가 열린다.",
+      "1981년 시작된 대우재단의 학술지원사업은 45년 동안 쌓인 연구 성과를 860여권의 책으로 남겼다.",
+      "대우재단은 박사학위 소지 연구자를 대상으로 '2026년 정기 학술연구지원' 과제를 다음 달 15일까지 공개 모집한다고 20일 밝혔다."
     ],
     "chips": [
-      "#전세",
       "#채용"
     ]
   },
   {
-    "id": "n6d3cb7fd",
+    "id": "ne3cc2cca",
     "category": "스포츠",
     "source": "뉴시스",
-    "time": "2분 전",
-    "url": "https://www.newsis.com/view/NISX20260820_0003756384",
-    "title": "LG 염경엽 감독, '데뷔전' 케네디에 호평…\"까다로운 투수, 승리조로 쓸 것\"",
+    "time": "5분 전",
+    "url": "https://www.newsis.com/view/NISX20260820_0003756428",
+    "title": "가장 먼저 10패 채운 SSG 타케다, 결국 2군행…우완 영건 변건우 합류",
     "summary": [
-      "[서울=뉴시스]문채현 기자 = 프로야구 LG 트윈스의 염경엽 감독이 시즌 막판 팀의 구원투수로 합류한 아시아쿼터 존 케네디의 KBO리그 데뷔전에 만족감을 표했다.",
-      "염 감독은 20일 서울 잠실구장에서 열리는 2026 신한 쏠 KBO리그 KT 위즈와의 경기를 앞두고 취재진을 만나 \"(케네디는) 유형 자체가 까다로운 투수\"라고 호평했다.",
-      "그는 \"키가 커서 옆으로 던져도 리치가 길어서 앞에서 던지는 느낌이 든다."
+      "[서울=뉴시스]김희준 기자 = 올 시즌 가장 먼저 10패에 도달한 프로야구 SSG 랜더스의 아시아 쿼터 일본인 투수 타케다 쇼타가 2군으로 내려갔다.",
+      "SSG는 20일 대구 삼성라이온즈파크에서 벌어지는 2026 신한 쏠 KBO리그 삼성 라이온즈와의 경기를 앞두고 타케다를 1군 엔트리에서 제외했다.",
+      "타케다는 올 시즌부터 도입된 아시아 쿼터를 통해 KBO리그 무대를 밟았다."
     ],
     "chips": [
       "#KBO"
     ]
   },
   {
-    "id": "nec8d8240",
-    "category": "부동산",
-    "source": "아시아경제",
-    "time": "2분 전",
-    "url": "https://view.asiae.co.kr/article/2026082017215624051",
-    "title": "김윤덕 국토장관 \"신길2 사업추진 속도…2028년 착공 목표\"",
-    "summary": [
-      "김윤덕 국토교통부 장관이 20일 오후 신길2 도심 공공주택 복합사업지구를 찾아 속도감 있는 사업 추진을 약속했다.",
-      "김 장관은 이날 신길2 도심공공주택 복합사업이 추진되고 있는 영등포구 신길동 일대를 찾아 사업현장을 둘러보고, 주민 대표·관계기관과 간담회를 개최했다.김 장관은 \"도심 복합사업에 대해서는 그간 찬반도 많았고 눈에 보이는 효과가 적어 국토부 차원에서도 고민이 많았다\"며 \"이렇게 빠른 속도로 사업을 추."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n4043c101",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "3분 전",
-    "url": "https://www.chosun.com/entertainments/2026/08/20/22HCIWBT3ZFZXOEQEG3WIXRP6Q/",
-    "title": "15세 팬에 \"벌거숭이 두더지\"…유권, 12년 전 팬사인회 발언 사과",
-    "summary": [
-      "15세 팬에 \"벌거숭이 두더지\"…유권, 12년 전 팬사인회 발언 사과."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n6a88cc2b",
-    "category": "사회",
-    "source": "아시아경제",
-    "time": "3분 전",
-    "url": "https://view.asiae.co.kr/article/2026082014262172305",
-    "title": "고흥군, 전국 지자체 일자리대상 '우수상' 2년 연속 수상",
-    "summary": [
-      "전남광주통합특별시 고흥군은 지난 19일 고용노동부 주관 '2026년 전국 지방자치단체 일자리대상' 공시제 부문에서 '우수상'을 2년 연속 수상했다고 밝혔다.",
-      "전국 지자체 일자리대상은 고용노동부에서 2012년부터 자치단체의 일자리 창출 노력을 알리고 지역 일자리에 대한 관심을 높이기 위해 매년 개최하고 있다.올해 심사에서는 지방소멸 위기 속에서도 부서 간·유관기관 간 유기적 협력을 바탕으로 수요자 중심의 정책을 추진."
-    ],
-    "chips": [
-      "#정책",
-      "#고용"
-    ]
-  },
-  {
-    "id": "nf7d14fe1",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "3분 전",
-    "url": "https://www.newsis.com/view/NISX20260820_0003756497",
-    "title": "삼성전자 DS 위주 초기업노조 \"내년 공동교섭단 안꾸린다\"…DX 기반 동행노조에 공문",
-    "summary": [
-      "[서울=뉴시스]박나리 기자 = 삼성전자 최대 노조이자 디바이스솔루션(DS)부문 중심의 삼성그룹 초기업노동조합 삼성전자지부가 내년 임금협상에서 공동교섭단을 꾸리지 않겠다고 밝혔다.",
-      "20일 업계에 따르면 초기업노조는 이날 디바이스경험(DX)부문 중심의 삼성전자 노동조합 동행에 이 같은 내용을 담은 공문을 보냈다.",
-      "현재 조합원 수는 초기업노조가 5만3400여명, 동행노조가 3만500여명이다."
-    ],
-    "chips": [
-      "#삼성전자"
-    ]
-  },
-  {
-    "id": "na21b4d90",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "3분 전",
-    "url": "https://www.newsis.com/view/NISX20260820_0003756519",
-    "title": "여수산단 석유화학 사업재편 어떻게?…방안·대응책 논의",
-    "summary": [
-      "[여수=뉴시스] 김석훈 기자 = 전남광주 여수국가산업단지의 석유화학 사업재편에 대한 실질적 대응책을 고민하는 자리가 마련됐다.",
-      "여수시는 20일 금호석유화학 여수1공장 대회의실에서 전남광주통합특별시와 함께 '여수 석유화학 사업재편 관련 기업 소통 간담회'를 열었다.",
-      "간담회는 민형배 전남광주통합특별시장과 서영학 여수시장, 여수산단 주요 석유화학 기업 및 관련 기관 관계자들이 참석했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n3c7f89fd",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "4분 전",
-    "url": "https://www.chosun.com/international/international_general/2026/08/20/PCILJRIVSNAWLFASYUNL3J6VKI/",
-    "title": "“韓 북극항로 선박, 러 허가 받아… 제재 위반 소지”",
-    "summary": [
-      "“韓 북극항로 선박, 러 허가 받아… 제재 위반 소지”."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "neb5bf7a8",
+    "id": "nfe088e6a",
     "category": "경제",
-    "source": "아시아경제",
-    "time": "4분 전",
-    "url": "https://view.asiae.co.kr/article/2026082015181270254",
-    "title": "\"의사가 질병 연구자로\"…GITS, 하반기 학위 수여식",
+    "source": "연합뉴스(경제)",
+    "time": "7분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260820168500002",
+    "title": "보이스피싱 조직원, 수사 협조하면 형량 감면된다",
     "summary": [
-      "광주과학기술원(GIST)은 GIST 오룡관 대강당에서 '2026년 하반기 학위수여식'을 개최, 박사 63명·석사 79명·학사 56명 등 졸업생 총 198명에게 학위를 수여했다고 20일 밝혔다.이로써 GIST가 1993년 설립 이래 배출한 과학기술 인재는 박사 2,228명, 석사 5,480명, 학사 1,656명 등 총 9,364명에 이른다.",
-      "이번 학위수여식에서는 10년 넘게 소아청소년과 전문의로 환자를 진료하다 질병의 근본 원인을 밝히기 위해 연."
-    ],
-    "chips": [
-      "#의료"
-    ]
-  },
-  {
-    "id": "na9bc3e36",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "4분 전",
-    "url": "https://www.newsis.com/view/NISX20260820_0003756512",
-    "title": "상조회사 지배주주 신용공여 50%로 제한…개정안 국회 통과",
-    "summary": [
-      "[세종=뉴시스]임하은 기자 = 최근 선불식 할부거래 선수금 총액이 11조원을 넘어선 가운데, 앞으로 상조회사가 지배주주 등에게 자본금의 50%를 넘는 대여나 지급보증을 할 수 없게 된다.",
-      "공정거래위원회는 20일 오후 이 같은 내용의 '할부거래에 관한 법률' 개정안이 국회 본회의를 통과했다고 밝혔다.",
-      "이번 개정안은 선불식 할부거래 상품 가입자가 약 1100만명, 선수금이 약 11조3000억원에 달하면서 소비자 보호와 시장 투명성을 강화하기 위해."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n773a7979",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "4분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260820156300055",
-    "title": "소방차 길 터주기 훈련 동행해보니 \"양보는 골든타임 확보 핵심\"",
-    "summary": [
-      "(전주=연합뉴스) 김문경 기자 = \"소방차가 출동하고 있으니 양보해 주십시오.\"."
+      "(서울=연합뉴스) 강수련 기자 = 앞으로 보이스피싱 범죄조직 핵심 가담자 검거에 협조한 내부자는 형벌이 감면된다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n2407ce8d",
+    "id": "n1f898d32",
     "category": "사회",
     "source": "연합뉴스",
-    "time": "5분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260820149700001",
-    "title": "국힘 정점식·서일준 \"거제·통영 절박\"…특별재난지역 선포요청",
+    "time": "8분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260820165500054",
+    "title": "경북도·전남광주특별시, 국립의대 신설 계획서 교육부에 제출",
     "summary": [
-      "(서울=연합뉴스) 류미나 기자 = 국민의힘 정점식 원내대표와 서일중 의원이 20일 최근 기록적 폭우로 큰 피해를 본 경남 통영과 거제를 특별재난..."
+      "(전남광주·안동=연합뉴스) 형민우 이승형 기자 = 경북도와 전남광주통합특별시는 20일 국립의대 신설 추진 계획서를 교육부에 제출했다."
+    ],
+    "chips": [
+      "#교육"
+    ]
+  },
+  {
+    "id": "n91f8b337",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "8분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260820167400004",
+    "title": "검찰, 송민호 '부실복무' 도운 공단 관리자에 징역 1년 구형",
+    "summary": [
+      "(서울=연합뉴스) 윤민혁 기자 = 검찰이 사회복무요원 근무지를 무단 이탈한 혐의를 받는 아이돌 그룹 '위너'의 송민호(33)의 복무 당시 관리책..."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "naca3bb48",
-    "category": "스포츠",
-    "source": "동아일보",
-    "time": "6분 전",
-    "url": "https://www.donga.com/news/Economy/article/all/20260820/134513381/1",
-    "title": "이랜드, 러닝화브랜드 ‘호카’ 국내 총판 맡는다",
+    "id": "nbaf95cd3",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "9분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260820167000004",
+    "title": "경찰 순환인사제, 수사개혁위 검토 거쳐 시행…현장 반발 반영",
     "summary": [
-      "이랜드가 글로벌 스포츠 러닝화 브랜드 ‘호카(HOKA)’의 국내 새 유통 파트너로 선정됐다.이랜드그룹은 20일 호카의 글로벌 본사인 데커스가 대한민국 내 호카 브랜드의 신규 총판으로 이랜드를 공식 선임했다고 발표했다.",
-      "데커스는 이날 성명을 통해 “대한민국 내 호카 브랜드의 새로운 총판으로 이랜드를 선정했다”며 “이랜드와의 파트너십을 통해 한국 소비자에게 진정성 있는 서비스를 제공하기 위해 최선을 다하겠다”고 밝혔다.호카는 국내 러닝 및 아웃도어."
+      "(서울=연합뉴스) 한지은 기자 = 경찰이 추진하는 순환인사제 확대가 현장 경찰관 반발을 반영해 경찰 수사개혁위원회의 검토를 거쳐 시행하기로 했다..."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n08ce9f14",
+    "id": "n5233010b",
     "category": "사회",
-    "source": "연합뉴스",
-    "time": "6분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260820146700001",
-    "title": "김민석, 이석연 '李대통령 탈당' 건의에 \"헌법 무지 내지 오해\"",
+    "source": "조선일보",
+    "time": "16분 전",
+    "url": "https://www.chosun.com/economy/economy_general/2026/08/20/UGOAT3K6URCMZCLWMVXJHU7K24/",
+    "title": "상장사 ‘주가 누르기’ 막는다...앞으로는 시가 대신 공정가액으로 합병가액 산정",
     "summary": [
-      "(서울=연합뉴스) 김남권 최주성 기자 = 더불어민주당 김민석 대표는 20일 대통령 직속 이석연 국민통합위원장이 이재명 대통령에게 '국민의 대통령..."
+      "상장사 ‘주가 누르기’ 막는다...앞으로는 시가 대신 공정가액으로 합병가액 산정."
     ],
     "chips": [
-      "#정치"
+      "#뉴스"
     ]
   },
   {
-    "id": "n0f28f229",
-    "category": "스포츠",
-    "source": "연합뉴스",
-    "time": "6분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260820155800060",
-    "title": "왕숙천서 행적 끊긴 70대 여성 추정 시신 한 달 만에 발견",
+    "id": "n3f656269",
+    "category": "IT",
+    "source": "ZDNet Korea",
+    "time": "22분 전",
+    "url": "https://zdnet.co.kr/view/?no=20260820172508",
+    "title": "스튜디오비사이드 '스타세이비어', 신규 이벤트 스토리 '잿빛 잔화의 메타바시스' 업데이트",
     "summary": [
-      "(남양주=연합뉴스) 최재훈 기자 = 지난달 경기 남양주시에서 새벽에 집을 나선 후 실종됐던 70대 여성으로 추정되는 시신이 발견됐다."
+      "[지디넷코리아]스튜디오비사이드가 수집형 육성 RPG '스타세이비어'에 신규 서사와 전투 캐릭터를 추가하는 대규모 콘텐츠 업데이트를 적용한다.스튜디오비사이드(대표 류금태)는 수집형 육성 RPG '스타세이비어'에 신규 이벤트 스토리 '잿빛 잔화의 메타바시스'를 업데이트했다고 20일 밝혔다.이번 이벤트 스토리는 모렐 해운상회로부터 고대 유적 탐사를 의뢰받은 '단장'의 여정을 중심으로 전개된다.",
+      "플레이어는 기존 캐릭터 '에데'와 신규 캐릭터 '크리스텔."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "na9e8fadc",
+    "category": "경제",
+    "source": "연합뉴스(경제)",
+    "time": "22분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260820145900051",
+    "title": "북극항로 시대 연다…국내 컨테이너선 22일 첫 시범운항",
+    "summary": [
+      "(부산=연합뉴스) 이영재 기자 = 한국 컨테이너선이 오는 22일 북극항로를 거쳐 유럽까지 가는 첫 시범 운항에 나선다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nc09bb3c5",
+    "category": "경제",
+    "source": "연합뉴스(경제)",
+    "time": "22분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260820160000011",
+    "title": "[연합뉴스 이 시각 헤드라인] - 18:00",
+    "summary": [
+      "[연합뉴스 이 시각 헤드라인] - 18:00."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n8f771e40",
+    "category": "IT",
+    "source": "ZDNet Korea",
+    "time": "23분 전",
+    "url": "https://zdnet.co.kr/view/?no=20260820174842",
+    "title": "방미통위, 광주서 비상방송 제작·송출 훈련 진행",
+    "summary": [
+      "[지디넷코리아]방송미디어통신위원회는 전시 등 비상상황에서도 방송을 안정적으로 선보이기 위한 비상방송 제작·송출 훈련을 진행했다고 20일 밝혔다.올해 을지연습 실제 훈련 일환으로, 이날 전남광주통합특별시 서구 소재 광주시청자미디어센터에서 진행됐다.적의 공격으로 방송국 시설이 파괴된 상황을 가정, 광주시청자미디어센터를 비상방송 제작 거점으로 활용해 방송 기능을 유지하는 절차를 점검하기 위해 마련됐다.전시 방송 공백을 막기 위한 훈련엔 방미통위를 비."
     ],
     "chips": [
       "#뉴스"
@@ -634,18 +634,18 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2460건",
-    "trend": "+275%"
+    "mentions": "2720건",
+    "trend": "+315%"
   },
   {
     "rank": 2,
-    "tag": "AI",
+    "tag": "반도체",
     "mentions": "1420건",
     "trend": "+115%"
   },
   {
     "rank": 3,
-    "tag": "고용",
+    "tag": "KBO",
     "mentions": "1420건",
     "trend": "+115%"
   }
