@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-08-20 17:19:11
+// 마지막 업데이트: 2026-08-20 18:22:36
 window.NEWS_DB = [
   {
     "id": "n6f9d632c",
     "category": "IT",
     "source": "Counterpoint Research",
-    "time": "8시간 전",
+    "time": "9시간 전",
     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNWldFd0pOdDliUnJ6TDJUV2FTaGE1RndLODFNdVNleVoyNFVMdnRlQkEtODNMSDRQZDJCWjlab29yZ21sSldSU1BJWnFSc2QzRlZzOXMwY1ZqYkwxOWN4VkJVQ0FKRl8tRGg0TG1jYWZpeDIzVllxREtMZDhYbnZWTmVRNGhMQVB1WjJSdUl3?oc=5",
     "title": "인텔은 메모리 넘본다…삼성은 파운드리 반격",
     "summary": [
@@ -19,7 +19,7 @@ window.NEWS_DB = [
     "id": "nd000c55e",
     "category": "IT",
     "source": "데이터넷",
-    "time": "8시간 전",
+    "time": "9시간 전",
     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE11QUd4NkhZaDRidFpDRHoyWnFPeURfYVpIMjRZc1pjSmdiTDBiYmVZbnpCQkJxd0ZJaUdMeW5DWVhaTlVmOW53X3BuVTh4bGtYVWM4OUd3a1RtdFdtNm5xSVZMakxxb1lsUnNONA?oc=5",
     "title": "“인텔은 메모리 넘보고, 삼성은 파운드리 반격”",
     "summary": [
@@ -30,24 +30,24 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n04c9840b",
-    "category": "IT",
-    "source": "ebn.co.kr",
-    "time": "9시간 전",
-    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5jNy1zd3VfY0dldFJwanlTb1U0aUR0elE4amU1Ui1FaXRORkV5TWZZZEJlVVlHc1ZhVjByWTg1MFFIMXdLUVJCcjBwYXlJMk1JQkFHVGR1RTdhSy1WMU5sbEJveU5xRktt?oc=5",
-    "title": "인텔, 메모리 접점 확대…삼성은 파운드리 반격 나섰다",
+    "id": "n36bf22dc",
+    "category": "사회",
+    "source": "뉴스 따옴",
+    "time": "10시간 전",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1JYmRLTlA3Yk9LMUJzM3k2cHd4bzJlcWJmVEM4Ukx0aGpZdWNYYnUwaUIxY2MzdVRNWmpBemNkRnpNV1ppVnNiSDAzcFY3WEhEOUdIMnVKc2tUNjR5eS14cUdmem80cHlESzJGTTdn0gFyQVVfeXFMT0Q0MHBweW9XVm1JaUJWTnJLcW1Dbm5VcXhjVjRNV1dCOHh5UTlIUGxEUnhfVmR3Tmk0bng0TGcyTkc4RmhVRHAwd1JTaW00STFJcUxGUVdYNDBpWTdNQzdqUENBcDVGeWN1eU1lTEFqMk5n?oc=5",
+    "title": "고용노동부 안양지청, 원하는 일자리는 가까이에, 고용센터 ‘일자리 수요데이’로 통(通)하다",
     "summary": [
-      "인텔, 메모리 접점 확대…삼성은 파운드리 반격 나섰다 ebn.co.kr."
+      "고용노동부 안양지청, 원하는 일자리는 가까이에, 고용센터 ‘일자리 수요데이’로 통(通)하다 뉴스 따옴."
     ],
     "chips": [
-      "#반도체"
+      "#고용"
     ]
   },
   {
     "id": "n72333e67",
     "category": "사회",
     "source": "서울뉴스통신",
-    "time": "10시간 전",
+    "time": "11시간 전",
     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1PU0xyNnJwRUhKbThVQm9zempWb0p3QVBUUEE3YVQxZ05XdXdUeUtfT01hZlVMbTA2ZTlKU2ctUlhJTVNWVlJMNXFHenVndGxFVG9xMGdVdnh1dEtZUENkdFQ5dXdRRjNTdVh3?oc=5",
     "title": "고용센터 AI 기반 맞춤형으로 개편…구직 상담·기업 채용지원 대폭 강화",
     "summary": [
@@ -64,7 +64,7 @@ window.NEWS_DB = [
     "id": "n13d51c3b",
     "category": "IT",
     "source": "뉴시스",
-    "time": "11시간 전",
+    "time": "12시간 전",
     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9rWS0wRFlYVEJqMTVFVmtUb1Z3YnkzaS1kUnNoMFhVYjVvZUVEYVI4Zk0yTTFnOXRrWW9MOEFZdV9LRnBhZWtPWHc3Nkp1cjBWdkxPeGZvNml6dUFKR01YTW5TeDJ4TUxiWGZQSUpzRW9sb2hxclZJeNIBeEFVX3lxTE9rWS0wRFlYVEJqMTVFVmtUb1Z3YnkzaS1kUnNoMFhVYjVvZUVEYVI4Zk0yTTFnOXRrWW9MOEFZdV9LRnBhZWtPWHc3Nkp1cjBWdkxPeGZvNml6dUFKR01YTW5TeDJ4TUxiWGZQSUpzRW9sb2hxclZJeA?oc=5",
     "title": "\"엔비디아 종속 막자\"…정부·AMD·K반도체 '연합 전선' 구축(종합)",
     "summary": [
@@ -76,10 +76,24 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n29c6183f",
+    "category": "IT",
+    "source": "리드경제",
+    "time": "12시간 전",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE95dVc1a3FlSHJ2d3E0c2cwM2loSVY0cGVNcVcxYU0tMTJPZkxYWWQ3VnUwcHBYVlJxWmwwM3pnU2JWTlhqYXAzS1dmbnMxd0xvc3FKeV9nVVpNSTgwb1lKUEhkcnZ6eDBUb3BQRG9qTQ?oc=5",
+    "title": "인텔, 메모리 넘본다…삼성 파운드리 반격",
+    "summary": [
+      "인텔, 메모리 넘본다…삼성 파운드리 반격 리드경제."
+    ],
+    "chips": [
+      "#반도체"
+    ]
+  },
+  {
     "id": "n2beeb2e6",
     "category": "IT",
     "source": "비즈니스포스트",
-    "time": "11시간 전",
+    "time": "12시간 전",
     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBMbVI5anZMMjl0ZTNFZGFrYlVqdTNCYUNCRm9rRzdWcVZBVHR6ZVNWVnBsM0t4SU5DZ2o4VjU4OUFBcUQ1cF9EYkE0a0prYzZXTFVXT3AtYmFGRXVfMTJHS25ESWViUUNmS0dCWUFrTmRUcUE?oc=5",
     "title": "엔비디아 고객사에 금융지원 전략 성패는 메모리 공급망에 달렸다, 공급과잉 전환 시점이 중요",
     "summary": [
@@ -148,21 +162,6 @@ window.NEWS_DB = [
       "#AI",
       "#스타트업",
       "#네이버"
-    ]
-  },
-  {
-    "id": "nac7d261c",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "20일 전",
-    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1wZmd4RTNaSTBwNVNxSm0yRGFySTlYN19qVTZfYzRtVzBzVV9nSnR3RXdYaTNiNkZRX3F6aXhFZTA5ekUxNW9VWHIzZHFjYnoyWU0wVDNoU2FJcVE?oc=5",
-    "title": "강남구 일자리통합지원센터, 맞춤형 지원으로 취업자 25.7％ 증가",
-    "summary": [
-      "강남구 일자리통합지원센터, 맞춤형 지원으로 취업자 25.7％ 증가 연합뉴스."
-    ],
-    "chips": [
-      "#취업",
-      "#고용"
     ]
   },
   {
@@ -344,10 +343,53 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n775965c8",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "5분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260821004900087",
+    "title": "[속보] 페루 중부서 규모 6.6 강진",
+    "summary": [],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n8e85dced",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "7분 전",
+    "url": "https://www.chosun.com/sports/baseball/2026/08/21/MRTDONRVGAZTANBTGYYDMOLGGU/",
+    "title": "'7안타 6타점 합작' 이게 KIA 중심타선의 힘…이범호 감독 \"김도영-카스트로-나성범, 공격 잘 이끌어줬다\"",
+    "summary": [
+      "[OSEN=대전, 조은혜 기자] 프로야구 KIA 타이거즈가 한화 이글스와의 주중 3연전을 쓸어담고 5연승을 질주, 3위로 점프했다.이범호 감독이 이끄는 KIA는 20일 대전 한화생명 볼파크에서 열린 2026 신한 SOL KBO리그 한화와의 원정경기에서 10-6으로 승리하고 5연승을 달성했다.",
+      "시즌 전적 59승48패2무를 만든 KIA는 LG 트윈스(50승49."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
+    "id": "n9cafa1af",
+    "category": "경제",
+    "source": "머니투데이",
+    "time": "17분 전",
+    "url": "https://www.mt.co.kr/living/2026/08/21/2026082020013283652",
+    "title": "실속있는 점포만 '쏙'… 롯데百 체질개선",
+    "summary": [
+      "성장성 높은 지점 집중투자 부실 점포 옥석가리기 속도 권역별 거점 대규모 리뉴얼 지난해 말부터 롯데백화점을 이끈 정현석 대표가 본격적인 점포 구조조정에 돌입했다.",
+      "장기간 매출이 부진한 점포는 과감하게 정리하고 성장 가능성이 높은 점포는 대규모 시설투자를 병행하는 '투트랙 전략'으로 체질개선에 나선 것이다.",
+      "20일 롯데쇼핑에 따르면 롯데백화점은 정 대표 취임 이후 '점포 옥석가리기'에 주력했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
     "id": "nce8bfc4a",
     "category": "IT",
     "source": "테크M",
-    "time": "방금 전",
+    "time": "18분 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=154482",
     "title": "[카드뉴스] 무차별 PK 제한, 직업 대신 스킬 조합...카카오게임즈가 권하는 색다른 MMORPG '도깨비의 세계'",
     "summary": [
@@ -360,10 +402,191 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n5b516217",
+    "category": "부동산",
+    "source": "머니투데이",
+    "time": "22분 전",
+    "url": "https://www.mt.co.kr/estate/2026/08/21/2026082019043159007",
+    "title": "\"한방에 3억 뚝, 여기 급매요\"...'세 부담' 초고가주택은 지금",
+    "summary": [
+      "8월 셋째주 서울 아파트 동향 매매가지수 지난주 대비 하락세 송파는 0.1%↑, 사실상 제자리 상대적 저가, 중위 지역 더 뛰어 정부의 8·3 세제개편안에 서울 강남권 초고가주택 시장이 먼저 반응하는 모습이다.",
+      "강남·서초구를 중심으로 호가를 대폭 낮춘 급매물이 등장하는가 하면 직전 거래가를 밑도는 가격에 거래가 이뤄지는 사례도 잇따른다.",
+      "20일 부동산업계에 따르면 서울 서초구 반포동 '아크로리버파크' 전용면적 84㎡는 최근 53억9000만원에."
+    ],
+    "chips": [
+      "#부동산"
+    ]
+  },
+  {
+    "id": "necf88456",
+    "category": "경제",
+    "source": "머니투데이",
+    "time": "22분 전",
+    "url": "https://www.mt.co.kr/thebio/2026/08/21/2026082019041657660",
+    "title": "국산우유 한팩, 그냥 나오는게 아닙니다",
+    "summary": [
+      "착유~가공 꼼꼼한 검증… 우유자조금 \"품질·안전성 강화\" 흔히 우유팩을 고를 때 소비자는 가격과 유통기한, 영양성분표 정도를 본다.",
+      "하지만 우유가 식탁에 오르기까지 과정은 그리 간단하지 않다.",
+      "특히 국산우유는 젖소에서 원유를 짤 때부터 위생상태는 물론 세균수와 체세포수, 유지방과 유단백질 등 주요 성분을 까다롭게 검사하기로 유명하다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nbdbb03b8",
+    "category": "부동산",
+    "source": "머니투데이",
+    "time": "22분 전",
+    "url": "https://www.mt.co.kr/industry/2026/08/21/2026082019040926563",
+    "title": "3.4톤 SUV도, 차체 낮아도 직각·평행·다중 주차 '척척'",
+    "summary": [
+      "현대위아 '로봇 솔루션' 시연 건축설계·인허가 방안 소개 등 공동주택 공략 박차 현대위아가 공동주택 주차로봇 도입을 위한 가이드라인을 제시하고 사업확대에 본격 나선다.",
+      "현대위아는 지난 19일부터 이틀간 경기 의왕시 현대차그룹 의왕연구소에서 '주차 솔루션 고객초청 행사'를 개최했다고 20일 밝혔다.",
+      "이번 행사에는 주차로봇 적용에 관심이 높은 건설사와 시공사 등 주요 고객 약 800명이 참석했다."
+    ],
+    "chips": [
+      "#부동산"
+    ]
+  },
+  {
+    "id": "nc7ef281b",
+    "category": "경제",
+    "source": "뉴시스",
+    "time": "22분 전",
+    "url": "https://www.newsis.com/view/NISX20260820_0003755606",
+    "title": "상가 무단침입했다 총 맞은 美 노숙인…업주에 '139억 소송' 제기",
+    "summary": [
+      "[서울=뉴시스]이지우 인턴 기자 = 미국에서 상가에 침입했다가 총격을 당한 노숙인이 업체와 업주를 상대로 손해배상 소송을 제기했다.",
+      "지난 15일(현지 시간) 미국 KPTV는 노숙인 케네스 보일스(43)가 오리건주 포틀랜드의 석재업체 '터치스톤 그래나이트 앤 마블'과 업주 제임스 그랜트(70)를 상대로 1000만 달러(약 139억원) 규모의 소송을 제기했다고 보도했다.",
+      "사건은 2023년 3월 6일 새벽 발생했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n7aa49570",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "22분 전",
+    "url": "https://www.chosun.com/economy/economy_general/2026/08/21/YMYSZT2IVBDYTG64H6THPSVV2E/",
+    "title": "JP모건부터 블랙록까지… 월가 ‘공룡’들이 코인 판 뛰어든 이유",
+    "summary": [
+      "JP모건부터 블랙록까지… 월가 ‘공룡’들이 코인 판 뛰어든 이유."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "na57bdccc",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "22분 전",
+    "url": "https://www.chosun.com/culture-life/2026/08/21/ARLXSEQHBRH5TLKVLEG6A2QKUU/",
+    "title": "“비구니 스님 계신가요?”… 30년 정성으로 일군 사찰 풍경",
+    "summary": [
+      "“비구니 스님 계신가요?”… 30년 정성으로 일군 사찰 풍경."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n17a6cd4f",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "22분 전",
+    "url": "https://www.chosun.com/premium/2026/08/21/QPUOYTPMAFDMHES2D4SVZZMB3E/",
+    "title": "무게 단위 pound를 왜 lb로 표기하는 걸까",
+    "summary": [
+      "무게 단위 pound를 왜 lb로 표기하는 걸까."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n74c8dfb5",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "23분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260821003700091",
+    "title": "비트코인, 규제완화법 청신호에 7만불 돌파…역대2위 공매도청산",
+    "summary": [
+      "(샌프란시스코=연합뉴스) 권영전 특파원 = 가상화폐 시총 1위 비트코인이 미국 국채 바이백과 도널드 트럼프 미국 대통령의 규제 완화 법안 통과 ..."
+    ],
+    "chips": [
+      "#정책",
+      "#정치"
+    ]
+  },
+  {
+    "id": "n27d64a26",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "34분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260821002551071",
+    "title": "美 \"우리편이냐 맞설거냐\"…'이란경제 붕괴' 동맹 동참 압박(종합)",
+    "summary": [
+      "(워싱턴=연합뉴스) 백나리 특파원 = 스콧 베선트 미국 재무장관은 20일(현지시간) 이란 정권의 붕괴를 겨냥한 대대적 경제 압박에 나서겠다면서 ..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nf66f0e18",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "38분 전",
+    "url": "https://www.newsis.com/view/NISX20260821_0003756793",
+    "title": "러, 한미훈련 축소에 환영…\"역내 긴장 완화에 도움\"",
+    "summary": [
+      "[서울=뉴시스] 문예성 기자 = 러시아 정부가 도널드 트럼프 미국 대통령의 한미 연합군사훈련 축소 지시에 대해 역내 긴장 완화에 도움이 될 것이라며 환영한다는 입장을 밝혔다.",
+      "20일(현지 시간) 러시아 타스통신 등에 따르면 마리야 자하로바 러시아 외무부 대변인은 이날 관련 질문에 “분쟁 가능성을 줄이기 위한 모든 조치는 환영한다”고 밝혔다.",
+      "앞서 트럼프 대통령은 지난 16일 한미 연합훈련이 북한에 적대적인 신호를 보낸다면서 훈련 규모 축소를 지."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n03efdde2",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "42분 전",
+    "url": "https://www.newsis.com/view/NISX20260820_0003756427",
+    "title": "\"기러기 생활 해야 하나\"…금융권 지방이전에 맞벌이 부부 '한숨'",
+    "summary": [
+      "[서울=뉴시스]김혜경 기자 = 금융당국과 주요 금융기관의 지방 이전 가능성이 거론되는 가운데, 온라인에서는 지방 이전 대상 기업에 다니는 맞벌이 부부들의 현실적인 고민이 이어지고 있다.",
+      "자녀 양육과 직장 문제까지 얽혀 있어 가족 전체가 지방으로 이주할지, 주말부부를 택할지를 두고 벌써부터 걱정하는 분위기다.",
+      "지난 19일 한 사회관계망서비스(SNS)에는 남편이 지방 이전 대상 기업에 다니고 있어 가족의 거취를 고민하고 있다는 글이 올라왔다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nd9e91924",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "47분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260821003400099",
+    "title": "나이지리아 선박 전복으로 최소 51명 사망…대부분 어린이",
+    "summary": [
+      "(요하네스버그=연합뉴스) 나확진 특파원 = 나이지리아 북서부 소코토주의 강에서 20일(현지시간) 선박이 전복돼 50명 넘게 사망했다고 AFP, ..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
     "id": "n789c3752",
     "category": "경제",
     "source": "뉴시스",
-    "time": "16분 전",
+    "time": "1시간 전",
     "url": "https://www.newsis.com/view/NISX20260821_0003756792",
     "title": "이란 \"美 추가 제재는 경제테러·반인도 범죄\"",
     "summary": [
@@ -376,26 +599,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n5cb65a5d",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "19분 전",
-    "url": "https://www.newsis.com/view/NISX20260820_0003755973",
-    "title": "\"내가 연봉 3천만원 더 버는데\"…가사 5대5 요구한 아내에 남편 '발끈'",
-    "summary": [
-      "[서울=뉴시스]김혜경 기자 = 연봉이 3000만원가량 차이 나는 맞벌이 부부가 가사분담 비율을 놓고 갈등을 빚고 있다는 사연이 전해졌다.",
-      "지난 18일 한 직장인 커뮤니티에는 '연봉 차이 나는데 가사분담 5:5 강요하는 아내'라는 제목의 글이 올라왔다.",
-      "글쓴이 A씨는 자신의 연봉이 약 8000만원, 아내의 연봉은 약 5000만원이라며 \"월급으로 치면 제가 한 달에 가져오는 돈이 150만원 이상 더 많고 생활비나 대출금도 제가 소득 비율대로 더 부."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
     "id": "n36d6706c",
     "category": "IT",
     "source": "테크M",
-    "time": "32분 전",
+    "time": "1시간 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=154481",
     "title": "판교역 광장서 펼쳐지는 게임문화축제 'GXG 2026', 내달 11일 막 오른다",
     "summary": [
@@ -408,220 +615,14 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n1f6f17fa",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "34분 전",
-    "url": "https://www.chosun.com/international/international_general/2026/08/21/GFRWIYRSGYZWEMBUMNTDEMBUMI/",
-    "title": "월마트 실적에 美 소비 둔화 우려… 주가 2022년 이후 최대 낙폭",
-    "summary": [
-      "미국 최대 유통업체 월마트의 미국 내 기존점포 매출 증가율이 6년 만에 최저 수준으로 떨어졌다.",
-      "시장 기대에 못 미친 실적에 소비 둔화 우려까지 겹치면서 주가도 큰 폭으로 하락했다.",
-      "월마트는 20일(현지시각) 회계연도 2분기(5~7월) 총매출이 전년 동기 대비 5.9% 증가했다고 밝혔다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n3688df94",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "38분 전",
-    "url": "https://www.chosun.com/sports/world-football/2026/08/21/GQ3DCMZYGQ2DGYTCMYYWKM3CGI/",
-    "title": "스페인 1면 장악해버린 이강인, 각종 현지 언론서 \"ATM, 제대로 된 선수 품었다\" 극찬",
-    "summary": [
-      "[OSEN=정승우 기자] 이강인(25, 아틀레티코 마드리드)이 데뷔전부터 강렬한 인상을 남겼다.",
-      "교체 투입 13분 만에 결승골을 터뜨렸고, 경기 최우수선수(MVP)까지 차지했다.",
-      "스페인 주요 매체들은 이강인의 활약을 일제히 1면과 주요 기사로 다뤘다.아틀레티코는 20일(한국시간) 스페인 마드리드의 리야드 에어 메트로폴리타노에서 열린 2026-2027시즌 라."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nd47baa1b",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "39분 전",
-    "url": "https://www.chosun.com/sports/baseball/2026/08/21/MEYGMZJVGM3GIMTGHBQTCZBRGE/",
-    "title": "대구가 더 싫은 삼성 투수들, 왜 홈에서 이렇게 작아지나…4:1→4:6, 또 뼈아픈 역전패",
-    "summary": [
-      "[OSEN=길준영 기자] 프로야구 삼성 라이온즈가 뼈아픈 역전패를 당하며 홈에서 위닝시리즈를 내줬다.",
-      "삼성은 20일 대구 삼성라이온즈파크에서 열린 ‘2026 신한은행 SOL Bank KBO리그’ SSG 랜더스와의 경기에서 4-6으로 패했다.",
-      "이날 패배로 주중 홈 3연전에서 루징시리즈를 당했다.삼성 선발투수 최원태는 5이닝 5피안타 7탈삼진 1실점을 기록했다."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
-    "id": "ne1c88a84",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "40분 전",
-    "url": "https://www.chosun.com/entertainments/broadcast/2026/08/21/G5RGMMRVMVQTSZJYGE3TIMJZMU/",
-    "title": "\"입원 권유 받아‥위태로웠던 날들\" 이재용, 30대에 우울증 진단 받아 ('요즘 뭐해')",
-    "summary": [
-      "영상 시청 후 작성된 리뷰 기사입니다.[OSEN=최지연 기자] 배우 이재용이 과거 우울증으로 투병했다고 알렸다.",
-      "20일 유튜브 채널 '요즘 뭐해'에는 '[단독] ‘야인시대’ 미와 이재용, 8년간 우울증을 견딘 이유… “연기가 나를 살렸다”'라는 제목의 영상이 게재됐다.",
-      "이날 배우 조상구는 이재용에게 \"7, 8년 이상을 우울증 약을 먹었다고 들었다\"고 물었다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
     "id": "nfb619e82",
     "category": "사회",
     "source": "동아일보",
-    "time": "59분 전",
+    "time": "2시간 전",
     "url": "https://www.donga.com/news/Inter/article/all/20260821/134516715/1",
     "title": "美재무 “이란 정권 붕괴시킬 것”…역대 최강 제재 예고",
     "summary": [
       "스콧 베선트 미국 재무장관이 이란을 상대로 ‘역대 가장 강력한 제재’를 가해 이란 정권을 붕괴시키겠다고 밝혔다.베선트 장관은 20일(현지 시간) CNBC 프로그램 ‘스쿼크 온 더 스트리트’에 출연해 미국 정부가 이란을 상대로 취할 구체적인 조치를 발표하겠다고 말했다.베선트 장관은 “이번 조치는 이란에 대한 조율된 경제적 고립이 될 것”이라고 설명했다.그는 “이란과 계속 거래하는 국가들에 대해 미국은 제재 집행 조치를 취할 것”이라며 제3국과 기."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nfe8642b0",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "1시간 전",
-    "url": "https://www.yna.co.kr/view/AKR20260821002500071",
-    "title": "美 \"우리편이냐 맞설거냐\"…'이란경제 붕괴' 동맹 동참 압박",
-    "summary": [
-      "(워싱턴=연합뉴스) 백나리 특파원 = 스콧 베선트 미국 재무장관은 20일(현지시간) 이란 정권의 붕괴를 겨냥한 대대적 경제 압박에 나서겠다면서 ..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n0cf17c77",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "1시간 전",
-    "url": "https://www.yna.co.kr/view/AKR20260821001800099",
-    "title": "WHO, 에볼라 확산 민주콩고에 자이르형 백신 긴급 투입",
-    "summary": [
-      "(요하네스버그=연합뉴스) 나확진 특파원 = 유례 없이 빠른 속도로 에볼라가 확산하고 있는 콩고민주공화국(민주콩고)에 과거 에볼라 유행에서 효과를..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n4ac34599",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "1시간 전",
-    "url": "https://www.donga.com/news/It/article/all/20260821/134516690/1",
-    "title": "“야식은 못참지”…의지 박약 아닌 ‘이 호르몬’ 탓?",
-    "summary": [
-      "밤마다 습관처럼 야식을 찾는 다면 단순 습관이 아닌 치료가 필요한 질환인 ‘야식증후군’일 수 있어 주의가 요구된다.21일 의료계에 따르면 야식증후군은 1955년 학계에 처음 보고된 이후 현재 미국정신의학회 정신질환 진단기준(DSM-5)에도 등재된 섭식장애의 하나다.",
-      "전체 인구의 1.5% 정도에서 나타나며, 특히 비만한 사람에게서는 10명 중 1명꼴로 발생할 만큼 흔하다.",
-      "하루에 섭취하는 총 25% 이상을 저녁 식사 이후에 먹거나, 일주일에 2번."
-    ],
-    "chips": [
-      "#의료"
-    ]
-  },
-  {
-    "id": "n6fd86bc1",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "1시간 전",
-    "url": "https://www.yna.co.kr/view/AKR20260821002400072",
-    "title": "월마트, 美 매장 매출 증가율 6년만에 최저…주가 급락",
-    "summary": [
-      "(뉴욕=연합뉴스) 김연숙 특파원 = 미국 최대 유통업체인 월마트가 미국 매장 매출에서 6년 만에 가장 낮은 증가율을 기록했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nf0a234b1",
-    "category": "경제",
-    "source": "연합뉴스",
-    "time": "1시간 전",
-    "url": "https://www.yna.co.kr/view/AKR20260821002300072",
-    "title": "美재무장관 \"국채 바이백 회당 40억달러 이상 될 수도\"",
-    "summary": [
-      "(뉴욕=연합뉴스) 김연숙 특파원 = 스콧 베선트 미국 재무부 장관은 20일(현지시간) 국채 바이백(재매입) 규모가 회당 40억달러를 넘어설 수 ..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "na4b0bcaa",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "1시간 전",
-    "url": "https://www.donga.com/news/Inter/article/all/20260821/134516644/1",
-    "title": "예멘 후티 “사우디 나즈란공항·아람코 시설 공격”",
-    "summary": [
-      "예멘의 친이란 후티 반군이 사우디아라비아 나즈란공항과 국영 석유기업 아람코 시설을 드론으로 공격했다고 주장했다.20일(현지 시간) CNN 등에 따르면 후티 반군은 이날 “사우디 남서부 나즈란공항 내 ‘민감한 목표물’과 같은 지역에 있는 아람코 시설을 겨냥해 두 차례 드론 공격을 실시했다”고 밝혔다.후티 반군은 “이번 공격은 사우디 무인기가 예멘 북부 사다주의 영공을 침범한 데 따른 보복”이라고 주장했다.다만 구체적인 공격 시점과 사용된 드론의."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n5ccce7ac",
-    "category": "스포츠",
-    "source": "동아일보",
-    "time": "1시간 전",
-    "url": "https://www.donga.com/news/Sports/article/all/20260821/134516637/1",
-    "title": "‘배드민턴 최강’ 안세영, 세계선수권 8강 안착…서승재·김원호도 8강행",
-    "summary": [
-      "‘배드민턴 여제’ 안세영(삼성생명)이 세계선수권대회 8강에 안착했다.세계랭킹 1위 안세영은 20일(한국 시간) 인도 뉴델리에서 열린 2026 세계배드민턴연맹(BWF) 세계선수권대회 여자 단식 16강전에서 미아 블리크펠트(덴마크·세계 16위)를 2-0(21-16 21-10)으로 제압했다.안세영은 지난달 일본오픈 도중 왼발 부상을 당해 대회 기권을 선언했고, 이후 중국오픈도 불참하며 재활에 매달렸다.부상을 털어내고 약 한 달 만에 돌아온 안세영은."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n2e9e9a90",
-    "category": "스포츠",
-    "source": "한국경제",
-    "time": "2시간 전",
-    "url": "https://www.hankyung.com/article/202608203412i",
-    "title": "3년 전 '눈물' 씻겠다…이윤서 \"목표는 당연히 우승이죠\"",
-    "summary": [
-      "3년 전 '눈물' 씻겠다…이윤서 \"목표는 당연히 우승이죠\"."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n1662ddf4",
-    "category": "경제",
-    "source": "한국경제",
-    "time": "2시간 전",
-    "url": "https://www.hankyung.com/article/2026082032467",
-    "title": "[오늘의 운세] 오늘 뭐 먹지?…8월 21일 띠별 추천 점심메뉴",
-    "summary": [
-      "[오늘의 운세] 오늘 뭐 먹지?…8월 21일 띠별 추천 점심메뉴."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n01dcc7ea",
-    "category": "경제",
-    "source": "한국경제",
-    "time": "2시간 전",
-    "url": "https://www.hankyung.com/article/2026082032637",
-    "title": "[오늘의 운세] 8월 21일 띠별 운세",
-    "summary": [
-      "[오늘의 운세] 8월 21일 띠별 운세."
     ],
     "chips": [
       "#뉴스"
@@ -634,18 +635,18 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2850건",
-    "trend": "+335%"
+    "mentions": "2460건",
+    "trend": "+275%"
   },
   {
     "rank": 2,
-    "tag": "반도체",
-    "mentions": "1420건",
-    "trend": "+115%"
+    "tag": "부동산",
+    "mentions": "1550건",
+    "trend": "+135%"
   },
   {
     "rank": 3,
-    "tag": "KBO",
+    "tag": "반도체",
     "mentions": "1420건",
     "trend": "+115%"
   }
