@@ -1,5 +1,5 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-08-20 13:38:19
+// 마지막 업데이트: 2026-08-20 14:25:13
 window.NEWS_DB = [
   {
     "id": "n6f9d632c",
@@ -30,6 +30,20 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n04c9840b",
+    "category": "IT",
+    "source": "ebn.co.kr",
+    "time": "6시간 전",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5jNy1zd3VfY0dldFJwanlTb1U0aUR0elE4amU1Ui1FaXRORkV5TWZZZEJlVVlHc1ZhVjByWTg1MFFIMXdLUVJCcjBwYXlJMk1JQkFHVGR1RTdhSy1WMU5sbEJveU5xRktt?oc=5",
+    "title": "인텔, 메모리 접점 확대…삼성은 파운드리 반격 나섰다",
+    "summary": [
+      "인텔, 메모리 접점 확대…삼성은 파운드리 반격 나섰다 ebn.co.kr."
+    ],
+    "chips": [
+      "#반도체"
+    ]
+  },
+  {
     "id": "n72333e67",
     "category": "사회",
     "source": "서울뉴스통신",
@@ -50,7 +64,7 @@ window.NEWS_DB = [
     "id": "n13d51c3b",
     "category": "IT",
     "source": "뉴시스",
-    "time": "7시간 전",
+    "time": "8시간 전",
     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9rWS0wRFlYVEJqMTVFVmtUb1Z3YnkzaS1kUnNoMFhVYjVvZUVEYVI4Zk0yTTFnOXRrWW9MOEFZdV9LRnBhZWtPWHc3Nkp1cjBWdkxPeGZvNml6dUFKR01YTW5TeDJ4TUxiWGZQSUpzRW9sb2hxclZJeNIBeEFVX3lxTE9rWS0wRFlYVEJqMTVFVmtUb1Z3YnkzaS1kUnNoMFhVYjVvZUVEYVI4Zk0yTTFnOXRrWW9MOEFZdV9LRnBhZWtPWHc3Nkp1cjBWdkxPeGZvNml6dUFKR01YTW5TeDJ4TUxiWGZQSUpzRW9sb2hxclZJeA?oc=5",
     "title": "\"엔비디아 종속 막자\"…정부·AMD·K반도체 '연합 전선' 구축(종합)",
     "summary": [
@@ -62,24 +76,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n29c6183f",
-    "category": "IT",
-    "source": "리드경제",
-    "time": "7시간 전",
-    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE95dVc1a3FlSHJ2d3E0c2cwM2loSVY0cGVNcVcxYU0tMTJPZkxYWWQ3VnUwcHBYVlJxWmwwM3pnU2JWTlhqYXAzS1dmbnMxd0xvc3FKeV9nVVpNSTgwb1lKUEhkcnZ6eDBUb3BQRG9qTQ?oc=5",
-    "title": "인텔, 메모리 넘본다…삼성 파운드리 반격",
-    "summary": [
-      "인텔, 메모리 넘본다…삼성 파운드리 반격 리드경제."
-    ],
-    "chips": [
-      "#반도체"
-    ]
-  },
-  {
     "id": "n2beeb2e6",
     "category": "IT",
     "source": "비즈니스포스트",
-    "time": "7시간 전",
+    "time": "8시간 전",
     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBMbVI5anZMMjl0ZTNFZGFrYlVqdTNCYUNCRm9rRzdWcVZBVHR6ZVNWVnBsM0t4SU5DZ2o4VjU4OUFBcUQ1cF9EYkE0a0prYzZXTFVXT3AtYmFGRXVfMTJHS25ESWViUUNmS0dCWUFrTmRUcUE?oc=5",
     "title": "엔비디아 고객사에 금융지원 전략 성패는 메모리 공급망에 달렸다, 공급과잉 전환 시점이 중요",
     "summary": [
@@ -121,20 +121,6 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n1058f97e",
-    "category": "스포츠",
-    "source": "네이트",
-    "time": "7일 전",
-    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8yc083aVJTcjRRMW96ZThmS0J5NnYtWjFpdVpkWlpPMjA2RVhzQzF5dzVTcGhHdUJFaWRDUmdjY053NEFkY2g4dzZmZmNYQW5saFg4YVV4NG1sbkx0bTFMWg?oc=5",
-    "title": "맑은 하늘 아래 펼쳐지는 KBO리그",
-    "summary": [
-      "맑은 하늘 아래 펼쳐지는 KBO리그 네이트."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
     "id": "n14e5eed8",
     "category": "IT",
     "source": "지디넷코리아",
@@ -151,14 +137,14 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nac7d261c",
+    "id": "n5ee6ae18",
     "category": "사회",
-    "source": "연합뉴스",
-    "time": "20일 전",
-    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1wZmd4RTNaSTBwNVNxSm0yRGFySTlYN19qVTZfYzRtVzBzVV9nSnR3RXdYaTNiNkZRX3F6aXhFZTA5ekUxNW9VWHIzZHFjYnoyWU0wVDNoU2FJcVE?oc=5",
-    "title": "강남구 일자리통합지원센터, 맞춤형 지원으로 취업자 25.7％ 증가",
+    "source": "아웃소싱타임스",
+    "time": "7일 전",
+    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5zc2F0ZE5OclByMVNLM3M5cTZ0ZFduRE1SaWFVQU9fTjl2U1RoV0RvU3o4NkNTQ2g2b2J3a3FGZGxSRnZHM01mVTNGMV9nOTg3OFc4RmwtZnZzdngtYVQzd0N2c2FSVXdEWVlCMGxIQTZDdw?oc=5",
+    "title": "[화제] 구직자는 늘었는데 취업은 줄었다…2026년 2분기 민간 고용서비스 ‘엇갈린 흐름’",
     "summary": [
-      "강남구 일자리통합지원센터, 맞춤형 지원으로 취업자 25.7％ 증가 연합뉴스."
+      "[화제] 구직자는 늘었는데 취업은 줄었다…2026년 2분기 민간 고용서비스 ‘엇갈린 흐름’ 아웃소싱타임스."
     ],
     "chips": [
       "#취업",
@@ -237,35 +223,6 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n79d12fb6",
-    "category": "부동산",
-    "source": "Chosunbiz",
-    "time": "83일 전",
-    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQc01fQzQ5RjhjTzMxV0xObHgwUFQ5Z0ozcklaR19VYmhUOXBxVURFZVBjZkxKT2ozQUhsVzViV1JCLXdvVUQ1YWVwYTA5bVB1TjdaYlZHTXFCQUJoRTBsdHNHZXZ5MnJQdVliYzVUUktidVpvNDNzWVJXakYzUFBTMFMxd1Y0NFVrTnhSR1c5WXctLTdFRnhJMtIBrAFBVV95cUxOMk9EaXo0bmRJdnJyRVgyM0REZE1IR1VEVkNzWVNHZW9nR3p3WDRXcXQ0dnpfNk5LRE9SVFVscW45RzlqYTZGTWhWdTlybngycnM5QUliSG1haVFoQW5xT3ZpbFJvWU5hYjNYUGNLTHVyNHgwcDdLZWFsdFhMTHhCNlBodDFsdkFTT0tFX3NXWGZ1M2hCTEpmbTVUVXRzREtvSy1CdkRyWE5sbU5p?oc=5",
-    "title": "매물 줄고 분양가 뛰고… 전국 아파트 매매·전셋값 동반 상승세 지속 - 조선비즈",
-    "summary": [
-      "매물 줄고 분양가 뛰고… 전국 아파트 매매·전셋값 동반 상승세 지속 - 조선비즈 Chosunbiz."
-    ],
-    "chips": [
-      "#부동산"
-    ]
-  },
-  {
-    "id": "nb9bdfdfb",
-    "category": "스포츠",
-    "source": "푸드투데이",
-    "time": "83일 전",
-    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9BVmpLTU1zOFZsU1RWVmVOSXppaWhDWFBBRkF4akI3WHBIcXIyX2pXa3JaeXplMm9vbmE4cU1PclhFTXVZdURxQ0RCYTF3aFNsbmRKcTZ5VE9na0cwakQ2XzNuWlJ5QQ?oc=5",
-    "title": "‘손흥민 월드콘.KBO몽쉘’ 축구.야구팬 다 잡자...롯데웰푸드, 스포츠마케팅 총력",
-    "summary": [
-      "‘손흥민 월드콘.KBO몽쉘’ 축구.야구팬 다 잡자...롯데웰푸드, 스포츠마케팅 총력 푸드투데이."
-    ],
-    "chips": [
-      "#손흥민",
-      "#KBO"
-    ]
-  },
-  {
     "id": "n5a1617c5",
     "category": "부동산",
     "source": "헤럴드경제",
@@ -295,17 +252,18 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n783ebe44",
-    "category": "스포츠",
-    "source": "테크M",
-    "time": "141일 전",
-    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4zeE1CWFFHZzZrMjhfLXJoWERMeW9jVzI5eF91RWV1NUxXelFvT1U5YWpyRjZaQ1NqclNTR1hoRWEwYl9qQmc4WTh5Q29TSWROU3ptQ1ZmXy1rajBVczZ1T1A0RXZ0UdIBakFVX3lxTE4tUUs3ak9IVFI3ZEtUQmg5NUpZbWRwdUN5OEFTU2JqaWN4WWJzMVJVc0pLU1U0UzVZTkRKMlRZSUIyNmhPVjVWMzBTVGxocHc2VUdVZl9rRWdUaXVxTjFSdUpzTzFPdEZHdnc?oc=5",
-    "title": "'야구·축구·골프'로 갈라진 국내 OTT...스포츠 팬덤 경쟁 격화",
+    "id": "nbe3faaa9",
+    "category": "부동산",
+    "source": "한국주택경제신문",
+    "time": "189일 전",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBySlBpV3FLRUFBelkwS3NUZWhrOC1qcGdZTW1obGIyVDV3Z2I5WHlwSGRzUkRCSjllUnpRX2Vld2FRa3VRWU56VEROM19hS3lGUU11VFJPS3RZUThkcTRGR0dEa0p2V0xy?oc=5",
+    "title": "서울 집값 0.22% ↑… \"재건축·역세권이 끌었다“",
     "summary": [
-      "'야구·축구·골프'로 갈라진 국내 OTT...스포츠 팬덤 경쟁 격화 테크M."
+      "서울 집값 0.22% ↑… \"재건축·역세권이 끌었다“ 한국주택경제신문."
     ],
     "chips": [
-      "#KBO"
+      "#부동산",
+      "#재건축"
     ]
   },
   {
@@ -375,40 +333,244 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nfa53137a",
+    "id": "nb60cc8ab",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "7분 전",
+    "url": "https://www.donga.com/news/Opinion/article/all/20260820/134516153/2",
+    "title": "‘패스트트랙’[횡설수설/윤완준]",
+    "summary": [
+      "여야는 2012년 18대 국회 말 국회 선진화법을 통과시켰다.",
+      "‘동물 국회’라는 오명 때문이었다.",
+      "전기톱과 해머로 상임위 회의장 문을 부수는 일이 벌어지는가 하면, 본회의장 단상에서 한 야당 의원이 최루탄을 터뜨리는 일까지 있었다."
+    ],
+    "chips": [
+      "#정책",
+      "#정치"
+    ]
+  },
+  {
+    "id": "n77e01975",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "10분 전",
+    "url": "https://www.donga.com/news/Opinion/article/all/20260820/134516155/2",
+    "title": "[동아광장/이정은]커지는 ‘北-美 대화 베팅’, 최악은 ‘한국 패싱’",
+    "summary": [
+      "도널드 트럼프 미국 대통령은 두 번째 임기를 시작한 지 얼마 되지 않은 지난해 상반기 김정은 북한 국무위원장에게 친서를 보내려 한 적이 있다.",
+      "그즈음 기자들에게 김정은과 “소통하고 있다”는 말도 했다.",
+      "실상은 백악관이 북한 외교관들을 통해 친서를 전달하려 했으나 북측이 수령을 거부했다는 게 북한 전문매체를 통해 뒤늦게 보도됐다."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n63fca97a",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "10분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260820187000001",
+    "title": "李대통령, 최태원과 만찬 회동…대미투자 논의 여부 주목",
+    "summary": [
+      "(서울=연합뉴스) 임형섭 기자 = 이재명 대통령이 20일 최태원 SK그룹 회장과 만찬 회동을 한 것으로 알려졌다."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n5b6db09e",
     "category": "스포츠",
     "source": "연합뉴스",
-    "time": "5분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260820185200073",
-    "title": "日축구협회, '韓 성접대 의혹' 조사…\"확인 안 돼\"",
+    "time": "11분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260820186151007",
+    "title": "장단 15안타·사사구 13개…kt, LG 대파하고 선두 수성(종합)",
     "summary": [
-      "(도쿄=연합뉴스) 이도연 특파원 = 대한축구협회가 외국인 심판과 감독관에 대해 '성 접대'를 했다는 의혹과 관련해 일본 축구협회가 자국 심판 7..."
+      "(서울=연합뉴스) 김동한 기자 = 프로야구 kt wiz가 장단 15안타와 사사구 13개를 묶어 16점을 뽑아내며 리그 선두를 사수했다."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
+    "id": "n80d97a96",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "11분 전",
+    "url": "https://www.chosun.com/entertainments/broadcast/2026/08/20/GBRGEMZRMMYTSZBUHEYTANZSGA/",
+    "title": "권나라, 아이돌 재데뷔도 가능할 레몬 상큼 미모",
+    "summary": [
+      "[OSEN=오세진 기자] 배우 권나라가 상큼한 여름 패션을 선보였다.지난 18일 권나라는 자신의 소셜 계정에 여러 장의 사진을 공개했다.",
+      "권나라는 노란색 하트 하나만을 붙인 채 여러 장의 사진을 올렸다.",
+      "이날 권나라의 포인트가 되는 건 레몬빛 민소매 미니 원피스로, 자잘한 무늬의 프린팅과 함께 여리여리한 느낌을 강조하는 듯 은근히 핏된 느낌을 소화해내는 게."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n870738c6",
+    "id": "n496ed824",
     "category": "사회",
-    "source": "조선일보",
-    "time": "7분 전",
-    "url": "https://www.chosun.com/entertainments/broadcast/2026/08/20/G5SDINTBHEYDONRQGEYGGMLEG4/",
-    "title": "\"더한 인간도 봤다\" 안선영, 걸러야 되는 사람 특징 3가지 공개 ('이중생활')",
+    "source": "동아일보",
+    "time": "13분 전",
+    "url": "https://www.donga.com/news/Opinion/article/all/20260820/134516169/2",
+    "title": "[오늘과 내일/정임수]“학원 갈 필요 없다”는 자신감",
     "summary": [
-      "영상 시청 후 작성된 리뷰 기사입니다.[OSEN=최지연 기자] 방송인 안선영이 인간관계에 대한 생각을 밝혔다.",
-      "20일 유튜브 채널 ‘안선영의 이중생활’(이하 '이중생활')에는 ‘사기당하고 알게 된 ‘나를 배신하지 않는 사람들’의 특징 3가지 | 친구, 회사인간관계가 힘들 때 꼭 보세요’라는 제목의 영상이 게재됐다.",
-      "이날 안선영은 걸러야 되는 사람 3가지 특."
+      "요즘 학부모 커뮤니티나 오픈채팅방에 자주 오르내리는 이름이 차정인 국가교육위원장이다.",
+      "국가교육위원회가 추진하는 대입 개편안으로 불안해하던 이들에게 그의 발언은 불씨를 지핀 꼴이 됐다.",
+      "수능에 서술형과 논술형 평가를 도입하는 방안을 두고 차 위원장은 지난주 국회에서 “시험 기술을 익히기 위해 학원에 갈 필요가 없다”고 언급했다."
+    ],
+    "chips": [
+      "#정치",
+      "#교육"
+    ]
+  },
+  {
+    "id": "n0edb1619",
+    "category": "경제",
+    "source": "조선일보",
+    "time": "14분 전",
+    "url": "https://www.chosun.com/international/international_general/2026/08/20/MI3TSYZXHEZTKNRRGZSGKMLFMI/",
+    "title": "뉴욕증시, 국채금리 반등·월마트 실적 부진에 하락 출발",
+    "summary": [
+      "뉴욕증시 3대 지수가 미국 국채금리 상승과 월마트 실적 부진 등의 영향으로 하락 출발했다.",
+      "20일(현지시각) 오전 9시 50분 기준 뉴욕증권거래소(NYSE)에서 다우존스30산업평균지수는 전 거래일보다 281.12포인트(0.53%) 하락한 5만3181.93을 기록했다.",
+      "스탠더드앤드푸어스(S&P)500지수는 17.78포인트(0.23%) 내린 7690.20,."
+    ],
+    "chips": [
+      "#금리"
+    ]
+  },
+  {
+    "id": "n500d9bd7",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "15분 전",
+    "url": "https://www.chosun.com/sports/baseball/2026/08/20/MMZDONTBGE4DANBVGVQTGY3BGY/",
+    "title": "또또또 불펜 잔혹사…키움은 왜 안타왕 앞에 '타율 8할' 천적을 진상했나, 예고된 참사였다 [오!쎈 부산]",
+    "summary": [
+      "[OSEN=부산, 조형래 기자] 사직 원정 3경기 내내, 그리고 4연패 기간 내내 불펜진이 와르르 무너졌다.",
+      "여기에 알아서 ‘천적’까지 상대 앞에 대령을 하면서 스윕패와 4연패를 동시에 마주했다.키움은 20일 부산 사직구장에서 열린 프로야구 정규시즌 롯데 자이언츠와의 경기에서 1-7로 역전패를 당했다.",
+      "신인 박준현이 5이닝까지 1실점 호투를 펼쳤지만 6회가."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
+    "id": "ne98bf4a9",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "15분 전",
+    "url": "https://www.newsis.com/view/NISX20260820_0003756773",
+    "title": "김여정, 한미 UFS 축소에 \"서울, 전쟁놀이 못하게 된 가긍한 처지\"(종합)",
+    "summary": [
+      "[서울=뉴시스] 남빛나라 기자 = 김여정 북한 노동당 총무부장은 20일 한미연합연습 '을지 자유의 방패'(UFS) 축소와 관련해 \"서울이 가긍한 처지에 놓이게 됐다\"라고 조롱했다.",
+      "김 부장은 또 이재명 대통령 실명을 거론하며 비난했다.",
+      "김정은 북한 국무위원장의 동생인 김 부장은 이날 오후 9시가 넘은 시간 조선중앙통신을 통해 '그리도 즐겨 하던 전쟁놀이를 못 하게 된 서울의 가긍한 처지' 제목의 담화를 공개했다."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n43de98ed",
+    "category": "경제",
+    "source": "동아일보",
+    "time": "16분 전",
+    "url": "https://www.donga.com/news/Opinion/article/all/20260820/134516157/2",
+    "title": "[광화문에서/조은]대출 잠시 풀리자 “빚내고 보자”… ‘패닉 대출’이 키우는 고금리 공포",
+    "summary": [
+      "정부의 대출 규제 완화로 은행이 대출 빗장을 살짝 풀려 하자 시장에서는 ‘일단 빨리 대출을 최대한 받아둬야 한다’는 심리가 퍼지고 있다.",
+      "내 집 마련을 못 한 사람들은 대출이 조금이라도 더 나올 때 빚내 집을 사야겠다고들 말한다.",
+      "이미 집을 계약하고 잔금을 치러야 하는 이들은 온라인 부동산 카페에 ‘잔금일 90일 전부터 대출을 신청받는 곳을 찾는다’는 글을 줄줄이 올리고 있다."
+    ],
+    "chips": [
+      "#부동산",
+      "#금리",
+      "#정책"
+    ]
+  },
+  {
+    "id": "n9b8d01e9",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "17분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260820163352079",
+    "title": "\"에르도안이 위험한 모험\" vs \"네타냐후의 망상\"(종합2보)",
+    "summary": [
+      "(카이로·이스탄불=연합뉴스) 김상훈 김동호 특파원 = 중동 내 새로운 긴장 구도를 형성하고 있는 이스라엘과 튀르키예가 지난 18일(현지시간) 발..."
     ],
     "chips": [
       "#뉴스"
+    ]
+  },
+  {
+    "id": "n7572d39e",
+    "category": "스포츠",
+    "source": "연합뉴스",
+    "time": "20분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260724168169007",
+    "title": "[프로야구] 21일 선발투수",
+    "summary": [
+      "[프로야구] 21일 선발투수."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
+    "id": "n28d6accd",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "22분 전",
+    "url": "https://www.newsis.com/view/NISX20260820_0003756204",
+    "title": "리사, 초고가 사막 리조트서 파격 패션",
+    "summary": [
+      "[서울=뉴시스]박재민 인턴 기자 = 그룹 블랙핑크 리사가 사막 리조트에서 파격 패션을 선보였다.",
+      "리사는 19일 소셜미디어에 \"hELLo uTaH\"(안녕 유타)라는 글과 함께 사막에 있는 야외 수영장에서 찍은 사진 여러 장을 올렸다.",
+      "이날 리사는 미국 유타주 캐니언 포인트에 있는 초고가 럭셔리 사막 리조트를 찾았다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nefefc94c",
+    "category": "스포츠",
+    "source": "뉴시스",
+    "time": "23분 전",
+    "url": "https://www.newsis.com/view/NISX20260820_0003756680",
+    "title": "[KBO 오늘의 경기 결과]8월20일(목)",
+    "summary": [
+      "[서울=뉴시스] [KBO]오늘의 경기 결과<2026년 8월20일(목)> ▲KT 16 - 4 LG(잠실) 승 고영표 패 존 케네디 ▲SSG 6 - 4 삼성(대구) 승 노경은 패 미야모리 사토시 ▲키움 1 - 7 롯데(사직) 패 박준현 승 나균안 ▲두산 4 - 5 NC(창원) 패 김택연 승 전사민 ▲KIA 10 - 6 한화(대전) 승 최지민 패 정우주."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
+    "id": "n9530643d",
+    "category": "스포츠",
+    "source": "뉴시스",
+    "time": "25분 전",
+    "url": "https://www.newsis.com/view/NISX20260729_0003727970",
+    "title": "[인터뷰]\"초보도 빠르게, 선수도 편안하게\" 러닝붐 타고 진화한 나이키 페가수스",
+    "summary": [
+      "[서울=뉴시스]동효정 기자 = \"러닝을 시작하는 이유가 그 어느 때보다 다양해졌습니다.",
+      "이러한 변화는 페가수스를 비롯한 나이키 러닝화 혁신에도 영향을 미쳤습니다.\" 디파 람프라사드 나이키 러닝 풋웨어 시니어 디렉터(Senior Director)는 지난달 29일 진행한 글로벌 미디어 인터뷰에서 최근 러닝 문화의 변화를 이 같이 설명했다.",
+      "그는 \"예전에는 기록 향상이 러닝의 가장 큰 목적이었다면, 이제는 건강과 일상 운동, 정신 건강을 위해 달리는."
+    ],
+    "chips": [
+      "#의료"
     ]
   },
   {
     "id": "neb9182c8",
     "category": "IT",
     "source": "ZDNet Korea",
-    "time": "8분 전",
+    "time": "55분 전",
     "url": "https://zdnet.co.kr/view/?no=20260820221610",
     "title": "프라임마스, 마이크론과 100TB급 CXL 메모리 구현…美DOE 프로젝트 참여",
     "summary": [
@@ -422,100 +584,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n2e89f868",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "9분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260820183351504",
-    "title": "김여정 \"전쟁놀이 못하게 된 서울의 가긍한 처지\"…조롱·막말(종합)",
-    "summary": [
-      "(서울=연합뉴스) 이은정 기자 = 김정은 북한 국무위원장의 동생인 김여정 노동당 총무부장이 도널드 트럼프 미국 대통령 지시로 한미연합훈련이 축소..."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n1739d491",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "11분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260820185600007",
-    "title": "권희동 짜릿한 끝내기…'창원 잔류' NC, 3연패 탈출",
-    "summary": [
-      "(서울=연합뉴스) 천병혁 기자 = NC 다이노스가 연고 지역 창원 잔류를 선언한 날 연패에서 벗어났다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n81415dd4",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "14분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260820184651530",
-    "title": "중수청 특례임용에 검사·수사관 등 2천375명 지원…정원의 82.6%",
-    "summary": [
-      "(서울=연합뉴스) 차민지 기자 = 오는 10월 출범하는 중대범죄수사청(중수청) 특례 임용에 검찰청 소속 검사와 수사관 등 2천375명이 지원했다..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nb8f04c16",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "16분 전",
-    "url": "https://www.newsis.com/view/NISX20260820_0003756552",
-    "title": "중수청 2874명 모집에 2375명 지원…검사 규모는 '비공개'",
-    "summary": [
-      "[서울=뉴시스] 강지은 기자 = 오는 10월 2일 출범하는 중대범죄수사청(중수청) 수사 인력 등 2874명 모집에 2375명이 지원한 것으로 최종 집계됐다.",
-      "그러나 이 중 4급 이상 상당의 수사관으로 신분이 바뀌게 되는 검사의 신청 규모는 공개되지 않았다.",
-      "행정안전부 중수청 개청준비단은 지난 7일부터 20일 오후 6시까지 검찰청 소속 검사와 검찰 수사관 등을 대상으로 중수청 임용 희망 신청 접수를 받은 결과, 이같이 집계됐다고 밝혔다."
-    ],
-    "chips": [
-      "#채용"
-    ]
-  },
-  {
-    "id": "n92339cb8",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "16분 전",
-    "url": "https://www.newsis.com/view/NISX20260820_0003756759",
-    "title": "美항모 조지 워싱턴호 중동 도착…'장기 배치' 링컨호와 교대",
-    "summary": [
-      "[서울=뉴시스] 문예성 기자 = 미국 항공모함 조지 워싱턴호가 중동에 도착해 장기간 배치된 에이브러햄 링컨호와 임무를 교대했다.",
-      "20일(현지 시간) CNN 등에 따르면 미 중부사령부는 이날 엑스(X·옛 트위터)를 통해 “조지 워싱턴호 항모강습단이 전날 중부사령부 작전구역에 도착했으며 예정된 배치 일정에 따라 중동에서 작전을 수행하고 있다”고 밝혔다.",
-      "중부사령부는 조지 워싱턴호가 아라비아해를 항해하는 동안 승조원들이 비행갑판에서 작업하는 모습이."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n6421d1fc",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "18분 전",
-    "url": "https://www.newsis.com/view/NISX20260820_0003756762",
-    "title": "제자 물통에 소변 넣은 日교사, 한 달 뒤 자수…日교육계 '발칵'",
-    "summary": [
-      "[서울=뉴시스]김혜경 기자 = 일본의 한 고등학교 교사가 자신이 가르치던 학생의 물통에 소변을 넣은 사실이 드러나 면직 처분을 받았다.",
-      "20일 일본 FNN 프라임온라인 등에 따르면 군마현의 20대 남성 교사는 지난 5월28일 근무 중 학교 건물 내 인적이 드문 곳에서 자신이 수업을 담당하던 학생의 물통에 소변을 넣었다.",
-      "학생은 물통을 집에 가져가 열어본 뒤 이상한 점을 발견했고, 보호자에게 알렸다."
-    ],
-    "chips": [
-      "#교육"
-    ]
-  },
-  {
     "id": "n8ae84a33",
     "category": "경제",
     "source": "한국경제",
-    "time": "21분 전",
+    "time": "1시간 전",
     "url": "https://www.hankyung.com/article/2026082033697",
     "title": "[속보] 중수청 특례임용 지원, 정원의 83%…\"세부 지원내역 비공개\"",
     "summary": [
@@ -526,40 +598,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nf773affa",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "23분 전",
-    "url": "https://www.newsis.com/view/NISX20260820_0003755960",
-    "title": "\"내 '남편'이 나를 깨우는 방법\"…호날두♥조지나, 결혼 후 달달한 신혼 공개",
-    "summary": [
-      "[서울=뉴시스]김성은 인턴 기자 = 10년 열애 끝에 결혼식을 올린 크리스티아누 호날두와 조지나 로드리게스가 결혼 후 달콤한 일상을 공개하며 팬들의 관심을 끌고 있다.",
-      "특히 조지나가 호날두를 처음으로 공개적으로 '남편'이라고 부르며 신혼의 설렘을 드러냈다.",
-      "영국 매체 더선은 17일(현지 시간) 조지나 로드리게스가 자신의 인스타그램에 \"이것이 바로 내 남편이 나를 깨우는 방법\"이라는 글과 함께 호날두의 모습을 담은 영상을 공개했다고 보도했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n93ca82e8",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "28분 전",
-    "url": "https://www.chosun.com/national/national_general/2026/08/20/J2VUC4QQFZB5NIPXGDS6ENE5KI/",
-    "title": "수사관·검사 2375명 중수청 지원…정원 82.6% 채워",
-    "summary": [
-      "수사관·검사 2375명 중수청 지원…정원 82.6% 채워."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
     "id": "n7b5bcfbd",
     "category": "경제",
     "source": "한국경제",
-    "time": "32분 전",
+    "time": "1시간 전",
     "url": "https://www.hankyung.com/article/2026082033647",
     "title": "[속보] 중수청 특례임용에 수사관·검사 2375명 지원",
     "summary": [
@@ -570,26 +612,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n47fee632",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "37분 전",
-    "url": "https://www.donga.com/news/Politics/article/all/20260820/134515638/1",
-    "title": "위성락·왕이 ‘짜장면 오찬’…한중 안보실장급 채널 5년만에 복원",
-    "summary": [
-      "위성락 국가안보실장은 20일 왕이(王毅) 중국 공산당 중앙외사판공실 주임 겸 외교부장과 회담 겸 오찬을 가졌다.",
-      "한중 안보실장급 회담이 이뤄진 건 2021년 이후 5년 만이다.20일 청와대에 따르면 왕 부장은 이날 청와대에서 이재명 대통령과 면담한 뒤 위 실장과 회담 겸 오찬을 가졌다.",
-      "청와대는 “2021년 12월 이후 중단됐던 우리 국가안보실장과 중국 중앙외사판공실 주임 간 대화채널이 약 5년 만에 복원됐다”면서 “양측은 고위급 외교안보 라인."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
     "id": "nad4ecd01",
     "category": "IT",
     "source": "한국경제",
-    "time": "37분 전",
+    "time": "1시간 전",
     "url": "https://www.hankyung.com/article/202608203352i",
     "title": "[단독] 李 대통령, 최태원과 비공개 회동…반도체 투자 논의한 듯",
     "summary": [
@@ -604,25 +630,11 @@ window.NEWS_DB = [
     "id": "n356c73fd",
     "category": "경제",
     "source": "한국경제",
-    "time": "37분 전",
+    "time": "1시간 전",
     "url": "https://www.hankyung.com/article/2026082026886",
     "title": "'돈은 주주에게' SK하닉의 통 큰 결단…\"40조는 시작일 뿐\" [분석+]",
     "summary": [
       "'돈은 주주에게' SK하닉의 통 큰 결단…\"40조는 시작일 뿐\" [분석+]."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "ncef91eae",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "38분 전",
-    "url": "https://www.chosun.com/politics/north_korea/2026/08/20/IOHET46PVNF5FAIWACCLTJWTWE/",
-    "title": "김여정 “트럼프 말 한마디에 항변 못하고 아첨하는 이재명”",
-    "summary": [
-      "김여정 “트럼프 말 한마디에 항변 못하고 아첨하는 이재명”."
     ],
     "chips": [
       "#뉴스"
@@ -634,21 +646,21 @@ window.NEWS_DB = [
 window.KEYWORD_TOP = [
   {
     "rank": 1,
-    "tag": "뉴스",
-    "mentions": "2460건",
-    "trend": "+275%"
+    "tag": "정치",
+    "mentions": "1810건",
+    "trend": "+175%"
   },
   {
     "rank": 2,
-    "tag": "반도체",
-    "mentions": "1680건",
-    "trend": "+155%"
+    "tag": "뉴스",
+    "mentions": "1810건",
+    "trend": "+175%"
   },
   {
     "rank": 3,
-    "tag": "AI",
-    "mentions": "1420건",
-    "trend": "+115%"
+    "tag": "반도체",
+    "mentions": "1680건",
+    "trend": "+155%"
   }
 ];
 // ====AUTO-GENERATED-END====
