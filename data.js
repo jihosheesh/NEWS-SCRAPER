@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-08-21 12:23:55
+// 마지막 업데이트: 2026-08-21 13:36:58
 window.NEWS_DB = [
   {
     "id": "n01b7046c",
     "category": "경제",
     "source": "세이프머니",
-    "time": "1시간 전",
+    "time": "2시간 전",
     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9Ub04zeDVfTGNFZUhhWEN6TTYycHZERDdBTEs3OFhqYk1SQ1pibDgycHgzdWktaFRBU1RJam53LTMyZlhxTEM1UXdPMlY5TDhZbmtCbEt0VmhJOEZ4blBDVjBNd1Q3a0R1QmRXSkFR?oc=5",
     "title": "권민수 한은 부총재 금리 인상 관련 '유연한' 정책 판단 필요",
     "summary": [
@@ -20,7 +20,7 @@ window.NEWS_DB = [
     "id": "n9e98d1ae",
     "category": "IT",
     "source": "IT조선",
-    "time": "4시간 전",
+    "time": "5시간 전",
     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5TYVA2YnJMTDkycW43azBHN0h3STBIbmZCVnVIeU5MSUpQU0dfc0ZyYThLMG9nQW5SX2kyT2hibUtIdU5BTW1XVHl3Mms3eXc3VzNudkxaRklBZF9LY3VIQWVkYjVMMGZFSVVYZWxpbGHSAXRBVV95cUxQdXpvZmUzOXhXamVfZmpnb1BNYS1VSkJkNEoxMkQzejduSEhOR2dSTVU3SFVHUlJfUXZRX05NR1NsZmw2bWNTbzlSMG5tZ29jVzZpV0dobHpzR3dWQkFBeEh0SWVvNEdybjFMUGI2VkRwVjd5QQ?oc=5",
     "title": "엔비디아, 리벨리온과 기술협력·투자 논의… 인수 가능성도 거론",
     "summary": [
@@ -34,7 +34,7 @@ window.NEWS_DB = [
     "id": "nd9e5e761",
     "category": "IT",
     "source": "자본시장뉴스",
-    "time": "9시간 전",
+    "time": "10시간 전",
     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1QYUdZQnA5Y2lNeXFNdXhhRFh4bE0zSTV0QWNZSXNZRWs0VXZtYnRxMjhmX0R4ekQtbDJIUTNuN01LM3EtMlI1blRxNU0yZzFkbEdEbFhnRVp0eDMtdDB1aGwyRGFWUnM?oc=5",
     "title": "[반도체 패권 지도 ④] HBM 79% 쥔 한국…파운드리는 7%에 묶여 있다",
     "summary": [
@@ -45,14 +45,14 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "ned9b1714",
+    "id": "n1da04b0e",
     "category": "IT",
-    "source": "뉴시스",
-    "time": "13시간 전",
-    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5vQ29yNXlxV1NXbnJwMzdNWUd4OUtqVThRdGxkZkd2eTM0MjEyMms2Tk8xWUljc2tnU04zdEY5OURuVjB6SE5FUWFwR0I0QzdEWmhkRHR4Vy1CQ1VrdUR4SGJYTFFoN01UMXBzdkdGbmVEdEZVTTdHUNIBeEFVX3lxTE5vQ29yNXlxV1NXbnJwMzdNWUd4OUtqVThRdGxkZkd2eTM0MjEyMms2Tk8xWUljc2tnU04zdEY5OURuVjB6SE5FUWFwR0I0QzdEWmhkRHR4Vy1CQ1VrdUR4SGJYTFFoN01UMXBzdkdGbmVEdEZVTTdHUA?oc=5",
-    "title": "엔비디아 '中 맞춤형 AI칩 출시설' 부인…\"계획 전혀 없다\"",
+    "source": "머니투데이",
+    "time": "14시간 전",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5tLUdELWVvRjN0ekp2T0hCUnBkdVlOMU9QcGNkSTI1QVdGM0RTLTR1NEFiamtPMVM2UF9DUnF5V3Jfa2NwSTNURExpUlV5MlJGQnJ2ckhtNU5UYWlwdDhfZ092bzVHN1NC0gFuQVVfeXFMTnRmQ3R1azBHb0lRWXBqdlhVZE14NTZnUWluVUhZOTVMZmI0UFpRaHpRdU5rS0hIcDIxWURCMkthRDY2eEFadWJpcTNTUk43cDcxdGJNeXREc2pnVmV4WlY3SVl3eFlJeVZrdGRnd1E?oc=5",
+    "title": "엔비디아 \"중국 전용 AI칩 없다\"…연내 출시설 일축 - 머니투데이",
     "summary": [
-      "엔비디아 '中 맞춤형 AI칩 출시설' 부인…\"계획 전혀 없다\" 뉴시스."
+      "엔비디아 \"중국 전용 AI칩 없다\"…연내 출시설 일축 - 머니투데이 머니투데이."
     ],
     "chips": [
       "#AI",
@@ -63,7 +63,7 @@ window.NEWS_DB = [
     "id": "nc0a6ce8c",
     "category": "IT",
     "source": "연합뉴스",
-    "time": "13시간 전",
+    "time": "14시간 전",
     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9YUU41ZWlxU2ZhYWNONDlDUks2MzJsVzNxTmxfbkRXdFpUNXRndkFVTlcyemVSVUd3TENIaFc3bjZacURwTmc3c3MxbHVYR0I1MXhJaFUyYVlpb1Rra0o5ZtIBYEFVX3lxTE9YUU41ZWlxU2ZhYWNONDlDUks2MzJsVzNxTmxfbkRXdFpUNXRndkFVTlcyemVSVUd3TENIaFc3bjZacURwTmc3c3MxbHVYR0I1MXhJaFUyYVlpb1Rra0o5Zg?oc=5",
     "title": "엔비디아가 中 맞춤형 AI칩 출시(?)…회사 \"전혀 계획 없다\"",
     "summary": [
@@ -161,6 +161,20 @@ window.NEWS_DB = [
       "#AI",
       "#스타트업",
       "#네이버"
+    ]
+  },
+  {
+    "id": "n062f98b4",
+    "category": "부동산",
+    "source": "한국주택경제신문",
+    "time": "21일 전",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9Sdmd3SUl0dmRQSWdTck5DVjJ5WXYxTTFmRnBBbEkwa09VclpLd0VsVWFTV2pPRm9sQm1sQmZDb3EyN2lwTVBvZ185RUVycVFnOEdYcHVrcVFnYTdwaGZfUDh2WkFWYndi?oc=5",
+    "title": "서울 아파트값 0.25% 상승… 똘똘한 ‘역세권·대단지’가 집값 견인",
+    "summary": [
+      "서울 아파트값 0.25% 상승… 똘똘한 ‘역세권·대단지’가 집값 견인 한국주택경제신문."
+    ],
+    "chips": [
+      "#부동산"
     ]
   },
   {
@@ -280,33 +294,17 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n80dc1407",
+    "id": "n783ebe44",
     "category": "스포츠",
-    "source": "중앙일보",
-    "time": "164일 전",
-    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1kSmhBTDdKY1NsbWktSU80SFYtRWN3VGpnQjRNeEpaNF9LZVo0ZS1wb19tbkZxQUJMOU1NYjVTdVpPLW9aMW9hN0ZRQXVWY3hjQl81MG1R?oc=5",
-    "title": "축구는 손흥민, 야구는 이정후…대표팀 주장의 품격",
+    "source": "테크M",
+    "time": "142일 전",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4zeE1CWFFHZzZrMjhfLXJoWERMeW9jVzI5eF91RWV1NUxXelFvT1U5YWpyRjZaQ1NqclNTR1hoRWEwYl9qQmc4WTh5Q29TSWROU3ptQ1ZmXy1rajBVczZ1T1A0RXZ0UdIBakFVX3lxTE4tUUs3ak9IVFI3ZEtUQmg5NUpZbWRwdUN5OEFTU2JqaWN4WWJzMVJVc0pLU1U0UzVZTkRKMlRZSUIyNmhPVjVWMzBTVGxocHc2VUdVZl9rRWdUaXVxTjFSdUpzTzFPdEZHdnc?oc=5",
+    "title": "'야구·축구·골프'로 갈라진 국내 OTT...스포츠 팬덤 경쟁 격화",
     "summary": [
-      "축구는 손흥민, 야구는 이정후…대표팀 주장의 품격 중앙일보."
+      "'야구·축구·골프'로 갈라진 국내 OTT...스포츠 팬덤 경쟁 격화 테크M."
     ],
     "chips": [
-      "#손흥민",
       "#KBO"
-    ]
-  },
-  {
-    "id": "nbe3faaa9",
-    "category": "부동산",
-    "source": "한국주택경제신문",
-    "time": "190일 전",
-    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBySlBpV3FLRUFBelkwS3NUZWhrOC1qcGdZTW1obGIyVDV3Z2I5WHlwSGRzUkRCSjllUnpRX2Vld2FRa3VRWU56VEROM19hS3lGUU11VFJPS3RZUThkcTRGR0dEa0p2V0xy?oc=5",
-    "title": "서울 집값 0.22% ↑… \"재건축·역세권이 끌었다“",
-    "summary": [
-      "서울 집값 0.22% ↑… \"재건축·역세권이 끌었다“ 한국주택경제신문."
-    ],
-    "chips": [
-      "#부동산",
-      "#재건축"
     ]
   },
   {
@@ -375,258 +373,263 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n826b5190",
-    "category": "사회",
-    "source": "아시아경제",
-    "time": "방금 전",
-    "url": "https://view.asiae.co.kr/article/2026082121225142846",
-    "title": "WSJ, 美 무기고 고갈에 \"질서유지 능력 있나\"",
-    "summary": [
-      "이란 전쟁 장기화로 미국의 무기 비축량이 빠르게 줄면서 미국이 세계질서를 유지할 군사적 역량을 갖추고 있는지에 대한 우려가 커지고 있다.",
-      "도널드 트럼프 행정부 출범 이후 동맹 방어 의지에 대한 의구심이 이어진 데 이어 이제는 실제 방어 능력까지 도마에 오른 것이다.20일(현지시간) 월스트리트저널(WSJ)은 유럽과 아시아 동맹국 사이에서 미국의 군사적 역량에 대한 불안이 확산하고 있다고 보도했다."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n24347193",
-    "category": "사회",
-    "source": "머니투데이",
-    "time": "1분 전",
-    "url": "https://www.mt.co.kr/thebio/2026/08/21/2026082121152218118",
-    "title": "엘앤케이바이오, 경추용 높이 확장형 케이지 美FDA 추가 승인",
-    "summary": [
-      "척추 임플란트 전문기업 엘앤케이바이오메드는 경추용 높이확장형 케이지(Cage) 'BluEX-C'의 풋프린트(Footprint) 사이즈를 확대해 미국 식품의약국(US FDA, 이하 FDA)으로부터 추가 승인을 획득했다고 21일 밝혔다.",
-      "엘앤케이바이오메드는 지난 7월 FDA에 추가 허가 신청을 완료했으며, 신청 약 한 달 만인 지난 18일(미국 현지시각) 최종 승인을 획득했다.",
-      "통상 의료기기 인허가 과정에서 제품의 변경 및 추가 사이즈에 대한 검토."
-    ],
-    "chips": [
-      "#의료"
-    ]
-  },
-  {
-    "id": "n831b6804",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "3분 전",
-    "url": "https://www.chosun.com/sports/baseball/2026/08/21/MQ4TGYRWHE2GIMBUHBRTENBXMY/",
-    "title": "한화 짐머맨 아닌 봄버맨? 1아웃 잡고 6안타 7득점 폭풍난타 → 1회도 못버텼다…LG 7-0 리드 [대전리포트]",
-    "summary": [
-      "[대전=스포츠조선 김영록 기자] 홈팬들 속터지는 불꽃놀이가 펼쳐졌다.",
-      "한화 이글스 짐머맨이 1회를 채 채우지 못하고 교체됐다.",
-      "21일 대전 한화생명볼파크."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
-    "id": "n4ce40514",
-    "category": "경제",
-    "source": "머니투데이",
-    "time": "3분 전",
-    "url": "https://www.mt.co.kr/world/2026/08/21/2026082120420348456",
-    "title": "독일서 훈련받는 우크라이나 군인 무더기 탈영…누적 6만명 추정",
-    "summary": [
-      "독일에서 군사훈련을 받던 우크라이나 군인들이 무단으로 부대를 이탈하는 사례가 잇따르는 것으로 전해졌다.",
-      "독일 주간지 디 차이트는 작센안할트주 알텐그라보우 훈련장에서 2022년 이후 약 80명이 탈영했으며, 전국적으로는 수백명으로 추정된다고 20일(현지시간) 보도했다.",
-      "이들은 러시아군과 싸우기 위한 훈련을 받으려고 독일에 파견됐으나, 훈련장을 이탈한 뒤 우크라이나 복귀를 피하려 한 것으로 파악됐다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nbc7bd94f",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "3분 전",
-    "url": "https://www.donga.com/news/Inter/article/all/20260821/134522588/1",
-    "title": "이란전 장기화에 흔들린 미국의 힘…“세계질서 지킬 수 있나” 의문 증폭",
-    "summary": [
-      "이란과의 전쟁이 길어지면서 미국의 핵심 미사일 요격체계 비축량이 급감하자, 미국이 유럽·중동·아시아를 아우르는 다중 전선에서 동맹을 방어할 물리적 능력이 있는지를 두고 국제사회 전반에서 회의론이 확산하고 있다.도널드 트럼프 행정부의 불확실한 대외 전략에 더해 군사력의 물리적 한계까지 드러나면서 동맹국들의 안보 불안이 임계점에 달했다는 지적이다.월스트리트저널(WSJ)는 21일(현지시간) 심층 분석을 통해 미국의 대(對)이란 군사작전이 미국의 정밀."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n0bbade01",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "4분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260821178000109",
-    "title": "우크라, 러 애니 '먀샤와 곰' 제작진 제재…\"선전 도구\"",
-    "summary": [
-      "(로마=연합뉴스) 민경락 특파원 = 우크라이나가 러시아의 인기 애니메이션 '마샤와 곰'을 제재 대상으로 지정했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n960cf8b2",
-    "category": "경제",
-    "source": "머니투데이",
-    "time": "4분 전",
-    "url": "https://www.mt.co.kr/society/2026/08/21/2026082121084279430",
-    "title": "\"창문도 없는데 욕조?\" 반발에…국토부, 고시원 욕조 허용 재검토",
-    "summary": [
-      "고시원 내 욕조 설치를 허용하려던 규제 개선안을 국토교통부가 재검토하기로 했다.",
-      "1인 가구의 주거지로서 활용도를 높이겠다는 취지였지만, 거센 반발이 나오면서다.",
-      "국토교통부는 21일 보도참고자료를 통해 \"다중생활시설 건축기준 개정안의 행정예고 과정에서 고시원 이용자, 관련 협회, 언론 보도 등을 통해 욕조 설치 완화 규정에 대한 다양한 의견이 제기됨에 따라 해당 규정을 재검토하겠다\"고 밝혔다."
-    ],
-    "chips": [
-      "#정책"
-    ]
-  },
-  {
-    "id": "nb665a6d3",
-    "category": "스포츠",
-    "source": "머니투데이",
-    "time": "5분 전",
-    "url": "https://www.mt.co.kr/sports/2026/08/21/2026082121152330656",
-    "title": "[한번에쓱]'양현종 이어 6회말 등판해' 추가실점없이 마무리한 이태양",
-    "summary": [
-      "기아 우완투수 이태양이 21일 고척스카이돔에서 열린 2026KBO리그 키움히어로즈와 KIA타이거즈 경기 6회말 1사 1루에서 등판해 추가실점 없이 이닝을 마친 후 자축하고 있다."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
-    "id": "n39b67b6e",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "7분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260821177900099",
-    "title": "민주콩고 에볼라 사망 2천500명 넘어…유엔 \"기하급수적 증가\"",
-    "summary": [
-      "(요하네스버그=연합뉴스) 나확진 특파원 = 콩고민주공화국에서 발병한 에볼라 사망자가 2천500명을 넘어서며 확산세가 지속하고 있다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nf3a708e2",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "9분 전",
-    "url": "https://www.chosun.com/video_photo/2026/08/21/NBPQSNHQ2JFHDBX3ZTPRKLJCWE/",
-    "title": "[더 한장] 파란 하늘 아래 그물 천장… 드론전이 바꾼 우크라이나",
-    "summary": [
-      "[더 한장] 파란 하늘 아래 그물 천장… 드론전이 바꾼 우크라이나."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nf67af612",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "9분 전",
-    "url": "https://www.chosun.com/economy/economy_general/2026/08/21/MVSDSOJSGE4WKOJUG42DKYTFGQ/",
-    "title": "李 대통령, 25일 민주당 신임 지도부 청와대 초청 만찬",
-    "summary": [
-      "이재명 대통령이 오는 25일 더불어민주당 신임 지도부를 청와대로 초청해 만찬을 함께한다.",
-      "강유정 청와대 수석대변인은 21일 저녁 공지를 통해 이같이 밝혔다.",
-      "강 수석대변인은 “이 자리에는 김민석 대표와 한병도 원내대표를 비롯한 최고위원들과 주요 당직자들이 참석한다”고 했다."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "nac3b0694",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "10분 전",
-    "url": "https://www.newsis.com/view/NISX20260821_0003758244",
-    "title": "\"컵라면에 뜨거운 물 금지?\"…日 닛신, '냉수 전용' 컵누들 출시",
-    "summary": [
-      "[서울=뉴시스]이기주 인턴 기자 = 뜨거운 물을 부어 먹는 것이 당연했던 컵라면 시장에 새로운 제품이 등장했다.",
-      "일본 닛신식품이 찬물만으로 조리할 수 있도록 개발한 '차갑게 먹는 컵누들'이다.",
-      "컵누들 55년 역사상 처음으로 뜨거운 물을 사용하지 않는 제품으로, 출시와 동시에 일본에서 화제를 모았다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n9a6fea83",
-    "category": "사회",
-    "source": "아시아경제",
-    "time": "10분 전",
-    "url": "https://view.asiae.co.kr/article/2026082121090085262",
-    "title": "갑자기 경찰서 민원실서 '털썩' 쓰러진 여성…경찰관 6분 CPR이 살렸다",
-    "summary": [
-      "경찰서 민원실을 찾은 민원인이 갑자기 호흡곤란 등 응급 상황에 빠지는 사고가 났으나 경찰의 신속한 대처로 목숨을 구한 사연이 뒤늦게 알려졌다.",
-      "21일 경기남부경찰청에 따르면 지난 6월22일 낮 12시20분께 용인동부경찰서 민원실에서 지인과 함께 방문한 50대 여성 A씨가 갑자기 신음 소리를 내며 바닥에 쓰러졌다.",
-      "당시 교통 민원 부스에서 일하던 김민희 경위는 비명을 듣고 곧바로 달려가 A씨를 바닥에 눕힌 뒤, 상태를 살."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n140a16a7",
+    "id": "n268725eb",
     "category": "부동산",
     "source": "연합뉴스",
-    "time": "12분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260821178100060",
-    "title": "의정부 아파트 옥상서 투신 소동…4시간 넘게 대치 중",
+    "time": "6분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260821180400001",
+    "title": "韓총리, 서울 구청장들과 주택공급 간담회…\"부동산안정에 총력\"",
     "summary": [
-      "(의정부=연합뉴스) 심민규 기자 = 21일 오후 5시 8분께 경기 의정부시 의정부동의 한 아파트 옥상에서 중년 남성이 투신 소동을 벌인다는 신고..."
+      "(서울=연합뉴스) 설승은 기자 = 한성숙 국무총리는 21일 서울 지역 구청장들과 간담회를 하고 주택 공급 확대 및 속도 제고 방안에 대해 논의했..."
     ],
     "chips": [
       "#부동산"
     ]
   },
   {
-    "id": "n75830512",
-    "category": "경제",
-    "source": "아시아경제",
-    "time": "14분 전",
-    "url": "https://view.asiae.co.kr/article/2026082121094504534",
-    "title": "토요일 오전까지 비…낮 최고 34도 '찜통더위'",
-    "summary": [
-      "토요일인 22일은 전날부터 내리던 비가 오전까지 이어지고 전국 곳곳에 소나기가 내리겠다.",
-      "비가 그친 뒤에도 낮 최고기온이 34도까지 오르는 등 무더위가 이어질 전망이다.21일 기상청에 따르면 22일 오전부터 전남권과 경남 서부 내륙, 제주도에서 소나기가 내리기 시작해 낮부터 중부지방과 그 밖의 남부지방으로 확대되겠다.",
-      "소나기는 남부지방에서 늦은 오후, 중부지방에서는 저녁 무렵 대부분 그치겠다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nceb308ba",
-    "category": "사회",
+    "id": "n7e623cab",
+    "category": "스포츠",
     "source": "조선일보",
-    "time": "16분 전",
-    "url": "https://www.chosun.com/national/court_law/2026/08/21/PAA3DXMYBFFQRBPMXBL5VLQYEI/",
-    "title": "변협, ‘통일교 1억원 수수’ 징역 2년 확정된 권성동 변호사 등록 취소",
+    "time": "6분 전",
+    "url": "https://www.chosun.com/sports/baseball/2026/08/21/MY4DONJTMY3WIZLEHEZWIMZZMI/",
+    "title": "'1회도 못채웠네' 6억 외인이 망친 경기, 3200만원 권민규가 책임졌다. 눈물겨운 84구 투혼…6연패 한화 '눈사태' 막았다 [대전피플]",
     "summary": [
-      "변협, ‘통일교 1억원 수수’ 징역 2년 확정된 권성동 변호사 등록 취소."
+      "[대전=스포츠조선 김영록 기자] 7억짜리 외국인 투수는 경기 시작과 함께 난타당했다.",
+      "그 공백을 3200만원짜리 신예 투수가 억지로 메웠다.",
+      "더 큰 피해를 막은 투혼이었다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n69afe379",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "16분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260821177100109",
-    "title": "멜로니 \"트럼프와 일이 쉬울 거라 생각…상황 다르게 흘러가\"",
+    "id": "n2ac98163",
+    "category": "부동산",
+    "source": "머니투데이",
+    "time": "8분 전",
+    "url": "https://www.mt.co.kr/society/2026/08/21/2026082122121157832",
+    "title": "\"경찰입니다\" 새벽 오피스텔 침입…20대 집단폭행·금품 강탈한 6인조",
     "summary": [
-      "(로마=연합뉴스) 민경락 특파원 = 조르자 멜로니 이탈리아 총리는 \"도널드 트럼프 미국 대통령과 일이 쉬울 것이라고 생각했지만 상황은 다르게 흘..."
+      "경찰을 사칭해 새벽 시간 오피스텔에 침입한 뒤 20대 거주자를 집단 폭행하고 금품을 빼앗아 달아난 일당이 붙잡혔다.",
+      "21일 뉴스1에 따르면 대전서부경찰서는 강도상해 혐의로 30대 A씨 등 6명을 구속 송치했다고 밝혔다.",
+      "A씨 등은 지난달 10일 오전 2시쯤 대전 서구 만년동의 한 오피스텔에 침입해 20대 B씨를 집단 폭행하고 현금과 컴퓨터 등을 빼앗아 달아난 혐의를 받고 있다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nc768ce5d",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "8분 전",
+    "url": "https://www.donga.com/news/Society/article/all/20260821/134522932/1",
+    "title": "“한국에선 별미인데”…콩나물밥, 해외서 ‘최악의 한국 쌀요리’ 1위",
+    "summary": [
+      "한국인에게 익숙한 콩나물밥이 해외 음식 평가 플랫폼 이용자들로부터 가장 낮은 평가를 받은 한국 쌀요리로 꼽혔다.",
+      "누드김밥, 충무김밥, 백설기, 인절미 등도 낮은 평가를 받은 음식에 이름을 올렸다.지난 16일(현지 시간) 테이스트아틀라스에 따르면 ‘평점이 가장 낮은 한국 쌀요리 11선’에서 콩나물밥이 5점 만점에 2.4점을 기록해 1위에 올랐다.",
+      "해당 순위는 테이스트아틀라스 이용자들의 평가를 바탕으로 집계됐다.콩나물밥은 쌀과 콩나물을 함께 넣어."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nc609562c",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "10분 전",
+    "url": "https://www.chosun.com/entertainments/broadcast/2026/08/21/MIYDONRXGEYDAYZRMQYTGNRZMQ/",
+    "title": "‘뇌섹남’ 하석진도 세월 못 피했네…40대에 노안+탈모왔다 ('전현무계획4')",
+    "summary": [
+      "<방송 시청 후 작성된 리뷰 기사입니다.>[OSEN=김수형 기자] 배우 하석진이 40대에 접어들며 체감하고 있는 신체 변화를 솔직하게 털어놨다.21일 방송된 MBN·채널S ‘전현무계획4’에서는 전현무와 곽튜브가 경기도 양주로 먹방 여행을 떠난 가운데 배우 하석진과 민진웅이 ‘먹친구’로 합류했다.이날 식사를 이어가던 중 뜻밖의 ‘중년 토크’가 시작됐다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n160ae9bb",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "11분 전",
+    "url": "https://www.newsis.com/view/NISX20260821_0003758268",
+    "title": "유재훈 전 금융위 국장, 공윤위 통과…내달 보험개발원장 취임",
+    "summary": [
+      "[서울=뉴시스]권안나 기자 = 차기 보험개발원장으로 내정된 유재훈 전 금융위원회 국장이 정부공직자윤리위원회(공윤위) 심사 관문을 넘어서면서 차기 보험개발원장에 취임한다.",
+      "21일 보험업계에 따르면 유 전 국장은 이날 공윤위 취업 심사를 통과했다.",
+      "앞서 지난달 보험개발원 원장후보추천위원회는 유 전 국장을 제14대 원장 단독 후보로 추천했다."
+    ],
+    "chips": [
+      "#취업",
+      "#교육"
+    ]
+  },
+  {
+    "id": "nb08436a6",
+    "category": "경제",
+    "source": "머니투데이",
+    "time": "12분 전",
+    "url": "https://www.mt.co.kr/living/2026/08/21/2026082122225061559",
+    "title": "찰스앤키스, 김유정과 그려낸 FW26 균형의 미학",
+    "summary": [
+      "부드러움과 강인함 공존, 가을 컬러·텍스처로 현대적 여성성 표현 글로벌 패션 브랜드 찰스앤키스가 브랜드 앰버서더 배우 김유정과 함께한 FW26 캠페인의 새로운 챕터를 공개했다.",
+      "이번 캠페인은 부드러움과 강인함, 역동성과 안정감이 공존하는 균형을 중심으로 전개된다.",
+      "김유정은 시네마틱한 이미지와 다채로운 스타일링을 통해 FW26 컬렉션이 지닌 여러 분위기를 표현했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nb1b896df",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "13분 전",
+    "url": "https://www.newsis.com/view/NISX20260821_0003758265",
+    "title": "국힘 윤리위원, 쿠팡 겸직 논란…한동훈 \"張 입맛대로 징계, 쿠팡 눈치도 봐야 하나\"",
+    "summary": [
+      "[서울=뉴시스]김지훈 기자 = 국민의힘 중앙윤리위원회 윤리위원 중 한 명이 쿠팡 사내 변호사를 겸직하고 있었던 사실이 21일 알려졌다.",
+      "해당 변호사는 사규 위반 논란이 일자 쿠팡에 사직 의사를 밝힌 것으로 전해졌다.",
+      "국민의힘 관계자 등에 따르면 쿠팡 사내 변호사였던 A 변호사는 지난달 윤리위원들의 잇따른 사퇴로 빈자리가 생기면서 보강된 윤리위원 2명 중 한 명이다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n780735c0",
+    "category": "IT",
+    "source": "머니투데이",
+    "time": "14분 전",
+    "url": "https://www.mt.co.kr/living/2026/08/21/2026082122212430143",
+    "title": "오니츠카타이거, 양가죽·스웨이드 조합 트라이리나 선봬",
+    "summary": [
+      "발레 슈즈서 영감 받은 로우컷 디자인, 슬림한 솔로 가벼운 실루엣 완성 프리미엄 패션 브랜드 오니츠카타이거가 서로 다른 소재의 조화와 가벼운 실루엣을 강조한 새로운 모델 트라이리나(TRAIRINA™)를 선보였다.",
+      "트라이리나는 양가죽과 스웨이드를 조합한 어퍼에 발레 슈즈에서 영감을 받은 낮은 톱라인과 슬림한 솔을 적용했다.",
+      "매끄러운 양가죽과 부드러운 스웨이드의 질감 차이를 활용해 미니멀한 디자인에 입체감을 더했다."
+    ],
+    "chips": [
+      "#AI"
+    ]
+  },
+  {
+    "id": "n3e85d7b1",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "15분 전",
+    "url": "https://www.newsis.com/view/NISX20260821_0003758243",
+    "title": "\"한·중 청년 더욱 소통해야\"…베이징서 '한·중 우호의 밤' 열려",
+    "summary": [
+      "[베이징=뉴시스]박정규 특파원 = 한·중 수교 34주년을 맞아 중국 베이징에서 한국에서 유학한 중국인들이 모인 가운데 '2026 한·중 우호의 밤' 행사가 열렸다.",
+      "노재헌 주중국대사는 양국 청년들의 활발한 소통을 당부했다.",
+      "주중대사관은 21일 오후 베이징 차오양구 포시즌스호텔에서 한국에서 유학한 경험이 있는 중국인 300여명을 초청해 한·중 우호의 밤을 개최했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "ne69cffe2",
+    "category": "경제",
+    "source": "머니투데이",
+    "time": "15분 전",
+    "url": "https://www.mt.co.kr/living/2026/08/21/2026082122192249496",
+    "title": "마크곤잘레스, 90년대 감성 입힌 FW 컬렉션 공개",
+    "summary": [
+      "놀이터 콘셉트로 자유분방한 스타일 제안, 워크재킷·경량다운 강화 더네이쳐홀딩스(대표이사 박영준)가 전개하는 스트리트 캐주얼 브랜드 마크곤잘레스가 2026년 FW 캠페인 MAKE ANYWHERE A PLAYGROUND를 공개하고 새로운 컬렉션을 선보인다.",
+      "이번 캠페인은 어린 시절 놀이터와 학교, 방과 후 동네에서 뛰놀던 자유로운 감각을 현대적으로 재해석했다.",
+      "빛바랜 놀이터 철봉과 모래, 낙서가 남은 벽면 등에 두들 드로잉과 그래픽, 스케이트 문화."
+    ],
+    "chips": [
+      "#교육"
+    ]
+  },
+  {
+    "id": "n924fdf37",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "24분 전",
+    "url": "https://www.donga.com/news/Politics/article/all/20260821/134522802/2",
+    "title": "李 “노웅래 선배님 죄송합니다”…항소심 무죄에 2년전 공천 배제 사과",
+    "summary": [
+      "이재명 대통령이 21일 노웅래 전 더불어민주당 의원의 항소심 무죄 선고에 대해 “아픔과 회한 속에 그나마 무고함을 증명받고 영어(囹圄)의 위험을 벗어난 노 선배님께 축하 말씀과 함께 뒤늦은 사죄 말씀을 드린다”고 밝혔다.",
+      "이 대통령은 이날 자신의 엑스(X·옛 트위터)를 통해 “노웅래 전 국회의원님이 1심에 이어 항소심 무죄판결을 선고받으셨다”며 이같이 적었다.",
+      "앞서 노 전 의원은 2020년 2월부터 12월까지 각종 사업 편의 제공과 공무원 인허."
     ],
     "chips": [
       "#정치"
+    ]
+  },
+  {
+    "id": "ne147d3b1",
+    "category": "스포츠",
+    "source": "연합뉴스",
+    "time": "26분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260821179400007",
+    "title": "[프로야구 고척전적] KIA 11-1 키움",
+    "summary": [
+      "[프로야구 고척전적] KIA 11-1 키움."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
+    "id": "nf18907fc",
+    "category": "스포츠",
+    "source": "연합뉴스",
+    "time": "27분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260821179300007",
+    "title": "프로야구 3위 KIA, 키움 완파하고 6연승…2위 삼성과 3.5경기 차",
+    "summary": [
+      "(서울=연합뉴스) 김경윤 기자 = 프로야구 KIA 타이거즈가 역대 두 번째 13시즌 연속 100이닝 투구를 달성한 베테랑 양현종의 호투와 쐐기 ..."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
+    "id": "n5a87d900",
+    "category": "부동산",
+    "source": "뉴시스",
+    "time": "27분 전",
+    "url": "https://www.newsis.com/view/NISX20260821_0003758257",
+    "title": "韓총리 \"정부, 주거안정 강한 의지…속도감 있는 공급 사업, 구청 관심 중요\"(종합)",
+    "summary": [
+      "[서울=뉴시스]이인준 기자 = 한성숙 국무총리는 21일 서울 주택 공급과 관련 \"2022년부터 이어진 착공 물량 감소로 인한 공급 부족이 지금부터라도 해결되도록 가능한 모든 수단과 역량을 활용해서 신속히 주택을 공급하는 데 집중하겠다\"고 말했다.",
+      "한 총리는 이날 저녁 서울 삼청동 총리공관에서 서울 구청장 간담회를 열어 \"정부는 국민들의 주거 안정을 위해서 주택 신속공급 대책을 신속하게 시행하겠다는 강한 의지를 가지고 있는 상황\"이라며 이같이 말."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nca4943a0",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "34분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260821176900005",
+    "title": "전유성 잃은 슬픔마저 웃음으로 승화한다…제14회 부코페 개막",
+    "summary": [
+      "(부산=연합뉴스) 고가혜 기자 = 아시아 최대 코미디 축제인 부산국제코미디페스티벌(이하 '부코페')이 웃음과 감동이 교차하는 개막무대와 함께 1..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n63117c68",
+    "category": "부동산",
+    "source": "동아일보",
+    "time": "34분 전",
+    "url": "https://www.donga.com/news/Society/article/all/20260821/134522796/1",
+    "title": "의정부 오피스텔 옥상서 투신 시도 소동…노상방뇨 범칙금 불만",
+    "summary": [
+      "노상방뇨로 범칙금을 부과받은 데 불만을 품은 남성이 오피스텔 19층 옥상 난간에 올라가 경찰이 설득 작업을 벌이고 있다.21일 경찰에 따르면 이날 오후 5시쯤 경기 의정부시 의정부동의 한 오피스텔 옥상에서 주취 상태인 남성이 난간에 걸터앉아 뛰어내리겠다며 112에 신고했다.이 남성은 이날 오전 5시쯤 노상방뇨로 경범죄처벌법 위반 범칙금을 부과받은 데 불만을 품고 이 같은 행동을 한 것으로 파악됐다.남성은 이날 뚜렷한 신고 내용 없이 해당 신고를."
+    ],
+    "chips": [
+      "#뉴스"
     ]
   }
 ];
@@ -636,14 +639,14 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2070건",
-    "trend": "+215%"
+    "mentions": "2200건",
+    "trend": "+235%"
   },
   {
     "rank": 2,
     "tag": "AI",
-    "mentions": "1550건",
-    "trend": "+135%"
+    "mentions": "1680건",
+    "trend": "+155%"
   },
   {
     "rank": 3,
