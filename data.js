@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-08-21 08:26:27
+// 마지막 업데이트: 2026-08-21 09:25:40
 window.NEWS_DB = [
   {
     "id": "nd9e5e761",
     "category": "IT",
     "source": "자본시장뉴스",
-    "time": "5시간 전",
+    "time": "6시간 전",
     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1QYUdZQnA5Y2lNeXFNdXhhRFh4bE0zSTV0QWNZSXNZRWs0VXZtYnRxMjhmX0R4ekQtbDJIUTNuN01LM3EtMlI1blRxNU0yZzFkbEdEbFhnRVp0eDMtdDB1aGwyRGFWUnM?oc=5",
     "title": "[반도체 패권 지도 ④] HBM 79% 쥔 한국…파운드리는 7%에 묶여 있다",
     "summary": [
@@ -19,7 +19,7 @@ window.NEWS_DB = [
     "id": "n9483c30e",
     "category": "IT",
     "source": "Chosunbiz",
-    "time": "8시간 전",
+    "time": "9시간 전",
     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNUGwtV0pYMm01YXQzbUY1VFI0RjF5cU9fclpPQU9yVE0yWDJ2UUo1Z0NGcWxXS1Q0QVZtSkVBTllCb0dZWVVfelY0RlI2MDhOTG12Z0ozSW1KTU9Nb2k3YWYtMFVVdTZsanQ1cWo4VHlQWklQTXk0U185TXRoSG9xVGZnTXNjMThzVk96Q1FrYlVZa1NTSXB4NGgtS0U5Z9IBsgFBVV95cUxORW5RWEpXdzZVajFnbVExRG5VOEZsMGE5ZXQtSDluZW1oaUlJLWNfVF82eHlvR0h1cmdYLTVPSGhyd3o4aHZ2dEdWVEF3SGdRNXdFbkI0R01obE4xSl9Uak1kcElKY0wtWFR1VUtJVlJibW5sRm10ZXlOUEZoNGdiUUs5dHRoZHRwRmdfOUhLUGVRU2hQZHQ5NEtMVm9HM2lGX2pVZ2ZPd3R1c0JFSFNGaUtn?oc=5",
     "title": "엔비디아 “中 맞춤형 AI칩 출시 계획? 전혀 없다” - 조선비즈",
     "summary": [
@@ -34,7 +34,7 @@ window.NEWS_DB = [
     "id": "ned9b1714",
     "category": "IT",
     "source": "뉴시스",
-    "time": "9시간 전",
+    "time": "10시간 전",
     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5vQ29yNXlxV1NXbnJwMzdNWUd4OUtqVThRdGxkZkd2eTM0MjEyMms2Tk8xWUljc2tnU04zdEY5OURuVjB6SE5FUWFwR0I0QzdEWmhkRHR4Vy1CQ1VrdUR4SGJYTFFoN01UMXBzdkdGbmVEdEZVTTdHUNIBeEFVX3lxTE5vQ29yNXlxV1NXbnJwMzdNWUd4OUtqVThRdGxkZkd2eTM0MjEyMms2Tk8xWUljc2tnU04zdEY5OURuVjB6SE5FUWFwR0I0QzdEWmhkRHR4Vy1CQ1VrdUR4SGJYTFFoN01UMXBzdkdGbmVEdEZVTTdHUA?oc=5",
     "title": "엔비디아 '中 맞춤형 AI칩 출시설' 부인…\"계획 전혀 없다\"",
     "summary": [
@@ -49,7 +49,7 @@ window.NEWS_DB = [
     "id": "nc0a6ce8c",
     "category": "IT",
     "source": "연합뉴스",
-    "time": "9시간 전",
+    "time": "10시간 전",
     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9YUU41ZWlxU2ZhYWNONDlDUks2MzJsVzNxTmxfbkRXdFpUNXRndkFVTlcyemVSVUd3TENIaFc3bjZacURwTmc3c3MxbHVYR0I1MXhJaFUyYVlpb1Rra0o5ZtIBYEFVX3lxTE9YUU41ZWlxU2ZhYWNONDlDUks2MzJsVzNxTmxfbkRXdFpUNXRndkFVTlcyemVSVUd3TENIaFc3bjZacURwTmc3c3MxbHVYR0I1MXhJaFUyYVlpb1Rra0o5Zg?oc=5",
     "title": "엔비디아가 中 맞춤형 AI칩 출시(?)…회사 \"전혀 계획 없다\"",
     "summary": [
@@ -64,7 +64,7 @@ window.NEWS_DB = [
     "id": "n6f9d632c",
     "category": "IT",
     "source": "Counterpoint Research",
-    "time": "23시간 전",
+    "time": "1일 전",
     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNWldFd0pOdDliUnJ6TDJUV2FTaGE1RndLODFNdVNleVoyNFVMdnRlQkEtODNMSDRQZDJCWjlab29yZ21sSldSU1BJWnFSc2QzRlZzOXMwY1ZqYkwxOWN4VkJVQ0FKRl8tRGg0TG1jYWZpeDIzVllxREtMZDhYbnZWTmVRNGhMQVB1WjJSdUl3?oc=5",
     "title": "인텔은 메모리 넘본다…삼성은 파운드리 반격",
     "summary": [
@@ -78,7 +78,7 @@ window.NEWS_DB = [
     "id": "nd000c55e",
     "category": "IT",
     "source": "데이터넷",
-    "time": "23시간 전",
+    "time": "1일 전",
     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE11QUd4NkhZaDRidFpDRHoyWnFPeURfYVpIMjRZc1pjSmdiTDBiYmVZbnpCQkJxd0ZJaUdMeW5DWVhaTlVmOW53X3BuVTh4bGtYVWM4OUd3a1RtdFdtNm5xSVZMakxxb1lsUnNONA?oc=5",
     "title": "“인텔은 메모리 넘보고, 삼성은 파운드리 반격”",
     "summary": [
@@ -310,6 +310,55 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "ne8075ae3",
+    "category": "IT",
+    "source": "테크M",
+    "time": "방금 전",
+    "url": "https://www.techm.kr/news/articleView.html?idxno=154516",
+    "title": "AI로 취약점 찾았더니 AI도 지켜야...모델·에이전트까지 방어 대상에",
+    "summary": [
+      "공격자들이 AI를 악성코드 제작과 침투에 활용하면서 AI 프레임워크까지 공격 대상으로 삼고 있다.",
+      "AI를 방어에 활용하는 보안업계도 모델과 에이전트, 플러그인까지 보호해야 하는 상황을 맞았다.21일 보안업계에 따르면 구글 클라우드 맨디언트는 최근 소스코드 취약점을 AI 에이전트가 자동으로 찾는 '에이전트 기반 취약점 탐지 하네스(AVDH)' 아키텍처를 공개했다.",
+      "여러 AI 에이전트가 소스코드를 나눠 분석하고 취약 가능성을 검증하는 방식이다."
+    ],
+    "chips": [
+      "#AI"
+    ]
+  },
+  {
+    "id": "n878152e1",
+    "category": "IT",
+    "source": "테크M",
+    "time": "방금 전",
+    "url": "https://www.techm.kr/news/articleView.html?idxno=154517",
+    "title": "[카드뉴스] 5000만 카톡을 'AI 플랫폼'으로.. 카카오가 두 개의 엔진을 만든 이유는?",
+    "summary": [
+      "카카오가 AI 시대를 맞아 회사의 성장 구조를 다시 짭니다.",
+      "카카오톡과 AI·광고·커머스를 한데 모은 ‘카카오AI’를 신설하고, 기존 계열사 관리와 투자는 ‘카카오X’에 맡기는 방식입니다.",
+      "핵심은 5000만명이 사용하는 카카오톡을 단순한 메신저가 아닌 일상 속 AI 에이전트의 입구로 바꾸는 것인데요."
+    ],
+    "chips": [
+      "#AI",
+      "#카카오"
+    ]
+  },
+  {
+    "id": "n6c2aed7e",
+    "category": "경제",
+    "source": "테크M",
+    "time": "방금 전",
+    "url": "https://www.techm.kr/news/articleView.html?idxno=154518",
+    "title": "삼성전자, 2026년 110조원 주주환원...올 3분기 30조원 현금배당",
+    "summary": [
+      "삼성전자가 역대 최대 주주환원 방안을 내놨다.",
+      "올 3분기 배당만 30조원 내외를 책정했다.",
+      "나머지는 내년 1월 배당과 자기주식(자사주) 매입/소각 등 사용처를 결정한다.21일 삼성전자는 이사회를 열고 '2026년 주주환원 시행 방안'을 의결했다고 밝혔다.최소 90조원 최대 110조원 규모다."
+    ],
+    "chips": [
+      "#삼성전자"
+    ]
+  },
+  {
     "id": "ne2da1380",
     "category": "IT",
     "source": "테크M",
@@ -326,48 +375,16 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n15905408",
+    "id": "n266e2002",
     "category": "IT",
-    "source": "테크M",
-    "time": "방금 전",
-    "url": "https://www.techm.kr/news/articleView.html?idxno=154515",
-    "title": "'책임경영' 강화한 방준혁, 텐센트 보유한 넷마블 지분 13.4% 추가 취득",
+    "source": "동아일보",
+    "time": "1분 전",
+    "url": "https://www.donga.com/news/Economy/article/all/20260821/134521627/1",
+    "title": "카카오, 둘로 나뉜다…톡은 카카오AI, 미래투자는 카카오X로 인적분할",
     "summary": [
-      "방준혁 넷마블·코웨이 이사회 의장이 책임경영을 강화한다.",
-      "텐센트가 보유한 넷마블 지분 13.4%를 3740억원에 추가 취득했다.",
-      "넷마블은 방준혁 의장이 텐센트 계열사 Han River Investment가 보유한 넷마블 지분 18.1% 가운데 13.4%를 3740억원에 인수하기로 했다고 21일 공시했다.텐센트가 보유 지분 일부를 처분하는 과정에서 최대주주인 방준혁 의장이 해당 지분을 직접 인수하는 방식으로 진행된다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "ne060b9c7",
-    "category": "IT",
-    "source": "테크M",
-    "time": "방금 전",
-    "url": "https://www.techm.kr/news/articleView.html?idxno=154513",
-    "title": "사람 계정도 버거운데 AI까지...SK쉴더스, 보안 전선 넓힌다",
-    "summary": [
-      "랜섬웨어 공격이 기업의 취약점을 파고들고 있다.",
-      "올해 상반기 전 세계 랜섬웨어 피해는 4744건으로 집계됐고 2분기 피해는 전년 동기보다 48% 늘었다.",
-      "AI 에이전트까지 기업 시스템과 데이터에 접근하기 시작하면서 권한 설정 문제도 과제로 떠올랐다.21일 SK쉴더스가 발간한 '카라 랜섬웨어 동향 보고서'에 따르면 가상사설망(VPN)이나 업무 플랫폼, 관리 시스템의 취약점을 이용하거나 탈취한 계정으로 기업 내부에 침투하는 사례가 늘고 있다."
-    ],
-    "chips": [
-      "#AI"
-    ]
-  },
-  {
-    "id": "n234e6154",
-    "category": "IT",
-    "source": "테크M",
-    "time": "방금 전",
-    "url": "https://www.techm.kr/news/articleView.html?idxno=154512",
-    "title": "[카카오, 둘로 다시 뛴다] \"17조 카카오, 나눠서 34조 가치 되찾는다\"....'인적분할'로 기업가치 재고 승부수(종합)",
-    "summary": [
-      "기업가치 17조원 규모의 카카오가 '카카오AI'와 '카카오X'로 나눠진다.",
-      "회사 측은 34조원 수준의 평가를 받아야 하는 기업이 합쳐져 있기 때문에 저평가 받고 있다고 토로하며 인적분할이라는 카드를 꺼내 들었다.",
-      "인적분할로 각 개별의 서비스가 지닌 가치를 제고하고 경영상 의사결정 효율성을 확보해 기업가치를 제대로 평가받겠다는 전략이다.21일 카카오는 이사회를 열고 '카카오AI'와 '카카오X'의 인적분할을 결의했다고 밝혔다."
+      "카카오가 카카오톡 기반 인공지능(AI) 사업을 맡는 ‘카카오AI’와 미래 투자를 전담할 ‘카카오X’로 나뉜다.",
+      "사업 분리를 통해 의사결정 속도를 높여 기업가치를 끌어올리겠다는 전략이다.카카오는 이사회를 열고 신설법인 카카오 AI와 존속법인 카카오X로의 인적분할을 결의했다고 21일 밝혔다.",
+      "분할비율은 순자산 장부가액 기준 카카오AI 0.36, 카카오X 0.64로, 기존 주주는 분할비율에 따라 두 회사 주식을 모두 배정받는다.카카오는 사업 규모가."
     ],
     "chips": [
       "#AI",
@@ -375,261 +392,250 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nc93c9ce4",
+    "id": "nc9fde13d",
     "category": "사회",
     "source": "뉴시스",
-    "time": "2분 전",
-    "url": "https://www.newsis.com/view/NISX20260821_0003758051",
-    "title": "\"관광객은 시장으로, 직원은 가정으로\"…평창군 변화 주목",
+    "time": "3분 전",
+    "url": "https://www.newsis.com/view/NISX20260821_0003758146",
+    "title": "KTX 타고 풍기인삼축제 간다…영주시의원·코레일, 방안 논의",
     "summary": [
-      "[평창=뉴시스]이덕화 기자 = 강원 평창군시설관리공단이 지역 관광과 전통시장을 잇는 현장 홍보부터 직원들의 근무 편의를 높이는 유연근무를 잇달아 선보이며 조직 안팎의 변화를 꾀하고 있다.",
-      "평창군시설관리공단은 최근 '2026 별별상상 평창로드마켓-메밀로드마켓'과 연계한 관광 홍보부스를 운영한 데 이어 24일부터 '평창형 금요 시간적금제'를 시범 적용한다고 21일 밝혔다.",
-      "관광문화재단·전통시장상인회 등과 손잡고 평창읍 전통시장 아케이드 일원에 체험."
+      "[영주=뉴시스] 김진호 기자 = 올가을 열리는 '경북영주 풍기인삼축제'에 전국 관광객을 유치하기 위한 철도 연계 움직임이 본격화되고 있다.",
+      "최선희·김명정·최종찬 영주시의원은 21일 한국철도공사(코레일) 경북본부를 찾아 KTX·SRT 통합에 따른 영주지역 철도교통 확대와 관광 활성화 방안을 논의했다.",
+      "이번 논의의 핵심은 풍기역을 지역 관광 관문으로 육성하는 것이다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n4363bd89",
+    "id": "ndd52347c",
+    "category": "스포츠",
+    "source": "동아일보",
+    "time": "3분 전",
+    "url": "https://www.donga.com/news/Sports/article/all/20260821/134521624/1",
+    "title": "‘8위 추락’ 한화, 10승 투수 왕옌청마저 폐렴으로 입원",
+    "summary": [
+      "최근 6연패 부진에 빠지며 8위로 추락한 프로야구 한화 이글스에 또 하나의 악재가 닥쳤다.",
+      "아시아쿼터 투수 왕옌청이 폐렴으로 입원했다.한화는 21일 대전 한화생명볼파크에서 열리는 LG 트윈스와 경기를 앞두고 왕옌청을 말소하고 투수 이형범을 콜업했다.한화 관계자는 “왕옌청이 오늘 오전 감기몸살 증세로 병원 진료를 받았는데, 폐렴 진단이 나와 입원했다”며 “호전 후 퇴원 예정”이라고 밝혔다.",
+      "현재로선 선발 로테이션을 한 차례 거른 뒤 복귀할 것으로."
+    ],
+    "chips": [
+      "#KBO",
+      "#의료"
+    ]
+  },
+  {
+    "id": "n58890781",
+    "category": "스포츠",
+    "source": "동아일보",
+    "time": "3분 전",
+    "url": "https://www.donga.com/news/Sports/article/all/20260821/134521620/1",
+    "title": "‘시즌 첫 3위’ KIA 이범호 감독 “AG 변수 있기에 끝까지 알 수 없어”",
+    "summary": [
+      "“신경 안 써요.”시즌 개막 후 처음으로 3위에 올랐지만, KIA 타이거즈 이범호 감독의 표정은 덤덤했다.",
+      "그는 “아직 35경기나 남았고, 올 시즌엔 아시안게임이라는 특수한 상황까지 있기 때문에 끝까지 알 수 없다”고 했다.KIA는 21일 서울 고척 스카이돔에서 열리는 2026 신한 SOL KBO리그 키움 히어로즈와의 원정 경기를 치른다.KIA는 최근 5연승의 상승세를 타고 있다.",
+      "전날(20일) 한화전 승리로 LG 트윈스를 승차 없이 승률 1리."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
+    "id": "n2f903351",
     "category": "사회",
     "source": "뉴시스",
-    "time": "3분 전",
-    "url": "https://www.newsis.com/view/NISX20260821_0003758078",
-    "title": "NH투자증권 \"초장기 연금투자 본질 봐야…TDF 재조명할 때\"",
-    "summary": [
-      "[서울=뉴시스] 박주연 기자 = NH투자증권 100세시대연구소가 초장기 투자라는 연금의 본질에 주목해야 한다며 타깃데이트펀드(TDF)의 기능을 재조명할 필요가 있다고 제언했다.",
-      "100세시대연구소는 21일 이 같은 내용을 담은 'THE100리포트' 131호를 발간했다.",
-      "연구소에 따르면 국내 퇴직연금 적립금은 500조원을 넘어섰고, 실적배당형 상품의 비중도 30%를 웃돌며 투자 성향이 적극적으로 변화하고 있다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n1a01d5e6",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "3분 전",
-    "url": "https://www.newsis.com/view/NISX20260821_0003758071",
-    "title": "최평규 SNT 회장, 창원대 명예공학박사 학위…과학기술 인재 양성",
-    "summary": [
-      "[창원=뉴시스]강경국 기자 = 최평규 SNT그룹 회장이 기계공학 분야 기술혁신과 국가 기간산업 발전, 과학기술 인재 양성 등에 기여한 공로로 국립창원대학교 명예공학박사 학위를 받았다.",
-      "국립창원대학교는 21일 열린 통합 학위수여식에서 최 회장에게 명예공학박사 학위를 수여했다.",
-      "최 회장은 1979년 삼영열기계공업사를 창업한 이후 발전설비와 방위산업, 자동차부품산업 분야에서 핵심기술 국산화와 해외시장 개척을 이끌며 국내 기간산업 발전에 기여한 공로를."
-    ],
-    "chips": [
-      "#교육"
-    ]
-  },
-  {
-    "id": "n8371c5e4",
-    "category": "사회",
-    "source": "아시아경제",
-    "time": "3분 전",
-    "url": "https://view.asiae.co.kr/article/2026082111492791601",
-    "title": "헌법이 비워둔 '권한의 경계', 초유의 대법관 제청 갈등…李의 선택은?",
-    "summary": [
-      "이재명 정부 첫 대법관 인사가 대법관 후보자의 적격성 문제를 넘어 이 대통령과 조희대 대법원장의 헌법상 권한을 둘러싼 논란으로 번지고 있다.",
-      "조 대법원장이 청와대와 최종 합의에 이르지 않은 채 손봉기 대구지법 부장판사를 제청하자 청와대는 손 후보자의 제청을 반려하는 방안까지 들여다보고 있다.",
-      "조 대법원장의 '합의 없는 제청'을 받아들일지, 대통령의 '제청 거부'라는 새로운 선례를 만들지 청와대의 선택에 이목이."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "nc870a5cc",
-    "category": "부동산",
-    "source": "아시아경제",
-    "time": "3분 전",
-    "url": "https://view.asiae.co.kr/article/2026082117224632968",
-    "title": "[르포]사립초까지 도보 단 2분…'가성비 초학세권' 쌍용 더플래티넘 서대문' 가보니",
-    "summary": [
-      "\"전용59㎡(20평대) 분양가가 10억원이라 저렴하게 느껴져요.",
-      "2030년 준공되면 서울 내 타 신축 단지 대비 가격 메리트가 확실할 듯합니다\"(서울 은평구 거주 30대 A씨) 쌍용건설이 가로주택정비사업을 통해 처음으로 선보이는 '쌍용 더플래티넘 서대문'이 견본주택을 개관하고 본격 분양 채비에 나섰다.",
-      "국민평형 84㎡ 분양가가 서울 신축 시세보다 낮은 13억원대에 책정되면서, 소규모 단지에도 불구하고 청약시장의 이목이 집중되."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "na42e4ef9",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "3분 전",
-    "url": "https://www.newsis.com/view/NISX20260821_0003758065",
-    "title": "김재준 군산시장, 국회 방문…\"내년 국비 7조6232억 총력\"",
-    "summary": [
-      "[군산=뉴시스]고석중 기자 = 전북 군산시가 현대자동차그룹의 대규모 투자를 기점으로 미래 첨단산업 거점 도약을 위해 2027년도 국가예산 확보에 나섰다.",
-      "21일 군산시장은 국회를 방문해 한병도 더불어민주당 원내대표, 이광재 예산결산특별위원장, 서삼석 농림축산식품해양수산위원장, 이재정 문화체육관광위원장, 고용진 국회사무총장 등 국회 예산 심의를 주도하는 핵심 인사들과 잇달아 면담했다.",
-      "또한 김의겸·박지원 지역구 의원과 이소영 기후에너지환경노동위원."
-    ],
-    "chips": [
-      "#고용",
-      "#정치",
-      "#환경"
-    ]
-  },
-  {
-    "id": "ncbc2127f",
-    "category": "경제",
-    "source": "아시아경제",
     "time": "4분 전",
-    "url": "https://view.asiae.co.kr/article/2026082117220712305",
-    "title": "새울원자력본부, 지역 학생 637명에 장학금 6억1300만원 지원",
+    "url": "https://www.newsis.com/view/NISX20260821_0003758143",
+    "title": "[경남소식]밀양 예림초 학교복합시설 교육부 공모 선정 등",
     "summary": [
-      "한국수력원자력 새울원자력본부(본부장 김상우)가 발전소 주변지역 학생 637명에게 총 6억 1300만원의 장학금을 전달하며 지역 인재 양성에 힘을 보탰다.",
-      "올해 지원 대상은 발전소 주변지역에 거주하는 대학생과 고등학생 총 637명이다.",
-      "지원 규모는 6억 1300만원으로, 수여식에는 장학생 대표 15명과 학부모, 본부 관계자들이 참석해 축하를 나눴다.새울원전본부의 장학 사업은 일회성 행사에 그치지 않는다."
+      "[창원=뉴시스] 김기진 기자 = 경상남도교육청은 밀양 예림초등학교 학교복합시설 신설 사업이 교육부 학교복합시설 공모심사위원회에 선정됐다고 21일 밝혔다.",
+      "밀양 예림초 학교복합시설은 밀양시 상남면 예림초등학교 운동장 부지에 총사업비 270억 원을 투입해 지상 3층, 연면적 4170㎡ 규모로 조성할 예정이다.",
+      "시설은 ▲1층 어린이 수영장·상상놀이터 ▲2층 돌봄센터·복합공유공간 ▲3층 다목적실·GX실 ▲옥외공간 등으로 구성한다."
     ],
     "chips": [
       "#교육"
     ]
   },
   {
-    "id": "na0195861",
+    "id": "nf5e0373b",
     "category": "사회",
     "source": "동아일보",
-    "time": "5분 전",
-    "url": "https://www.donga.com/news/Inter/article/all/20260821/134521138/1",
-    "title": "트럼프, 이란 폭격 대신 ‘경제전쟁’으로…군사작전 재개 멀어지나",
+    "time": "4분 전",
+    "url": "https://www.donga.com/news/Economy/article/all/20260821/134521617/1",
+    "title": "삼성전자, 올해 최대 110조 주주환원…3분기 중 30조원 현금배당 예고",
     "summary": [
-      "도널드 트럼프 미국 행정부가 이란을 상대로 대대적인 ‘경제전쟁’을 예고한 것은 당분간 대규모 군사작전을 재개하지 않겠다는 신호라는 분석이 나왔다.",
-      "미국 내 전쟁 반대 여론과 11월 중간선거 부담이 커지면서 경제 압박으로 무게중심을 옮기고 있다는 것이다.20일(현지 시간) 뉴욕타임스(NYT) 등에 따르면 트럼프 대통령은 전날 이란을 겨냥한 ‘경제적 D-데이’를 선언했다.",
-      "스콧 베선트 미 재무장관도 24일 구체적인 대이란 경제압박 계획을 공개하겠다."
+      "삼성전자가 올해 대규모 주주환원책을 가동한다.삼성전자는 21일 이사회를 열고 2026년 한 해 동안 약 90조 원에서 110조 원 규모에 달하는 주주환원 방안을 확정했다고 밝혔다.",
+      "이는 국내 상장기업 역사상 가장 큰 규모다.이번에 결정된 환원 규모는 종전 최고 기록이었던 2020년의 20조3000억 원과 비교해 약 5배에 이른다.",
+      "경영 성과로 얻은 결실을 투자자들에게 실질적으로 돌려주고, 기업의 성장과 주주가치 상승이 맞물리는 선순환 체계 구축."
+    ],
+    "chips": [
+      "#삼성전자"
+    ]
+  },
+  {
+    "id": "n0507bde5",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "5분 전",
+    "url": "https://www.newsis.com/view/NISX20260821_0003758141",
+    "title": "故 강희선 아들, 49재에 이재명 대통령 위촉장 바쳤다",
+    "summary": [
+      "[서울=뉴시스] 남정현 기자 = 성우 고(故) 강희선의 아들 안은석 본필름 대표가 어머니의 49재를 치른 모습을 공개했다.",
+      "안 대표는 21일 \"어머니 49재\"라는 말과 함께 사진을 공개했다.",
+      "공개된 사진에는 고인의 생전 모습이 담긴 영상이 재생되고 있는 가운데 49재 상차림이 담겼다."
+    ],
+    "chips": [
+      "#정치",
+      "#의료"
+    ]
+  },
+  {
+    "id": "n40692424",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "6분 전",
+    "url": "https://www.newsis.com/view/NISX20260821_0003758154",
+    "title": "이 대통령, '집중호우' 거제·통영 특별재난지역 선포",
+    "summary": [
+      "[서울=뉴시스]이인준 기자 = 이재명 대통령은 21일 오후 6시부로 경남 거제시와 통영시 산양읍·봉평동을 특별재난지역으로 우선 선포했다고 강유정 수석대변인이 서면 브리핑을 통해 이날 전했다.",
+      "이들 지역은 지난 15일부터 18일까지 남부지방에 내린 이례적인 집중호우로 큰 피해가 발생했다.",
+      "강 대변인은 \"특별재난지역으로 선포된 지역은 재난 복구를 위한 국비가 추가로 지원되고, 피해 주민에 대해서도 국세·지방세 납부유예, 공공요금 감면 등이 추가로."
     ],
     "chips": [
       "#정치"
     ]
   },
   {
-    "id": "n0860b398",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "5분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260821148200083",
-    "title": "中외교부 \"日집권자, 행동으로 中日 정상적 교류 조건 창출해야\"",
-    "summary": [
-      "(베이징=연합뉴스) 정성조 특파원 = 중국 외교부는 다음 주로 예정된 일본 여야 의원들의 중국 방문을 앞두고 양국의 정상적 교류를 위한 일본의 ..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n45e22490",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "5분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260821153351003",
-    "title": "[2보] 삼성전자 \"3분기 30조원 등 올해 최대 110조 주주환원\"",
-    "summary": [
-      "(서울=연합뉴스) 조성흠 기자 = 삼성전자는 올해 주주환원 잔여 재원이 약 90조~110조원 규모로 예상된다고 21일 공시했다."
-    ],
-    "chips": [
-      "#삼성전자"
-    ]
-  },
-  {
-    "id": "n0cfd9315",
+    "id": "naaebb877",
     "category": "IT",
-    "source": "연합뉴스",
+    "source": "한경IT",
     "time": "6분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260821151600054",
-    "title": "화순군수, 전남광주시장에 동복댐 증고 대책·반도체기업 유치 건의",
+    "url": "https://www.hankyung.com/article/2026082155967",
+    "title": "[속보] 카카오 노조, 본사 인적분할에 26일 판교서 공동행동",
     "summary": [
-      "(화순=연합뉴스) 장아름 기자 = 임지락 전남광주 화순군수는 21일 민형배 전남광주통합특별시장을 만나 동복댐 증고 등 지역 현안에 대한 적극적인..."
+      "[속보] 카카오 노조, 본사 인적분할에 26일 판교서 공동행동."
     ],
     "chips": [
-      "#반도체"
+      "#카카오"
     ]
   },
   {
-    "id": "n6750c9f5",
-    "category": "경제",
-    "source": "연합뉴스(경제)",
-    "time": "6분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260821076951002",
-    "title": "4대 금융, 경남 수해 복구에 20억…대출·물품 지원도(종합)",
+    "id": "n02b1deca",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "7분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260821165800030",
+    "title": "[동정] 황종우 해수장관, 충남 보령시 가두리 양식장 방문",
     "summary": [
-      "(서울=연합뉴스) 한지훈 기자 = 주요 금융그룹과 은행이 경남 지역 집중호우 피해 복구 지원에 적극적으로 나서고 있다."
+      "[동정] 황종우 해수장관, 충남 보령시 가두리 양식장 방문."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n9fc425d8",
-    "category": "경제",
-    "source": "아시아경제",
-    "time": "6분 전",
-    "url": "https://view.asiae.co.kr/article/2026082117194865538",
-    "title": "[속보]삼성전자 \"올해 주주환원 잔여재원 최대 110조원 예상\"",
+    "id": "nb074199b",
+    "category": "스포츠",
+    "source": "연합뉴스",
+    "time": "8분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260821165700007",
+    "title": "한화 왕옌청, 폐렴으로 말소…두산 벤자민은 어깨 부상 '날벼락'",
     "summary": [
-      "[속보]삼성전자 \"올해 주주환원 잔여재원 최대 110조원 예상\"."
+      "(서울=연합뉴스) 김경윤 기자 = 한화 이글스의 대만 출신 아시아쿼터 투수 왕옌청이 폐렴 진단을 받고 1군 엔트리에서 말소됐다."
     ],
     "chips": [
-      "#삼성전자"
+      "#뉴스"
     ]
   },
   {
-    "id": "n22c340ce",
+    "id": "nc7d6f76e",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "8분 전",
+    "url": "https://www.chosun.com/sports/baseball/2026/08/21/GAZTQNBVGFSDSYJWGQ2TAMTBG4/",
+    "title": "충격의 8-0 → 13실점 역전패...거기서부터 모든 게 꼬였다 \"너무 아쉬웠다. 마무리는 원종현\" [고?r 현장]",
+    "summary": [
+      "[고척=스포츠조선 김용 기자] \"첫 경기를 실패한 게 너무 아쉬웠습니다.\" 키움 히어로즈는 우울한 주중 3연전을 부산에서 보내고 왔다.",
+      "롯데 자이언츠에게 3연전 스윕을 당했다.",
+      "스윕을 당할 수도 있지만, 너무 아쉽게 져서 문제였다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n192cf395",
     "category": "사회",
     "source": "조선일보",
-    "time": "7분 전",
-    "url": "https://www.chosun.com/entertainments/broadcast/2026/08/21/MVSTSN3FME3GKYLEHE3DMM3DG4/",
-    "title": "퇴근시간 지하철에서 포착된 女연예인 “가방끈 끊어질 마음의 준비했는데”",
-    "summary": [
-      "[OSEN=강서정 기자] 코미디언 미자가 지하철을 이용하는 모습이 포착됐다.",
-      "미자는 21일 “어느 평범한 하루.",
-      "길치라 버스는 안 좋아하고.."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n037b0372",
-    "category": "경제",
-    "source": "연합뉴스(경제)",
     "time": "8분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260821153900003",
-    "title": "HD한국조선해양 \"인도 코친조선소와 합작법인 설립 검토 중단\"",
+    "url": "https://www.chosun.com/entertainments/movie/2026/08/21/GZRTMYJXGY4TSYZZMZSTSNJWMU/",
+    "title": "황정민, 사생활 공방 속 차기작은..애니메이션 첫 더빙 \"공 들였다\"(스티치 헤드)",
     "summary": [
-      "(서울=연합뉴스) 장하나 기자 = HD현대의 조선 중간 지주사인 HD한국조선해양은 21일 \"인도 코친조선소와 논의하던 블록 제작 공장 신규 건설..."
+      "[OSEN=하수정 기자] 황정민이 '호프' 이후 차기작으로 애니메이션 영화 첫 더빙에 도전한다.영국의 인기 베스트셀러 원작을 바탕으로 제작된 몬스터 판타지 어드벤처 애니메이션 '스티치 헤드: 비밀의 성 꼬마괴물(Stitch Head)'이 오는 9월 국내 개봉을 확정 짓고 관객들을 찾아온다.'스티치 헤드: 비밀의 성 꼬마괴물'은 성 안의 광기 어린 천재 박사."
     ],
     "chips": [
-      "#뉴스"
+      "#스타트업"
     ]
   },
   {
-    "id": "nb5fbb4ff",
+    "id": "n96245195",
     "category": "사회",
+    "source": "연합뉴스",
+    "time": "8분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260821165200001",
+    "title": "李대통령, '호우 피해' 거제·통영 특별재난지역 선포",
+    "summary": [
+      "(서울=연합뉴스) 고동욱 기자 = 이재명 대통령은 21일 남부지방의 이례적인 집중호우로 최근 큰 피해를 본 경남 거제시, 통영시 산양읍·봉평동을..."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n598515f1",
+    "category": "스포츠",
     "source": "조선일보",
     "time": "9분 전",
-    "url": "https://www.chosun.com/economy/tech_it/2026/08/21/GFQAOTXJBVH37AJ76PCXVQUOJM/",
-    "title": "[속보] 삼성전자, 올해 주주환원 90~110조원 예상… 3분기 30조원 현금배당",
+    "url": "https://www.chosun.com/sports/golf/2026/08/21/GY4DSZBVME2DMM3EHE3DCNRUGI/",
+    "title": "임성재, 기적의 사나이가 될 것인가...출발이 좋다, PO 2차전 1R 선두와 3타차",
     "summary": [
-      "[속보] 삼성전자, 올해 주주환원 90~110조원 예상… 3분기 30조원 현금배당."
-    ],
-    "chips": [
-      "#삼성전자"
-    ]
-  },
-  {
-    "id": "nfbb27208",
-    "category": "경제",
-    "source": "연합뉴스(경제)",
-    "time": "10분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260821152900064",
-    "title": "괴산고추축제장서 세척 건고추 600ｇ당 1만6천원에 판매",
-    "summary": [
-      "(괴산=연합뉴스) 박재천 기자 = 다음 달 3∼6일 열리는 2026 괴산고추축제장에서 세척 건고추가 600ｇ당 1만6천원에 판매된다."
+      "[스포츠조선 김용 기자] 출발이 좋다! 임성재가 8년 연속 투어 챔피언십 무대에 진출할 수 있는 발판을 마련했다.",
+      "임성재는 21일(한국시각) 미국 벨러리브컨트리클럽에서 열린 PGA 투어 플레이오프 2차전 BMW챔피언십 1라운드에서 버디 5개, 보기 2개를 기록하며 3언더파를 기록했다.",
+      "하지만 1라운드라 선두권에 많은 선수가 몰려 12위이지,."
     ],
     "chips": [
       "#뉴스"
+    ]
+  },
+  {
+    "id": "n7930499a",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "9분 전",
+    "url": "https://www.chosun.com/sports/world-football/2026/08/21/HE2TQY3BGIZTGMRUGVRDQMRSMU/",
+    "title": "이강인의 환상적인 데뷔골, 시메오네 감독의 결정적 주문 통했다…“공 받으면 슈팅하라”",
+    "summary": [
+      "[OSEN=서정환 기자] 이강인(25, 아틀레티코 마드리드)이 공식 데뷔골에는 디에고 시메오네 감독의 강력한 주문이 있었다.",
+      "아틀레티코는 19일(현지시간) 스페인 마드리드 메트로폴리타노에서 열린 2026-27시즌 라리가 개막전에서 말라가를 2-0으로 꺾었다.",
+      "이강인은 후반 57분 교체 투입됐고, 13분 뒤 왼발 중거리 슈팅으로 선제골을 터뜨렸다.이강인의 득."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n7ad44a19",
+    "category": "IT",
+    "source": "연합뉴스(경제)",
+    "time": "10분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260821070752002",
+    "title": "100조 넘보는 '미래기금' 신설…교육교부금 연동 55년만에 폐지(종합2보)",
+    "summary": [
+      "(서울·세종=연합뉴스) 노재현 이세원 기자 = 반도체 호황에 급증한 세수를 떼어내 미래 성장의 종잣돈으로 삼을 수 있도록 새 기금을 만든다."
+    ],
+    "chips": [
+      "#반도체",
+      "#교육"
     ]
   }
 ];
@@ -638,21 +644,21 @@ window.NEWS_DB = [
 window.KEYWORD_TOP = [
   {
     "rank": 1,
-    "tag": "뉴스",
+    "tag": "AI",
     "mentions": "2070건",
     "trend": "+215%"
   },
   {
     "rank": 2,
-    "tag": "AI",
-    "mentions": "1940건",
-    "trend": "+195%"
+    "tag": "뉴스",
+    "mentions": "1680건",
+    "trend": "+155%"
   },
   {
     "rank": 3,
-    "tag": "반도체",
-    "mentions": "1420건",
-    "trend": "+115%"
+    "tag": "KBO",
+    "mentions": "1550건",
+    "trend": "+135%"
   }
 ];
 // ====AUTO-GENERATED-END====
