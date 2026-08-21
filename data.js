@@ -1,5 +1,5 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-08-21 19:18:50
+// 마지막 업데이트: 2026-08-21 20:13:55
 window.NEWS_DB = [
   {
     "id": "n01b7046c",
@@ -20,7 +20,7 @@ window.NEWS_DB = [
     "id": "n9e98d1ae",
     "category": "IT",
     "source": "IT조선",
-    "time": "10시간 전",
+    "time": "11시간 전",
     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5TYVA2YnJMTDkycW43azBHN0h3STBIbmZCVnVIeU5MSUpQU0dfc0ZyYThLMG9nQW5SX2kyT2hibUtIdU5BTW1XVHl3Mms3eXc3VzNudkxaRklBZF9LY3VIQWVkYjVMMGZFSVVYZWxpbGHSAXRBVV95cUxQdXpvZmUzOXhXamVfZmpnb1BNYS1VSkJkNEoxMkQzejduSEhOR2dSTVU3SFVHUlJfUXZRX05NR1NsZmw2bWNTbzlSMG5tZ29jVzZpV0dobHpzR3dWQkFBeEh0SWVvNEdybjFMUGI2VkRwVjd5QQ?oc=5",
     "title": "엔비디아, 리벨리온과 기술협력·투자 논의… 인수 가능성도 거론",
     "summary": [
@@ -34,7 +34,7 @@ window.NEWS_DB = [
     "id": "nd9e5e761",
     "category": "IT",
     "source": "자본시장뉴스",
-    "time": "16시간 전",
+    "time": "17시간 전",
     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1QYUdZQnA5Y2lNeXFNdXhhRFh4bE0zSTV0QWNZSXNZRWs0VXZtYnRxMjhmX0R4ekQtbDJIUTNuN01LM3EtMlI1blRxNU0yZzFkbEdEbFhnRVp0eDMtdDB1aGwyRGFWUnM?oc=5",
     "title": "[반도체 패권 지도 ④] HBM 79% 쥔 한국…파운드리는 7%에 묶여 있다",
     "summary": [
@@ -63,7 +63,7 @@ window.NEWS_DB = [
     "id": "nc4432452",
     "category": "IT",
     "source": "v.daum.net",
-    "time": "20시간 전",
+    "time": "21시간 전",
     "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB6ajRsVkhMZ2tMQmtuZkpyQlpJUVY2Znp5cEQzaHlrNnhrQ21ZR1ZEZk9aVlFvRjY2bDNIZ0NNblJYMUNVeFlzTlBua3R6UUk?oc=5",
     "title": "엔비디아가 中 맞춤형 AI칩 출시(?)…회사 \"전혀 계획 없다\"",
     "summary": [
@@ -89,20 +89,6 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nd000c55e",
-    "category": "IT",
-    "source": "데이터넷",
-    "time": "1일 전",
-    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE11QUd4NkhZaDRidFpDRHoyWnFPeURfYVpIMjRZc1pjSmdiTDBiYmVZbnpCQkJxd0ZJaUdMeW5DWVhaTlVmOW53X3BuVTh4bGtYVWM4OUd3a1RtdFdtNm5xSVZMakxxb1lsUnNONA?oc=5",
-    "title": "“인텔은 메모리 넘보고, 삼성은 파운드리 반격”",
-    "summary": [
-      "“인텔은 메모리 넘보고, 삼성은 파운드리 반격” 데이터넷."
-    ],
-    "chips": [
-      "#반도체"
-    ]
-  },
-  {
     "id": "n36bf22dc",
     "category": "사회",
     "source": "뉴스 따옴",
@@ -114,6 +100,20 @@ window.NEWS_DB = [
     ],
     "chips": [
       "#고용"
+    ]
+  },
+  {
+    "id": "n04c9840b",
+    "category": "IT",
+    "source": "ebn.co.kr",
+    "time": "1일 전",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5jNy1zd3VfY0dldFJwanlTb1U0aUR0elE4amU1Ui1FaXRORkV5TWZZZEJlVVlHc1ZhVjByWTg1MFFIMXdLUVJCcjBwYXlJMk1JQkFHVGR1RTdhSy1WMU5sbEJveU5xRktt?oc=5",
+    "title": "인텔, 메모리 접점 확대…삼성은 파운드리 반격 나섰다",
+    "summary": [
+      "인텔, 메모리 접점 확대…삼성은 파운드리 반격 나섰다 ebn.co.kr."
+    ],
+    "chips": [
+      "#반도체"
     ]
   },
   {
@@ -309,10 +309,158 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n0f939ba0",
+    "category": "경제",
+    "source": "뉴시스",
+    "time": "7분 전",
+    "url": "https://www.newsis.com/view/NISX20260822_0003758295",
+    "title": "[속보] 뉴욕증시, 일제히 상승 마감…나스닥 0.44%↑",
+    "summary": [
+      "후속기사가 이어집니다 ◎공감언론 뉴시스 jeko@newsis.com."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n54b0005d",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "8분 전",
+    "url": "https://www.newsis.com/view/NISX20260821_0003758279",
+    "title": "홍진경, 정선희 유튜브서 이혼 발표한 이유…\"안 하고 싶었는데\"",
+    "summary": [
+      "[서울=뉴시스]강주희 기자 = 방송인 홍진경이 정선희의 유튜브 채널에서 이혼을 발표한 이유를 밝혔다.",
+      "21일 방송된 KBS 2TV 예능 프로그램 '옥탑방의 문제아들'에는 김지선, 정선희가 게스트로 출연했다.",
+      "이날 홍진경은 지난해 정선희의 유튜브 채널에서 이혼 소식을 전하게 된 계기를 설명했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n90314031",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "9분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260822005500108",
+    "title": "러, 젤렌스키 고향 쇼핑몰 공습…15명 사망, 130명 부상",
+    "summary": [
+      "(이스탄불=연합뉴스) 김동호 특파원 = 러시아군이 21일(현지시간) 볼로디미르 젤렌스키 우크라이나 대통령의 고향을 공습해 대규모 사상자가 발생했..."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n6ebd3485",
+    "category": "경제",
+    "source": "연합뉴스(경제)",
+    "time": "10분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260822005400072",
+    "title": "국제유가, 중동 불안 지속에 6일 연속 상승…브렌트유 94달러대",
+    "summary": [
+      "(뉴욕=연합뉴스) 김연숙 특파원 = 21일(현지시간) 국제유가는 이란의 교역 상대국에 대한 미국의 제재 가능성이 부각되면서 6일 연속 상승세를 ..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "ndb4638dd",
+    "category": "스포츠",
+    "source": "연합뉴스",
+    "time": "11분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260822005600527",
+    "title": "경기 화성·오산 호우주의보 해제",
+    "summary": [
+      "(수원=연합뉴스) 기상청은 화성·오산에 내렸던 호우주의보를 22일 오전 5시를 기해 해제한다고 밝혔다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n2fb886f8",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "12분 전",
+    "url": "https://www.newsis.com/view/NISX20260821_0003758056",
+    "title": "토요일 인천, 낮 최고기온 30도…오후 소나기 예보",
+    "summary": [
+      "[인천=뉴시스] 전예준 기자 = 22일 인천은 낮 최고기온이 30도에 육박하고, 오후 사이 소나기가 내리겠다.",
+      "하늘은 북태평양 고기압의 가장자리에 들어 흐리겠다.",
+      "수도권기상청은 \"아침 최저기온은 24도, 낮 최고기온은 30도 내외의 분포를 보이겠다\"며 \"오후 사이 곳에 따라 소나기가 내리는 곳이 있겠다\"고 예보했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n29272fe9",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "12분 전",
+    "url": "https://www.newsis.com/view/NISX20260821_0003758044",
+    "title": "경기북부 비·소나기 예보…일요일엔 무더위",
+    "summary": [
+      "[경기북부=뉴시스] 김도희 기자 = 토요일인 22일 경기북부지역에는 비와 소나기가 내리겠다.",
+      "이날 오전까지는 10~60㎜ 가량의 비가, 오후에는 5~40㎜의 소나기가 내릴 것으로 예보됐다.",
+      "비나 소나기가 내리는 지역에서는 천둥, 번개가 치는 곳이 있겠으니 시설물 관리와 안전사고에 유의해야한다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "ndab48574",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "13분 전",
+    "url": "https://www.chosun.com/national/national_general/2026/08/22/QQRASGS7SZASNG3XHGYYIOKDBM/",
+    "title": "[단독] 바퀴벌레 박멸 전쟁… ‘신무기’ 들고 나선다",
+    "summary": [
+      "[단독] 바퀴벌레 박멸 전쟁… ‘신무기’ 들고 나선다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n5c1c3356",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "19분 전",
+    "url": "https://www.chosun.com/sports/world-football/2026/08/22/GQ4GCYLBGFTDCZDGMEZGIZRXGQ/",
+    "title": "\"월드컵 이후 머리 다 비우지 못했다\" 오현규, 오현규, 경쟁자 극찬하고 시즌 첫 골+PK 유도로 존재감 '폭발'",
+    "summary": [
+      "[OSEN=정승우 기자] 오현규(25)가 새로운 경쟁자 두산 블라호비치(26, 이상 베식타스)를 향해 \"세계 최고의 스트라이커\"라고 치켜세웠다.",
+      "동시에 자신 역시 시즌 첫 골과 페널티킥 유도로 존재감을 드러냈다.",
+      "경쟁을 피하지 않고 정면으로 받아들이는 모습이었다.베식타스는 21일(한국시간) 튀르키예 이스탄불의 튀프라쉬 스타디움에서 열린 FK 카우노 잘기리스."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n975f30bf",
+    "category": "경제",
+    "source": "연합뉴스",
+    "time": "36분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260822005000072",
+    "title": "비트코인 랠리에도 예측시장은 신중…\"연말 7만5천달러 안팎\"",
+    "summary": [
+      "(뉴욕=연합뉴스) 김연숙 특파원 = 가상화폐 비트코인이 최근 일주일 새 20% 넘게 급등했지만, 예측시장에서는 올해 말 가격을 현재보다 낮은 7..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
     "id": "n9b0a6997",
     "category": "IT",
     "source": "테크M",
-    "time": "방금 전",
+    "time": "48분 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=154522",
     "title": "\"크리에이터 타고 여행 예약까지\" 네이버, '여행 커넥트' 출시...콘텐츠·커머스 접점 넓힌다",
     "summary": [
@@ -328,7 +476,7 @@ window.NEWS_DB = [
     "id": "n9db42040",
     "category": "사회",
     "source": "테크M",
-    "time": "방금 전",
+    "time": "48분 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=154521",
     "title": "카카오 노조, 인적분할에 \"책임까지 쪼갤 순 없어\"...'공동교섭' 요구",
     "summary": [
@@ -342,103 +490,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nc97e7bb1",
-    "category": "IT",
-    "source": "뉴시스",
-    "time": "8분 전",
-    "url": "https://www.newsis.com/view/NISX20260822_0003758291",
-    "title": "美국무 \"한국에 AIM-9X 공대공 미사일 판매 잠정 승인\"",
-    "summary": [
-      "[서울=뉴시스]고재은 기자 = 도널드 트럼프 미국 행정부가 한국에 1억 달러가 넘는 규모의 AIM-9X 사이드와인더 블록Ⅱ 공대공 미사일 판매를 잠정 승인했다.",
-      "미 국무부는 21일(현지 시간) 성명을 통해 \"국무부는 한국에 AIM-9X 사이드와인더 블록Ⅱ 공대공 미사일 및 관련 장비를 인도하는 대외군사판매(FMS)를 승인하기로 결정했다\"고 밝혔다.",
-      "앞서 한국이 요청한 AIM-9X 사이드와인더 블록Ⅱ 미사일 103기와 전술 유도 장치 10기 등의."
-    ],
-    "chips": [
-      "#AI"
-    ]
-  },
-  {
-    "id": "nab8a672d",
-    "category": "경제",
-    "source": "연합뉴스",
-    "time": "14분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260822004300071",
-    "title": "트럼프 '백악관 연회장' 공사 당분간 허용…美대법원장 임시명령",
-    "summary": [
-      "(워싱턴=연합뉴스) 이유미 특파원 = 미국 연방대법원이 도널드 트럼프 대통령이 추진하는 4억 달러(약 5천500억원) 규모의 백악관 연회장 건설..."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "nfc7d783e",
-    "category": "경제",
-    "source": "연합뉴스",
-    "time": "18분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260822003400087",
-    "title": "룰라·트럼프, 80분간 통화…관세 문제 등 논의",
-    "summary": [
-      "(멕시코시티=연합뉴스) 송광호 특파원 = 최근 무역 갈등과 범죄 조직 지정 문제 등으로 대립각을 세워온 브라질과 미국 정상이 전화 통화를 하고 ..."
-    ],
-    "chips": [
-      "#수출"
-    ]
-  },
-  {
-    "id": "n6116116c",
-    "category": "IT",
-    "source": "뉴시스",
-    "time": "18분 전",
-    "url": "https://www.newsis.com/view/NISX20260821_0003756993",
-    "title": "사람 떠나자 버스 끊겼다…전국 법정리(里) 45%가 '소멸 위기'",
-    "summary": [
-      "[서울=뉴시스] 변해정 기자 = 전국 법정리(里·법적으로 정한 읍·면 단위의 마을)의 절반 가까이가 소멸 위기에 처했다는 분석이 나왔다.",
-      "이들 지역은 단순히 사람 적은 것에 그치지 않고 기초생활 마비로 이어지는 구조적 문제가 있었다.",
-      "22일 국토연구원이 발간한 '지역 내의 소멸 격차 해소를 위한 인공지능(AI) 기반 인구과소지역 정밀진단과 정책 추진 방안' 보고서에는 이같이 내용이 담겼다."
-    ],
-    "chips": [
-      "#AI",
-      "#정책"
-    ]
-  },
-  {
-    "id": "n0cba2a74",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "18분 전",
-    "url": "https://www.newsis.com/view/NISX20260821_0003757052",
-    "title": "\"반신마비 88세 노인이 치매 아내 간병\"…日 '초노노케어' 급증",
-    "summary": [
-      "[서울=뉴시스]전민영 인턴 기자 = 초고령사회 일본에서 75세 이상 후기고령자 부부가 서로를 돌보는 이른바 ‘초(超)노노(老老)케어’가 급증하고 있다.",
-      "돌봄을 받는 사람뿐 아니라 돌보는 사람까지 고령인 만큼 건강 악화와 경제적 부담은 물론 학대나 살인 등 심각한 문제로 이어질 수 있다는 우려가 나온다.",
-      "지난 18일 일본 요미우리신문에 따르면 일본 후생노동성이 지난 7월 발표한 ‘국민생활기초조사’를 분석한 결과, 돌봄이 필요한 사람과 돌보는 사람."
-    ],
-    "chips": [
-      "#의료"
-    ]
-  },
-  {
-    "id": "n8d47727a",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "18분 전",
-    "url": "https://www.newsis.com/view/NISX20260821_0003757142",
-    "title": "\"부모님과 여행? 오히려 좋아\"…伊 Z세대 사이서 뜨는 '가족휴가'",
-    "summary": [
-      "[서울=뉴시스]이지우 인턴 기자 = 부모와 함께 휴가를 떠나는 여행 방식이 Z세대 사이에서 새로운 문화로 자리 잡고 있다.",
-      "지난 18일(현지시간) 이탈리아 NSS매거진은 최근 젊은 세대 사이에서 부모와 함께 휴가를 보내는 것이 다시 '쿨한' 여행 방식으로 떠오르고 있다고 보도했다.",
-      "과거에는 저비용 항공사와 저렴한 숙박시설을 활용해 비교적 적은 비용으로 해외여행을 즐길 수 있어 부모와 동행하는 것을 독립적이지 못한 선택으로 보는 시선도 있었다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
     "id": "n9439df48",
     "category": "경제",
     "source": "연합뉴스(경제)",
-    "time": "20분 전",
+    "time": "1시간 전",
     "url": "https://www.yna.co.kr/view/AKR20260822003000075",
     "title": "텍사스가 새 금융거점?…\"월가, 맘다니 피해 '욜스트리트'로\"",
     "summary": [
@@ -452,7 +507,7 @@ window.NEWS_DB = [
     "id": "n1f397c26",
     "category": "사회",
     "source": "동아일보",
-    "time": "24분 전",
+    "time": "1시간 전",
     "url": "https://www.donga.com/news/Inter/article/all/20260822/134523082/1",
     "title": "자동차 판매하는 26세 청년, 알고 보니 ‘벨기에 왕자’…DNA 검사로 확인",
     "summary": [
@@ -461,52 +516,6 @@ window.NEWS_DB = [
     ],
     "chips": [
       "#뉴스"
-    ]
-  },
-  {
-    "id": "naec2a3a6",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "33분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260822003600071",
-    "title": "美민주, '트럼프發 북미회담' 공세 강화…\"김정은에 굴복\"",
-    "summary": [
-      "(워싱턴=연합뉴스) 이유미 특파원 = 도널드 트럼프 미국 대통령이 북미 정상회담 재개 의지를 구체화하자 야당인 민주당도 공세를 강화하고 있다."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n43d7b670",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "46분 전",
-    "url": "https://www.chosun.com/sports/baseball/2026/08/22/GE4TAZJQGJRWKM3BGVQTQODCHA/",
-    "title": "김도영 못 거르는 타선인데 나성범까지 터진다니…KIA 중심타선, 공포감 더해진다",
-    "summary": [
-      "[대전=스포츠조선 이종서 기자] 확실하게 자리를 잡은 KIA 타이거즈의 중심 타선.",
-      "상대로서는 막막하게 느껴질 뿐이다.",
-      "KIA는 7월말부터 김도영-해럴드 카스트로-나성범 순으로 3~5번 중심타선을 구축했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n1130efb7",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "49분 전",
-    "url": "https://www.chosun.com/sports/sports_general/2026/08/22/MEYWCNJZHFQWINJTMZQTSOBVMI/",
-    "title": "\"바람 때문에 샷 컨트롤 어려웠다\" 안세영, 흔들리고도 세계 5위 격파...4경기 연속 2-0+왕즈이와 결승 길목 '격돌'",
-    "summary": [
-      "[OSEN=정승우 기자] \"오늘은 샷 컨트롤이 쉽지 않았다.",
-      "그래도 한 포인트씩 집중하면서 내 리듬을 찾았다.\"안세영(24, 삼성생명)이 쉽지 않은 경기장 환경과 완전하지 않은 몸 상태 속에서도 다시 한번 세계 정상급 경기 운영 능력을 보여줬다.",
-      "세계랭킹 5위 한웨(중국)를 2-0으로 꺾고 세계선수권 4강에 오른 뒤에는 경기 내내 신경 써야 했던 '바람'과."
-    ],
-    "chips": [
-      "#환경"
     ]
   },
   {
@@ -526,40 +535,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n4ae0d8a9",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "1시간 전",
-    "url": "https://www.chosun.com/sports/baseball/2026/08/21/GFQTMNBZMQYWKNZTGY3GKZRXME/",
-    "title": "만원 잠실벌 지배한 사직 스쿠벌, 1안타 7K 1실점...데뷔 첫 10번째 QS로 건재과시, 151㎞ 속구보다 빛난 명품 슬라이더",
-    "summary": [
-      "[잠실=스포츠조선 정현석 기자]'사직 스쿠벌'이 만원관중이 들어찬 잠실벌을 압도했다.",
-      "롯데 자이언츠 좌완 김진욱(23)이 눈부신 호투로 후반기 첫 승과 함께 데뷔 첫 시즌 10번째 퀄리티스타트를 완성했다.",
-      "2021년 2차 1번으로 롯데에 입단한 김진욱은 2024년 3차례의 퀄리티스타트가 최다였다."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
-    "id": "na9b60b61",
-    "category": "경제",
-    "source": "조선일보",
-    "time": "1시간 전",
-    "url": "https://www.chosun.com/economy/weeklybiz/2026/08/22/VKQJG65EDRFD5OCTLYROXR4TYA/",
-    "title": "금리 오르자 日 신용카드 결제 대행사 파산… 대규모 구조조정 신호탄",
-    "summary": [
-      "금리 오르자 日 신용카드 결제 대행사 파산… 대규모 구조조정 신호탄."
-    ],
-    "chips": [
-      "#금리"
-    ]
-  },
-  {
     "id": "n2bf65893",
     "category": "IT",
     "source": "한국경제",
-    "time": "1시간 전",
+    "time": "2시간 전",
     "url": "https://www.hankyung.com/article/202608225783i",
     "title": "엔비디아, 월가는 실적보다 '이것'에 더 관심[박신영의 개장전 요것만]",
     "summary": [
@@ -570,26 +549,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n969f7e8a",
-    "category": "경제",
-    "source": "아시아경제",
-    "time": "1시간 전",
-    "url": "https://view.asiae.co.kr/article/2026082202512377463",
-    "title": "[르포]美 세포라 580곳 들어간 올리브영…K뷰티 '큐레이션' 수출",
-    "summary": [
-      "\"얼마 전 한국 여행을 다녀왔다.",
-      "여성들 사이에서 올리브영이 유명하다.",
-      "한국인 친구가 있어서 올리브영 추천 제품도 샀다."
-    ],
-    "chips": [
-      "#수출"
-    ]
-  },
-  {
     "id": "ne8075ae3",
     "category": "IT",
     "source": "테크M",
-    "time": "1시간 전",
+    "time": "2시간 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=154516",
     "title": "AI로 취약점 찾았더니 AI도 지켜야...모델·에이전트까지 방어 대상에",
     "summary": [
@@ -605,7 +568,7 @@ window.NEWS_DB = [
     "id": "na395908b",
     "category": "스포츠",
     "source": "동아일보",
-    "time": "2시간 전",
+    "time": "3시간 전",
     "url": "https://www.donga.com/news/Sports/article/all/20260822/134522490/2",
     "title": "亞게임 차출도 못막는 김도영 홈런왕 레이스",
     "summary": [
@@ -621,7 +584,7 @@ window.NEWS_DB = [
     "id": "nbbde9ff0",
     "category": "스포츠",
     "source": "동아일보",
-    "time": "2시간 전",
+    "time": "3시간 전",
     "url": "https://www.donga.com/news/Sports/article/all/20260822/134522479/2",
     "title": "드디어 꽂았다, 오현규-조규성 시즌 첫 골",
     "summary": [
@@ -632,6 +595,36 @@ window.NEWS_DB = [
     "chips": [
       "#뉴스"
     ]
+  },
+  {
+    "id": "n6dc6d153",
+    "category": "스포츠",
+    "source": "동아일보",
+    "time": "3시간 전",
+    "url": "https://www.donga.com/news/Sports/article/all/20260822/134522488/2",
+    "title": "외계인이 돌아왔다",
+    "summary": [
+      "브라질 축구 스타 호나우지뉴가 46세의 나이에 현역으로 복귀한다.",
+      "호나우지뉴는 21일 이탈리아 라벤나에서 열린 이탈리아 프로축구 세리에C(3부) 라벤나 입단식에 참석해 등번호 10이 새겨진 유니폼을 들고 팬들 앞에 섰다.",
+      "호나우지뉴는 “내가 라벤나에 온 이유는 팀원들이 승리할 수 있도록 돕기 위해서다”라고 말했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n76dd9802",
+    "category": "IT",
+    "source": "조선비즈IT",
+    "time": "5시간 전",
+    "url": "https://biz.chosun.com/it-science/ict/2026/08/22/E4Y6SWXWZBF65B6ZAPFNNBBNAQ/",
+    "title": "카카오 노조, 본사 인적분할에 26일 판교서 공동행동",
+    "summary": [
+      "카카오 노조, 본사 인적분할에 26일 판교서 공동행동."
+    ],
+    "chips": [
+      "#카카오"
+    ]
   }
 ];
 
@@ -639,21 +632,21 @@ window.NEWS_DB = [
 window.KEYWORD_TOP = [
   {
     "rank": 1,
-    "tag": "AI",
-    "mentions": "1810건",
-    "trend": "+175%"
+    "tag": "뉴스",
+    "mentions": "2590건",
+    "trend": "+295%"
   },
   {
     "rank": 2,
-    "tag": "KBO",
+    "tag": "AI",
     "mentions": "1550건",
     "trend": "+135%"
   },
   {
     "rank": 3,
-    "tag": "뉴스",
-    "mentions": "1550건",
-    "trend": "+135%"
+    "tag": "엔비디아",
+    "mentions": "1420건",
+    "trend": "+115%"
   }
 ];
 // ====AUTO-GENERATED-END====
