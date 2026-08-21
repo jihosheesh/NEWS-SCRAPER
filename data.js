@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-08-21 20:13:55
+// 마지막 업데이트: 2026-08-21 21:13:31
 window.NEWS_DB = [
   {
     "id": "n01b7046c",
     "category": "경제",
     "source": "세이프머니",
-    "time": "8시간 전",
+    "time": "9시간 전",
     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9Ub04zeDVfTGNFZUhhWEN6TTYycHZERDdBTEs3OFhqYk1SQ1pibDgycHgzdWktaFRBU1RJam53LTMyZlhxTEM1UXdPMlY5TDhZbmtCbEt0VmhJOEZ4blBDVjBNd1Q3a0R1QmRXSkFR?oc=5",
     "title": "권민수 한은 부총재 금리 인상 관련 '유연한' 정책 판단 필요",
     "summary": [
@@ -20,7 +20,7 @@ window.NEWS_DB = [
     "id": "n9e98d1ae",
     "category": "IT",
     "source": "IT조선",
-    "time": "11시간 전",
+    "time": "12시간 전",
     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5TYVA2YnJMTDkycW43azBHN0h3STBIbmZCVnVIeU5MSUpQU0dfc0ZyYThLMG9nQW5SX2kyT2hibUtIdU5BTW1XVHl3Mms3eXc3VzNudkxaRklBZF9LY3VIQWVkYjVMMGZFSVVYZWxpbGHSAXRBVV95cUxQdXpvZmUzOXhXamVfZmpnb1BNYS1VSkJkNEoxMkQzejduSEhOR2dSTVU3SFVHUlJfUXZRX05NR1NsZmw2bWNTbzlSMG5tZ29jVzZpV0dobHpzR3dWQkFBeEh0SWVvNEdybjFMUGI2VkRwVjd5QQ?oc=5",
     "title": "엔비디아, 리벨리온과 기술협력·투자 논의… 인수 가능성도 거론",
     "summary": [
@@ -34,7 +34,7 @@ window.NEWS_DB = [
     "id": "nd9e5e761",
     "category": "IT",
     "source": "자본시장뉴스",
-    "time": "17시간 전",
+    "time": "18시간 전",
     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1QYUdZQnA5Y2lNeXFNdXhhRFh4bE0zSTV0QWNZSXNZRWs0VXZtYnRxMjhmX0R4ekQtbDJIUTNuN01LM3EtMlI1blRxNU0yZzFkbEdEbFhnRVp0eDMtdDB1aGwyRGFWUnM?oc=5",
     "title": "[반도체 패권 지도 ④] HBM 79% 쥔 한국…파운드리는 7%에 묶여 있다",
     "summary": [
@@ -48,7 +48,7 @@ window.NEWS_DB = [
     "id": "ned9b1714",
     "category": "IT",
     "source": "뉴시스",
-    "time": "20시간 전",
+    "time": "21시간 전",
     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5vQ29yNXlxV1NXbnJwMzdNWUd4OUtqVThRdGxkZkd2eTM0MjEyMms2Tk8xWUljc2tnU04zdEY5OURuVjB6SE5FUWFwR0I0QzdEWmhkRHR4Vy1CQ1VrdUR4SGJYTFFoN01UMXBzdkdGbmVEdEZVTTdHUNIBeEFVX3lxTE5vQ29yNXlxV1NXbnJwMzdNWUd4OUtqVThRdGxkZkd2eTM0MjEyMms2Tk8xWUljc2tnU04zdEY5OURuVjB6SE5FUWFwR0I0QzdEWmhkRHR4Vy1CQ1VrdUR4SGJYTFFoN01UMXBzdkdGbmVEdEZVTTdHUA?oc=5",
     "title": "엔비디아 '中 맞춤형 AI칩 출시설' 부인…\"계획 전혀 없다\"",
     "summary": [
@@ -63,7 +63,7 @@ window.NEWS_DB = [
     "id": "nc4432452",
     "category": "IT",
     "source": "v.daum.net",
-    "time": "21시간 전",
+    "time": "22시간 전",
     "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB6ajRsVkhMZ2tMQmtuZkpyQlpJUVY2Znp5cEQzaHlrNnhrQ21ZR1ZEZk9aVlFvRjY2bDNIZ0NNblJYMUNVeFlzTlBua3R6UUk?oc=5",
     "title": "엔비디아가 中 맞춤형 AI칩 출시(?)…회사 \"전혀 계획 없다\"",
     "summary": [
@@ -309,54 +309,205 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n0f939ba0",
-    "category": "경제",
-    "source": "뉴시스",
-    "time": "7분 전",
-    "url": "https://www.newsis.com/view/NISX20260822_0003758295",
-    "title": "[속보] 뉴욕증시, 일제히 상승 마감…나스닥 0.44%↑",
-    "summary": [
-      "후속기사가 이어집니다 ◎공감언론 뉴시스 jeko@newsis.com."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n54b0005d",
+    "id": "n2813ac38",
     "category": "사회",
     "source": "뉴시스",
-    "time": "8분 전",
-    "url": "https://www.newsis.com/view/NISX20260821_0003758279",
-    "title": "홍진경, 정선희 유튜브서 이혼 발표한 이유…\"안 하고 싶었는데\"",
+    "time": "2분 전",
+    "url": "https://www.newsis.com/view/NISX20260822_0003758301",
+    "title": "\"김정은, 트럼프와 회담이 이익이라고 생각할 듯\"",
     "summary": [
-      "[서울=뉴시스]강주희 기자 = 방송인 홍진경이 정선희의 유튜브 채널에서 이혼을 발표한 이유를 밝혔다.",
-      "21일 방송된 KBS 2TV 예능 프로그램 '옥탑방의 문제아들'에는 김지선, 정선희가 게스트로 출연했다.",
-      "이날 홍진경은 지난해 정선희의 유튜브 채널에서 이혼 소식을 전하게 된 계기를 설명했다."
+      "[서울=뉴시스] 강영진 기자 = 도널드 트럼프 미 대통령의 대화 제의가 북한에게 국제사회에서 정상국가로 인정받을 계기가 될 것이기에 북한이 응할 가능성이 있다는 주장이 제기됐다고 미국의 소리(VOA)가 22일 보도했다.",
+      "VOA는 트럼프 1기 정부 백악관 국가안보회의(NSC) 비서실장을 지낸 프레드 플라이츠 미국우선주의정책연구소(AFPI) 부소장이 북한의 핵무기 확장과 우크라이나 전쟁 개입 등 러시아와 북한의 밀착이 심화되는 상황에서 트럼프 대통."
+    ],
+    "chips": [
+      "#정책",
+      "#정치"
+    ]
+  },
+  {
+    "id": "n56e58abf",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "3분 전",
+    "url": "https://www.newsis.com/view/NISX20260822_0003758284",
+    "title": "'500억 매출' 박미희 대표, 김우중 회장 가사도우미 출신이었다",
+    "summary": [
+      "[서울=뉴시스]이재훈 기자 = 연매출 500억 원 신화를 쓴 박미희 도미솔 식품 대표가 과거 대우그룹 고(故) 김우중 회장 댁 가사도우미로 일했던 일화를 공개한다.",
+      "오는 23일 오후 4시40분 방송하는 KBS 2TV 예능 '사장님 귀는 당나귀 귀'에서 박 대표는 자수성가 인생사를 전한다.",
+      "2024년 식품가공 명장에 이어 2025년 조기김치로 김치 명인 제98호에 지정된 박 대표는 16세에 홀로 상경해 직물 공장 주방을 거쳐 김 전 회장 자택의."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n90314031",
+    "id": "nb0bfa5bd",
     "category": "사회",
     "source": "연합뉴스",
-    "time": "9분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260822005500108",
-    "title": "러, 젤렌스키 고향 쇼핑몰 공습…15명 사망, 130명 부상",
+    "time": "8분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260822007400063",
+    "title": "대전·세종·충남 곳에 따라 비…낮 최고기온 33도",
     "summary": [
-      "(이스탄불=연합뉴스) 김동호 특파원 = 러시아군이 21일(현지시간) 볼로디미르 젤렌스키 우크라이나 대통령의 고향을 공습해 대규모 사상자가 발생했..."
+      "(대전=연합뉴스) 이재림 기자 = 토요일인 22일 대전·세종·충남에는 곳에 따라 비가 올 전망이다."
     ],
     "chips": [
-      "#정치"
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n31517711",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "9분 전",
+    "url": "https://www.donga.com/news/Inter/article/all/20260822/134523090/1",
+    "title": "“만지면 행운”…파리 명물 ‘달리다 흉상’ 성추행 논란에 ‘거울 갑옷’ 입혔다",
+    "summary": [
+      "프랑스 파리 몽마르트르의 명물인 가수 달리다의 청동 흉상이 수백만 원을 들여 복원된 지 불과 보름 만에 가슴 부분만 다시 금빛으로 변했다.",
+      "‘가슴을 만지면 행운이 찾아온다’는 속설을 믿는 관광객들의 손길이 끊이지 않고 있다.18일(현지시간) 프랑스 일간 르파리지앵 등에 따르면 파리시는 지난달 25일 몽마르트르 달리다 광장에 설치된 달리다 흉상의 표면의 색상을 복원했다.오랜 세월 관광객들이 흉상의 가슴을 만지면서 표면이 벗겨져 금빛으로 번들거렸고."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "na300c210",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "11분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260822007300527",
+    "title": "제주 남쪽 먼바다에 풍랑주의보",
+    "summary": [
+      "(제주=연합뉴스) 기상청은 22일 오전 8시를 기해 제주도남서쪽안쪽먼바다·제주도남동쪽안쪽먼바다에 풍랑주의보를 발효한다고 밝혔다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n5f26b0ba",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "12분 전",
+    "url": "https://www.chosun.com/topclass/topclass_topp/2026/08/22/6U4SZIAAI5FKVLMIUNI5EKRITM/",
+    "title": "건망증과 치매, 무엇이 다른가?",
+    "summary": [
+      "“깜빡깜빡하는 걸 보니 이제 나이가 들었나 봐!”우리는 이런 변화를 흔히 ‘나이 탓’으로 넘깁니다.",
+      "물론 나이가 들면 기억은 조금씩 무뎌집니다.",
+      "그러나 치매는 바로 그 ‘나이 탓’이라는 말 뒤에 조용히 숨어서 자랍니다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "na6e339dc",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "12분 전",
+    "url": "https://www.newsis.com/view/NISX20260821_0003758248",
+    "title": "\"소신 지원은 옛말\"…2027학년도 수시 관전포인트는?",
+    "summary": [
+      "[서울=뉴시스]정예빈 기자 = 2027학년도는 내신 9등급제와 통합 대학수학능력시험(수능)으로 대학 입시가 치러지는 마지막 해다.",
+      "현행 체제 아래 시행되는 마지막 수시모집인 만큼 안정 지원이 늘 것이라는 예상과 달리, 합격 가능성이 매우 낮은 대학에 도전하는 수험생이 오히려 늘어날 것이라는 전망이 나왔다.",
+      "올해 입시에 처음 도입되는 지역의사제 전형 지원자들의 평균 내신 성적은 높은 수준에서 형성될 것으로 예측됐다."
+    ],
+    "chips": [
+      "#채용",
+      "#교육"
+    ]
+  },
+  {
+    "id": "nf98d2339",
+    "category": "경제",
+    "source": "뉴시스",
+    "time": "12분 전",
+    "url": "https://www.newsis.com/view/NISX20260821_0003757683",
+    "title": "채소값 뛰고 가공식품 줄인상…추석 앞 밥상물가 비상[치솟는 먹거리 물가①]",
+    "summary": [
+      "[서울=뉴시스]김상윤 기자 = 추석을 한 달여 앞두고 장기간 폭염이 이어지고 남부지방 폭우까지 겹치면서 채소류 가격이 치솟고 있다.",
+      "식품업체들의 가공식품 가격 인상까지 이어지면서 장바구니 물가 상승 압력이 커지고 있다.",
+      "22일 국가데이터처에 따르면 지난달 소비자물가지수는 전년 동월 대비 2.8% 상승했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n3aa96858",
+    "category": "IT",
+    "source": "조선비즈IT",
+    "time": "13분 전",
+    "url": "https://biz.chosun.com/it-science/ict/2026/08/22/HV7JB4TG6NF35OUD2FF4EM46ZM/",
+    "title": "“8년 된 게임도 업데이트로 인기 역주행”… 투자 효율 높이는 게임사들",
+    "summary": [
+      "“8년 된 게임도 업데이트로 인기 역주행”… 투자 효율 높이는 게임사들."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n5ebc4235",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "13분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260821122900017",
+    "title": "[건강포커스] \"무료게임 지출, 상위 10%가 61% 차지…수익화 구조 규제 필요\"",
+    "summary": [
+      "(서울=연합뉴스) 이주영 기자 = 게임은 무료로 제공하면서 게임 내 결제에서 수익을 내는 비디오게임에서 대부분의 지출이 소수 이용자에게 집중되고..."
+    ],
+    "chips": [
+      "#정책",
+      "#의료"
+    ]
+  },
+  {
+    "id": "nd97c812e",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "13분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260821140400063",
+    "title": "'전직간부 자녀 승진순위 조정 지시' 대전소방 퇴직 간부 벌금형",
+    "summary": [
+      "(대전=연합뉴스) 이주형 기자 = 전직 간부 소방관들의 자녀를 승진시키기 위해 근무 성적평가 점수 등이 조정되도록 지시한 전 대전소방본부 간부가..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nb7e19a8a",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "13분 전",
+    "url": "https://www.chosun.com/national/weekend/2026/08/22/QCR6Q6AUBVEBJCMKRKTRDW745A/",
+    "title": "[아무튼, 주말]#오딧세이고전의힘#파묘에빠진사회",
+    "summary": [
+      "[아무튼, 주말]#오딧세이고전의힘#파묘에빠진사회."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "na1e44532",
+    "category": "경제",
+    "source": "한국경제",
+    "time": "40분 전",
+    "url": "https://www.hankyung.com/article/202608225801i",
+    "title": "국채 바이백의 이면은?…메모리 진출한다는 인텔[월가 백브리핑]",
+    "summary": [
+      "국채 바이백의 이면은?…메모리 진출한다는 인텔[월가 백브리핑]."
+    ],
+    "chips": [
+      "#뉴스"
     ]
   },
   {
     "id": "n6ebd3485",
     "category": "경제",
     "source": "연합뉴스(경제)",
-    "time": "10분 전",
+    "time": "1시간 전",
     "url": "https://www.yna.co.kr/view/AKR20260822005400072",
     "title": "국제유가, 중동 불안 지속에 6일 연속 상승…브렌트유 94달러대",
     "summary": [
@@ -367,100 +518,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "ndb4638dd",
-    "category": "스포츠",
-    "source": "연합뉴스",
-    "time": "11분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260822005600527",
-    "title": "경기 화성·오산 호우주의보 해제",
-    "summary": [
-      "(수원=연합뉴스) 기상청은 화성·오산에 내렸던 호우주의보를 22일 오전 5시를 기해 해제한다고 밝혔다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n2fb886f8",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "12분 전",
-    "url": "https://www.newsis.com/view/NISX20260821_0003758056",
-    "title": "토요일 인천, 낮 최고기온 30도…오후 소나기 예보",
-    "summary": [
-      "[인천=뉴시스] 전예준 기자 = 22일 인천은 낮 최고기온이 30도에 육박하고, 오후 사이 소나기가 내리겠다.",
-      "하늘은 북태평양 고기압의 가장자리에 들어 흐리겠다.",
-      "수도권기상청은 \"아침 최저기온은 24도, 낮 최고기온은 30도 내외의 분포를 보이겠다\"며 \"오후 사이 곳에 따라 소나기가 내리는 곳이 있겠다\"고 예보했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n29272fe9",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "12분 전",
-    "url": "https://www.newsis.com/view/NISX20260821_0003758044",
-    "title": "경기북부 비·소나기 예보…일요일엔 무더위",
-    "summary": [
-      "[경기북부=뉴시스] 김도희 기자 = 토요일인 22일 경기북부지역에는 비와 소나기가 내리겠다.",
-      "이날 오전까지는 10~60㎜ 가량의 비가, 오후에는 5~40㎜의 소나기가 내릴 것으로 예보됐다.",
-      "비나 소나기가 내리는 지역에서는 천둥, 번개가 치는 곳이 있겠으니 시설물 관리와 안전사고에 유의해야한다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "ndab48574",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "13분 전",
-    "url": "https://www.chosun.com/national/national_general/2026/08/22/QQRASGS7SZASNG3XHGYYIOKDBM/",
-    "title": "[단독] 바퀴벌레 박멸 전쟁… ‘신무기’ 들고 나선다",
-    "summary": [
-      "[단독] 바퀴벌레 박멸 전쟁… ‘신무기’ 들고 나선다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n5c1c3356",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "19분 전",
-    "url": "https://www.chosun.com/sports/world-football/2026/08/22/GQ4GCYLBGFTDCZDGMEZGIZRXGQ/",
-    "title": "\"월드컵 이후 머리 다 비우지 못했다\" 오현규, 오현규, 경쟁자 극찬하고 시즌 첫 골+PK 유도로 존재감 '폭발'",
-    "summary": [
-      "[OSEN=정승우 기자] 오현규(25)가 새로운 경쟁자 두산 블라호비치(26, 이상 베식타스)를 향해 \"세계 최고의 스트라이커\"라고 치켜세웠다.",
-      "동시에 자신 역시 시즌 첫 골과 페널티킥 유도로 존재감을 드러냈다.",
-      "경쟁을 피하지 않고 정면으로 받아들이는 모습이었다.베식타스는 21일(한국시간) 튀르키예 이스탄불의 튀프라쉬 스타디움에서 열린 FK 카우노 잘기리스."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n975f30bf",
-    "category": "경제",
-    "source": "연합뉴스",
-    "time": "36분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260822005000072",
-    "title": "비트코인 랠리에도 예측시장은 신중…\"연말 7만5천달러 안팎\"",
-    "summary": [
-      "(뉴욕=연합뉴스) 김연숙 특파원 = 가상화폐 비트코인이 최근 일주일 새 20% 넘게 급등했지만, 예측시장에서는 올해 말 가격을 현재보다 낮은 7..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
     "id": "n9b0a6997",
     "category": "IT",
     "source": "테크M",
-    "time": "48분 전",
+    "time": "1시간 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=154522",
     "title": "\"크리에이터 타고 여행 예약까지\" 네이버, '여행 커넥트' 출시...콘텐츠·커머스 접점 넓힌다",
     "summary": [
@@ -476,7 +537,7 @@ window.NEWS_DB = [
     "id": "n9db42040",
     "category": "사회",
     "source": "테크M",
-    "time": "48분 전",
+    "time": "1시간 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=154521",
     "title": "카카오 노조, 인적분할에 \"책임까지 쪼갤 순 없어\"...'공동교섭' 요구",
     "summary": [
@@ -493,7 +554,7 @@ window.NEWS_DB = [
     "id": "n9439df48",
     "category": "경제",
     "source": "연합뉴스(경제)",
-    "time": "1시간 전",
+    "time": "2시간 전",
     "url": "https://www.yna.co.kr/view/AKR20260822003000075",
     "title": "텍사스가 새 금융거점?…\"월가, 맘다니 피해 '욜스트리트'로\"",
     "summary": [
@@ -507,7 +568,7 @@ window.NEWS_DB = [
     "id": "n1f397c26",
     "category": "사회",
     "source": "동아일보",
-    "time": "1시간 전",
+    "time": "2시간 전",
     "url": "https://www.donga.com/news/Inter/article/all/20260822/134523082/1",
     "title": "자동차 판매하는 26세 청년, 알고 보니 ‘벨기에 왕자’…DNA 검사로 확인",
     "summary": [
@@ -522,7 +583,7 @@ window.NEWS_DB = [
     "id": "nd0ddc54e",
     "category": "사회",
     "source": "테크M",
-    "time": "1시간 전",
+    "time": "2시간 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=154519",
     "title": "삼성전자 동행노조, '뒷북집회' 지적 확산...퇴근길 가두행진 '빌미'",
     "summary": [
@@ -535,10 +596,24 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n9ccf6a8c",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "3시간 전",
+    "url": "https://www.chosun.com/culture-life/food-taste/2026/08/22/YOWP3XXG2FGMNO2TYKOBDQWMWI/",
+    "title": "동해에서 바가지 없이 즐기는 호사… 현지인이 일러준 주문진의 맛",
+    "summary": [
+      "동해에서 바가지 없이 즐기는 호사… 현지인이 일러준 주문진의 맛."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
     "id": "n2bf65893",
     "category": "IT",
     "source": "한국경제",
-    "time": "2시간 전",
+    "time": "3시간 전",
     "url": "https://www.hankyung.com/article/202608225783i",
     "title": "엔비디아, 월가는 실적보다 '이것'에 더 관심[박신영의 개장전 요것만]",
     "summary": [
@@ -546,84 +621,6 @@ window.NEWS_DB = [
     ],
     "chips": [
       "#엔비디아"
-    ]
-  },
-  {
-    "id": "ne8075ae3",
-    "category": "IT",
-    "source": "테크M",
-    "time": "2시간 전",
-    "url": "https://www.techm.kr/news/articleView.html?idxno=154516",
-    "title": "AI로 취약점 찾았더니 AI도 지켜야...모델·에이전트까지 방어 대상에",
-    "summary": [
-      "공격자들이 AI를 악성코드 제작과 침투에 활용하면서 AI 프레임워크까지 공격 대상으로 삼고 있다.",
-      "AI를 방어에 활용하는 보안업계도 모델과 에이전트, 플러그인까지 보호해야 하는 상황을 맞았다.21일 보안업계에 따르면 구글 클라우드 맨디언트는 최근 소스코드 취약점을 AI 에이전트가 자동으로 찾는 '에이전트 기반 취약점 탐지 하네스(AVDH)' 아키텍처를 공개했다.",
-      "여러 AI 에이전트가 소스코드를 나눠 분석하고 취약 가능성을 검증하는 방식이다."
-    ],
-    "chips": [
-      "#AI"
-    ]
-  },
-  {
-    "id": "na395908b",
-    "category": "스포츠",
-    "source": "동아일보",
-    "time": "3시간 전",
-    "url": "https://www.donga.com/news/Sports/article/all/20260822/134522490/2",
-    "title": "亞게임 차출도 못막는 김도영 홈런왕 레이스",
-    "summary": [
-      "프로야구 KIA 간판타자 김도영(23)은 오스틴(33·LG)과 홈런 선두 경쟁을 벌이던 6월에 홈런왕 포기 선언을 했다.",
-      "두 선수가 6월 13일까지 나란히 19홈런씩을 쏘아 올리며 홈런왕 경쟁에 불을 지피던 때였다.",
-      "이유는 내달 19일 개막하는 아이치-나고야 아시안게임 때문이었다."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
-    "id": "nbbde9ff0",
-    "category": "스포츠",
-    "source": "동아일보",
-    "time": "3시간 전",
-    "url": "https://www.donga.com/news/Sports/article/all/20260822/134522479/2",
-    "title": "드디어 꽂았다, 오현규-조규성 시즌 첫 골",
-    "summary": [
-      "한국 축구 대표팀 공격수 오현규(베식타시)와 조규성(미트윌란)이 나란히 머리로 시즌 마수걸이 골을 터뜨렸다.",
-      "베식타시(튀르키예) 공격수 오현규는 21일 튀르키예 이스탄불에서 열린 카우노 잘기리스(리투아니아)와의 2026∼2027시즌 유럽축구연맹(UEFA) 유로파리그(UEL) 플레이오프(PO) 1차전 안방경기에 최전방 공격수로 선발 출전했다.",
-      "오현규는 전반 6분 팀 동료의 코너킥을 헤더로 연결해 이번 시즌 공식전 6경기 만에 처음 골 맛을 봤다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n6dc6d153",
-    "category": "스포츠",
-    "source": "동아일보",
-    "time": "3시간 전",
-    "url": "https://www.donga.com/news/Sports/article/all/20260822/134522488/2",
-    "title": "외계인이 돌아왔다",
-    "summary": [
-      "브라질 축구 스타 호나우지뉴가 46세의 나이에 현역으로 복귀한다.",
-      "호나우지뉴는 21일 이탈리아 라벤나에서 열린 이탈리아 프로축구 세리에C(3부) 라벤나 입단식에 참석해 등번호 10이 새겨진 유니폼을 들고 팬들 앞에 섰다.",
-      "호나우지뉴는 “내가 라벤나에 온 이유는 팀원들이 승리할 수 있도록 돕기 위해서다”라고 말했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n76dd9802",
-    "category": "IT",
-    "source": "조선비즈IT",
-    "time": "5시간 전",
-    "url": "https://biz.chosun.com/it-science/ict/2026/08/22/E4Y6SWXWZBF65B6ZAPFNNBBNAQ/",
-    "title": "카카오 노조, 본사 인적분할에 26일 판교서 공동행동",
-    "summary": [
-      "카카오 노조, 본사 인적분할에 26일 판교서 공동행동."
-    ],
-    "chips": [
-      "#카카오"
     ]
   }
 ];
@@ -633,18 +630,18 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2590건",
-    "trend": "+295%"
+    "mentions": "2720건",
+    "trend": "+315%"
   },
   {
     "rank": 2,
-    "tag": "AI",
-    "mentions": "1550건",
-    "trend": "+135%"
+    "tag": "엔비디아",
+    "mentions": "1420건",
+    "trend": "+115%"
   },
   {
     "rank": 3,
-    "tag": "엔비디아",
+    "tag": "AI",
     "mentions": "1420건",
     "trend": "+115%"
   }
