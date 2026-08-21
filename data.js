@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-08-21 14:23:58
+// 마지막 업데이트: 2026-08-21 15:22:59
 window.NEWS_DB = [
   {
     "id": "n01b7046c",
     "category": "경제",
     "source": "세이프머니",
-    "time": "3시간 전",
+    "time": "4시간 전",
     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9Ub04zeDVfTGNFZUhhWEN6TTYycHZERDdBTEs3OFhqYk1SQ1pibDgycHgzdWktaFRBU1RJam53LTMyZlhxTEM1UXdPMlY5TDhZbmtCbEt0VmhJOEZ4blBDVjBNd1Q3a0R1QmRXSkFR?oc=5",
     "title": "권민수 한은 부총재 금리 인상 관련 '유연한' 정책 판단 필요",
     "summary": [
@@ -20,7 +20,7 @@ window.NEWS_DB = [
     "id": "n9e98d1ae",
     "category": "IT",
     "source": "IT조선",
-    "time": "6시간 전",
+    "time": "7시간 전",
     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5TYVA2YnJMTDkycW43azBHN0h3STBIbmZCVnVIeU5MSUpQU0dfc0ZyYThLMG9nQW5SX2kyT2hibUtIdU5BTW1XVHl3Mms3eXc3VzNudkxaRklBZF9LY3VIQWVkYjVMMGZFSVVYZWxpbGHSAXRBVV95cUxQdXpvZmUzOXhXamVfZmpnb1BNYS1VSkJkNEoxMkQzejduSEhOR2dSTVU3SFVHUlJfUXZRX05NR1NsZmw2bWNTbzlSMG5tZ29jVzZpV0dobHpzR3dWQkFBeEh0SWVvNEdybjFMUGI2VkRwVjd5QQ?oc=5",
     "title": "엔비디아, 리벨리온과 기술협력·투자 논의… 인수 가능성도 거론",
     "summary": [
@@ -34,7 +34,7 @@ window.NEWS_DB = [
     "id": "nd9e5e761",
     "category": "IT",
     "source": "자본시장뉴스",
-    "time": "11시간 전",
+    "time": "12시간 전",
     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1QYUdZQnA5Y2lNeXFNdXhhRFh4bE0zSTV0QWNZSXNZRWs0VXZtYnRxMjhmX0R4ekQtbDJIUTNuN01LM3EtMlI1blRxNU0yZzFkbEdEbFhnRVp0eDMtdDB1aGwyRGFWUnM?oc=5",
     "title": "[반도체 패권 지도 ④] HBM 79% 쥔 한국…파운드리는 7%에 묶여 있다",
     "summary": [
@@ -48,7 +48,7 @@ window.NEWS_DB = [
     "id": "ned9b1714",
     "category": "IT",
     "source": "뉴시스",
-    "time": "15시간 전",
+    "time": "16시간 전",
     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5vQ29yNXlxV1NXbnJwMzdNWUd4OUtqVThRdGxkZkd2eTM0MjEyMms2Tk8xWUljc2tnU04zdEY5OURuVjB6SE5FUWFwR0I0QzdEWmhkRHR4Vy1CQ1VrdUR4SGJYTFFoN01UMXBzdkdGbmVEdEZVTTdHUNIBeEFVX3lxTE5vQ29yNXlxV1NXbnJwMzdNWUd4OUtqVThRdGxkZkd2eTM0MjEyMms2Tk8xWUljc2tnU04zdEY5OURuVjB6SE5FUWFwR0I0QzdEWmhkRHR4Vy1CQ1VrdUR4SGJYTFFoN01UMXBzdkdGbmVEdEZVTTdHUA?oc=5",
     "title": "엔비디아 '中 맞춤형 AI칩 출시설' 부인…\"계획 전혀 없다\"",
     "summary": [
@@ -63,7 +63,7 @@ window.NEWS_DB = [
     "id": "nc0a6ce8c",
     "category": "IT",
     "source": "연합뉴스",
-    "time": "15시간 전",
+    "time": "16시간 전",
     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9YUU41ZWlxU2ZhYWNONDlDUks2MzJsVzNxTmxfbkRXdFpUNXRndkFVTlcyemVSVUd3TENIaFc3bjZacURwTmc3c3MxbHVYR0I1MXhJaFUyYVlpb1Rra0o5ZtIBYEFVX3lxTE9YUU41ZWlxU2ZhYWNONDlDUks2MzJsVzNxTmxfbkRXdFpUNXRndkFVTlcyemVSVUd3TENIaFc3bjZacURwTmc3c3MxbHVYR0I1MXhJaFUyYVlpb1Rra0o5Zg?oc=5",
     "title": "엔비디아가 中 맞춤형 AI칩 출시(?)…회사 \"전혀 계획 없다\"",
     "summary": [
@@ -161,6 +161,20 @@ window.NEWS_DB = [
       "#AI",
       "#스타트업",
       "#네이버"
+    ]
+  },
+  {
+    "id": "n062f98b4",
+    "category": "부동산",
+    "source": "한국주택경제신문",
+    "time": "21일 전",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9Sdmd3SUl0dmRQSWdTck5DVjJ5WXYxTTFmRnBBbEkwa09VclpLd0VsVWFTV2pPRm9sQm1sQmZDb3EyN2lwTVBvZ185RUVycVFnOEdYcHVrcVFnYTdwaGZfUDh2WkFWYndi?oc=5",
+    "title": "서울 아파트값 0.25% 상승… 똘똘한 ‘역세권·대단지’가 집값 견인",
+    "summary": [
+      "서울 아파트값 0.25% 상승… 똘똘한 ‘역세권·대단지’가 집값 견인 한국주택경제신문."
+    ],
+    "chips": [
+      "#부동산"
     ]
   },
   {
@@ -294,21 +308,6 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nbe3faaa9",
-    "category": "부동산",
-    "source": "한국주택경제신문",
-    "time": "190일 전",
-    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBySlBpV3FLRUFBelkwS3NUZWhrOC1qcGdZTW1obGIyVDV3Z2I5WHlwSGRzUkRCSjllUnpRX2Vld2FRa3VRWU56VEROM19hS3lGUU11VFJPS3RZUThkcTRGR0dEa0p2V0xy?oc=5",
-    "title": "서울 집값 0.22% ↑… \"재건축·역세권이 끌었다“",
-    "summary": [
-      "서울 집값 0.22% ↑… \"재건축·역세권이 끌었다“ 한국주택경제신문."
-    ],
-    "chips": [
-      "#부동산",
-      "#재건축"
-    ]
-  },
-  {
     "id": "n9b0a6997",
     "category": "IT",
     "source": "테크M",
@@ -374,261 +373,252 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "na1b1ac2e",
-    "category": "사회",
+    "id": "n7e77c8c4",
+    "category": "스포츠",
     "source": "동아일보",
-    "time": "5분 전",
-    "url": "https://www.donga.com/news/Opinion/article/all/20260821/134522867/2",
-    "title": "뜨거워진 북극 바닷길[횡설수설/장원재]",
+    "time": "1분 전",
+    "url": "https://www.donga.com/news/Sports/article/all/20260822/134523041/1",
+    "title": "‘9점차 뒤집고 대역전’ 한화, LG 제물로 6연패 탈출…KIA 6연승·3위 유지",
     "summary": [
-      "1980년대만 해도 북극 일대는 연중 해빙(海氷)으로 덮여 쇄빙선 없이 항해하는 게 불가능했다.",
-      "하지만 기후변화로 여름철 해빙 면적이 1979년 700만 km²에서 2024년 440만 km²로 줄며 상황이 달라졌다.",
-      "일반 선박도 여름 전후 2, 3개월은 북극항로를 다닐 수 있게 된 것이다."
+      "프로야구 한화 이글스가 9점차를 뒤집는 대역전극을 선보이며 6연패의 사슬을 끊었다.",
+      "한화는 21일 대전 한화생명볼파크에서 벌어진 2026 신한 쏠 KBO리그 LG 트윈스와의 경기에서 1회에만 7점을 내주고도 뒷심을 발휘해 15-11로 역전승을 거뒀다.",
+      "0-9까지 뒤졌다가 역전승을 일군 한화는 역대 최다 점수차 역전승 공동 2위 기록을 세웠다."
     ],
     "chips": [
-      "#환경"
+      "#KBO"
     ]
   },
   {
-    "id": "n5d2c520c",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "6분 전",
-    "url": "https://www.chosun.com/sports/baseball/2026/08/21/GQ4DEOJSMU4TAN3GG44TAYRSMI/",
-    "title": "양현종 13시즌 100이닝 대기록-나성범 24호포-김호령 그랜드슬램 6타점쇼-박재현 4안타-파죽의 6연승...KIA, 오늘만 같아라 [고척 현장]",
-    "summary": [
-      "[고척=스포츠조선 김용 기자] 오늘만 같아라.",
-      "그렇게 파죽의 6연승을 달렸다.",
-      "KIA 타이거즈는 21일 고척스카이돔에서 열린 키움 히어로즈와의 주말 3연전 첫 번째 경기에서 11대1 완승을 거뒀다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n1fe1bdd4",
-    "category": "스포츠",
+    "id": "n516d3975",
+    "category": "사회",
     "source": "뉴시스",
-    "time": "6분 전",
-    "url": "https://www.newsis.com/view/NISX20260821_0003758271",
-    "title": "'통산 195승' KIA 양현종 \"송진우 선배님 기록 깨고 싶다\"",
+    "time": "2분 전",
+    "url": "https://www.newsis.com/view/NISX20260821_0003756975",
+    "title": "\"연장 복무하면 GTA6 출시 때 특별휴가\"…美육군, '이색 인센티브'",
     "summary": [
-      "[서울=뉴시스]박윤서 기자 = KBO리그 최다승과 최다 이닝 부문 2위에 올라 있는 양현종(KIA 타이거즈)이 1위 송진우(은퇴)를 넘어서고 싶다는 바람을 전했다.",
-      "양현종은 21일 서울 고척스카이돔에서 열린 2026 신한 쏠 KBO리그 키움 히어로즈와의 원정 경기에 선발 등판해 5⅓이닝 2피안타 3볼넷 5탈삼진 1실점으로 호투했다.",
-      "승리 투수 요건을 갖춘 상황에서 마운드를 내려간 양현종은 팀이 11-1로 완승을 거두며 시즌 9승이자 통산 195."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
-    "id": "nc72caf89",
-    "category": "스포츠",
-    "source": "연합뉴스",
-    "time": "6분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260821171000007",
-    "title": "[프로야구] 22일 선발투수",
-    "summary": [
-      "[프로야구] 22일 선발투수."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
-    "id": "n8fb579d9",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "6분 전",
-    "url": "https://www.chosun.com/entertainments/broadcast/2026/08/21/MNSGKMLGMVRDSMLCGMYTAZLGGU/",
-    "title": "52세 맞아?…김정은, 화이트 투피스 입고 감탄 부르는 '방부제 동안' 자태",
-    "summary": [
-      "[OSEN=박근희 기자] 배우 김정은이 세월을 잊은 완벽한 동안 미모와 우아한 근황을 공개했다.21일 오후 김정은은 자신의 SNS를 통해 근황이 담긴 여러 장의 사진을 게재했다.공개된 사진 속 김정은은 고급스러운 분위기가 물씬 풍기는 흰색 투피스를 차려입고 갤러리를 찾아 미술 작품을 감상하고 있는 모습이다.특히 사진 속 김정은은 52세라는 나이가 전혀 믿기."
+      "[서울=뉴시스]박세은 인턴 기자 = 미국 육군의 한 부대가 장병들의 복무 연장(재입대)를 유도하기 위해 오는 11월 출시 예정인 비디오게임 'GTA6' 발 시점에 맞춰 4일간의 특별휴가를 제공하는 이색 인센티브를 내걸었다.",
+      "21일 홍콩사우스차이나모닝포스트(SCMP)에 따르면 미국 조지아주 포트 스튜어트에 주둔하는 미 육군 제9공병대대는 오는 11월14일까지 재입대 계약을 체결하고 최소 2년 더 복무하기로 한 장병들에게 '특별 4일 휴가'를 제공."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n6e147613",
+    "id": "ncdb92475",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "2분 전",
+    "url": "https://www.chosun.com/opinion/editorial/2026/08/22/LXP2U53CIZBZPNX7QQWDJNUNKE/",
+    "title": "[사설] 日 ‘月 100시간 초과 근무’ 허용, 韓은 52시간 규제 철옹성",
+    "summary": [
+      "[사설] 日 ‘月 100시간 초과 근무’ 허용, 韓은 52시간 규제 철옹성."
+    ],
+    "chips": [
+      "#정책"
+    ]
+  },
+  {
+    "id": "ndb54b09f",
     "category": "스포츠",
     "source": "연합뉴스",
-    "time": "8분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260821181900007",
-    "title": "[프로야구 대전전적] 한화 15-11 LG",
+    "time": "5분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260822000200007",
+    "title": "피겨 황정율, 주니어 GP 1차 대회 여자 싱글 '최종 9위'",
     "summary": [
-      "[프로야구 대전전적] 한화 15-11 LG."
+      "(서울=연합뉴스) 이영호 기자 = 피겨스케이팅 여자 싱글 기대주 황정율(수리고)이 2026-2027 국제빙상경기연맹(ISU) 피겨스케이팅 주니어..."
     ],
     "chips": [
-      "#KBO"
+      "#뉴스"
     ]
   },
   {
-    "id": "n92d91444",
-    "category": "IT",
-    "source": "동아일보",
-    "time": "8분 전",
-    "url": "https://www.donga.com/news/Opinion/article/all/20260821/134522887/2",
-    "title": "[오늘과 내일/박희창]전기차 삼킨 中, 다음은 ‘로봇 쇼크’",
-    "summary": [
-      "중국 베이징에서 19일 개막한 ‘2026 세계로봇대회(WRC)’에서 스포트라이트는 한 중국 기업에 집중됐다.",
-      "이날 ‘중국판 나스닥’에 상장된 유니트리가 그 주인공이었다.",
-      "전시장에 등장한 유니트리의 휴머노이드 로봇은 사람과 탁구까지 쳤다."
-    ],
-    "chips": [
-      "#스타트업",
-      "#전기차"
-    ]
-  },
-  {
-    "id": "nb82f53c9",
+    "id": "nc3981735",
     "category": "스포츠",
     "source": "조선일보",
     "time": "9분 전",
-    "url": "https://www.chosun.com/sports/baseball/2026/08/21/GEZTMOBQGRQTKMDBGUZWEZJTG4/",
-    "title": "이런 미친 경기가 있나, 0:9→15:11 대역전 드라마. 한화 20안타 폭발, 6연패 탈출...LG, 이틀 연속 충격 역전패 [대전 리뷰]",
+    "url": "https://www.chosun.com/sports/world-baseball/2026/08/22/G5RTAMBTGBSDOZDEG5STCNZVMU/",
+    "title": "방출 걱정 끝! 한국 거포 유망주에게 이런 능력이…선발 30G 연속 출루 '제2의 추신수' 탄생하나",
     "summary": [
-      "[OSEN=대전, 한용섭 기자] 프로야구 한화 이글스가 LG 트윈스를 꺾고 6연패에서 탈출했다.",
-      "한화는 21일 대전 한화생명볼파크에서 열린 2026 KBO리그 LG와 경기에서 장단 20안타를 터뜨리며 15-11 대역전 드라마로 승리했다.",
-      "선발투수가 1회 1아웃만 잡고 7실점 조기강판됐다."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
-    "id": "nd6ee7f5a",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "10분 전",
-    "url": "https://www.newsis.com/view/NISX20260821_0003757717",
-    "title": "41세 고준희, 브라톱 드러낸 올블랙 패션…모델 같은 비율",
-    "summary": [
-      "[서울=뉴시스]박재민 인턴 기자 = 배우 고준희가 과감한 올블랙룩을 입고 모델 같은 몸매를 자랑했다.",
-      "고준희는 21일 소셜미디어에 별다른 말 없이 카페에서 찍은 사진 여러 장을 올렸다.",
-      "사진 속 고준희는 올블랙 룩을 입고 모델처럼 다양한 포즈를 취했다."
+      "[OSEN=이상학 객원기자] 한국산 거포가 꾸준한 출루 능력까지 발휘하며 성장을 거듭 중이다.",
+      "제2의 추신수 탄생 예감이다.",
+      "세인트루이스 카디널스 산하 더블A 스프링필드 카디널스 소속 조원빈은 지난 21일(이하 한국시간) 미국 아칸소주 노스리톨록 디키-스티븐스파크에서 열린 아칸소 트레블러스(시애틀 매리너스 산하)와의 원정경기에 3번 타자 우익수로 선발출장,."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n238fc119",
+    "id": "na5718c98",
     "category": "사회",
-    "source": "동아일보",
-    "time": "11분 전",
-    "url": "https://www.donga.com/news/Opinion/article/all/20260821/134522869/2",
-    "title": "[동아시론/김대일]청년 일자리 위기, 노동시장-교육의 낡은 틀 바꿔야",
+    "source": "조선일보",
+    "time": "9분 전",
+    "url": "https://www.chosun.com/entertainments/broadcast/2026/08/22/MFRWENJVGY3WMOLEMQZDSYRRGE/",
+    "title": "‘문경찬♥’ 박소영, 출산 D-7..마지막까지 운동 “만삭치고 잘 돌아다녀” (주부됐쏘영)",
     "summary": [
-      "15∼29세 청년 취업자는 45개월째 감소하고, 청년 실업률도 5년 반 만에 가장 큰 폭으로 상승하는 등 청년 일자리 문제가 심각하다.",
-      "청년기 실업이 길어지면 취업 이후에도 업무 역량 축적이 늦어지고 생산성이 하락해 개인과 사회 모두에 손실로 돌아오므로 실효성 있는 처방이 시급하다.",
-      "지금까지 여러 정책이 있었지만 뚜렷한 효과를 거두지 못했다."
+      "영상 시청 후 작성된 리뷰 기사입니다.[OSEN=박하영 기자] 개그우먼 박소영이 출산을 앞둔 소감을 전했다.",
+      "21일 유튜브 채널 ‘주부됐쏘영’에는 ‘출산 D-7 출산까지 딱 일주일 남은 임산부 소영씨는 어떻게 살고 있을까? 자연분만 준비 브이로그’라는 제목의 영상이 게재됐다.이날 박소영은 “(아이가 돌아와) 자연분만 할 수 있다고 해서 짐볼도 이제 슬슬 해."
     ],
     "chips": [
-      "#정책",
-      "#취업",
-      "#고용",
-      "#교육"
+      "#뉴스"
     ]
   },
   {
-    "id": "n134644af",
+    "id": "nad2f5395",
     "category": "사회",
-    "source": "동아일보",
-    "time": "14분 전",
-    "url": "https://www.donga.com/news/Opinion/article/all/20260821/134522727/2",
-    "title": "[광화문에서/강경석]내란-2차 특검의 기소권 충돌… 부작용 막을 장치는 있어야",
-    "summary": [
-      "“사실관계는 똑같지만 법률적으로 보는 시각이 정반대다.” 내란 특검(특별검사 조은석) 수사에 참여했던 핵심 관계자는 내란 특검이 혐의가 없다고 판단했던 군 수뇌부와 윤석열 정부 주요 관계자들을 최근 2차 종합특검(특별검사 권창영)이 내란 가담 혐의로 줄줄이 재판에 넘기자 이렇게 말했다.",
-      "역대 최대 규모로 2월 출범한 종합특검은 대통령 관저 이전 의혹과 관련해 김대기 전 대통령비서실장과 윤재순 전 총무비서관 등을 구속 기소하는 등 ‘3대 특검’에."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n01a071d0",
-    "category": "경제",
     "source": "뉴시스",
-    "time": "15분 전",
-    "url": "https://www.newsis.com/view/NISX20260821_0003758274",
-    "title": "뉴욕증시, 상승 출발…다우 0.6%↑·가상화폐 관련주 급등",
+    "time": "12분 전",
+    "url": "https://www.newsis.com/view/NISX20260821_0003758247",
+    "title": "이선정, 가족도 몰랐던 혼인신고…\"너무 섣불렀다, 후회해\"",
     "summary": [
-      "[서울=뉴시스]고재은 기자 = 미국 뉴욕증시가 21일(현지 시간) 장기 국채금리, 비트코인 등을 주시하며 상승세로 출발했다.",
-      "다우존스30산업평균지수(DJIA)는 한국 시간 오후 10시40분께 전장 대비 347.12포인트(0.66%) 뛴 5만3106.33를 기록하고 있다.",
-      "스탠더드앤드푸어스(S&P) 500 지수는 25.21포인트(0.33%) 상승한 766.37을, 기술주 중심의 나스닥 지수는 30.225포인트(0.12%) 오른 2만6097.39를."
+      "[서울=뉴시스]강주희 기자 = 배우 이선정이 가족에게 알리지 않은 채 혼인신고를 했던 과거를 후회했다.",
+      "21일 이선정의 유튜브 채널에는 '현실 남매 그 자체! 쌍둥이 동생이 밝히는 이선정의 찐 과거'라는 제목의 영상이 공개됐다.",
+      "영상 속 이선정은 쌍둥이 동생 부부와 함께 식사하며 이야기를 나눴다."
     ],
     "chips": [
-      "#금리"
+      "#뉴스"
     ]
   },
   {
-    "id": "nf300d682",
-    "category": "경제",
+    "id": "n76dd9802",
+    "category": "IT",
+    "source": "조선비즈IT",
+    "time": "16분 전",
+    "url": "https://biz.chosun.com/it-science/ict/2026/08/22/E4Y6SWXWZBF65B6ZAPFNNBBNAQ/",
+    "title": "카카오 노조, 본사 인적분할에 26일 판교서 공동행동",
+    "summary": [
+      "카카오 노조, 본사 인적분할에 26일 판교서 공동행동."
+    ],
+    "chips": [
+      "#카카오"
+    ]
+  },
+  {
+    "id": "n57c27c27",
+    "category": "사회",
     "source": "연합뉴스",
-    "time": "19분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260821181800009",
-    "title": "뉴욕증시, 저가 매수에 상승 출발",
+    "time": "18분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260821182000108",
+    "title": "튀르키예, 네타냐후에 집단학살 혐의 체포영장 발부",
     "summary": [
-      "(서울=연합뉴스) 윤정원 연합인포맥스 기자 = 뉴욕증시의 3대 주가지수는 저가 매수 움직임에 힘입어 상승 출발했다."
+      "(이스탄불=연합뉴스) 김동호 특파원 = 튀르키예 사법당국은 이스라엘의 베냐민 네타냐후 총리에게 집단학살 혐의를 적용해 체포영장을 발부했다고 21..."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n368b4c27",
-    "category": "경제",
-    "source": "한국경제",
+    "id": "n6e1d9581",
+    "category": "사회",
+    "source": "뉴시스",
     "time": "20분 전",
-    "url": "https://www.hankyung.com/article/2026082157431",
-    "title": "'통일교 1억 수수' 권성동 변호사 등록 취소…'징역 2년 확정' 결격 사유",
+    "url": "https://www.newsis.com/view/NISX20260821_0003757902",
+    "title": "10㎏ 빼더니 확 달라졌다…이은지, 비키니 입고 바다에 풍덩",
     "summary": [
-      "'통일교 1억 수수' 권성동 변호사 등록 취소…'징역 2년 확정' 결격 사유."
+      "[서울=뉴시스]장인혜 인턴 기자 = 코미디언 이은지가 러닝으로 약 10㎏을 감량한 뒤 여러 종류의 수영복을 입고 바다에서 물놀이를 즐기는 모습을 공개했다.",
+      "21일 이은지는 자신의 사회관계망서비스(SNS)에 \"햇빛이 너무 좋은걸 여름 좋아 걸\"라는 글과 함께 여러 장의 사진을 올렸다.",
+      "공개된 사진에는 바다에서 휴가를 보내는 이은지의 모습이 담겼다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "nb8a5d382",
-    "category": "스포츠",
-    "source": "아시아경제",
+    "id": "naaf07a5a",
+    "category": "사회",
+    "source": "동아일보",
     "time": "21분 전",
-    "url": "https://view.asiae.co.kr/article/2026082123023374627",
-    "title": "최현덕 남양주시장, 진접선 감축 막았다…내년 170회로 증회",
+    "url": "https://www.donga.com/news/Inter/article/all/20260822/134523023/2",
+    "title": "“어제 청혼했는데”…캠핑 중 불곰에 끌려간 20대 여성 참변",
     "summary": [
-      "경기 남양주시(시장 최현덕)가 진접차량기지 운영에 따라 예정됐던 진접선 열차 운행 감축 계획을 철회시켰다.",
-      "현재 왕복 158회인 운행 횟수를 그대로 유지되고 내년 상반기에는 170회까지 늘릴 계획이다.",
-      "남양주시는 서울교통공사와 협의한 결과, 진접선 운행 횟수를 왕복 158회에서 150회로 줄이려던 계획을 철회하고 현행 수준을 유지하기로 했다고 21일 밝혔다."
+      "러시아에서 20대 여성이 연인과 캠핑을 하던 중 불곰의 습격을 받아 숨지는 사고가 발생했다.19일(현지 시간) 영국 더선 등에 따르면 러시아 노보시비르스크 출신 스네자나 코롤료바(29)는 최근 약혼자와 함께 러시아 알타이 산맥으로 캠핑 여행을 떠났다.사고는 새벽 1시경 발생했다.",
+      "불곰 한 마리가 두 사람이 머물던 텐트를 찢고 들어와 코롤료바를 공격한 뒤 텐트 밖으로 끌고 나갔다.당시 현장에 있던 약혼자와 다른 캠핑객들은 코롤료바를 구하기 위해."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "nf14fd10b",
+    "id": "n7d70c28d",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "21분 전",
+    "url": "https://www.newsis.com/view/NISX20260821_0003757794",
+    "title": "오로라처럼 스미는 빛…김택상의 '물의 회화'[박현주 아트에세이 ㉜]",
+    "summary": [
+      "[서울=뉴시스] 박현주 미술전문 기자 = 오로라가 내려앉은 것 같다.",
+      "분홍과 노랑, 푸른빛이 경계 없이 번진다.",
+      "신비로운 빛이 물안개처럼 마음에 스민다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n50d1b71c",
+    "category": "경제",
+    "source": "한국경제",
+    "time": "22분 전",
+    "url": "https://www.hankyung.com/article/2026082148337",
+    "title": "[오늘의 운세] 2026년 8월 22일 오행별 행운의 컬러",
+    "summary": [
+      "[오늘의 운세] 2026년 8월 22일 오행별 행운의 컬러."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n74eb1718",
+    "category": "경제",
+    "source": "한국경제",
+    "time": "22분 전",
+    "url": "https://www.hankyung.com/article/2026082147117",
+    "title": "[오늘의 운세] 8월 22일 띠별 운세",
+    "summary": [
+      "[오늘의 운세] 8월 22일 띠별 운세."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n80846b5b",
+    "category": "경제",
+    "source": "한국경제",
+    "time": "22분 전",
+    "url": "https://www.hankyung.com/article/2026082149697",
+    "title": "[오늘의 운세] 2026년 8월 22일 별자리 운세",
+    "summary": [
+      "[오늘의 운세] 2026년 8월 22일 별자리 운세."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nfd24387b",
+    "category": "경제",
+    "source": "한국경제",
+    "time": "22분 전",
+    "url": "https://www.hankyung.com/article/2026082146737",
+    "title": "[오늘의 운세] 오늘 뭐 먹지?…8월 22일 띠별 추천 점심메뉴",
+    "summary": [
+      "[오늘의 운세] 오늘 뭐 먹지?…8월 22일 띠별 추천 점심메뉴."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nf85b1a92",
     "category": "사회",
     "source": "연합뉴스",
-    "time": "25분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260821181600083",
-    "title": "주중대사관, 한국 유학 중국인 초청 '한중 우호의 밤' 행사",
+    "time": "22분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260822000100011",
+    "title": "[알림] 연합뉴스 콘텐츠 저작권 고지",
     "summary": [
-      "(베이징=연합뉴스) 정성조 특파원 = 주중대사관은 21일 중국 베이징에서 '2026 한중 우호의 밤' 행사를 개최했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n9e4e9b71",
-    "category": "부동산",
-    "source": "한국경제",
-    "time": "27분 전",
-    "url": "https://www.hankyung.com/article/2026082157487",
-    "title": "韓총리, 서울 구청장들과 간담회…\"주택 공급에 모든 수단 활용\"",
-    "summary": [
-      "韓총리, 서울 구청장들과 간담회…\"주택 공급에 모든 수단 활용\"."
+      "연합뉴스가 제공하는 기사, 사진, 그래픽, 영상 등 모든 콘텐츠는 관련 법의 보호를 받습니다.",
+      "연합뉴스 콘텐츠를 사전허가 없이 전재·방송하거나 ..."
     ],
     "chips": [
       "#뉴스"
@@ -641,20 +631,20 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "1940건",
-    "trend": "+195%"
+    "mentions": "2720건",
+    "trend": "+315%"
   },
   {
     "rank": 2,
-    "tag": "KBO",
-    "mentions": "1810건",
-    "trend": "+175%"
-  },
-  {
-    "rank": 3,
     "tag": "AI",
     "mentions": "1550건",
     "trend": "+135%"
+  },
+  {
+    "rank": 3,
+    "tag": "고용",
+    "mentions": "1420건",
+    "trend": "+115%"
   }
 ];
 // ====AUTO-GENERATED-END====
