@@ -1,11 +1,26 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-08-21 11:16:59
+// 마지막 업데이트: 2026-08-21 12:23:55
 window.NEWS_DB = [
+  {
+    "id": "n01b7046c",
+    "category": "경제",
+    "source": "세이프머니",
+    "time": "1시간 전",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9Ub04zeDVfTGNFZUhhWEN6TTYycHZERDdBTEs3OFhqYk1SQ1pibDgycHgzdWktaFRBU1RJam53LTMyZlhxTEM1UXdPMlY5TDhZbmtCbEt0VmhJOEZ4blBDVjBNd1Q3a0R1QmRXSkFR?oc=5",
+    "title": "권민수 한은 부총재 금리 인상 관련 '유연한' 정책 판단 필요",
+    "summary": [
+      "권민수 한은 부총재 금리 인상 관련 '유연한' 정책 판단 필요 세이프머니."
+    ],
+    "chips": [
+      "#금리",
+      "#정책"
+    ]
+  },
   {
     "id": "n9e98d1ae",
     "category": "IT",
     "source": "IT조선",
-    "time": "2시간 전",
+    "time": "4시간 전",
     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5TYVA2YnJMTDkycW43azBHN0h3STBIbmZCVnVIeU5MSUpQU0dfc0ZyYThLMG9nQW5SX2kyT2hibUtIdU5BTW1XVHl3Mms3eXc3VzNudkxaRklBZF9LY3VIQWVkYjVMMGZFSVVYZWxpbGHSAXRBVV95cUxQdXpvZmUzOXhXamVfZmpnb1BNYS1VSkJkNEoxMkQzejduSEhOR2dSTVU3SFVHUlJfUXZRX05NR1NsZmw2bWNTbzlSMG5tZ29jVzZpV0dobHpzR3dWQkFBeEh0SWVvNEdybjFMUGI2VkRwVjd5QQ?oc=5",
     "title": "엔비디아, 리벨리온과 기술협력·투자 논의… 인수 가능성도 거론",
     "summary": [
@@ -19,7 +34,7 @@ window.NEWS_DB = [
     "id": "nd9e5e761",
     "category": "IT",
     "source": "자본시장뉴스",
-    "time": "8시간 전",
+    "time": "9시간 전",
     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1QYUdZQnA5Y2lNeXFNdXhhRFh4bE0zSTV0QWNZSXNZRWs0VXZtYnRxMjhmX0R4ekQtbDJIUTNuN01LM3EtMlI1blRxNU0yZzFkbEdEbFhnRVp0eDMtdDB1aGwyRGFWUnM?oc=5",
     "title": "[반도체 패권 지도 ④] HBM 79% 쥔 한국…파운드리는 7%에 묶여 있다",
     "summary": [
@@ -30,14 +45,14 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n1da04b0e",
+    "id": "ned9b1714",
     "category": "IT",
-    "source": "머니투데이",
-    "time": "12시간 전",
-    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5tLUdELWVvRjN0ekp2T0hCUnBkdVlOMU9QcGNkSTI1QVdGM0RTLTR1NEFiamtPMVM2UF9DUnF5V3Jfa2NwSTNURExpUlV5MlJGQnJ2ckhtNU5UYWlwdDhfZ092bzVHN1NC0gFuQVVfeXFMTnRmQ3R1azBHb0lRWXBqdlhVZE14NTZnUWluVUhZOTVMZmI0UFpRaHpRdU5rS0hIcDIxWURCMkthRDY2eEFadWJpcTNTUk43cDcxdGJNeXREc2pnVmV4WlY3SVl3eFlJeVZrdGRnd1E?oc=5",
-    "title": "엔비디아 \"중국 전용 AI칩 없다\"…연내 출시설 일축 - 머니투데이",
+    "source": "뉴시스",
+    "time": "13시간 전",
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5vQ29yNXlxV1NXbnJwMzdNWUd4OUtqVThRdGxkZkd2eTM0MjEyMms2Tk8xWUljc2tnU04zdEY5OURuVjB6SE5FUWFwR0I0QzdEWmhkRHR4Vy1CQ1VrdUR4SGJYTFFoN01UMXBzdkdGbmVEdEZVTTdHUNIBeEFVX3lxTE5vQ29yNXlxV1NXbnJwMzdNWUd4OUtqVThRdGxkZkd2eTM0MjEyMms2Tk8xWUljc2tnU04zdEY5OURuVjB6SE5FUWFwR0I0QzdEWmhkRHR4Vy1CQ1VrdUR4SGJYTFFoN01UMXBzdkdGbmVEdEZVTTdHUA?oc=5",
+    "title": "엔비디아 '中 맞춤형 AI칩 출시설' 부인…\"계획 전혀 없다\"",
     "summary": [
-      "엔비디아 \"중국 전용 AI칩 없다\"…연내 출시설 일축 - 머니투데이 머니투데이."
+      "엔비디아 '中 맞춤형 AI칩 출시설' 부인…\"계획 전혀 없다\" 뉴시스."
     ],
     "chips": [
       "#AI",
@@ -48,7 +63,7 @@ window.NEWS_DB = [
     "id": "nc0a6ce8c",
     "category": "IT",
     "source": "연합뉴스",
-    "time": "12시간 전",
+    "time": "13시간 전",
     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9YUU41ZWlxU2ZhYWNONDlDUks2MzJsVzNxTmxfbkRXdFpUNXRndkFVTlcyemVSVUd3TENIaFc3bjZacURwTmc3c3MxbHVYR0I1MXhJaFUyYVlpb1Rra0o5ZtIBYEFVX3lxTE9YUU41ZWlxU2ZhYWNONDlDUks2MzJsVzNxTmxfbkRXdFpUNXRndkFVTlcyemVSVUd3TENIaFc3bjZacURwTmc3c3MxbHVYR0I1MXhJaFUyYVlpb1Rra0o5Zg?oc=5",
     "title": "엔비디아가 中 맞춤형 AI칩 출시(?)…회사 \"전혀 계획 없다\"",
     "summary": [
@@ -161,20 +176,6 @@ window.NEWS_DB = [
     "chips": [
       "#취업",
       "#고용"
-    ]
-  },
-  {
-    "id": "n6aa2d332",
-    "category": "경제",
-    "source": "Chosunbiz",
-    "time": "22일 전",
-    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNMFYzUVVCVmVkSGhnX1lDUUZMY3NWS2NYcFVRRWNWRVVkWUw1VHRNZFpzeG5VdU9ub2xGTW84VzI3NVZCV1ppMkRXQ2JZTTgtZi1VWmpkWU1PTlBIRjZCbFVtQ2ZqMndkMW9zbktXN0xkZ3Q1QjN6UDNNOGxKb24xemxPXzBJUdIBmgFBVV95cUxQU05hWUwxVFRDcm5lUkQ1MDJaWTdjMEdEMkJjMmVFZ0xMRFh4cFFic2N5eEl0ZmplNlF4V1RfVEtNMDljc3g4bHdYdTZLZENSUTh4V3pTMVN2VTVQRlowNXZQNWpLdzh5V2c2NDJIWlVZWDVfdVFJY0NuVWp6cWEweDVaWi1wZkNTNGljS09fNFVGNVJ2Nk9lOVVR?oc=5",
-    "title": "[경제 포커스] 주가·환율 함께 떨어지는 이유는… “기업 달러 매도 본격화” - 조선비즈",
-    "summary": [
-      "[경제 포커스] 주가·환율 함께 떨어지는 이유는… “기업 달러 매도 본격화” - 조선비즈 Chosunbiz."
-    ],
-    "chips": [
-      "#환율"
     ]
   },
   {
@@ -374,260 +375,258 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nc0f2b1b4",
-    "category": "부동산",
-    "source": "뉴시스",
-    "time": "1분 전",
-    "url": "https://www.newsis.com/view/NISX20260821_0003758219",
-    "title": "'창업자 무기징역' 이어…中법원, 헝다부동산 파산 신청 수리",
+    "id": "n826b5190",
+    "category": "사회",
+    "source": "아시아경제",
+    "time": "방금 전",
+    "url": "https://view.asiae.co.kr/article/2026082121225142846",
+    "title": "WSJ, 美 무기고 고갈에 \"질서유지 능력 있나\"",
     "summary": [
-      "[베이징=뉴시스]박정규 특파원 = 중국 부동산 시장의 위기를 촉발한 헝다그룹의 핵심 자회사 헝다부동산에 대한 파산 신청이 수리됐다고 21일 홍콩 사우스차이나모닝포스트(SCMP)가 보도했다.",
-      "보도에 따르면 중국 광둥성 광저우 중급인민법원은 이날 광저우농촌상업은행 제기한 파산청산 신청을 받아들여 헝다부동산을 청산하도록 명령했다.",
-      "법원은 해당 회사가 만기가 도래한 채무를 갚지 못하고 보유 자산도 부족하기 때문이라고 설명했다."
+      "이란 전쟁 장기화로 미국의 무기 비축량이 빠르게 줄면서 미국이 세계질서를 유지할 군사적 역량을 갖추고 있는지에 대한 우려가 커지고 있다.",
+      "도널드 트럼프 행정부 출범 이후 동맹 방어 의지에 대한 의구심이 이어진 데 이어 이제는 실제 방어 능력까지 도마에 오른 것이다.20일(현지시간) 월스트리트저널(WSJ)은 유럽과 아시아 동맹국 사이에서 미국의 군사적 역량에 대한 불안이 확산하고 있다고 보도했다."
     ],
     "chips": [
-      "#부동산"
+      "#정치"
     ]
   },
   {
-    "id": "ncda0a81f",
+    "id": "n24347193",
     "category": "사회",
+    "source": "머니투데이",
+    "time": "1분 전",
+    "url": "https://www.mt.co.kr/thebio/2026/08/21/2026082121152218118",
+    "title": "엘앤케이바이오, 경추용 높이 확장형 케이지 美FDA 추가 승인",
+    "summary": [
+      "척추 임플란트 전문기업 엘앤케이바이오메드는 경추용 높이확장형 케이지(Cage) 'BluEX-C'의 풋프린트(Footprint) 사이즈를 확대해 미국 식품의약국(US FDA, 이하 FDA)으로부터 추가 승인을 획득했다고 21일 밝혔다.",
+      "엘앤케이바이오메드는 지난 7월 FDA에 추가 허가 신청을 완료했으며, 신청 약 한 달 만인 지난 18일(미국 현지시각) 최종 승인을 획득했다.",
+      "통상 의료기기 인허가 과정에서 제품의 변경 및 추가 사이즈에 대한 검토."
+    ],
+    "chips": [
+      "#의료"
+    ]
+  },
+  {
+    "id": "n831b6804",
+    "category": "스포츠",
     "source": "조선일보",
     "time": "3분 전",
-    "url": "https://www.chosun.com/entertainments/broadcast/2026/08/21/MMYWGNTDGJQTIZRRGE4TEZTGGY/",
-    "title": "\"모두가 잠들었습니다\"…강소라, 육아 OFF 후 수영복 입고 '깜짝' 등장 ('솔플레이')",
+    "url": "https://www.chosun.com/sports/baseball/2026/08/21/MQ4TGYRWHE2GIMBUHBRTENBXMY/",
+    "title": "한화 짐머맨 아닌 봄버맨? 1아웃 잡고 6안타 7득점 폭풍난타 → 1회도 못버텼다…LG 7-0 리드 [대전리포트]",
     "summary": [
-      "[OSEN=박근희 기자] 배우 강소라가 육아를 잠시 내려놓고 만끽한 소중한 밤수영 일상을 공개했다.21일 오후 유튜브 채널 ‘소라의 솔플레이 SORPLAY of SORA’에는 ‘강소라, 오늘만큼은 육아 OFF 엄마 찬스로 얻은 소중한 자유시간’이라는 제목의 영상이 게재됐다.공개된 영상 속에는 아이들이 모두 잠든 깊은 밤, 수영복을 입고 풀장에 등장한 강소."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "naaea9d0b",
-    "category": "경제",
-    "source": "뉴시스",
-    "time": "6분 전",
-    "url": "https://www.newsis.com/view/NISX20260821_0003758208",
-    "title": "박홍근 \"필요하다면 미래대응기금 통해 국채 발행 줄일 것\"",
-    "summary": [
-      "[세종=뉴시스]박광온 기자 = 박홍근 기획예산처 장관이 '미래대응기금'을 활용해 국채 발행 물량을 축소할 수도 있음을 시사했다.",
-      "아울러 경상성장률 상승과 지출 구조조정 등으로 국가채무비율이 개선되고 있는 만큼, 미래대응기금 조성이 재정건전성을 훼손하는 것은 아니라는 점도 강조했다.",
-      "박홍근 장관은 21일 KBS 뉴스7에 출연해 '세금이 더 걷히게 되면 국가 빚을 갚는 데 우선 사용해야 하지 않느냐'는 지적과 관련해 이 같은 의견을 밝혔다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nba26a67b",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "7분 전",
-    "url": "https://www.chosun.com/opinion/manmulsang/2026/08/21/67DMVWCD7VAK3AC224MVI3OV7I/",
-    "title": "[만물상] 안규백? 한규백?",
-    "summary": [
-      "[만물상] 안규백? 한규백?."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n1d146836",
-    "category": "경제",
-    "source": "아시아경제",
-    "time": "7분 전",
-    "url": "https://view.asiae.co.kr/article/2026082120090154067",
-    "title": "엔저에 달러로 몰리는 日…외화예금 증가폭 28년만 최대",
-    "summary": [
-      "엔화 약세가 장기화할 것이란 전망에 일본 개인과 기업이 달러 등 외화 자산을 빠르게 늘리고 있다.",
-      "일본의 외화예금 증가 폭은 28년 만에 최대치를 기록했다.21일 니혼게이자이신문(닛케이)에 따르면 일본은행 집계 결과 올해 2분기(4~6월) 일본 내 은행의 외화예금 잔액은 26조1000억엔(약 227조8000억원)으로 전년 동기 대비 18% 증가했다.",
-      "증가액은 3조9772억엔(약 34조7000억원)으로 외화예금이 전면 허용된 1998년 이후 최대."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "ndcc5fc90",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "8분 전",
-    "url": "https://www.donga.com/news/Culture/article/all/20260821/134522299/1",
-    "title": "美 메탈 밴드 데몬 헌터, 넷플릭스 ‘케데헌’에 상표권 침해 소송",
-    "summary": [
-      "미국 크리스천 메탈 ‘밴드 데몬 헌터(Demon Hunter)’가 글로벌 히트 애니메이션 ‘케이팝 데몬 헌터스(KPop Demon Hunters)’(케데헌)로 인해 소비자 혼란이 발생했다며, 넷플릭스를 상대로 상표권 침해 소송을 제기했다.19일(현지시간) 영국 가디언 등에 따르면, 데몬 헌터 측은 넷플릭스 스튜디오와 콘서트 기획사 AEG 프레젠츠가 상표권을 침해했다고 주장했다.",
-      "25년간 활동해 온 밴드의 인지도를 알면서도 유사한 제명을 사용해."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n71cddd4c",
-    "category": "스포츠",
-    "source": "동아일보",
-    "time": "8분 전",
-    "url": "https://www.donga.com/news/Society/article/all/20260821/134522292/2",
-    "title": "경찰서 민원실서 쓰러진 50대女…경찰관이 6분 CPR로 살렸다",
-    "summary": [
-      "경찰서 민원실을 찾은 50대 여성이 갑자기 쓰러지면서 호흡곤란을 호소했으나 경찰의 신속한 대처로 목숨을 구한 사연이 뒤늦게 알려졌다.21일 경기남부경찰청에 따르면 6월22일 오후 12시21분경 용인동부경찰서 민원실로 50대 여성이 방문했다.",
-      "당시 여성은 교통 민원 업무를 보려는 지인과 함께 경찰서를 찾았던 것으로 알려졌다.",
-      "그러나 여성은 민원실에 들어온 뒤 갑자기 신음을 내며 바닥에 쓰러졌다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n7cea163d",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "10분 전",
-    "url": "https://www.chosun.com/national/national_general/2026/08/21/IZEBDUPYXFABPLSB3DX4EETWAY/",
-    "title": "경기도, 고양시에 말라리아 경보 발령...파주, 김포 이어 세번째",
-    "summary": [
-      "경기도, 고양시에 말라리아 경보 발령...파주, 김포 이어 세번째."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nbb91da45",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "12분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260821143051001",
-    "title": "트럼프 '북핵 용인' 우려에…보수野 일각 '자체 핵무장론' 분출(종합)",
-    "summary": [
-      "(서울=연합뉴스) 류미나 기자 = 도널드 트럼프 미국 대통령의 한미연합훈련 축소 지시, 북한 핵무기 보유량 언급 등을 계기로 트럼프 정부의 '북..."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "nfe00279d",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "13분 전",
-    "url": "https://www.newsis.com/view/NISX20260821_0003758192",
-    "title": "'데뷔 첫 승 도전' 김승민, KPGA 동아회원권오픈 2R 공동 선두",
-    "summary": [
-      "[서울=뉴시스]박윤서 기자 = 김승민이 한국프로골프(KPGA) 투어 동아회원권오픈(총상금 7억원) 둘째 날 공동 선두로 올라섰다.",
-      "김승민은 21일 충남 태안의 솔라고 컨트리클럽 솔코스(파72)에서 열린 대회 2라운드에서 버디 5개, 보기 2개를 묶어 3언더파 69타를 쳤다.",
-      "중간 합계 12언더파 132타를 작성한 김승민은 정재훈과 함께 공동 1위에 올랐다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n72304524",
-    "category": "사회",
-    "source": "아시아경제",
-    "time": "15분 전",
-    "url": "https://view.asiae.co.kr/article/2026082120012305392",
-    "title": "李대통령 \"부패보다 헌정질서 파괴 더 심각…대책 논의해야\"",
-    "summary": [
-      "이재명 대통령이 \"최근에는 반부패보다 헌정질서 파괴 행위가 더 심각하다\"며 가짜뉴스 확산과 사회 양극화에 대한 대책 마련을 주문했다.이 대통령은 21일 오후 청와대에서 주재한 제1차 반부패정책협의회에서 \"가짜뉴스가 횡행하고 양극단만 있고 중간이 없어지는 사회의 원인과 대책을 논의해야 한다\"며 이같이 말했다고 강유정 청와대 수석대변인이 서면브리핑을 통해 밝혔다.",
-      "이 대통령은 정부 출범 후 1년이 지나 첫 반부패정."
-    ],
-    "chips": [
-      "#정책",
-      "#정치"
-    ]
-  },
-  {
-    "id": "n2afcb395",
-    "category": "IT",
-    "source": "아시아경제",
-    "time": "15분 전",
-    "url": "https://view.asiae.co.kr/article/2026082120012001523",
-    "title": "여성 러너 300명, 9월 13일 안성 금광호수 달린다",
-    "summary": [
-      "여성 트레일러너 300여 명이 오는 9월 13일 경기 안성시 금광호수의 수변길과 숲길을 달린다.",
-      "안성시는 이날 금광호수 일원에서 여성 러너를 위한 '우먼스 아우라 트레일(WOMEN'S AURA TRAIL)' 대회가 열린다고 21일 밝혔다.",
-      "이번 대회는 경기도와 경기관광공사가 추진하는 '경기 런투어' 사업과 연계해 마련됐다."
-    ],
-    "chips": [
-      "#AI"
-    ]
-  },
-  {
-    "id": "nf94e2067",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "16분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260821154200004",
-    "title": "[날씨] 오전까지 비 이어지고 곳곳 소나기…체감온도 최고 35도",
-    "summary": [
-      "(서울=연합뉴스) 윤민혁 기자 = 토요일인 22일은 전날 내리던 비가 오전까지 이어지는 가운데 곳곳에 소나기가 내리겠다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nb7de1ceb",
-    "category": "스포츠",
-    "source": "연합뉴스",
-    "time": "17분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260821175400007",
-    "title": "U-18 남자 농구대표팀, 아시아컵 4강 진출…월드컵 티켓 확보",
-    "summary": [
-      "(서울=연합뉴스) 오명언 기자 = 18세 이하(U-18) 남자농구 대표팀이 아시아컵 준결승 진출에 성공하며 내년에 열리는 U-19 월드컵 출전권..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nf19f5a45",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "18분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260821169251052",
-    "title": "[현장] 특별재난지역 선포에 거제 주민들 일제히 환영…통영서는 아쉬움(종합)",
-    "summary": [
-      "(거제·통영=연합뉴스) 김선경 박영민 기자 = 집중호우로 큰 피해를 본 경남 거제시와 통영 산양읍·봉평동이 21일 특별재난지역으로 선포되자 피해..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n2e8b8705",
-    "category": "스포츠",
-    "source": "뉴시스",
-    "time": "20분 전",
-    "url": "https://www.newsis.com/view/NISX20260821_0003758196",
-    "title": "처참히 무너진 한화 짐머맨…LG전서 ⅓이닝 7실점 후 조기 강판",
-    "summary": [
-      "[서울=뉴시스]김희준 기자 = 프로야구 한화 이글스의 새 외국인 투수 브루스 짐머맨이 또 처참하게 무너졌다.",
-      "짐머맨은 21일 대전 한화생명볼파크에서 벌어진 2026 신한 쏠 KBO리그 LG 트윈스와의 홈 경기에 선발 등판해 아웃카운트 1개를 잡는 동안 안타 6개와 볼넷 2개를 내주고 7실점한 뒤 조기 강판됐다.",
-      "1회초 LG 리드오프 신민재를 볼넷으로 내보낸 짐머맨은 박해민에게 번트 안타를 허용한 후 오스틴 딘에게 또 볼넷을 내줘 무사 만루에 몰."
+      "[대전=스포츠조선 김영록 기자] 홈팬들 속터지는 불꽃놀이가 펼쳐졌다.",
+      "한화 이글스 짐머맨이 1회를 채 채우지 못하고 교체됐다.",
+      "21일 대전 한화생명볼파크."
     ],
     "chips": [
       "#KBO"
     ]
   },
   {
-    "id": "n5c3858a7",
-    "category": "사회",
-    "source": "아시아경제",
-    "time": "29분 전",
-    "url": "https://view.asiae.co.kr/article/2026082119411830848",
-    "title": "英 기상청, 엘니뇨 분석 \"내년 역사상 가장 더운 해 될 가능성\"",
+    "id": "n4ce40514",
+    "category": "경제",
+    "source": "머니투데이",
+    "time": "3분 전",
+    "url": "https://www.mt.co.kr/world/2026/08/21/2026082120420348456",
+    "title": "독일서 훈련받는 우크라이나 군인 무더기 탈영…누적 6만명 추정",
     "summary": [
-      "영국 기상청이 태평양에서 발생하고 있는 엘리뇨 현상이 역사상 가장 강력할 가능성이 높다고 경고했다.",
-      "21일 BBC에 따르면 영국 기상청은 인간이 초래한 기후변화의 영향에 더해 엘니뇨의 영향까지 겹쳐 2027년이 역사상 가장 더운 해가 될 가능성이 '매우 높다'고 밝혔다.",
-      "영국 기상청 장기예보 책임자 아담 스케이프 교수는 \"이것이 전례 없는 사건이라는 점을 분명히 해야 한다\"며 \"이렇게 강렬한 엘리뇨 신호는 한 번도 본 적."
+      "독일에서 군사훈련을 받던 우크라이나 군인들이 무단으로 부대를 이탈하는 사례가 잇따르는 것으로 전해졌다.",
+      "독일 주간지 디 차이트는 작센안할트주 알텐그라보우 훈련장에서 2022년 이후 약 80명이 탈영했으며, 전국적으로는 수백명으로 추정된다고 20일(현지시간) 보도했다.",
+      "이들은 러시아군과 싸우기 위한 훈련을 받으려고 독일에 파견됐으나, 훈련장을 이탈한 뒤 우크라이나 복귀를 피하려 한 것으로 파악됐다."
     ],
     "chips": [
-      "#환경"
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nbc7bd94f",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "3분 전",
+    "url": "https://www.donga.com/news/Inter/article/all/20260821/134522588/1",
+    "title": "이란전 장기화에 흔들린 미국의 힘…“세계질서 지킬 수 있나” 의문 증폭",
+    "summary": [
+      "이란과의 전쟁이 길어지면서 미국의 핵심 미사일 요격체계 비축량이 급감하자, 미국이 유럽·중동·아시아를 아우르는 다중 전선에서 동맹을 방어할 물리적 능력이 있는지를 두고 국제사회 전반에서 회의론이 확산하고 있다.도널드 트럼프 행정부의 불확실한 대외 전략에 더해 군사력의 물리적 한계까지 드러나면서 동맹국들의 안보 불안이 임계점에 달했다는 지적이다.월스트리트저널(WSJ)는 21일(현지시간) 심층 분석을 통해 미국의 대(對)이란 군사작전이 미국의 정밀."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n0bbade01",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "4분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260821178000109",
+    "title": "우크라, 러 애니 '먀샤와 곰' 제작진 제재…\"선전 도구\"",
+    "summary": [
+      "(로마=연합뉴스) 민경락 특파원 = 우크라이나가 러시아의 인기 애니메이션 '마샤와 곰'을 제재 대상으로 지정했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n960cf8b2",
+    "category": "경제",
+    "source": "머니투데이",
+    "time": "4분 전",
+    "url": "https://www.mt.co.kr/society/2026/08/21/2026082121084279430",
+    "title": "\"창문도 없는데 욕조?\" 반발에…국토부, 고시원 욕조 허용 재검토",
+    "summary": [
+      "고시원 내 욕조 설치를 허용하려던 규제 개선안을 국토교통부가 재검토하기로 했다.",
+      "1인 가구의 주거지로서 활용도를 높이겠다는 취지였지만, 거센 반발이 나오면서다.",
+      "국토교통부는 21일 보도참고자료를 통해 \"다중생활시설 건축기준 개정안의 행정예고 과정에서 고시원 이용자, 관련 협회, 언론 보도 등을 통해 욕조 설치 완화 규정에 대한 다양한 의견이 제기됨에 따라 해당 규정을 재검토하겠다\"고 밝혔다."
+    ],
+    "chips": [
+      "#정책"
+    ]
+  },
+  {
+    "id": "nb665a6d3",
+    "category": "스포츠",
+    "source": "머니투데이",
+    "time": "5분 전",
+    "url": "https://www.mt.co.kr/sports/2026/08/21/2026082121152330656",
+    "title": "[한번에쓱]'양현종 이어 6회말 등판해' 추가실점없이 마무리한 이태양",
+    "summary": [
+      "기아 우완투수 이태양이 21일 고척스카이돔에서 열린 2026KBO리그 키움히어로즈와 KIA타이거즈 경기 6회말 1사 1루에서 등판해 추가실점 없이 이닝을 마친 후 자축하고 있다."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
+    "id": "n39b67b6e",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "7분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260821177900099",
+    "title": "민주콩고 에볼라 사망 2천500명 넘어…유엔 \"기하급수적 증가\"",
+    "summary": [
+      "(요하네스버그=연합뉴스) 나확진 특파원 = 콩고민주공화국에서 발병한 에볼라 사망자가 2천500명을 넘어서며 확산세가 지속하고 있다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nf3a708e2",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "9분 전",
+    "url": "https://www.chosun.com/video_photo/2026/08/21/NBPQSNHQ2JFHDBX3ZTPRKLJCWE/",
+    "title": "[더 한장] 파란 하늘 아래 그물 천장… 드론전이 바꾼 우크라이나",
+    "summary": [
+      "[더 한장] 파란 하늘 아래 그물 천장… 드론전이 바꾼 우크라이나."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nf67af612",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "9분 전",
+    "url": "https://www.chosun.com/economy/economy_general/2026/08/21/MVSDSOJSGE4WKOJUG42DKYTFGQ/",
+    "title": "李 대통령, 25일 민주당 신임 지도부 청와대 초청 만찬",
+    "summary": [
+      "이재명 대통령이 오는 25일 더불어민주당 신임 지도부를 청와대로 초청해 만찬을 함께한다.",
+      "강유정 청와대 수석대변인은 21일 저녁 공지를 통해 이같이 밝혔다.",
+      "강 수석대변인은 “이 자리에는 김민석 대표와 한병도 원내대표를 비롯한 최고위원들과 주요 당직자들이 참석한다”고 했다."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "nac3b0694",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "10분 전",
+    "url": "https://www.newsis.com/view/NISX20260821_0003758244",
+    "title": "\"컵라면에 뜨거운 물 금지?\"…日 닛신, '냉수 전용' 컵누들 출시",
+    "summary": [
+      "[서울=뉴시스]이기주 인턴 기자 = 뜨거운 물을 부어 먹는 것이 당연했던 컵라면 시장에 새로운 제품이 등장했다.",
+      "일본 닛신식품이 찬물만으로 조리할 수 있도록 개발한 '차갑게 먹는 컵누들'이다.",
+      "컵누들 55년 역사상 처음으로 뜨거운 물을 사용하지 않는 제품으로, 출시와 동시에 일본에서 화제를 모았다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n9a6fea83",
+    "category": "사회",
+    "source": "아시아경제",
+    "time": "10분 전",
+    "url": "https://view.asiae.co.kr/article/2026082121090085262",
+    "title": "갑자기 경찰서 민원실서 '털썩' 쓰러진 여성…경찰관 6분 CPR이 살렸다",
+    "summary": [
+      "경찰서 민원실을 찾은 민원인이 갑자기 호흡곤란 등 응급 상황에 빠지는 사고가 났으나 경찰의 신속한 대처로 목숨을 구한 사연이 뒤늦게 알려졌다.",
+      "21일 경기남부경찰청에 따르면 지난 6월22일 낮 12시20분께 용인동부경찰서 민원실에서 지인과 함께 방문한 50대 여성 A씨가 갑자기 신음 소리를 내며 바닥에 쓰러졌다.",
+      "당시 교통 민원 부스에서 일하던 김민희 경위는 비명을 듣고 곧바로 달려가 A씨를 바닥에 눕힌 뒤, 상태를 살."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n140a16a7",
+    "category": "부동산",
+    "source": "연합뉴스",
+    "time": "12분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260821178100060",
+    "title": "의정부 아파트 옥상서 투신 소동…4시간 넘게 대치 중",
+    "summary": [
+      "(의정부=연합뉴스) 심민규 기자 = 21일 오후 5시 8분께 경기 의정부시 의정부동의 한 아파트 옥상에서 중년 남성이 투신 소동을 벌인다는 신고..."
+    ],
+    "chips": [
+      "#부동산"
+    ]
+  },
+  {
+    "id": "n75830512",
+    "category": "경제",
+    "source": "아시아경제",
+    "time": "14분 전",
+    "url": "https://view.asiae.co.kr/article/2026082121094504534",
+    "title": "토요일 오전까지 비…낮 최고 34도 '찜통더위'",
+    "summary": [
+      "토요일인 22일은 전날부터 내리던 비가 오전까지 이어지고 전국 곳곳에 소나기가 내리겠다.",
+      "비가 그친 뒤에도 낮 최고기온이 34도까지 오르는 등 무더위가 이어질 전망이다.21일 기상청에 따르면 22일 오전부터 전남권과 경남 서부 내륙, 제주도에서 소나기가 내리기 시작해 낮부터 중부지방과 그 밖의 남부지방으로 확대되겠다.",
+      "소나기는 남부지방에서 늦은 오후, 중부지방에서는 저녁 무렵 대부분 그치겠다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nceb308ba",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "16분 전",
+    "url": "https://www.chosun.com/national/court_law/2026/08/21/PAA3DXMYBFFQRBPMXBL5VLQYEI/",
+    "title": "변협, ‘통일교 1억원 수수’ 징역 2년 확정된 권성동 변호사 등록 취소",
+    "summary": [
+      "변협, ‘통일교 1억원 수수’ 징역 2년 확정된 권성동 변호사 등록 취소."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n69afe379",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "16분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260821177100109",
+    "title": "멜로니 \"트럼프와 일이 쉬울 거라 생각…상황 다르게 흘러가\"",
+    "summary": [
+      "(로마=연합뉴스) 민경락 특파원 = 조르자 멜로니 이탈리아 총리는 \"도널드 트럼프 미국 대통령과 일이 쉬울 것이라고 생각했지만 상황은 다르게 흘..."
+    ],
+    "chips": [
+      "#정치"
     ]
   }
 ];
@@ -637,20 +636,20 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2330건",
-    "trend": "+255%"
+    "mentions": "2070건",
+    "trend": "+215%"
   },
   {
     "rank": 2,
     "tag": "AI",
-    "mentions": "1680건",
-    "trend": "+155%"
+    "mentions": "1550건",
+    "trend": "+135%"
   },
   {
     "rank": 3,
-    "tag": "고용",
-    "mentions": "1420건",
-    "trend": "+115%"
+    "tag": "KBO",
+    "mentions": "1550건",
+    "trend": "+135%"
   }
 ];
 // ====AUTO-GENERATED-END====
