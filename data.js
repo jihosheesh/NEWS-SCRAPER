@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-08-21 17:19:04
+// 마지막 업데이트: 2026-08-21 18:21:27
 window.NEWS_DB = [
   {
     "id": "n01b7046c",
     "category": "경제",
     "source": "세이프머니",
-    "time": "6시간 전",
+    "time": "7시간 전",
     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9Ub04zeDVfTGNFZUhhWEN6TTYycHZERDdBTEs3OFhqYk1SQ1pibDgycHgzdWktaFRBU1RJam53LTMyZlhxTEM1UXdPMlY5TDhZbmtCbEt0VmhJOEZ4blBDVjBNd1Q3a0R1QmRXSkFR?oc=5",
     "title": "권민수 한은 부총재 금리 인상 관련 '유연한' 정책 판단 필요",
     "summary": [
@@ -20,7 +20,7 @@ window.NEWS_DB = [
     "id": "n9e98d1ae",
     "category": "IT",
     "source": "IT조선",
-    "time": "8시간 전",
+    "time": "10시간 전",
     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5TYVA2YnJMTDkycW43azBHN0h3STBIbmZCVnVIeU5MSUpQU0dfc0ZyYThLMG9nQW5SX2kyT2hibUtIdU5BTW1XVHl3Mms3eXc3VzNudkxaRklBZF9LY3VIQWVkYjVMMGZFSVVYZWxpbGHSAXRBVV95cUxQdXpvZmUzOXhXamVfZmpnb1BNYS1VSkJkNEoxMkQzejduSEhOR2dSTVU3SFVHUlJfUXZRX05NR1NsZmw2bWNTbzlSMG5tZ29jVzZpV0dobHpzR3dWQkFBeEh0SWVvNEdybjFMUGI2VkRwVjd5QQ?oc=5",
     "title": "엔비디아, 리벨리온과 기술협력·투자 논의… 인수 가능성도 거론",
     "summary": [
@@ -34,7 +34,7 @@ window.NEWS_DB = [
     "id": "nd9e5e761",
     "category": "IT",
     "source": "자본시장뉴스",
-    "time": "14시간 전",
+    "time": "15시간 전",
     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1QYUdZQnA5Y2lNeXFNdXhhRFh4bE0zSTV0QWNZSXNZRWs0VXZtYnRxMjhmX0R4ekQtbDJIUTNuN01LM3EtMlI1blRxNU0yZzFkbEdEbFhnRVp0eDMtdDB1aGwyRGFWUnM?oc=5",
     "title": "[반도체 패권 지도 ④] HBM 79% 쥔 한국…파운드리는 7%에 묶여 있다",
     "summary": [
@@ -45,14 +45,14 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "ned9b1714",
+    "id": "n1da04b0e",
     "category": "IT",
-    "source": "뉴시스",
-    "time": "18시간 전",
-    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5vQ29yNXlxV1NXbnJwMzdNWUd4OUtqVThRdGxkZkd2eTM0MjEyMms2Tk8xWUljc2tnU04zdEY5OURuVjB6SE5FUWFwR0I0QzdEWmhkRHR4Vy1CQ1VrdUR4SGJYTFFoN01UMXBzdkdGbmVEdEZVTTdHUNIBeEFVX3lxTE5vQ29yNXlxV1NXbnJwMzdNWUd4OUtqVThRdGxkZkd2eTM0MjEyMms2Tk8xWUljc2tnU04zdEY5OURuVjB6SE5FUWFwR0I0QzdEWmhkRHR4Vy1CQ1VrdUR4SGJYTFFoN01UMXBzdkdGbmVEdEZVTTdHUA?oc=5",
-    "title": "엔비디아 '中 맞춤형 AI칩 출시설' 부인…\"계획 전혀 없다\"",
+    "source": "머니투데이",
+    "time": "19시간 전",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5tLUdELWVvRjN0ekp2T0hCUnBkdVlOMU9QcGNkSTI1QVdGM0RTLTR1NEFiamtPMVM2UF9DUnF5V3Jfa2NwSTNURExpUlV5MlJGQnJ2ckhtNU5UYWlwdDhfZ092bzVHN1NC0gFuQVVfeXFMTnRmQ3R1azBHb0lRWXBqdlhVZE14NTZnUWluVUhZOTVMZmI0UFpRaHpRdU5rS0hIcDIxWURCMkthRDY2eEFadWJpcTNTUk43cDcxdGJNeXREc2pnVmV4WlY3SVl3eFlJeVZrdGRnd1E?oc=5",
+    "title": "엔비디아 \"중국 전용 AI칩 없다\"…연내 출시설 일축 - 머니투데이",
     "summary": [
-      "엔비디아 '中 맞춤형 AI칩 출시설' 부인…\"계획 전혀 없다\" 뉴시스."
+      "엔비디아 \"중국 전용 AI칩 없다\"…연내 출시설 일축 - 머니투데이 머니투데이."
     ],
     "chips": [
       "#AI",
@@ -63,7 +63,7 @@ window.NEWS_DB = [
     "id": "nc0a6ce8c",
     "category": "IT",
     "source": "연합뉴스",
-    "time": "18시간 전",
+    "time": "19시간 전",
     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9YUU41ZWlxU2ZhYWNONDlDUks2MzJsVzNxTmxfbkRXdFpUNXRndkFVTlcyemVSVUd3TENIaFc3bjZacURwTmc3c3MxbHVYR0I1MXhJaFUyYVlpb1Rra0o5ZtIBYEFVX3lxTE9YUU41ZWlxU2ZhYWNONDlDUks2MzJsVzNxTmxfbkRXdFpUNXRndkFVTlcyemVSVUd3TENIaFc3bjZacURwTmc3c3MxbHVYR0I1MXhJaFUyYVlpb1Rra0o5Zg?oc=5",
     "title": "엔비디아가 中 맞춤형 AI칩 출시(?)…회사 \"전혀 계획 없다\"",
     "summary": [
@@ -89,20 +89,6 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nd000c55e",
-    "category": "IT",
-    "source": "데이터넷",
-    "time": "1일 전",
-    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE11QUd4NkhZaDRidFpDRHoyWnFPeURfYVpIMjRZc1pjSmdiTDBiYmVZbnpCQkJxd0ZJaUdMeW5DWVhaTlVmOW53X3BuVTh4bGtYVWM4OUd3a1RtdFdtNm5xSVZMakxxb1lsUnNONA?oc=5",
-    "title": "“인텔은 메모리 넘보고, 삼성은 파운드리 반격”",
-    "summary": [
-      "“인텔은 메모리 넘보고, 삼성은 파운드리 반격” 데이터넷."
-    ],
-    "chips": [
-      "#반도체"
-    ]
-  },
-  {
     "id": "n36bf22dc",
     "category": "사회",
     "source": "뉴스 따옴",
@@ -114,6 +100,20 @@ window.NEWS_DB = [
     ],
     "chips": [
       "#고용"
+    ]
+  },
+  {
+    "id": "n04c9840b",
+    "category": "IT",
+    "source": "ebn.co.kr",
+    "time": "1일 전",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5jNy1zd3VfY0dldFJwanlTb1U0aUR0elE4amU1Ui1FaXRORkV5TWZZZEJlVVlHc1ZhVjByWTg1MFFIMXdLUVJCcjBwYXlJMk1JQkFHVGR1RTdhSy1WMU5sbEJveU5xRktt?oc=5",
+    "title": "인텔, 메모리 접점 확대…삼성은 파운드리 반격 나섰다",
+    "summary": [
+      "인텔, 메모리 접점 확대…삼성은 파운드리 반격 나섰다 ebn.co.kr."
+    ],
+    "chips": [
+      "#반도체"
     ]
   },
   {
@@ -345,7 +345,7 @@ window.NEWS_DB = [
     "id": "nd0ddc54e",
     "category": "사회",
     "source": "테크M",
-    "time": "방금 전",
+    "time": "5분 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=154519",
     "title": "삼성전자 동행노조, '뒷북집회' 지적 확산...퇴근길 가두행진 '빌미'",
     "summary": [
@@ -358,10 +358,188 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n87948194",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "10분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260821074000064",
+    "title": "[로컬의재발견] 내 몸을 알아가는 시간…오감치유 '제천 한방투어'",
+    "summary": [
+      "[※ 편집자 주 = 저출산·고령화와 청년 유출로 지역 소멸 위기가 커지는 가운데 연합뉴스는 발상의 전환을 통해 각 지역의 숨은 자랑거리와 이야깃..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n4ae0d8a9",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "15분 전",
+    "url": "https://www.chosun.com/sports/baseball/2026/08/21/GFQTMNBZMQYWKNZTGY3GKZRXME/",
+    "title": "만원 잠실벌 지배한 사직 스쿠벌, 1안타 7K 1실점...데뷔 첫 10번째 QS로 건재과시, 151㎞ 속구보다 빛난 명품 슬라이더",
+    "summary": [
+      "[잠실=스포츠조선 정현석 기자]'사직 스쿠벌'이 만원관중이 들어찬 잠실벌을 압도했다.",
+      "롯데 자이언츠 좌완 김진욱(23)이 눈부신 호투로 후반기 첫 승과 함께 데뷔 첫 시즌 10번째 퀄리티스타트를 완성했다.",
+      "2021년 2차 1번으로 롯데에 입단한 김진욱은 2024년 3차례의 퀄리티스타트가 최다였다."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
+    "id": "nc3c65b44",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "21분 전",
+    "url": "https://www.newsis.com/view/NISX20260821_0003757835",
+    "title": "자동차 판매하는 26세 청년, 알고 보니 '벨기에 왕자'…DNA 검사로 확인",
+    "summary": [
+      "[서울=뉴시스]이지우 인턴 기자 = 벨기에에서 자동차 판매원으로 일했던 남성이 뒤늦게 왕족 혈통을 인정받아 왕자 신분을 얻게 됐다.",
+      "20일(현지시간) 영국 BBC는 벨기에 로랑 왕자가 자동차 판매원 출신 남성 클레망 반덴케르크호베(26)를 자신의 아들로 인정했다고 보도했다.",
+      "반덴케르크호베는 로랑 왕자와 벨기에 가수 웬디 반 완튼 사이에서 태어났다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n84b7352c",
+    "category": "부동산",
+    "source": "뉴시스",
+    "time": "21분 전",
+    "url": "https://www.newsis.com/view/NISX20260821_0003757820",
+    "title": "청약 경쟁률 36개월만에 최저…서울로 몰리고 지방은 '미달'",
+    "summary": [
+      "[서울=뉴시스] 이종성 기자 = 7월 전국 1순위 청약 경쟁률이 5.86대 1을 기록하며 13개월 연속 한 자릿수에 머물렀다.",
+      "일부 인기 단지로 청약 수요가 몰리는 가운데 대단지와 지방 분양시장에서는 미달 단지가 속출하며 청약시장 양극화가 심화하는 모습이다.",
+      "22일 분양평가 전문회사 리얼하우스가 청약홈 자료를 분석한 결과, 지난달 전국 1순위 평균 청약 경쟁률은 5.86대 1(12개월 이동평균 기준)로 전월 5.90대 1보다 소폭 하락했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n4a454fc6",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "21분 전",
+    "url": "https://www.chosun.com/culture-life/food-taste/2026/08/22/N5LUGWNVIFD5LCU2QD724CFUTA/",
+    "title": "“세 모금 안에 다 드세요”… 긴자 바텐더가 하이볼에서 얼음을 뺀 이유",
+    "summary": [
+      "“세 모금 안에 다 드세요”… 긴자 바텐더가 하이볼에서 얼음을 뺀 이유."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "na9b60b61",
+    "category": "경제",
+    "source": "조선일보",
+    "time": "21분 전",
+    "url": "https://www.chosun.com/economy/weeklybiz/2026/08/22/VKQJG65EDRFD5OCTLYROXR4TYA/",
+    "title": "금리 오르자 日 신용카드 결제 대행사 파산… 대규모 구조조정 신호탄",
+    "summary": [
+      "금리 오르자 日 신용카드 결제 대행사 파산… 대규모 구조조정 신호탄."
+    ],
+    "chips": [
+      "#금리"
+    ]
+  },
+  {
+    "id": "n0c85ced9",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "21분 전",
+    "url": "https://www.chosun.com/international/2026/08/22/XWMF3G7YLBFD7AQGXULPHCC2VI/",
+    "title": "1시간 거리를 4시간 걸었다… 푸시킨과 고골의 숨결이 흐르는 대로",
+    "summary": [
+      "1시간 거리를 4시간 걸었다… 푸시킨과 고골의 숨결이 흐르는 대로."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n00e6e89b",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "26분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260822002700072",
+    "title": "차기 유엔 사무총장 2차 예비투표도 여성후보 선두…혼전은 여전",
+    "summary": [
+      "(뉴욕=연합뉴스) 김연숙 특파원 = 차기 유엔 사무총장 선출을 위한 안전보장이사회(안보리)의 2차 예비투표(straw poll)에서도 여성 후보..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n2bf65893",
+    "category": "IT",
+    "source": "한국경제",
+    "time": "29분 전",
+    "url": "https://www.hankyung.com/article/202608225783i",
+    "title": "엔비디아, 월가는 실적보다 '이것'에 더 관심[박신영의 개장전 요것만]",
+    "summary": [
+      "엔비디아, 월가는 실적보다 '이것'에 더 관심[박신영의 개장전 요것만]."
+    ],
+    "chips": [
+      "#엔비디아"
+    ]
+  },
+  {
+    "id": "n969f7e8a",
+    "category": "경제",
+    "source": "아시아경제",
+    "time": "29분 전",
+    "url": "https://view.asiae.co.kr/article/2026082202512377463",
+    "title": "[르포]美 세포라 580곳 들어간 올리브영…K뷰티 '큐레이션' 수출",
+    "summary": [
+      "\"얼마 전 한국 여행을 다녀왔다.",
+      "여성들 사이에서 올리브영이 유명하다.",
+      "한국인 친구가 있어서 올리브영 추천 제품도 샀다."
+    ],
+    "chips": [
+      "#수출"
+    ]
+  },
+  {
+    "id": "n47c573d9",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "31분 전",
+    "url": "https://www.newsis.com/view/NISX20260821_0003757818",
+    "title": "\"남편이 순금 사준대요\"…금은방 이틀 연속 찾은 손님의 '반전 실체'",
+    "summary": [
+      "[서울=뉴시스]이준형 인턴 기자 = 남편에게 생일 선물로 순금을 받기로 했다며 금은방을 찾아온 한 여성 손님이 보이스피싱 현금 수거책인 것으로 드러나 경찰에 체포됐다.",
+      "20일 경찰청 공식 유튜브는 '일 년에 생일이 두 번?'이라는 제목의 영상을 공개했다.",
+      "사건은 지난달 말 세종시의 한 금은방에서 시작됐다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n3a7aa4bc",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "39분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260821182951082",
+    "title": "스웨덴 고교서 흉기 난동…3명 부상(종합)",
+    "summary": [
+      "(베를린=연합뉴스) 김계연 특파원 = 스웨덴의 한 고등학교에서 21일(현지시간) 칼부림 사건이 일어나 3명이 다쳤다고 AFP통신 등이 보도했다."
+    ],
+    "chips": [
+      "#교육"
+    ]
+  },
+  {
     "id": "ne8075ae3",
     "category": "IT",
     "source": "테크M",
-    "time": "방금 전",
+    "time": "44분 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=154516",
     "title": "AI로 취약점 찾았더니 AI도 지켜야...모델·에이전트까지 방어 대상에",
     "summary": [
@@ -374,56 +552,26 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n1e7dadc2",
-    "category": "사회",
+    "id": "n3293e20c",
+    "category": "스포츠",
     "source": "뉴시스",
-    "time": "4분 전",
-    "url": "https://www.newsis.com/view/NISX20260822_0003758287",
-    "title": "튀르키예, 네타냐후 인터폴 적색수배 요청…가자 구호선단 나포 혐의",
+    "time": "51분 전",
+    "url": "https://www.newsis.com/view/NISX20260821_0003757570",
+    "title": "'손자뻘'과의 대결…59세 미우라, 16세 신예와 격돌할까",
     "summary": [
-      "[서울=뉴시스]고재은 기자 = 이스라엘이 가자지구로 향하는 국제 구호선단을 나포한 사건과 관련해, 튀르키예가 베냐민 네타냐후 이스라엘 총리를 집단학살 혐의로 국제형사경찰기구(인터폴)에 적색수배를 요청했다.",
-      "아큰 귈레크 튀르키예 법무장관은 21일(현지 시간) 소셜미디어 엑스(X·구 트위터)를 통해 \"네타냐후 총리와 아페크 모스코비치를 국제수배하기 위해 인터폴 적색수배 발령을 내무부에 요청했고, 관련 서류는 외교부에 전달됐다\"고 밝혔다."
+      "[서울=뉴시스]김성은 인턴 기자 = 일본 최고령 축구선수 미우라 카즈요시(59)가 자신보다 43세 어린 선수와 맞대결을 펼칠 가능성이 제기됐다.",
+      "60세를 앞둔 나이에도 현역 생활을 이어가고 있는 미우라가 일왕배(전일본축구선수권대회)에서 16세 신예와 같은 그라운드를 밟을 수 있어 관심을 모으고 있다.",
+      "일본 매체 ‘주니치’는 20일 미우라가 속한 후쿠시마 유나이티드가 일왕배 2라운드에서 요코하마 F·마리노스와 맞붙는다고 보도했다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "nb7ce38e2",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "9분 전",
-    "url": "https://www.chosun.com/sports/baseball/2026/08/22/MY3WIZJWHEZTKOJVHBSDSZTCHE/",
-    "title": "'미쳤다' 괴물타자 두 번이나 135m 초대형 아치…10홈런 완성하고 KT 1패 막았다",
-    "summary": [
-      "[OSEN=조은혜 기자] 프로야구 KT 위즈와 SSG 랜더스가 연장 11회 끝에 3-3 무승부를 거뒀다.KT는 21일 인천 SSG랜더스필드에서 열린 2026 신한 SOL KBO리그 SSG와의 맞대결에서 3-3으로 비겼다.",
-      "이날 무승부로 1위 KT가 63승41패3무, 9위 SSG가 45승63패5무를 기록하게 됐다.KT는 배제성이 선발 등판, 최원준(중견수)."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
-    "id": "ne34629c9",
-    "category": "스포츠",
-    "source": "머니투데이",
-    "time": "9분 전",
-    "url": "https://www.mt.co.kr/sports/2026/08/22/2026082122394678844",
-    "title": "6연승 KIA→꽃감독 시선은 7연승으로! \"필승조 아낀 만큼 내일도 좋은 경기하도록...\" 22일 올러vs안우진 빅뱅",
-    "summary": [
-      "'꽃감독' 이범호(45) KIA 타이거즈 감독이 파죽의 6연승 질주에도 들뜨지 않고 7연승을 향한 강한 의지를 드러냈다.",
-      "KIA는 21일 서울 고척스카이돔에서 열린 2026 신한 SOL KBO리그 키움 히어로즈와의 원정 경기에서 투타의 완벽한 조화를 앞세워 11-1 완승을 거뒀다.",
-      "6연승을 내달린 KIA는 22일 키움과의 주말 3연전 두 번째 경기에서 아담 올러를 선발로 내세워 7연승에 도전한다."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
     "id": "n621ccdca",
     "category": "사회",
     "source": "연합뉴스",
-    "time": "17분 전",
+    "time": "1시간 전",
     "url": "https://www.yna.co.kr/view/AKR20260822002400085",
     "title": "해리 왕자 등 7명, 대중지에 180억원 소송비용 물어준다",
     "summary": [
@@ -434,116 +582,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n3ed5f6d1",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "19분 전",
-    "url": "https://www.newsis.com/view/NISX20260821_0003757151",
-    "title": "\"당뇨 전단계 진단받았다\"…이수현, 30㎏ 빼고 건강 되찾은 비결",
-    "summary": [
-      "[서울=뉴시스]전민영 인턴 기자 = 가수 이수현이 과거 체중 증가로 당뇨 전단계 진단을 받았던 사실을 털어놓으며 꾸준한 운동과 식단 관리의 중요성을 강조했다.",
-      "이수현은 지난 19일 유튜브 채널 '침착맨'에 출연해 과거 체중이 크게 늘었을 당시 건강에 문제가 있을 것이라고 생각하면서도 병원에 가지 않았다고 회상했다.",
-      "그는 \"살이 너무 많이 쪘었고 건강할 리가 없겠다고 생각해서 오히려 병원을 안 갔다\"며 \"주변에서 가족들이 계속 가자고 했지만 체중."
-    ],
-    "chips": [
-      "#의료"
-    ]
-  },
-  {
-    "id": "n24419f75",
-    "category": "경제",
-    "source": "머니투데이",
-    "time": "19분 전",
-    "url": "https://www.mt.co.kr/sports/2026/08/22/2026082118222481693",
-    "title": "8년 미룬 '코 성형 수술' 결과 공개! 루니, 확 달라진 '콧날'... \"선글라스 끼고 3억 차 탔는데 코만 보여\"",
-    "summary": [
-      "맨체스터 유나이티드 '레전드' 웨인 루니(40)가 코 성형 수술을 마친 뒤 달라진 외모를 공개했다.",
-      "영국 '더선'은 20일(현지시간) \"루니가 아들 카이(16)를 맨유 훈련장에 데려다주며 코 성형 수술 결과를 대중에 처음으로 드러냈다\"고 보도했다.",
-      "매체에 따르면 루니는 아내 콜린과 함께 20만 파운드(약 3억 7000만 원) 상당의 레인지로버 차량을 직접 몰고 캐링턴 훈련장에 나타났다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n6e773954",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "27분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260822001800071",
-    "title": "美선거 앞 물가 민심에…트럼프, 다진소고기 초과관세 면제",
-    "summary": [
-      "(워싱턴=연합뉴스) 이유미 특파원 = 도널드 트럼프 미국 대통령이 향후 90일간 최대 30만t의 다진 소고기용 제품에 대해 할당량 초과 관세를 ..."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "nf9edbc2d",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "29분 전",
-    "url": "https://www.chosun.com/sports/baseball/2026/08/22/GQZTOY3FME2TKZLEMI2TQMJUMU/",
-    "title": "‘412일 만에 만루홈런→6타점 개인 신기록’ 6연승 이끈 김호령, 후반기 반등 신호탄 될까 “스스로 늪에 빠진 느낌, 좋은 감 유지하겠다”",
-    "summary": [
-      "[OSEN=고척, 길준영 기자] 프로야구 KIA 타이거즈 김호령(34)이 개인 한 경기 최다타점 신기록을 갈아치우며 부진에서 탈출했다.김호령은 21일 서울 고척스카이돔에서 열린 ‘2026 신한은행 SOL Bank KBO리그’ 키움 히어로즈와의 경기에 9번 중견수로 선발출장해 4타수 3안타 1홈런 6타점 2득점으로 활약하며 팀 승리를 이끌었다."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
-    "id": "n765da21f",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "32분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260822002000099",
-    "title": "중동·이슬람 8개국, 이스라엘의 서안 정착촌 확대에 \"중단하라\"",
-    "summary": [
-      "(요하네스버그=연합뉴스) 나확진 특파원 = 이집트, 사우디아라비아, 카타르, 아랍에미리트(UAE), 요르단, 튀르키예, 인도네시아, 파키스탄 등..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n07568d95",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "34분 전",
-    "url": "https://www.newsis.com/view/NISX20260821_0003757705",
-    "title": "30년 홀로 시어머니 모신 막내 며느리…다른 자녀들은 \"바쁘다\" 외면",
-    "summary": [
-      "[서울=뉴시스]이준형 인턴 기자 = 다른 자녀들의 무관심 속에서 30년 간 시어머니를 모셔 온 막내 며느리의 안타까운 사연이 전해졌다.",
-      "20일 JTBC '사건반장'은 홀로 시어머니를 부양하고 있는 60대 여성 A씨의 제보를 다뤘다.",
-      "A씨는 결혼 후 막내아들인 남편과 함께 30년 동안 시어머니를 모시고 살았다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n7634943d",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "36분 전",
-    "url": "https://www.chosun.com/sports/baseball/2026/08/22/GU4DGMJUMEZGIZTCHA2TKNDEGM/",
-    "title": "‘와’ 롯데 61일 만에 5연승 미쳤다! 기적의 가을 진짜 현실 되나, 김태형 함박웃음 “고승민 만루포로 승기 잡았다”",
-    "summary": [
-      "[OSEN=잠실, 이후광 기자] 5위에 오르려면 5위를 잡아야할 터.",
-      "거인군단의 5위 두산과 운명의 시리즈 첫 경기에서 화끈한 대승을 거뒀다.",
-      "프로야구 롯데 자이언츠는 21일 서울 잠실구장에서 열린 2026 신한 SOL KBO리그 두산 베어스와의 시즌 13차전에서 11-4로 승리했다."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
     "id": "na395908b",
     "category": "스포츠",
     "source": "동아일보",
-    "time": "39분 전",
+    "time": "1시간 전",
     "url": "https://www.donga.com/news/Sports/article/all/20260822/134522490/2",
     "title": "亞게임 차출도 못막는 김도영 홈런왕 레이스",
     "summary": [
@@ -559,7 +601,7 @@ window.NEWS_DB = [
     "id": "nbbde9ff0",
     "category": "스포츠",
     "source": "동아일보",
-    "time": "39분 전",
+    "time": "1시간 전",
     "url": "https://www.donga.com/news/Sports/article/all/20260822/134522479/2",
     "title": "드디어 꽂았다, 오현규-조규성 시즌 첫 골",
     "summary": [
@@ -575,7 +617,7 @@ window.NEWS_DB = [
     "id": "n6dc6d153",
     "category": "스포츠",
     "source": "동아일보",
-    "time": "39분 전",
+    "time": "1시간 전",
     "url": "https://www.donga.com/news/Sports/article/all/20260822/134522488/2",
     "title": "외계인이 돌아왔다",
     "summary": [
@@ -586,52 +628,6 @@ window.NEWS_DB = [
     "chips": [
       "#뉴스"
     ]
-  },
-  {
-    "id": "ne7a9d46e",
-    "category": "스포츠",
-    "source": "동아일보",
-    "time": "39분 전",
-    "url": "https://www.donga.com/news/Sports/article/all/20260822/134522486/2",
-    "title": "“日 그린도 달굴래요”",
-    "summary": [
-      "한국여자프로골프(KLPGA)투어에서 8승을 기록 중인 박현경(26)이 내년 시즌 한국과 일본 투어를 병행한다.",
-      "21일 스포츠호치 등 일본 매체들에 따르면 일본여자프로골프(JLPGA)투어는 18일 이사회에서 박현경의 입회 신청을 승인했다.",
-      "박현경은 올해 6월 추천 선수로 출전한 JLPGA투어 어스 몬다민컵에서 정상에 오르며 일본 무대 첫 우승을 차지했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "ne37556cb",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "39분 전",
-    "url": "https://www.newsis.com/view/NISX20260821_0003756966",
-    "title": "힌두교 명절에 '조롱 영상' 올렸다가…스위스 관광객 '징역 1년' 선고",
-    "summary": [
-      "[서울=뉴시스]이준형 인턴 기자 = 인도네시아 발리의 힌두교 명절 '침묵의 날'을 비하하는 글을 사회관계망서비스(SNS)에 올린 외국인 관광객이 현지 법원으로부터 징역형을 선고받았다.",
-      "20일 홍콩 사우스차이나모닝포스트(SCMP)에 따르면 인도네시아 발리 지방법원은 종교 모독 및 혐오 표현 유포 혐의로 기소된 스위스 관광객 루치안 안드린 즈그라겐에게 징역 1년 실형을 선고했다.",
-      "사건은 발리 최대 명절인 '침묵의 날' 기간 중 발생했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n69bad6ee",
-    "category": "경제",
-    "source": "연합뉴스",
-    "time": "41분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260822001700072",
-    "title": "美재무부 '장기금리 방어'에 달러 흔들…월가 \"대가 치를 수도\"",
-    "summary": [
-      "(뉴욕=연합뉴스) 임수정 기자 = 치솟는 국채금리를 억누르기 위한 스콧 베선트 미국 재무장관의 공격적인 시장 개입이 결국 달러화 가치와 신뢰를 ..."
-    ],
-    "chips": [
-      "#금리"
-    ]
   }
 ];
 
@@ -640,18 +636,18 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2070건",
-    "trend": "+215%"
+    "mentions": "2330건",
+    "trend": "+255%"
   },
   {
     "rank": 2,
-    "tag": "KBO",
-    "mentions": "1940건",
-    "trend": "+195%"
+    "tag": "AI",
+    "mentions": "1550건",
+    "trend": "+135%"
   },
   {
     "rank": 3,
-    "tag": "AI",
+    "tag": "KBO",
     "mentions": "1550건",
     "trend": "+135%"
   }
