@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-08-21 18:21:27
+// 마지막 업데이트: 2026-08-21 19:18:50
 window.NEWS_DB = [
   {
     "id": "n01b7046c",
     "category": "경제",
     "source": "세이프머니",
-    "time": "7시간 전",
+    "time": "8시간 전",
     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9Ub04zeDVfTGNFZUhhWEN6TTYycHZERDdBTEs3OFhqYk1SQ1pibDgycHgzdWktaFRBU1RJam53LTMyZlhxTEM1UXdPMlY5TDhZbmtCbEt0VmhJOEZ4blBDVjBNd1Q3a0R1QmRXSkFR?oc=5",
     "title": "권민수 한은 부총재 금리 인상 관련 '유연한' 정책 판단 필요",
     "summary": [
@@ -34,7 +34,7 @@ window.NEWS_DB = [
     "id": "nd9e5e761",
     "category": "IT",
     "source": "자본시장뉴스",
-    "time": "15시간 전",
+    "time": "16시간 전",
     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1QYUdZQnA5Y2lNeXFNdXhhRFh4bE0zSTV0QWNZSXNZRWs0VXZtYnRxMjhmX0R4ekQtbDJIUTNuN01LM3EtMlI1blRxNU0yZzFkbEdEbFhnRVp0eDMtdDB1aGwyRGFWUnM?oc=5",
     "title": "[반도체 패권 지도 ④] HBM 79% 쥔 한국…파운드리는 7%에 묶여 있다",
     "summary": [
@@ -45,14 +45,14 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n1da04b0e",
+    "id": "ned9b1714",
     "category": "IT",
-    "source": "머니투데이",
-    "time": "19시간 전",
-    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5tLUdELWVvRjN0ekp2T0hCUnBkdVlOMU9QcGNkSTI1QVdGM0RTLTR1NEFiamtPMVM2UF9DUnF5V3Jfa2NwSTNURExpUlV5MlJGQnJ2ckhtNU5UYWlwdDhfZ092bzVHN1NC0gFuQVVfeXFMTnRmQ3R1azBHb0lRWXBqdlhVZE14NTZnUWluVUhZOTVMZmI0UFpRaHpRdU5rS0hIcDIxWURCMkthRDY2eEFadWJpcTNTUk43cDcxdGJNeXREc2pnVmV4WlY3SVl3eFlJeVZrdGRnd1E?oc=5",
-    "title": "엔비디아 \"중국 전용 AI칩 없다\"…연내 출시설 일축 - 머니투데이",
+    "source": "뉴시스",
+    "time": "20시간 전",
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5vQ29yNXlxV1NXbnJwMzdNWUd4OUtqVThRdGxkZkd2eTM0MjEyMms2Tk8xWUljc2tnU04zdEY5OURuVjB6SE5FUWFwR0I0QzdEWmhkRHR4Vy1CQ1VrdUR4SGJYTFFoN01UMXBzdkdGbmVEdEZVTTdHUNIBeEFVX3lxTE5vQ29yNXlxV1NXbnJwMzdNWUd4OUtqVThRdGxkZkd2eTM0MjEyMms2Tk8xWUljc2tnU04zdEY5OURuVjB6SE5FUWFwR0I0QzdEWmhkRHR4Vy1CQ1VrdUR4SGJYTFFoN01UMXBzdkdGbmVEdEZVTTdHUA?oc=5",
+    "title": "엔비디아 '中 맞춤형 AI칩 출시설' 부인…\"계획 전혀 없다\"",
     "summary": [
-      "엔비디아 \"중국 전용 AI칩 없다\"…연내 출시설 일축 - 머니투데이 머니투데이."
+      "엔비디아 '中 맞춤형 AI칩 출시설' 부인…\"계획 전혀 없다\" 뉴시스."
     ],
     "chips": [
       "#AI",
@@ -60,14 +60,14 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nc0a6ce8c",
+    "id": "nc4432452",
     "category": "IT",
-    "source": "연합뉴스",
-    "time": "19시간 전",
-    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9YUU41ZWlxU2ZhYWNONDlDUks2MzJsVzNxTmxfbkRXdFpUNXRndkFVTlcyemVSVUd3TENIaFc3bjZacURwTmc3c3MxbHVYR0I1MXhJaFUyYVlpb1Rra0o5ZtIBYEFVX3lxTE9YUU41ZWlxU2ZhYWNONDlDUks2MzJsVzNxTmxfbkRXdFpUNXRndkFVTlcyemVSVUd3TENIaFc3bjZacURwTmc3c3MxbHVYR0I1MXhJaFUyYVlpb1Rra0o5Zg?oc=5",
+    "source": "v.daum.net",
+    "time": "20시간 전",
+    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB6ajRsVkhMZ2tMQmtuZkpyQlpJUVY2Znp5cEQzaHlrNnhrQ21ZR1ZEZk9aVlFvRjY2bDNIZ0NNblJYMUNVeFlzTlBua3R6UUk?oc=5",
     "title": "엔비디아가 中 맞춤형 AI칩 출시(?)…회사 \"전혀 계획 없다\"",
     "summary": [
-      "엔비디아가 中 맞춤형 AI칩 출시(?)…회사 \"전혀 계획 없다\" 연합뉴스."
+      "엔비디아가 中 맞춤형 AI칩 출시(?)…회사 \"전혀 계획 없다\" v.daum.net."
     ],
     "chips": [
       "#AI",
@@ -89,6 +89,20 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "nd000c55e",
+    "category": "IT",
+    "source": "데이터넷",
+    "time": "1일 전",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE11QUd4NkhZaDRidFpDRHoyWnFPeURfYVpIMjRZc1pjSmdiTDBiYmVZbnpCQkJxd0ZJaUdMeW5DWVhaTlVmOW53X3BuVTh4bGtYVWM4OUd3a1RtdFdtNm5xSVZMakxxb1lsUnNONA?oc=5",
+    "title": "“인텔은 메모리 넘보고, 삼성은 파운드리 반격”",
+    "summary": [
+      "“인텔은 메모리 넘보고, 삼성은 파운드리 반격” 데이터넷."
+    ],
+    "chips": [
+      "#반도체"
+    ]
+  },
+  {
     "id": "n36bf22dc",
     "category": "사회",
     "source": "뉴스 따옴",
@@ -100,20 +114,6 @@ window.NEWS_DB = [
     ],
     "chips": [
       "#고용"
-    ]
-  },
-  {
-    "id": "n04c9840b",
-    "category": "IT",
-    "source": "ebn.co.kr",
-    "time": "1일 전",
-    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5jNy1zd3VfY0dldFJwanlTb1U0aUR0elE4amU1Ui1FaXRORkV5TWZZZEJlVVlHc1ZhVjByWTg1MFFIMXdLUVJCcjBwYXlJMk1JQkFHVGR1RTdhSy1WMU5sbEJveU5xRktt?oc=5",
-    "title": "인텔, 메모리 접점 확대…삼성은 파운드리 반격 나섰다",
-    "summary": [
-      "인텔, 메모리 접점 확대…삼성은 파운드리 반격 나섰다 ebn.co.kr."
-    ],
-    "chips": [
-      "#반도체"
     ]
   },
   {
@@ -342,10 +342,178 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "nc97e7bb1",
+    "category": "IT",
+    "source": "뉴시스",
+    "time": "8분 전",
+    "url": "https://www.newsis.com/view/NISX20260822_0003758291",
+    "title": "美국무 \"한국에 AIM-9X 공대공 미사일 판매 잠정 승인\"",
+    "summary": [
+      "[서울=뉴시스]고재은 기자 = 도널드 트럼프 미국 행정부가 한국에 1억 달러가 넘는 규모의 AIM-9X 사이드와인더 블록Ⅱ 공대공 미사일 판매를 잠정 승인했다.",
+      "미 국무부는 21일(현지 시간) 성명을 통해 \"국무부는 한국에 AIM-9X 사이드와인더 블록Ⅱ 공대공 미사일 및 관련 장비를 인도하는 대외군사판매(FMS)를 승인하기로 결정했다\"고 밝혔다.",
+      "앞서 한국이 요청한 AIM-9X 사이드와인더 블록Ⅱ 미사일 103기와 전술 유도 장치 10기 등의."
+    ],
+    "chips": [
+      "#AI"
+    ]
+  },
+  {
+    "id": "nab8a672d",
+    "category": "경제",
+    "source": "연합뉴스",
+    "time": "14분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260822004300071",
+    "title": "트럼프 '백악관 연회장' 공사 당분간 허용…美대법원장 임시명령",
+    "summary": [
+      "(워싱턴=연합뉴스) 이유미 특파원 = 미국 연방대법원이 도널드 트럼프 대통령이 추진하는 4억 달러(약 5천500억원) 규모의 백악관 연회장 건설..."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "nfc7d783e",
+    "category": "경제",
+    "source": "연합뉴스",
+    "time": "18분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260822003400087",
+    "title": "룰라·트럼프, 80분간 통화…관세 문제 등 논의",
+    "summary": [
+      "(멕시코시티=연합뉴스) 송광호 특파원 = 최근 무역 갈등과 범죄 조직 지정 문제 등으로 대립각을 세워온 브라질과 미국 정상이 전화 통화를 하고 ..."
+    ],
+    "chips": [
+      "#수출"
+    ]
+  },
+  {
+    "id": "n6116116c",
+    "category": "IT",
+    "source": "뉴시스",
+    "time": "18분 전",
+    "url": "https://www.newsis.com/view/NISX20260821_0003756993",
+    "title": "사람 떠나자 버스 끊겼다…전국 법정리(里) 45%가 '소멸 위기'",
+    "summary": [
+      "[서울=뉴시스] 변해정 기자 = 전국 법정리(里·법적으로 정한 읍·면 단위의 마을)의 절반 가까이가 소멸 위기에 처했다는 분석이 나왔다.",
+      "이들 지역은 단순히 사람 적은 것에 그치지 않고 기초생활 마비로 이어지는 구조적 문제가 있었다.",
+      "22일 국토연구원이 발간한 '지역 내의 소멸 격차 해소를 위한 인공지능(AI) 기반 인구과소지역 정밀진단과 정책 추진 방안' 보고서에는 이같이 내용이 담겼다."
+    ],
+    "chips": [
+      "#AI",
+      "#정책"
+    ]
+  },
+  {
+    "id": "n0cba2a74",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "18분 전",
+    "url": "https://www.newsis.com/view/NISX20260821_0003757052",
+    "title": "\"반신마비 88세 노인이 치매 아내 간병\"…日 '초노노케어' 급증",
+    "summary": [
+      "[서울=뉴시스]전민영 인턴 기자 = 초고령사회 일본에서 75세 이상 후기고령자 부부가 서로를 돌보는 이른바 ‘초(超)노노(老老)케어’가 급증하고 있다.",
+      "돌봄을 받는 사람뿐 아니라 돌보는 사람까지 고령인 만큼 건강 악화와 경제적 부담은 물론 학대나 살인 등 심각한 문제로 이어질 수 있다는 우려가 나온다.",
+      "지난 18일 일본 요미우리신문에 따르면 일본 후생노동성이 지난 7월 발표한 ‘국민생활기초조사’를 분석한 결과, 돌봄이 필요한 사람과 돌보는 사람."
+    ],
+    "chips": [
+      "#의료"
+    ]
+  },
+  {
+    "id": "n8d47727a",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "18분 전",
+    "url": "https://www.newsis.com/view/NISX20260821_0003757142",
+    "title": "\"부모님과 여행? 오히려 좋아\"…伊 Z세대 사이서 뜨는 '가족휴가'",
+    "summary": [
+      "[서울=뉴시스]이지우 인턴 기자 = 부모와 함께 휴가를 떠나는 여행 방식이 Z세대 사이에서 새로운 문화로 자리 잡고 있다.",
+      "지난 18일(현지시간) 이탈리아 NSS매거진은 최근 젊은 세대 사이에서 부모와 함께 휴가를 보내는 것이 다시 '쿨한' 여행 방식으로 떠오르고 있다고 보도했다.",
+      "과거에는 저비용 항공사와 저렴한 숙박시설을 활용해 비교적 적은 비용으로 해외여행을 즐길 수 있어 부모와 동행하는 것을 독립적이지 못한 선택으로 보는 시선도 있었다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n9439df48",
+    "category": "경제",
+    "source": "연합뉴스(경제)",
+    "time": "20분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260822003000075",
+    "title": "텍사스가 새 금융거점?…\"월가, 맘다니 피해 '욜스트리트'로\"",
+    "summary": [
+      "(로스앤젤레스=연합뉴스) 김경윤 특파원 = 미국 텍사스주(州)가 새로운 금융 거점으로 주목받으면서 골드만삭스에 이어 모건스탠리도 이주에 동참하고..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n1f397c26",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "24분 전",
+    "url": "https://www.donga.com/news/Inter/article/all/20260822/134523082/1",
+    "title": "자동차 판매하는 26세 청년, 알고 보니 ‘벨기에 왕자’…DNA 검사로 확인",
+    "summary": [
+      "벨기에에서 자동차 판매원으로 일했던 남성이 뒤늦게 왕족 혈통을 인정받아 왕자 신분을 얻게 됐다.20일(현지시간) 영국 BBC는 벨기에 로랑 왕자가 자동차 판매원 출신 남성 클레망 반덴케르크호베(26)를 자신의 아들로 인정했다고 보도했다.반덴케르크호베는 로랑 왕자와 벨기에 가수 웬디 반 완튼 사이에서 태어났다.",
+      "그는 6개월 전 시청에서 진행된 공식 절차를 통해 로랑 왕자의 가족으로 인정받았지만, 해당 사실은 최근에야 외부에 알려졌다.공식적으로 왕."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "naec2a3a6",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "33분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260822003600071",
+    "title": "美민주, '트럼프發 북미회담' 공세 강화…\"김정은에 굴복\"",
+    "summary": [
+      "(워싱턴=연합뉴스) 이유미 특파원 = 도널드 트럼프 미국 대통령이 북미 정상회담 재개 의지를 구체화하자 야당인 민주당도 공세를 강화하고 있다."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n43d7b670",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "46분 전",
+    "url": "https://www.chosun.com/sports/baseball/2026/08/22/GE4TAZJQGJRWKM3BGVQTQODCHA/",
+    "title": "김도영 못 거르는 타선인데 나성범까지 터진다니…KIA 중심타선, 공포감 더해진다",
+    "summary": [
+      "[대전=스포츠조선 이종서 기자] 확실하게 자리를 잡은 KIA 타이거즈의 중심 타선.",
+      "상대로서는 막막하게 느껴질 뿐이다.",
+      "KIA는 7월말부터 김도영-해럴드 카스트로-나성범 순으로 3~5번 중심타선을 구축했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n1130efb7",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "49분 전",
+    "url": "https://www.chosun.com/sports/sports_general/2026/08/22/MEYWCNJZHFQWINJTMZQTSOBVMI/",
+    "title": "\"바람 때문에 샷 컨트롤 어려웠다\" 안세영, 흔들리고도 세계 5위 격파...4경기 연속 2-0+왕즈이와 결승 길목 '격돌'",
+    "summary": [
+      "[OSEN=정승우 기자] \"오늘은 샷 컨트롤이 쉽지 않았다.",
+      "그래도 한 포인트씩 집중하면서 내 리듬을 찾았다.\"안세영(24, 삼성생명)이 쉽지 않은 경기장 환경과 완전하지 않은 몸 상태 속에서도 다시 한번 세계 정상급 경기 운영 능력을 보여줬다.",
+      "세계랭킹 5위 한웨(중국)를 2-0으로 꺾고 세계선수권 4강에 오른 뒤에는 경기 내내 신경 써야 했던 '바람'과."
+    ],
+    "chips": [
+      "#환경"
+    ]
+  },
+  {
     "id": "nd0ddc54e",
     "category": "사회",
     "source": "테크M",
-    "time": "5분 전",
+    "time": "1시간 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=154519",
     "title": "삼성전자 동행노조, '뒷북집회' 지적 확산...퇴근길 가두행진 '빌미'",
     "summary": [
@@ -358,24 +526,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n87948194",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "10분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260821074000064",
-    "title": "[로컬의재발견] 내 몸을 알아가는 시간…오감치유 '제천 한방투어'",
-    "summary": [
-      "[※ 편집자 주 = 저출산·고령화와 청년 유출로 지역 소멸 위기가 커지는 가운데 연합뉴스는 발상의 전환을 통해 각 지역의 숨은 자랑거리와 이야깃..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
     "id": "n4ae0d8a9",
     "category": "스포츠",
     "source": "조선일보",
-    "time": "15분 전",
+    "time": "1시간 전",
     "url": "https://www.chosun.com/sports/baseball/2026/08/21/GFQTMNBZMQYWKNZTGY3GKZRXME/",
     "title": "만원 잠실벌 지배한 사직 스쿠벌, 1안타 7K 1실점...데뷔 첫 10번째 QS로 건재과시, 151㎞ 속구보다 빛난 명품 슬라이더",
     "summary": [
@@ -388,56 +542,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nc3c65b44",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "21분 전",
-    "url": "https://www.newsis.com/view/NISX20260821_0003757835",
-    "title": "자동차 판매하는 26세 청년, 알고 보니 '벨기에 왕자'…DNA 검사로 확인",
-    "summary": [
-      "[서울=뉴시스]이지우 인턴 기자 = 벨기에에서 자동차 판매원으로 일했던 남성이 뒤늦게 왕족 혈통을 인정받아 왕자 신분을 얻게 됐다.",
-      "20일(현지시간) 영국 BBC는 벨기에 로랑 왕자가 자동차 판매원 출신 남성 클레망 반덴케르크호베(26)를 자신의 아들로 인정했다고 보도했다.",
-      "반덴케르크호베는 로랑 왕자와 벨기에 가수 웬디 반 완튼 사이에서 태어났다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n84b7352c",
-    "category": "부동산",
-    "source": "뉴시스",
-    "time": "21분 전",
-    "url": "https://www.newsis.com/view/NISX20260821_0003757820",
-    "title": "청약 경쟁률 36개월만에 최저…서울로 몰리고 지방은 '미달'",
-    "summary": [
-      "[서울=뉴시스] 이종성 기자 = 7월 전국 1순위 청약 경쟁률이 5.86대 1을 기록하며 13개월 연속 한 자릿수에 머물렀다.",
-      "일부 인기 단지로 청약 수요가 몰리는 가운데 대단지와 지방 분양시장에서는 미달 단지가 속출하며 청약시장 양극화가 심화하는 모습이다.",
-      "22일 분양평가 전문회사 리얼하우스가 청약홈 자료를 분석한 결과, 지난달 전국 1순위 평균 청약 경쟁률은 5.86대 1(12개월 이동평균 기준)로 전월 5.90대 1보다 소폭 하락했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n4a454fc6",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "21분 전",
-    "url": "https://www.chosun.com/culture-life/food-taste/2026/08/22/N5LUGWNVIFD5LCU2QD724CFUTA/",
-    "title": "“세 모금 안에 다 드세요”… 긴자 바텐더가 하이볼에서 얼음을 뺀 이유",
-    "summary": [
-      "“세 모금 안에 다 드세요”… 긴자 바텐더가 하이볼에서 얼음을 뺀 이유."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
     "id": "na9b60b61",
     "category": "경제",
     "source": "조선일보",
-    "time": "21분 전",
+    "time": "1시간 전",
     "url": "https://www.chosun.com/economy/weeklybiz/2026/08/22/VKQJG65EDRFD5OCTLYROXR4TYA/",
     "title": "금리 오르자 日 신용카드 결제 대행사 파산… 대규모 구조조정 신호탄",
     "summary": [
@@ -448,38 +556,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n0c85ced9",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "21분 전",
-    "url": "https://www.chosun.com/international/2026/08/22/XWMF3G7YLBFD7AQGXULPHCC2VI/",
-    "title": "1시간 거리를 4시간 걸었다… 푸시킨과 고골의 숨결이 흐르는 대로",
-    "summary": [
-      "1시간 거리를 4시간 걸었다… 푸시킨과 고골의 숨결이 흐르는 대로."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n00e6e89b",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "26분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260822002700072",
-    "title": "차기 유엔 사무총장 2차 예비투표도 여성후보 선두…혼전은 여전",
-    "summary": [
-      "(뉴욕=연합뉴스) 김연숙 특파원 = 차기 유엔 사무총장 선출을 위한 안전보장이사회(안보리)의 2차 예비투표(straw poll)에서도 여성 후보..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
     "id": "n2bf65893",
     "category": "IT",
     "source": "한국경제",
-    "time": "29분 전",
+    "time": "1시간 전",
     "url": "https://www.hankyung.com/article/202608225783i",
     "title": "엔비디아, 월가는 실적보다 '이것'에 더 관심[박신영의 개장전 요것만]",
     "summary": [
@@ -493,7 +573,7 @@ window.NEWS_DB = [
     "id": "n969f7e8a",
     "category": "경제",
     "source": "아시아경제",
-    "time": "29분 전",
+    "time": "1시간 전",
     "url": "https://view.asiae.co.kr/article/2026082202512377463",
     "title": "[르포]美 세포라 580곳 들어간 올리브영…K뷰티 '큐레이션' 수출",
     "summary": [
@@ -506,40 +586,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n47c573d9",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "31분 전",
-    "url": "https://www.newsis.com/view/NISX20260821_0003757818",
-    "title": "\"남편이 순금 사준대요\"…금은방 이틀 연속 찾은 손님의 '반전 실체'",
-    "summary": [
-      "[서울=뉴시스]이준형 인턴 기자 = 남편에게 생일 선물로 순금을 받기로 했다며 금은방을 찾아온 한 여성 손님이 보이스피싱 현금 수거책인 것으로 드러나 경찰에 체포됐다.",
-      "20일 경찰청 공식 유튜브는 '일 년에 생일이 두 번?'이라는 제목의 영상을 공개했다.",
-      "사건은 지난달 말 세종시의 한 금은방에서 시작됐다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n3a7aa4bc",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "39분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260821182951082",
-    "title": "스웨덴 고교서 흉기 난동…3명 부상(종합)",
-    "summary": [
-      "(베를린=연합뉴스) 김계연 특파원 = 스웨덴의 한 고등학교에서 21일(현지시간) 칼부림 사건이 일어나 3명이 다쳤다고 AFP통신 등이 보도했다."
-    ],
-    "chips": [
-      "#교육"
-    ]
-  },
-  {
     "id": "ne8075ae3",
     "category": "IT",
     "source": "테크M",
-    "time": "44분 전",
+    "time": "1시간 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=154516",
     "title": "AI로 취약점 찾았더니 AI도 지켜야...모델·에이전트까지 방어 대상에",
     "summary": [
@@ -552,40 +602,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n3293e20c",
-    "category": "스포츠",
-    "source": "뉴시스",
-    "time": "51분 전",
-    "url": "https://www.newsis.com/view/NISX20260821_0003757570",
-    "title": "'손자뻘'과의 대결…59세 미우라, 16세 신예와 격돌할까",
-    "summary": [
-      "[서울=뉴시스]김성은 인턴 기자 = 일본 최고령 축구선수 미우라 카즈요시(59)가 자신보다 43세 어린 선수와 맞대결을 펼칠 가능성이 제기됐다.",
-      "60세를 앞둔 나이에도 현역 생활을 이어가고 있는 미우라가 일왕배(전일본축구선수권대회)에서 16세 신예와 같은 그라운드를 밟을 수 있어 관심을 모으고 있다.",
-      "일본 매체 ‘주니치’는 20일 미우라가 속한 후쿠시마 유나이티드가 일왕배 2라운드에서 요코하마 F·마리노스와 맞붙는다고 보도했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n621ccdca",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "1시간 전",
-    "url": "https://www.yna.co.kr/view/AKR20260822002400085",
-    "title": "해리 왕자 등 7명, 대중지에 180억원 소송비용 물어준다",
-    "summary": [
-      "(런던=연합뉴스) 김지연 특파원 = 영국 해리 왕자와 가수 엘튼 존 등 유명 인사 7명이 대중지 데일리메일 발행사에 소송 비용 954만파운드(약..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
     "id": "na395908b",
     "category": "스포츠",
     "source": "동아일보",
-    "time": "1시간 전",
+    "time": "2시간 전",
     "url": "https://www.donga.com/news/Sports/article/all/20260822/134522490/2",
     "title": "亞게임 차출도 못막는 김도영 홈런왕 레이스",
     "summary": [
@@ -601,29 +621,13 @@ window.NEWS_DB = [
     "id": "nbbde9ff0",
     "category": "스포츠",
     "source": "동아일보",
-    "time": "1시간 전",
+    "time": "2시간 전",
     "url": "https://www.donga.com/news/Sports/article/all/20260822/134522479/2",
     "title": "드디어 꽂았다, 오현규-조규성 시즌 첫 골",
     "summary": [
       "한국 축구 대표팀 공격수 오현규(베식타시)와 조규성(미트윌란)이 나란히 머리로 시즌 마수걸이 골을 터뜨렸다.",
       "베식타시(튀르키예) 공격수 오현규는 21일 튀르키예 이스탄불에서 열린 카우노 잘기리스(리투아니아)와의 2026∼2027시즌 유럽축구연맹(UEFA) 유로파리그(UEL) 플레이오프(PO) 1차전 안방경기에 최전방 공격수로 선발 출전했다.",
       "오현규는 전반 6분 팀 동료의 코너킥을 헤더로 연결해 이번 시즌 공식전 6경기 만에 처음 골 맛을 봤다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n6dc6d153",
-    "category": "스포츠",
-    "source": "동아일보",
-    "time": "1시간 전",
-    "url": "https://www.donga.com/news/Sports/article/all/20260822/134522488/2",
-    "title": "외계인이 돌아왔다",
-    "summary": [
-      "브라질 축구 스타 호나우지뉴가 46세의 나이에 현역으로 복귀한다.",
-      "호나우지뉴는 21일 이탈리아 라벤나에서 열린 이탈리아 프로축구 세리에C(3부) 라벤나 입단식에 참석해 등번호 10이 새겨진 유니폼을 들고 팬들 앞에 섰다.",
-      "호나우지뉴는 “내가 라벤나에 온 이유는 팀원들이 승리할 수 있도록 돕기 위해서다”라고 말했다."
     ],
     "chips": [
       "#뉴스"
@@ -635,19 +639,19 @@ window.NEWS_DB = [
 window.KEYWORD_TOP = [
   {
     "rank": 1,
-    "tag": "뉴스",
-    "mentions": "2330건",
-    "trend": "+255%"
+    "tag": "AI",
+    "mentions": "1810건",
+    "trend": "+175%"
   },
   {
     "rank": 2,
-    "tag": "AI",
+    "tag": "KBO",
     "mentions": "1550건",
     "trend": "+135%"
   },
   {
     "rank": 3,
-    "tag": "KBO",
+    "tag": "뉴스",
     "mentions": "1550건",
     "trend": "+135%"
   }
