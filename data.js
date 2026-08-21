@@ -1,27 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-08-21 00:39:47
+// 마지막 업데이트: 2026-08-21 02:16:55
 window.NEWS_DB = [
-  {
-    "id": "ncce1bb09",
-    "category": "IT",
-    "source": "v.daum.net",
-    "time": "1시간 전",
-    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE54SWxodWxmQ2tGTXBETF9hdnhKMDlrSFNyZWRNSWFXRmwxbmZ4dnA3MDBnMThuZU4zVlVPZlMxc0hkcXZ6MjRGSkVqbTdUU00?oc=5",
-    "title": "中 맞춤형 엔비디아 AI칩 출시 계획 보도에.... \"전혀 계획 없다\"",
-    "summary": [
-      "中 맞춤형 엔비디아 AI칩 출시 계획 보도에....",
-      "\"전혀 계획 없다\" v.daum.net."
-    ],
-    "chips": [
-      "#AI",
-      "#엔비디아"
-    ]
-  },
   {
     "id": "n9483c30e",
     "category": "IT",
     "source": "Chosunbiz",
-    "time": "1시간 전",
+    "time": "2시간 전",
     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNUGwtV0pYMm01YXQzbUY1VFI0RjF5cU9fclpPQU9yVE0yWDJ2UUo1Z0NGcWxXS1Q0QVZtSkVBTllCb0dZWVVfelY0RlI2MDhOTG12Z0ozSW1KTU9Nb2k3YWYtMFVVdTZsanQ1cWo4VHlQWklQTXk0U185TXRoSG9xVGZnTXNjMThzVk96Q1FrYlVZa1NTSXB4NGgtS0U5Z9IBsgFBVV95cUxORW5RWEpXdzZVajFnbVExRG5VOEZsMGE5ZXQtSDluZW1oaUlJLWNfVF82eHlvR0h1cmdYLTVPSGhyd3o4aHZ2dEdWVEF3SGdRNXdFbkI0R01obE4xSl9Uak1kcElKY0wtWFR1VUtJVlJibW5sRm10ZXlOUEZoNGdiUUs5dHRoZHRwRmdfOUhLUGVRU2hQZHQ5NEtMVm9HM2lGX2pVZ2ZPd3R1c0JFSFNGaUtn?oc=5",
     "title": "엔비디아 “中 맞춤형 AI칩 출시 계획? 전혀 없다” - 조선비즈",
     "summary": [
@@ -33,11 +17,11 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n7c4481ae",
+    "id": "ned9b1714",
     "category": "IT",
     "source": "뉴시스",
-    "time": "1시간 전",
-    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBaNkkxaW1rdHk4bmJTeHJYTlVqa2NfYXc5QlF6SzlkZUZFSjFHeW1kc29nY0Q5S0Y5MEhYODFUQzJoVnI4UTlaVVNNaGptZVdWeWFNX0lTVkloSzAxNUE4U9IBeEFVX3lxTE5vQ29yNXlxV1NXbnJwMzdNWUd4OUtqVThRdGxkZkd2eTM0MjEyMms2Tk8xWUljc2tnU04zdEY5OURuVjB6SE5FUWFwR0I0QzdEWmhkRHR4Vy1CQ1VrdUR4SGJYTFFoN01UMXBzdkdGbmVEdEZVTTdHUA?oc=5",
+    "time": "2시간 전",
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5vQ29yNXlxV1NXbnJwMzdNWUd4OUtqVThRdGxkZkd2eTM0MjEyMms2Tk8xWUljc2tnU04zdEY5OURuVjB6SE5FUWFwR0I0QzdEWmhkRHR4Vy1CQ1VrdUR4SGJYTFFoN01UMXBzdkdGbmVEdEZVTTdHUNIBeEFVX3lxTE5vQ29yNXlxV1NXbnJwMzdNWUd4OUtqVThRdGxkZkd2eTM0MjEyMms2Tk8xWUljc2tnU04zdEY5OURuVjB6SE5FUWFwR0I0QzdEWmhkRHR4Vy1CQ1VrdUR4SGJYTFFoN01UMXBzdkdGbmVEdEZVTTdHUA?oc=5",
     "title": "엔비디아 '中 맞춤형 AI칩 출시설' 부인…\"계획 전혀 없다\"",
     "summary": [
       "엔비디아 '中 맞춤형 AI칩 출시설' 부인…\"계획 전혀 없다\" 뉴시스."
@@ -48,10 +32,25 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "nc0a6ce8c",
+    "category": "IT",
+    "source": "연합뉴스",
+    "time": "3시간 전",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9YUU41ZWlxU2ZhYWNONDlDUks2MzJsVzNxTmxfbkRXdFpUNXRndkFVTlcyemVSVUd3TENIaFc3bjZacURwTmc3c3MxbHVYR0I1MXhJaFUyYVlpb1Rra0o5ZtIBYEFVX3lxTE9YUU41ZWlxU2ZhYWNONDlDUks2MzJsVzNxTmxfbkRXdFpUNXRndkFVTlcyemVSVUd3TENIaFc3bjZacURwTmc3c3MxbHVYR0I1MXhJaFUyYVlpb1Rra0o5Zg?oc=5",
+    "title": "엔비디아가 中 맞춤형 AI칩 출시(?)…회사 \"전혀 계획 없다\"",
+    "summary": [
+      "엔비디아가 中 맞춤형 AI칩 출시(?)…회사 \"전혀 계획 없다\" 연합뉴스."
+    ],
+    "chips": [
+      "#AI",
+      "#엔비디아"
+    ]
+  },
+  {
     "id": "n6f9d632c",
     "category": "IT",
     "source": "Counterpoint Research",
-    "time": "16시간 전",
+    "time": "17시간 전",
     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNWldFd0pOdDliUnJ6TDJUV2FTaGE1RndLODFNdVNleVoyNFVMdnRlQkEtODNMSDRQZDJCWjlab29yZ21sSldSU1BJWnFSc2QzRlZzOXMwY1ZqYkwxOWN4VkJVQ0FKRl8tRGg0TG1jYWZpeDIzVllxREtMZDhYbnZWTmVRNGhMQVB1WjJSdUl3?oc=5",
     "title": "인텔은 메모리 넘본다…삼성은 파운드리 반격",
     "summary": [
@@ -65,7 +64,7 @@ window.NEWS_DB = [
     "id": "nd000c55e",
     "category": "IT",
     "source": "데이터넷",
-    "time": "16시간 전",
+    "time": "17시간 전",
     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE11QUd4NkhZaDRidFpDRHoyWnFPeURfYVpIMjRZc1pjSmdiTDBiYmVZbnpCQkJxd0ZJaUdMeW5DWVhaTlVmOW53X3BuVTh4bGtYVWM4OUd3a1RtdFdtNm5xSVZMakxxb1lsUnNONA?oc=5",
     "title": "“인텔은 메모리 넘보고, 삼성은 파운드리 반격”",
     "summary": [
@@ -79,7 +78,7 @@ window.NEWS_DB = [
     "id": "n36bf22dc",
     "category": "사회",
     "source": "뉴스 따옴",
-    "time": "16시간 전",
+    "time": "18시간 전",
     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1JYmRLTlA3Yk9LMUJzM3k2cHd4bzJlcWJmVEM4Ukx0aGpZdWNYYnUwaUIxY2MzdVRNWmpBemNkRnpNV1ppVnNiSDAzcFY3WEhEOUdIMnVKc2tUNjR5eS14cUdmem80cHlESzJGTTdn0gFyQVVfeXFMT0Q0MHBweW9XVm1JaUJWTnJLcW1Dbm5VcXhjVjRNV1dCOHh5UTlIUGxEUnhfVmR3Tmk0bng0TGcyTkc4RmhVRHAwd1JTaW00STFJcUxGUVdYNDBpWTdNQzdqUENBcDVGeWN1eU1lTEFqMk5n?oc=5",
     "title": "고용노동부 안양지청, 원하는 일자리는 가까이에, 고용센터 ‘일자리 수요데이’로 통(通)하다",
     "summary": [
@@ -93,7 +92,7 @@ window.NEWS_DB = [
     "id": "n04c9840b",
     "category": "IT",
     "source": "ebn.co.kr",
-    "time": "16시간 전",
+    "time": "18시간 전",
     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5jNy1zd3VfY0dldFJwanlTb1U0aUR0elE4amU1Ui1FaXRORkV5TWZZZEJlVVlHc1ZhVjByWTg1MFFIMXdLUVJCcjBwYXlJMk1JQkFHVGR1RTdhSy1WMU5sbEJveU5xRktt?oc=5",
     "title": "인텔, 메모리 접점 확대…삼성은 파운드리 반격 나섰다",
     "summary": [
@@ -107,7 +106,7 @@ window.NEWS_DB = [
     "id": "n72333e67",
     "category": "사회",
     "source": "서울뉴스통신",
-    "time": "18시간 전",
+    "time": "19시간 전",
     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1PU0xyNnJwRUhKbThVQm9zempWb0p3QVBUUEE3YVQxZ05XdXdUeUtfT01hZlVMbTA2ZTlKU2ctUlhJTVNWVlJMNXFHenVndGxFVG9xMGdVdnh1dEtZUENkdFQ5dXdRRjNTdVh3?oc=5",
     "title": "고용센터 AI 기반 맞춤형으로 개편…구직 상담·기업 채용지원 대폭 강화",
     "summary": [
@@ -195,20 +194,6 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n64dc67f5",
-    "category": "IT",
-    "source": "유니콘팩토리",
-    "time": "59일 전",
-    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1ORFIxM2VUWmNQaWh2Z0xiY2xXeUlzZFZvT3l4dGwyNFdvdXlyZ0lJdGtNT2cyYjFaU0pNX0FUcnRQelZxZzBXZDZ0Qi1OSWt4V3lCUFRhWXBYZ0g1M0EzTVVmMTZTVEVIeW5ISA?oc=5",
-    "title": "수도권 쏠림 깨기 나선 중기부…창업도시 4곳서 스타트업 278곳 키운다",
-    "summary": [
-      "수도권 쏠림 깨기 나선 중기부…창업도시 4곳서 스타트업 278곳 키운다 유니콘팩토리."
-    ],
-    "chips": [
-      "#스타트업"
-    ]
-  },
-  {
     "id": "n244b01bd",
     "category": "경제",
     "source": "스트레이트뉴스",
@@ -235,6 +220,20 @@ window.NEWS_DB = [
     "chips": [
       "#금리",
       "#환율"
+    ]
+  },
+  {
+    "id": "n79d12fb6",
+    "category": "부동산",
+    "source": "Chosunbiz",
+    "time": "83일 전",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQc01fQzQ5RjhjTzMxV0xObHgwUFQ5Z0ozcklaR19VYmhUOXBxVURFZVBjZkxKT2ozQUhsVzViV1JCLXdvVUQ1YWVwYTA5bVB1TjdaYlZHTXFCQUJoRTBsdHNHZXZ5MnJQdVliYzVUUktidVpvNDNzWVJXakYzUFBTMFMxd1Y0NFVrTnhSR1c5WXctLTdFRnhJMtIBrAFBVV95cUxOMk9EaXo0bmRJdnJyRVgyM0REZE1IR1VEVkNzWVNHZW9nR3p3WDRXcXQ0dnpfNk5LRE9SVFVscW45RzlqYTZGTWhWdTlybngycnM5QUliSG1haVFoQW5xT3ZpbFJvWU5hYjNYUGNLTHVyNHgwcDdLZWFsdFhMTHhCNlBodDFsdkFTT0tFX3NXWGZ1M2hCTEpmbTVUVXRzREtvSy1CdkRyWE5sbU5p?oc=5",
+    "title": "매물 줄고 분양가 뛰고… 전국 아파트 매매·전셋값 동반 상승세 지속 - 조선비즈",
+    "summary": [
+      "매물 줄고 분양가 뛰고… 전국 아파트 매매·전셋값 동반 상승세 지속 - 조선비즈 Chosunbiz."
+    ],
+    "chips": [
+      "#부동산"
     ]
   },
   {
@@ -296,345 +295,344 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nbe3faaa9",
-    "category": "부동산",
-    "source": "한국주택경제신문",
-    "time": "189일 전",
-    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBySlBpV3FLRUFBelkwS3NUZWhrOC1qcGdZTW1obGIyVDV3Z2I5WHlwSGRzUkRCSjllUnpRX2Vld2FRa3VRWU56VEROM19hS3lGUU11VFJPS3RZUThkcTRGR0dEa0p2V0xy?oc=5",
-    "title": "서울 집값 0.22% ↑… \"재건축·역세권이 끌었다“",
+    "id": "nbcfe41a7",
+    "category": "IT",
+    "source": "연합뉴스TV",
+    "time": "178일 전",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8wREZzcDhjdlBHWDRyS0l1YlIxdEszOHZaSjRrNFU1VlBPajQwc1AySHFmWFh4M2NfSVJNWnBaZXhXRHhGOExxZm12ZmZMdFl5WEhLX2owTzVNaWRYd3d0UzRSdndSY2c?oc=5",
+    "title": "\"K-방산 유니콘 키운다\"…스타트업 100개·벤처천억기업 30개 육성",
     "summary": [
-      "서울 집값 0.22% ↑… \"재건축·역세권이 끌었다“ 한국주택경제신문."
+      "\"K-방산 유니콘 키운다\"…스타트업 100개·벤처천억기업 30개 육성 연합뉴스TV."
     ],
     "chips": [
-      "#부동산",
-      "#재건축"
+      "#스타트업"
     ]
   },
   {
-    "id": "n0bd1b9c1",
-    "category": "경제",
+    "id": "n5c4db23d",
+    "category": "IT",
     "source": "테크M",
     "time": "방금 전",
-    "url": "https://www.techm.kr/news/articleView.html?idxno=154485",
-    "title": "[크립토 브리핑] 美 국채 바이백에 비트코인 7만2000달러 돌파…숏스퀴즈까지 겹쳤다",
+    "url": "https://www.techm.kr/news/articleView.html?idxno=154490",
+    "title": "퀄컴, 세르지오 부니악 모토로라 사장 영입",
     "summary": [
-      "비트코인이 미국 재무부의 장기 국채 바이백 확대에 힘입어 7만2000달러를 넘어섰다.",
-      "미국 장기 국채금리가 급락하면서 위험자산 투자심리가 살아난 데다 대규모 숏 포지션 청산과 가상자산 규제 완화 기대까지 더해졌다.21일 코인마켓캡에 따르면 이날 오전 비트코인은 7만2000달러 안팎에서 거래되고 있다.",
-      "전날 장중에는 7만2800달러를 넘어서며 지난 6월 초 이후 최고치를 기록했다."
+      "퀄컴이 알렉스 카투지안 전 퀄컴 수석부사장 빈자리를 세르지오 부니악 모토로라 사장으로 채운다.",
+      "퀄컴이 인공지능(AI) 기기 사업 진용을 재편했다.21일 퀄컴은 세르지오 부니악 모토로라 사장을 퀄컴테크날러지스 총괄부사장 겸 모바일·컴퓨트·퍼스널AI그룹(MCPG) 본부장으로 선임했다고 밝혔다.",
+      "9월2일 공식 취임한다.MCPG는 퀄컴의 ▲스마트폰 ▲PC ▲웨어러블(착용형) ▲혼합현실(XR) 등 AI 기기 사업 전반을 영위하는 조직이다."
     ],
     "chips": [
-      "#금리",
-      "#정책"
+      "#AI"
     ]
   },
   {
-    "id": "n86f163a5",
-    "category": "부동산",
+    "id": "n40824e4e",
+    "category": "IT",
+    "source": "테크M",
+    "time": "방금 전",
+    "url": "https://www.techm.kr/news/articleView.html?idxno=154495",
+    "title": "[카카오, 둘로 다시 뛴다] '투자 전문가' 김도영이 이끄는 카카오X...6조4000억원 투입해 미래 베팅",
+    "summary": [
+      "카카오가 인적분할을 통해 신설하는 '카카오엑스(카카오X)'가 기존 사업을 관리하는 지주회사 성격을 넘어 미래 성장동력을 발굴하고 투자하는 '미래가치 투자회사'로 발돋움한다.",
+      "카카오톡 중심의 플랫폼 사업을 분리하는 동시에 카카오X를 그룹 차원의 투자와 성장 전략을 담당하는 핵심 축으로 내세우면서 사업회사와 투자회사의 역할을 명확히 나누겠다는 구상이다.카카오는 21일 오전 임직원 대상 타운홀 미팅인 '오픈톡'을 열고 이같은 내용을 담은 개편안을 발."
+    ],
+    "chips": [
+      "#카카오"
+    ]
+  },
+  {
+    "id": "n24837530",
+    "category": "IT",
+    "source": "테크M",
+    "time": "방금 전",
+    "url": "https://www.techm.kr/news/articleView.html?idxno=154488",
+    "title": "[카카오, 둘로 다시 뛴다] 카카오AI, 전 국민 AI에이전트 시대 '가속'...2030년 매출 6조원 '자신'",
+    "summary": [
+      "카카오가 신설회사 '카카오AI(가칭)'을 설립하며 인공지능(AI) 중심 사업 재편에 나섰다.",
+      "핵심 사업군을 별도로 분리해 역량을 집중하는 방식으로 기업 내 구조를 변경해 AI 경쟁력을 강화하겠다는 포석이다.",
+      "21일 카카오는 분할존속회사 '카카오 X(가칭)'와 분할신설회사 '카카오AI(가칭)'을 설립한다고 공시했다."
+    ],
+    "chips": [
+      "#AI",
+      "#카카오"
+    ]
+  },
+  {
+    "id": "n74178521",
+    "category": "IT",
+    "source": "테크M",
+    "time": "방금 전",
+    "url": "https://www.techm.kr/news/articleView.html?idxno=154493",
+    "title": "[카카오, 둘로 다시 뛴다] 인적분할로 카카오뱅크 안고 간다…'금융 혁신' 승부수",
+    "summary": [
+      "카카오가 인공지능(AI) 시대에 맞춰 회사를 둘로 쪼개는 대대적인 지배구조 개편에 나서면서도 카카오뱅크를 비롯한 금융 계열사는 그대로 품고 간다.",
+      "카카오톡과 AI를 신설회사에 집중하는 대신 금융·콘텐츠·모빌리티 계열사를 존속회사인 카카오X에 배치해 투자와 성장을 이어가겠다는 전략이다.특히 산업자본의 은행 지분 보유를 둘러싼 금산분리 논란 속에서도 카카오뱅크를 핵심 사업군으로 명확히 제시했다는 점이 눈에 띈다.",
+      "인터넷전문은행 특례법을 통해 어렵게."
+    ],
+    "chips": [
+      "#AI",
+      "#카카오"
+    ]
+  },
+  {
+    "id": "n66acd134",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "방금 전",
+    "url": "https://www.newsis.com/view/NISX20260821_0003757379",
+    "title": "국힘 부산시당 윤리위, 이인구·금동욱 중구의원에 탈당권고",
+    "summary": [
+      "[부산=뉴시스] 이아름 기자 = 국민의힘 부산시당 윤리위원회(윤리위)는 지난 20일 회의를 열고 중구의회 이인구 의장과 금동욱 부의장에 대한 탈당권고를 의결했다고 21일 밝혔다.",
+      "윤리위는 이 의원 등이 올해 상반기 중구의회 의장 및 부의장 선출과 관련해 당소속 의원 간 협의된 내용을 위반하고, 타당 소속 의원들과 결탁해 의장으로 선출된 것으로 판단했다.",
+      "당규에 따르면 탈당권고를 받은 두 의원이 탈당권고 의결 통지를 받은 날로부터 10일 이내에."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nb1c80402",
+    "category": "사회",
     "source": "뉴시스",
     "time": "1분 전",
-    "url": "https://www.newsis.com/view/NISX20260821_0003757096",
-    "title": "국조실, '청년주거제안' 온라인 소통 창구 개설…주택청약 등 제안 가능",
+    "url": "https://www.newsis.com/view/NISX20260821_0003757314",
+    "title": "선우용여 \"BMW 4대 타…1대는 도난 당해\"",
     "summary": [
-      "[서울=뉴시스]이인준 기자 = 정부가 청년세대의 부동산 및 주거 문제에 대한 현실적인 목소리를 수렴하기 위한 온라인 소통 채널을 개설한다.",
-      "국무조정실은 오는 24일부터 청년정책 플랫폼 '온통청년' 내에 '청년주거제안' 전용 소통 창구를 운영한다고 21일 밝혔다.",
-      "'부동산 정책 국민 대토론회' 이후에도 청년층의 부동산·주거 정책 제안 접수를 이어간다는 계획이다."
+      "[서울=뉴시스] 남정현 기자 = 배우 선우용여가 과거 BMW를 도난당한 적이 있다고 밝혔다.",
+      "20일 선우용여는 자신의 유튜브 채널에 '한국 최고령 운전자 82세 선우용여'라는 제목의 영상을 올렸다.",
+      "선우용여는 \"한국 오자마자 BMW를 샀다."
     ],
     "chips": [
-      "#부동산",
-      "#정책"
+      "#뉴스"
     ]
   },
   {
-    "id": "nec431fb7",
-    "category": "IT",
+    "id": "nb8148f5d",
+    "category": "사회",
     "source": "동아일보",
-    "time": "2분 전",
-    "url": "https://www.donga.com/news/Society/article/all/20260821/134517423/1",
-    "title": "세종 아파트서 화재 잇따라…“휴대용 배터리 열폭주”",
+    "time": "1분 전",
+    "url": "https://www.donga.com/news/Culture/article/all/20260821/134517971/2",
+    "title": "김규원, 돌잔치 MC 시절 아찔한 말실수…“할머니 죽으셨어요”",
     "summary": [
-      "최근 세종지역 아파트에서 배터리 열폭주와 전기적 요인으로 보이는 화재가 잇따랐다.21일 세종소방본부에 따르면 이날 오전 1시 32분쯤 세종 새롬동의 한 아파트 29층에서 불이 났다.이 불로 인명피해는 없었지만 126만 원 상당의 재산 피해가 발생했다.",
-      "소방은 휴대용 배터리를 충전하다 불이 난 것으로 보고 있다.앞서 전날 오후 6시 11분쯤 세종 조치원읍 한 아파트 6층에서도 무선충전기 충전 중 열폭주로 추정되는 불이 났다."
+      "김규원이 코미디언 지망생 시절 돌잔치 MC 아르바이트를 하다 가위바위보 이벤트 중 “할머니 죽으셨어요”라는 말실수를 한 뒤 일을 그만뒀던 일화를 공개했다."
     ],
     "chips": [
-      "#부동산",
-      "#전기차"
+      "#뉴스"
     ]
   },
   {
-    "id": "nc16e98fa",
-    "category": "경제",
+    "id": "n7212639f",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "1분 전",
+    "url": "https://www.donga.com/news/Culture/article/all/20260821/134517774/2",
+    "title": "“난 왜 삼전을 8만원에 팔았나”…후회할 선택을 반복하는 이유 [동아닷컴 금주의 신간]",
+    "summary": [
+      "삼성전자를 팔고 후회하는 투자자의 심리부터 나이 들어 새 친구를 만드는 법, 아이를 키우며 자신의 어린 시절을 돌아보는 이야기까지 금주의 신간을 소개한다."
+    ],
+    "chips": [
+      "#삼성전자"
+    ]
+  },
+  {
+    "id": "n0efa9bb4",
+    "category": "IT",
+    "source": "뉴시스",
+    "time": "1분 전",
+    "url": "https://www.newsis.com/view/NISX20260821_0003757364",
+    "title": "中 전문가 “군용 AI, 항공기 크기 등 잘못 인식하는 환각 위험성”",
+    "summary": [
+      "[서울=뉴시스]구자룡 기자 = 중국 첨단 전투기의 설계자들이 군용 항공기용 인공지능(AI)이 항공기의 길이·탑재량·무기·속도·전투 반경 등을 잘못 인식하는 환각 위험성이 있다고 지적했다.",
+      "19일 홍콩 사우스차이나모닝포스트(SCMP)에 따르면 AI 모델이 생성한 콘텐츠가 기본적인 물리 법칙, 설계 원칙 또는 운영상의 제약을 무시할 수 있다는 경고가 나왔다.",
+      "이같은 지적은 인민해방군(PLA)의 주력인 J-20과 차세대 스텔스 전투기 J-36을 개발."
+    ],
+    "chips": [
+      "#AI"
+    ]
+  },
+  {
+    "id": "nd49d8b39",
+    "category": "사회",
     "source": "아시아경제",
-    "time": "2분 전",
-    "url": "https://view.asiae.co.kr/article/2026082109371460373",
-    "title": "삼성, IDEA서 임팩트상 등 45개 수상…\"지속가능성에 강점\"",
+    "time": "1분 전",
+    "url": "https://view.asiae.co.kr/article/2026082110305978804",
+    "title": "'직원 가업상속도 자식처럼 감세'…李대통령 지시에도 세혜택 수백배 차",
     "summary": [
-      "삼성전자가 미국 산업디자이너협회가 주관하는 국제 디자인 공모전 'IDEA 2026'에서 대거 수상했다.",
-      "삼성전자는 IDEA 2026에서 임팩트상 1개와 동상 9개, 입상 35개에 이름을 올리며 총 45개의 상을 받았다고 21일 밝혔다.",
-      "IDEA는 레드닷 , iF 디자인 어워드와 함께 세계 3대 디자인상으로 꼽힌다."
-    ],
-    "chips": [
-      "#삼성전자"
-    ]
-  },
-  {
-    "id": "n28602380",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "2분 전",
-    "url": "https://www.newsis.com/view/NISX20260821_0003757099",
-    "title": "문경 영강변 달리고 힙합 즐긴다…'친환경캠핑페스티벌' 개최",
-    "summary": [
-      "[문경=뉴시스] 김진호 기자 = 경북 문경에서 영강변을 달리고 힙합 공연을 즐기는 친환경 축제가 열린다.",
-      "문경시는 9월 19∼20일 영강체육공원 일대에서 '2026 문경 친환경캠핑페스티벌'을 개최한다고 21일 밝혔다.",
-      "축제 첫날에는 5㎞를 달리는 '영강리버런'이 선보인다."
-    ],
-    "chips": [
-      "#환경"
-    ]
-  },
-  {
-    "id": "n4474c2ff",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "3분 전",
-    "url": "https://www.newsis.com/view/NISX20260821_0003757072",
-    "title": "도로교통공단, 무기계약직 9명 공개채용",
-    "summary": [
-      "[원주=뉴시스]이덕화 기자 = 한국도로교통공단이 '이동하는 모든 순간, 안전과 편리를 더하는 국민의 KoROAD'를 선도할 역량 있는 현장 업무를 담당할 무기계약직을 공개채용한다.",
-      "한국도로교통공단은 보안안내와 시설관리, 환경관리 분야 실무직(무기계약직) 9명을 모집한다고 21일 밝혔다.",
-      "모집 인원은 보안안내 1명, 시설관리 4명, 환경관리 4명이다."
-    ],
-    "chips": [
-      "#채용",
-      "#환경"
-    ]
-  },
-  {
-    "id": "naafb0fee",
-    "category": "경제",
-    "source": "뉴시스",
-    "time": "3분 전",
-    "url": "https://www.newsis.com/view/NISX20260821_0003757067",
-    "title": "권민수 신임 한은 부총재 취임…\"물가안정에 집중\"",
-    "summary": [
-      "[서울=뉴시스]김래현 기자 = 권민수 신임 한국은행 부총재가 \"한국은행이 물가안정과 금융안정이라는 본연의 역할을 더욱 충실히 수행할 수 있도록 하겠다\"고 밝혔다.",
-      "권 부총재는 21일 오전 취임식에서 \"지금 우리 경제가 마주한 여건은 녹록지 않다\"며 \"반도체 호조로 성장세는 예상보다 나아지고 있지만, 물가는 목표 수준을 웃돌고 있고 가계부채와 주택 가격을 중심으로 금융불균형 위험도 이어지고 있다\"고 말했다.",
-      "그는 \"환율 변동성과 지정학·통상 리스."
-    ],
-    "chips": [
-      "#반도체",
-      "#한은",
-      "#환율"
-    ]
-  },
-  {
-    "id": "n64b31d6e",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "3분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260821042600371",
-    "title": "월드비전 \"NGO, 정부 인도적 지원 전략적 파트너 돼야\"",
-    "summary": [
-      "(서울=연합뉴스) 정아란 기자 = 국제구호개발 비정부기구(NGO)인 월드비전은 지난 19일 여의도 국회의원회관에서 '2026 세계 인도주의의 날..."
+      "이재명 대통령이 직원 등 제삼자가 가업을 이어받아도 자녀 승계 때와 동일한 수준의 세금 혜택을 주라고 지시한 것으로 확인됐다.",
+      "하지만 정부가 '가업상속은 혈연 중심'이라며 혜택을 크게 축소해 실효성이 있을지는 미지수다.",
+      "21일 정부에 따르면 이 대통령은 지난 6월 23일 비공개로 진행된 국무회의에서 가업상속공제에 대해 \"종업원들이 인수하는 경우와 자식이 인수하는 경우를 차별할 필요도 없을 것 같다\"고 말했다."
     ],
     "chips": [
       "#정치"
     ]
   },
   {
-    "id": "nb28cf0e1",
-    "category": "경제",
-    "source": "연합뉴스(경제)",
-    "time": "3분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260821039200003",
-    "title": "금호건설, 삼성전자 '플랙트 한국공장' 수주…2028년 준공",
+    "id": "nce7b3463",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "1분 전",
+    "url": "https://www.newsis.com/view/NISX20260821_0003757363",
+    "title": "'휴양림서 나무랑 놀자'…논산시, '조물조물 나무놀이터' 성황",
     "summary": [
-      "(세종=연합뉴스) 오진송 기자 = 금호건설은 삼성전자와 '삼성전자 플랙트 한국공장 신축공사' 도급계약을 체결했다고 21일 밝혔다."
+      "[논산=뉴시스]곽상훈 기자 = 충남 논산시가 이달 초부터 2주 간 양촌자연휴양림에서 실시한 '조물조물 나무 놀이터'를 성황리에 마무리했다고 21일 밝혔다.",
+      "조물조물 나무 놀이터는 국산 목재를 활용한 체험 행사로 여름 휴가철을 맞아 휴양림을 찾은 피서객들에게 국산 목재의 우수성을 알리고 색다른 즐거움을 주기 위해 마련됐다.",
+      "행사 기간동안 유아 161명, 청소년 154명, 성인 50명 등 총 365명이 참여했다."
     ],
     "chips": [
-      "#삼성전자"
+      "#뉴스"
     ]
   },
   {
-    "id": "nf1575ce2",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "3분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260821041300071",
-    "title": "트럼프 \"지금 선거하면 25%p차 승리\"…'앙숙' 코언과 화해인터뷰",
+    "id": "nee637781",
+    "category": "경제",
+    "source": "머니투데이",
+    "time": "1분 전",
+    "url": "https://www.mt.co.kr/policy/2026/08/21/2026082109192543051",
+    "title": "서울시설공단, 추석맞이 장애인 가족 '성묘지원 버스' 운영",
     "summary": [
-      "(워싱턴=연합뉴스) 이유미 특파원 = 도널드 트럼프 미국 대통령은 20일(현지시간) \"내가 오늘 선거에 출마한다면 25%포인트(p) 차이로 이길..."
+      "오는 24일 예약 접수 서울시설공단은 추석 명절을 맞아 이동이 불편한 장애인 가족들이 편리하게 성묘를 다녀올 수 있게 '나들이 동행버스'를 활용한 사전 성묘지원 버스를 운영한다고 21일 밝혔다.",
+      "예약은 오는 24일부터 시 공공서비스 예약포털에서 가능하며, 다음달 10일부터 23일까지 수도권 내 장사시설을 방문하는 장애인 가족의 이동을 지원한다.",
+      "이용 대상은 장애인콜택시 이용 고객으로, 휠체어 장애인 1인 이상을 포함해 2인 이상이 함께 탑승해야."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n801c4fcf",
+    "category": "IT",
+    "source": "머니투데이",
+    "time": "1분 전",
+    "url": "https://www.mt.co.kr/policy/2026/08/21/2026082108464878302",
+    "title": "서울시, 5년 내 자율주행버스 500대로 늘린다…글로벌 톱3 교통 혁신",
+    "summary": [
+      "빠른 대중교통 접근성 조사 추진…향후 버스전용차로 확충 등 맞춤형 개선·사각지대 해소 서울시는 2030년까지 자율주행버스 500대 도입을 목표로 미래형 대중교통을 추진하는 등 민선 9기 내 '글로벌 톱3' 대중교통 도시 구축에 나선다.",
+      "21일 서울시에 따르면 이날 민선9기 서울시정 비전과 전략을 설계하는 'G3 서울 기획위원회' 산하 교통혁신분과는 이 같은 내용을 포함한 전략을 공개했다.",
+      "교통혁신분과위는 '월드클래스 대중교통 완성'과 '미래를."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n6d4eb4b6",
+    "category": "경제",
+    "source": "머니투데이",
+    "time": "1분 전",
+    "url": "https://www.mt.co.kr/policy/2026/08/21/2026082109074817575",
+    "title": "강준선·길원봉…서울시, 한성·경성 출신 독립유공자 310명 추가 발굴",
+    "summary": [
+      "광무황제의 강제 양위에 반대한 강준선 지사, 1919년 3·1독립만세의거에 참여한 길원봉·주종의 지사 등 서울시는 서울(한성·경성) 출신 독립유공자 310명을 새롭게 발굴하고 '독립유공자 포상신청 설명회'를 열었다고 21일 밝혔다.",
+      "시는 지난해 230명에 이어 올해 310명을 추가로 발굴해 당초 목표인 500명을 넘어 총 540명의 독립유공자를 발굴했다.",
+      "이번 사업은 지난해 광복 80주년을 계기로 추진한 시 기념사업의 일환으로, 일제강점기 독립."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n7fbb5818",
+    "category": "사회",
+    "source": "아시아경제",
+    "time": "1분 전",
+    "url": "https://view.asiae.co.kr/article/2026082110215338838",
+    "title": "'징계내전' 이어 당협논란에 갈등 재점화…보폭키우는 鄭",
+    "summary": [
+      "국민의힘이 비당권파 국회의원 3인에 대해 사실상 '공천배제'인 중징계 처분을 내리면서 당내 갈등이 재점화되고 있다.",
+      "특히 당권파의 당원협의회 운영위원장(당협위원장) 교체 시도도 반발을 키우는 요소다.",
+      "이 가운데 원내사령탑인 정점식 원내대표의 보폭이 커지고 있다."
     ],
     "chips": [
       "#정치"
     ]
   },
   {
-    "id": "n461ec055",
-    "category": "경제",
+    "id": "necefc184",
+    "category": "IT",
+    "source": "아시아경제",
+    "time": "3분 전",
+    "url": "https://view.asiae.co.kr/article/2026082110533798868",
+    "title": "울산시, 민선9기 첫 추경… 사상 첫 ‘6조원 시대’ 연다",
+    "summary": [
+      "울산시가 민선 9기 출범 이후 첫 추가경정예산안을 내놓는다.",
+      "시민들이 일상에서 겪는 불편을 신속하게 해소하는 동시에 인공지능 전환과 주력산업 고도화 등 미래 경쟁력 확보에도 재원을 투입해 새 시정의 방향을 예산에 담았다.",
+      "울산시는 21일 총 1264억원 규모의 2026년도 제3회 추가경정예산안을 시의회에 제출한다고 전했다."
+    ],
+    "chips": [
+      "#AI"
+    ]
+  },
+  {
+    "id": "n93f719d7",
+    "category": "사회",
     "source": "아시아경제",
     "time": "4분 전",
-    "url": "https://view.asiae.co.kr/article/2026082109353507766",
-    "title": "KT, 네트왓킹·밸런쉼 등 Z세대 선정 5대 트렌드 키워드 공개",
+    "url": "https://view.asiae.co.kr/article/2026082013080648780",
+    "title": "[영역:young域]청년을 정말 지방으로 보내고 싶으신가요",
     "summary": [
-      "KT는 대학생들과 함께한 'Y트렌트 컨퍼런스&고객경청포럼'에서 Z세대가 선정한 5대 트렌드 키워드를 발표했다고 21일 밝혔다.",
-      "Y트렌드 컨퍼런스는 KT 대학생 마케팅 서포터즈 Y퓨처리스트와 대학내일 20대연구소가 Z세대 트렌드 키워드 및 사업 아이디어를 발굴·공유하는 행사다.",
-      "올해 선정한 키워드는 ▲네트왓킹(NetWHATking) ▲스크롤픽(Scroll Pick) ▲밸런쉼 ▲현재진행력 ▲트라이에이터(Try-ator)로, Z세대의 관계·."
+      "소멸돼 가는 지방을 살리기 위해 정부가 내놓는 정책들은 반갑다.",
+      "하지만 지금의 인구감소지역은 청년이 떠날 수밖에 없는 구조다.",
+      "정책도 청년이 지방을 떠난 이유를 외면한 채 돌아가라 설득만 하고 있다."
+    ],
+    "chips": [
+      "#정책",
+      "#교육"
+    ]
+  },
+  {
+    "id": "n255fd910",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "5분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260821074500057",
+    "title": "'자로 재고, 외국사례도 찾고' 초등생들이 만든 '안심통학길'",
+    "summary": [
+      "(울산=연합뉴스) 장영은 기자 = 매일 오가는 학교 앞 통학로의 위험 요인을 초등학생들이 직접 조사하고, 데이터를 바탕으로 개선 방안까지 제안해..."
     ],
     "chips": [
       "#교육"
     ]
   },
   {
-    "id": "nf51c7e97",
-    "category": "IT",
-    "source": "연합뉴스(경제)",
-    "time": "4분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260821041200008",
-    "title": "[특징주] SK하이닉스, 하락출발후 상승전환…삼전은 혼조",
-    "summary": [
-      "(서울=연합뉴스) 황철환 기자 = SK하이닉스[000660]가 21일 하락 출발후 상승 전환했다."
-    ],
-    "chips": [
-      "#SK하이닉스"
-    ]
-  },
-  {
-    "id": "n6fabd222",
-    "category": "경제",
-    "source": "연합뉴스(경제)",
-    "time": "5분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260821041000030",
-    "title": "유아용 매트 리콜에 관련 소비자상담 422% 급증…복숭아 244%↑",
-    "summary": [
-      "(서울=연합뉴스) 정수연 기자 = 한국소비자원은 한국소비자단체협의회와 함께 7월 1372소비자상담센터에 들어온 상담을 분석한 결과, '매트'와 ..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n0ec98345",
-    "category": "경제",
-    "source": "동아일보",
-    "time": "5분 전",
-    "url": "https://www.donga.com/news/Economy/article/all/20260821/134517399/1",
-    "title": "코스피, 차익 실현 매물에 1%대 하락 출발…6700선 중반 등락",
-    "summary": [
-      "전날 급등세를 보인 코스피가 장 초반 1%대 하락 출발하고 있다.",
-      "차익 실현 매물이 나오고 있는 여파로 풀이된다.21일 오전 9시 2분 현재 코스피는 전일 대비 82.76포인트(1.21%) 내린 6769.82에 거래되고 있다.",
-      "이날 92.63포인트(1.35%) 하락 출발한 지수는 장 초반 기관 매도 속 6700선 중반을 오르내리며 추가 방향성을 탐색하고 있다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nec66b935",
-    "category": "경제",
-    "source": "아시아경제",
-    "time": "6분 전",
-    "url": "https://view.asiae.co.kr/article/2026082109332647716",
-    "title": "홍천군, ‘농촌 기본소득’ 설계 착수…2027년 시범 도입 검토",
-    "summary": [
-      "강원도 홍천군이 민선 9기 대표 공약인 '홍천형 농촌 기본소득 수당' 도입을 위한 정책 설계에 본격 착수했다.",
-      "올해 제도적 기반을 마련한 뒤 2027년 시범 도입을 검토하고, 사업 효과와 재정 여건을 분석해 단계적으로 확대한다는 구상이다.",
-      "홍천군은 지난 20일 군청 행정상황실에서 신영재 군수 주재로 관계 부서 합동 전략회의를 열고 농촌 기본소득 수당의 지급 대상과 방식, 도입 시기, 재원 조달 방안 등을 논의했다."
-    ],
-    "chips": [
-      "#정책"
-    ]
-  },
-  {
-    "id": "nedcb4f53",
-    "category": "경제",
-    "source": "아시아경제",
-    "time": "6분 전",
-    "url": "https://view.asiae.co.kr/article/2026082018595296208",
-    "title": "mRNA 암백신에 들썩이는 K바이오…새로운 '기회의 문' 열릴까",
-    "summary": [
-      "모더나·미국 머크(MSD)의 메신저리보핵산(mRNA) 암 백신 임상 3상 성공 소식이 전해지자 국내 바이오 기업들을 향한 시장의 관심이 일순간 크게 높아지는 분위기다.",
-      "이 백신의 생산 방식이 국내 유전자 분석·mRNA 기업에도 새로운 수요를 열어줄 것이라는 기대감이 분출한 결과다.",
-      "모더나가 대부분의 공정을 내재화한 만큼 당장 수주 가능성은 제한적이지만 뒤따라 들어올 개발사들의 임상 물량과 관련해 기회가 먼저 열릴 수 있."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n19f71549",
+    "id": "ned524585",
     "category": "사회",
-    "source": "동아일보",
-    "time": "7분 전",
-    "url": "https://www.donga.com/news/Culture/article/all/20260821/134517381/1",
-    "title": "연세대 간호대학, 설립 120주년 기념도서 ‘간호선교로 세계를 잇다’ 발간",
+    "source": "연합뉴스",
+    "time": "5분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260821075700004",
+    "title": "8살 여아 발등 밟고 지나간 차량 2심도 뺑소니 무죄",
     "summary": [
-      "연세대학교 간호대학이 설립 120주년을 맞아 한국 근대 간호교육의 역사와 세계 각지에서 이어져 온 동문들의 활동을 담은 기념도서 ‘간호선교로 세계를 잇다-쉴즈가 시작한 연세간호 120년’을 발간했다.",
-      "연세간호의 역사는 1906년 세브란스병원 간호부양성소에서 시작됐다.",
-      "미국 북장로회 간호선교사로 1897년 조선에 온 에스더 루카스 쉴즈(Esther Lucas Shields)는 제중원과 세브란스병원에서 환자를 돌보다 1906년 세브란스병원 간호원장."
-    ],
-    "chips": [
-      "#교육",
-      "#의료"
-    ]
-  },
-  {
-    "id": "nd4f5fbb3",
-    "category": "경제",
-    "source": "동아일보",
-    "time": "7분 전",
-    "url": "https://www.donga.com/news/Economy/article/all/20260821/134517388/1",
-    "title": "외국인 지난달 국내 주식 32조 팔았다…7개월째 ‘셀 코리아’",
-    "summary": [
-      "지난달 외국인 투자자가 국내 상장주식 32조 원 가까이 팔아치운 것으로 나타났다.",
-      "외국인의 이같은 ‘셀 코리아(Sell Korea)’는 올 초부터 연속 7개월 째다.21일 금융감독원에 따르면 외국인은 7월 중 국내 상장주식을 31조6640억 원 순매도했다.외국인은 올해 들어 7개월 연속 국내 주식을 순매도하고 있다.",
-      "월별 순매도 규모는 5월과 6월 각각 40조 원 후반대까지 확대됐다가 지난달 30조원대로 감소했다.지역별로는 미주 투자자가 1조1."
+      "(서울=연합뉴스) 정지수 기자 = 초등학생을 차로 들이받은 뒤 도주한 혐의로 재판에 넘겨진 70대 남성이 항소심에서도 공소기각 판결을 받았다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n67e18f7d",
-    "category": "IT",
-    "source": "연합뉴스(경제)",
-    "time": "9분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260821032751002",
-    "title": "8월 중순 수출 56%↑…반도체 비중 47.2%, 역대 최고(종합)",
+    "id": "nf23e9b7f",
+    "category": "경제",
+    "source": "머니투데이",
+    "time": "6분 전",
+    "url": "https://www.mt.co.kr/industry/2026/08/21/2026082020004721475",
+    "title": "팜스빌, ‘와이락 M002’ 노화에 따른 근육 감소 대응 가능성 확인",
     "summary": [
-      "(세종=연합뉴스) 안채원 기자 = 이달 중순 수출도 반도체 수출 호조에 힘입어 지난해 같은 기간보다 50% 넘게 증가했다."
-    ],
-    "chips": [
-      "#반도체",
-      "#수출"
-    ]
-  },
-  {
-    "id": "ne62cfcc4",
-    "category": "부동산",
-    "source": "조선일보",
-    "time": "9분 전",
-    "url": "https://www.chosun.com/economy/economy_general/2026/08/22/3ITSXBEEEZA5LNB7WQ7TOPYLNU/",
-    "title": "권민수 한은 부총재 “가계부채, 주택가격 중심으로 금융불균형 위험 이어져”",
-    "summary": [
-      "권민수 한은 부총재 “가계부채, 주택가격 중심으로 금융불균형 위험 이어져”."
+      "팜스빌은 자사가 연구·개발에 참여한 '프로바이오틱스 와이셀라 사이베리아(Weissella cibaria) WiKim0187(Wilac M002)이 노화에 따른 근육 감소의 완화 가능성을 보인 연구' 결과가 국제학술지 JMB(Journal of Microbiology and Biotechnology)에 게재됐다고 21일 밝혔다.",
+      "이번 연구는 노화 마우스에 Wilac M002를 16주간 섭취시킨 뒤 근육량·근력·근섬유와 근육 생성·분해 관련 지표,."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n61bc9f91",
-    "category": "경제",
-    "source": "한국경제",
-    "time": "22분 전",
-    "url": "https://www.hankyung.com/article/202608202638g",
-    "title": "성과급 갈등에 결국…삼성전자 노조 '한 지붕 두 가족' 되나",
+    "id": "n38d192be",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "6분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260821063800530",
+    "title": "초·중·고 교육 '버팀목' 뽑히나…교육계 \"투자 위축 우려\"",
     "summary": [
-      "성과급 갈등에 결국…삼성전자 노조 '한 지붕 두 가족' 되나."
+      "(서울=연합뉴스) 노재현 기자 = 정부가 21일 지방교육재정교부금(교육교부금) 개편 방안을 공개하자 교육계는 초·중등 교육 재정의 안정성이 흔들..."
     ],
     "chips": [
-      "#삼성전자"
+      "#교육"
     ]
   }
 ];
@@ -644,20 +642,20 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "AI",
-    "mentions": "1550건",
-    "trend": "+135%"
+    "mentions": "2200건",
+    "trend": "+235%"
   },
   {
     "rank": 2,
-    "tag": "반도체",
-    "mentions": "1550건",
-    "trend": "+135%"
+    "tag": "뉴스",
+    "mentions": "2070건",
+    "trend": "+215%"
   },
   {
     "rank": 3,
-    "tag": "부동산",
-    "mentions": "1550건",
-    "trend": "+135%"
+    "tag": "엔비디아",
+    "mentions": "1290건",
+    "trend": "+95%"
   }
 ];
 // ====AUTO-GENERATED-END====
