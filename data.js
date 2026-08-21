@@ -1,11 +1,25 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-08-21 09:25:40
+// 마지막 업데이트: 2026-08-21 10:19:17
 window.NEWS_DB = [
+  {
+    "id": "n9e98d1ae",
+    "category": "IT",
+    "source": "IT조선",
+    "time": "1시간 전",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5TYVA2YnJMTDkycW43azBHN0h3STBIbmZCVnVIeU5MSUpQU0dfc0ZyYThLMG9nQW5SX2kyT2hibUtIdU5BTW1XVHl3Mms3eXc3VzNudkxaRklBZF9LY3VIQWVkYjVMMGZFSVVYZWxpbGHSAXRBVV95cUxQdXpvZmUzOXhXamVfZmpnb1BNYS1VSkJkNEoxMkQzejduSEhOR2dSTVU3SFVHUlJfUXZRX05NR1NsZmw2bWNTbzlSMG5tZ29jVzZpV0dobHpzR3dWQkFBeEh0SWVvNEdybjFMUGI2VkRwVjd5QQ?oc=5",
+    "title": "엔비디아, 리벨리온과 기술협력·투자 논의… 인수 가능성도 거론",
+    "summary": [
+      "엔비디아, 리벨리온과 기술협력·투자 논의… 인수 가능성도 거론 IT조선."
+    ],
+    "chips": [
+      "#엔비디아"
+    ]
+  },
   {
     "id": "nd9e5e761",
     "category": "IT",
     "source": "자본시장뉴스",
-    "time": "6시간 전",
+    "time": "7시간 전",
     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1QYUdZQnA5Y2lNeXFNdXhhRFh4bE0zSTV0QWNZSXNZRWs0VXZtYnRxMjhmX0R4ekQtbDJIUTNuN01LM3EtMlI1blRxNU0yZzFkbEdEbFhnRVp0eDMtdDB1aGwyRGFWUnM?oc=5",
     "title": "[반도체 패권 지도 ④] HBM 79% 쥔 한국…파운드리는 7%에 묶여 있다",
     "summary": [
@@ -16,29 +30,14 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n9483c30e",
+    "id": "n1da04b0e",
     "category": "IT",
-    "source": "Chosunbiz",
-    "time": "9시간 전",
-    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNUGwtV0pYMm01YXQzbUY1VFI0RjF5cU9fclpPQU9yVE0yWDJ2UUo1Z0NGcWxXS1Q0QVZtSkVBTllCb0dZWVVfelY0RlI2MDhOTG12Z0ozSW1KTU9Nb2k3YWYtMFVVdTZsanQ1cWo4VHlQWklQTXk0U185TXRoSG9xVGZnTXNjMThzVk96Q1FrYlVZa1NTSXB4NGgtS0U5Z9IBsgFBVV95cUxORW5RWEpXdzZVajFnbVExRG5VOEZsMGE5ZXQtSDluZW1oaUlJLWNfVF82eHlvR0h1cmdYLTVPSGhyd3o4aHZ2dEdWVEF3SGdRNXdFbkI0R01obE4xSl9Uak1kcElKY0wtWFR1VUtJVlJibW5sRm10ZXlOUEZoNGdiUUs5dHRoZHRwRmdfOUhLUGVRU2hQZHQ5NEtMVm9HM2lGX2pVZ2ZPd3R1c0JFSFNGaUtn?oc=5",
-    "title": "엔비디아 “中 맞춤형 AI칩 출시 계획? 전혀 없다” - 조선비즈",
+    "source": "머니투데이",
+    "time": "11시간 전",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5tLUdELWVvRjN0ekp2T0hCUnBkdVlOMU9QcGNkSTI1QVdGM0RTLTR1NEFiamtPMVM2UF9DUnF5V3Jfa2NwSTNURExpUlV5MlJGQnJ2ckhtNU5UYWlwdDhfZ092bzVHN1NC0gFuQVVfeXFMTnRmQ3R1azBHb0lRWXBqdlhVZE14NTZnUWluVUhZOTVMZmI0UFpRaHpRdU5rS0hIcDIxWURCMkthRDY2eEFadWJpcTNTUk43cDcxdGJNeXREc2pnVmV4WlY3SVl3eFlJeVZrdGRnd1E?oc=5",
+    "title": "엔비디아 \"중국 전용 AI칩 없다\"…연내 출시설 일축 - 머니투데이",
     "summary": [
-      "엔비디아 “中 맞춤형 AI칩 출시 계획? 전혀 없다” - 조선비즈 Chosunbiz."
-    ],
-    "chips": [
-      "#AI",
-      "#엔비디아"
-    ]
-  },
-  {
-    "id": "ned9b1714",
-    "category": "IT",
-    "source": "뉴시스",
-    "time": "10시간 전",
-    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5vQ29yNXlxV1NXbnJwMzdNWUd4OUtqVThRdGxkZkd2eTM0MjEyMms2Tk8xWUljc2tnU04zdEY5OURuVjB6SE5FUWFwR0I0QzdEWmhkRHR4Vy1CQ1VrdUR4SGJYTFFoN01UMXBzdkdGbmVEdEZVTTdHUNIBeEFVX3lxTE5vQ29yNXlxV1NXbnJwMzdNWUd4OUtqVThRdGxkZkd2eTM0MjEyMms2Tk8xWUljc2tnU04zdEY5OURuVjB6SE5FUWFwR0I0QzdEWmhkRHR4Vy1CQ1VrdUR4SGJYTFFoN01UMXBzdkdGbmVEdEZVTTdHUA?oc=5",
-    "title": "엔비디아 '中 맞춤형 AI칩 출시설' 부인…\"계획 전혀 없다\"",
-    "summary": [
-      "엔비디아 '中 맞춤형 AI칩 출시설' 부인…\"계획 전혀 없다\" 뉴시스."
+      "엔비디아 \"중국 전용 AI칩 없다\"…연내 출시설 일축 - 머니투데이 머니투데이."
     ],
     "chips": [
       "#AI",
@@ -49,7 +48,7 @@ window.NEWS_DB = [
     "id": "nc0a6ce8c",
     "category": "IT",
     "source": "연합뉴스",
-    "time": "10시간 전",
+    "time": "11시간 전",
     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9YUU41ZWlxU2ZhYWNONDlDUks2MzJsVzNxTmxfbkRXdFpUNXRndkFVTlcyemVSVUd3TENIaFc3bjZacURwTmc3c3MxbHVYR0I1MXhJaFUyYVlpb1Rra0o5ZtIBYEFVX3lxTE9YUU41ZWlxU2ZhYWNONDlDUks2MzJsVzNxTmxfbkRXdFpUNXRndkFVTlcyemVSVUd3TENIaFc3bjZacURwTmc3c3MxbHVYR0I1MXhJaFUyYVlpb1Rra0o5Zg?oc=5",
     "title": "엔비디아가 中 맞춤형 AI칩 출시(?)…회사 \"전혀 계획 없다\"",
     "summary": [
@@ -310,6 +309,22 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "nd0ddc54e",
+    "category": "사회",
+    "source": "테크M",
+    "time": "방금 전",
+    "url": "https://www.techm.kr/news/articleView.html?idxno=154519",
+    "title": "삼성전자 동행노조, '뒷북집회' 지적 확산...퇴근길 가두행진 '빌미'",
+    "summary": [
+      "삼성전자 삼성전자노동조합(동행노조)가 실력 행사에 나섰다.",
+      "21일 집회를 열고 올해 '임금 및 단체협상(임단협)' 무효와 디바이스경험(DX)부문 특별성과급 자사주 1000주 지급을 요구했다.시민들의 눈초리는 곱지 않았다.",
+      "임단협 확정과 부문 영업손실에도 불구 성과급을 요구하고 있기 때문이다."
+    ],
+    "chips": [
+      "#삼성전자"
+    ]
+  },
+  {
     "id": "ne8075ae3",
     "category": "IT",
     "source": "테크M",
@@ -359,283 +374,263 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "ne2da1380",
-    "category": "IT",
-    "source": "테크M",
-    "time": "방금 전",
-    "url": "https://www.techm.kr/news/articleView.html?idxno=154514",
-    "title": "로봇도 클라우드 쓴다...AWS, 韓 피지컬 AI 15개사 지원",
-    "summary": [
-      "대규모로 데이터를 처리하며 AI 학습을 필요로 하는 로봇과 자율제조 분야가 새로운 클라우드 시장으로 떠오르고 있다.21일 IT업계에 따르면 아마존웹서비스(AWS)는 국내 기업 15곳이 참여하는 'AWS 코리아 피지컬 AI 프론티어 프로그램'을 운영하고 있다.",
-      "참여 기업이 데이터 수집부터 AI 모델 학습, 시뮬레이션, 심투리얼(시뮬레이션에서 실제 환경으로 전환하는 작업), 엣지 배포까지 AWS 인프라 위에서 처리할 수 있도록 기술과 크레딧을 지원."
-    ],
-    "chips": [
-      "#AI",
-      "#환경"
-    ]
-  },
-  {
-    "id": "n266e2002",
-    "category": "IT",
-    "source": "동아일보",
-    "time": "1분 전",
-    "url": "https://www.donga.com/news/Economy/article/all/20260821/134521627/1",
-    "title": "카카오, 둘로 나뉜다…톡은 카카오AI, 미래투자는 카카오X로 인적분할",
-    "summary": [
-      "카카오가 카카오톡 기반 인공지능(AI) 사업을 맡는 ‘카카오AI’와 미래 투자를 전담할 ‘카카오X’로 나뉜다.",
-      "사업 분리를 통해 의사결정 속도를 높여 기업가치를 끌어올리겠다는 전략이다.카카오는 이사회를 열고 신설법인 카카오 AI와 존속법인 카카오X로의 인적분할을 결의했다고 21일 밝혔다.",
-      "분할비율은 순자산 장부가액 기준 카카오AI 0.36, 카카오X 0.64로, 기존 주주는 분할비율에 따라 두 회사 주식을 모두 배정받는다.카카오는 사업 규모가."
-    ],
-    "chips": [
-      "#AI",
-      "#카카오"
-    ]
-  },
-  {
-    "id": "nc9fde13d",
+    "id": "n9b0c8f71",
     "category": "사회",
-    "source": "뉴시스",
+    "source": "아시아경제",
     "time": "3분 전",
-    "url": "https://www.newsis.com/view/NISX20260821_0003758146",
-    "title": "KTX 타고 풍기인삼축제 간다…영주시의원·코레일, 방안 논의",
+    "url": "https://view.asiae.co.kr/article/2026082119155932342",
+    "title": "삼성전자 DX노조 3500명 모여 \"경영실패 책임져라\"",
     "summary": [
-      "[영주=뉴시스] 김진호 기자 = 올가을 열리는 '경북영주 풍기인삼축제'에 전국 관광객을 유치하기 위한 철도 연계 움직임이 본격화되고 있다.",
-      "최선희·김명정·최종찬 영주시의원은 21일 한국철도공사(코레일) 경북본부를 찾아 KTX·SRT 통합에 따른 영주지역 철도교통 확대와 관광 활성화 방안을 논의했다.",
-      "이번 논의의 핵심은 풍기역을 지역 관광 관문으로 육성하는 것이다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "ndd52347c",
-    "category": "스포츠",
-    "source": "동아일보",
-    "time": "3분 전",
-    "url": "https://www.donga.com/news/Sports/article/all/20260821/134521624/1",
-    "title": "‘8위 추락’ 한화, 10승 투수 왕옌청마저 폐렴으로 입원",
-    "summary": [
-      "최근 6연패 부진에 빠지며 8위로 추락한 프로야구 한화 이글스에 또 하나의 악재가 닥쳤다.",
-      "아시아쿼터 투수 왕옌청이 폐렴으로 입원했다.한화는 21일 대전 한화생명볼파크에서 열리는 LG 트윈스와 경기를 앞두고 왕옌청을 말소하고 투수 이형범을 콜업했다.한화 관계자는 “왕옌청이 오늘 오전 감기몸살 증세로 병원 진료를 받았는데, 폐렴 진단이 나와 입원했다”며 “호전 후 퇴원 예정”이라고 밝혔다.",
-      "현재로선 선발 로테이션을 한 차례 거른 뒤 복귀할 것으로."
-    ],
-    "chips": [
-      "#KBO",
-      "#의료"
-    ]
-  },
-  {
-    "id": "n58890781",
-    "category": "스포츠",
-    "source": "동아일보",
-    "time": "3분 전",
-    "url": "https://www.donga.com/news/Sports/article/all/20260821/134521620/1",
-    "title": "‘시즌 첫 3위’ KIA 이범호 감독 “AG 변수 있기에 끝까지 알 수 없어”",
-    "summary": [
-      "“신경 안 써요.”시즌 개막 후 처음으로 3위에 올랐지만, KIA 타이거즈 이범호 감독의 표정은 덤덤했다.",
-      "그는 “아직 35경기나 남았고, 올 시즌엔 아시안게임이라는 특수한 상황까지 있기 때문에 끝까지 알 수 없다”고 했다.KIA는 21일 서울 고척 스카이돔에서 열리는 2026 신한 SOL KBO리그 키움 히어로즈와의 원정 경기를 치른다.KIA는 최근 5연승의 상승세를 타고 있다.",
-      "전날(20일) 한화전 승리로 LG 트윈스를 승차 없이 승률 1리."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
-    "id": "n2f903351",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "4분 전",
-    "url": "https://www.newsis.com/view/NISX20260821_0003758143",
-    "title": "[경남소식]밀양 예림초 학교복합시설 교육부 공모 선정 등",
-    "summary": [
-      "[창원=뉴시스] 김기진 기자 = 경상남도교육청은 밀양 예림초등학교 학교복합시설 신설 사업이 교육부 학교복합시설 공모심사위원회에 선정됐다고 21일 밝혔다.",
-      "밀양 예림초 학교복합시설은 밀양시 상남면 예림초등학교 운동장 부지에 총사업비 270억 원을 투입해 지상 3층, 연면적 4170㎡ 규모로 조성할 예정이다.",
-      "시설은 ▲1층 어린이 수영장·상상놀이터 ▲2층 돌봄센터·복합공유공간 ▲3층 다목적실·GX실 ▲옥외공간 등으로 구성한다."
-    ],
-    "chips": [
-      "#교육"
-    ]
-  },
-  {
-    "id": "nf5e0373b",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "4분 전",
-    "url": "https://www.donga.com/news/Economy/article/all/20260821/134521617/1",
-    "title": "삼성전자, 올해 최대 110조 주주환원…3분기 중 30조원 현금배당 예고",
-    "summary": [
-      "삼성전자가 올해 대규모 주주환원책을 가동한다.삼성전자는 21일 이사회를 열고 2026년 한 해 동안 약 90조 원에서 110조 원 규모에 달하는 주주환원 방안을 확정했다고 밝혔다.",
-      "이는 국내 상장기업 역사상 가장 큰 규모다.이번에 결정된 환원 규모는 종전 최고 기록이었던 2020년의 20조3000억 원과 비교해 약 5배에 이른다.",
-      "경영 성과로 얻은 결실을 투자자들에게 실질적으로 돌려주고, 기업의 성장과 주주가치 상승이 맞물리는 선순환 체계 구축."
+      "삼성전자 디바이스경험(DX) 부문 직원 중심의 노동조합이 대규모 집회를 열고 직원 1인당 자사주 1000주 지급과 전사 공통재원 마련을 요구했다.삼성전자 노동조합 동행(동행노조)은 21일 오후 서울 서초구 삼성전자 서초사옥 인근에서 집회를 열고 \"경영 판단 실패의 대가는 왜 비용 절감과 인력 감축이라는 이름으로 직원들에게 돌아오는지 회사는 답해야 한다\"고 말했다.",
+      "노조는 모바일경험(MX)사업부 적자 전환 등 DX 부문의."
     ],
     "chips": [
       "#삼성전자"
     ]
   },
   {
-    "id": "n0507bde5",
+    "id": "n2492f26e",
     "category": "사회",
     "source": "뉴시스",
     "time": "5분 전",
-    "url": "https://www.newsis.com/view/NISX20260821_0003758141",
-    "title": "故 강희선 아들, 49재에 이재명 대통령 위촉장 바쳤다",
+    "url": "https://www.newsis.com/view/NISX20260820_0003755087",
+    "title": "'수해 거제' 피해 농가 찾아 위로한 강호동 농협회장(종합)",
     "summary": [
-      "[서울=뉴시스] 남정현 기자 = 성우 고(故) 강희선의 아들 안은석 본필름 대표가 어머니의 49재를 치른 모습을 공개했다.",
-      "안 대표는 21일 \"어머니 49재\"라는 말과 함께 사진을 공개했다.",
-      "공개된 사진에는 고인의 생전 모습이 담긴 영상이 재생되고 있는 가운데 49재 상차림이 담겼다."
+      "[거제=뉴시스] 김기진 기자 = \"포도나무 위까지 잠겼어요.",
+      "인근 하천이 있는데 만조 시기와 겹쳐서 빗물이 역류까지 되고 피해가 컸죠.",
+      "당시 포도밭에 있었으면 죽었을겁니다\" 경남 거제시 둔덕농협 조합원인 피해 농민의 하소연이다."
     ],
     "chips": [
-      "#정치",
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nd90a1e41",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "6분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260821171100007",
+    "title": "우슈 대표팀, AG 앞두고 산둥성 대표팀과 합동훈련 소화",
+    "summary": [
+      "(서울=연합뉴스) 이대호 기자 = 대한민국 우슈 국가대표팀이 2026 아이치·나고야 아시안게임을 앞두고 중국 산둥성 우슈 대표팀과 합동 훈련을 ..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n35636b08",
+    "category": "스포츠",
+    "source": "연합뉴스",
+    "time": "6분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260821170700061",
+    "title": "경기도, 하반기 정기인사 내년 1월로 연기…'조직 개편' 먼저",
+    "summary": [
+      "(수원=연합뉴스) 최찬흥 기자 = 경기도가 사업 재구조화와 조직개편을 위해 하반기 정기인사를 내년 1월로 5개월 연기하기로 했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n634c749e",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "7분 전",
+    "url": "https://www.chosun.com/sports/baseball/2026/08/21/MQ3WKOBVMU2DMYZSGA4TMZRTMI/",
+    "title": "연봉 6000만원, 어떻게 FA 80억 포수 밀어냈나…김태형 눈에 하트 뿅뿅 “포구-블로킹 다 좋아져, 기대 이상” [오!쎈 잠실]",
+    "summary": [
+      "[OSEN=잠실, 이후광 기자] 드디어 찾았다.",
+      "롯데 자이언츠의 주전 포수.",
+      "프로야구 롯데 자이언츠 김태형 감독은 21일 서울 잠실구장에서 열리는 2026 신한 SOL KBO리그 두산 베어스와의 시즌 13차전에 앞서 취재진과 만나 주전 포수로 성장한 손성빈을 칭찬하는 시간을 가졌다."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
+    "id": "n23c80a49",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "7분 전",
+    "url": "https://www.chosun.com/sports/sports_general/2026/08/21/GI2DOYRZHE3WEYRSHE3TMNJZGE/",
+    "title": "'안세영 미쳤다!' 1게임 고전 후 2게임 21-12 '압도적'...한웨 상대 2-0 완승→세계선수권 준결승 진출 '최소 동메달 확보'",
+    "summary": [
+      "[OSEN=정승우 기자] 안세영(24, 삼성생명)이 감을 되찾고 폭주했다.",
+      "1게임에서 고전한 뒤 2게임에서는 압도적인 실력 차이로 한웨(27, 중국)을 꺾고 준결승에 진출했다.안세영은 21일(한국시간) 인도 뉴델리에서 열린 2026 세계배드민턴연맹(BWF) 세계선수권대회 여자단식 8강에서 한웨(27, 중국)와 맞대결을 펼쳐 2-0(21-19, 21-12)으."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n4c030c37",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "9분 전",
+    "url": "https://www.chosun.com/economy/industry-company/2026/08/21/GM4GEMLFMM2WGZBTGA4DKMBTGA/",
+    "title": "현대차, 美 조지아 공장 ‘연간 80만대’ 생산 확대 검토",
+    "summary": [
+      "현대자동차가 미국 조지아주 공장의 연간 생산량을 최대 80만대까지 확대하는 방안을 검토한다.",
+      "호세 무뇨스 현대차 대표이사 사장은 20일(현지 시각) 미국 CNBC와 인터뷰에서 조지아주 현대자동차그룹 메타플랜트 아메리카(HMGMA)의 연간 생산 능력을 현재 50만대에서 2028년까지 70만~80만대로 늘리는 방안을 검토하고 있다고 밝혔다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nd56182d5",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "12분 전",
+    "url": "https://www.newsis.com/view/NISX20260821_0003758183",
+    "title": "취재 현장에서 만난 사람들…신건호 전 KBC 보도국장 에세이 출간",
+    "summary": [
+      "[전남광주=뉴시스]이영주 기자 = 출판사 아이허브는 신건호 전 KBC 광주방송 보도국장이 취재 현장에서 마주한 인연과 시대적 사건 등을 담은 칼럼 에세이집 '사람을 그리며 세상을 묻다'를 펴냈다고 21일 밝혔다.",
+      "책에는 저자가 오랜 취재 현장에서 만난 사람들의 삶과 시대적 사건을 저널리스트의 시선과 인간에 대한 따뜻한 시선으로 풀어낸 120여 편의 글이 담겼다.",
+      "총 5장으로 구성된 책은 치매를 앓는 어머니를 기록한 '모성의 서사'를 시작으로 세."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n2d308146",
+    "category": "경제",
+    "source": "동아일보",
+    "time": "12분 전",
+    "url": "https://www.donga.com/news/Economy/article/all/20260821/134521727/1",
+    "title": "중동 불안에도 9차 석유최고가 ‘동결’…‘1800원대 휘발유’ 이어질 듯",
+    "summary": [
+      "국제유가가 중동 정세 불안으로 다시 상승세를 보이는 가운데, 정부가 서민 물가 부담과 국내 석유 수급 상황 등을 고려해 9차 석유 최고가격을 4주 더 동결하기로 했다.",
+      "이에 따라 국내 휘발유 소비자가격도 당분간 1800원대 흐름을 이어갈 전망이다.산업통상부는 오는 22일부터 향후 4주간 적용되는 9차 석유 최고가격을 기존 8차 최고가격으로 동결한다고 21일 발표했다.이에 따라 9차 최고가격은 리터(L)당 휘발유 1784원, 경유 1773원, 등."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n3fb18a3f",
+    "category": "사회",
+    "source": "아시아경제",
+    "time": "12분 전",
+    "url": "https://view.asiae.co.kr/article/2026082119063124921",
+    "title": "추미애 지사 “안전사고는 우연 아니다…사업장 불시 점검 강화하라”",
+    "summary": [
+      "추미애 경기도지사가 도 안전보건관리책임자들에게 사업장을 직접 살피고 불시에 점검하는 등 현장 중심의 중대산업재해 예방 활동을 강화하라고 주문했다.",
+      "경기도는 21일 도청에서 추 지사와 도 실·국장, 공공기관장 등 70여 명이 참석한 가운데 안전보건관리책임자 법정 직무교육을 실시했다.",
+      "추 지사는 이날 \"안전은 행동력과 실천 의지를 갖고 챙겨야 할 가장 기본적인 가치\"라며 \"크게 빛나거나 칭찬받는 일은 아니지만, 빛나."
+    ],
+    "chips": [
+      "#교육",
       "#의료"
     ]
   },
   {
-    "id": "n40692424",
+    "id": "n4e8d4403",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "13분 전",
+    "url": "https://www.chosun.com/entertainments/broadcast/2026/08/21/MU2DEZBZMQ2TENBQMQYDGMBXGE/",
+    "title": "\"1박6백만원\" 야노시호, 어마어마한 재력 실감.. '초호화' 럭셔리 5성급 호캉스",
+    "summary": [
+      "<방송 시청 후 작성된 리뷰 기사입니다.>[OSEN=김수형 기자] 모델 야노시호가 절친과 함께 1박에 600만 원에 달하는 초호화 호캉스를 즐겼다.21일 야노시호의 유튜브 채널에는 ‘찐친이랑 1박에 600만원 도쿄 호캉스 (ft.자누도쿄)’라는 제목의 영상이 공개됐다.이날 야노시호는 오랜 친구 마키와 도쿄에서 특별한 하루를 보내기로 했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n9603fb5f",
     "category": "사회",
     "source": "뉴시스",
-    "time": "6분 전",
-    "url": "https://www.newsis.com/view/NISX20260821_0003758154",
-    "title": "이 대통령, '집중호우' 거제·통영 특별재난지역 선포",
+    "time": "14분 전",
+    "url": "https://www.newsis.com/view/NISX20260821_0003757590",
+    "title": "티아라 효민, 운동에 진심인 근황 \"100회 채운다\"",
     "summary": [
-      "[서울=뉴시스]이인준 기자 = 이재명 대통령은 21일 오후 6시부로 경남 거제시와 통영시 산양읍·봉평동을 특별재난지역으로 우선 선포했다고 강유정 수석대변인이 서면 브리핑을 통해 이날 전했다.",
-      "이들 지역은 지난 15일부터 18일까지 남부지방에 내린 이례적인 집중호우로 큰 피해가 발생했다.",
-      "강 대변인은 \"특별재난지역으로 선포된 지역은 재난 복구를 위한 국비가 추가로 지원되고, 피해 주민에 대해서도 국세·지방세 납부유예, 공공요금 감면 등이 추가로."
+      "[서울=뉴시스]박재민 인턴 기자 = 그룹 티아라 효민이 남은 한 해 동안 운동 100회를 채우겠다는 포부를 드러냈다.",
+      "효민은 21일 소셜미디어에 \"올해 목표.",
+      "운동 100회 채우기 \"라는 글과 함께 헬스장에서 찍은 사진과 영상을 올렸다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nb5f44e57",
+    "category": "사회",
+    "source": "아시아경제",
+    "time": "14분 전",
+    "url": "https://view.asiae.co.kr/article/2026082119031414551",
+    "title": "'오빠 논란' 정청래·하정우 아동학대 무혐의 종결",
+    "summary": [
+      "6·3 국회의원 보궐선거 유세 과정에서 어린이에게 더불어민주당 하정우 후보를 '오빠'라고 부르라고 한 혐의(아동복지법 위반)로 고발된 정청래 의원과 하정우 부산 북갑 지역위원장이 무혐의 처분을 받았다.",
+      "21일 부산경찰청에 따르면 경찰은 최근 두 사람에게 불송치 결정을 내렸다.",
+      "경찰은 문제의 호칭이 부적절한 언행을 넘어 학대 행위에 이르렀다고 보기 어렵고, 실제로 피해자의 발달이 저해되지 않았다고 판단한 것으로."
     ],
     "chips": [
       "#정치"
     ]
   },
   {
-    "id": "naaebb877",
-    "category": "IT",
-    "source": "한경IT",
-    "time": "6분 전",
-    "url": "https://www.hankyung.com/article/2026082155967",
-    "title": "[속보] 카카오 노조, 본사 인적분할에 26일 판교서 공동행동",
+    "id": "nd5408715",
+    "category": "경제",
+    "source": "아시아경제",
+    "time": "14분 전",
+    "url": "https://view.asiae.co.kr/article/2026082118344954957",
+    "title": "폭염에 흔들린 프랑스 몽블랑…유럽 가뭄 극심",
     "summary": [
-      "[속보] 카카오 노조, 본사 인적분할에 26일 판교서 공동행동."
-    ],
-    "chips": [
-      "#카카오"
-    ]
-  },
-  {
-    "id": "n02b1deca",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "7분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260821165800030",
-    "title": "[동정] 황종우 해수장관, 충남 보령시 가두리 양식장 방문",
-    "summary": [
-      "[동정] 황종우 해수장관, 충남 보령시 가두리 양식장 방문."
+      "올여름 기록적인 폭염이 유럽을 덮친 가운데 알프스에서 전례 없는 규모로 낙석이 일어나고 있다.",
+      "20일(현지시간) AFP 통신과 유로뉴스 보도에 따르면 올해 들어 '유럽의 지붕' 몽블랑에서만 약 450건의 낙석이 발생했다.",
+      "앞선 최다 기록은 2022년의 약 300건이었다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "nb074199b",
-    "category": "스포츠",
-    "source": "연합뉴스",
-    "time": "8분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260821165700007",
-    "title": "한화 왕옌청, 폐렴으로 말소…두산 벤자민은 어깨 부상 '날벼락'",
+    "id": "ncdd45e27",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "15분 전",
+    "url": "https://www.donga.com/news/Politics/article/all/20260821/134520299/1",
+    "title": "김민석 ‘지명직 최고’ 인사에 반발…친청계 3명 의결 전 퇴장",
     "summary": [
-      "(서울=연합뉴스) 김경윤 기자 = 한화 이글스의 대만 출신 아시아쿼터 투수 왕옌청이 폐렴 진단을 받고 1군 엔트리에서 말소됐다."
+      "더불어민주당 김민석 지도부가 김 대표가 내정한 지명직 최고위원 2명 임명 안건을 친청계(친정청래)계 최고위원들이 퇴장한 가운데 의결했다.21일 박성준 수석대변인은 강원 강릉시청에서 열린 최고위 뒤 기자들과 만나 당무위원회에 지명직 최고위원으로 1991년생인 전용기 의원(청년 몫)과 권미경 한국노총 전국공공연대노조연맹 위원장(노동 몫)의 인준을 제청하는 안건을 의결했다고 밝혔다.",
+      "박 수석대변인은 “최민희 한민수 이성윤 최고위원이 표결에 참여하지."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "nc7d6f76e",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "8분 전",
-    "url": "https://www.chosun.com/sports/baseball/2026/08/21/GAZTQNBVGFSDSYJWGQ2TAMTBG4/",
-    "title": "충격의 8-0 → 13실점 역전패...거기서부터 모든 게 꼬였다 \"너무 아쉬웠다. 마무리는 원종현\" [고?r 현장]",
-    "summary": [
-      "[고척=스포츠조선 김용 기자] \"첫 경기를 실패한 게 너무 아쉬웠습니다.\" 키움 히어로즈는 우울한 주중 3연전을 부산에서 보내고 왔다.",
-      "롯데 자이언츠에게 3연전 스윕을 당했다.",
-      "스윕을 당할 수도 있지만, 너무 아쉽게 져서 문제였다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n192cf395",
+    "id": "n2824aa8e",
     "category": "사회",
-    "source": "조선일보",
-    "time": "8분 전",
-    "url": "https://www.chosun.com/entertainments/movie/2026/08/21/GZRTMYJXGY4TSYZZMZSTSNJWMU/",
-    "title": "황정민, 사생활 공방 속 차기작은..애니메이션 첫 더빙 \"공 들였다\"(스티치 헤드)",
+    "source": "뉴시스",
+    "time": "18분 전",
+    "url": "https://www.newsis.com/view/NISX20260821_0003758179",
+    "title": "이 대통령 \"부패 청산에 여야와 네편내편 없어…예외없이 엄정 정리\"(종합)",
     "summary": [
-      "[OSEN=하수정 기자] 황정민이 '호프' 이후 차기작으로 애니메이션 영화 첫 더빙에 도전한다.영국의 인기 베스트셀러 원작을 바탕으로 제작된 몬스터 판타지 어드벤처 애니메이션 '스티치 헤드: 비밀의 성 꼬마괴물(Stitch Head)'이 오는 9월 국내 개봉을 확정 짓고 관객들을 찾아온다.'스티치 헤드: 비밀의 성 꼬마괴물'은 성 안의 광기 어린 천재 박사."
+      "[서울=뉴시스]조재완 이인준 기자 = 이재명 대통령은 21일 \"부패 청산에는 여야와 네 편 내 편이 있을 수 없다\"고 말했다.",
+      "이 대통령은 이날 오후 청와대에서 주재한 제1차 반부패정책협의회에서 \"최근 많이 문제 되고 있는 토착세력들의 이권 개입과 민간 부문에 여전히 깊게 뿌리내려 남아 있는 부패, 그리고 많이 좋아졌지만 여전히 잔존하고 있는 정치권의 부패를 잘 살펴보고 청산해 가야겠다\"며 \"명확한 원칙을 가지고 예외 없이 공정하고 엄정하게 정."
     ],
     "chips": [
-      "#스타트업"
-    ]
-  },
-  {
-    "id": "n96245195",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "8분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260821165200001",
-    "title": "李대통령, '호우 피해' 거제·통영 특별재난지역 선포",
-    "summary": [
-      "(서울=연합뉴스) 고동욱 기자 = 이재명 대통령은 21일 남부지방의 이례적인 집중호우로 최근 큰 피해를 본 경남 거제시, 통영시 산양읍·봉평동을..."
-    ],
-    "chips": [
+      "#정책",
       "#정치"
     ]
   },
   {
-    "id": "n598515f1",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "9분 전",
-    "url": "https://www.chosun.com/sports/golf/2026/08/21/GY4DSZBVME2DMM3EHE3DCNRUGI/",
-    "title": "임성재, 기적의 사나이가 될 것인가...출발이 좋다, PO 2차전 1R 선두와 3타차",
+    "id": "n9eb9cae1",
+    "category": "경제",
+    "source": "한국경제",
+    "time": "17분 전",
+    "url": "https://www.hankyung.com/article/202608215002i",
+    "title": "유가 90달러 돌파에도…정부, 석유 최고가격 4주 더 묶는다",
     "summary": [
-      "[스포츠조선 김용 기자] 출발이 좋다! 임성재가 8년 연속 투어 챔피언십 무대에 진출할 수 있는 발판을 마련했다.",
-      "임성재는 21일(한국시각) 미국 벨러리브컨트리클럽에서 열린 PGA 투어 플레이오프 2차전 BMW챔피언십 1라운드에서 버디 5개, 보기 2개를 기록하며 3언더파를 기록했다.",
-      "하지만 1라운드라 선두권에 많은 선수가 몰려 12위이지,."
+      "유가 90달러 돌파에도…정부, 석유 최고가격 4주 더 묶는다."
     ],
     "chips": [
       "#뉴스"
-    ]
-  },
-  {
-    "id": "n7930499a",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "9분 전",
-    "url": "https://www.chosun.com/sports/world-football/2026/08/21/HE2TQY3BGIZTGMRUGVRDQMRSMU/",
-    "title": "이강인의 환상적인 데뷔골, 시메오네 감독의 결정적 주문 통했다…“공 받으면 슈팅하라”",
-    "summary": [
-      "[OSEN=서정환 기자] 이강인(25, 아틀레티코 마드리드)이 공식 데뷔골에는 디에고 시메오네 감독의 강력한 주문이 있었다.",
-      "아틀레티코는 19일(현지시간) 스페인 마드리드 메트로폴리타노에서 열린 2026-27시즌 라리가 개막전에서 말라가를 2-0으로 꺾었다.",
-      "이강인은 후반 57분 교체 투입됐고, 13분 뒤 왼발 중거리 슈팅으로 선제골을 터뜨렸다.이강인의 득."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n7ad44a19",
-    "category": "IT",
-    "source": "연합뉴스(경제)",
-    "time": "10분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260821070752002",
-    "title": "100조 넘보는 '미래기금' 신설…교육교부금 연동 55년만에 폐지(종합2보)",
-    "summary": [
-      "(서울·세종=연합뉴스) 노재현 이세원 기자 = 반도체 호황에 급증한 세수를 떼어내 미래 성장의 종잣돈으로 삼을 수 있도록 새 기금을 만든다."
-    ],
-    "chips": [
-      "#반도체",
-      "#교육"
     ]
   }
 ];
@@ -644,21 +639,21 @@ window.NEWS_DB = [
 window.KEYWORD_TOP = [
   {
     "rank": 1,
-    "tag": "AI",
-    "mentions": "2070건",
-    "trend": "+215%"
+    "tag": "뉴스",
+    "mentions": "2460건",
+    "trend": "+275%"
   },
   {
     "rank": 2,
-    "tag": "뉴스",
+    "tag": "AI",
     "mentions": "1680건",
     "trend": "+155%"
   },
   {
     "rank": 3,
     "tag": "KBO",
-    "mentions": "1550건",
-    "trend": "+135%"
+    "mentions": "1420건",
+    "trend": "+115%"
   }
 ];
 // ====AUTO-GENERATED-END====
