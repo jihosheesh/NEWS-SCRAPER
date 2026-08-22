@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-08-22 06:20:42
+// 마지막 업데이트: 2026-08-22 07:23:29
 window.NEWS_DB = [
   {
     "id": "n01b7046c",
     "category": "경제",
     "source": "세이프머니",
-    "time": "19시간 전",
+    "time": "20시간 전",
     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9Ub04zeDVfTGNFZUhhWEN6TTYycHZERDdBTEs3OFhqYk1SQ1pibDgycHgzdWktaFRBU1RJam53LTMyZlhxTEM1UXdPMlY5TDhZbmtCbEt0VmhJOEZ4blBDVjBNd1Q3a0R1QmRXSkFR?oc=5",
     "title": "권민수 한은 부총재 금리 인상 관련 '유연한' 정책 판단 필요",
     "summary": [
@@ -20,7 +20,7 @@ window.NEWS_DB = [
     "id": "n9e98d1ae",
     "category": "IT",
     "source": "IT조선",
-    "time": "22시간 전",
+    "time": "23시간 전",
     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5TYVA2YnJMTDkycW43azBHN0h3STBIbmZCVnVIeU5MSUpQU0dfc0ZyYThLMG9nQW5SX2kyT2hibUtIdU5BTW1XVHl3Mms3eXc3VzNudkxaRklBZF9LY3VIQWVkYjVMMGZFSVVYZWxpbGHSAXRBVV95cUxQdXpvZmUzOXhXamVfZmpnb1BNYS1VSkJkNEoxMkQzejduSEhOR2dSTVU3SFVHUlJfUXZRX05NR1NsZmw2bWNTbzlSMG5tZ29jVzZpV0dobHpzR3dWQkFBeEh0SWVvNEdybjFMUGI2VkRwVjd5QQ?oc=5",
     "title": "엔비디아, 리벨리온과 기술협력·투자 논의… 인수 가능성도 거론",
     "summary": [
@@ -45,14 +45,14 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nc4432452",
+    "id": "n62776a87",
     "category": "IT",
-    "source": "v.daum.net",
+    "source": "연합뉴스",
     "time": "1일 전",
-    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB6ajRsVkhMZ2tMQmtuZkpyQlpJUVY2Znp5cEQzaHlrNnhrQ21ZR1ZEZk9aVlFvRjY2bDNIZ0NNblJYMUNVeFlzTlBua3R6UUk?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBoeHoyVThQZ1RYcktBX0FtUXBNYVdfREVFeTlRLXBBemN5SlhTSXFob2hnYzcxZ0ZQb2I4SVEyZkNTQVZDYmJQTFJDVFdYR1RyVVhpV2JIZXBYdlnSAWBBVV95cUxPWFFONWVpcVNmYWFjTjQ5Q1JLNjMybFczcU5sX25EV3RaVDV0Z3ZBVU5XMnplUlVHd0xDSGhXN242WnFEcE5nN3NzMWx1WEdCNTF4SWhVMmFZaW9Ua2tKOWY?oc=5",
     "title": "엔비디아가 中 맞춤형 AI칩 출시(?)…회사 \"전혀 계획 없다\"",
     "summary": [
-      "엔비디아가 中 맞춤형 AI칩 출시(?)…회사 \"전혀 계획 없다\" v.daum.net."
+      "엔비디아가 中 맞춤형 AI칩 출시(?)…회사 \"전혀 계획 없다\" 연합뉴스."
     ],
     "chips": [
       "#AI",
@@ -91,7 +91,7 @@ window.NEWS_DB = [
     "id": "n72333e67",
     "category": "사회",
     "source": "서울뉴스통신",
-    "time": "1일 전",
+    "time": "2일 전",
     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1PU0xyNnJwRUhKbThVQm9zempWb0p3QVBUUEE3YVQxZ05XdXdUeUtfT01hZlVMbTA2ZTlKU2ctUlhJTVNWVlJMNXFHenVndGxFVG9xMGdVdnh1dEtZUENkdFQ5dXdRRjNTdVh3?oc=5",
     "title": "고용센터 AI 기반 맞춤형으로 개편…구직 상담·기업 채용지원 대폭 강화",
     "summary": [
@@ -139,7 +139,7 @@ window.NEWS_DB = [
     "id": "n14e5eed8",
     "category": "IT",
     "source": "지디넷코리아",
-    "time": "8일 전",
+    "time": "9일 전",
     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA0QnNPOWgxU3R2U1B4aFlUNjdweHZWUmVTUHV4amc1dURxRUxhbFlBSWxhcEtwR3drUlM4UERTazJHcEhtVzM3Z3R1UVgxTWlJOTBSamF3?oc=5",
     "title": "류제명 차관 \"30년전 네이버처럼...AI 시대 유니콘 탄생 기대\"",
     "summary": [
@@ -169,7 +169,7 @@ window.NEWS_DB = [
     "id": "n062f98b4",
     "category": "부동산",
     "source": "한국주택경제신문",
-    "time": "21일 전",
+    "time": "22일 전",
     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9Sdmd3SUl0dmRQSWdTck5DVjJ5WXYxTTFmRnBBbEkwa09VclpLd0VsVWFTV2pPRm9sQm1sQmZDb3EyN2lwTVBvZ185RUVycVFnOEdYcHVrcVFnYTdwaGZfUDh2WkFWYndi?oc=5",
     "title": "서울 아파트값 0.25% 상승… 똘똘한 ‘역세권·대단지’가 집값 견인",
     "summary": [
@@ -183,7 +183,7 @@ window.NEWS_DB = [
     "id": "nac7d261c",
     "category": "사회",
     "source": "연합뉴스",
-    "time": "21일 전",
+    "time": "22일 전",
     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1wZmd4RTNaSTBwNVNxSm0yRGFySTlYN19qVTZfYzRtVzBzVV9nSnR3RXdYaTNiNkZRX3F6aXhFZTA5ekUxNW9VWHIzZHFjYnoyWU0wVDNoU2FJcVE?oc=5",
     "title": "강남구 일자리통합지원센터, 맞춤형 지원으로 취업자 25.7％ 증가",
     "summary": [
@@ -198,7 +198,7 @@ window.NEWS_DB = [
     "id": "n1a764c5a",
     "category": "부동산",
     "source": "뉴스핌",
-    "time": "29일 전",
+    "time": "30일 전",
     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5jaXQ1a1BmNlN6TVZWV29ucG5jajY3WlJIb2FQNEVPMnJXRWdYVHhxWnFnb3R6MG8tX3lsTTFxNFdFVjlzNmtMaFZVV0UtUUN1VWc4VEVScy1iWFIt?oc=5",
     "title": "집값·전셋값 뛰는데 청약 경쟁률은 '뚝'…수도권 주택시장 엇박자",
     "summary": [
@@ -212,7 +212,7 @@ window.NEWS_DB = [
     "id": "n207a7abe",
     "category": "IT",
     "source": "Chosunbiz",
-    "time": "59일 전",
+    "time": "60일 전",
     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPUGdtbi01TkVMYXphY1VqbF9xRzB3TkVUbWtrM2NhN2d1NmpvS29NLTY5UWFtbFNrangxUlRnQUpxOW9rSEZwWVZuWU42aUdIU1FUUlhnQ0NLbjBXdlNpQ2labGU1cUt3WVZ3NEhVVmtJNjJlc3lUalByb0tqZDBucVJleGVLUFpaanFZX3RLZWvSAaQBQVVfeXFMTXFmYjM1dzZaM0d5QjZZQXJIb0VnanMzR29JcWlBQVZreFhGVVZlRmd4c2xoejc0ajVvdDhkUVo5ZWJ5bWlyVlZSUzlveG9EamJZblA5VDkwRG16QW1hRW1Qel9mTHRfdWI3MHhvbTJfd3ZoRTNIb3dVbjByNmI5T3llUUt2ZlZjVmEwQlV4M0FvMTRVT0JYaG4zNDZ6Rkw1LVVodlA?oc=5",
     "title": "중기부, 2030년까지 ‘유니콘’ 50개 육성 나선다 - 조선비즈",
     "summary": [
@@ -226,7 +226,7 @@ window.NEWS_DB = [
     "id": "n244b01bd",
     "category": "경제",
     "source": "스트레이트뉴스",
-    "time": "66일 전",
+    "time": "67일 전",
     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBCMWo2YXNZMEh0aUhtSDk2czAteEZBVVM4MFVGSmNlREM2bEdPX3NaNFMyMDhNWXp1bllqd1NEbkE5elZZYlhRRnRTNm1OdFFmVmlmQ2o2LTdLZXE3TUw5Mm5uU014MFN5ZFkxXzBPbWxCS3fSAXdBVV95cUxQR1pwdFp0SFJzTkVyR3RtbjVBVm03aGxUS2JURUN6eE1iVDlKazYwZmh5bUxRdU1hQXc3dUIxWXFYRG1XZlA1cHB1S3NVR0pYUExPbEtQMFBxeWp0NnFweW5hM0xOMUNmM2o1cENPdjFqb0Q4SWJkaw?oc=5",
     "title": "미·이란 종전 합의에 금리 전망 변화?…한은 7월 인상론 여전",
     "summary": [
@@ -240,7 +240,7 @@ window.NEWS_DB = [
     "id": "nabfa15b0",
     "category": "경제",
     "source": "YTN",
-    "time": "72일 전",
+    "time": "73일 전",
     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE50bVBaMGNlWG1LRkQ2OEh1YUF0cjlWc1EwdS1URDE1ZzJpajQzYmtTdUpGZk9yOWc0V1REZF9fNmVWOU4yVFVhbzhtQzNzMUg3b0ZfVkhVd1dxVGl0OXc?oc=5",
     "title": "\"韓 적정 환율은 얼마일까?\" 환율 vs 금리 vs 증시 상관관계 집중해부",
     "summary": [
@@ -255,7 +255,7 @@ window.NEWS_DB = [
     "id": "nb9bdfdfb",
     "category": "스포츠",
     "source": "푸드투데이",
-    "time": "84일 전",
+    "time": "85일 전",
     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9BVmpLTU1zOFZsU1RWVmVOSXppaWhDWFBBRkF4akI3WHBIcXIyX2pXa3JaeXplMm9vbmE4cU1PclhFTXVZdURxQ0RCYTF3aFNsbmRKcTZ5VE9na0cwakQ2XzNuWlJ5QQ?oc=5",
     "title": "‘손흥민 월드콘.KBO몽쉘’ 축구.야구팬 다 잡자...롯데웰푸드, 스포츠마케팅 총력",
     "summary": [
@@ -270,7 +270,7 @@ window.NEWS_DB = [
     "id": "n5a1617c5",
     "category": "부동산",
     "source": "헤럴드경제",
-    "time": "101일 전",
+    "time": "102일 전",
     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1TS2Q2aDJMQXUtYUMtcmZTZkUtNXVycDVXUTFSYk1oeTg4TXNFTXQxN3RtcGVlRUJxMWlMWXk0c05lRFFvemxzYk0wa1hsZXMwbm1hVWtn?oc=5",
     "title": "집값 상승, 전세품귀에…서울, 분양전망 1달 만에 기준치 회복 [부동산360]",
     "summary": [
@@ -285,7 +285,7 @@ window.NEWS_DB = [
     "id": "nba668fc0",
     "category": "IT",
     "source": "한국방송뉴스",
-    "time": "114일 전",
+    "time": "115일 전",
     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1XaThhZXFiX3dDT0NrYVFwZ2dhNTgxbHU0WE5Bc21vcGVzR0d2Wkh2Zm5pS2MyZ1JkYlhHb2VfRkhkemdEX1F6Q1RtajJLRzR6dDdHcExQelAyS2N1OUE?oc=5",
     "title": "1조 8000억 규모 벤처펀드 선정…\"벤처·스타트업에 적시 공급\"",
     "summary": [
@@ -372,259 +372,257 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nee042bc3",
+    "id": "n49ef9ff4",
+    "category": "IT",
+    "source": "아시아경제",
+    "time": "1분 전",
+    "url": "https://view.asiae.co.kr/article/2026082108502921985",
+    "title": "[주末머니]\"AI 투자금, 은행도 빌려준다\" 美 '자본규제 완화' 수혜주는?",
+    "summary": [
+      "\"인공지능(AI) 투자금, 은행도 빌려줄 수 있다.\" 미국의 은행 자본규제 완화가 본격화하면서 AI 투자 확대에 따른 기업의 자금 수요를 은행 대출로 연결할 수 있는 여력이 커질 전망이다.",
+      "시티그룹, 웰스파고, 뱅크오브아메리카(BoA), PNC 파이낸셜 등이 자본규제 완화에 따른 수혜주로 꼽힌다.",
+      "한화투자증권은 최근 'AI 투자금, 은행도 빌려줄 수 있습니다; 미국 은행 자본규제 개편에 따른 수혜주 분석' 보고서를 통해 이같이 밝."
+    ],
+    "chips": [
+      "#AI",
+      "#정책"
+    ]
+  },
+  {
+    "id": "n18787137",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "2분 전",
+    "url": "https://www.newsis.com/view/NISX20260822_0003758466",
+    "title": "베이비몬스터 '드립'도 넘겼다…두 번째 4억뷰 뮤비",
+    "summary": [
+      "[서울=뉴시스]이재훈 기자 = 그룹 '베이비몬스터(BABYMONSTER·베몬)'의 정규 1집 타이틀곡 '드립(DRIP)' 뮤직비디오가 유튜브 조회수 4억 건을 돌파했다.",
+      "22일 소속사 YG엔터테인먼트에 따르면, 지난 2024년 11월1일 공개된 '드립' 뮤직비디오는 이날 오후 1시53분께 이 같은 유튜브 조회수를 넘어섰다.",
+      "공개된 지 약 1년9개월 만이다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n6fd5a9e4",
     "category": "사회",
     "source": "아시아경제",
     "time": "3분 전",
-    "url": "https://view.asiae.co.kr/article/2026082215172352385",
-    "title": "명진스님, 제주 바다서 프리다이빙 사고로 입적",
+    "url": "https://view.asiae.co.kr/article/2026082216165393484",
+    "title": "우크라, 인기 애니 '마샤와 곰' 제재…\"러 선전 도구\"",
     "summary": [
-      "봉은사 주지를 지낸 명진스님이 22일 입적했다.명진스님 지인 등에 따르면 명진스님은 이날 오전 제주도 바다에서 프리다이빙을 하던 중 사고를 당했다.",
-      "경찰은 현재 정확한 사고 경위를 조사하고 있다.",
-      "명진스님이 머물던 제주 남선사 등에서는 장례 절차를 논의 중인 것으로 전해졌다."
+      "우크라이나가 러시아의 인기 어린이 애니메이션 '마샤와 곰'을 제재 대상으로 지정했다.",
+      "21일(현지시간) 우크라이나 프라우다, 러시아 일간 코메르산트 등에 따르면 이날 우크라이나 정부는 '마샤와 곰'을 만든 애니마코드 스튜디오 등 제작진을 제재 대상으로 지정했다고 밝혔다.",
+      "구체적인 제재 대상은 '마샤와 곰' 감독이자 각본을 쓴 올레크 쿠좁코프와 애니마코드 설립자와 경영진, 공동 제작자, 해외 홍보·판권 판매 관계자."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "nc8324aa8",
+    "id": "n79c481b0",
     "category": "스포츠",
-    "source": "연합뉴스",
-    "time": "4분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260822034300007",
-    "title": "[부고] 유인수(프로축구 제주SK FC 선수)씨 부친상",
-    "summary": [
-      "[부고] 유인수(프로축구 제주SK FC 선수)씨 부친상."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nc56261af",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "5분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260822034100061",
-    "title": "경기교육청 '교권보호전담관' 공식 출범…\"악성 민원과 전면전\"",
-    "summary": [
-      "(수원=연합뉴스) 이영주 기자 = 교육활동 침해를 당한 피해 교원을 1대 1로 전담해 사안 발생부터 종결 때까지 통합 지원하는 경기도교육청 교권..."
-    ],
-    "chips": [
-      "#교육"
-    ]
-  },
-  {
-    "id": "n1f3b41e1",
-    "category": "경제",
-    "source": "뉴시스",
+    "source": "조선일보",
     "time": "6분 전",
-    "url": "https://www.newsis.com/view/NISX20260822_0003758447",
-    "title": "임성재, PGA투어 PO 2차전 2R 공동 4위…8연속 최종전 청신호(종합)",
+    "url": "https://www.chosun.com/entertainments/broadcast/2026/08/22/MZTDONRQMY3WMOBTMVTGGODBGE/",
+    "title": "엔믹스 규진, 철웅이와 야구장 데이트[O! STAR 숏폼]",
     "summary": [
-      "[서울=뉴시스]안경남 기자 = 임성재가 미국프로골프(PGA) 투어 2026 페덱스컵 플레이오프(PO) 2차전인 BMW 챔피언십(총상금 2000만 달러) 둘째 날 선두권에 진입했다.",
-      "임성재는 22일(한국 시간) 미국 미주리주 세인트루이스의 벨러리브 컨트리클럽(파71)에서 벌어진 대회 2라운드에서 버디 7개, 보기 1개를 묶어 6언더파 65타를 쳤다.",
-      "전날 1라운드에서 공동 12위로 출발한 임성재는 중간 합계 9언더파 131타를 기록, 크리스토퍼."
+      "[OSEN=잠실, 지형준 기자] 21일 서울 잠실야구장에서 2026 신한 SOL KBO리그 두산 베어스와 롯데 자이언츠의 경기가 열렸다.이날 걸그룹 NMIXX(엔믹스) 규진이 시구 행사에 참석했다.규진은 보컬과 랩, 댄스 실력뿐만 아니라 비주얼까지 모두 겸비한 ‘올라운더’ 아이돌.",
+      "특히 특유의 밝은 에너지를 바탕으로 NMIXX 공식 유튜브 채널과 각종 예능."
     ],
     "chips": [
-      "#뉴스"
+      "#KBO"
     ]
   },
   {
-    "id": "nb4335109",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "6분 전",
-    "url": "https://www.newsis.com/view/NISX20260822_0003758474",
-    "title": "1t화물차, 車고장신고 처리 순찰차 '쾅'…경찰관 2명 부상",
-    "summary": [
-      "[청주=뉴시스] 임선우 기자 = 22일 낮 12시17분께 충북 청주시 흥덕구 서촌동 3순환로에서 A(30대)씨가 몰던 1t 화물차가 순찰차를 들이받았다.",
-      "이날 사고로 순찰차에 타고 있던 경찰관 2명이 허리 등을 다쳐 병원으로 옮겨졌다.",
-      "경찰관들은 다른 차량 고장 신고를 받고 현장에 도착하자마자 추돌 사고를 당한 것으로 알려졌다."
-    ],
-    "chips": [
-      "#의료"
-    ]
-  },
-  {
-    "id": "nd1daad75",
-    "category": "사회",
-    "source": "아시아경제",
-    "time": "8분 전",
-    "url": "https://view.asiae.co.kr/article/2026082215122842001",
-    "title": "평택시, 시민정원사 심화교육 개강…정원·조경 전문가 총출동",
-    "summary": [
-      "경기 평택시(시장 최원용)는 지난 20일 '제7기 시민정원사 양성교육 심화반' 개강식을 열고 전문적인 정원 관리 인력을 양성하기 위한 교육에 들어갔다.",
-      "평택시 푸른도시사업소가 추진하는 이번 교육은 시민들에게 정원에 대한 이론과 실습 기회를 제공하고 전문적인 정원 관리 기술을 익혀 정원 조성과 관리 활동에 참여하도록 하기 위해 마련됐다.",
-      "교육은 지난 20일부터 11월 12일까지 모두 12차시로 진행된다."
-    ],
-    "chips": [
-      "#교육"
-    ]
-  },
-  {
-    "id": "n4bda66e0",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "8분 전",
-    "url": "https://www.newsis.com/view/NISX20260822_0003758457",
-    "title": "정선희, 사별 후 78억 빚에 악플까지…\"생매장 시키는 느낌\"",
-    "summary": [
-      "[서울=뉴시스]전재경 기자 = 코미디언 정선희가 남편 고(故) 안재환과 사별한 뒤 각종 루머와 악성 댓글에 시달렸던 당시를 떠올렸다.",
-      "21일 방송된 KBS 2TV 예능 '옥탑방의 문제아들'에는 정선희가 출연해 힘들었던 시절 자신에게 힘이 돼준 주변 사람들에 대해 이야기했다.",
-      "이날 정선희는 코미디언 이경실에게 위로받았던 당시를 회상했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n7e18534d",
+    "id": "n40f014f4",
     "category": "사회",
     "source": "연합뉴스",
     "time": "9분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260822034000053",
-    "title": "지인에게 130만원어치 음식 제공…문경시장 후보 동창 3명 고발",
+    "url": "https://www.yna.co.kr/view/AKR20260822036200527",
+    "title": "전주 등 전북 8곳 내일 폭염경보",
     "summary": [
-      "(문경=연합뉴스) 손대성 기자 = 경북 문경시선거관리위원회는 지난 6월 치러진 문경시장 선거와 관련, 특정 후보자를 위해 자신들의 동창생에게 음..."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n9c205286",
-    "category": "경제",
-    "source": "아시아경제",
-    "time": "9분 전",
-    "url": "https://view.asiae.co.kr/article/2026082018203665720",
-    "title": "역대급 실적에도 주가 40% '뚝'…백화점株 줍줍기회?[주末머니]",
-    "summary": [
-      "국내 백화점 업계가 명품과 외국인 관광객 소비에 힘입어 20년 만의 호황을 누리고 있지만, 관련 종목의 주가는 고점 대비 약 40% 급락했다.",
-      "증권가에선 원화 강세로 외국인 소비가 둔화할 가능성을 우려하면서도 주가가 실적에 비해 지나치게 떨어진 점에 주목하고 있다.내수 부진이라더니…백화점 20년 만의 호황최근 서정연 신영증권 연구원은 \"지난 2분기 국내 백화점들은 코로나 시기 이후 2분기 최고 매출액과 영업이익을 기."
+      "(전주=연합뉴스) 기상청은 23일 오전 11시를 기해 전주 등 전북 8곳에 폭염경보를 발효한다고 22일 밝혔다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n8a175e55",
+    "id": "n1c383d5c",
     "category": "사회",
     "source": "연합뉴스",
     "time": "10분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260822031551005",
-    "title": "봉은사 주지 지낸 명진스님 입적…서귀포서 해양사고(종합)",
+    "url": "https://www.yna.co.kr/view/AKR20260822036400527",
+    "title": "천안 등 충남 7곳 내일 폭염주의보",
     "summary": [
-      "(서울·제주=연합뉴스) 고미혜 박지호 기자 = 봉은사 주지를 지낸 명진스님이 22일 입적했다.",
-      "세수 76세, 법랍 52년."
+      "(대전=연합뉴스) 기상청은 23일 오전 11시를 기해 충남 천안·아산·보령시(도서제외)·예산·서천·계룡·홍성서부에 폭염주의보를 발효한다고 22일..."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n979a58ad",
-    "category": "사회",
-    "source": "조선일보",
+    "id": "nd08f3da9",
+    "category": "경제",
+    "source": "연합뉴스",
     "time": "11분 전",
-    "url": "https://www.chosun.com/entertainments/music/2026/08/22/MYZTGMRWGU3GENRVHE2GEMBVGI/",
-    "title": "베이비몬스터, 차세대 ‘유튜브 퀸’ 저력 입증…‘DRIP’ MV 4억뷰 돌파",
+    "url": "https://www.yna.co.kr/view/AKR20260822028351009",
+    "title": "미·캐나다 무역협상 결렬…일부 캐나다 수입품 50% 관세(종합)",
     "summary": [
-      "[OSEN=강서정 기자] 그룹 베이비몬스터가 유튜브에서 꾸준한 상승세를 이어가며 차세대 ‘유튜브 퀸’의 저력을 입증했다.22일 YG엔터테인먼트에 따르면 베이비몬스터의 정규 1집 타이틀곡 ‘DRIP’ 뮤직비디오는 이날 오후 1시 53분께 유튜브 조회수 4억 회를 돌파했다.",
-      "지난 2024년 11월 1일 공개된 이후 약 1년 9개월 만에 이룬 기록이다.이로써 베."
+      "(서울=연합뉴스) 이신영 곽민서 기자 = 미국과 캐나다의 무역 협상이 결렬되면서 미국이 약 200억달러 상당의 캐나다산 수입품에 50% 관세를 ..."
     ],
     "chips": [
-      "#뉴스"
+      "#수출"
     ]
   },
   {
-    "id": "n9dc81ca2",
+    "id": "n20d8e7db",
     "category": "사회",
-    "source": "동아일보",
-    "time": "13분 전",
-    "url": "https://www.donga.com/news/Society/article/all/20260822/134523647/1",
-    "title": "찜통더위 뚫고 복구 구슬땀…거제 주민들 “냄새는 언제 빠질지”",
+    "source": "연합뉴스",
+    "time": "11분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260822036300527",
+    "title": "전남 무안북부 내일 폭염경보",
     "summary": [
-      "“집 안까지 물이 들어차서 엉망진창이에요.",
-      "멀쩡한 게 하나도 없어요.”22일 오후 경남 거제시 둔덕면 하둔리에서 만난 곽쌍수 씨(76·여)는 침수된 집을 바라보며 이같이 말했다.지난 17일 기록적인 폭우가 휩쓸고 간 지 닷새가 지났지만, 마을 곳곳에는 당시의 흔적이 고스란히 남아 있었다.마을을 가로지르는 도로는 흙과 토사로 누렇게 뒤덮였고 골목 곳곳에는 물에 젖은 장판과 가구, 가전제품 등 집 안에서 꺼낸 생활 집기가 산더미처럼 쌓여 있었다.굴."
+      "(광주=연합뉴스) 기상청은 23일 오전 11시를 기해 무안북부에 폭염경보를 발효한다고 22일 밝혔다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n9bb52383",
+    "id": "nd1b2abba",
     "category": "사회",
     "source": "뉴시스",
     "time": "13분 전",
-    "url": "https://www.newsis.com/view/NISX20260822_0003758459",
-    "title": "러시아 드론, 우크라이나 쇼핑센터 덮쳤다…'16명 사망·130명 부상'",
+    "url": "https://www.newsis.com/view/NISX20260822_0003758473",
+    "title": "가발 쓰고 립싱크까지…40세 최연소 충주시장, 'B급 홍보' 직접 나섰다",
     "summary": [
-      "[서울=뉴시스]이지우 인턴 기자 = 러시아군이 우크라이나의 한 쇼핑센터를 드론으로 공격해 최소 16명이 숨지고 130명 이상이 다쳤다.",
-      "22일 홍콩 사우스차이나모닝포스트(SCMP)는 러시아 드론 여러 대가 우크라이나 중부 크리비리흐의 쇼핑센터를 공격해 대규모 인명피해가 발생했다고 보도했다.",
-      "크리비리흐는 볼로디미르 젤렌스키 우크라이나 대통령의 고향이다."
+      "[서울=뉴시스]전민영 인턴 기자 = 6·3 지방선거에서 만 40세의 나이로 전국 최연소 시장에 오른 이동석 충북 충주시장이 파격적인 지역 홍보에 직접 뛰어들었다.",
+      "이 시장은 21일 자신의 유튜브 채널에 18초 분량의 '20260821 이동석 - I Love Chungju (니가 좋아) 직캠 Moving stone Ver.' 영상을 공개했다.",
+      "영상 속 이 시장은 긴 머리 가발에 스카프를 두른 채 카메라 앞에 등장한다."
     ],
     "chips": [
       "#정치"
     ]
   },
   {
-    "id": "n41c60135",
+    "id": "nec801bc5",
+    "category": "스포츠",
+    "source": "뉴시스",
+    "time": "13분 전",
+    "url": "https://www.newsis.com/view/NISX20260822_0003758490",
+    "title": "인천에 쏟아진 비…프로야구 KT-SSG전 우천 취소",
+    "summary": [
+      "[서울=뉴시스]박윤서 기자 = 인천 지역에 강한 비가 내리며 프로야구 KT 위즈와 SSG 랜더스의 경기가 열리지 못하게 됐다.",
+      "22일 오후 7시 인천 SSG랜더스필드에서 열릴 예정이던 2026 신한 쏠 KBO리그 KT와 SSG의 경기는 비로 취소됐다.",
+      "경기 시작 3시간을 앞둔 오후 4시에 취소 결정이 내려졌다."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
+    "id": "nb2872928",
     "category": "사회",
-    "source": "조선일보",
+    "source": "뉴시스",
     "time": "14분 전",
-    "url": "https://www.chosun.com/entertainments/broadcast/2026/08/22/GEYGKYJTHA3DAZJTMMYTAZLEGE/",
-    "title": "이별 통보 뒤..박은빈, 피로 물든 사건 현장서 양세종과 재회(오싹한 연애)",
+    "url": "https://www.newsis.com/view/NISX20260822_0003758464",
+    "title": "\"57.5㎏ 공개하더니…\" 맹승지, 5㎏ 감량 선언 후 포착된 모습",
     "summary": [
-      "[OSEN=하수정 기자] ‘오싹한 연애’ 검사 양세종이 뜻밖의 용의자를 마주하고 크게 놀란다.오늘(22일) 밤 9시 10분 방송될 tvN 토일드라마 ‘오싹한 연애’(연출 이민수/ 극본 최정미/ 기획 CJ ENM/ 제작 CJ ENM, CJ ENM STUDIOS, B.pic, 상상필름) 11회에서는 마강욱(양세종 분)이 출동한 사건 현장에서 피 묻은 쇠파이프를."
+      "[서울=뉴시스]장인혜 인턴 기자 = 방송인 맹승지가 체중을 공개하며 한 달간 5㎏ 감량을 선언한 데 이어 헬스장에서 운동 중인 모습을 공개했다.",
+      "맹승지는 지난 20일 자신의 사회관계망서비스(SNS)에 \"다이어트 3일차\"라는 짧은 글과 함께 운동 중인 사진 여러 장을 올렸다.",
+      "공개된 사진에는 헬스장을 찾은 맹승지의 모습이 담겼다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "nd892f9dd",
+    "id": "n76eb44eb",
+    "category": "경제",
+    "source": "아시아경제",
+    "time": "14분 전",
+    "url": "https://view.asiae.co.kr/article/2026082216081389444",
+    "title": "화천군, 28일 농어촌 기본소득 첫 지급…면 지역 사용처 늘린다",
+    "summary": [
+      "강원도 화천군이 오는 28일 농어촌 기본소득을 처음 지급한다.",
+      "주민들의 이용 편의를 높이기 위해 상권이 상대적으로 취약한 면 지역을 중심으로 사용처도 대폭 늘린다.",
+      "군은 신청한 군민에게 8월분과 소급 적용되는 7월분을 합쳐 1인당 30만원을 모바일 지역화폐 또는 선불카드로 지급할 예정이다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n0383540f",
     "category": "스포츠",
     "source": "조선일보",
-    "time": "15분 전",
-    "url": "https://www.chosun.com/entertainments/movie/2026/08/22/GFRDSNTBGU3TEYRTGBTGIZLFGI/",
-    "title": "박해일·박서준·최대훈, 사극 거장 이준익 신작 '반딧불이' 캐스팅 [공식]",
+    "time": "17분 전",
+    "url": "https://www.chosun.com/sports/baseball/2026/08/22/HFRWKMZYMZRDMMZTG5RDAMJYHE/",
+    "title": "‘패패패패패’ 위기의 키움, 희망은 돌아온 에이스 안우진 뿐 “100구 넘어갈 수도 있다” [오!쎈 고척]",
     "summary": [
-      "[OSEN=하수정 기자] 5년 만에 스크린에 돌아오는 이준익 감독의 신작이자 박해일, 박서준, 최대훈이 합류한 기대작이 내달 크랭크인한다.이준익 감독의 영화 '반딧불이'(감독 이준익, 제작 ㈜ 미고웍스·기린영화사㈜)가 박해일, 박서준, 최대훈을 비롯한 주요 캐스팅 확정 및 크랭크인 소식을 전하며 기대를 모으고 있다.",
-      "'자산어보' 이후 5년, 이준익 감독의."
+      "[OSEN=고척, 길준영 기자] 프로야구 키움 히어로즈 설종진 감독이 1군에 복귀한 안우진의 활약을 기대했다.",
+      "설종진 감독은 22일 서울 고척스카이돔에서 열리는 ‘2026 신한은행 SOL Bank KBO리그’ KIA 타이거즈와의 경기 전 인터뷰에서 “(안)우진이가 어제 (하)영민이처럼 이닝을 끝까지 잘 마무리하고 경기를 마치기를 바란다”고 말했다."
     ],
     "chips": [
-      "#뉴스"
+      "#KBO"
     ]
   },
   {
-    "id": "naecd1650",
-    "category": "스포츠",
+    "id": "n6ce33726",
+    "category": "부동산",
     "source": "아시아경제",
-    "time": "16분 전",
-    "url": "https://view.asiae.co.kr/article/2026082215010823347",
-    "title": "英 해리왕자 부인 메건 배우 복귀?……\"넷플릭스 드라마 출연 논의\"",
+    "time": "20분 전",
+    "url": "https://view.asiae.co.kr/article/2026082216021485607",
+    "title": "與 김영배, 오세훈과 회동…용산·그린벨트 등 이견 재확인",
     "summary": [
-      "영국 해리 왕자의 부인 메건 마클 서식스 공작부인이 영국에서 촬영되는 넷플릭스 드라마 '더 젠틀맨' 시즌 3 출연을 논의 중인 것으로 알려졌다.",
-      "21일(현지시간) 미국 CNN 방송은 소식통을 인용해 메건이 가이 리치 감독의 넷플릭스 시리즈에 출연하는 방안을 논의 중이라고 보도했다.",
-      "다만 현재까지 출연 계약은 체결되지 않았고, '더 젠틀맨' 시즌 3 역시 제작이 확정된 상태는 아니라고 CNN은 덧붙였다."
+      "더불어민주당 서울시당위원장인 김영배 의원과 오세훈 서울시장이 주택 공급 방안을 놓고 만났지만 용산공원과 용산 정비창, 그린벨트 등을 둘러싼 입장차를 확인하는 데 그쳤다.김 의원은 22일 국회에서 기자들과 만나 오 시장과 이날 오찬 회동을 갖고 \"오 시장과 오찬을 하며 격의 없이 주택 공급 정책과 청년 주택 주거의 문제를 포함해 시민을 위해 함께할 수 있는 일에 대해 의견을 교환했다\"고 밝혔다."
+    ],
+    "chips": [
+      "#정책",
+      "#정치"
+    ]
+  },
+  {
+    "id": "nbe5bbae1",
+    "category": "경제",
+    "source": "한국경제",
+    "time": "22분 전",
+    "url": "https://www.hankyung.com/article/202608226078i",
+    "title": "\"샤넬·디올 안 사요\"…엄마가 들던 가방인데 Z세대 푹 빠졌다 [안혜원의 명품의세계]",
+    "summary": [
+      "\"샤넬·디올 안 사요\"…엄마가 들던 가방인데 Z세대 푹 빠졌다 [안혜원의 명품의세계]."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "ne951fced",
-    "category": "경제",
-    "source": "머니투데이",
-    "time": "20분 전",
-    "url": "https://www.mt.co.kr/culture/2026/08/22/2026082214113089899",
-    "title": "'韓 선수 최초' 8년 연속 진출 위업 '극적 달성' 가능할까... '손목 부상→공동 5위→PGA BMW 챔피언십 2R 공동 4위' 뒷심 대단하네",
+    "id": "n45e25109",
+    "category": "IT",
+    "source": "ZDNet Korea",
+    "time": "22분 전",
+    "url": "https://zdnet.co.kr/view/?no=20260822141450",
+    "title": "애플, 시리·비전 프로 인력 200여명 감원…AI·스마트 글래스 중심 재편",
     "summary": [
-      "임성재(28·CJ)가 미국프로골프(PGA) 투어 페덱스컵 플레이오프(PO) 2차전 2라운드에서 선두권 도약에 성공했다.",
-      "임성재는 22일(한국 시각) 미국 미주리주 세인트루이스의 벨러리브 컨트리클럽(파71)에서 열린 2026 PGA 투어 페덱스컵 플레이오프 2차전 BMW 챔피언십(총상금 2000만 달러) 2라운드에서 버디 7개와 보기 1개를 묶어 6언더파 65타를 쳤다.",
-      "1라운드에서 공동 12위로 출발했던 임성재는 중간 합계 9언더파 131타를."
+      "[지디넷코리아]애플이 음성 비서 '시리(Siri)'와 공간 컴퓨팅 헤드셋 '비전 프로(Vision Pro)' 관련 부서를 포함해 200명 이상의 직원을 감원하며 대대적인 조직 개편에 나섰다.",
+      "신규 폼팩터 디바이스와 AI 역량 강화를 위해 조직의 우선순위를 재조정하는 조치로 풀이된다.블룸버그 통신은 비공개 인사 계획을 잘 아는 관계자들을 인용해 애플이 비전 프로 부서에서 약 100명, 시리 및 소프트웨어 팀에서 약 100명의 인력을 감축한다고 현."
+    ],
+    "chips": [
+      "#AI"
+    ]
+  },
+  {
+    "id": "n8ab57728",
+    "category": "경제",
+    "source": "한국경제",
+    "time": "22분 전",
+    "url": "https://www.hankyung.com/article/202608215079i",
+    "title": "“K뷰티 안 통한다더니”…독일 베를린 매장 앞 700명 몰렸다",
+    "summary": [
+      "“K뷰티 안 통한다더니”…독일 베를린 매장 앞 700명 몰렸다."
     ],
     "chips": [
       "#뉴스"
@@ -637,20 +635,20 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2720건",
-    "trend": "+315%"
+    "mentions": "2330건",
+    "trend": "+255%"
   },
   {
     "rank": 2,
     "tag": "AI",
-    "mentions": "1420건",
-    "trend": "+115%"
+    "mentions": "1680건",
+    "trend": "+155%"
   },
   {
     "rank": 3,
-    "tag": "금리",
-    "mentions": "1290건",
-    "trend": "+95%"
+    "tag": "KBO",
+    "mentions": "1680건",
+    "trend": "+155%"
   }
 ];
 // ====AUTO-GENERATED-END====
