@@ -1,5 +1,5 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-08-22 18:13:50
+// 마지막 업데이트: 2026-08-22 19:15:24
 window.NEWS_DB = [
   {
     "id": "n01b7046c",
@@ -296,25 +296,84 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n46f59f4d",
+    "id": "n4a365471",
     "category": "스포츠",
-    "source": "머니투데이",
-    "time": "232일 전",
-    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE84MmdkdFI4SVdreUFqQTE4dFJMYmdGeUJRNVVvSlBURlM5dWpUdFdRTWllazh6MzZpNUFxYnY1VWE1ZFFJVHhIbTA4U3AxaEpXQVQtXzVmVVB4OEM4TVJwOE9uRWIzLVNQbE1j0gFwQVVfeXFMT0g0c3locG5VUDBUYmFEbXloRUxaNEVzQ3hLbU1DTEJHSkRtcGRidEozUjNrbGNWSEpScjFINHpNZFBxeDVRTVByd3c4UHVNZU0xYU9EZ04xSUJzclhsMnUyZ3d3U2RMQXlCS0NBRnlCcw?oc=5",
-    "title": "손흥민·안세영 날고 프로야구 열광했지만...한국 스포츠, 웃지 못한 이유 - 머니투데이",
+    "source": "v.daum.net",
+    "time": "167일 전",
+    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1ZbDRsNzJDT3JrUU5UZ1dGREM0RndpdFlCUlFsbHhTbXNaWUtzTFpDeV9lRkw0ZnViblc3Qlh2Y055by1WWVVPZVpUR3Jpd2s?oc=5",
+    "title": "\"장보기만으로 부족\"…이커머스, 야구·축구 스포츠 중계도 나서",
     "summary": [
-      "손흥민·안세영 날고 프로야구 열광했지만...한국 스포츠, 웃지 못한 이유 - 머니투데이 머니투데이."
+      "\"장보기만으로 부족\"…이커머스, 야구·축구 스포츠 중계도 나서 v.daum.net."
     ],
     "chips": [
-      "#손흥민",
       "#KBO"
+    ]
+  },
+  {
+    "id": "n4b4b9344",
+    "category": "스포츠",
+    "source": "머니투데이",
+    "time": "12분 전",
+    "url": "https://www.mt.co.kr/sports/2026/08/23/2026082302440520368",
+    "title": "안세영에 또 졌는데 中 뜻밖의 반응 \"왕즈이 잘못 없다, 비난도 안 돼\"... \"뭘 해도 안세영 승리\" 결국 세계선수권 결승행",
+    "summary": [
+      "'배드민턴 여제' 안세영(삼성생명)이 중국의 마지막 자존심마저 무너뜨렸다.",
+      "하지만 중국에서는 뜻밖의 반응도 나왔다.",
+      "또 한 번 안세영 앞에서 무릎을 꿇은 왕즈이(중국)를 향해 비난하기보다는 오히려 응원을 보냈다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nf5429d0a",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "24분 전",
+    "url": "https://www.newsis.com/view/NISX20260823_0003758632",
+    "title": "日 동부 이바라키현서 규모 5.9 지진…쓰나미 우려는 없어",
+    "summary": [
+      "[서울=뉴시스] 김승민 기자 = 일본 동부 지역에서 규모 5.9 지진이 발생했다.",
+      "일본 기상청은 쓰나미(지진해일) 발생 가능성은 없다고 밝혔다.",
+      "기상청 홈페이지에 따르면 23일 오전 2시 이바라키현 남부 북위 36.0도 동경 140.1도 지점에서 규모 5.9로 추정되는 지진이 발생했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nf04a12e3",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "47분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260823001800034",
+    "title": "[부고] 임순주(매일일보 보성 주재기자)씨 본인상",
+    "summary": [
+      "[부고] 임순주(매일일보 보성 주재기자)씨 본인상."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "ncdb78f4d",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "49분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260823001600075",
+    "title": "1980년대 인기미드 '브이' 출연 마이클 라이트 별세…향년 70세",
+    "summary": [
+      "(로스앤젤레스=연합뉴스) 김경윤 특파원 = 1980년대 인기 미국 드라마 '브이(V)'에서 흑인 저항군 일라이어스 테일러를 맡았던 배우 마이클 ..."
+    ],
+    "chips": [
+      "#뉴스"
     ]
   },
   {
     "id": "n1e252675",
     "category": "사회",
     "source": "뉴시스",
-    "time": "3분 전",
+    "time": "1시간 전",
     "url": "https://www.newsis.com/view/NISX20260823_0003758631",
     "title": "캐나다 \"美 철강·유제품·종이 등에 '달러대 달러' 보복관세\"",
     "summary": [
@@ -329,7 +388,7 @@ window.NEWS_DB = [
     "id": "n92aa2d27",
     "category": "사회",
     "source": "연합뉴스",
-    "time": "5분 전",
+    "time": "1시간 전",
     "url": "https://www.yna.co.kr/view/AKR20260823001100530",
     "title": "기상청 \"제주 서귀포 동쪽 바다서 규모 2.2 지진…피해 없을 듯\"",
     "summary": [
@@ -343,7 +402,7 @@ window.NEWS_DB = [
     "id": "n35acd4c7",
     "category": "스포츠",
     "source": "조선일보",
-    "time": "8분 전",
+    "time": "1시간 전",
     "url": "https://www.chosun.com/sports/sports_general/2026/08/23/MIYWIYRZGVRGMOBTHE3WMNDEGM/",
     "title": "‘셔틀콕 여왕이 돌아왔다!’ 안세영, 세계선수권 3년 만에 금메달 도전…야마구치와 결승전 맞대결",
     "summary": [
@@ -358,7 +417,7 @@ window.NEWS_DB = [
     "id": "neaf8d546",
     "category": "사회",
     "source": "뉴시스",
-    "time": "13분 전",
+    "time": "1시간 전",
     "url": "https://www.newsis.com/view/NISX20260821_0003757708",
     "title": "고객 집 수영장에 택배 '풍덩'…아마존 배송 드론의 황당 실수",
     "summary": [
@@ -374,7 +433,7 @@ window.NEWS_DB = [
     "id": "nc8ab8fa0",
     "category": "사회",
     "source": "뉴시스",
-    "time": "13분 전",
+    "time": "1시간 전",
     "url": "https://www.newsis.com/view/NISX20260821_0003757206",
     "title": "\"아침에 이것부터 드세요\"…18㎏ 감량한 약사가 꼽은 음식 5가지",
     "summary": [
@@ -387,28 +446,15 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n8663441a",
-    "category": "경제",
-    "source": "조선일보",
-    "time": "13분 전",
-    "url": "https://www.chosun.com/national/national_general/2026/08/23/MG3VBV66FRG4PLPL2IEKSYE6QY/",
-    "title": "여치 집·얼음 냉차·우물가 등목… 사진으로 보는 여름의 추억",
-    "summary": [
-      "여치 집·얼음 냉차·우물가 등목… 사진으로 보는 여름의 추억."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n6490cbcd",
+    "id": "n1cc79ce2",
     "category": "사회",
     "source": "조선일보",
-    "time": "13분 전",
-    "url": "https://www.chosun.com/economy/weeklybiz/2026/08/23/J35XPS5XNNFLVJXFTF7ZKIMPCY/",
-    "title": "중국 추격에 한·일 선택은 셋 뿐… 더 도망치거나, 포기하거나, 손잡거나",
+    "time": "1시간 전",
+    "url": "https://www.chosun.com/culture-life/music_concert/2026/08/23/MZLVCEZYCBE7HHV6XFGBALGNP4/",
+    "title": "‘팜므 파탈’은 NO… 소프라노 ‘카르멘’의 이유 있는 파격",
     "summary": [
-      "중국 추격에 한·일 선택은 셋 뿐… 더 도망치거나, 포기하거나, 손잡거나."
+      "여름 최고의 클래식 축제를 보기 위해서다.",
+      "나흘간 소키에프가 지휘하고 랑랑이 협연하는 빈 필하모닉 콘서트와 곤잘레스-몬하스의 모차르트 마티네 등 콘서트 둘, ‘카르멘’ ‘아시시의 프란체스코’ ‘낙소스섬의 아리아드네’ ‘코지 판 투테’ 등 오페라 넷을 봤다."
     ],
     "chips": [
       "#뉴스"
@@ -418,7 +464,7 @@ window.NEWS_DB = [
     "id": "naba07fce",
     "category": "사회",
     "source": "조선일보",
-    "time": "13분 전",
+    "time": "1시간 전",
     "url": "https://www.chosun.com/politics/politics_general/2026/08/23/S5JZVF2SQNAIVM5Z4I7XMNAFYI/",
     "title": "어게인 2018? 트럼프와 김정은 갑을이 바뀌었다",
     "summary": [
@@ -429,10 +475,24 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "na11d9794",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "1시간 전",
+    "url": "https://www.chosun.com/national/people/2026/08/23/MHIAETEPVJHKVOOENJNTO7C6H4/",
+    "title": "7평 구멍가게의 기적, 그리고 10억의 ‘무담보’ 대출",
+    "summary": [
+      "7평 구멍가게의 기적, 그리고 10억의 ‘무담보’ 대출."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
     "id": "n5a730983",
     "category": "경제",
     "source": "머니투데이",
-    "time": "29분 전",
+    "time": "1시간 전",
     "url": "https://www.mt.co.kr/sports/2026/08/23/2026082301395737628",
     "title": "훈련하다 주먹질·헬멧까지 던졌다, 'WWE 레전드' 아들은 레슬링 기술까지... 결국 '14억 벌금 폭탄'",
     "summary": [
@@ -445,26 +505,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nb7427d53",
-    "category": "부동산",
-    "source": "뉴시스",
-    "time": "53분 전",
-    "url": "https://www.newsis.com/view/NISX20260821_0003757771",
-    "title": "\"내 아파트 팔아 남편 집 리모델링했는데\"…6년 사실혼 끝나자 재산분할 거부",
-    "summary": [
-      "[서울=뉴시스]서이현 인턴 기자 = 사실혼 관계로 6년을 살며 자신의 아파트를 처분해 남편 명의 집을 리모델링한 여성이 이별 후 재산분할을 인정받지 못할 위기에 처한 사연이 알려졌다.",
-      "지난 21일 YTN 라디오 '조인섭 변호사의 상담소'에는 사연자 A씨의 이 같은 고민이 소개됐다.",
-      "A씨는 친구 소개로 만난 남편과 각자 이혼 경험이 있고 아이가 없다는 공통점 때문에 결혼에 얽매이지 않고 편하게 만나기 시작했다."
-    ],
-    "chips": [
-      "#부동산"
-    ]
-  },
-  {
     "id": "n9717f7fb",
     "category": "사회",
     "source": "연합뉴스",
-    "time": "1시간 전",
+    "time": "2시간 전",
     "url": "https://www.yna.co.kr/view/AKR20260823001300530",
     "title": "일본 지바현 가시와시 북동쪽서 규모 5.9 지진 발생",
     "summary": [
@@ -475,26 +519,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "ncaad7763",
-    "category": "경제",
-    "source": "아시아경제",
-    "time": "1시간 전",
-    "url": "https://view.asiae.co.kr/article/2026082301490660504",
-    "title": "경찰 \"제주 실종여성 추정 시신 발견, 사실 아니다\"",
-    "summary": [
-      "지난 5월 제주에서 실종된 30대 여성으로 추정되는 시신이 발견됐다는 소식은 사실이 아닌 것으로 확인됐다.",
-      "제주경찰청은 22일 오후 8시께 '제주 한림항 인근에서 장미란씨(37)로 추정되는 시신과 신분증이 발견됐다'는 보고는 오보라고 밝혔다.",
-      "경찰 관계자는 \"지속 수색 중이지만 아직까지 실종자는 발견되지 않았다\"며 \"제주청은 가용경력을 총동원해 실종자 수색에 전념하고 있다\"고 전했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
     "id": "n0adf0ecb",
     "category": "스포츠",
     "source": "머니투데이",
-    "time": "1시간 전",
+    "time": "2시간 전",
     "url": "https://www.mt.co.kr/sports/2026/08/23/2026082300251713278",
     "title": "29세 선수 사망→하루 뒤 네 아이 아빠까지 숨졌다... '연이틀 참사' 추모 속에 다시 달린 선수들",
     "summary": [
@@ -507,38 +535,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nba35a68f",
-    "category": "경제",
-    "source": "연합뉴스",
-    "time": "1시간 전",
-    "url": "https://www.yna.co.kr/view/AKR20260823000600071",
-    "title": "美무역대표, 캐나다와 무역협상 결렬에 \"캐나다보복에 대응조치\"",
-    "summary": [
-      "(워싱턴=연합뉴스) 이유미 특파원 = 제이미슨 그리어 미국 무역대표부(USTR) 대표는 22일(현지시간) 미국과 캐나다의 무역협상이 결렬된 것과..."
-    ],
-    "chips": [
-      "#수출"
-    ]
-  },
-  {
-    "id": "n3042d9d8",
-    "category": "경제",
-    "source": "연합뉴스",
-    "time": "1시간 전",
-    "url": "https://www.yna.co.kr/view/AKR20260823000800087",
-    "title": "캐나다 총리, 美에 보복관세 '맞불'…철강·낙농품 등에 부과",
-    "summary": [
-      "(멕시코시티=연합뉴스) 송광호 특파원 = 미국과 캐나다의 무역 협상이 결렬되면서 미국이 200억 달러 규모의 캐나다산 제품에 50%의 관세를 부..."
-    ],
-    "chips": [
-      "#수출"
-    ]
-  },
-  {
     "id": "n92a95fdf",
     "category": "스포츠",
     "source": "동아일보",
-    "time": "2시간 전",
+    "time": "3시간 전",
     "url": "https://www.donga.com/news/Sports/article/all/20260823/134523900/1",
     "title": "김상식의 베트남, 동남아 월드컵 결승 1차전서 태국 2-0 제압",
     "summary": [
@@ -552,7 +552,7 @@ window.NEWS_DB = [
     "id": "n7c0910ca",
     "category": "스포츠",
     "source": "동아일보",
-    "time": "2시간 전",
+    "time": "3시간 전",
     "url": "https://www.donga.com/news/Society/article/all/20260823/134523897/1",
     "title": "[오늘날씨]전국 곳곳 비·소나기…‘처서’ 무더위·열대야 계속",
     "summary": [
@@ -566,7 +566,7 @@ window.NEWS_DB = [
     "id": "n798ea722",
     "category": "스포츠",
     "source": "동아일보",
-    "time": "2시간 전",
+    "time": "3시간 전",
     "url": "https://www.donga.com/news/Sports/article/all/20260823/134523894/1",
     "title": "‘셔틀콕 여제’ 안세영, 세계 3위 왕즈이 잡고 세계선수권 결승 진출",
     "summary": [
@@ -581,7 +581,7 @@ window.NEWS_DB = [
     "id": "n1f796935",
     "category": "스포츠",
     "source": "머니투데이",
-    "time": "2시간 전",
+    "time": "3시간 전",
     "url": "https://www.mt.co.kr/sports/2026/08/23/2026082215145296846",
     "title": "'최측근 2인 사망' 최강 복서 또 비극, '무려 1700억' 세기의 맞대결 불발 유력... 도대체 무슨 일이",
     "summary": [
@@ -594,30 +594,28 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n0b527f1d",
-    "category": "스포츠",
-    "source": "머니투데이",
-    "time": "2시간 전",
-    "url": "https://www.mt.co.kr/sports/2026/08/23/2026082213190131651",
-    "title": "두산 베어스, 최강 10번 타자 위한 맞춤형 혜택 제공... KB국민카드와 손잡았다",
-    "summary": [
-      "두산 베어스가 KB 국민카드와 손을 잡았다.",
-      "두산 베어스는 \"KB국민카드와 함께 최강 10번 타자를 위한 맞춤형 혜택을 담은 '두산베어스 KB 체크카드'를 출시했다\"고 밝혔다.",
-      "두산은 \"체크카드를 선호하는 젊은 팬들을 겨냥한 상품\"이라면서 \"야구 관람은 물론 팬들의 일상생활에서도 실질적인 혜택을 제공하는 것이 특징\"이라고 부연했다."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
     "id": "n4ebb632c",
     "category": "경제",
     "source": "한국경제",
-    "time": "3시간 전",
+    "time": "4시간 전",
     "url": "https://www.hankyung.com/article/2026082147137",
     "title": "[오늘의 운세] 8월 23일 띠별 운세",
     "summary": [
       "[오늘의 운세] 8월 23일 띠별 운세."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n50bd8822",
+    "category": "경제",
+    "source": "한국경제",
+    "time": "4시간 전",
+    "url": "https://www.hankyung.com/article/2026082152227",
+    "title": "[오늘의 운세] 2026년 8월 23일 별자리 운세",
+    "summary": [
+      "[오늘의 운세] 2026년 8월 23일 별자리 운세."
     ],
     "chips": [
       "#뉴스"
@@ -630,8 +628,8 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "3110건",
-    "trend": "+375%"
+    "mentions": "3630건",
+    "trend": "+455%"
   },
   {
     "rank": 2,
@@ -641,9 +639,9 @@ window.KEYWORD_TOP = [
   },
   {
     "rank": 3,
-    "tag": "KBO",
-    "mentions": "1420건",
-    "trend": "+115%"
+    "tag": "금리",
+    "mentions": "1290건",
+    "trend": "+95%"
   }
 ];
 // ====AUTO-GENERATED-END====
