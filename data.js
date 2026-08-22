@@ -1,5 +1,5 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-08-22 19:15:24
+// 마지막 업데이트: 2026-08-22 20:11:12
 window.NEWS_DB = [
   {
     "id": "n01b7046c",
@@ -71,20 +71,6 @@ window.NEWS_DB = [
     ],
     "chips": [
       "#반도체"
-    ]
-  },
-  {
-    "id": "n36bf22dc",
-    "category": "사회",
-    "source": "뉴스 따옴",
-    "time": "2일 전",
-    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1JYmRLTlA3Yk9LMUJzM3k2cHd4bzJlcWJmVEM4Ukx0aGpZdWNYYnUwaUIxY2MzdVRNWmpBemNkRnpNV1ppVnNiSDAzcFY3WEhEOUdIMnVKc2tUNjR5eS14cUdmem80cHlESzJGTTdn0gFyQVVfeXFMT0Q0MHBweW9XVm1JaUJWTnJLcW1Dbm5VcXhjVjRNV1dCOHh5UTlIUGxEUnhfVmR3Tmk0bng0TGcyTkc4RmhVRHAwd1JTaW00STFJcUxGUVdYNDBpWTdNQzdqUENBcDVGeWN1eU1lTEFqMk5n?oc=5",
-    "title": "고용노동부 안양지청, 원하는 일자리는 가까이에, 고용센터 ‘일자리 수요데이’로 통(通)하다",
-    "summary": [
-      "고용노동부 안양지청, 원하는 일자리는 가까이에, 고용센터 ‘일자리 수요데이’로 통(通)하다 뉴스 따옴."
-    ],
-    "chips": [
-      "#고용"
     ]
   },
   {
@@ -180,21 +166,6 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nac7d261c",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "22일 전",
-    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1wZmd4RTNaSTBwNVNxSm0yRGFySTlYN19qVTZfYzRtVzBzVV9nSnR3RXdYaTNiNkZRX3F6aXhFZTA5ekUxNW9VWHIzZHFjYnoyWU0wVDNoU2FJcVE?oc=5",
-    "title": "강남구 일자리통합지원센터, 맞춤형 지원으로 취업자 25.7％ 증가",
-    "summary": [
-      "강남구 일자리통합지원센터, 맞춤형 지원으로 취업자 25.7％ 증가 연합뉴스."
-    ],
-    "chips": [
-      "#취업",
-      "#고용"
-    ]
-  },
-  {
     "id": "n1a764c5a",
     "category": "부동산",
     "source": "뉴스핌",
@@ -206,6 +177,38 @@ window.NEWS_DB = [
     ],
     "chips": [
       "#부동산"
+    ]
+  },
+  {
+    "id": "n6b58f8f3",
+    "category": "사회",
+    "source": "아주경제",
+    "time": "54일 전",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5FSkF1TmQxQlBoNE14SmsybFhoZDZyR0VEcm04My1JZnM4VjZFNlZOWTRteFNuU05UbnpRQlRraldzaEN6bjMtWHE5c0ZuUEFKa04zZXhaazdGd9IBWEFVX3lxTE1vV2tXSWRPZXBXZFdCWHp1dks5NW5zQnFQYVF1bTBWUjRpam1ITlN2NXhSZ3hhNVU2TV9NM0J4bURmbHFxWnAxd3I0VURPV19jeURVYUFEQTk?oc=5",
+    "title": "구직자에 취업확률, 기업에 채용 피드백 제공…노동부, 고용24 고도화",
+    "summary": [
+      "구직자에 취업확률, 기업에 채용 피드백 제공…노동부, 고용24 고도화 아주경제."
+    ],
+    "chips": [
+      "#채용",
+      "#취업",
+      "#고용"
+    ]
+  },
+  {
+    "id": "nc01e8f2e",
+    "category": "사회",
+    "source": "브릿지경제",
+    "time": "54일 전",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5yQUtrMktYZmNaT3JnbXZsb3lkeGxoVHZPQVZjSEloeXVNTmxxZTNlSTV1RC01U3RfZG01RG9uaE5LanhhcTJkb2dWb2lBV0NuWXZnTmlzdVlnZw?oc=5",
+    "title": "AI가 취업확률 분석하고 일자리 추천까지…고용24, 맞춤형 취업 서비스 시작",
+    "summary": [
+      "AI가 취업확률 분석하고 일자리 추천까지…고용24, 맞춤형 취업 서비스 시작 브릿지경제."
+    ],
+    "chips": [
+      "#AI",
+      "#취업",
+      "#고용"
     ]
   },
   {
@@ -310,10 +313,205 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n5e8ff3cb",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "6분 전",
+    "url": "https://www.chosun.com/economy/startup_story/2026/07/21/DUVPWVSUWNADVOLSINENZNSDJY/",
+    "title": "270만병 판매 넘었다, 평균 56.2% 탈모 완화 임상 ‘카이스트 샴푸’",
+    "summary": [
+      "270만병 판매 넘었다, 평균 56.2% 탈모 완화 임상 ‘카이스트 샴푸’."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n8f5a51ce",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "8분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260823002100071",
+    "title": "美, 中다롄 APEC 고위관리회의 참석…\"美기업 기회 확대\"",
+    "summary": [
+      "(워싱턴=연합뉴스) 이유미 특파원 = 미국 국무부는 오는 28일까지 중국 다롄에서 열리는 제3차 아시아태평양경제협력체(APEC) 고위관리 회의에..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nffea4c7e",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "10분 전",
+    "url": "https://www.newsis.com/view/NISX20260822_0003758612",
+    "title": "일요일 인천, 낮 최고기온 34도…습도 높아 체감온도↑",
+    "summary": [
+      "[인천=뉴시스] 전예준 기자 = 23일 인천은 낮 최고기온이 34도까지 오르고 습도가 높아 체감 온도도 오르겠다.",
+      "하늘은 북태평양 고기압의 가장자리에 들어 구름 많겠다.",
+      "수도권기상청은 \"아침 최저기온은 25도, 낮 최고기온은 32도 내외의 분포를 보이겠다\"며 \"당분간 일 최고 체감온도가 33도 안팎으로 올라 무덥겠다\"고 예보했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "na2a03ccc",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "10분 전",
+    "url": "https://www.newsis.com/view/NISX20260822_0003758529",
+    "title": "사라진 '처서' 매직, 충남권 34도 폭염…최대 40㎜ 소나기",
+    "summary": [
+      "[서울=뉴시스]최영민 기자 = 더위가 한풀 꺾인다는 절기상 처서(處暑)이자 일요일인 23일 대전·세종·충남 지역은 폭염이 기승을 부리는 가운데 소나기가 내리겠다.",
+      "이날 대전기상청에 따르면 충남권은 북태평양 고기압의 가장자리에 들며 구름이 많다가 밤부터 차차 맑아지겠다.",
+      "특히 충남 지역에는 이날 낮 12시부터 밤 9시 사이 소나기가 내리는 곳이 있겠다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n1ddae0bf",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "10분 전",
+    "url": "https://www.newsis.com/view/NISX20260822_0003758517",
+    "title": "'처서' 무색, 제주 한낮 33도 폭염기승…최대 30㎜ 소나기",
+    "summary": [
+      "[제주=뉴시스] 우장호 기자 = 더위가 한풀 꺾인다는 절기상 처서(處暑)이자 휴일인 23일 제주지역은 낮동안 소나기가 내리는 가운데 무더위가 기승을 부릴 것으로 예상된다.",
+      "제주기상청은 \"이날 제주도는 북태평양고기압의 가장자리에 들어 대기가 불안정한 가운데 한라산 등 고지대를 중심으로 소나기가 내리겠다\"고 예보했다.",
+      "소나기에 의한 강수량은 5~30㎜ 정도다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nedd3d28f",
+    "category": "경제",
+    "source": "머니투데이",
+    "time": "10분 전",
+    "url": "https://www.mt.co.kr/culture/2026/08/23/2026082114304470402",
+    "title": "\"중국 흔적 하나도 없다\" 이 나라에선 'K'가 대세...1위 손님 노린다",
+    "summary": [
+      "[이주의 FLOW] 문화·예술에 대한 국민적 관심이 커지고 있습니다.",
+      "문화체육관광부에 따르면 지난해 기준 문화·예술 관람률은 10명 중 6명인 60.2%.",
+      "하지만 넘쳐나는 공연과 전시, 정책에는 자칫 압도돼 흥미를 잃기 십상입니다."
+    ],
+    "chips": [
+      "#정책",
+      "#수출"
+    ]
+  },
+  {
+    "id": "n0fb12196",
+    "category": "부동산",
+    "source": "머니투데이",
+    "time": "10분 전",
+    "url": "https://www.mt.co.kr/estate/2026/08/23/2026082116154399485",
+    "title": "[분양캘린더] 서울 서대문·경기 부천 등 전국 5430가구 분양",
+    "summary": [
+      "다음주 전국 10개 단지 총 5430가구가 분양에 나선다.",
+      "23일 부동산114에 따르면 8월 넷째주 전국 10개 단지에서 총 5430가구가 분양을 시작한다.",
+      "이 중 일반분양 물량은 3649가구다."
+    ],
+    "chips": [
+      "#부동산"
+    ]
+  },
+  {
+    "id": "na037e15e",
+    "category": "경제",
+    "source": "머니투데이",
+    "time": "10분 전",
+    "url": "https://www.mt.co.kr/estate/2026/08/23/2026082114342466674",
+    "title": "코레일·도로공사 이어 철도공단도 교수…교통 산하기관 '교수 전성시대'",
+    "summary": [
+      "장기간 수장 인선이 표류해 온 국가철도공단 신임 이사장에 정진혁 연세대 도시공학과 교수가 낙점되면서 코레일(한국철도공사)과 한국도로공사까지 철도·도로 핵심 기관 수장을 모두 교수 출신이 맡게 됐다.",
+      "21일 세종관가 등에 따르면 정진혁 교수는 9월1일자로 국가철도공단 신임 이사장으로 취임한다.",
+      "지난해 8월 이성해 전 이사장의 사의 표명 이후 1년 만에 후임 인선이 이뤄졌다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n2c0725bb",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "11분 전",
+    "url": "https://www.newsis.com/view/NISX20260822_0003758530",
+    "title": "[오늘의 주요일정]정치(8월23일 일요일)",
+    "summary": [
+      "[서울=뉴시스] [서울=뉴시스] ◇청와대【대통령】 공식일정 없음 ◇총리실【총리】 11:00 제10차 고위당정협의회(국무총리 서울공관) ◇국방부【장관】 통상일정 ◇외교부【장관】 통상일정 ◇통일부【장관】 통상일정 ◇더불어민주당【당대표】 11:00 제10차 고위당정협의회(국무총리 서울공관) 【원내대표】 11:00 제10차 고위당정협의회(국무총리 서울공관) ◇국민의힘【당대표】 통상업무 【원내대표】 통상업무 ◇조국혁신당【당대표】 13:00 서울·경기·인."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n9b8f0393",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "11분 전",
+    "url": "https://www.chosun.com/international/us/2026/08/23/5DVGUT7DWBHQNPH7DV4O6RTR74/",
+    "title": "트럼프 “이렇게 많은 구직 신청 처음”… 다음 백악관 대변인은 누구?",
+    "summary": [
+      "트럼프 “이렇게 많은 구직 신청 처음”… 다음 백악관 대변인은 누구?."
+    ],
+    "chips": [
+      "#취업"
+    ]
+  },
+  {
+    "id": "nd32440cb",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "11분 전",
+    "url": "https://www.chosun.com/international/us/2026/08/23/VWAV32F2HFFU5JT2T4QUZ2ESIM/",
+    "title": "수녀님도 로비하는 워싱턴 DC… “로비 모르면 美 이해할 수 없어”",
+    "summary": [
+      "수녀님도 로비하는 워싱턴 DC… “로비 모르면 美 이해할 수 없어”."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "na63d81e9",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "11분 전",
+    "url": "https://www.chosun.com/economy/startup_story/2026/07/01/EOU4QC7NANF57G3IJQRDYDSWZM/",
+    "title": "비싸서 먹기 어려웠던 민어회 한 접시, 부레 포함 3만원대 초특가 공동구매",
+    "summary": [
+      "비싸서 먹기 어려웠던 민어회 한 접시, 부레 포함 3만원대 초특가 공동구매."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nc890f317",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "48분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260823002000087",
+    "title": "'마약 카르텔 연루 혐의' 美 기소 멕시코 주지사 업무 복귀",
+    "summary": [
+      "(멕시코=연합뉴스) 송광호 특파원 = 마약 카르텔 연루 의혹으로 미국 정부에 기소돼 직무가 정지됐던 루벤 로차 모야 멕시코 시날로아주지사가 11..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
     "id": "n4b4b9344",
     "category": "스포츠",
     "source": "머니투데이",
-    "time": "12분 전",
+    "time": "1시간 전",
     "url": "https://www.mt.co.kr/sports/2026/08/23/2026082302440520368",
     "title": "안세영에 또 졌는데 中 뜻밖의 반응 \"왕즈이 잘못 없다, 비난도 안 돼\"... \"뭘 해도 안세영 승리\" 결국 세계선수권 결승행",
     "summary": [
@@ -326,26 +524,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nf5429d0a",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "24분 전",
-    "url": "https://www.newsis.com/view/NISX20260823_0003758632",
-    "title": "日 동부 이바라키현서 규모 5.9 지진…쓰나미 우려는 없어",
-    "summary": [
-      "[서울=뉴시스] 김승민 기자 = 일본 동부 지역에서 규모 5.9 지진이 발생했다.",
-      "일본 기상청은 쓰나미(지진해일) 발생 가능성은 없다고 밝혔다.",
-      "기상청 홈페이지에 따르면 23일 오전 2시 이바라키현 남부 북위 36.0도 동경 140.1도 지점에서 규모 5.9로 추정되는 지진이 발생했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
     "id": "nf04a12e3",
     "category": "사회",
     "source": "연합뉴스",
-    "time": "47분 전",
+    "time": "1시간 전",
     "url": "https://www.yna.co.kr/view/AKR20260823001800034",
     "title": "[부고] 임순주(매일일보 보성 주재기자)씨 본인상",
     "summary": [
@@ -359,176 +541,11 @@ window.NEWS_DB = [
     "id": "ncdb78f4d",
     "category": "사회",
     "source": "연합뉴스",
-    "time": "49분 전",
+    "time": "1시간 전",
     "url": "https://www.yna.co.kr/view/AKR20260823001600075",
     "title": "1980년대 인기미드 '브이' 출연 마이클 라이트 별세…향년 70세",
     "summary": [
       "(로스앤젤레스=연합뉴스) 김경윤 특파원 = 1980년대 인기 미국 드라마 '브이(V)'에서 흑인 저항군 일라이어스 테일러를 맡았던 배우 마이클 ..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n1e252675",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "1시간 전",
-    "url": "https://www.newsis.com/view/NISX20260823_0003758631",
-    "title": "캐나다 \"美 철강·유제품·종이 등에 '달러대 달러' 보복관세\"",
-    "summary": [
-      "[서울=뉴시스] 김승민 기자 = 도널드 트럼프 미국 행정부가 캐나다산 일부 상품에 50% 관세 부과를 개시한 가운데, 마크 카니 캐나다 총리가 \"캐나다의 노동자, 농민, 가정, 기업을 보호하기 위해 워싱턴의 새 관세에 '달러 대 달러'로 대응할 것\"이라고 밝혔다.",
-      "CBC, CNN 등에 따르면 카니 총리는 22일(현지 시간) 기자회견에서 오는 9월8일부터 미국산 상품에 대한 보복 관세를 시행한다며 \"대상에는 철강, 유제품, 가전제품, 농기계, 펄."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n92aa2d27",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "1시간 전",
-    "url": "https://www.yna.co.kr/view/AKR20260823001100530",
-    "title": "기상청 \"제주 서귀포 동쪽 바다서 규모 2.2 지진…피해 없을 듯\"",
-    "summary": [
-      "(서울=연합뉴스) 23일 오전 1시 44분 38초 제주 서귀포시 동쪽 79km 해역에서 규모 2.2의 지진이 발생했다고 기상청이 밝혔다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n35acd4c7",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "1시간 전",
-    "url": "https://www.chosun.com/sports/sports_general/2026/08/23/MIYWIYRZGVRGMOBTHE3WMNDEGM/",
-    "title": "‘셔틀콕 여왕이 돌아왔다!’ 안세영, 세계선수권 3년 만에 금메달 도전…야마구치와 결승전 맞대결",
-    "summary": [
-      "[OSEN=서정환 기자] '셔틀콕 여왕’ 안세영(24, 삼성생명)이 100% 컨디션으로 돌아왔다.",
-      "세계랭킹 1위 안세영은 22일(한국시간) 인도 뉴델리 인드라 간디 아레나에서 열린 2026 세계배드민턴연맹(BWF) 세계선수권대회 여자단식 준결승에서 세계랭킹 3위 중국의 왕즈이를 세트스코어 2-0(24-22, 21-16)으로 완파했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "neaf8d546",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "1시간 전",
-    "url": "https://www.newsis.com/view/NISX20260821_0003757708",
-    "title": "고객 집 수영장에 택배 '풍덩'…아마존 배송 드론의 황당 실수",
-    "summary": [
-      "[서울=뉴시스]장인혜 인턴 기자 = 미국에서 아마존 배송 드론이 고객의 택배를 뒷마당 수영장에 그대로 떨어뜨리는 장면이 포착돼 화제가 되고 있다.",
-      "지난 21일(현지 시간) 미국 뉴욕포스트에 따르면 텍사스주 리치먼드에 사는 린지 오스틴은 지난 17일 아마존 드론 배송 서비스 '프라임 에어'로 택배가 배송된다는 알림을 받았다.",
-      "오스틴은 집 밖으로 나가 배송 드론이 도착하는 모습을 지켜봤다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nc8ab8fa0",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "1시간 전",
-    "url": "https://www.newsis.com/view/NISX20260821_0003757206",
-    "title": "\"아침에 이것부터 드세요\"…18㎏ 감량한 약사가 꼽은 음식 5가지",
-    "summary": [
-      "[서울=뉴시스]박세은 인턴 기자 = '유니약사'라는 이름으로 활동하는 정혜윤 약사가 아침에 먹기 좋은 5가지 음식을 소개했다.",
-      "지난 14일 그는 자신의 SNS에 '아침에 꼭 먹는 5가지 음식'이라는 제목의 영상을 올렸다.",
-      "해당 영상 속에서 그는 1위를 삶은 달걀, 2위를 토마토와 올리브유, 3위를 미온수 한 잔, 4위 그리요거트, 5위 블루베리 순으로 소개했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n1cc79ce2",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "1시간 전",
-    "url": "https://www.chosun.com/culture-life/music_concert/2026/08/23/MZLVCEZYCBE7HHV6XFGBALGNP4/",
-    "title": "‘팜므 파탈’은 NO… 소프라노 ‘카르멘’의 이유 있는 파격",
-    "summary": [
-      "여름 최고의 클래식 축제를 보기 위해서다.",
-      "나흘간 소키에프가 지휘하고 랑랑이 협연하는 빈 필하모닉 콘서트와 곤잘레스-몬하스의 모차르트 마티네 등 콘서트 둘, ‘카르멘’ ‘아시시의 프란체스코’ ‘낙소스섬의 아리아드네’ ‘코지 판 투테’ 등 오페라 넷을 봤다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "naba07fce",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "1시간 전",
-    "url": "https://www.chosun.com/politics/politics_general/2026/08/23/S5JZVF2SQNAIVM5Z4I7XMNAFYI/",
-    "title": "어게인 2018? 트럼프와 김정은 갑을이 바뀌었다",
-    "summary": [
-      "어게인 2018? 트럼프와 김정은 갑을이 바뀌었다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "na11d9794",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "1시간 전",
-    "url": "https://www.chosun.com/national/people/2026/08/23/MHIAETEPVJHKVOOENJNTO7C6H4/",
-    "title": "7평 구멍가게의 기적, 그리고 10억의 ‘무담보’ 대출",
-    "summary": [
-      "7평 구멍가게의 기적, 그리고 10억의 ‘무담보’ 대출."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n5a730983",
-    "category": "경제",
-    "source": "머니투데이",
-    "time": "1시간 전",
-    "url": "https://www.mt.co.kr/sports/2026/08/23/2026082301395737628",
-    "title": "훈련하다 주먹질·헬멧까지 던졌다, 'WWE 레전드' 아들은 레슬링 기술까지... 결국 '14억 벌금 폭탄'",
-    "summary": [
-      "다른 구단과 함께 진행하는 합동훈련이 순식간에 난투극으로 변했다.",
-      "주먹이 오가고 헬멧까지 날아다닌 가운데, WWE 레전드의 아들은 프로레슬링 기술로 상대 선수를 내동댕이치기도 했다.",
-      "로이터통신은 21일(한국시간) \"미국프로풋볼(NFL) 댈러스 카우보이스와 뉴올리언스 세인츠가 합동훈련 도중 여러 차례 난투극을 벌인 것과 관련해 NFL 사무국으로부터 각각 50만 달러(약 7억원)의 벌금을 부과받았다\"고 전했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n9717f7fb",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "2시간 전",
-    "url": "https://www.yna.co.kr/view/AKR20260823001300530",
-    "title": "일본 지바현 가시와시 북동쪽서 규모 5.9 지진 발생",
-    "summary": [
-      "(서울=연합뉴스) 23일 오전 2시 0분(한국시간) 일본 지바현 가시와시 북동쪽 18km 지역에서 규모 5.9의 지진이 발생했다고 기상청이 외국..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n0adf0ecb",
-    "category": "스포츠",
-    "source": "머니투데이",
-    "time": "2시간 전",
-    "url": "https://www.mt.co.kr/sports/2026/08/23/2026082300251713278",
-    "title": "29세 선수 사망→하루 뒤 네 아이 아빠까지 숨졌다... '연이틀 참사' 추모 속에 다시 달린 선수들",
-    "summary": [
-      "하루 사이 두 명의 선수가 목숨을 잃었다.",
-      "비극에 빠진 모터사이클 로드레이싱계가 세상을 떠난 선수들을 추모하는 가운데, 남은 선수들은 다시 경쟁에 돌입했다.",
-      "2026 맨섬 그랑프리가 예선 도중 연이틀 발생한 사망 사고의 충격 속에 22일(한국시간) 본경기 일정에 들어갔다."
     ],
     "chips": [
       "#뉴스"
@@ -566,7 +583,7 @@ window.NEWS_DB = [
     "id": "n798ea722",
     "category": "스포츠",
     "source": "동아일보",
-    "time": "3시간 전",
+    "time": "4시간 전",
     "url": "https://www.donga.com/news/Sports/article/all/20260823/134523894/1",
     "title": "‘셔틀콕 여제’ 안세영, 세계 3위 왕즈이 잡고 세계선수권 결승 진출",
     "summary": [
@@ -578,26 +595,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n1f796935",
-    "category": "스포츠",
-    "source": "머니투데이",
-    "time": "3시간 전",
-    "url": "https://www.mt.co.kr/sports/2026/08/23/2026082215145296846",
-    "title": "'최측근 2인 사망' 최강 복서 또 비극, '무려 1700억' 세기의 맞대결 불발 유력... 도대체 무슨 일이",
-    "summary": [
-      "복싱 역사상 최고의 흥행 카드로 꼽히며 천문학적인 파이트 머니가 걸린 세기의 대결이 계약 및 장소 갈등으로 끝내 무산될 위기에 처했다.",
-      "미국 스포츠 전문 매체 'ESPN'은 22일(한국시간) \"타이슨 퓨리가 올림픽 금메달리스트 앤서니 조슈아와 오랜 숙원이었던 헤비급 빅매치 성사 여부에 대해 '계약이 성사되지 않을 것 같고, 경기 역시 열리지 않을 것 같다'며 불발 가능성을 강력하게 제기했다\"고 보도했다.",
-      "지난 10년간 복싱계와 전 세계 팬들이."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
     "id": "n4ebb632c",
     "category": "경제",
     "source": "한국경제",
-    "time": "4시간 전",
+    "time": "5시간 전",
     "url": "https://www.hankyung.com/article/2026082147137",
     "title": "[오늘의 운세] 8월 23일 띠별 운세",
     "summary": [
@@ -611,7 +612,7 @@ window.NEWS_DB = [
     "id": "n50bd8822",
     "category": "경제",
     "source": "한국경제",
-    "time": "4시간 전",
+    "time": "5시간 전",
     "url": "https://www.hankyung.com/article/2026082152227",
     "title": "[오늘의 운세] 2026년 8월 23일 별자리 운세",
     "summary": [
@@ -628,20 +629,20 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "3630건",
-    "trend": "+455%"
+    "mentions": "3110건",
+    "trend": "+375%"
   },
   {
     "rank": 2,
     "tag": "AI",
-    "mentions": "1420건",
-    "trend": "+115%"
+    "mentions": "1550건",
+    "trend": "+135%"
   },
   {
     "rank": 3,
-    "tag": "금리",
-    "mentions": "1290건",
-    "trend": "+95%"
+    "tag": "취업",
+    "mentions": "1420건",
+    "trend": "+115%"
   }
 ];
 // ====AUTO-GENERATED-END====
