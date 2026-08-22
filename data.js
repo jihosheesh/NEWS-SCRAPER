@@ -1,21 +1,6 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-08-22 14:11:07
+// 마지막 업데이트: 2026-08-22 15:10:30
 window.NEWS_DB = [
-  {
-    "id": "n8e4273ab",
-    "category": "IT",
-    "source": "솔루션뉴스",
-    "time": "11시간 전",
-    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1hMHFUSWgxbnY3VU1MMnRqVVZVWG1FYWhHOWNIYWFad2xBZ3VRZDVCbmpka2pMZVFCNHNjNmFsNnpTVFdLU204T3VhZEN4enVPNkc0SEttV21zc1VlU3pwODMyV1hvRVhwc1Yw?oc=5",
-    "title": "엔비디아, 韓 AI칩 리벨리온과 손잡나…투자·인수까지 검토",
-    "summary": [
-      "엔비디아, 韓 AI칩 리벨리온과 손잡나…투자·인수까지 검토 솔루션뉴스."
-    ],
-    "chips": [
-      "#AI",
-      "#엔비디아"
-    ]
-  },
   {
     "id": "n01b7046c",
     "category": "경제",
@@ -29,6 +14,20 @@ window.NEWS_DB = [
     "chips": [
       "#금리",
       "#정책"
+    ]
+  },
+  {
+    "id": "n9e98d1ae",
+    "category": "IT",
+    "source": "IT조선",
+    "time": "1일 전",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5TYVA2YnJMTDkycW43azBHN0h3STBIbmZCVnVIeU5MSUpQU0dfc0ZyYThLMG9nQW5SX2kyT2hibUtIdU5BTW1XVHl3Mms3eXc3VzNudkxaRklBZF9LY3VIQWVkYjVMMGZFSVVYZWxpbGHSAXRBVV95cUxQdXpvZmUzOXhXamVfZmpnb1BNYS1VSkJkNEoxMkQzejduSEhOR2dSTVU3SFVHUlJfUXZRX05NR1NsZmw2bWNTbzlSMG5tZ29jVzZpV0dobHpzR3dWQkFBeEh0SWVvNEdybjFMUGI2VkRwVjd5QQ?oc=5",
+    "title": "엔비디아, 리벨리온과 기술협력·투자 논의… 인수 가능성도 거론",
+    "summary": [
+      "엔비디아, 리벨리온과 기술협력·투자 논의… 인수 가능성도 거론 IT조선."
+    ],
+    "chips": [
+      "#엔비디아"
     ]
   },
   {
@@ -311,10 +310,130 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n6efdcc36",
+    "category": "스포츠",
+    "source": "연합뉴스",
+    "time": "5분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260823000200007",
+    "title": "'김상식호' 베트남, 현대컵 결승 1차전 원정서 태국에 2-0 완승",
+    "summary": [
+      "(서울=연합뉴스) 이영호 기자 = 김상식 감독이 이끄는 베트남 축구 대표팀이 '난적' 태국과 2026 아세안(ASEAN) 현대컵 결승 1차전 원..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n4503b12f",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "5분 전",
+    "url": "https://www.newsis.com/view/NISX20260822_0003758471",
+    "title": "홍현희, 남편 제이쓴과 데이트 근황 공개…11㎏ 감량 후 날렵한 턱선",
+    "summary": [
+      "[서울=뉴시스]전민영 인턴 기자 = 코미디언 홍현희가 11㎏ 감량 후 한층 날렵해진 모습으로 남편 제이쓴과 데이트를 즐긴 근황을 공개했다.",
+      "제이쓴은 21일 자신의 사회관계망서비스(SNS)에 \"오랜만에 둘이서\"라는 글과 함께 영상을 올렸다.",
+      "영상 속 두 사람은 만화 캐릭터를 연상케 하는 분장을 하고 다정하게 포즈를 취했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n1e7518bb",
+    "category": "스포츠",
+    "source": "뉴시스",
+    "time": "5분 전",
+    "url": "https://www.newsis.com/view/NISX20260822_0003758604",
+    "title": "김상식의 베트남, 동남아 월드컵 결승 1차전서 태국 2-0 제압",
+    "summary": [
+      "[서울=뉴시스] 김진엽 기자 = 김상식 감독이 이끄는 베트남 남자 축구 대표팀이 태국을 꺾고 '동남아 월드컵'으로 불리는 2026 아세안(ASEAN) 현대컵 2연패 가능성을 높였다.",
+      "베트남은 22일 오후 10시(한국 시간) 태국 방콕의 라자망갈라 국립 경기장에서 열린 태국과의 대회 결승 원정 1차전에서 2-0 완승을 거뒀다.",
+      "이로써 베트남은 오는 26일 오후 10시 베트남 하노이의 미딘 국립경기장에서 열리는 2차전에서 1점 차 이하면 패배를 당."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nc52ae46e",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "7분 전",
+    "url": "https://www.newsis.com/view/NISX20260822_0003758617",
+    "title": "마크롱 \"우크라 방공무기 지원…가능한 모든 국가 동참해야\"",
+    "summary": [
+      "[서울=뉴시스] 김승민 기자 = 우크라이나가 패트리엇 등 방공무기 고갈로 러시아 공습 방어에 어려움을 겪는 가운데, 에마뉘엘 마크롱 프랑스 대통령이 볼로디미르 젤렌스키 우크라이나 대통령에게 방공무기 신규 지원을 약속했다.",
+      "마크롱 대통령은 22일(현지 시간) 소셜미디어 엑스(X·구 트위터)에 \"우크라이나가 영공을 방어하고 러시아 침략을 저지할 수 있도록 필요한 모든 수단을 제공하는 것은 매우 중요하다\"며 \"젤렌스키 대통령에게 '요격미사일 지원과."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n74102333",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "8분 전",
+    "url": "https://www.newsis.com/view/NISX20260822_0003758505",
+    "title": "'12㎏ 감량' 다영, 군살 없는 몸매 공개…\"크롭톱도 완벽 소화\"",
+    "summary": [
+      "[서울=뉴시스]이지우 인턴 기자 = 그룹 '우주소녀(WJSN)' 멤버 다영이 화보 사진을 통해 색다른 매력을 보여줬다.",
+      "21일 다영은 소셜미디어(SNS)를 통해 화보 촬영 현장 사진을 공개했다.",
+      "사진 속 다영은 다양한 의상을 자연스럽게 소화하며 자신의 매력을 드러냈다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n2fa9d8ee",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "10분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260823000100011",
+    "title": "[알림] 연합뉴스 콘텐츠 저작권 고지",
+    "summary": [
+      "연합뉴스가 제공하는 기사, 사진, 그래픽, 영상 등 모든 콘텐츠는 관련 법의 보호를 받습니다.",
+      "연합뉴스 콘텐츠를 사전허가 없이 전재·방송하거나 ..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n61950f0e",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "14분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260822050000057",
+    "title": "울산 방어진활어센터 화재…장비 24대·인력 50명 투입",
+    "summary": [
+      "(울산=연합뉴스) 장지현 기자 = 22일 오후 10시 43분께 울산 동구 방어진활어센터에 불이 났다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n3444bf09",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "22분 전",
+    "url": "https://www.chosun.com/entertainments/broadcast/2026/08/22/GFRGKM3FMVRDKYTGGM2GKMZVMM/",
+    "title": "최병모, 자율신경실조증 1년째 투병 “악역, 버거워..심신 갉아먹는 듯” 고백",
+    "summary": [
+      "최병모, 자율신경실조증 1년째 투병 “악역, 버거워..심신 갉아먹는 듯” 고백."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
     "id": "n74826245",
     "category": "IT",
     "source": "테크M",
-    "time": "방금 전",
+    "time": "23분 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=154539",
     "title": "[넥슨X오버워치] 벡스코 밖까지 늘어선 대기줄…'오버워치 데이' 구름 관중 몰렸다",
     "summary": [
@@ -327,121 +446,73 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n2c591431",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "1분 전",
-    "url": "https://www.newsis.com/view/NISX20260822_0003758621",
-    "title": "한 총리 \"제주 실종여성 가족에 장난전화 10대 체포…2차 가해 엄중 대응\"",
-    "summary": [
-      "[서울=뉴시스] 김지은 기자 = 한성숙 국무총리는 22일 제주 실종 여성 가족에게 반복적으로 장난 전화와 문자 메시지를 보낸 10대 남성이 경찰에 붙잡힌 데 대해 \"상심에 빠져있는 실종자 가족을 향한 장난전화와 가짜뉴스 등 2차 가해는 결코 용납될 수 없는 큰 범죄\"라고 했다.",
-      "한 총리는 이날 오후 X(옛 트위터)에 올린 글에서 이같이 말하며 \"가족들의 애타는 마음에 상처를 주는 행위는 법과 원칙에 따라 가장 신속하게 엄중히 대응하겠다\"고 적었."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nebe8b8fb",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "6분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260822049500109",
-    "title": "시리아 남부서 이스라엘 공격에 1명 부상…시리아 \"주권 침해\"",
-    "summary": [
-      "(로마=연합뉴스) 민경락 특파원 = 시리아 남부에서 이스라엘의 공격으로 1명이 다쳤다고 AFP통신이 22일(현지시간) 시리아 매체를 인용해 보도..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n86783420",
+    "id": "n39d27c12",
     "category": "스포츠",
     "source": "조선일보",
-    "time": "11분 전",
-    "url": "https://www.chosun.com/sports/football/2026/08/22/GMZDSYJXMM2GIMDDHAYWCZLCMI/",
-    "title": "'서로 1골 1도움' 갈레고와 축구화 닦아준 가브리엘 \"100% 넣을 줄 알았다...패스 주자마자 확신했어\"[현장 인터뷰]",
+    "time": "26분 전",
+    "url": "https://www.chosun.com/entertainments/broadcast/2026/08/22/GNTDMNRTMU2TIYJZMZRWKYZYG4/",
+    "title": "'우지원 딸' 우서윤, 미스코리아 眞 됐다..\"전혀 예상 못해\"",
     "summary": [
-      "[OSEN=부천, 고성환 기자] 부천FC1995의 탱크로 거듭난 가브리엘(29)은 파트너 갈레고(29)를 그 누구보다 굳게 믿고 있다.부천은 22일 오후 7시 30분 부천종합운동장에서 열린 하나은행 K리그1 2026 24라운드에서 포항 스틸러스를 3-0으로 격파했다.",
-      "이번 경기는 원래 포항 홈에서 치러질 예정이었지만, 스틸야드의 안전 문제로 개최 장소가 변."
+      "[OSEN=선미경 기자] 농구선수 출신 우지원의 딸 우서운이 미스코리아 진에 당선됐다.우서윤은 22일 오후 서울 강남구 코엑스 오디토리움에서 진행된 ‘제70회 미스코리아 선발대회’에서 미스코리아 진(眞)에 당선되면서 화제성을 싹쓸이했다.",
+      "우서윤은 앞서 2026 미스서울, 경기, 인천에서 선(善)을 차지했었다.미스코리아 진에 당선된 우서윤은 “전혀 예상을 못."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "nd56b6317",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "13분 전",
-    "url": "https://www.newsis.com/view/NISX20260822_0003758602",
-    "title": "美특사 \"이스라엘, 선거 앞 튀르키예와 충돌 유도했을 수도\"",
-    "summary": [
-      "[서울=뉴시스] 김승민 기자 = 도널드 트럼프 미국 행정부의 시리아 담당 특사가 최근 이스라엘군이 튀르키예군 배치를 이유로 감행한 시리아 북부 공군기지 공습이 총선을 의식한 튀르키예와의 의도적 긴장 고조였을 가능성을 제기했다.",
-      "타임스오브이스라엘(TOI), 아나돌루통신 등에 따르면 톰 배럭 주(駐)튀르키예 미국대사 겸 시리아·이라크 특사는 22일(현지 시간) 레바논계 호주인 마리오 나우팔과의 인터뷰에서 \"이스라엘이 공격을 감행한 이유는 모른다\"면."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n99fa8cdc",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "15분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260822049700007",
-    "title": "'8회 재역전' 삼성, 2연패 탈출…1게임 차로 선두 kt 추격(종합)",
-    "summary": [
-      "(서울=연합뉴스) 천병혁 김동한 기자 = 삼성 라이온즈가 선두 kt wiz를 턱밑까지 추격했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n755c7d8c",
-    "category": "스포츠",
-    "source": "뉴시스",
-    "time": "16분 전",
-    "url": "https://www.newsis.com/view/NISX20260822_0003758606",
-    "title": "삼성, 선두 KT 1경기 차 맹추격…키움, KIA 7연승 저지(종합)",
-    "summary": [
-      "[서울=뉴시스]박윤서 기자 = 프로야구 삼성 라이온즈가 접전 끝에 NC 다이노스를 꺾고 선두 추격의 고삐를 바짝 당겼다.",
-      "삼성은 22일 창원 NC파크에서 열린 2026 신한 쏠 KBO리그 NC와의 원정 경기에서 8-6으로 이겼다.",
-      "2연패 탈출에 성공한 2위 삼성(64승 2무 44패)은 선두 KT 위즈(63승 3무 41패)와 승차를 1경기로 좁혔다."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
-    "id": "n6efc72e8",
+    "id": "n98d11a8f",
     "category": "스포츠",
     "source": "조선일보",
-    "time": "17분 전",
-    "url": "https://www.chosun.com/sports/baseball/2026/08/22/GFSDQNRQGQ4DMOJVGJSTSMBSMU/",
-    "title": "6연승 KIA를 막아세운 최하위의 반란 어떻게 이뤄졌나 \"에이스 투구→공수 만점 활약\"",
+    "time": "32분 전",
+    "url": "https://www.chosun.com/sports/world-football/2026/08/22/GFRWIZRWGQZDKYLGGQYWEYRRGE/",
+    "title": "'충격, 승격팀에 이렇게 무너지다니' '정식 사령탑' 캐릭의 맨체스터 유나이티드, 9년 만에 1부 컴백 헐 시티에 0-2 완패..'맨유 세트피스 수비 와르르 붕괴'",
     "summary": [
-      "[고척=스포츠조선 이종서 기자] KIA 타이거즈의 '미친 질주'를 막은 건 '최하위'였다.",
-      "키움은 22일 고척스카이돔에서 열린 KIA와의 홈 경기에서 3대1로 승리했다.",
-      "최하위 키움은 5연패에서 벗어나면서 시즌 전적 41승(2무72패) 째를 거뒀다."
+      "[스포츠조선 노주환 기자]승격팀 헐 시티가 우승 후보 중 하나인 맨체스터 유나이티드를 개막전에서 잡는 이변을 연출했다.",
+      "9년 만에 1부로 돌아온 헐이 22일(한국시각) 영국 헐 MKM 스타디움에서 벌어진 맨유와의 2026~2027시즌 프리미어리그 1라운드 개막전서 2대0 승리했다.",
+      "헐은 세트피스에서 2골을 터트려 강팀을 잡는 이변을 낳았다."
+    ],
+    "chips": [
+      "#EPL"
+    ]
+  },
+  {
+    "id": "n2892bfb6",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "34분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260822049900007",
+    "title": "높이뛰기 우상혁, 국제대회 복귀전서 2ｍ16 실패…AG 먹구름",
+    "summary": [
+      "(서울=연합뉴스) 김경윤 기자 = 한국 높이뛰기 간판인 '스마일 점퍼' 우상혁(용인시청)이 복귀전에서 웃지 못했다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n427a903c",
-    "category": "스포츠",
-    "source": "뉴시스",
-    "time": "23분 전",
-    "url": "https://www.newsis.com/view/NISX20260822_0003758600",
-    "title": "'연고 악연' 서울에 0-7로 진 안양 유병훈 감독 \"1000% 내 잘못\"",
+    "id": "n61faf60f",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "44분 전",
+    "url": "https://www.donga.com/news/Society/article/all/20260822/134523881/1",
+    "title": "거제·통영 주말에도 수해복구 총력전…이틀간 4800명 투입",
     "summary": [
-      "[안양=뉴시스]안경남 기자 = 프로축구 '연고 이전'으로 얽힌 FC서울과의 맞대결에서 7골 차로 대패한 FC안양 유병훈 감독이 모든 책임을 자신에게 돌렸다.",
-      "안양은 22일 안양종합운동장에서 열린 하나은행 K리그1 2026 24라운드 홈 경기에서 서울에 전반에만 5골을 내주는 등 최악의 경기력 속에 0-7로 크게 졌다.",
-      "지난 2017년 K리그2 당시 부천FC전 2-6 패배를 넘어선 구단 역대 한 경기 최다 실점 패배다."
+      "기록적인 집중호우로 피해가 속출한 거제와 통영에서 주말에도 이틀간 4000명이 넘는 인력이 투입돼 수해복구 작업을 이어간다.22일 경남도에 따르면 이날부터 23일까지 이틀간 거제·통영 수해복구에 투입되는 인력과 장비는 각각 4824명, 516대다.이날 인력 2430명에 장비 255대가 투입되고, 23일에는 인력 2404명에 장비 261대가 투입되는 것으로 잠정 집계됐다.공무원과 군인, 경찰, 소방이 현장에 투입되고 있고, 전국에서 모인 의용소방."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n2684e8c1",
+    "category": "IT",
+    "source": "조선비즈IT",
+    "time": "57분 전",
+    "url": "https://biz.chosun.com/it-science/ict/2026/08/22/2K7CXE6UWFDD3F52R2JJFRIZ24/",
+    "title": "中 베이징서 ‘로봇 운동회’ 개최… 휴머노이드 2056대 집결해 기술력 겨뤄",
+    "summary": [
+      "中 베이징서 ‘로봇 운동회’ 개최… 휴머노이드 2056대 집결해 기술력 겨뤄."
     ],
     "chips": [
       "#뉴스"
@@ -451,7 +522,7 @@ window.NEWS_DB = [
     "id": "n1ac730dc",
     "category": "사회",
     "source": "동아일보",
-    "time": "24분 전",
+    "time": "1시간 전",
     "url": "https://www.donga.com/news/Society/article/all/20260822/134523871/1",
     "title": "“화성 운평에 110㎜”…중부지방 강타한 폭우에 피해 속출",
     "summary": [
@@ -463,38 +534,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nd87c7fa8",
-    "category": "스포츠",
-    "source": "연합뉴스",
-    "time": "25분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260821171051007",
-    "title": "[프로야구] 23일 선발투수",
-    "summary": [
-      "[프로야구] 23일 선발투수."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
-    "id": "n657421b4",
-    "category": "스포츠",
-    "source": "연합뉴스",
-    "time": "25분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260821170951007",
-    "title": "[프로야구 중간순위] 22일",
-    "summary": [
-      "[프로야구 중간순위] 22일."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
     "id": "n31365d0d",
     "category": "IT",
     "source": "테크M",
-    "time": "29분 전",
+    "time": "1시간 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=154538",
     "title": "3740억 베팅한 넷마블 방준혁…텐센트 지분 직접 품고 '책임경영' 승부수",
     "summary": [
@@ -507,25 +550,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nce4d0bed",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "31분 전",
-    "url": "https://www.chosun.com/entertainments/broadcast/2026/08/22/MFSTMMBSHAYWGNZRMI3TGMZXME/",
-    "title": "박현호, 잘나가는 아내 ♥은가은 위해 집안일·육아 자처 “유명인이 꿈이었는데..”(살림남)",
-    "summary": [
-      "방송 시청 후 작성된 리뷰 기사입니다.[OSEN=임혜영 기자] 박현호가 잘나가는 아내를 둔 심경을 털어놨다.22일 방송된 KBS 2TV ‘살림하는 남자들 시즌2’(이하 살림남)에는 은가은, 박현호 부부가 출연했다.박현호는 출산 후 몸이 아픈 은가은을 위해 집안일을 나서서 하는 모습을 보였다.",
-      "박현호는 “아프다고 하니 신경이 쓰인다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
     "id": "n1ebe1ce7",
     "category": "IT",
     "source": "테크M",
-    "time": "35분 전",
+    "time": "1시간 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=154537",
     "title": "[부고] 이정숙 씨(게임동아 경영지원팀장) 본인상",
     "summary": [
@@ -539,7 +567,7 @@ window.NEWS_DB = [
     "id": "n611656d5",
     "category": "부동산",
     "source": "테크M",
-    "time": "47분 전",
+    "time": "1시간 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=154536",
     "title": "[넥슨X오버워치] 제트팩캣·디몬 만든 손은 한국에 있었다…블리자드 '서울 스튜디오'의 힘",
     "summary": [
@@ -555,7 +583,7 @@ window.NEWS_DB = [
     "id": "n534bc17e",
     "category": "스포츠",
     "source": "동아일보",
-    "time": "50분 전",
+    "time": "1시간 전",
     "url": "https://www.donga.com/news/Sports/article/all/20260822/134523866/1",
     "title": "‘안우진 7이닝 무실점’ 키움, KIA 7연승 저지하고 5연패 탈출",
     "summary": [
@@ -570,7 +598,7 @@ window.NEWS_DB = [
     "id": "n9edb7a5f",
     "category": "스포츠",
     "source": "동아일보",
-    "time": "51분 전",
+    "time": "1시간 전",
     "url": "https://www.donga.com/news/Sports/article/all/20260822/134523863/1",
     "title": "서울, ‘연고지 더비’서 안양 7-0 대파…전북은 울산 1-0 제압",
     "summary": [
@@ -582,24 +610,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "ne6a815f1",
-    "category": "사회",
-    "source": "조선비즈IT",
-    "time": "55분 전",
-    "url": "https://biz.chosun.com/it-science/ict/2026/08/22/JGCD4DJPKFFDTFQ65TKEG4VLHU/",
-    "title": "李대통령, 명진스님 입적 애도… “불교계 큰 어른 떠나보내”",
-    "summary": [
-      "李대통령, 명진스님 입적 애도… “불교계 큰 어른 떠나보내”."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
     "id": "n62d543c5",
     "category": "경제",
     "source": "한국경제",
-    "time": "1시간 전",
+    "time": "2시간 전",
     "url": "https://www.hankyung.com/article/2026082262687",
     "title": "글로벌 물류지도 싹 바뀐다…국내 첫 컨테이너선 북극항로 출항",
     "summary": [
@@ -607,25 +621,6 @@ window.NEWS_DB = [
     ],
     "chips": [
       "#뉴스"
-    ]
-  },
-  {
-    "id": "nd8ad70fe",
-    "category": "IT",
-    "source": "ZDNet Korea",
-    "time": "1시간 전",
-    "url": "https://zdnet.co.kr/view/?no=20260822214044",
-    "title": "GIST-삼성-MIT, Ru에 탄소원자 5개 첨가로 반도체 배선 \"저항 혁명\"",
-    "summary": [
-      "[지디넷코리아]광주과학기술원(GIST)이 삼성전자 및 미국 MIT 연구팀과 공동으로 차세대 반도체 초미세 배선의 전기저항 값을 45% 낮추는데 성공했다.",
-      "2nm급 차세대 반도체 배선과 복잡한 3차원 구조에도 적용 가능할 전망이다.22일 GIST에 따르면 조용륜 GIST 중앙기기연구소 첨단분석센터 박사후연구원이 공동1저자로 참여했다.",
-      "삼성전자 SAIT(전 삼성종합기술원)에선 임용철 박사(공동1저자겸 교신저자)를 비롯한 하윤후·이영민 연구원(이상."
-    ],
-    "chips": [
-      "#AI",
-      "#반도체",
-      "#삼성전자",
-      "#환경"
     ]
   }
 ];
@@ -635,20 +630,20 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2460건",
-    "trend": "+275%"
+    "mentions": "2980건",
+    "trend": "+355%"
   },
   {
     "rank": 2,
-    "tag": "KBO",
-    "mentions": "1810건",
-    "trend": "+175%"
+    "tag": "AI",
+    "mentions": "1420건",
+    "trend": "+115%"
   },
   {
     "rank": 3,
-    "tag": "AI",
-    "mentions": "1680건",
-    "trend": "+155%"
+    "tag": "KBO",
+    "mentions": "1420건",
+    "trend": "+115%"
   }
 ];
 // ====AUTO-GENERATED-END====
