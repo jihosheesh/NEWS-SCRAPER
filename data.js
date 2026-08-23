@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-08-23 11:11:35
+// 마지막 업데이트: 2026-08-23 12:17:42
 window.NEWS_DB = [
   {
     "id": "n5f8e3e47",
     "category": "IT",
     "source": "조선일보",
-    "time": "6시간 전",
+    "time": "7시간 전",
     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQSkFLRlo2eVlqSXE1emRxVUpnaXZrNE1PT05JNUVvQlFBd2h0MVZSZEtnV3FiOFdpYjc5VFBzX1Vvb1BBVURIUGpmVXlHOGJydTItYnV3ZHVlWEh5SEdIQXVJMHRCbVlGQ0JrXzZ0LTlYV0NuNnphZ2Z1REVGRktKWmNNNA?oc=5",
     "title": "메모리 품귀에… 美 엔비디아도 항복, AI 서버값 15% 올린다",
     "summary": [
@@ -20,7 +20,7 @@ window.NEWS_DB = [
     "id": "n4cd16140",
     "category": "IT",
     "source": "전자신문",
-    "time": "8시간 전",
+    "time": "9시간 전",
     "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBTUDFpdjF5ek5WVVV5dGxjRWVKMm1zeG9PWGw0ZGRwRG1XcS1QSklJemw0LTRyYWZfdnB0NHp5eU9sMVFucnVBN0ctc0ZCUQ?oc=5",
     "title": "엔비디아, 고객사에 AI 서버 가격 15% 인상 예고",
     "summary": [
@@ -35,7 +35,7 @@ window.NEWS_DB = [
     "id": "n10d70d81",
     "category": "IT",
     "source": "경향신문",
-    "time": "8시간 전",
+    "time": "9시간 전",
     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1RbmpaY1ZpZzR0MUIwMlRlZEpHd080TmxTN2NxdFhxNktoSUpmbzFQeDd0ZDNjSENhN3Noc2JHU2xXV2IwdVMxblNtOHR0anh3bExYUExXWGRoZ9IBX0FVX3lxTE5VSlNTNTkxSWZRVWJtVUo3YXJNOUF0MFU1bGFXblJ1c2c4MkJlTlNfUnIxTlNOdzN0LTdXVGdxRlYyLVF0ZkV0UEFWWlJ0WnpBdzlUVGFMbV9hTDZXcTA0?oc=5",
     "title": "메모리값 폭등에…엔비디아도 AI 서버 가격 15% 이상 올린다",
     "summary": [
@@ -47,26 +47,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nb65cf3ee",
-    "category": "IT",
-    "source": "네이트",
-    "time": "14시간 전",
-    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBjMWgxVGExaFlua1hTUVBLWTdlb3dhdlFfMzBoRDllV3NidUh3NENWQ3dmVFdsTGkxeUwtQ3k0dUFhczk1SEpFYnYycTFhbWxLc2RJ?oc=5",
-    "title": "브로드컴 AI 매출 1160억달러 전망…삼성전자 HBM·파운드리 '기회'",
-    "summary": [
-      "브로드컴 AI 매출 1160억달러 전망…삼성전자 HBM·파운드리 '기회' 네이트."
-    ],
-    "chips": [
-      "#AI",
-      "#반도체",
-      "#삼성전자"
-    ]
-  },
-  {
     "id": "n82852efd",
     "category": "IT",
     "source": "IT조선",
-    "time": "14시간 전",
+    "time": "15시간 전",
     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9EMmxiS0xwVXY2cFVsVlFXOXVIRExMcGRhRXhuUUpfbXVnZHJDTTFxX1IwYkJHV3BMSjRLNmhueUViUzFQcE9adlVrNG5GSUZQZWQyRGJaTUhHMmg2aVpISFN4a2Z5Y3dIWURaV2FpVmjSAXRBVV95cUxPMG9TemRUQmdxVUxBblAwdzEzanAzMWRGU0hmVXlUVHR0VXVsWVdjSFU0R3VSbGRzOHF4Rnd4cktXSk5VMmY5cEJZdjI5elZiOXpuNzVYSFJUNzhyYzNrcEU5aTVhVWJfVTY5WVJtUmI1WVlHcg?oc=5",
     "title": "‘HBM 묶어 파는’ 삼성 파운드리, TSMC 틈새 뚫고 흑자 시동",
     "summary": [
@@ -80,7 +64,7 @@ window.NEWS_DB = [
     "id": "n01b7046c",
     "category": "경제",
     "source": "세이프머니",
-    "time": "1일 전",
+    "time": "2일 전",
     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9Ub04zeDVfTGNFZUhhWEN6TTYycHZERDdBTEs3OFhqYk1SQ1pibDgycHgzdWktaFRBU1RJam53LTMyZlhxTEM1UXdPMlY5TDhZbmtCbEt0VmhJOEZ4blBDVjBNd1Q3a0R1QmRXSkFR?oc=5",
     "title": "권민수 한은 부총재 금리 인상 관련 '유연한' 정책 판단 필요",
     "summary": [
@@ -100,6 +84,20 @@ window.NEWS_DB = [
     "title": "[반도체 패권 지도 ④] HBM 79% 쥔 한국…파운드리는 7%에 묶여 있다",
     "summary": [
       "[반도체 패권 지도 ④] HBM 79% 쥔 한국…파운드리는 7%에 묶여 있다 자본시장뉴스."
+    ],
+    "chips": [
+      "#반도체"
+    ]
+  },
+  {
+    "id": "n6f9d632c",
+    "category": "IT",
+    "source": "Counterpoint Research",
+    "time": "3일 전",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNWldFd0pOdDliUnJ6TDJUV2FTaGE1RndLODFNdVNleVoyNFVMdnRlQkEtODNMSDRQZDJCWjlab29yZ21sSldSU1BJWnFSc2QzRlZzOXMwY1ZqYkwxOWN4VkJVQ0FKRl8tRGg0TG1jYWZpeDIzVllxREtMZDhYbnZWTmVRNGhMQVB1WjJSdUl3?oc=5",
+    "title": "인텔은 메모리 넘본다…삼성은 파운드리 반격",
+    "summary": [
+      "인텔은 메모리 넘본다…삼성은 파운드리 반격 Counterpoint Research."
     ],
     "chips": [
       "#반도체"
@@ -327,10 +325,260 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n87282827",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "5분 전",
+    "url": "https://www.donga.com/news/Inter/article/all/20260823/134527686/1",
+    "title": "“새싹채소 먹고 55명 병원행”…美 15개주서 대장균·살모넬라균 발병",
+    "summary": [
+      "미국에서 알팔파(자주개자리) 새싹을 먹은 뒤 대장균과 살모넬라균에 감염된 환자가 잇따라 발생해 당국이 소비 자제를 권고했다.21일(현지시간) 뉴욕타임스(NYT)에 따르면, 연방 공중보건 당국은 미네소타에 본사를 둔 업체의 알팔파 새싹을 섭취하거나 제공하지 말라고 경고했다.",
+      "미국 전역에서 수십 명이 식중독에 걸린 데 따른 조치였다.NYT에 따르면 미국 식품의약국(FDA)과 질병통제예방센터(CDC)는 이번 집단 감염 사태를 조사 중이다."
+    ],
+    "chips": [
+      "#의료"
+    ]
+  },
+  {
+    "id": "n35229d3c",
+    "category": "부동산",
+    "source": "동아일보",
+    "time": "6분 전",
+    "url": "https://www.donga.com/news/Society/article/all/20260823/134527681/1",
+    "title": "‘여성 혼자 사네?’ 침입 절도 이튿날 또 강도짓 50대 입건",
+    "summary": [
+      "침입 절도 행각을 벌이다 여성 홀로 사는 집이라는 사실을 알고선 또다시 강도짓까지 벌인 50대가 경찰에 붙잡혔다.전남 목포경찰서는 23일 특수강도 등 혐의를 받는 50대 남성 A씨를 붙잡아 조사하고 있다.A씨는 지난 18일 전남광주 목포시 한 주택에 침입해 40만원 상당 금품을 훔치고, 이튿날 같은 집에서 홀로 사는 여성 집주인을 흉기로 위협해 금품을 요구하고 달아난 혐의를 받고 있다.A씨는 앞선 침입 절도 과정에서 해당 주택이 여성 홀로 사는."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n4ebbf747",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "6분 전",
+    "url": "https://www.chosun.com/international/international_general/2026/08/23/5AZJKXKCR5ASRMWOF4A6PZ5J5I/",
+    "title": "유럽·북중미카리브, 통합 네이션스리그 추진… FIFA에 도전장",
+    "summary": [
+      "유럽·북중미카리브, 통합 네이션스리그 추진… FIFA에 도전장."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n8692201e",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "8분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260823048500001",
+    "title": "한동훈 \"제주 실종 CCTV영상 전량삭제…경찰 두달 뒤 열람 요청\"",
+    "summary": [
+      "(서울=연합뉴스) 노선웅 기자 = 제주에서 실종된 장미란(37)씨 사건과 관련해 실종 추정 지점 인근의 폐쇄회로(CC)TV 118대의 영상이 6..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nc8aecfe9",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "8분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260823049700054",
+    "title": "광주 송정동서 버스·승용차 충돌…인명피해 없어",
+    "summary": [
+      "(전남광주=연합뉴스) 민현기 기자 = 23일 오후 6시 7분께 전남광주 광산구 송정동 한 교차로에서 주행 중이던 승용차가 시내버스 측면을 들이받..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n30fa73fd",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "10분 전",
+    "url": "https://www.chosun.com/sports/baseball/2026/08/23/MNRDSNJYGZSTQZLCMI3DSYZXG4/",
+    "title": "볼볼볼볼 → 홈런 2방에 8득점! 오늘도 8-0으로 시작…한화 박준영, LG 문보경+송찬의 대포에 2회도 못채웠다 [대전리포트]",
+    "summary": [
+      "[대전=스포츠조선 김영록 기자] 이틀전 경기의 재현이 될 것인가.",
+      "아니면 '두번 실수는 없다'는 결말일까.",
+      "LG 트윈스가 또한번 경기 초반부터 불방망이를 가동했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n3a7eb8ee",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "10분 전",
+    "url": "https://www.chosun.com/entertainments/broadcast/2026/08/23/HA3WENTBG5RTQYJUMRTGGYLCMI/",
+    "title": "윤가이♥가 찍어줬나…장기하, 열애 인정 후 영화관 나들이 포착",
+    "summary": [
+      "[OSEN=김수형 기자] 가수 장기하가 영화관을 찾아 여유로운 시간을 보냈다.",
+      "최근 배우 윤가이와의 열애를 인정한 터라 그의 소소한 일상에도 관심이 쏠리고 있다.장기하는 23일 자신의 SNS를 통해 영화관을 방문한 모습을 공개했다.",
+      "편안한 반팔 티셔츠 차림의 그는 한 손에 팝콘을 든 채 극장 내부를 둘러보는가 하면, 대형 스크린에 나오는 영상을 유심히 바라."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n02099964",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "14분 전",
+    "url": "https://www.newsis.com/view/NISX20260823_0003759087",
+    "title": "충주서 비탈면 아래 SUV 추락…60대 여성 부상",
+    "summary": [
+      "[충주=뉴시스] 이도근 기자 = 충북 충주시 한 도로에서 차량 전복 사고가 발생했다.",
+      "23일 충주소방서에 따르면 이날 오후 12시38분께 충주시 산척면 명서리 한 도로에서 A(여·60)씨가 몰던 검은색 소형 SUV 차량이 도로 옆 비탈면 3m 아래로 추락하면서 전복됐다.",
+      "신고를 받고 출동한 소방당국은 차 안에 있던 A씨를 구조했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n2a3d4158",
+    "category": "경제",
+    "source": "한국경제",
+    "time": "14분 전",
+    "url": "https://www.hankyung.com/article/202608237288i",
+    "title": "[단독]\"1년간 수수료 0원\"…미래에셋, 디지털X에 승부수",
+    "summary": [
+      "[단독]\"1년간 수수료 0원\"…미래에셋, 디지털X에 승부수."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n37cc8a5a",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "16분 전",
+    "url": "https://www.newsis.com/view/NISX20260823_0003758871",
+    "title": "\"태국 길거리 음식 어디 있지?\"… 한눈에 찾는 전용 앱 나왔다",
+    "summary": [
+      "[서울=뉴시스]허준희 인턴 기자 = 태국 정부가 길거리 음식 노점을 한눈에 찾아볼 수 있는 전용 앱을 출시하며 전통음식 문화 홍보와 관광산업 활성화에 나섰다.",
+      "23일(현지 시간) 홍콩 사우스차이나모닝포스트(SCMP)에 따르면, 태국 중소기업진흥국과 수안두싯대학교는 지난 7월 말 '태국 스트리트 골드 스타' 앱을 출시했다.",
+      "현재 방콕을 비롯해 동부 관광도시 파타야와 북부 치앙마이 등으로 서비스 지역을 확대하고 있다."
+    ],
+    "chips": [
+      "#교육"
+    ]
+  },
+  {
+    "id": "nb1ef4071",
+    "category": "스포츠",
+    "source": "뉴시스",
+    "time": "17분 전",
+    "url": "https://www.newsis.com/view/NISX20260823_0003759083",
+    "title": "LG 오스틴, 2년 만에 30홈런-100타점 달성",
+    "summary": [
+      "[서울=뉴시스]김희준 기자 = 프로야구 LG 트윈스의 외국인 타자 오스틴 딘이 2년 만에 시즌 30홈런과 100타점을 동시에 달성했다.",
+      "오스틴은 23일 대전 한화생명볼파크에서 벌어진 2026 신한 쏠 KBO리그 한화 이글스와의 경기에 3번 타자 1루수로 선발 출전해 LG가 8-3으로 앞선 4회초 1사 2, 3루 찬스에서 희생플라이를 쳤다.",
+      "올 시즌 32홈런을 기록 중인 오스틴은 이 타점으로 시즌 100타점을 채우면서 단일 시즌 30홈런-100타."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
+    "id": "nce310e31",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "21분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260823048400083",
+    "title": "물대포에 실사격 훈련까지…中·필리핀, 남중국해 군사긴장 고조",
+    "summary": [
+      "(하노이·베이징=연합뉴스) 박진형 한종구 특파원 = 남중국해 영유권을 둘러싼 중국과 필리핀의 갈등이 군사적 긴장으로 번지는 양상이다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n4ace8bb7",
+    "category": "경제",
+    "source": "한국경제",
+    "time": "24분 전",
+    "url": "https://www.hankyung.com/article/2026082372927",
+    "title": "\"서울이 더 쌀 줄이야\"…지방 덮친 고물가에 서민들 '비상'",
+    "summary": [
+      "\"서울이 더 쌀 줄이야\"…지방 덮친 고물가에 서민들 '비상'."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n623d27ee",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "26분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260823049200083",
+    "title": "중국축구협회, '韓성접대 의혹' 조사…\"입증할 증거 없어\"",
+    "summary": [
+      "(베이징=연합뉴스) 한종구 특파원 = 중국축구협회는 대한축구협회의 성 접대 사건에 중국축구협회 관계자들이 연루됐다는 의혹에 대해 자체 조사를 벌..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nf458caa1",
+    "category": "스포츠",
+    "source": "동아일보",
+    "time": "28분 전",
+    "url": "https://www.donga.com/news/Entertainment/article/all/20260823/134527556/1",
+    "title": "빅뱅 “2006년 시작해 여기까지…새로운 모습 보일 수 있어 반가워”",
+    "summary": [
+      "그룹 빅뱅(BIGBANG)이 데뷔 20주년 공연을 여는 소감을 전했다.23일 오후 고양시 일산서구 고양종합운동장 주경기장에서는 ‘쿠팡플레이와 함께하는 빅뱅 2026-2027 월드 투어 ’XX: 코스모스‘ 인 고양’의 셋째 날 공연이 열렸다.이날 ‘배배’(BAE BAE) 무대를 마치고 지드래곤은 “2006년 시작해 2026년에 와 있다”라며 “코스모스에 오신 여러분 다시 한번 진심으로 환영한다”라고 인사를 전하기도 했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n3cf388a2",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "28분 전",
+    "url": "https://www.donga.com/news/Entertainment/article/all/20260823/134527552/1",
+    "title": "에스파 윈터, 도도한 금발 미녀의 ‘쇠맛’ 미모",
+    "summary": [
+      "걸그룹 에스파 윈터가 특유의 도도한 미모로 눈길을 끌었다.에스파 윈터는 22일 자신의 사회관계망서비스(SNS)에 “마이들 너무너무 고마워”라는 글과 함께 다수의 사진을 올렸다.2026 TIMA 무대 대기실에서 찍은 것으로 추측되는 사진 속에서 윈터는 무대 의상을 입은 채 거울 앞에서 포즈를 취했다.",
+      "금발 머리에 도도한 표정과 시원시원한 이목구비가 눈길을 끄는 모습이다.TIMA는 중국 최대 음원 플랫폼 기업인 텐센트뮤직 엔터테인먼트 그룹(TME)."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n1c2290f3",
+    "category": "경제",
+    "source": "한국경제",
+    "time": "44분 전",
+    "url": "https://www.hankyung.com/article/2026082372847",
+    "title": "\"본전도 못 찾게 생겼다\"…주식 투자 실패 호소한 여배우",
+    "summary": [
+      "\"본전도 못 찾게 생겼다\"…주식 투자 실패 호소한 여배우."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
     "id": "n4416160b",
     "category": "IT",
     "source": "테크M",
-    "time": "방금 전",
+    "time": "44분 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=154542",
     "title": "[넥슨X오버워치] 10년 된 게임에 1만명 몰렸다…'오버워치 데이'가 보여준 팬덤의 힘",
     "summary": [
@@ -346,7 +594,7 @@ window.NEWS_DB = [
     "id": "n667eed32",
     "category": "IT",
     "source": "테크M",
-    "time": "방금 전",
+    "time": "1시간 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=154541",
     "title": "[넥슨X오버워치] '오버워치' 품은 넥슨의 자신감…글로벌 IP에 '한국식 운영' 더한다",
     "summary": [
@@ -359,288 +607,17 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n6354b967",
-    "category": "스포츠",
-    "source": "머니투데이",
-    "time": "1분 전",
-    "url": "https://www.mt.co.kr/sports/2026/08/23/2026082320070680647",
-    "title": "'세계 1위' 中 격파, 백하나·이소희 배드민턴 새역사 썼다... '무려 31년 만에' 여자복식 금메달",
-    "summary": [
-      "한국 배드민턴 여자 복식 백하나-이소희(이상 인천국제공항) 조가 세계랭킹 1위 중국 조를 완파하고 31년 만에 세계선수권 정상에 우뚝 섰다.",
-      "세계랭킹 3위 백하나-이소희는 23일(한국시간) 인도 뉴델리에서 열린 2026 세계배드민턴연맹(BWF) 세계선수권대회 여자 복식 결승전에서 세계 1위 류성수-탄닝(중국) 조를 51분 만에 게임 스코어 2-0(21-15 21-15)으로 완파했다.",
-      "이로써 한국 배드민턴은 1995년 길영아-장혜옥 조 이후 무려."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n597743e9",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "1분 전",
-    "url": "https://www.donga.com/news/Inter/article/all/20260823/134527072/1",
-    "title": "‘트럼프 측근’ 플라이츠 “트럼프, 김정은보다 李대통령부터 만나야”",
-    "summary": [
-      "프레드 플라이츠 미국우선주의정책연구소(AFPI) 부소장이 21일(현지 시간) “도널드 트럼프 미국 대통령은 김정은 북한 국무위원장을 만나기에 앞서 서울을 방문해 이재명 대통령부터 만나야 한다”고 주장했다.",
-      "최근 북미 정상회담 개최에 공을 들이고 있는 트럼프 대통령이 성공적인 회담을 이뤄내려면 한국과의 긴밀한 공조가 우선이라는 취지다.",
-      "플라이츠 부소장은 트럼프 1기 행정부에서 백악관 국가안보회의(NSC) 비서실장을 지낸 친(親)트럼프 인사다.플라."
-    ],
-    "chips": [
-      "#정책",
-      "#정치"
-    ]
-  },
-  {
-    "id": "ne61d0546",
-    "category": "사회",
-    "source": "머니투데이",
-    "time": "4분 전",
-    "url": "https://www.mt.co.kr/economy/2026/08/23/2026082319582190093",
-    "title": "축산경제, '유통 혁신' 시동…국산 축산물 판로 넓힌다",
-    "summary": [
-      "'RE:CONNECT' 워크숍 열고 성공사례·판매경쟁력 강화 방안 공유 각 조직간 협업 확대…유통비용 절감·국내산 축산물 판로 확대 추진 농협경제지주 축산경제가 급변하는 축산물 유통환경에 대응하기 위해 조직 간 협업 강화와 국산 축산물의 유통경쟁력 제고에 본격 나섰다.",
-      "농협경제지주 축산경제는 지난 20일부터 이틀간 충남 천안 소노벨에서 '축산유통 RE:CONNECT 워크숍'을 개최했다고 23일 밝혔다.",
-      "이번 워크숍은 변화하는 축산물 소비·유통환."
-    ],
-    "chips": [
-      "#환경"
-    ]
-  },
-  {
-    "id": "na28deaa3",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "4분 전",
-    "url": "https://www.newsis.com/view/NISX20260823_0003758806",
-    "title": "[인사]국무조정실·국무총리비서실",
-    "summary": [
-      "[서울=뉴시스] ◇과장급 ▲복지정책과장 강현정 ▲중소벤처기업부 파견(중소기업제도과장) 김진한."
-    ],
-    "chips": [
-      "#스타트업",
-      "#정책"
-    ]
-  },
-  {
-    "id": "n0e2eb071",
-    "category": "스포츠",
-    "source": "아시아경제",
-    "time": "5분 전",
-    "url": "https://view.asiae.co.kr/article/2026082320054893339",
-    "title": "[날씨] 전국 찜통더위·열대야…곳곳엔 강한 소나기",
-    "summary": [
-      "월요일인 24일 전국에 무더위가 이어지는 가운데 곳곳에 소나기가 내릴 전망이다.",
-      "오후에는 충남 남동 내륙과 충북 남부, 제주도에, 오후부터 저녁(사이에는 경기 북동부와 강원 중·북부 내륙, 전북 내륙, 전남권, 대구·경북 남부 내륙, 경남 서부 내륙에 소나기가 내릴 수 있다.",
-      "소나기에 의한 예상 강수량은 경기 북동부와 강원 중·북부 내륙, 제주도 5∼20㎜, 충남 남동 내륙·충북 남부 5∼40㎜, 광주·전남·전북 내륙·대."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n4030c7af",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "7분 전",
-    "url": "https://www.chosun.com/sports/baseball/2026/08/23/HFRDSYRSGYYDEZDEHEYWKZLCMI/",
-    "title": "‘역대급 충격패’ 이의리가 끝내기 만루 홈런 맞자, LG는 환호성을 질렀다…3위 경쟁 혼란스럽네",
-    "summary": [
-      "[OSEN=대전, 한용섭 기자] “KIA가 아니라 더 위를 봐야지”하필 유일한 낮 2시 경기였다.",
-      "KIA 이의리가 충격적인 역전 끝내기 만루 홈런을 맞는 순간, 다른 4개 구장에서는 8개 팀 선수들 대부분이 그 장면을 TV 중계로 지켜봤다.",
-      "나머지 4개 구장은 오후 7시 경기였기 때문."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "na0c6d4ba",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "7분 전",
-    "url": "https://www.newsis.com/view/NISX20260823_0003759054",
-    "title": "젤렌스키, \"페도로우 전장관의 행동 잘못된 점 있어\" 지적",
-    "summary": [
-      "[키이우(우크라)=AP/뉴시스] 김재영 기자 = 우크라이나의 볼로디미르 젤렌스키 대통령은 지난달 해임했던 미하일로 페도로우 전 국방장관의 해임 후 여러 행동에 관해 '판단을 잘못한 것'이라며 처음으로 언급했다.",
-      "젤렌스키 대통령은 22일 기자들과 두 시간 동안 비보도 전제의 대화 회동을 가졌으며 대화 내용이 23일 공개되었다.",
-      "여기서 여러 가지 사항이 알려진 것이다."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n6fd656a8",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "8분 전",
-    "url": "https://www.chosun.com/sports/baseball/2026/08/23/GMYGINDGHEZDOMBXME2GGN3DMI/",
-    "title": "'한화→롯데 3G 연속 완판' 잠실 또 꽉 찼다…두산, 구단 역대 최다 매진 신기록 [오!쎈 잠실]",
-    "summary": [
-      "[OSEN=잠실, 조은혜 기자] 프로야구 두산 베어스가 시즌 30번째 만원관중을 달성하며 구단 역대 한 시즌 최다 매진 기록을 새로 썼다.김원형 감독이 이끄는 두산은 23일 서울 잠실구장에서 열린 2026 신한 SOL KBO리그 롯데 자이언츠와의 홈경기를 치른다.",
-      "이날 두산은 경기 개시 직전인 오후 6시 27분 2만3750석 전석이 팔리며 매진을 기록했다."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
-    "id": "n882ec414",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "9분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260823040651004",
-    "title": "대검, 수사지휘 대신 '상호 협력' 새 수사준칙…부실수사 우려도(종합)",
-    "summary": [
-      "(서울=연합뉴스) 최윤선 기자 = 오는 10월로 예정된 검사의 수사권 및 수사지휘권 완전 폐지를 앞두고 대검찰청이 새 수사 준칙 초안을 만들어 ..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nc435ac67",
-    "category": "IT",
-    "source": "테크M",
-    "time": "9분 전",
-    "url": "https://www.techm.kr/news/articleView.html?idxno=154540",
-    "title": "[넥슨X오버워치] 블리자드 \"넥슨, 우리가 찾던 파트너\"…韓서 글로벌 성공모델 만든다",
-    "summary": [
-      "블리자드 엔터테인먼트가 한국 시장에서 '오버워치'의 새로운 성장 파트너로 넥슨을 선택한 배경을 공개했다.",
-      "수년간 한국 시장의 성장 가능성을 검토한 끝에 라이브 서비스 경험과 장르 전문성, 국내 이용자 및 커뮤니티에 대한 이해도를 두루 갖춘 넥슨이 자신들이 찾던 파트너의 조건에 부합했다고 평가했다.",
-      "넥슨과 함께 한국 이용자 기반을 넓히고 국내에서 검증된 성공 사례를 글로벌 서비스에 활용하는 방안도 모색한다.월터 콩 블리자드 라이브 게임·모바일 개."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nefa3e185",
-    "category": "스포츠",
-    "source": "머니투데이",
-    "time": "10분 전",
-    "url": "https://www.mt.co.kr/sports/2026/08/23/2026082319361853215",
-    "title": "야구 몰라요! KIA 승리 확률 무려 99.2%였는데→키움이 '고작 0.8%'서 기적 썼다",
-    "summary": [
-      "'끝날 때까지 끝난 것이 아니다'라는 야구 격언이 23일 고척스카이돔에서 증명됐다.",
-      "네이버 스포츠 문자중계 기준 승리 확률이 1%도 채 되지 않던 상황에서 키움 히어로즈가 9회말 기적 같은 대역전 드라마를 완성했다.",
-      "바꿔 말하면, KIA 타이거즈의 승리 확률이 무려 99.2%였지만, 이를 끝내 100%로 만들어내지 못한 것이다."
-    ],
-    "chips": [
-      "#KBO",
-      "#네이버"
-    ]
-  },
-  {
-    "id": "n9fbc3cd2",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "11분 전",
-    "url": "https://www.donga.com/news/Sports/article/all/20260823/134526539/1",
-    "title": "‘메이저 여왕’ 된 서교림, 4승 선착…“이젠 ‘림솔대전’이라 불러주세요”",
-    "summary": [
-      "나흘 연속 동반 라운드를 펼치고도 정규 라운드에서는 끝내 승부를 가리지 못했다.",
-      "1차 연장이 치러진 18번홀(파5)에 둘의 명운을 가른 건 서교림(20)의 날카로운 세 번째 샷이었다.",
-      "서교림은 74m를 남겨두고 58도 웨지로 친 샷을 홀 0.6m에 붙였다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n377c6e15",
+    "id": "n3e3bb2fb",
     "category": "경제",
-    "source": "아시아경제",
-    "time": "13분 전",
-    "url": "https://view.asiae.co.kr/article/2026082319553886991",
-    "title": "\"복귀 타진 보도 하루 만에 컷\"…영국 여론에 뺨 맞은 메건 마클",
+    "source": "한국경제",
+    "time": "1시간 전",
+    "url": "https://www.hankyung.com/article/2026082372491",
+    "title": "G7 정부부채 GDP 대비 124%",
     "summary": [
-      "영국 해리 왕자의 부인인 메건 마클 서식스 공작부인의 연기 복귀가 무산될 전망이다.",
-      "22일(현지시간) 영국 일간 가디언은 메건의 '더 젠틀맨' 시즌 3 캐스팅이 취소됐다고 보도했다.",
-      "전날 시즌 3에 메건이 합류하는 방안이 논의되고 있다고 전해졌으나, 단 하루 만에 무산 소식이 전해진 것이다."
+      "G7 정부부채 GDP 대비 124%."
     ],
     "chips": [
       "#뉴스"
-    ]
-  },
-  {
-    "id": "n742ff510",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "16분 전",
-    "url": "https://www.chosun.com/entertainments/broadcast/2026/08/23/MVRWMOJSG5QTKNBYMNRTONRQMI/",
-    "title": "\"월 1000만원 벌었는데\"...광산김씨패밀리, '100만원'까지 뚝 떨어진 충격적 '수익 공개'",
-    "summary": [
-      "[OSEN=박근희 기자] '광산김씨패밀리'가 유튜브 채널 운영의 현실과 함께 충격적인 수익 변화를 솔직하게 털어놓았다.22일 오후 유튜브 채널 ‘광산김씨패밀리’에는 ‘옥자씨랑 언중씨 실제로는요...’라는 제목의 영상이 게재됐다.둘째 아들 김승환과 채널에서 5년이라는 긴 시간 동안 편집을 해온 편집자가 함께 등장했다.",
-      "김승환은 “구독자님들한테 좀 더 좋은 내."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nf1db1d4c",
-    "category": "스포츠",
-    "source": "동아일보",
-    "time": "18분 전",
-    "url": "https://www.donga.com/news/Sports/article/all/20260823/134527008/1",
-    "title": "꼴찌팀 키움 ‘1할 타자’에 무릎 꿇은 KIA… ‘특급 마무리’ 이의리 후반기 첫 패전",
-    "summary": [
-      "프로야구 꼴찌팀 키움의 1할 타자 김재현(33)이 KIA의 ‘특급 마무리’ 이의리(24)에게 후반기 첫 패전을 안겼다.키움은 23일 고척 안방경기에서 KIA에 8-7 역전승을 거뒀다.",
-      "전날 ‘에이스’ 안우진(27)의 7이닝 무실점 호투를 앞세워 KIA에 3-1 승리를 거둔 키움은 ‘폭염 브레이크’ 이후 처음으로 연승을 달렸다.",
-      "키움이 고척에서 KIA에 연승을 거둔 건 2024년 7월 26, 27일 이후 757일 만이다."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
-    "id": "nba3957d4",
-    "category": "경제",
-    "source": "머니투데이",
-    "time": "18분 전",
-    "url": "https://www.mt.co.kr/economy/2026/08/23/2026082319445045006",
-    "title": "석 달치 비가 사흘 만에…강호동, 거제 수해농가 찾아 \"끝까지 함께\"",
-    "summary": [
-      "-강호동 농협중앙회장, 연초·둔덕농협 및 피해농가 찾아 복구상황 점검 -영양제·방제·농기계 수리 추가 지원…피해 포도농가 판로확보 특판도 평년 여름철 석 달치에 맞먹는 비가 불과 사흘 만에 쏟아진 경남 거제.",
-      "물이 빠진 논밭에는 진흙과 돌이 뒤엉켰고 수확을 앞둔 농작물과 영농시설 곳곳에 깊은 상처가 남았다.",
-      "지난 15~17일 거제에는 928㎜의 비가 내렸고 17일 하루 강수량만 654.3㎜에 달했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n01559634",
-    "category": "스포츠",
-    "source": "아시아경제",
-    "time": "20분 전",
-    "url": "https://view.asiae.co.kr/article/2026082319511982252",
-    "title": "최찬, 시즌 2승 환호…'31홀 레이스 최종 승자'",
-    "summary": [
-      "최찬이 '31홀 레이스'에서 정상에 올랐다.",
-      "그는 23일 충남 태안의 솔라고 컨트리클럽(파72)에서 열린 한국프로골프(KPGA) 투어 동아회원권그룹 오픈(총상금 7억원) 3라운드 잔여 13개 홀과 4라운드에서 5타를 줄이며 우승(20언더파 268타)을 차지했다.",
-      "지난 4월 우리금융 챔피언십에서 정규 투어 데뷔 이후 첫 우승을 올렸던 최찬은 4개월 만에 다시 우승 트로피를 수집했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n8e6e3f68",
-    "category": "사회",
-    "source": "아시아경제",
-    "time": "23분 전",
-    "url": "https://view.asiae.co.kr/article/2026082319482478010",
-    "title": "180일 수사 마친 종합특검, 尹·김건희 등 58명 기소",
-    "summary": [
-      "3대 특검이 남긴 각종 의혹을 파헤쳐 온 권창영 2차 종합특별검사팀이 23일, 장장 180일에 걸친 수사 대장정에 마침표를 찍었다.",
-      "특검팀은 24일 오전 경기도 과천에 위치한 특검 사무실에서 그동안의 수사 성과를 종합해 설명하는 최종 브리핑을 진행할 예정이다.",
-      "이날을 기점으로 특검팀이 재판에 넘긴 인원은 윤석열 전 대통령과 김건희 여사를 포함해 총 58명에 달한다."
-    ],
-    "chips": [
-      "#정치"
     ]
   }
 ];
@@ -650,20 +627,20 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2590건",
-    "trend": "+295%"
+    "mentions": "3240건",
+    "trend": "+395%"
   },
   {
     "rank": 2,
     "tag": "AI",
-    "mentions": "1680건",
-    "trend": "+155%"
+    "mentions": "1550건",
+    "trend": "+135%"
   },
   {
     "rank": 3,
     "tag": "KBO",
-    "mentions": "1680건",
-    "trend": "+155%"
+    "mentions": "1420건",
+    "trend": "+115%"
   }
 ];
 // ====AUTO-GENERATED-END====
