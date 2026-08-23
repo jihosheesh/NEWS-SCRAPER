@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-08-23 20:10:29
+// 마지막 업데이트: 2026-08-23 21:11:24
 window.NEWS_DB = [
   {
     "id": "n5f8e3e47",
     "category": "IT",
     "source": "조선일보",
-    "time": "15시간 전",
+    "time": "16시간 전",
     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQSkFLRlo2eVlqSXE1emRxVUpnaXZrNE1PT05JNUVvQlFBd2h0MVZSZEtnV3FiOFdpYjc5VFBzX1Vvb1BBVURIUGpmVXlHOGJydTItYnV3ZHVlWEh5SEdIQXVJMHRCbVlGQ0JrXzZ0LTlYV0NuNnphZ2Z1REVGRktKWmNNNA?oc=5",
     "title": "메모리 품귀에… 美 엔비디아도 항복, AI 서버값 15% 올린다",
     "summary": [
@@ -20,7 +20,7 @@ window.NEWS_DB = [
     "id": "n4cd16140",
     "category": "IT",
     "source": "전자신문",
-    "time": "17시간 전",
+    "time": "18시간 전",
     "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBTUDFpdjF5ek5WVVV5dGxjRWVKMm1zeG9PWGw0ZGRwRG1XcS1QSklJemw0LTRyYWZfdnB0NHp5eU9sMVFucnVBN0ctc0ZCUQ?oc=5",
     "title": "엔비디아, 고객사에 AI 서버 가격 15% 인상 예고",
     "summary": [
@@ -35,7 +35,7 @@ window.NEWS_DB = [
     "id": "n10d70d81",
     "category": "IT",
     "source": "경향신문",
-    "time": "17시간 전",
+    "time": "18시간 전",
     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1RbmpaY1ZpZzR0MUIwMlRlZEpHd080TmxTN2NxdFhxNktoSUpmbzFQeDd0ZDNjSENhN3Noc2JHU2xXV2IwdVMxblNtOHR0anh3bExYUExXWGRoZ9IBX0FVX3lxTE5VSlNTNTkxSWZRVWJtVUo3YXJNOUF0MFU1bGFXblJ1c2c4MkJlTlNfUnIxTlNOdzN0LTdXVGdxRlYyLVF0ZkV0UEFWWlJ0WnpBdzlUVGFMbV9hTDZXcTA0?oc=5",
     "title": "메모리값 폭등에…엔비디아도 AI 서버 가격 15% 이상 올린다",
     "summary": [
@@ -50,7 +50,7 @@ window.NEWS_DB = [
     "id": "n82852efd",
     "category": "IT",
     "source": "IT조선",
-    "time": "23시간 전",
+    "time": "1일 전",
     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9EMmxiS0xwVXY2cFVsVlFXOXVIRExMcGRhRXhuUUpfbXVnZHJDTTFxX1IwYkJHV3BMSjRLNmhueUViUzFQcE9adlVrNG5GSUZQZWQyRGJaTUhHMmg2aVpISFN4a2Z5Y3dIWURaV2FpVmjSAXRBVV95cUxPMG9TemRUQmdxVUxBblAwdzEzanAzMWRGU0hmVXlUVHR0VXVsWVdjSFU0R3VSbGRzOHF4Rnd4cktXSk5VMmY5cEJZdjI5elZiOXpuNzVYSFJUNzhyYzNrcEU5aTVhVWJfVTY5WVJtUmI1WVlHcg?oc=5",
     "title": "‘HBM 묶어 파는’ 삼성 파운드리, TSMC 틈새 뚫고 흑자 시동",
     "summary": [
@@ -208,14 +208,14 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n64dc67f5",
+    "id": "n207a7abe",
     "category": "IT",
-    "source": "유니콘팩토리",
-    "time": "62일 전",
-    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1ORFIxM2VUWmNQaWh2Z0xiY2xXeUlzZFZvT3l4dGwyNFdvdXlyZ0lJdGtNT2cyYjFaU0pNX0FUcnRQelZxZzBXZDZ0Qi1OSWt4V3lCUFRhWXBYZ0g1M0EzTVVmMTZTVEVIeW5ISA?oc=5",
-    "title": "수도권 쏠림 깨기 나선 중기부…창업도시 4곳서 스타트업 278곳 키운다",
+    "source": "Chosunbiz",
+    "time": "61일 전",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPUGdtbi01TkVMYXphY1VqbF9xRzB3TkVUbWtrM2NhN2d1NmpvS29NLTY5UWFtbFNrangxUlRnQUpxOW9rSEZwWVZuWU42aUdIU1FUUlhnQ0NLbjBXdlNpQ2labGU1cUt3WVZ3NEhVVmtJNjJlc3lUalByb0tqZDBucVJleGVLUFpaanFZX3RLZWvSAaQBQVVfeXFMTXFmYjM1dzZaM0d5QjZZQXJIb0VnanMzR29JcWlBQVZreFhGVVZlRmd4c2xoejc0ajVvdDhkUVo5ZWJ5bWlyVlZSUzlveG9EamJZblA5VDkwRG16QW1hRW1Qel9mTHRfdWI3MHhvbTJfd3ZoRTNIb3dVbjByNmI5T3llUUt2ZlZjVmEwQlV4M0FvMTRVT0JYaG4zNDZ6Rkw1LVVodlA?oc=5",
+    "title": "중기부, 2030년까지 ‘유니콘’ 50개 육성 나선다 - 조선비즈",
     "summary": [
-      "수도권 쏠림 깨기 나선 중기부…창업도시 4곳서 스타트업 278곳 키운다 유니콘팩토리."
+      "중기부, 2030년까지 ‘유니콘’ 50개 육성 나선다 - 조선비즈 Chosunbiz."
     ],
     "chips": [
       "#스타트업"
@@ -309,214 +309,299 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nddafbba4",
-    "category": "스포츠",
+    "id": "naefd9634",
+    "category": "경제",
     "source": "머니투데이",
     "time": "1분 전",
-    "url": "https://www.mt.co.kr/sports/2026/08/24/2026082311012851759",
-    "title": "8:0, 9:0 리드도 못 지키더니 급기야 9회 7:2마저 뒤집히네! 韓 야구, 이제 끝까지 봐야 안다",
+    "url": "https://www.mt.co.kr/entertainment/2026/08/24/2026082405280013016",
+    "title": "\"임신한 줄\" NS윤지, 다이어트 선언 일주일 만에 '-4㎏'",
     "summary": [
-      "아주 공교롭게 역전극이 속출하는 주간이었다.",
-      "8점 차, 9점 차의 넉넉한 리드가 허무하게 날아간 경기가 나온 지 며칠 지나지도 않아, 이번에는 정규이닝 마지막 수비에서 5점 차 리드가 와르르 무너져 내렸다.",
-      "명승부라는 포장지 뒤로 프로야구의 뼈아픈 경기력 난조가 다시 한번 민낯을 드러냈다."
+      "가수 겸 배우 NS윤지가 단기 다이어트 과정을 공개하며 일주일 만에 4㎏을 감량했다.",
+      "지난 23일 유튜브 채널 'ns윤지'에는 '일주일 만에 -4kg | 내가 이 짓을 또 하다니'라는 제목의 영상이 게재됐다.",
+      "영상에서 NS윤지는 체중계에 올라가 몸무게를 쟀다."
     ],
     "chips": [
-      "#KBO"
+      "#뉴스"
     ]
   },
   {
-    "id": "na524ad91",
-    "category": "사회",
-    "source": "아시아경제",
-    "time": "3분 전",
-    "url": "https://view.asiae.co.kr/article/2026082405071971694",
-    "title": "백악관, 중간선거 패배 염두에 두나…쿠슈너, 민주 원내대표 회동",
+    "id": "n7a4c17d7",
+    "category": "부동산",
+    "source": "머니투데이",
+    "time": "6분 전",
+    "url": "https://www.mt.co.kr/estate/2026/08/24/2026082110385718022",
+    "title": "\"신혼부부 살기는 애매한데\"…LH가 산 임대주택, 2680가구 '텅텅'",
     "summary": [
-      "오는 11월 미국 중간선거에서 민주당의 하원 탈환 가능성이 커지는 가운데 도널드 트럼프 대통령의 사위이자 핵심 외곽 참모인 재러드 쿠슈너가 차기 하원의장 후보로 꼽히는 하킴 제프리스 민주당 하원 원내대표와 비공개로 만난 사실이 알려졌다.",
-      "선거를 불과 두 달가량 앞둔 시점에 트럼프 최측근이 야당 하원 지도부와 접촉한 것이어서, 트럼프 진영이 민주당의 하원 장악 가능성을 염두에 두고 관계 구축에 나선 것 아니냐는."
+      "한국토지주택공사(LH)가 서울·경기에서 매입한 임대주택 가운데 2680가구가 주인을 찾지 못한 채 비어 있는 것으로 나타났다.",
+      "전체 매입임대의 약 3% 수준이다.",
+      "공급 규모 확대와 함께 실제 수요가 있는 지역과 유형을 중심으로 주택을 확보할 필요가 있다는 지적이 나온다."
     ],
     "chips": [
       "#정치"
     ]
   },
   {
-    "id": "nc4570951",
-    "category": "IT",
-    "source": "머니투데이",
-    "time": "5분 전",
-    "url": "https://www.mt.co.kr/tech/2026/08/24/2026082315034829653",
-    "title": "젠슨 황, 리벨리온 박성현 만났다…\"인수 논의까지\"",
-    "summary": [
-      "젠슨 황 엔비디아 최고경영자(CEO)가 국내 AI(인공지능) 반도체 기업 리벨리온의 박성현 CEO와 직접 만난 것으로 확인됐다.",
-      "외신에서 기술협력과 투자, 인수 가능성까지 논의됐다는 보도가 나온 가운데 리벨리온은 회동 사실을 인정했다.",
-      "리벨리온 관계자는 23일 머니투데이에 \"젠슨 황 CEO와 박성현 CEO가 만났다\"고 밝혔다."
-    ],
-    "chips": [
-      "#AI",
-      "#반도체",
-      "#엔비디아"
-    ]
-  },
-  {
-    "id": "n4c6cbc65",
-    "category": "사회",
-    "source": "뉴시스",
+    "id": "ndc7d2abf",
+    "category": "경제",
+    "source": "연합뉴스",
     "time": "6분 전",
-    "url": "https://www.newsis.com/view/NISX20260824_0003759126",
-    "title": "캣츠아이, 美 '빌보드 200' 1위…하이브 K-팝 방법론 통했다(종합)",
+    "url": "https://www.yna.co.kr/view/AKR20260821169800008",
+    "title": "[코스피·코스닥 전 거래일(21일) 주요공시]",
     "summary": [
-      "[서울=뉴시스]이재훈 기자 = 하이브(HYBE)와 게펜 레코드의 글로벌 걸그룹 '캣츠아이(KATSEYE)'가 미국 빌보드 메인 앨범 차트인 '빌보드 200' 정상을 밟았다.",
-      "23일(현지시간) 빌보드 차트 예고 기사에 따르면, 캣츠아이가 지난 14일 공개한 세 번째 EP '와일드(WILD)'는 29일 자 '빌보드 200' 차트 1위에 올랐다.",
-      "루미네이트 집계 기준 '와일드'는 발매 첫 주 미국 내에서 17만 장에 해당하는 앨범 유닛을 획득했다."
+      "[코스피·코스닥 전 거래일(21일) 주요공시]."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n1b211746",
+    "id": "n54415100",
     "category": "사회",
-    "source": "조선일보",
-    "time": "7분 전",
-    "url": "https://www.chosun.com/economy/startup_story/2026/04/20/BZVKOK24UJDN5IUVQG2S2MPOEM/",
-    "title": "5만대 판매 넘었다, 이미숙·선우용여가 밤새 숙면을 위해 자기 전 쓰는 것",
-    "summary": [
-      "5만대 판매 넘었다, 이미숙·선우용여가 밤새 숙면을 위해 자기 전 쓰는 것."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n8571af49",
-    "category": "사회",
-    "source": "뉴시스",
+    "source": "연합뉴스(경제)",
     "time": "8분 전",
-    "url": "https://www.newsis.com/view/NISX20260821_0003758226",
-    "title": "\"뜨는 산업은 달라\"…청년 채용 늘린 삼성바이오",
+    "url": "https://www.yna.co.kr/view/AKR20260823034600530",
+    "title": "생계급여 노인도 노인일자리 참여?…\"허용시 별도 물량 검토해야\"",
     "summary": [
-      "[서울=뉴시스]황재희 기자 = 국내 주요 기업들이 신규 채용을 줄이면서 청년층 고용시장의 한파가 이어지는 가운데, 삼성바이오로직스가 청년층 채용을 확대하며 눈길을 끌고 있다.",
-      "24일 기업분석연구소 리더스인덱스에 따르면, 113개 대기업의 2025년 신규 채용 인원은 9만2680명으로, 2023년 10만9456명 대비 15.3% 줄었다.",
-      "30세 이하 청년층 비중 역시 2023년 56.4%에서 지난해 51.1%로 하락했다."
+      "(서울=연합뉴스) 김영신 기자 = 정부가 운영하는 노인 일자리 사업은 주로 65세 이상 노인을 대상으로 하지만 생계급여 수급자는 참여 대상에서 ..."
     ],
     "chips": [
-      "#채용",
       "#고용"
     ]
   },
   {
-    "id": "ne086832f",
-    "category": "사회",
-    "source": "조선일보",
+    "id": "n5dab3ad9",
+    "category": "경제",
+    "source": "연합뉴스(경제)",
     "time": "8분 전",
-    "url": "https://www.chosun.com/national/transport-environment/2026/08/24/OKBLT2V2QBCGTAAVZGD2IWYZYU/",
-    "title": "[단독] KTX가 만들어낸 전기… 3만가구 1년 쓸 전력량 버려진다",
+    "url": "https://www.yna.co.kr/view/AKR20260818167500030",
+    "title": "관광공사, 팬데믹 때도 해외지사 예산 증액…작년 200억원 넘겨",
     "summary": [
-      "[단독] KTX가 만들어낸 전기… 3만가구 1년 쓸 전력량 버려진다."
+      "(서울=연합뉴스) 이상서 기자 = 한국관광공사의 해외지사 30곳에 투입된 연간 운영비가 코로나19 시기에도 매년 불어나며 지난해 사실상 처음으로..."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n226d9741",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "8분 전",
-    "url": "https://www.chosun.com/politics/diplomacy-defense/2026/08/24/RZBSKGKL2FCEZF6ML2IPV2GO3A/",
-    "title": "[단독] 우크라, 한국에 ‘최신형 패트리엇’ 콕 집어 지원 요구… 정부는 난색",
-    "summary": [
-      "[단독] 우크라, 한국에 ‘최신형 패트리엇’ 콕 집어 지원 요구… 정부는 난색."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n70e239be",
+    "id": "n7f6d873f",
     "category": "스포츠",
     "source": "머니투데이",
-    "time": "9분 전",
-    "url": "https://www.mt.co.kr/sports/2026/08/24/2026082400330645654",
-    "title": "\"득점왕? 프리조 하라 해요\" 승격에 美친 박재용, 머릿속엔 온통 승리뿐 \"20승 고지 오르겠다\" [목동 현장]",
+    "time": "10분 전",
+    "url": "https://www.mt.co.kr/sports/2026/08/24/2026082315345315106",
+    "title": "韓 축구 '설레는 투톱' 뜬다, 포지션 바꾼 손흥민·이강인 최전방 호흡 '기대감'",
     "summary": [
-      "박재용(26)에게 가장 중요한 건 득점왕 타이틀이 아닌 서울이랜드 승격이다.",
-      "서울이랜드는 지난 23일 목동종합운동장에서 열린 파주 프런티어와의 '하나은행 K리그2 2026' 23라운드 홈 경기에서 1-1로 비겼다.",
-      "월드컵 휴식기 이후 7경기 무패(4승3무) 행진을 달린 서울이랜드는 승점 41(12승5무5패)로 3위에서 2위로 한 계단 상승했다."
+      "한국축구를 대표하는 두 에이스 손흥민(34·LAFC)과 이강인(25·아틀레티코 마드리드)이 축구 국가대표팀에서 '투톱'으로 호흡을 맞출 가능성이 열렸다.",
+      "그동안 대표팀에선 직접적인 파트너와는 거리가 있었지만, 최근 소속팀에서 잇따라 최전방에 자리하기 시작하면서 활용도가 더 커진 덕분이다.",
+      "주로 왼쪽 측면 공격수로서 잉글랜드 프리미어리그(EPL) 최고의 공격수로 활약했던 손흥민은 어느덧 최전방 공격수 역할이 더 익숙해진 상태다."
+    ],
+    "chips": [
+      "#손흥민",
+      "#EPL"
+    ]
+  },
+  {
+    "id": "n4f72bdc8",
+    "category": "스포츠",
+    "source": "머니투데이",
+    "time": "10분 전",
+    "url": "https://www.mt.co.kr/sports/2026/08/24/2026082402121565852",
+    "title": "'확 달라졌다' 이강인, 해결사 본능 폭발 '무려 슈팅 6회+평점 7.3' 호평 \"매우 저돌적... 아틀레티코 핵심\" 극찬까지",
+    "summary": [
+      "이강인(25·아틀레티코 마드리드)이 유럽 무대 개인 최다 슈팅을 몰아치며 저돌적인 공격력을 선보였다.",
+      "이강인은 23일 오전 0시(한국시간) 스페인 마드리드의 리야드 에어 메트로폴리타노에서 열린 비야레알과 2026~2027 스페인 라리가 2라운드 홈경기에 선발 출전해 67분 동안 그라운드를 누볐다.",
+      "아틀레티코는 퇴장 악재 속에 2-2 무승부를 거뒀다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "nc90fd026",
+    "id": "n67240ab1",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "10분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260823027300530",
+    "title": "고3 감소·지역의사제에 최상위 자연계 수시합격선 낮아지나",
+    "summary": [
+      "(서울=연합뉴스) 오보람 기자 = 2027학년도 대입 수시전형 원서 접수가 2주 앞으로 다가온 가운데 최상위권 자연계 학과의 합격선이 전년보다 ..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n68dd438a",
     "category": "사회",
     "source": "뉴시스",
-    "time": "9분 전",
-    "url": "https://www.newsis.com/view/NISX20260823_0003759069",
-    "title": "인천, 낮 최고기온 33도…처서 지나도 무더위 지속",
+    "time": "10분 전",
+    "url": "https://www.newsis.com/view/NISX20260823_0003758998",
+    "title": "시원섭섭, 떠나는 여름 풍경 ②서천 장항송림자연휴양림",
     "summary": [
-      "[인천=뉴시스] 전예준 기자 = 24일 인천은 낮 최고기온이 33도까지 올라 덥겠다.",
-      "하늘은 북태평양 고기압의 가장자리에 들어 가끔 구름 많겠다.",
-      "수도권기상청은 \"아침 최저기온은 26도, 낮 최고기온은 31도 내외의 분포를 보이겠다\"며 \"당분간 일 최고 체감온도가 33도 안팎으로 무더운 곳이 많겠다\"고 예보했다."
+      "여름과 가을의 경계에서는 계절의 분위기도 조금씩 변해 간다.",
+      "짙었던 녹음 사이로 새로운 빛깔이 스며든다.",
+      "들, 산, 물은 한여름과는 달라진 표정으로 다음 계절을 예고한다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n810ada5d",
+    "id": "n538175aa",
     "category": "사회",
     "source": "뉴시스",
-    "time": "9분 전",
-    "url": "https://www.newsis.com/view/NISX20260823_0003759007",
-    "title": "제주 체감 35도 찜통더위 지속…오후엔 중산간 소나기",
+    "time": "10분 전",
+    "url": "https://www.newsis.com/view/NISX20260821_0003758000",
+    "title": "국가자격시험 '스마트안경' 두 달 새 5건…법적 기준 만든다",
     "summary": [
-      "[제주=뉴시스] 김수환 기자 = 월요일인 24일 제주지역은 가끔 구름 많은 가운데 중산간 이상 지역을 중심으로 소나기가 내리는 곳이 있겠다.",
-      "제주지방기상청은 \"이날 제주도는 북태평양고기압의 가장자리에 들겠다\"고 예보했다.",
-      "아침 최저기온은 27도 안팎(평년 23~24도), 낮 최고기온은 31~32도(평년 29~30도)로 평년보다 높겠다."
+      "[서울=뉴시스]박정영 기자 = 국가기술자격시험에서 스마트안경을 사용하다 적발된 사례가 두 달 새 5건이나 발생한 것으로 나타났다.",
+      "노동부는 스마트안경처럼 신기술 기기를 활용한 부정행위에 대응하기 위해 제도 손질에 나섰다.",
+      "24일 국회 기후에너지환경노동위원회 소속 김소희 국민의힘 의원실이 한국산업인력공단으로부터 제출받은 자료에 따르면, 노동부는 스마트안경 등 신기술 기반 기기의 소지·사용이 부정행위로 처리될 수 있도록 '국가기술자격법' 시행규칙."
+    ],
+    "chips": [
+      "#정치",
+      "#환경"
+    ]
+  },
+  {
+    "id": "nadf70626",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "10분 전",
+    "url": "https://www.newsis.com/view/NISX20260821_0003758030",
+    "title": "꿀잠의 비밀…\"3.5억짜리 마네킹이 알아냅니다\"",
+    "summary": [
+      "[이천=뉴시스]송연주 기자 = \"3억5000만원 상당의 매트리스 연구전용 마네킹에 부착된 33개 센서들이 신체 부위별 피부온도를 세밀하게 측정해 최적의 수면 환경을 찾습니다.\" 지난 20일 한국 시몬스의 심장이라 불리는 '시몬스 팩토리움'(이천시 모가면)에서 시몬스 관계자는 인공기후실을 소개하며 이같이 말했다.",
+      "시몬스 팩토리움은 모든 시몬스 매트리스가 100% 자체 생산되는 곳이다.",
+      "수면은 최근 웰니스 트렌드의 한 축이다."
+    ],
+    "chips": [
+      "#환경"
+    ]
+  },
+  {
+    "id": "nbe35f6e8",
+    "category": "경제",
+    "source": "연합뉴스(경제)",
+    "time": "11분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260822047900030",
+    "title": "시몬스 \"'20만회 테스트' 견딘 특수강 매트리스 개발\"",
+    "summary": [
+      "(이천=연합뉴스) 이상서 기자 = 시몬스가 침대업계 최초로 포스코 및 고려제강[002240] 등 철강·소재 기업과 업무협약(MOU)을 맺고 스프..."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "nab61c0fa",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "10분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260823030100001",
-    "title": "與임오경 \"국민체육센터 지원사업 편차 커…관리체계 개선해야\"",
+    "id": "n4a3876cd",
+    "category": "경제",
+    "source": "연합뉴스(경제)",
+    "time": "11분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260823036300003",
+    "title": "대한상의 제3회 사회적가치 페스타 참관객 사전등록",
     "summary": [
-      "(서울=연합뉴스) 박재하 기자 = 국비가 투입되는 국민체육센터 건립지원 사업의 집행 실적이 지방자치단체별로 큰 차이를 보여 문화체육관광부의 사업..."
+      "(서울=연합뉴스) 조성흠 기자 = 대한상공회의소는 다음 달 21~22일 서울 코엑스에서 개최하는 사회적 가치 축제 '제3회 대한민국 사회적가치 ..."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n187d8e45",
+    "id": "n93fe1a28",
     "category": "사회",
-    "source": "연합뉴스",
-    "time": "10분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260823048000001",
-    "title": "국힘, 최고위서 張 추진 '당협위원장 당원 직선제' 의결 시도",
+    "source": "조선일보",
+    "time": "11분 전",
+    "url": "https://www.chosun.com/economy/2026/08/24/WVE4LEZH6NGQ7MYZXT7BTPZJ6U/",
+    "title": "항공엔진용 철강이 왜 침대에?.. 시몬스, 철강회사 포스코와 기술 협력 나서",
     "summary": [
-      "(서울=연합뉴스) 노선웅 기자 = 국민의힘은 24일 최고위원회의를 열고 '당협위원장 선출 방식 변경의 건'에 대한 의결을 시도한다."
+      "항공엔진용 철강이 왜 침대에?.. 시몬스, 철강회사 포스코와 기술 협력 나서."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n571e4207",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "10분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260823041500001",
-    "title": "김민석, 오늘 장동혁 등 野 지도부와 상견례",
+    "id": "n1afa5cb4",
+    "category": "IT",
+    "source": "조선일보",
+    "time": "11분 전",
+    "url": "https://www.chosun.com/economy/tech_it/2026/08/24/JTGKMZW5XBHHPL3EPLD7UY4TTE/",
+    "title": "‘AI 심장부’서 터진 반발…실리콘밸리 데이터센터 첫 공청회에서 “절대 반대”",
     "summary": [
-      "(서울=연합뉴스) 정연솔 기자 = 더불어민주당 김민석 대표는 24일 국민의힘 장동혁 대표를 비롯한 야당 지도부와 취임 후 첫 상견례를 갖는다."
+      "‘AI 심장부’서 터진 반발…실리콘밸리 데이터센터 첫 공청회에서 “절대 반대”."
+    ],
+    "chips": [
+      "#AI"
+    ]
+  },
+  {
+    "id": "nc5ba9c2d",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "11분 전",
+    "url": "https://www.chosun.com/culture-life/culture_general/2026/08/24/VA52XRANSRGEFCTSNYJMTUJPVI/",
+    "title": "[그 영화 어때] 불경한 섬, 위험한 축제에 초대합니다, ‘위커 맨: 파이널 컷’",
+    "summary": [
+      "[그 영화 어때] 불경한 섬, 위험한 축제에 초대합니다, ‘위커 맨: 파이널 컷’."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "ne26a53c0",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "11분 전",
+    "url": "https://www.chosun.com/video_photo/2026/08/24/DL5645NOKBGZXHT364FE4P4CH4/",
+    "title": "[더 한장] 붉게 물든 태안의 소나무, 안면송도 위협",
+    "summary": [
+      "[더 한장] 붉게 물든 태안의 소나무, 안면송도 위협."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nb2538b9f",
+    "category": "IT",
+    "source": "조선비즈IT",
+    "time": "11분 전",
+    "url": "https://biz.chosun.com/it-science/ict/2026/08/24/3XNSYRLAQNCJZBYEMWGXOZR23U/",
+    "title": "삼성전자, D램 증산 속도 ‘기대 이하’… “공정전환·수율 우선 전략”",
+    "summary": [
+      "삼성전자, D램 증산 속도 ‘기대 이하’… “공정전환·수율 우선 전략”."
+    ],
+    "chips": [
+      "#삼성전자"
+    ]
+  },
+  {
+    "id": "n3ddaefa7",
+    "category": "스포츠",
+    "source": "뉴시스",
+    "time": "11분 전",
+    "url": "https://www.newsis.com/view/NISX20260823_0003758922",
+    "title": "한국 첫 메달 안긴다…근대5종 전웅태·성승민, 금빛 질주 준비[AG 스타]",
+    "summary": [
+      "[서울=뉴시스] 하근수 기자 = 근대5종 간판 전웅태(강원도체육회)와 성승민(한국체대)이 한국 선수단에 마수걸이 금메달을 선사하겠다는 각오로 2026 아이치·나고야 아시안게임에 뛰어든다.",
+      "2026 아이치·나고야 아시안게임 근대5종 종목은 대회 개막 전인 9월16일부터 개회식 다음 날인 9월20일까지 닷새에 걸쳐 일본 아이치현 안조 스포츠 공원에서 펼쳐진다.",
+      "근대5종은 선수 한 명이 펜싱, 수영, 사격, 육상, 장애물 등 5가지를 겨루는 종목이다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "ne92bfad1",
+    "category": "경제",
+    "source": "ZDNet Korea",
+    "time": "1시간 전",
+    "url": "https://zdnet.co.kr/view/?no=20260823125914",
+    "title": "한국에만 보상 2배 주자...틱톡 1분 이상 콘텐츠 90.7%↑",
+    "summary": [
+      "[지디넷코리아][싱가포르=류승현 기자] 틱톡이 5000만 달러(약 694억원) 이상의 투자를 바탕으로 한국 크리에이터 생태계 확대에 나섰다.",
+      "보상 확대로 1분 이상 한국어 콘텐츠 게시량은 넉 달 만에 90.7% 늘었으며, 연내 지원 분야를 뷰티·푸드 등으로 넓혀 국내 크리에이터의 해외 진출까지 돕는다는 계획이다.고기원 틱톡코리아 스포츠·이머징 버티컬 크리에이터 마케팅 담당은 지난 11일 싱가포르에 위치한 틱톡 아시아태평양 본사에서 “한국 크리에."
     ],
     "chips": [
       "#뉴스"
@@ -526,7 +611,7 @@ window.NEWS_DB = [
     "id": "nbbba21f9",
     "category": "IT",
     "source": "조선비즈IT",
-    "time": "10분 전",
+    "time": "1시간 전",
     "url": "https://biz.chosun.com/it-science/ict/2026/08/24/X62WKTCU3JHILMJ4OLRWS2K7PI/",
     "title": "韓 크리에이터 육성하는 틱톡 “1분 이상 한국어 콘텐츠 91% 증가… 질적 성장 의미”",
     "summary": [
@@ -534,101 +619,6 @@ window.NEWS_DB = [
     ],
     "chips": [
       "#뉴스"
-    ]
-  },
-  {
-    "id": "ne187c0a4",
-    "category": "IT",
-    "source": "조선비즈IT",
-    "time": "10분 전",
-    "url": "https://biz.chosun.com/it-science/ict/2026/08/24/CAWW363VZRFLNO5SYXTJOF4WMQ/",
-    "title": "[르포] “입에 담배 물자 ‘유해성 99%’ 경고”… 틱톡 본사 ‘투명성 책임센터’ 가보니",
-    "summary": [
-      "[르포] “입에 담배 물자 ‘유해성 99%’ 경고”… 틱톡 본사 ‘투명성 책임센터’ 가보니."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n01f146e3",
-    "category": "경제",
-    "source": "머니투데이",
-    "time": "10분 전",
-    "url": "https://www.mt.co.kr/entertainment/2026/08/24/2026082321351934874",
-    "title": "딴 남자 생긴 아내 \"남편 흠잡아 이혼할 것\"…증거 위해 미행",
-    "summary": [
-      "불륜 상대가 생기자 이혼을 결심하고 배우자의 흠을 잡기 위해 미행 의뢰를 하는 이들이 있다는 탐정들의 이야기가 전해졌다.",
-      "지난 22일 방송된 MBN 예능 프로그램 '속풀이쇼 동치미'에는 '나는 네가 이번 여름에 한 일을 알고 있다'라는 주제로 이야기를 나눴다.",
-      "이날 방송에 출연한 탐정들은 이혼을 위해 배우자 미행을 부탁하는 이들이 있었다고 전했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n06a61ad5",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "10분 전",
-    "url": "https://www.chosun.com/national/2026/08/24/NB5AF6MZ2JCP5LHXP3D2KIKVRE/",
-    "title": "[단독] “농협 이사로 뽑아주소”… 논밭·목욕탕서 5만원권 돈뭉치 건네",
-    "summary": [
-      "[단독] “농협 이사로 뽑아주소”… 논밭·목욕탕서 5만원권 돈뭉치 건네."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n94a7043c",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "16분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260823053600005",
-    "title": "[1보] 캣츠아이, '와일드'로 미국 빌보드 앨범 차트 첫 1위",
-    "summary": [
-      "(서울=연합뉴스) 이태수 기자 = 하이브의 한미 합작 걸그룹 캣츠아이가 세 번째 미니앨범 '와일드'(WILD)로 미국 빌보드 메인 앨범 차트 '..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n1bbcc420",
-    "category": "IT",
-    "source": "아시아경제",
-    "time": "25분 전",
-    "url": "https://view.asiae.co.kr/article/2026082404442467534",
-    "title": "엔비디아, AI 모델 개발로 영토 확장…서버 가격 15% 인상 예고",
-    "summary": [
-      "인공지능(AI) 반도체 시장을 장악한 엔비디아가 AI 모델 개발까지 사업 영역을 넓히고 있다.",
-      "중국 딥시크와 키미 등 오픈웨이트 AI 모델의 부상에 맞서 자체 모델 경쟁력을 끌어올리는 한편, 메모리 반도체 가격 급등으로 AI 서버 가격은 15% 이상 오를 전망이다.",
-      "23일(현지시간) 월스트리트저널(WSJ)에 따르면 엔비디아는 AI 스타트업 풀사이드와 체결한 60억달러 규모의 기술 라이선스 계약을 활용해 세계 최고 수준의 오픈웨이."
-    ],
-    "chips": [
-      "#AI",
-      "#반도체",
-      "#엔비디아",
-      "#스타트업"
-    ]
-  },
-  {
-    "id": "nda4ca8c3",
-    "category": "부동산",
-    "source": "동아일보",
-    "time": "40분 전",
-    "url": "https://www.donga.com/news/Politics/article/all/20260824/134528215/2",
-    "title": "與 “1주택 종부세, 비거주-거주 차등 말자”",
-    "summary": [
-      "더불어민주당이 23일 정부에 실거주와 비거주 1주택자에 대한 종합부동산세(종부세) 차등화와 장기보유특별공제(장특공제) 폐지 재검토를 요구했다.",
-      "부동산 정책에 대한 반발로 이재명 대통령과 당의 지지율 하락세가 이어지는 가운데 민주당 새 지도부 출범을 계기로 비거주 1주택자의 보유세와 양도세를 동시에 올리는 부동산 세제 개편안 수정에 착수한 것이다.",
-      "민주당 김민석 대표는 이날 서울 삼청동 총리공관에서 열린 고위당정협의회 모두발언에서 “비거주 1주택."
-    ],
-    "chips": [
-      "#부동산",
-      "#정책",
-      "#정치"
     ]
   }
 ];
@@ -638,20 +628,20 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2850건",
-    "trend": "+335%"
+    "mentions": "2720건",
+    "trend": "+315%"
   },
   {
     "rank": 2,
     "tag": "AI",
-    "mentions": "1810건",
-    "trend": "+175%"
+    "mentions": "1680건",
+    "trend": "+155%"
   },
   {
     "rank": 3,
-    "tag": "엔비디아",
-    "mentions": "1550건",
-    "trend": "+135%"
+    "tag": "고용",
+    "mentions": "1420건",
+    "trend": "+115%"
   }
 ];
 // ====AUTO-GENERATED-END====
