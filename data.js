@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-08-23 12:17:42
+// 마지막 업데이트: 2026-08-23 13:24:57
 window.NEWS_DB = [
   {
     "id": "n5f8e3e47",
     "category": "IT",
     "source": "조선일보",
-    "time": "7시간 전",
+    "time": "8시간 전",
     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQSkFLRlo2eVlqSXE1emRxVUpnaXZrNE1PT05JNUVvQlFBd2h0MVZSZEtnV3FiOFdpYjc5VFBzX1Vvb1BBVURIUGpmVXlHOGJydTItYnV3ZHVlWEh5SEdIQXVJMHRCbVlGQ0JrXzZ0LTlYV0NuNnphZ2Z1REVGRktKWmNNNA?oc=5",
     "title": "메모리 품귀에… 美 엔비디아도 항복, AI 서버값 15% 올린다",
     "summary": [
@@ -20,7 +20,7 @@ window.NEWS_DB = [
     "id": "n4cd16140",
     "category": "IT",
     "source": "전자신문",
-    "time": "9시간 전",
+    "time": "10시간 전",
     "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBTUDFpdjF5ek5WVVV5dGxjRWVKMm1zeG9PWGw0ZGRwRG1XcS1QSklJemw0LTRyYWZfdnB0NHp5eU9sMVFucnVBN0ctc0ZCUQ?oc=5",
     "title": "엔비디아, 고객사에 AI 서버 가격 15% 인상 예고",
     "summary": [
@@ -35,7 +35,7 @@ window.NEWS_DB = [
     "id": "n10d70d81",
     "category": "IT",
     "source": "경향신문",
-    "time": "9시간 전",
+    "time": "11시간 전",
     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1RbmpaY1ZpZzR0MUIwMlRlZEpHd080TmxTN2NxdFhxNktoSUpmbzFQeDd0ZDNjSENhN3Noc2JHU2xXV2IwdVMxblNtOHR0anh3bExYUExXWGRoZ9IBX0FVX3lxTE5VSlNTNTkxSWZRVWJtVUo3YXJNOUF0MFU1bGFXblJ1c2c4MkJlTlNfUnIxTlNOdzN0LTdXVGdxRlYyLVF0ZkV0UEFWWlJ0WnpBdzlUVGFMbV9hTDZXcTA0?oc=5",
     "title": "메모리값 폭등에…엔비디아도 AI 서버 가격 15% 이상 올린다",
     "summary": [
@@ -50,7 +50,7 @@ window.NEWS_DB = [
     "id": "n82852efd",
     "category": "IT",
     "source": "IT조선",
-    "time": "15시간 전",
+    "time": "16시간 전",
     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9EMmxiS0xwVXY2cFVsVlFXOXVIRExMcGRhRXhuUUpfbXVnZHJDTTFxX1IwYkJHV3BMSjRLNmhueUViUzFQcE9adlVrNG5GSUZQZWQyRGJaTUhHMmg2aVpISFN4a2Z5Y3dIWURaV2FpVmjSAXRBVV95cUxPMG9TemRUQmdxVUxBblAwdzEzanAzMWRGU0hmVXlUVHR0VXVsWVdjSFU0R3VSbGRzOHF4Rnd4cktXSk5VMmY5cEJZdjI5elZiOXpuNzVYSFJUNzhyYzNrcEU5aTVhVWJfVTY5WVJtUmI1WVlHcg?oc=5",
     "title": "‘HBM 묶어 파는’ 삼성 파운드리, TSMC 틈새 뚫고 흑자 시동",
     "summary": [
@@ -208,14 +208,14 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n64dc67f5",
+    "id": "n207a7abe",
     "category": "IT",
-    "source": "유니콘팩토리",
-    "time": "62일 전",
-    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1ORFIxM2VUWmNQaWh2Z0xiY2xXeUlzZFZvT3l4dGwyNFdvdXlyZ0lJdGtNT2cyYjFaU0pNX0FUcnRQelZxZzBXZDZ0Qi1OSWt4V3lCUFRhWXBYZ0g1M0EzTVVmMTZTVEVIeW5ISA?oc=5",
-    "title": "수도권 쏠림 깨기 나선 중기부…창업도시 4곳서 스타트업 278곳 키운다",
+    "source": "Chosunbiz",
+    "time": "61일 전",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPUGdtbi01TkVMYXphY1VqbF9xRzB3TkVUbWtrM2NhN2d1NmpvS29NLTY5UWFtbFNrangxUlRnQUpxOW9rSEZwWVZuWU42aUdIU1FUUlhnQ0NLbjBXdlNpQ2labGU1cUt3WVZ3NEhVVmtJNjJlc3lUalByb0tqZDBucVJleGVLUFpaanFZX3RLZWvSAaQBQVVfeXFMTXFmYjM1dzZaM0d5QjZZQXJIb0VnanMzR29JcWlBQVZreFhGVVZlRmd4c2xoejc0ajVvdDhkUVo5ZWJ5bWlyVlZSUzlveG9EamJZblA5VDkwRG16QW1hRW1Qel9mTHRfdWI3MHhvbTJfd3ZoRTNIb3dVbjByNmI5T3llUUt2ZlZjVmEwQlV4M0FvMTRVT0JYaG4zNDZ6Rkw1LVVodlA?oc=5",
+    "title": "중기부, 2030년까지 ‘유니콘’ 50개 육성 나선다 - 조선비즈",
     "summary": [
-      "수도권 쏠림 깨기 나선 중기부…창업도시 4곳서 스타트업 278곳 키운다 유니콘팩토리."
+      "중기부, 2030년까지 ‘유니콘’ 50개 육성 나선다 - 조선비즈 Chosunbiz."
     ],
     "chips": [
       "#스타트업"
@@ -309,312 +309,323 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n9a477824",
-    "category": "스포츠",
-    "source": "테크M",
-    "time": "방금 전",
-    "url": "https://www.techm.kr/news/articleView.html?idxno=154543",
-    "title": "[넥슨X오버워치] 넥슨 손잡은 블리자드, 오버워치 e스포츠 키운다…\"풀뿌리 리그부터 확대\"",
-    "summary": [
-      "넥슨과 블리자드 엔터테인먼트의 '오버워치' 협력이 e스포츠로 확대된다.",
-      "블리자드는 한국을 오버워치 e스포츠의 핵심 시장으로 보고 넥슨과 함께 아마추어 이용자가 참여하는 풀뿌리 리그를 활성화한다는 계획이다.",
-      "국내 e스포츠 운영 경험이 풍부한 넥슨과 손잡고 선수와 팬층을 다시 넓히겠다는 구상이다.23일 부산 벡스코에서 열린 '오버워치 데이'에서는 오버워치 e스포츠의 과거와 미래가 주요 화두로 떠올랐다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n87282827",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "5분 전",
-    "url": "https://www.donga.com/news/Inter/article/all/20260823/134527686/1",
-    "title": "“새싹채소 먹고 55명 병원행”…美 15개주서 대장균·살모넬라균 발병",
-    "summary": [
-      "미국에서 알팔파(자주개자리) 새싹을 먹은 뒤 대장균과 살모넬라균에 감염된 환자가 잇따라 발생해 당국이 소비 자제를 권고했다.21일(현지시간) 뉴욕타임스(NYT)에 따르면, 연방 공중보건 당국은 미네소타에 본사를 둔 업체의 알팔파 새싹을 섭취하거나 제공하지 말라고 경고했다.",
-      "미국 전역에서 수십 명이 식중독에 걸린 데 따른 조치였다.NYT에 따르면 미국 식품의약국(FDA)과 질병통제예방센터(CDC)는 이번 집단 감염 사태를 조사 중이다."
-    ],
-    "chips": [
-      "#의료"
-    ]
-  },
-  {
-    "id": "n35229d3c",
-    "category": "부동산",
-    "source": "동아일보",
-    "time": "6분 전",
-    "url": "https://www.donga.com/news/Society/article/all/20260823/134527681/1",
-    "title": "‘여성 혼자 사네?’ 침입 절도 이튿날 또 강도짓 50대 입건",
-    "summary": [
-      "침입 절도 행각을 벌이다 여성 홀로 사는 집이라는 사실을 알고선 또다시 강도짓까지 벌인 50대가 경찰에 붙잡혔다.전남 목포경찰서는 23일 특수강도 등 혐의를 받는 50대 남성 A씨를 붙잡아 조사하고 있다.A씨는 지난 18일 전남광주 목포시 한 주택에 침입해 40만원 상당 금품을 훔치고, 이튿날 같은 집에서 홀로 사는 여성 집주인을 흉기로 위협해 금품을 요구하고 달아난 혐의를 받고 있다.A씨는 앞선 침입 절도 과정에서 해당 주택이 여성 홀로 사는."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n4ebbf747",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "6분 전",
-    "url": "https://www.chosun.com/international/international_general/2026/08/23/5AZJKXKCR5ASRMWOF4A6PZ5J5I/",
-    "title": "유럽·북중미카리브, 통합 네이션스리그 추진… FIFA에 도전장",
-    "summary": [
-      "유럽·북중미카리브, 통합 네이션스리그 추진… FIFA에 도전장."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n8692201e",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "8분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260823048500001",
-    "title": "한동훈 \"제주 실종 CCTV영상 전량삭제…경찰 두달 뒤 열람 요청\"",
-    "summary": [
-      "(서울=연합뉴스) 노선웅 기자 = 제주에서 실종된 장미란(37)씨 사건과 관련해 실종 추정 지점 인근의 폐쇄회로(CC)TV 118대의 영상이 6..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nc8aecfe9",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "8분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260823049700054",
-    "title": "광주 송정동서 버스·승용차 충돌…인명피해 없어",
-    "summary": [
-      "(전남광주=연합뉴스) 민현기 기자 = 23일 오후 6시 7분께 전남광주 광산구 송정동 한 교차로에서 주행 중이던 승용차가 시내버스 측면을 들이받..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n30fa73fd",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "10분 전",
-    "url": "https://www.chosun.com/sports/baseball/2026/08/23/MNRDSNJYGZSTQZLCMI3DSYZXG4/",
-    "title": "볼볼볼볼 → 홈런 2방에 8득점! 오늘도 8-0으로 시작…한화 박준영, LG 문보경+송찬의 대포에 2회도 못채웠다 [대전리포트]",
-    "summary": [
-      "[대전=스포츠조선 김영록 기자] 이틀전 경기의 재현이 될 것인가.",
-      "아니면 '두번 실수는 없다'는 결말일까.",
-      "LG 트윈스가 또한번 경기 초반부터 불방망이를 가동했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n3a7eb8ee",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "10분 전",
-    "url": "https://www.chosun.com/entertainments/broadcast/2026/08/23/HA3WENTBG5RTQYJUMRTGGYLCMI/",
-    "title": "윤가이♥가 찍어줬나…장기하, 열애 인정 후 영화관 나들이 포착",
-    "summary": [
-      "[OSEN=김수형 기자] 가수 장기하가 영화관을 찾아 여유로운 시간을 보냈다.",
-      "최근 배우 윤가이와의 열애를 인정한 터라 그의 소소한 일상에도 관심이 쏠리고 있다.장기하는 23일 자신의 SNS를 통해 영화관을 방문한 모습을 공개했다.",
-      "편안한 반팔 티셔츠 차림의 그는 한 손에 팝콘을 든 채 극장 내부를 둘러보는가 하면, 대형 스크린에 나오는 영상을 유심히 바라."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n02099964",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "14분 전",
-    "url": "https://www.newsis.com/view/NISX20260823_0003759087",
-    "title": "충주서 비탈면 아래 SUV 추락…60대 여성 부상",
-    "summary": [
-      "[충주=뉴시스] 이도근 기자 = 충북 충주시 한 도로에서 차량 전복 사고가 발생했다.",
-      "23일 충주소방서에 따르면 이날 오후 12시38분께 충주시 산척면 명서리 한 도로에서 A(여·60)씨가 몰던 검은색 소형 SUV 차량이 도로 옆 비탈면 3m 아래로 추락하면서 전복됐다.",
-      "신고를 받고 출동한 소방당국은 차 안에 있던 A씨를 구조했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n2a3d4158",
+    "id": "n4c88d9fe",
     "category": "경제",
-    "source": "한국경제",
-    "time": "14분 전",
-    "url": "https://www.hankyung.com/article/202608237288i",
-    "title": "[단독]\"1년간 수수료 0원\"…미래에셋, 디지털X에 승부수",
+    "source": "머니투데이",
+    "time": "방금 전",
+    "url": "https://www.mt.co.kr/entertainment/2026/08/23/2026082321444728910",
+    "title": "불륜남녀 똑똑해졌다? \"매일 다른 차…계속 우회전, 빙빙 돌기도\"",
     "summary": [
-      "[단독]\"1년간 수수료 0원\"…미래에셋, 디지털X에 승부수."
+      "탐정 미행을 피하려는 불륜 남녀의 꼼수가 전해져 놀라움을 안겼다.",
+      "지난 22일 방송된 MBN 예능 프로그램 '속풀이쇼 동치미'에는 '나는 네가 이번 여름에 한 일을 알고 있다'라는 주제로 이야기를 나눴다.",
+      "이날 방송에 출연한 탐정들은 최근 달라진 불륜 커플의 모습을 전했다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n37cc8a5a",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "16분 전",
-    "url": "https://www.newsis.com/view/NISX20260823_0003758871",
-    "title": "\"태국 길거리 음식 어디 있지?\"… 한눈에 찾는 전용 앱 나왔다",
-    "summary": [
-      "[서울=뉴시스]허준희 인턴 기자 = 태국 정부가 길거리 음식 노점을 한눈에 찾아볼 수 있는 전용 앱을 출시하며 전통음식 문화 홍보와 관광산업 활성화에 나섰다.",
-      "23일(현지 시간) 홍콩 사우스차이나모닝포스트(SCMP)에 따르면, 태국 중소기업진흥국과 수안두싯대학교는 지난 7월 말 '태국 스트리트 골드 스타' 앱을 출시했다.",
-      "현재 방콕을 비롯해 동부 관광도시 파타야와 북부 치앙마이 등으로 서비스 지역을 확대하고 있다."
-    ],
-    "chips": [
-      "#교육"
-    ]
-  },
-  {
-    "id": "nb1ef4071",
+    "id": "nf20a5d9b",
     "category": "스포츠",
-    "source": "뉴시스",
-    "time": "17분 전",
-    "url": "https://www.newsis.com/view/NISX20260823_0003759083",
-    "title": "LG 오스틴, 2년 만에 30홈런-100타점 달성",
+    "source": "조선일보",
+    "time": "5분 전",
+    "url": "https://www.chosun.com/sports/baseball/2026/08/23/G42WCMBUMIZTKYRWHE2TIMJQME/",
+    "title": "\"LG와 다년계약 원한다\" 오스틴, 2년만에 30홈런-100타점 재달성…KBO 통산 96번째 [대전레코드]",
     "summary": [
-      "[서울=뉴시스]김희준 기자 = 프로야구 LG 트윈스의 외국인 타자 오스틴 딘이 2년 만에 시즌 30홈런과 100타점을 동시에 달성했다.",
-      "오스틴은 23일 대전 한화생명볼파크에서 벌어진 2026 신한 쏠 KBO리그 한화 이글스와의 경기에 3번 타자 1루수로 선발 출전해 LG가 8-3으로 앞선 4회초 1사 2, 3루 찬스에서 희생플라이를 쳤다.",
-      "올 시즌 32홈런을 기록 중인 오스틴은 이 타점으로 시즌 100타점을 채우면서 단일 시즌 30홈런-100타."
+      "[대전=스포츠조선 김영록 기자] LG 트윈스의 '효자 외인' 오스틴 딘이 통산 2번째 30홈런-100타점을 달성했다.",
+      "오스틴은 23일 한화생명 볼파크에서 열린 한화 이글스와의 시즌 13차전에서 8-3으로 앞선 4회초, 좌익수 희생플라이로 타점을 올렸다.",
+      "이로써 올시즌 이미 32홈런 99타점을 기록중이던 오스틴은 100개째 타점을 새겼다."
     ],
     "chips": [
       "#KBO"
     ]
   },
   {
-    "id": "nce310e31",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "21분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260823048400083",
-    "title": "물대포에 실사격 훈련까지…中·필리핀, 남중국해 군사긴장 고조",
+    "id": "naf984e50",
+    "category": "스포츠",
+    "source": "뉴시스",
+    "time": "6분 전",
+    "url": "https://www.newsis.com/view/NISX20260823_0003759100",
+    "title": "안세영, 3년 만에 세계선수권 우승…백하나-이소희는 31년 만에 정상(종합)",
     "summary": [
-      "(하노이·베이징=연합뉴스) 박진형 한종구 특파원 = 남중국해 영유권을 둘러싼 중국과 필리핀의 갈등이 군사적 긴장으로 번지는 양상이다."
+      "[서울=뉴시스] 하근수 기자 = '배드민턴 여제' 안세영(삼성생명)이 부상 복귀전인 세계배드민턴연맹(BWF) 세계선수권대회에서 3년 만의 정상 탈환에 성공했다.",
+      "세계랭킹 1위 안세영은 23일(한국 시간) 인도 뉴델리에서 열린 일본 야마구치 아카네(2위)와의 대회 여자 단식 결승에서 2-0(21-17 21-14) 승리를 거두고 우승을 차지했다.",
+      "올해 안세영은 말레이시아오픈, 인도네시아 오픈(이상 슈퍼 1000), 인도오픈, 싱가포르오픈(이상 슈퍼."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n4ace8bb7",
-    "category": "경제",
-    "source": "한국경제",
-    "time": "24분 전",
-    "url": "https://www.hankyung.com/article/2026082372927",
-    "title": "\"서울이 더 쌀 줄이야\"…지방 덮친 고물가에 서민들 '비상'",
-    "summary": [
-      "\"서울이 더 쌀 줄이야\"…지방 덮친 고물가에 서민들 '비상'."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n623d27ee",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "26분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260823049200083",
-    "title": "중국축구협회, '韓성접대 의혹' 조사…\"입증할 증거 없어\"",
-    "summary": [
-      "(베이징=연합뉴스) 한종구 특파원 = 중국축구협회는 대한축구협회의 성 접대 사건에 중국축구협회 관계자들이 연루됐다는 의혹에 대해 자체 조사를 벌..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nf458caa1",
+    "id": "n580e5a0c",
     "category": "스포츠",
     "source": "동아일보",
-    "time": "28분 전",
-    "url": "https://www.donga.com/news/Entertainment/article/all/20260823/134527556/1",
-    "title": "빅뱅 “2006년 시작해 여기까지…새로운 모습 보일 수 있어 반가워”",
+    "time": "7분 전",
+    "url": "https://www.donga.com/news/Inter/article/all/20260823/134527400/1",
+    "title": "“퀸이 돌아왔다”…안세영, 야마구치 꺾고 세계선수권 3년 만에 정상",
     "summary": [
-      "그룹 빅뱅(BIGBANG)이 데뷔 20주년 공연을 여는 소감을 전했다.23일 오후 고양시 일산서구 고양종합운동장 주경기장에서는 ‘쿠팡플레이와 함께하는 빅뱅 2026-2027 월드 투어 ’XX: 코스모스‘ 인 고양’의 셋째 날 공연이 열렸다.이날 ‘배배’(BAE BAE) 무대를 마치고 지드래곤은 “2006년 시작해 2026년에 와 있다”라며 “코스모스에 오신 여러분 다시 한번 진심으로 환영한다”라고 인사를 전하기도 했다."
+      "부상을 털고 돌아온 ‘배드민턴 여제’ 안세영(24·세계랭킹 1위)이 3년 만에 세계선수권대회 여자 단식 챔피언 타이틀을 되찾았다.",
+      "안세영은 23일 인도 뉴델리 인디라 간디 아레나에서 열린 대회 여자 단식 결승에서 ‘디펜딩 챔피언’ 야마구치 아카네(29·일본·2위)를 2-0(21-17, 21-14)으로 완파하고 금메달을 목에 걸었다.",
+      "안세영은 2023년 덴마크 코펜하겐에서 한국 배드민턴 여자 단식 선수 최초로 세계선수권 우승 기록을 남겼다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n3cf388a2",
+    "id": "n3d1dd50a",
+    "category": "스포츠",
+    "source": "아시아경제",
+    "time": "11분 전",
+    "url": "https://view.asiae.co.kr/article/2026082322131019582",
+    "title": "안세영, 3년 만에 세계선수권 정상…부상 우려 씻고 亞게임 2연패 정조준",
+    "summary": [
+      "'셔틀콕 여제' 안세영(24)이 야마구치 아카네(일본)를 꺾고 3년 만에 세계선수권 정상에 복귀했다.",
+      "안세영은 23일(한국시간) 인도 뉴델리 인디라 간디 실내체육관에서 열린 2026 세계배드민턴연맹(BWF) 세계선수권대회 여자 단식 결승에서 야마구치를 2-0(21-17, 21-14)으로 제압했다.",
+      "2023년 세계선수권에서 한국 여자 단식 선수 최초로 금메달을 따냈던 안세영은 3년 만에 다시 세계 정상에 오르며 개인 통산 두 번째 세계선수권."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n0b99943f",
+    "category": "스포츠",
+    "source": "뉴시스",
+    "time": "12분 전",
+    "url": "https://www.newsis.com/view/NISX20260823_0003759047",
+    "title": "[KBO 오늘의 경기 결과]8월23일(일)",
+    "summary": [
+      "[서울=뉴시스] [KBO]오늘의 경기 결과<2026년 8월23일(일)> ▲롯데 1 - 3 두산(잠실) 패 박세웅 승 곽빈 ▲KT 3 - 1 SSG(문학) 승 로건 앨런 패 페드로 아빌라 ▲삼성 2 - 1 NC(창원) 승 크리스 페덱 패 라일리 톰슨 ▲LG 12 - 3 한화(대전) 승 카를로스 카라스코 패 박준영 ▲KIA 7 - 8 키움(고척) 승 이의리 패 이강준."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
+    "id": "nfaec82da",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "13분 전",
+    "url": "https://www.chosun.com/culture-life/culture_general/2026/08/23/MX3HW22SDRFX7GKPBIQ4P4KMBY/",
+    "title": "농구선수 우지원 딸, 미스코리아 眞 됐다",
+    "summary": [
+      "농구선수 우지원 딸, 미스코리아 眞 됐다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n83a90490",
+    "category": "스포츠",
+    "source": "연합뉴스",
+    "time": "13분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260821170952007",
+    "title": "[프로야구 중간순위] 23일",
+    "summary": [
+      "[프로야구 중간순위] 23일."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
+    "id": "n7662e9f2",
+    "category": "스포츠",
+    "source": "뉴시스",
+    "time": "13분 전",
+    "url": "https://www.newsis.com/view/NISX20260823_0003759097",
+    "title": "곽빈 7이닝 8K 무실점 쾌투…두산, 롯데 6연승 저지",
+    "summary": [
+      "[서울=뉴시스]김희준 기자 = 프로야구 두산 베어스가 토종 에이스 곽빈의 앞세워 롯데 자이언츠의 연승 행진을 멈춰세웠다.",
+      "두산은 23일 잠실구장에서 벌어진 2026 신한 쏠 KBO리그 롯데와의 홈 경기에서 3-1로 승리했다.",
+      "롯데의 상승세를 넘어선 두산은 58승(4무 50패)째를 따내 단독 5위를 유지했다."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
+    "id": "n3105d175",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "14분 전",
+    "url": "https://www.chosun.com/sports/baseball/2026/08/23/MMZTEYZVG4ZWGNRZHFTDSNDEHA/",
+    "title": "'잘나가던 거인군단 침묵하다' 두산 3-1 승리, 롯데 6연승 저지…곽빈 7이닝 무실점 완벽투→10승 달성 [잠실 리뷰]",
+    "summary": [
+      "[OSEN=잠실, 조은혜 기자] 프로야구 두산 베어스가 곽빈의 호투를 앞세워 롯데 자이언츠의 6연승을 저지했다.김원형 감독이 이끄는 두산은 23일 서울 잠실구장에서 열린 2026 신한 SOL KBO리그 롯데 자이언츠와의 홈경기에서 3-0으로 승리했다.",
+      "이날 승리로 두산은 2연패를 끊고 시즌 전적 58승50패4무를 만들었다.",
+      "반면 5연승이 끊긴 롯데는 50승."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
+    "id": "n8957abc4",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "15분 전",
+    "url": "https://www.chosun.com/sports/baseball/2026/08/23/HA4DKMRSHE4WKOLDG5SWGYZQMI/",
+    "title": "롯데 라커에 울린 환호성 \"벌써 다음경기까지 생각한다고? 기특하네…\" 6위 롯데는 가을을 포기하지 않았다[잠실현장]",
+    "summary": [
+      "[잠실=스포츠조선] \"KIA까지 생각하고 있다고? 나는 가만히 있으면 되겠네, 기특하네.\" 롯데 자이언츠 김태형 감독이 락커룸에서 들려온 선수들의 환호성 소식에 미소를 지었다.",
+      "가을야구를 향한 선수단의 집념을 확인한 기분 좋은 순간이었다.",
+      "롯데는 23일 잠실구장에서 열리는 두산 베어스와의 원정경기를 앞두고 악재를 만났다."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
+    "id": "n5caa1f24",
+    "category": "스포츠",
+    "source": "연합뉴스",
+    "time": "16분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260821181951007",
+    "title": "[프로야구 대전전적] LG 12-3 한화",
+    "summary": [
+      "[프로야구 대전전적] LG 12-3 한화."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
+    "id": "n3aa91300",
+    "category": "스포츠",
+    "source": "머니투데이",
+    "time": "17분 전",
+    "url": "https://www.mt.co.kr/sports/2026/08/23/2026082314304848385",
+    "title": "'또 8-0' 이번엔 안 무너졌다! LG, 9-0 역전패 악몽 씻고 한화 12-3 완파... KIA 제치고 3위 탈환 [대전 현장리뷰]",
+    "summary": [
+      "LG 트윈스가 노장 카를로스 카라스코(39)의 관록 있는 투구를 앞세워 이틀 전 9-0 리드를 놓치고 역전패한 트라우마를 이겨냈다.",
+      "LG는 23일 대전 한화생명볼파크에서 열린 2026 신한 SOL KBO 리그 정규시즌 방문 경기에서 한화 이글스에 12-3으로 승리했다.",
+      "이로써 1승 1패를 나눠가진 LG는 61승 1무 50패로, 같은 날 끝내기 만루포를 맞고 패배한 KIA 타이거즈를 0.5경기 차 제친 3위가 됐다."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
+    "id": "n177fc623",
+    "category": "스포츠",
+    "source": "뉴시스",
+    "time": "19분 전",
+    "url": "https://www.newsis.com/view/NISX20260823_0003758971",
+    "title": "권상우, 미국살이 6년…외국 살기로 결심한 이유는?",
+    "summary": [
+      "[서울=뉴시스] 남정현 기자 = 권상우, 손태영 부부가 미국에서의 일상을 공개했다.",
+      "손태영은 23일 자신의 유튜브 채널에 '손태영♥권상우 부부가 6년째 미국에서 사는 법'이란 제목의 영상을 올렸다.",
+      "이날 부부는 뉴욕 맨해튼의 이탈리안 레스토랑을 찾아 파스타와 피자를 먹었다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n70095444",
+    "category": "스포츠",
+    "source": "머니투데이",
+    "time": "19분 전",
+    "url": "https://www.mt.co.kr/sports/2026/08/23/2026082320053714985",
+    "title": "슈팅 21개 퍼붓고도 '실책 한 방'에 울었다! 김도균 감독 \"백지웅 어이없는 실수했지만... 하고자 하는 팀플레이 했다\" [목동 현장]",
+    "summary": [
+      "김도균(49) 서울이랜드 감독이 파상공세를 퍼붓고도 무승부에 그친 아쉬움을 전했다.",
+      "서울이랜드는 23일 오후 7시30분 목동종합운동장에서 열린 파주 프런티어와 '하나은행 K리그2 2026' 23라운드 홈 경기에서 1-1로 비겼다.",
+      "월드컵 휴식기 이후 7경기 무패(4승3무) 행진을 달린 서울이랜드는 승점 41(12승5무5패)로 3위에서 2위로 한 계단 상승했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n78e4c229",
+    "category": "스포츠",
+    "source": "연합뉴스",
+    "time": "20분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260821181451007",
+    "title": "[프로야구 잠실전적] 두산 3-1 롯데",
+    "summary": [
+      "[프로야구 잠실전적] 두산 3-1 롯데."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
+    "id": "n7e3fcb94",
+    "category": "스포츠",
+    "source": "연합뉴스",
+    "time": "20분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260821181551007",
+    "title": "[프로야구 인천전적] kt 3-1 SSG",
+    "summary": [
+      "[프로야구 인천전적] kt 3-1 SSG."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
+    "id": "n3dd6522e",
+    "category": "스포츠",
+    "source": "머니투데이",
+    "time": "28분 전",
+    "url": "https://www.mt.co.kr/sports/2026/08/23/2026082320051910167",
+    "title": "\"K리그1 수준\" 서울이랜드 파상공세 막아낸 누스 파주 감독 \"최하위 예상 뒤집고 있어 기쁘다\" [목동 현장]",
+    "summary": [
+      "제라드 누스(41) 파주 프런티어 감독이 원정 무승부에 만족감을 나타냈다.",
+      "파주는 23일 오후 7시30분 목동종합운동장에서 열린 서울이랜드와의 '하나은행 K리그2 2026' 23라운드 원정에서 1-1로 비겼다.",
+      "2경기 무패(1승1무)를 기록한 파주는 승점 25(7승4무11패)로 11위에 자리했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n93e5bbaf",
     "category": "사회",
     "source": "동아일보",
-    "time": "28분 전",
-    "url": "https://www.donga.com/news/Entertainment/article/all/20260823/134527552/1",
-    "title": "에스파 윈터, 도도한 금발 미녀의 ‘쇠맛’ 미모",
+    "time": "36분 전",
+    "url": "https://www.donga.com/news/Inter/article/all/20260823/134527989/1",
+    "title": "남극대륙 동부에 얼음량 증가…적도바다 온난화 일시효과",
     "summary": [
-      "걸그룹 에스파 윈터가 특유의 도도한 미모로 눈길을 끌었다.에스파 윈터는 22일 자신의 사회관계망서비스(SNS)에 “마이들 너무너무 고마워”라는 글과 함께 다수의 사진을 올렸다.2026 TIMA 무대 대기실에서 찍은 것으로 추측되는 사진 속에서 윈터는 무대 의상을 입은 채 거울 앞에서 포즈를 취했다.",
-      "금발 머리에 도도한 표정과 시원시원한 이목구비가 눈길을 끄는 모습이다.TIMA는 중국 최대 음원 플랫폼 기업인 텐센트뮤직 엔터테인먼트 그룹(TME)."
+      "남극 대륙의 얼음층이 2021년부터 2023년 사이에 6950억 t의 질량 증가로 기후 온난화로 인한 장기적 얼음 상실을 늦췄다고 과학자들이 말했다.이 같은 남극 얼음 증가 현상은 근 20년 간의 위성 관찰 기록 중 최대치에 해당된다고 중국, 미국, 일본 및 헝가리 연구진은 ‘네이처’ 지에서 지적했다.수천 ㎞ 떨어진 대기 현상에서 초래된 것으로 과학자들은 보고 있다.",
+      "따뜻한 적도 바다가 남극 대륙의 강설을 촉진시키고 얼음이 녹아서 없어지는 것을."
+    ],
+    "chips": [
+      "#환경"
+    ]
+  },
+  {
+    "id": "n0773811a",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "50분 전",
+    "url": "https://www.donga.com/news/Economy/article/all/20260823/134525634/1",
+    "title": "정부, 추석 앞두고 비축 수산물 2만톤 방출…역대 최대 규모",
+    "summary": [
+      "추석을 앞두고 정부가 비축 수산물 2만 톤(t)을 시장에 푼다.",
+      "명절을 맞아 수요가 늘어나는 주요 수산물의 공급을 늘려 시장 가격을 안정시키기 위한 조치다.해양수산부는 24일부터 9월 27일까지 명태, 고등어, 오징어 등 정부 비축 수산물 2만 t을 시장에 공급한다고 23일 밝혔다.",
+      "해수부에 따르면 이번 방출 규모는 역대 최대 수준이다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n1c2290f3",
-    "category": "경제",
-    "source": "한국경제",
-    "time": "44분 전",
-    "url": "https://www.hankyung.com/article/2026082372847",
-    "title": "\"본전도 못 찾게 생겼다\"…주식 투자 실패 호소한 여배우",
+    "id": "nf07953fc",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "55분 전",
+    "url": "https://www.donga.com/news/Culture/article/all/20260823/134525464/1",
+    "title": "74세 ‘록 전설’ 데이비드 번 “사랑과 친절이 가장 펑크한 일”",
     "summary": [
-      "\"본전도 못 찾게 생겼다\"…주식 투자 실패 호소한 여배우."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n4416160b",
-    "category": "IT",
-    "source": "테크M",
-    "time": "44분 전",
-    "url": "https://www.techm.kr/news/articleView.html?idxno=154542",
-    "title": "[넥슨X오버워치] 10년 된 게임에 1만명 몰렸다…'오버워치 데이'가 보여준 팬덤의 힘",
-    "summary": [
-      "출시 10년을 맞은 게임을 보기 위해 이틀간 1만명 안팎의 이용자가 부산을 찾았다.",
-      "행사장 밖에는 입장을 기다리는 긴 줄이 만들어졌고, 개발진이 등장한 메인 무대부터 체험존과 굿즈존까지 이용자들의 발길이 이어졌다.",
-      "넥슨과 블리자드 엔터테인먼트가 마련한 '오버워치 데이'는 장수 지식재산권(IP)의 힘과 국내에서 여전히 건재한 오버워치 팬덤을 동시에 확인한 자리였다.23일 게임업계에 따르면 넥슨은 지난 22일부터 이날까지 부산 벡스코에서 오버워치."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n667eed32",
-    "category": "IT",
-    "source": "테크M",
-    "time": "1시간 전",
-    "url": "https://www.techm.kr/news/articleView.html?idxno=154541",
-    "title": "[넥슨X오버워치] '오버워치' 품은 넥슨의 자신감…글로벌 IP에 '한국식 운영' 더한다",
-    "summary": [
-      "넥슨이 블리자드 엔터테인먼트의 대표 지식재산권(IP) '오버워치'를 앞세워 국내 PC 게임 시장 공략에 속도를 낸다.",
-      "블리자드가 게임 개발과 글로벌 서비스를 이끌고, 넥슨은 국내 이용자와 커뮤니티에 밀착한 운영을 맡는 방식이다.",
-      "세계적인 IP에 넥슨이 수십 년간 국내 온라인게임 시장에서 축적한 라이브 서비스 역량을 더해 한국에서 오버워치의 저변을 다시 넓히겠다는 구상이다.슈터 장르 더 강해진 넥슨...커뮤니티 응집력 'UP'23일 게임업계에 따."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n3e3bb2fb",
-    "category": "경제",
-    "source": "한국경제",
-    "time": "1시간 전",
-    "url": "https://www.hankyung.com/article/2026082372491",
-    "title": "G7 정부부채 GDP 대비 124%",
-    "summary": [
-      "G7 정부부채 GDP 대비 124%."
+      "“사랑과 친절이야말로 지금 우리가 할 수 있는 가장 ‘펑크’한 일입니다.”21일 오후 서울 동대문구 경희대 평화의전당에서 첫 내한 공연을 연 가수 데이비드 번(74)은 뮤지컬 ‘헤드윅’ 원작자인 존 캐머런 미첼의 말을 인용했다.",
+      "기성 사회에 대한 반항을 뿌리로 한 ‘펑크’와 사랑·친절이란 다정한 단어는 언뜻 어울리지 않아 보인다.",
+      "하지만 갈등과 분열이 일상이 된 시대에는 오히려 타인을 이해하고 아끼는 일이 가장 급진적인 저항일 수 있다는 메시지."
     ],
     "chips": [
       "#뉴스"
@@ -626,21 +637,21 @@ window.NEWS_DB = [
 window.KEYWORD_TOP = [
   {
     "rank": 1,
-    "tag": "뉴스",
-    "mentions": "3240건",
-    "trend": "+395%"
+    "tag": "KBO",
+    "mentions": "2590건",
+    "trend": "+295%"
   },
   {
     "rank": 2,
-    "tag": "AI",
-    "mentions": "1550건",
-    "trend": "+135%"
+    "tag": "뉴스",
+    "mentions": "2200건",
+    "trend": "+235%"
   },
   {
     "rank": 3,
-    "tag": "KBO",
-    "mentions": "1420건",
-    "trend": "+115%"
+    "tag": "AI",
+    "mentions": "1550건",
+    "trend": "+135%"
   }
 ];
 // ====AUTO-GENERATED-END====
