@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-08-23 15:12:12
+// 마지막 업데이트: 2026-08-23 16:12:53
 window.NEWS_DB = [
   {
     "id": "n5f8e3e47",
     "category": "IT",
     "source": "조선일보",
-    "time": "10시간 전",
+    "time": "11시간 전",
     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQSkFLRlo2eVlqSXE1emRxVUpnaXZrNE1PT05JNUVvQlFBd2h0MVZSZEtnV3FiOFdpYjc5VFBzX1Vvb1BBVURIUGpmVXlHOGJydTItYnV3ZHVlWEh5SEdIQXVJMHRCbVlGQ0JrXzZ0LTlYV0NuNnphZ2Z1REVGRktKWmNNNA?oc=5",
     "title": "메모리 품귀에… 美 엔비디아도 항복, AI 서버값 15% 올린다",
     "summary": [
@@ -20,7 +20,7 @@ window.NEWS_DB = [
     "id": "n4cd16140",
     "category": "IT",
     "source": "전자신문",
-    "time": "12시간 전",
+    "time": "13시간 전",
     "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBTUDFpdjF5ek5WVVV5dGxjRWVKMm1zeG9PWGw0ZGRwRG1XcS1QSklJemw0LTRyYWZfdnB0NHp5eU9sMVFucnVBN0ctc0ZCUQ?oc=5",
     "title": "엔비디아, 고객사에 AI 서버 가격 15% 인상 예고",
     "summary": [
@@ -35,7 +35,7 @@ window.NEWS_DB = [
     "id": "n10d70d81",
     "category": "IT",
     "source": "경향신문",
-    "time": "12시간 전",
+    "time": "13시간 전",
     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1RbmpaY1ZpZzR0MUIwMlRlZEpHd080TmxTN2NxdFhxNktoSUpmbzFQeDd0ZDNjSENhN3Noc2JHU2xXV2IwdVMxblNtOHR0anh3bExYUExXWGRoZ9IBX0FVX3lxTE5VSlNTNTkxSWZRVWJtVUo3YXJNOUF0MFU1bGFXblJ1c2c4MkJlTlNfUnIxTlNOdzN0LTdXVGdxRlYyLVF0ZkV0UEFWWlJ0WnpBdzlUVGFMbV9hTDZXcTA0?oc=5",
     "title": "메모리값 폭등에…엔비디아도 AI 서버 가격 15% 이상 올린다",
     "summary": [
@@ -50,7 +50,7 @@ window.NEWS_DB = [
     "id": "n82852efd",
     "category": "IT",
     "source": "IT조선",
-    "time": "18시간 전",
+    "time": "19시간 전",
     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9EMmxiS0xwVXY2cFVsVlFXOXVIRExMcGRhRXhuUUpfbXVnZHJDTTFxX1IwYkJHV3BMSjRLNmhueUViUzFQcE9adlVrNG5GSUZQZWQyRGJaTUhHMmg2aVpISFN4a2Z5Y3dIWURaV2FpVmjSAXRBVV95cUxPMG9TemRUQmdxVUxBblAwdzEzanAzMWRGU0hmVXlUVHR0VXVsWVdjSFU0R3VSbGRzOHF4Rnd4cktXSk5VMmY5cEJZdjI5elZiOXpuNzVYSFJUNzhyYzNrcEU5aTVhVWJfVTY5WVJtUmI1WVlHcg?oc=5",
     "title": "‘HBM 묶어 파는’ 삼성 파운드리, TSMC 틈새 뚫고 흑자 시동",
     "summary": [
@@ -208,14 +208,14 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n64dc67f5",
+    "id": "n207a7abe",
     "category": "IT",
-    "source": "유니콘팩토리",
-    "time": "62일 전",
-    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1ORFIxM2VUWmNQaWh2Z0xiY2xXeUlzZFZvT3l4dGwyNFdvdXlyZ0lJdGtNT2cyYjFaU0pNX0FUcnRQelZxZzBXZDZ0Qi1OSWt4V3lCUFRhWXBYZ0g1M0EzTVVmMTZTVEVIeW5ISA?oc=5",
-    "title": "수도권 쏠림 깨기 나선 중기부…창업도시 4곳서 스타트업 278곳 키운다",
+    "source": "Chosunbiz",
+    "time": "61일 전",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPUGdtbi01TkVMYXphY1VqbF9xRzB3TkVUbWtrM2NhN2d1NmpvS29NLTY5UWFtbFNrangxUlRnQUpxOW9rSEZwWVZuWU42aUdIU1FUUlhnQ0NLbjBXdlNpQ2labGU1cUt3WVZ3NEhVVmtJNjJlc3lUalByb0tqZDBucVJleGVLUFpaanFZX3RLZWvSAaQBQVVfeXFMTXFmYjM1dzZaM0d5QjZZQXJIb0VnanMzR29JcWlBQVZreFhGVVZlRmd4c2xoejc0ajVvdDhkUVo5ZWJ5bWlyVlZSUzlveG9EamJZblA5VDkwRG16QW1hRW1Qel9mTHRfdWI3MHhvbTJfd3ZoRTNIb3dVbjByNmI5T3llUUt2ZlZjVmEwQlV4M0FvMTRVT0JYaG4zNDZ6Rkw1LVVodlA?oc=5",
+    "title": "중기부, 2030년까지 ‘유니콘’ 50개 육성 나선다 - 조선비즈",
     "summary": [
-      "수도권 쏠림 깨기 나선 중기부…창업도시 4곳서 스타트업 278곳 키운다 유니콘팩토리."
+      "중기부, 2030년까지 ‘유니콘’ 50개 육성 나선다 - 조선비즈 Chosunbiz."
     ],
     "chips": [
       "#스타트업"
@@ -309,10 +309,304 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "ne8470b65",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "1분 전",
+    "url": "https://www.newsis.com/view/NISX20260824_0003759117",
+    "title": "젤렌스키 \"전시 선거 불가…우크라이나 갈라놓는다\"",
+    "summary": [
+      "[키이우=신화/뉴시스] 이재준 기자 = 볼로디미르 젤렌스키 우크라이나 대통령은 23일(현지시간)현재 우크라이나 전시 상황에서는 선거를 실시하는 것이 불가능하다고 밝혔다.",
+      "우크라이나 국영 통신사 우크린포름은 젤렌스키 대통령이 이날 \"지금 선거를 치르는 건 우크라이나를 갈라놓을 쓰나미가 될 것\"이라며 \"나의 전략은 전쟁을 끝까지 이끌고 독립적이고 주권적인 국가를 보존하는 것\"이라고 말했다.",
+      "그는 우크라이나가 선거를 실시할 가능성을 논의할 준비는 돼."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n561ca800",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "3분 전",
+    "url": "https://www.chosun.com/sports/world-baseball/2026/08/24/GEYWMODGG43GKNBQGE2DIOLCGE/",
+    "title": "\"타자보다는 투수, 메커니즘 일품\"…'한국판 오타니' 벌써 투타겸업 분석, 싱글A 유망주가 이렇게 관심 받다니",
+    "summary": [
+      "[OSEN=조형래 기자] ‘한국의 오타니’ 김성준(텍사스 레인저스 산하 싱글A 히코리)을 향한 관심이 뜨겁다.",
+      "이제 막 싱글A 단계에 올라선 선수에 대한 분석이 한창이다.",
+      "김성준은 지난 20일(이하 한국시간) 미국 노스캐롤라이나주 히커리 L.P."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nc16154c6",
+    "category": "사회",
+    "source": "아시아경제",
+    "time": "6분 전",
+    "url": "https://view.asiae.co.kr/article/2026082401054552165",
+    "title": "종단 개혁에서 사회참여까지…명진스님 빈소 추모 발길",
+    "summary": [
+      "서울 강남구 봉은사 선불당에 마련된 명진스님의 빈소에 추모의 발길이 이어지고 있다.",
+      "1994년 조계종 종단개혁의 한복판에 섰고 봉은사 주지 시절 1000일 기도와 사찰 재정 공개를 이끌었던 그는 종단과 정치권을 향해 거침없이 목소리를 내온 '행동하는 수행자'였다.",
+      "2017년 제적 이후 이어진 종단과의 오랜 갈등을 올해 초 마무리한 지 반년여 만의 입적이다."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "nb3068d2b",
+    "category": "스포츠",
+    "source": "머니투데이",
+    "time": "7분 전",
+    "url": "https://www.mt.co.kr/sports/2026/08/24/2026082320044691829",
+    "title": "대낮 호텔 밀회 즐기다 '페라리 3대' 날렸다... 日 국민 사랑꾼·수영 영웅의 몰락 \"스폰서 잘리고 아내도 떠났다\"",
+    "summary": [
+      "일본 수영 국가대표 세토 다이야(32)와 다이빙 전 국가대표 마부치 유카(31)가 이혼을 발표한 지 반년이 지났다.",
+      "2017년 결혼해 두 딸을 얻으며 '잉꼬' 스포츠 부부로 불렸던 이들은 2020년 세토의 불륜 발각 이후 불화 끝에 결국 파경을 맞이했다.",
+      "현재 세토의 근황이 일본인들의 관심을 끌고 있다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n20472bb1",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "11분 전",
+    "url": "https://www.newsis.com/view/NISX20260821_0003757821",
+    "title": "소변량 보면 건강이 보인다…놓치기 쉬운 신호는?",
+    "summary": [
+      "[서울=뉴시스] 류난영 기자 = 소변은 우리 몸의 대사 과정에서 발생한 노폐물과 과잉 수분 등을 체외로 배출하는 결과물이다.",
+      "신장에서 혈액을 여과하고 필요한 물질을 재흡수하는 과정을 거쳐 생성되며, 요관을 따라 방광에 도달해 잠시 저장된 후 요도를 통해 체외로 배출된다.",
+      "24일 의료계에 따르면 소변은 신체 상태를 살펴볼 수 있는 지표 중 하나로, 소변량과 색, 냄새, 배뇨 횟수 및 배뇨 양상 등에 평소와 다른 변화가 나타나는지 관찰하는 것이 중."
+    ],
+    "chips": [
+      "#의료"
+    ]
+  },
+  {
+    "id": "nb11bdb34",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "11분 전",
+    "url": "https://www.chosun.com/entertainments/broadcast/2026/08/24/GAYTAMTDGRRDCZRVGY2TINTDGY/",
+    "title": "'방송 중단' 추성훈, 깜짝 근황 포착…박진영과 재회 \"은퇴전 위해\"",
+    "summary": [
+      "[OSEN=김수형 기자]격투기 선수 겸 방송인 추성훈이 은퇴전을 앞두고 훈련에 집중하고 있는 가운데 반가운 근황이 공개됐다.박진영은 23일 자신의 SNS에 “추성훈과 재회.",
+      "은퇴 경기를 위한 단백질 보충.",
+      "11월 21일 고척돔!”이라는 글과 함께 추성훈과 찍은 사진을 공개했다.은퇴전 준비를 위해 당분간 유튜브 촬영 등 방송 활동을 중단한."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "na38ca344",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "12분 전",
+    "url": "https://www.chosun.com/sports/world-football/2026/08/24/GVRTMZJYGBSWGYZRGQ2GKYTBHE/",
+    "title": "\"음바페 보는 듯\" 레전드 격찬 받은 19세 모로코 MF, 맨시티 간다! BBC \"이적료 1681억 합의\"",
+    "summary": [
+      "[스포츠조선 박상경 기자] 아유브 부아디(19·릴)의 맨체스터시티행이 임박한 모양새다.",
+      "영국 BBC는 22일(한국시각) '맨시티가 부아디를 영입하기 위해 릴과 1억유로(약 1681억원)의 이적료에 원칙적으로 합의했다'고 전했다.",
+      "릴은 초기 이적료와 옵션을 제시한 맨시티의 제안을 수락하기로 했으며, 메디컬테스트를 통과하면 이적이 공식 발표될 것으로 보인다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "na3154cf4",
+    "category": "사회",
+    "source": "머니투데이",
+    "time": "12분 전",
+    "url": "https://www.mt.co.kr/sports/2026/08/24/2026082317493926872",
+    "title": "'친동생 사고사 단 8일 만에' 친형 역대급 정신력, 감동 레이스 모두가 놀랐다 \"상상조차 할 수 없는 고통일텐데...\"",
+    "summary": [
+      "친동생을 비극적인 사고로 떠나보낸 아픔을 딛고 자진 출전을 결심한 사이클 스타가 세계 3대 그랑투르 대회 개막전 3위에 오르는 감동의 투혼을 발휘했다.",
+      "영국 매체 'BBC'는 23일(한국시간) \"조쉬 탈링(22)이 동생 핀레이 탈링(19)이 불의의 사고로 목숨을 잃은 지 불과 8일 만에 부엘타 아 에스파냐 오프닝 스테이지에 출전해 3위를 차지했다\"고 보도했다.",
+      "탈링은 모나코 몬테카를로 카지노를 출발해 F1 서킷 코스를 통과하."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n46812a19",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "12분 전",
+    "url": "https://www.chosun.com/sports/world-football/2026/08/24/ME2DINZZHFRGMMRVGU2TEMLFMY/",
+    "title": "\"우리가 꼴찌? 그렇게 확신하면 베팅해라\" 헐 시티, 맨유 2-0 격파로 강등 후보 평가에 정면 반박",
+    "summary": [
+      "[OSEN=정승우 기자] 9년 만에 프리미어리그로 돌아온 헐 시티가 맨체스터 유나이티드를 잡으며 강등 후보라는 평가에 정면으로 반박했다.영국 'BBC'는 23일(이하 한국시간) \"헐 시티가 프리미어리그 복귀전에서 맨유를 2-0으로 꺾으며 자신들을 향한 의심에 답했다\"라고 전했다.헐 시티는 22일 영국 헐의 MKM스타디움에서 열린 맨유와 2026-2027시즌."
+    ],
+    "chips": [
+      "#EPL"
+    ]
+  },
+  {
+    "id": "n57ca379c",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "15분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260823052751071",
+    "title": "트럼프 사위, '차기 하원의장 가능성' 민주 원내대표와 회동(종합)",
+    "summary": [
+      "(워싱턴=연합뉴스) 홍정규 특파원 = 도널드 트럼프 대통령의 사위이자 비공식적 참모인 재러드 쿠슈너가 하킴 제프리스 민주당 하원 원내대표와 비공..."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n022128cc",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "26분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260824000400099",
+    "title": "튀니지 해상서 이민자 선박 침몰…8명 사망·6명 실종",
+    "summary": [
+      "(요하네스버그=연합뉴스) 나확진 특파원 = 북아프리카 튀니지 인근 해상에서 유럽행 난민선이 침몰해 이주를 시도하던 튀니지인 8명이 숨지고 6명이..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n5324b511",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "29분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260823052900071",
+    "title": "펜스, 한국산 요격미사일 '美매개 우크라 우회배치론' 주장",
+    "summary": [
+      "(워싱턴=연합뉴스) 박성민 특파원 = 도널드 트럼프 1기 행정부 부통령을 지낸 마이크 펜스는 러시아의 탄도미사일 공격에 직면한 우크라이나에 요격..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n6d5bc2bc",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "42분 전",
+    "url": "https://www.donga.com/news/Economy/article/all/20260823/134526896/2",
+    "title": "‘럭셔리’ GV90, 루프 에어백 등 세계 최초 줄탑재",
+    "summary": [
+      "“실제 도로에서 일어난 사고 3800만 건을 분석하고, 차량을 전복시켜 가면서 세계 최초의 루프 에어백을 개발했습니다.” 20일(현지 시간) 미국 샌프란시스코 팰리스 오브 파인아츠에서 열린 GV90 신기술 설명회(테크 브리프)에서 이승목 현대자동차그룹 통합안전개발실 상무가 이 차에 적용된 ‘루프(천장) 에어백’ 개발 과정을 설명한 말이다.",
+      "제네시스는 19일 같은 장소에서 이 브랜드 최고급 모델인 GV90을 처음 공개했다.현대차그룹은 GV90으로."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n94ed698c",
+    "category": "부동산",
+    "source": "동아일보",
+    "time": "42분 전",
+    "url": "https://www.donga.com/news/Economy/article/all/20260823/134526881/2",
+    "title": "서울 거주자의 경기 아파트 매수 5년만에 최대… 서울 아파트 평균값 첫 16억 넘어",
+    "summary": [
+      "30대 직장인 조모 씨는 이번 달 경기 하남시로 이사를 하게 됐다.",
+      "2년 전 결혼하면서 서울 양천구 목동에 전셋집을 구했지만, 집주인이 지난해 12월 실거주를 하겠다며 집을 비워 달라고 했기 때문이다.",
+      "인근 전세를 알아봤지만 현재 집과 비슷한 매물은 기존 전세금보다 최소 5000만 원은 더 줘야 할 만큼 가격이 올랐다."
+    ],
+    "chips": [
+      "#부동산",
+      "#전세"
+    ]
+  },
+  {
+    "id": "n5d6fa5d4",
+    "category": "경제",
+    "source": "동아일보",
+    "time": "42분 전",
+    "url": "https://www.donga.com/news/Economy/article/all/20260823/134526493/2",
+    "title": "컵라면 가격도 내달 줄인상",
+    "summary": [
+      "최근 식품 물가가 연일 고공행진을 이어가는 가운데 23일 서울 시내 한 대형마트에 컵라면이 진열돼 있다.",
+      "앞서 오뚜기는 다음 달 7일부터 진라면·열라면·참깨라면 등 컵라면 29개 품목의 출고가를 평균 6.7% 인상한다고 밝혔다.",
+      "팔도도 다음 달 1일부터 왕뚜껑·도시락 등 용기면 12종 가격을 평균 5.5% 올린다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n286876bc",
+    "category": "경제",
+    "source": "동아일보",
+    "time": "42분 전",
+    "url": "https://www.donga.com/news/Economy/article/all/20260823/134526959/2",
+    "title": "2금융권 중금리대출, 총량규제서 전액 제외… 중저신용자 ‘숨통’",
+    "summary": [
+      "신용점수가 비교적 낮아 시중은행 등 1금융권에서 대출받지 못한 중·저신용자들이 앞으로는 대출받기 수월해질 것으로 전망된다.",
+      "금융 당국이 저축은행·카드사 등 2금융권의 중금리대출 총량 규제를 풀어줬기 때문이다.",
+      "1금융권의 중금리대출 규제도 소폭 완화한다."
+    ],
+    "chips": [
+      "#금리",
+      "#정책"
+    ]
+  },
+  {
+    "id": "n54125b26",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "50분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260824000300098",
+    "title": "러시아, 영국주재 대사 소환…\"우크라 적극 지원에 불만 표출\"",
+    "summary": [
+      "(브뤼셀=연합뉴스) 현윤경 특파원 = 러시아가 영국 주재 자국 대사를 본국으로 불러들이는 방식으로 우크라이나를 적극 지원하는 영국에 못마땅한 심..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n7dbacb8b",
+    "category": "스포츠",
+    "source": "머니투데이",
+    "time": "57분 전",
+    "url": "https://www.mt.co.kr/sports/2026/08/24/2026082314325982418",
+    "title": "'8-0 앞섰는데 또 3실점→만루→끝내 QS 승리' 9-0 역전패 트라우마, 39세 베테랑은 끊어냈다 \"9회까지 쉼 없이 응원해준 팬 덕분에 승리했다\" [대전 현장]",
+    "summary": [
+      "이틀 전 9-0 리드를 못 지킨 LG 트윈스가 이번에도 8-0으로 앞섰다.",
+      "그리고 다시 사구와 실책으로 흔들린 3회, 카를로스 카라스코(39)가 더 이상의 붕괴를 막았다.",
+      "카라스코는 23일 대전 한화생명볼파크에서 열린 2026 신한 SOL KBO 리그 정규시즌 한화 이글스와 방문 경기에 선발 등판해 6이닝 5피안타 3몸에 맞는 공 3탈삼진 3실점(2자책)으로 LG의 12-3 승리를 이끌었다."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
+    "id": "n44885d48",
+    "category": "스포츠",
+    "source": "머니투데이",
+    "time": "1시간 전",
+    "url": "https://www.mt.co.kr/sports/2026/08/24/2026082319362194571",
+    "title": "이의리 무너뜨린 1할 타자, 생애 첫 만루포·끝내기 홈런으로 인생경기! \"어차피 아웃인데, 막 돌리라고...\"",
+    "summary": [
+      "키움 히어로즈의 베테랑 포수 김재현(33)이 무려 4년 만에(정확히는 1551일) 터뜨린 홈런을 생애 첫 '끝내기 역전 만루포'로 장식하며 고척돔을 열광의 도가니로 몰아넣었다 키움은 23일 서울 구로구에 위치한 고척스카이돔에서 열린 '2026 신한 SOL KBO리그' KIA 타이거즈와의 홈경기에서9회말에만 대거 6점을 뽑아내는 대역전극 끝에 8-7로 극적인 승리를 거뒀다.",
+      "이날 키움은 2-7로 끌려가던 9회말 권혁빈이 1루에 나간 1사 1루 상."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
     "id": "n99ffccb6",
     "category": "스포츠",
     "source": "뉴시스",
-    "time": "7분 전",
+    "time": "1시간 전",
     "url": "https://www.newsis.com/view/NISX20260823_0003758891",
     "title": "\"은퇴식 위해 18㎏ 감량\"…황재균, '핫바디' 만든 6주 다이어트 재조명",
     "summary": [
@@ -325,26 +619,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nf261b922",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "10분 전",
-    "url": "https://www.chosun.com/sports/football/2026/08/24/GZSWGMBVHA2DCMRZGAYWKNZXMQ/",
-    "title": "'22G 연속 무승' 광주, 95분에 무너졌다...'무고사 극장골' 인천에 0-1 패배, 대전은 강원 3-0 격파",
-    "summary": [
-      "[OSEN=고성환 기자] 광주FC가 또 무너졌다.",
-      "추가시간에 극장골까지 허용하면서 22경기 연속 무승(7무 15패)의 늪에 빠졌다.광주FC는 23일 광주월드컵경기장에서 열린 하나은행 K리그1 2026 24라운드 홈경기에서 인천 유나이티드에 0-1로 패했다.",
-      "후반 추가시간 5분 나온 무고사의 페널티킥 선제골이 그대로 승부를 갈랐다.이번 패배로 최하위 광주는."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
     "id": "n6907bc0b",
     "category": "경제",
     "source": "뉴시스",
-    "time": "10분 전",
+    "time": "1시간 전",
     "url": "https://www.newsis.com/view/NISX20260824_0003759116",
     "title": "이란 남부서 2100억m³ 가스전 새로 발견…“수백억 달러 가치”",
     "summary": [
@@ -355,282 +633,6 @@ window.NEWS_DB = [
     "chips": [
       "#뉴스"
     ]
-  },
-  {
-    "id": "n45831998",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "11분 전",
-    "url": "https://www.chosun.com/sports/baseball/2026/08/24/GIYDSY3GGNSDQMZRMMZDEOJUHE/",
-    "title": "'8이닝 쾌투' 외인 에이스 빅뱅, '친정 복귀' 13년차 백업 깜짝포가 승부 갈랐다...구자욱도 9회 슈퍼캐치, 1위 KT 기다려! [창원 리뷰]",
-    "summary": [
-      "[OSEN=조형래 기자] 1선발 외국인 에이스들의 맞대결, 승부를 가른 건 13년차 백업 내야수의 깜짝포였다.",
-      "그리고 주장의 슈퍼캐치까지 더해지면서 위닝시리즈를 확정지었다.삼성 라이온즈는 23일 창원NC파크에서 열린 ‘2026 신한 SOL KBO리그’ 정규시즌 NC 다이노스와의 경기에서 2-1로 신승을 거뒀다.",
-      "이로써 삼성은 2연승 위닝시리즈로 65승 44."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
-    "id": "nfa5d86f7",
-    "category": "경제",
-    "source": "한국경제",
-    "time": "11분 전",
-    "url": "https://www.hankyung.com/article/2026081744507",
-    "title": "[오늘의 운세] 오늘 뭐 먹지?…8월 24일 띠별 추천 점심메뉴",
-    "summary": [
-      "[오늘의 운세] 오늘 뭐 먹지?…8월 24일 띠별 추천 점심메뉴."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nff59e9b3",
-    "category": "경제",
-    "source": "한국경제",
-    "time": "11분 전",
-    "url": "https://www.hankyung.com/article/2026082149767",
-    "title": "[오늘의 운세] 2026년 8월 24일 별자리 운세",
-    "summary": [
-      "[오늘의 운세] 2026년 8월 24일 별자리 운세."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "ne2fbb065",
-    "category": "경제",
-    "source": "한국경제",
-    "time": "11분 전",
-    "url": "https://www.hankyung.com/article/2026082148707",
-    "title": "[오늘의 운세] 2026년 8월 24일 오행별 행운의 컬러",
-    "summary": [
-      "[오늘의 운세] 2026년 8월 24일 오행별 행운의 컬러."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nd2ec3756",
-    "category": "경제",
-    "source": "한국경제",
-    "time": "11분 전",
-    "url": "https://www.hankyung.com/article/2026082147187",
-    "title": "[오늘의 운세] 8월 24일 띠별 운세",
-    "summary": [
-      "[오늘의 운세] 8월 24일 띠별 운세."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n44fe3bae",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "12분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260824000100011",
-    "title": "[알림] 연합뉴스 콘텐츠 저작권 고지",
-    "summary": [
-      "연합뉴스가 제공하는 기사, 사진, 그래픽, 영상 등 모든 콘텐츠는 관련 법의 보호를 받습니다.",
-      "연합뉴스 콘텐츠를 사전허가 없이 전재·방송하거나 ..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "na3ca211b",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "12분 전",
-    "url": "https://www.newsis.com/view/NISX20260824_0003759115",
-    "title": "[알림]뉴시스 콘텐츠 저작권 고지",
-    "summary": [
-      "뉴시스가 제공하는 기사, 사진, 그래픽 이미지, 영상물 등 각종 콘텐츠는 저작권법 등 관련 법의 보호를 받습니다.",
-      "뉴시스 콘텐츠를 사전 허락 없이 무단 복사, 개작, 전재, 배포, 판매할 경우 민·형사상의 책임이 따를 수 있다는 것을 알려드립니다.",
-      "뉴시스 콘텐츠 사용에 대해서는 전화(02-721-7415) 또는 이메일(choihh@newsis.com)로 문의하시기 바랍니다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nff658283",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "12분 전",
-    "url": "https://www.newsis.com/view/NISX20260823_0003759078",
-    "title": "고영욱, 이번엔 애먼 장도연 공격 \"웃기지도 않은데…\"",
-    "summary": [
-      "[서울=뉴시스] 남정현 기자 = 그룹 룰라 출신 고영욱이 장도연을 비판했다.",
-      "23일 고영욱은 소셜미디어에 \"TV를 돌리다 보면 여기도 장도연, 저기도 장도연\"이라고 했다.",
-      "이어 \"내가 기억하는 건 예전에 '개그콘서트'에서 어울리지도 웃기지도 않은데 경박하게 춤추던 모습밖에\"라고 했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n901dfa8f",
-    "category": "부동산",
-    "source": "조선일보",
-    "time": "12분 전",
-    "url": "https://www.chosun.com/opinion/editorial/2026/08/24/45CV23CR4VFPTENYX73XWJ5ECY/",
-    "title": "[사설] 부동산稅 ‘누더기 수습’ 아닌 전면 재검토가 정답",
-    "summary": [
-      "[사설] 부동산稅 ‘누더기 수습’ 아닌 전면 재검토가 정답."
-    ],
-    "chips": [
-      "#부동산"
-    ]
-  },
-  {
-    "id": "n4d06d205",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "13분 전",
-    "url": "https://www.chosun.com/sports/world-football/2026/08/23/HFRTSYRZGVQWINJSGBSDOZTBMY/",
-    "title": "'풀타임+우승+패스 성공률 94%' 김민재, 시즌 첫판부터 제 몫 다했는데...독일 매체는 \"3번째 센터백\" 냉정 전망",
-    "summary": [
-      "[OSEN=정승우 기자] 김민재(30, 바이에른 뮌헨)는 시즌 첫 공식전부터 90분을 모두 뛰며 우승 트로피를 들어 올렸다.",
-      "그럼에도 독일 현지의 시선은 냉정하다.",
-      "올 시즌 역시 김민재는 자신의 가치를 다시 한 번 증명해야 하는 쉽지 않은 경쟁을 앞두고 있다.바이에른은 23일(한국시간) 독일 도르트문트의 지그날 이두나 파크에서 열린."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n3d0eed47",
-    "category": "IT",
-    "source": "아시아경제",
-    "time": "23분 전",
-    "url": "https://view.asiae.co.kr/article/2026082323481644830",
-    "title": "베선트 '트레저리 트위스트' 일일천하…장기금리, 시장이 정했다",
-    "summary": [
-      "스콧 베선트 미국 재무부 장관이 장기 국채 바이백 확대와 단기물 발행을 결합한 이른바 '트레저리 트위스트(Treasury twist)'에 나섰지만 장기금리를 끌어내리는 효과는 하루를 넘기지 못했다.",
-      "미국의 기록적인 국가부채, 인공지능(AI) 투자 확대에 따른 자금 수요, 인플레이션 우려 등 구조적인 금리 상승 요인이 맞물리면서 재무부의 시장 개입만으로 장기금리를 낮추기 어렵다는 지적이 나온다.",
-      "블룸버그통신은 23일(현지시간."
-    ],
-    "chips": [
-      "#AI",
-      "#금리"
-    ]
-  },
-  {
-    "id": "nb623054f",
-    "category": "경제",
-    "source": "동아일보",
-    "time": "42분 전",
-    "url": "https://www.donga.com/news/Opinion/article/all/20260823/134527840/2",
-    "title": "[사설]“청렴도 31위 부끄러워”… 감시가 소홀하면 권력은 썩기 마련",
-    "summary": [
-      "공공부문 부패는 한 국가의 자원 배분을 왜곡하고 사회 통합과 경제 성장을 막는 장애물이다.",
-      "올해 초 국제투명성기구(TI)가 내놓은 ‘국가 청렴도(CPI)’ 순위에서 한국은 182개국 중 31위에 머물렀다.",
-      "이재명 대통령은 21일 첫 반부패정책협의회를 주재한 자리에서 “다른 건 다 10위권 안에 들어 있는데 청렴도만 31위라고 하는 것은 조금은 부끄러운 일”이라고 지적했다."
-    ],
-    "chips": [
-      "#정책",
-      "#정치"
-    ]
-  },
-  {
-    "id": "n4abf2846",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "45분 전",
-    "url": "https://www.donga.com/news/Opinion/article/all/20260823/134527844/2",
-    "title": "[사설]전례 없는 대법원장 국회 증인 출석 철회해야 마땅하다",
-    "summary": [
-      "더불어민주당이 국회 법사위에서 조희대 대법원장의 ‘대법관 후보자 서면 제청’과 관련한 현안 질의를 열겠다며 21일 조 대법원장을 증인으로 채택했다.",
-      "조 대법원장이 대법관 후임 후보자를 대통령과 면담 없이 서면으로 제청한 것에 대해 31일 국회로 불러 따져 묻겠다는 것이다.",
-      "국민의힘은 증인 채택에 반발하며 의결 직전 퇴장했다."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "ncd6b3eae",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "48분 전",
-    "url": "https://www.donga.com/news/Opinion/article/all/20260823/134527842/2",
-    "title": "[사설]경찰이 허위 종결한 실종자 사망… 제주에서만 그랬을까",
-    "summary": [
-      "제주에서 한 경찰관이 두 건의 실종 신고를 실제 당사자와 통화하지도 않고 “연락됐다”며 허위로 종결한 사실이 드러나 22일 긴급 체포됐다.",
-      "이 중 60대 남성은 재수색 결과 첫 신고 51일 만에 백골 시신으로 발견됐다.",
-      "경찰 한 명의 어처구니없는 행위로 생명을 구할 수 있었던 골든타임을 놓친 것 아니냐는 지적이 나온다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n82195d8a",
-    "category": "부동산",
-    "source": "동아일보",
-    "time": "51분 전",
-    "url": "https://www.donga.com/news/Opinion/article/all/20260823/134527852/2",
-    "title": "[천광암 칼럼]국정 지지율만 때린 ‘누더기 세금 폭탄’",
-    "summary": [
-      "이달 10∼12일 실시된 전국지표조사(NBS)에서 8·3 부동산대책에 대해서는 ‘찬성’(46%)이 ‘반대’(41%)보다 5%포인트 많았다.",
-      "반면 뉴시스 의뢰로 에이스리서치가 9∼10일 실시한 조사에서는 ‘반대’(43.9%)가 ‘찬성’(37.9%)을 6%포인트 앞질렀다.",
-      "찬반만 보면 양쪽 의견이 팽팽해 보인다."
-    ],
-    "chips": [
-      "#부동산",
-      "#정책"
-    ]
-  },
-  {
-    "id": "nbac92540",
-    "category": "부동산",
-    "source": "연합뉴스",
-    "time": "52분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260823051251064",
-    "title": "진천 20층짜리 아파트 17층서 불…인명피해 없어(종합)",
-    "summary": [
-      "(진천=연합뉴스) 이성민 기자 = 23일 오후 10시 2분께 충북 진천군 덕산읍의 한 20층짜리 아파트 17층에서 불이 나 20여분 만에 진화됐..."
-    ],
-    "chips": [
-      "#부동산"
-    ]
-  },
-  {
-    "id": "n0ac48f9a",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "53분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260823038700005",
-    "title": "빅뱅, 10만 팬과 20년 집대성한 '코스모스'…\"88세까지 팔팔하게\"",
-    "summary": [
-      "(고양=연합뉴스) 이태수 기자 = \"저희가 8년 8개월 만에 공연하게 됐는데요.",
-      "앞으로 88세까지 팔팔하게 하고 싶어요.",
-      "그러려면 여러분이 많은..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nb9083654",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "1시간 전",
-    "url": "https://www.yna.co.kr/view/AKR20260823052800108",
-    "title": "푸틴 \"러 경제 파괴하려는 우크라, 판도라의 상자 열었다\"",
-    "summary": [
-      "(이스탄불=연합뉴스) 김동호 특파원 = 블라디미르 푸틴 러시아 대통령은 최근 수개월째 고강도 공습을 이어가는 우크라이나를 향해 \"키이우 정권이 ..."
-    ],
-    "chips": [
-      "#정치"
-    ]
   }
 ];
 
@@ -639,20 +641,20 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2460건",
-    "trend": "+275%"
+    "mentions": "2330건",
+    "trend": "+255%"
   },
   {
     "rank": 2,
-    "tag": "AI",
+    "tag": "KBO",
     "mentions": "1680건",
     "trend": "+155%"
   },
   {
     "rank": 3,
-    "tag": "부동산",
-    "mentions": "1680건",
-    "trend": "+155%"
+    "tag": "AI",
+    "mentions": "1550건",
+    "trend": "+135%"
   }
 ];
 // ====AUTO-GENERATED-END====
