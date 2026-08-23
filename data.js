@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-08-23 18:14:09
+// 마지막 업데이트: 2026-08-23 19:14:56
 window.NEWS_DB = [
   {
     "id": "n5f8e3e47",
     "category": "IT",
     "source": "조선일보",
-    "time": "13시간 전",
+    "time": "14시간 전",
     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQSkFLRlo2eVlqSXE1emRxVUpnaXZrNE1PT05JNUVvQlFBd2h0MVZSZEtnV3FiOFdpYjc5VFBzX1Vvb1BBVURIUGpmVXlHOGJydTItYnV3ZHVlWEh5SEdIQXVJMHRCbVlGQ0JrXzZ0LTlYV0NuNnphZ2Z1REVGRktKWmNNNA?oc=5",
     "title": "메모리 품귀에… 美 엔비디아도 항복, AI 서버값 15% 올린다",
     "summary": [
@@ -20,7 +20,7 @@ window.NEWS_DB = [
     "id": "n4cd16140",
     "category": "IT",
     "source": "전자신문",
-    "time": "15시간 전",
+    "time": "16시간 전",
     "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBTUDFpdjF5ek5WVVV5dGxjRWVKMm1zeG9PWGw0ZGRwRG1XcS1QSklJemw0LTRyYWZfdnB0NHp5eU9sMVFucnVBN0ctc0ZCUQ?oc=5",
     "title": "엔비디아, 고객사에 AI 서버 가격 15% 인상 예고",
     "summary": [
@@ -35,7 +35,7 @@ window.NEWS_DB = [
     "id": "n10d70d81",
     "category": "IT",
     "source": "경향신문",
-    "time": "15시간 전",
+    "time": "16시간 전",
     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1RbmpaY1ZpZzR0MUIwMlRlZEpHd080TmxTN2NxdFhxNktoSUpmbzFQeDd0ZDNjSENhN3Noc2JHU2xXV2IwdVMxblNtOHR0anh3bExYUExXWGRoZ9IBX0FVX3lxTE5VSlNTNTkxSWZRVWJtVUo3YXJNOUF0MFU1bGFXblJ1c2c4MkJlTlNfUnIxTlNOdzN0LTdXVGdxRlYyLVF0ZkV0UEFWWlJ0WnpBdzlUVGFMbV9hTDZXcTA0?oc=5",
     "title": "메모리값 폭등에…엔비디아도 AI 서버 가격 15% 이상 올린다",
     "summary": [
@@ -50,7 +50,7 @@ window.NEWS_DB = [
     "id": "n82852efd",
     "category": "IT",
     "source": "IT조선",
-    "time": "21시간 전",
+    "time": "22시간 전",
     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9EMmxiS0xwVXY2cFVsVlFXOXVIRExMcGRhRXhuUUpfbXVnZHJDTTFxX1IwYkJHV3BMSjRLNmhueUViUzFQcE9adlVrNG5GSUZQZWQyRGJaTUhHMmg2aVpISFN4a2Z5Y3dIWURaV2FpVmjSAXRBVV95cUxPMG9TemRUQmdxVUxBblAwdzEzanAzMWRGU0hmVXlUVHR0VXVsWVdjSFU0R3VSbGRzOHF4Rnd4cktXSk5VMmY5cEJZdjI5elZiOXpuNzVYSFJUNzhyYzNrcEU5aTVhVWJfVTY5WVJtUmI1WVlHcg?oc=5",
     "title": "‘HBM 묶어 파는’ 삼성 파운드리, TSMC 틈새 뚫고 흑자 시동",
     "summary": [
@@ -309,10 +309,101 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n074f82c7",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "12분 전",
+    "url": "https://www.newsis.com/view/NISX20260823_0003759011",
+    "title": "대구·경북 구름 많고 최대 50㎜ 소나기…낮 최고 31~36도",
+    "summary": [
+      "[대구=뉴시스] 이상제 기자 = 24일 대구·경북은 가끔 구름 많고 소나기가 내리는 곳이 있을 것으로 예상된다.",
+      "대구지방기상청은 이날 \"낮부터 저녁 사이 대구와 경북남부내륙에 돌풍과 천둥번개를 동반한 5~50㎜의 소나기가 내리는 곳이 있겠다\"고 예보했다.",
+      "대구, 경산, 고령, 칠곡, 상주, 포항, 경주중북부, 경주남부에는 폭염경보가 발효 중이다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n023830f3",
+    "category": "경제",
+    "source": "아시아경제",
+    "time": "18분 전",
+    "url": "https://view.asiae.co.kr/article/2026082403561960030",
+    "title": "미니애폴리스 연은 총재 \"美 국채시장 정상 작동…장기금리는 펀더멘털이 결정\"",
+    "summary": [
+      "미국 연방준비제도(Fed) 내 대표적인 매파 인사인 닐 카시카리 미니애폴리스 연방준비은행(연은) 총재가 최근 미국 국채금리 급등에도 채권시장은 정상적으로 작동하고 있다고 평가했다.",
+      "장기금리 상승이 Fed의 통화정책 운용을 제약할 정도의 시장 불안으로 번진 것은 아니라는 진단이다.",
+      "카시카리 총재는 23일(현지시간) CBS 방송 '페이스 더 네이션'에 출연해 \"미 국채시장이 정상적으로 작동하고 있다는 모든 징후가 있다\"며 \"."
+    ],
+    "chips": [
+      "#금리",
+      "#정책"
+    ]
+  },
+  {
+    "id": "n4853eed1",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "31분 전",
+    "url": "https://www.newsis.com/view/NISX20260824_0003759123",
+    "title": "\"러시아, 연말까지 우크라이나에 병력 30만명 증파\"…젤렌스키 경고",
+    "summary": [
+      "[서울=뉴시스]이재준 기자 = 볼로디미르 젤렌스키 23일(현지시간) 우크라이나 대통령은 러시아가 올해 말까지 우크라이나 전쟁에 투입할 30만명을 추가로 투입할 가능성이 크다고 경고했다.",
+      "CNN에 따르면 젤렌스키 대통령은 이날 공개된 폭넓은 내용의 발언을 통해 러시아가 막대한 병력 손실을 감수하고도 2026년 초와 비슷한 규모의 우크라이나 영토를 점령한 상태로 연말을 맞게 된다고 예상한다면서 이같이 밝혔다.",
+      "젤렌스키 대통령은 \"러시아가 연초 이래."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n5999312b",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "36분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260824001351099",
+    "title": "서아프리카 기니 수도서 쓰레기 매립지 붕괴…최소 30명 사망(종합)",
+    "summary": [
+      "(요하네스버그=연합뉴스) 나확진 특파원 = 서아프리카 기니 수도 고나크리에서 쓰레기 매립지의 폐기물 더미가 붕괴해 최소 30명이 사망하고 22명..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n55513945",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "40분 전",
+    "url": "https://www.chosun.com/international/us/2026/08/24/IDI3HKVTIJD6PFCE25WBJO734E/",
+    "title": "‘시속 300km’ 백악관 앞 광란의 질주… 트럼프가 녹색 깃발 흔들었다",
+    "summary": [
+      "‘시속 300km’ 백악관 앞 광란의 질주… 트럼프가 녹색 깃발 흔들었다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n5ac5d3b2",
+    "category": "IT",
+    "source": "한경IT",
+    "time": "58분 전",
+    "url": "https://www.hankyung.com/article/202608247371i",
+    "title": "삼성, '계산하는 HBM' 공개…GPU 연산 'aHBM'이 맡는다",
+    "summary": [
+      "삼성, '계산하는 HBM' 공개…GPU 연산 'aHBM'이 맡는다."
+    ],
+    "chips": [
+      "#반도체"
+    ]
+  },
+  {
     "id": "n56be47b3",
     "category": "스포츠",
     "source": "동아일보",
-    "time": "6분 전",
+    "time": "1시간 전",
     "url": "https://www.donga.com/news/Sports/article/all/20260824/134528690/1",
     "title": "LG, 한화 완파하고 3위 탈환…두산 곽빈은 롯데 6연승 저지",
     "summary": [
@@ -326,7 +417,7 @@ window.NEWS_DB = [
     "id": "n3167d865",
     "category": "사회",
     "source": "동아일보",
-    "time": "8분 전",
+    "time": "1시간 전",
     "url": "https://www.donga.com/news/Entertainment/article/all/20260824/134528687/1",
     "title": "고영욱, 이번엔 애먼 장도연 공격 “웃기지도 않은데…”",
     "summary": [
@@ -341,7 +432,7 @@ window.NEWS_DB = [
     "id": "n7ed656ac",
     "category": "스포츠",
     "source": "동아일보",
-    "time": "9분 전",
+    "time": "1시간 전",
     "url": "https://www.donga.com/news/Sports/article/all/20260824/134528684/1",
     "title": "선두 경쟁에 갈 길 바쁜 서울이랜드. 파주와 1-1 무승부",
     "summary": [
@@ -356,7 +447,7 @@ window.NEWS_DB = [
     "id": "na8605d5c",
     "category": "IT",
     "source": "연합뉴스",
-    "time": "9분 전",
+    "time": "1시간 전",
     "url": "https://www.yna.co.kr/view/AKR20260824001900091",
     "title": "주별 규제 안된다더니…오픈AI, 캘리포니아에 AI규제 강화 요구",
     "summary": [
@@ -371,7 +462,7 @@ window.NEWS_DB = [
     "id": "n1f9220f3",
     "category": "사회",
     "source": "동아일보",
-    "time": "9분 전",
+    "time": "1시간 전",
     "url": "https://www.donga.com/news/Inter/article/all/20260824/134528681/1",
     "title": "中 허베이성서 발암물질 ‘포름알데히드‘ 사용 배추 적발",
     "summary": [
@@ -385,7 +476,7 @@ window.NEWS_DB = [
     "id": "n5df79689",
     "category": "사회",
     "source": "뉴시스",
-    "time": "11분 전",
+    "time": "1시간 전",
     "url": "https://www.newsis.com/view/NISX20260823_0003758704",
     "title": "\"매일 산책만 시켰는데\"…반려견 키우는 노인, 치매 위험 48%↓",
     "summary": [
@@ -402,7 +493,7 @@ window.NEWS_DB = [
     "id": "n0f102d06",
     "category": "사회",
     "source": "연합뉴스",
-    "time": "12분 전",
+    "time": "1시간 전",
     "url": "https://www.yna.co.kr/view/AKR20260824001700071",
     "title": "\"대선 전보다 10㎏ 불어난 트럼프…전문가들 건강위험 경고\"",
     "summary": [
@@ -414,56 +505,42 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n655f0a97",
+    "id": "n838f36f9",
     "category": "사회",
     "source": "조선일보",
-    "time": "14분 전",
-    "url": "https://www.chosun.com/national/education/2026/08/24/AIN55AAV6VH73KHX5D6ZTDTTVI/",
-    "title": "안부 인사할 때 ‘hold up’에 담긴 뜻은?",
+    "time": "1시간 전",
+    "url": "https://www.chosun.com/culture-life/book/2026/08/24/2F4WV3S22NBMTL4P2LI5MNFCQM/",
+    "title": "[71화] 천재 지략가들이 구름 떼처럼… 조조의 시대가 열렸다",
     "summary": [
-      "안부 인사할 때 ‘hold up’에 담긴 뜻은?."
+      "[71화] 천재 지략가들이 구름 떼처럼… 조조의 시대가 열렸다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n14a10097",
+    "id": "n02110de5",
     "category": "사회",
     "source": "조선일보",
-    "time": "14분 전",
-    "url": "https://www.chosun.com/culture-life/relion-academia/2026/08/24/IFS7WP6C2BHTNPJRUL7WAJECME/",
-    "title": "핀다로스, 카뮈, 그리고 오디세우스가 말하는 ‘진짜 살아있음’",
+    "time": "1시간 전",
+    "url": "https://www.chosun.com/medical/2026/08/24/4RGE3XLQJRE4RIAZPEF6IPD6QU/",
+    "title": "동의보감 七情부터 코르티솔까지…스트레스의 비밀",
     "summary": [
-      "핀다로스, 카뮈, 그리고 오디세우스가 말하는 ‘진짜 살아있음’."
+      "동의보감 七情부터 코르티솔까지…스트레스의 비밀."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n730d7b0f",
+    "id": "n9912f89c",
     "category": "사회",
     "source": "조선일보",
-    "time": "14분 전",
-    "url": "https://www.chosun.com/international/japan/2026/08/24/MYBHJAMM6JEABAN3EDNH2VL6VE/",
-    "title": "노벨상 만찬장을 점령한 일본 시골 장인들",
+    "time": "1시간 전",
+    "url": "https://www.chosun.com/culture-life/culture_general/2026/08/24/OAW7P33OBFFMJH3C4EP3VZ6VI4/",
+    "title": "스탈린이 감춘 명곡, 미국의 심장부에서 불후의 음반이 되다",
     "summary": [
-      "노벨상 만찬장을 점령한 일본 시골 장인들."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n8b9c8c9a",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "14분 전",
-    "url": "https://www.chosun.com/national/2026/08/24/4M6U3H2USVEDXF3W4S42I77JCQ/",
-    "title": "[굿모닝 멤버십] 위기 때마다 생존한 것들의 비결… 비움, 고집, 회복력",
-    "summary": [
-      "[굿모닝 멤버십] 위기 때마다 생존한 것들의 비결… 비움, 고집, 회복력."
+      "스탈린이 감춘 명곡, 미국의 심장부에서 불후의 음반이 되다."
     ],
     "chips": [
       "#뉴스"
@@ -473,7 +550,7 @@ window.NEWS_DB = [
     "id": "ne9182cef",
     "category": "사회",
     "source": "뉴시스",
-    "time": "21분 전",
+    "time": "1시간 전",
     "url": "https://www.newsis.com/view/NISX20260824_0003759122",
     "title": "\"러시아, 유럽 무기공장 파괴공작 확대\" 텔레그래프",
     "summary": [
@@ -489,7 +566,7 @@ window.NEWS_DB = [
     "id": "n2b9b7a87",
     "category": "경제",
     "source": "연합뉴스",
-    "time": "21분 전",
+    "time": "1시간 전",
     "url": "https://www.yna.co.kr/view/AKR20260824002000072",
     "title": "美연준 매파 인사, 국채금리 급등에도 \"시장 잘 가고 있다\"",
     "summary": [
@@ -500,55 +577,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n1edf7cd2",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "35분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260824001600108",
-    "title": "폴란드, 노르트스트림 폭파 수사에 또 어깃장…러 반발",
-    "summary": [
-      "(이스탄불=연합뉴스) 김동호 특파원 = 폴란드가 2022년 9월 발트해 해저에서 발생한 러시아 천연가스관 노르트스트림 폭파 사건에 대한 독일 검..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n9d5b787c",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "53분 전",
-    "url": "https://www.newsis.com/view/NISX20260824_0003759120",
-    "title": "적도기니 쓰레기 매립지 붕괴로 최소한 22명 사망",
-    "summary": [
-      "[코나크리=AP/뉴시스] 이재준 기자 = 서아프리카 적도기니 수도 코나크리에 있는 대형 쓰레기 매립지에서 거대한 쓰레기 더미가 무너져 최소한 22명이 목숨을 잃었다.",
-      "기니 민방위 당국에 따르면 사고는 23일(현지시간) 이른 아침 코나크리 다르에스살람(Dar Es Salam) 매립지에서 발생해 이 같은 참사를 빚었다.",
-      "현지에서 가장 큰 쓰레기 매립지인 이곳에는 오전 3시께부터 폭우가 내리면서 쌓여 있던 쓰레기가 빗물에 휩쓸리며 무너졌다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n1b0091d2",
-    "category": "경제",
-    "source": "뉴시스",
-    "time": "1시간 전",
-    "url": "https://www.newsis.com/view/NISX20260823_0003758797",
-    "title": "\"카드도 안 돌려줬다\"…홍콩서 노인에게 1770만원어치 화장품 강매",
-    "summary": [
-      "[서울=뉴시스]김성은 인턴 기자 = 홍콩에서 88세 노인이 백화점 내 화장품 매장에서 약 10만 홍콩달러(약 1770만원) 상당의 제품과 미용 서비스를 구매하도록 강요받았다는 주장이 제기돼 세관 당국이 조사에 나섰다.",
-      "22일 사우스차이나모닝포스트(SCMP)에 따르면 응씨는 최근 사회관계망서비스(SNS)를 통해 자신의 88세 어머니가 지난 4월 홍콩 상완의 윙온 백화점 내 화장품 브랜드 아비니치 매장에서 약 3시간 동안 판매원의 강압적인 권유를."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
     "id": "nc16154c6",
     "category": "사회",
     "source": "아시아경제",
-    "time": "2시간 전",
+    "time": "3시간 전",
     "url": "https://view.asiae.co.kr/article/2026082401054552165",
     "title": "종단 개혁에서 사회참여까지…명진스님 빈소 추모 발길",
     "summary": [
@@ -564,7 +596,7 @@ window.NEWS_DB = [
     "id": "nfa5d86f7",
     "category": "경제",
     "source": "한국경제",
-    "time": "3시간 전",
+    "time": "4시간 전",
     "url": "https://www.hankyung.com/article/2026081744507",
     "title": "[오늘의 운세] 오늘 뭐 먹지?…8월 24일 띠별 추천 점심메뉴",
     "summary": [
@@ -578,39 +610,11 @@ window.NEWS_DB = [
     "id": "nff59e9b3",
     "category": "경제",
     "source": "한국경제",
-    "time": "3시간 전",
+    "time": "4시간 전",
     "url": "https://www.hankyung.com/article/2026082149767",
     "title": "[오늘의 운세] 2026년 8월 24일 별자리 운세",
     "summary": [
       "[오늘의 운세] 2026년 8월 24일 별자리 운세."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "ne2fbb065",
-    "category": "경제",
-    "source": "한국경제",
-    "time": "3시간 전",
-    "url": "https://www.hankyung.com/article/2026082148707",
-    "title": "[오늘의 운세] 2026년 8월 24일 오행별 행운의 컬러",
-    "summary": [
-      "[오늘의 운세] 2026년 8월 24일 오행별 행운의 컬러."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nd2ec3756",
-    "category": "경제",
-    "source": "한국경제",
-    "time": "3시간 전",
-    "url": "https://www.hankyung.com/article/2026082147187",
-    "title": "[오늘의 운세] 8월 24일 띠별 운세",
-    "summary": [
-      "[오늘의 운세] 8월 24일 띠별 운세."
     ],
     "chips": [
       "#뉴스"
@@ -623,8 +627,8 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2850건",
-    "trend": "+335%"
+    "mentions": "2460건",
+    "trend": "+275%"
   },
   {
     "rank": 2,
@@ -635,8 +639,8 @@ window.KEYWORD_TOP = [
   {
     "rank": 3,
     "tag": "금리",
-    "mentions": "1420건",
-    "trend": "+115%"
+    "mentions": "1550건",
+    "trend": "+135%"
   }
 ];
 // ====AUTO-GENERATED-END====
