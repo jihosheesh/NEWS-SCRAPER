@@ -1,11 +1,42 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-08-23 00:40:18
+// 마지막 업데이트: 2026-08-23 02:18:07
 window.NEWS_DB = [
+  {
+    "id": "n2e25dc41",
+    "category": "IT",
+    "source": "v.daum.net",
+    "time": "11분 전",
+    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5kblVLanlWc3JqblhuZ1JMLTRZYU1pOW1HOXdGN2x4SFhWMXhuZG1wdDh5a0pQSWNoNV9aLVhRMDdLd2I3Nm9mOHRDUzRsUUE?oc=5",
+    "title": "엔비디아, AI 서버 가격 15% 인상 예고… 메모리 반도체값 상승 여파",
+    "summary": [
+      "엔비디아, AI 서버 가격 15% 인상 예고… 메모리 반도체값 상승 여파 v.daum.net."
+    ],
+    "chips": [
+      "#AI",
+      "#반도체",
+      "#엔비디아"
+    ]
+  },
+  {
+    "id": "n4384bce7",
+    "category": "IT",
+    "source": "연합뉴스",
+    "time": "1시간 전",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9WeWJ5YXB2U2cxdDJNR3V5Wjl6TTZBT0NzUVZXTjdWRnIxNVB3VTVzRTZJbjc1amlWWWVuZ0k5X0xfSDlXdkhWZFFwNUpWUm5hLWpuby1Jak01dWPSAWBBVV95cUxQaGt6VGpEMlRmYmFROFlKWTFYcFNpNVROc2wtQW1jckFIdkFncUc2X0t1bnlKcjJUX3d1N0VRd2tNeUtPUVNGck5nR1R6aDJhSERiQ1JwbWt2WTY3SlpQTmc?oc=5",
+    "title": "AI 서버값 '고공행진'…엔비디아, 고객사에 가격 15% 인상 예고",
+    "summary": [
+      "AI 서버값 '고공행진'…엔비디아, 고객사에 가격 15% 인상 예고 연합뉴스."
+    ],
+    "chips": [
+      "#AI",
+      "#엔비디아"
+    ]
+  },
   {
     "id": "na83ca595",
     "category": "IT",
     "source": "서울경제TV",
-    "time": "1시간 전",
+    "time": "3시간 전",
     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE4tNjdnckp3SHdITEdhRFNRcFEwQWlGSXVqS01yOHM4amFmTEN0OEJNb24xWGxTczdYSXBGeTJTaGpYNWxsckpCUDBLZHo3dHFrWXVtZHpZdzgtMGlHU3MyR095YXI?oc=5",
     "title": "엔비디아, 中 맞춤형 AI칩 출시설 부인…“계획 없다”",
     "summary": [
@@ -17,41 +48,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "ne1436f0f",
-    "category": "IT",
-    "source": "edaily.co.kr",
-    "time": "1시간 전",
-    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOa3NpMEZRNTh0WmR6UEUwbV9iMHVBamZ4ZkUzU3VKVmF1MVNacVY4RGdRblVhV1JhSURfZVFsTnpJRWVwOGNkNktNYkZPWHhhSFd4emlvS3dVNTVERDZYLWVCR2JJU1dtc2hZNFAzd0dwdDJsODRUMzdxdmJYOGNKZA?oc=5",
-    "title": "엔비디아, AI 서버값 15% 인상…\"원인은 한국 메모리\"",
-    "summary": [
-      "엔비디아, AI 서버값 15% 인상…\"원인은 한국 메모리\" edaily.co.kr."
-    ],
-    "chips": [
-      "#AI",
-      "#엔비디아"
-    ]
-  },
-  {
-    "id": "n781455de",
-    "category": "IT",
-    "source": "뉴스1",
-    "time": "2시간 전",
-    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE8zTmR0c19QdTFybFdEX0tPZkxQeWRfVm83UVdyVGZ3cTNDeWlpSlRSM1pzWnhZNzlLbTZTTUJyWExPcHpLeWdCT1hUTkhzbjZWX3lMeUNsclZuT0J5V2NmN05mUWXSAWpBVV95cUxPcmlMX1F3Rklob1M5V3d2OUt0WDdRc21zX0JFR0ttbzh0ZmhNVWxxZTFTaUtVNkYtS3dBSk1TS0s2VG1sWFBWcjAtZk9zbHJIWGdINnVaMV95SE56RXQ5NE1QUkFQRnptUlNR?oc=5",
-    "title": "엔비디아 2Q 성적표 '관전포인트' 3가지…AI 반도체 2막 가늠한다",
-    "summary": [
-      "엔비디아 2Q 성적표 '관전포인트' 3가지…AI 반도체 2막 가늠한다 뉴스1."
-    ],
-    "chips": [
-      "#AI",
-      "#반도체",
-      "#엔비디아"
-    ]
-  },
-  {
     "id": "nb65cf3ee",
     "category": "IT",
     "source": "네이트",
-    "time": "3시간 전",
+    "time": "5시간 전",
     "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBjMWgxVGExaFlua1hTUVBLWTdlb3dhdlFfMzBoRDllV3NidUh3NENWQ3dmVFdsTGkxeUwtQ3k0dUFhczk1SEpFYnYycTFhbWxLc2RJ?oc=5",
     "title": "브로드컴 AI 매출 1160억달러 전망…삼성전자 HBM·파운드리 '기회'",
     "summary": [
@@ -67,7 +67,7 @@ window.NEWS_DB = [
     "id": "n82852efd",
     "category": "IT",
     "source": "IT조선",
-    "time": "3시간 전",
+    "time": "5시간 전",
     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9EMmxiS0xwVXY2cFVsVlFXOXVIRExMcGRhRXhuUUpfbXVnZHJDTTFxX1IwYkJHV3BMSjRLNmhueUViUzFQcE9adlVrNG5GSUZQZWQyRGJaTUhHMmg2aVpISFN4a2Z5Y3dIWURaV2FpVmjSAXRBVV95cUxPMG9TemRUQmdxVUxBblAwdzEzanAzMWRGU0hmVXlUVHR0VXVsWVdjSFU0R3VSbGRzOHF4Rnd4cktXSk5VMmY5cEJZdjI5elZiOXpuNzVYSFJUNzhyYzNrcEU5aTVhVWJfVTY5WVJtUmI1WVlHcg?oc=5",
     "title": "‘HBM 묶어 파는’ 삼성 파운드리, TSMC 틈새 뚫고 흑자 시동",
     "summary": [
@@ -211,6 +211,20 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n207a7abe",
+    "category": "IT",
+    "source": "Chosunbiz",
+    "time": "60일 전",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPUGdtbi01TkVMYXphY1VqbF9xRzB3TkVUbWtrM2NhN2d1NmpvS29NLTY5UWFtbFNrangxUlRnQUpxOW9rSEZwWVZuWU42aUdIU1FUUlhnQ0NLbjBXdlNpQ2labGU1cUt3WVZ3NEhVVmtJNjJlc3lUalByb0tqZDBucVJleGVLUFpaanFZX3RLZWvSAaQBQVVfeXFMTXFmYjM1dzZaM0d5QjZZQXJIb0VnanMzR29JcWlBQVZreFhGVVZlRmd4c2xoejc0ajVvdDhkUVo5ZWJ5bWlyVlZSUzlveG9EamJZblA5VDkwRG16QW1hRW1Qel9mTHRfdWI3MHhvbTJfd3ZoRTNIb3dVbjByNmI5T3llUUt2ZlZjVmEwQlV4M0FvMTRVT0JYaG4zNDZ6Rkw1LVVodlA?oc=5",
+    "title": "중기부, 2030년까지 ‘유니콘’ 50개 육성 나선다 - 조선비즈",
+    "summary": [
+      "중기부, 2030년까지 ‘유니콘’ 50개 육성 나선다 - 조선비즈 Chosunbiz."
+    ],
+    "chips": [
+      "#스타트업"
+    ]
+  },
+  {
     "id": "n244b01bd",
     "category": "경제",
     "source": "스트레이트뉴스",
@@ -252,20 +266,6 @@ window.NEWS_DB = [
     "chips": [
       "#손흥민",
       "#KBO"
-    ]
-  },
-  {
-    "id": "n37646dcf",
-    "category": "IT",
-    "source": "유니콘팩토리",
-    "time": "86일 전",
-    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5KV2k5SXVJM0hUUlJLbHg3U2hqak90M0dETHQ2dmd2M2w1QWtKb2Qzd2VsRG50N1dIWGkzZUVfUU5Ld1lSRFlzS1NhclJEcGJKanlRRGc2alhtNHM4aUVCWWhpMEU4bllEQ3RMRA?oc=5",
-    "title": "\"유니콘 배출보다 중요한 건 ○○\"…중기부가 보는 '모두의 창업'은",
-    "summary": [
-      "\"유니콘 배출보다 중요한 건 ○○\"…중기부가 보는 '모두의 창업'은 유니콘팩토리."
-    ],
-    "chips": [
-      "#스타트업"
     ]
   },
   {
@@ -312,6 +312,38 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n667eed32",
+    "category": "IT",
+    "source": "테크M",
+    "time": "방금 전",
+    "url": "https://www.techm.kr/news/articleView.html?idxno=154541",
+    "title": "[넥슨X오버워치] '오버워치' 품은 넥슨의 자신감…글로벌 IP에 '한국식 운영' 더한다",
+    "summary": [
+      "넥슨이 블리자드 엔터테인먼트의 대표 지식재산권(IP) '오버워치'를 앞세워 국내 PC 게임 시장 공략에 속도를 낸다.",
+      "블리자드가 게임 개발과 글로벌 서비스를 이끌고, 넥슨은 국내 이용자와 커뮤니티에 밀착한 운영을 맡는 방식이다.",
+      "세계적인 IP에 넥슨이 수십 년간 국내 온라인게임 시장에서 축적한 라이브 서비스 역량을 더해 한국에서 오버워치의 저변을 다시 넓히겠다는 구상이다.슈터 장르 더 강해진 넥슨...커뮤니티 응집력 'UP'23일 게임업계에 따."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nc435ac67",
+    "category": "IT",
+    "source": "테크M",
+    "time": "방금 전",
+    "url": "https://www.techm.kr/news/articleView.html?idxno=154540",
+    "title": "[넥슨X오버워치] 블리자드 \"넥슨, 우리가 찾던 파트너\"…韓서 글로벌 성공모델 만든다",
+    "summary": [
+      "블리자드 엔터테인먼트가 한국 시장에서 '오버워치'의 새로운 성장 파트너로 넥슨을 선택한 배경을 공개했다.",
+      "수년간 한국 시장의 성장 가능성을 검토한 끝에 라이브 서비스 경험과 장르 전문성, 국내 이용자 및 커뮤니티에 대한 이해도를 두루 갖춘 넥슨이 자신들이 찾던 파트너의 조건에 부합했다고 평가했다.",
+      "넥슨과 함께 한국 이용자 기반을 넓히고 국내에서 검증된 성공 사례를 글로벌 서비스에 활용하는 방안도 모색한다.월터 콩 블리자드 라이브 게임·모바일 개."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
     "id": "nb8ed6416",
     "category": "IT",
     "source": "테크M",
@@ -344,288 +376,255 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n14064024",
-    "category": "IT",
-    "source": "테크M",
-    "time": "방금 전",
-    "url": "https://www.techm.kr/news/articleView.html?idxno=154510",
-    "title": "AI에 흔들린 SaaS 몸값...워크데이 한국지사장이 던진 반론은",
+    "id": "n5abc1360",
+    "category": "스포츠",
+    "source": "뉴시스",
+    "time": "2분 전",
+    "url": "https://www.newsis.com/view/NISX20260823_0003758764",
+    "title": "올림픽공원 개표소 시위서 폭행…경찰, 50대 남성 현행범 체포",
     "summary": [
-      "허정열 워크데이 한국지사장이 AI 확산으로 서비스형 소프트웨어(SaaS)의 사업 모델이 바뀔 수 있다고 진단했다.",
-      "이용자 수에 따라 비용을 받는 기존 모델이 시험대에 올랐다는 설명이다.",
-      "다만 AI 에이전트가 기업 업무를 대신해도 인사나 재무 데이터, 권한, 승인 절차를 관리하는 시스템은 계속 필요하다고 봤다.23일 IT업계에 따르면 허정열 지사장은 자사 미디엄 페이지에 '엔터프라이즈 AI와 차세대 AE'를 주제로 한 글을 게재했다."
-    ],
-    "chips": [
-      "#AI"
-    ]
-  },
-  {
-    "id": "n9050fb30",
-    "category": "경제",
-    "source": "아시아경제",
-    "time": "1분 전",
-    "url": "https://view.asiae.co.kr/article/2026082309381687015",
-    "title": "창원특례시, 광암해수욕장·3·15해양누리공원 물놀이장 문 닫아요",
-    "summary": [
-      "창원시민들과 바다를 찾는 관광객들에게 인기를 끌었던 광암해수욕장과 3·15해양누리공원 물놀이장이 운영을 종료한다.",
-      "경남 창원특례시는 지난 7월 4일부터 개장한 광암해수욕장이 51일간의 운영을 마치고 8월 23일 폐장한다고 밝혔다.올해 광암해수욕장 방문객은 5만8000여명으로 지난해 대비 약 18% 감소한 것으로 나타났다.",
-      "이는 장기간 이어진 불볕더위와 폭염으로 야외활동을 자제하는 분위기가 확산하면서 해수욕장 이용객."
+      "[서울=뉴시스] 신항섭 기자 = 서울 올림픽공원 핸드볼경기장 개표소 시위 현장에서 다른 시위 참가자를 폭행한 혐의를 받는 남성이 경찰에 붙잡혔다.",
+      "서울 송파경찰서는 지난 22일 오후 9시30분께 핸드볼경기장 시위 현장에서 폭행 혐의로 50대 남성 A씨를 현행범 체포했다고 23일 밝혔다.",
+      "A씨는 시위 현장에서 갈등을 빚던 다른 참가자의 목덜미를 잡아끄는 등 폭행한 혐의를 받는다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n3624e486",
+    "id": "n52f2e49e",
     "category": "사회",
     "source": "뉴시스",
     "time": "2분 전",
-    "url": "https://www.newsis.com/view/NISX20260823_0003758713",
-    "title": "\"국힘 의원들, 지지자들과 '5열 스크럼' 구축해 尹체포방해\"…특검 공소장",
+    "url": "https://www.newsis.com/view/NISX20260823_0003758793",
+    "title": "[경남소식]경남교육청 기록원, 추억의 놀이 체험 등",
     "summary": [
-      "[서울=뉴시스] 오정우 기자 = 윤석열 전 대통령에 대한 체포영장 집행 방해 혐의로 재판에 넘겨진 국민의힘 의원들이 현직 신분을 내세우며 관저 진입을 가로막은 것으로 조사됐다.",
-      "김기현 의원 등 4명은 '5중 인간벽(스크럼)'을 짜고 2시간가량 영장 집행을 지연시킨 것으로 파악됐다.",
-      "23일 뉴시스가 입수한 김기현, 나경원, 권영진, 윤상현 국민의힘 의원의 특수공무집행방해 혐의 공소장에 따르면 이들은 지난해 1월 15일 이같이 윤 전 대통령 체포영."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "nf29976b1",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "2분 전",
-    "url": "https://www.newsis.com/view/NISX20260823_0003758730",
-    "title": "대구 2·28기념학생도서관 '독서활동지 개발' 학교 독서교육 지원",
-    "summary": [
-      "[대구=뉴시스] 박준 기자 = 대구 2·28기념학생도서관이 학교 독서교육 지원을 위한 독서활동지를 개발해 제공하고 있다.",
-      "23일 대구시교육청에 따르면 2·28 독서활동지는 2019년부터 개발돼 현재 747종까지 확충됐으며 다운로드 누적 횟수는 3만2000여회로 학급 독서수업 자료로 꾸준히 활용되고 있다.",
-      "2·28독서활동지는 학생들이 같은 책을 함께 읽고 탐구하고 표현할 수 있도록 돕는 독서 도움 자료이며 학급이 같은 책을 함께 읽도록 동일 도서."
+      "[창원=뉴시스] 김기진 기자 = 경상남도교육청 기록원은 도내 가족 25팀이 참여한 가운데 가족놀이 프로그램 2탄 ‘슬기로운 놀이탐구-골목놀이’를 진행했다고 23일 밝혔다.",
+      "경남교육청 기록원은 개원을 기념해 지난 2일 가족 체험 프로그램 1탄 'K-보드게임, 승경도를 아시나요?'를 운영한 데 이어, 이번에는 부모 세대의 추억이 담긴 골목놀이를 통해 온 가족이 함께 소통하고 공감할 수 있는 자리를 마련했다.",
+      "기록원 1층 강당에서 열린 이날 행사에서."
     ],
     "chips": [
       "#교육"
     ]
   },
   {
-    "id": "n40da74d2",
+    "id": "nbd3db51b",
     "category": "사회",
     "source": "뉴시스",
     "time": "2분 전",
-    "url": "https://www.newsis.com/view/NISX20260823_0003758694",
-    "title": "허리케인 겪은 하와이 본섬에 또 열대폭풍 모크 접근, 비상",
+    "url": "https://www.newsis.com/view/NISX20260823_0003758801",
+    "title": "처서에도 무더위…서울 전역 폭염주의보 발효",
     "summary": [
-      "[호놀룰루( 하와이)= AP/ 뉴시스] 차미례 기자 = 열대성 폭풍 모크가 22일(현지시간) 하와이 본섬( 빅 아일랜드)를 향해 접근하고 있어 얼마전 허리케인 랄라로 엄청난 폭풍과 홍수 피해를 입은 이 곳에 더 큰 피해가 우려되고 있다.",
-      "모크는 21일 태평양에서 형성되어 현재 힐로 남동쪽 680km 지점에서 서북서쪽 방향으로 시속 19km의 속도로 이동 중이다.",
-      "최대 풍속은 시속 85km라고 미 국립기상센터는 발표했다."
+      "[서울=뉴시스] 신항섭 기자 = 절기상 더위가 한풀 꺾인다는 처서(處暑)인 23일에도 서울과 경기도 일부 지역에 폭염주의보가 발효됐다.",
+      "기상청은 이날 오전 11시부로 서울과 경기 광명·과천·김포·고양·양주·의정부·오산·평택·의왕·하남·이천·안성·화성·광주·여주·용인서북부·용인남부에 폭염주의보를 발표했다.",
+      "이날 오전 10시 기준 서울과 인천, 경기도는 가끔 구름이 많은 가운데 체감온도가 30도 이상인 곳이 많은 것으로 나타났다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "nf4487076",
+    "id": "n6d2635af",
+    "category": "경제",
+    "source": "아시아경제",
+    "time": "2분 전",
+    "url": "https://view.asiae.co.kr/article/2026082311152959789",
+    "title": "[인사]중소벤처기업부",
+    "summary": [
+      "◆과장급 전보▲글로벌성장정책과장 신재경 ▲정보화담당관 박보근 ▲중소기업제도과장 김진한 ▲기업구조개선과장 우창훈 ▲청년정책과장 이호중 ▲특구운영과장 남정령 ▲지역상권과장 임동우 ▲대구·경북지방중소벤처기업청 지역정책과장 백원현."
+    ],
+    "chips": [
+      "#스타트업",
+      "#정책"
+    ]
+  },
+  {
+    "id": "n99e6499c",
     "category": "사회",
+    "source": "아시아경제",
+    "time": "2분 전",
+    "url": "https://view.asiae.co.kr/article/2026082311150849056",
+    "title": "국수본부장, 제주 방문해 \"실종 허위 종결 사태 국민께 송구\"",
+    "summary": [
+      "홍석기 경찰청 국가수사본부장이 제주 실종 사건 허위 종결 사태와 관련해 \"국민에게 당연히 송구스럽게 생각하고 다시는 이런 일이 일어나지 않도록 제도적으로 보완하겠다\"고 23일 밝혔다.",
+      "홍 본부장은 이날 제주경찰청을 방문한 후 청사를 나가면서 취재진에게 \"국민의 생명과 관련된 부분이므로, 여러 가지 미비점이 없는지 현장을 확인했다\"며 이같이 전했다.",
+      "이어 그는 \"제도적으로 보완할 것 외에 보완하기 전이라도 현장 수."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "ne692465e",
+    "category": "사회",
+    "source": "아시아경제",
+    "time": "2분 전",
+    "url": "https://view.asiae.co.kr/article/2026082310414368689",
+    "title": "서울시 아동복지센터, '광역 아동보호 컨트롤타워'로 개편",
+    "summary": [
+      "서울시가 아동보호 환경에 선제적으로 대응하기 위해 '서울특별시 아동복지센터'의 역할을 대폭 강화한다고 23일 밝혔다.",
+      "내년부터는 고위험군 아동 집중치료, 공적입양 통합지원, 아동학대 대응지원에도 나서기로 했다.",
+      "아동 인구 감소에도 서울시 양육시설에서 생활하는 아동의 48%(2025년 기준 1497명 중 719명)는 경계선 지능 및 ADHD·정서행동 문제를 겪는 것으로 나타났다."
+    ],
+    "chips": [
+      "#환경"
+    ]
+  },
+  {
+    "id": "n7d235d3f",
+    "category": "경제",
+    "source": "아시아경제",
+    "time": "2분 전",
+    "url": "https://view.asiae.co.kr/article/2026082119462224569",
+    "title": "서울 성수동 노후 준공업지역 개발…크래프톤 사옥·시민 휴게공간 들어서",
+    "summary": [
+      "서울 성동구 성수동 노후 준공업지역 일대가 IT 및 문화콘텐츠 산업 중심지로 재편된다.",
+      "게임사 크래프톤 전용 소프트웨어 개발거점과 각종 문화시설이 들어설 예정이다.",
+      "서울시는 제8차 도시·건축공동위원회 수권분과위원회를 통해 성수IT산업·유통개발진흥지구 지구단위계획구역 내 성수동2가 276-2 일대에 대한 기반시설 등 충분여부 심의안을 조건부가결했다고 23일 밝혔다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n21a3c076",
+    "category": "부동산",
     "source": "뉴시스",
     "time": "3분 전",
-    "url": "https://www.newsis.com/view/NISX20260823_0003758714",
-    "title": "단종의 서사를 국악과 토크로…세종국악관현악단, 9월 한낮의 음악회 '여음'",
+    "url": "https://www.newsis.com/view/NISX20260823_0003758799",
+    "title": "2031년까지 모아주택 4만호 착공…서울시 속도 높인다",
     "summary": [
-      "[서울=뉴시스] 최희정 기자 = 창단 34년을 맞은 세종국악관현악단이 오는 9월 10일 오전 11시 군포문화예술회관 철쭉홀에서 한낮의 토크 음악회 '여음(餘音)' 세 번째 시리즈를 개최한다.",
-      "올 상반기 첫 번째, 두 번째 시리즈로 국악의 울림과 차 한 잔의 여유를 선사했던 '여음'이 오는 9월, 조선 제6대 왕 '단종'의 애달픈 삶을 우리 소리와 인문학적 토크로 관객들과 만난다.",
-      "이번 무대는 역사와 영화, 국악이 어우러진 콘셉트로 꾸며진다."
+      "[서울=뉴시스] 최현호 기자 = 서울시는 2031년까지 모아주택 4만호 착공을 목표로 '모아타운 쾌속통합 추진계획'을 본격 추진한다고 23일 밝혔다.",
+      "중간 단계인 2028년까지 1만4000호 착공이 목표다.",
+      "시는 2030년까지 '모아통합기획' 후보지 100곳을 새로 선정해 추가 12만호 규모의 주택공급 기반도 마련할 계획이다."
     ],
     "chips": [
-      "#뉴스"
+      "#정책"
     ]
   },
   {
-    "id": "n0f7b2249",
-    "category": "경제",
-    "source": "아시아경제",
-    "time": "4분 전",
-    "url": "https://view.asiae.co.kr/article/2026082309314370131",
-    "title": "해남서 규모 3.1 지진…원안위 \"원자로시설 이상 無\"",
-    "summary": [
-      "원자력위원회는 23일 오전 6시43분 전남광주 해남군 서북서쪽 21㎞ 지역에서 발생한 규모 3.1 지진과 관련 국내 원자로 시설의 안정성에 문제가 없다고 밝혔다.",
-      "진앙으로부터 약 83.2㎞ 떨어진 한빛 원자력발전소는 이번 지진으로 측정된 지진계측값은 0.0032g으로 확인됐다.",
-      "이는 진앙에서 가장 가까운 원자로 시설이다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n1b0ae580",
-    "category": "사회",
-    "source": "아시아경제",
+    "id": "n920b66e8",
+    "category": "스포츠",
+    "source": "조선일보",
     "time": "5분 전",
-    "url": "https://view.asiae.co.kr/article/2026082309260859189",
-    "title": "'비만약' 끊고 요요왔다면…\"우울감 2배·극단적 생각 4배 ↑\"",
+    "url": "https://www.chosun.com/sports/world-football/2026/08/23/MYYDEMTGHE3TQMLFGBRTKNJTGA/",
+    "title": "올 시즌은 다르다! '괴물' 김민재, 첫 판부터 벽 모드 '풀타임+수비진 최고 평점+드리블 허용-파울 0개'...바이에른은 도르트문트에 2-1 승 '슈퍼컵 2연패'",
     "summary": [
-      "이른바 '살 빼는 약'을 먹은 뒤 다시 체중이 늘어난 경우 극단적 생각을 할 가능성이 4배 이상 높아진다는 연구 결과가 나왔다.",
-      "23일 의료계에 따르면 서울아산병원 손기영 가정의학과 교수 연구진은 2013~2022년 국민건강영양조사에 참여한 성인 2만7741명(남성 1만908명·여성 1만6833명)의 데이터를 분석했다.",
-      "그 결과 살 빼는 약을 먹어본 적이 있는 사람은 사용하지 않았던 사람에 비해 우울 경험은 1.9배·극단적 생각을 할."
-    ],
-    "chips": [
-      "#의료"
-    ]
-  },
-  {
-    "id": "nc2feb794",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "6분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260823015700065",
-    "title": "인천공항 MRO 정기 협의체 발족…글로벌 경쟁력 확보",
-    "summary": [
-      "(인천=연합뉴스) 김상연 기자 = 인천국제공항공사는 인천공항의 유지·보수·개조(MRO) 인프라를 토대로 항공 정비 생태계를 구축하기 위해 '인천..."
+      "[스포츠조선 박찬준 기자]'괴물' 김민재(바이에른 뮌헨)가 또 하나의 트로피를 추가했다.",
+      "바이에른은 23일(이하 한국시각) 독일 도르트문트의 지그날 이두나 파크에서 열린 도르트문트와의 2026~2027시즌 프란츠 베켄바워 슈퍼컵에서 2대1로 승리했다.",
+      "슈퍼컵은 지난 시즌 분데스리가와 독일축구협회(DFB) 포칼컵 우승팀이 시즌 개막 전 단판으로 치르는 맞대결."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n732807f7",
-    "category": "사회",
-    "source": "동아일보",
+    "id": "nc25d9f16",
+    "category": "스포츠",
+    "source": "조선일보",
     "time": "6분 전",
-    "url": "https://www.donga.com/news/Culture/article/all/20260823/134524262/1",
-    "title": "운동 싫다는 오은영, 17㎏ 감량 성공…“허벅지 꼬집으며 과일 참았다”",
+    "url": "https://www.chosun.com/entertainments/broadcast/2026/08/23/GZTDONRWMQ4TEMLCHBSWENJUGM/",
+    "title": "손태진, '불후의 명곡' 최백호 편 최종 우승..\"절절하게 표현\" 극찬",
     "summary": [
-      "정신건강의학과 전문의 오은영 박사가 운동 대신 식단 조절을 중심으로 다이어트에 성공했다고 밝혔다.21일 오 박사의 유튜브 채널 ‘오은영의 버킷리스트’에는 모델 이현이와 대화를 나누는 영상이 올라왔다.오 박사는 “1년 7개월 동안 17㎏을 뺐다”며 최근 다이어트를 했다고 밝혔다.",
-      "그는 “과일을 좋아하는데, (당류라서) 많이 줄였다”며 “허벅지를 꼬집어 가며 참았더니 살이 많이 빠졌다”고 설명했다.",
-      "이어 “운동을 엄청 싫어한다”며 운동보다는 식단."
+      "[OSEN=최이정 기자] 가수 손태진이 ‘불후의 명곡’에서 압도적인 보컬과 깊은 감성으로 통산 여섯 번째 우승을 차지했다.손태진은 지난 22일 방송된 KBS 2TV '불후의 명곡'의 '50주년-아티스트 최백호' 편에 출연해 명품 무대를 선사하며 관객과 원곡자를 매료시켰다.본 무대에 앞서 손태진은 \"오래오래 노래해서 '이런 가수가 되어야지' 한다면 단연 최백."
     ],
     "chips": [
-      "#의료"
+      "#뉴스"
     ]
   },
   {
-    "id": "n8e5b8197",
+    "id": "ne983ed1a",
     "category": "사회",
     "source": "조선일보",
-    "time": "7분 전",
-    "url": "https://www.chosun.com/economy/science/2026/08/23/GU2GKNZYHFSDEZRUMFRGGMBQGU/",
-    "title": "오름테라퓨틱 “급성골수성백혈병 신약 후보 1상 계획, 美FDA 승인…연내 첫 투여\"",
+    "time": "8분 전",
+    "url": "https://www.chosun.com/economy/auto/2026/08/23/2GC3EFLB4BHZZCC7ATLR5FTJ4U/",
+    "title": "GV90, B필러 없앤 세계 최초 기술의 핵심 무기 ‘듀얼모션 힌지’란?",
     "summary": [
-      "오름테라퓨틱은 미국 식품의약국(FDA)이 급성골수성백혈병 치료제 후보물질 ‘ORM-1153’의 임상 1상 시험계획(IND)을 승인했다고 23일 밝혔다.",
-      "오름테라퓨틱은 이번 승인에 따라 재발성 또는 불응성 급성골수성백혈병(AML) 및 기타 혈액암 환자를 대상으로 올해 말까지 ORM-1153의 최초 인체 투여 1상 임상을 시작할 계획이다."
+      "GV90, B필러 없앤 세계 최초 기술의 핵심 무기 ‘듀얼모션 힌지’란?."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "ned342ba9",
-    "category": "IT",
-    "source": "연합뉴스",
-    "time": "7분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260821172400017",
-    "title": "[AI프리즘] AI도 '전기요금' 시대 오나…제2 원자재 부상",
-    "summary": [
-      "(서울=연합뉴스) 권하영 기자 = 인공지능(AI) 서비스 요금이 전기요금처럼 수요·공급에 따라 실시간으로 움직이는 시대가 머지않았다는 분석이 제..."
-    ],
-    "chips": [
-      "#AI"
-    ]
-  },
-  {
-    "id": "na9cfdac9",
-    "category": "IT",
-    "source": "조선비즈IT",
-    "time": "7분 전",
-    "url": "https://biz.chosun.com/it-science/ict/2026/08/23/RBRRBUDGQVANHCCJ7BVCZISEUA/",
-    "title": "KT·서울시, 초등학생 100명 대상 ‘AI 미래 캠프’ 개최",
-    "summary": [
-      "KT·서울시, 초등학생 100명 대상 ‘AI 미래 캠프’ 개최."
-    ],
-    "chips": [
-      "#AI"
-    ]
-  },
-  {
-    "id": "n90724591",
-    "category": "사회",
+    "id": "nbc5c25b6",
+    "category": "스포츠",
     "source": "연합뉴스",
     "time": "8분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260823015200053",
-    "title": "경북 안동서 '코리아 그랜드 페스티벌' 막 오른다",
+    "url": "https://www.yna.co.kr/view/AKR20260823022400007",
+    "title": "포르투갈 25세 축구선수, 포르투갈 리그 친선경기 도중 숨져",
     "summary": [
-      "(안동=연합뉴스) 이승형 기자 = 경북도는 정부가 추진하는 '2026 코리아 그랜드 페스티벌' 개막행사 개최지로 안동시가 선정됐다고 23일 밝혔..."
+      "(서울=연합뉴스) 배진남 기자 = 잉글랜드 프로축구 웨스트 브로미치 앨비언(웨스트브롬) 등에서 뛴 포르투갈 출신 미드필더 케빈 카스트로가 친선경..."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n2ed4ed5a",
+    "id": "n3499fc4d",
     "category": "사회",
-    "source": "아시아경제",
-    "time": "8분 전",
-    "url": "https://view.asiae.co.kr/article/2026082309312866600",
-    "title": "글로벌영농조합법인 정경훈 대표이사, 국세청장 공로상 받아",
+    "source": "연합뉴스",
+    "time": "15분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260823021900001",
+    "title": "韓총리, '제주 실종 부실수사' 논란에 \"철저히 진상 조사\"",
     "summary": [
-      "한국전산회계교육연구회는 23일 회계 및 글로벌영농조합법인 정경훈 대표가 세무 분야의 전문성 향상과 실무 중심 인재 양성을 위해 헌신한 노력 및 후학 양성을 위한 장학사업에 기여한 공적을 인정받아 국세청장 공로상을 받았다고 밝혔다.정 대표는 특히 교육부와 과기정보부, 중기부, 산자부, 국세청이 후원한 제32회 전국전산회계경진대회의 성공적인 개최를 위해 물심양면으로 지원했다.",
-      "또한 한국전산회계교육연구회 이사와."
+      "(서울=연합뉴스) 황윤기 기자 = 한성숙 국무총리는 23일 장미란(37) 씨 실종 사건에서 비롯된 경찰의 부실 수사 논란에 \"수사 과정 전반에 ..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "naee21f1d",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "17분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260823022000053",
+    "title": "포항시·시의회·포스텍, 의대 설립 추진 공동 대응",
+    "summary": [
+      "(포항=연합뉴스) 이승형 기자 = 경북 포항시와 포항시의회, 포스텍이 의과대학 설립 추진에 협력을 강화하기로 했다."
     ],
     "chips": [
       "#교육"
     ]
   },
   {
-    "id": "n51fd3bcf",
+    "id": "nb6b188b7",
     "category": "사회",
-    "source": "동아일보",
-    "time": "9분 전",
-    "url": "https://www.donga.com/news/Society/article/all/20260823/134524255/1",
-    "title": "“5만원 갚아” 지인 흉기로 수회 찌른 60대, 2심도 징역 15년",
-    "summary": [
-      "다른 사람에게 빌린 돈을 갚으라는 말을 듣고 지인을 살해한 60대에게 2심에서도 중형이 선고됐다.대구고법 형사1-2부(고법판사 왕해진)는 살인 혐의로 기소된 A(63)씨 항소심에서 피고인의 항소를 기각했다고 23일 밝혔다.재판부는 “원심의 양형은 피고인에게 불리하거나 유리한 정상들을 충분히 고려한 것으로 보인다”며 “원심의 형이 재량의 합리적인 범위를 벗어나 지나치게 무거워서 부당하다고 보이지 않는다”며 기각 이유를 설명했다.A씨는 지난해 12."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n3807b7d0",
-    "category": "IT",
     "source": "연합뉴스",
-    "time": "10분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260821079000017",
-    "title": "[AI위클리] 국산 NPU부터 AI 에이전트까지…경쟁판 넓어진다",
+    "time": "17분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260821131300051",
+    "title": "해수부, 해양안전 콘텐츠 공모전…5개 부문 대상",
     "summary": [
-      "(서울=연합뉴스) 유현민 기자 = 인공지능(AI) 경쟁의 무게중심이 거대언어모델(LLM)의 성능 대결을 넘어 AI를 구동하는 반도체와 현실 세계..."
-    ],
-    "chips": [
-      "#AI",
-      "#반도체"
-    ]
-  },
-  {
-    "id": "n560ae996",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "10분 전",
-    "url": "https://www.donga.com/news/It/article/all/20260821/134513044/2",
-    "title": "쥐 쓰다듬고 다른 동물 돌보는 원숭이…영장류에 숨겨진 ‘집사 본능’?",
-    "summary": [
-      "다른 종의 동물을 보살피고 유대감을 형성하려는 성향은 인간뿐만 아니라 영장류 전반에 깊이 뿌리내린 본능일 수 있다는 연구 결과가 나왔다."
+      "(부산=연합뉴스) 박성제 기자 = 해양수산부는 해양경찰청, 한국해양교통안전공단과 오는 24일부터 10월 22일까지 '2026년 해양안전 콘텐츠 ..."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n9ab18c61",
-    "category": "스포츠",
-    "source": "동아일보",
-    "time": "22분 전",
-    "url": "https://www.donga.com/news/Society/article/all/20260823/134524217/2",
-    "title": "‘우지원 딸’ 우서윤, 미스코리아 진(眞) 됐다",
+    "id": "n43ca9af3",
+    "category": "경제",
+    "source": "연합뉴스(경제)",
+    "time": "17분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260821182600002",
+    "title": "\"북중무역, 코로나 이전 수준 회복…구조적 무역적자는 지속\"",
     "summary": [
-      "전 프로농구 선수 우지원의 딸 우서윤(22)이 미스코리아 선발대회에서 최고의 영예인 ‘진(眞)’을 차지했다.글로벌이앤비(GLOBAL E&B) 주최로 22일 오후 서울 강남구 코엑스 오디토리움에서 열린 ‘제70회 미스코리아’ 본선 대회에서 서울·경기·인천 ‘선’ 출신 우서윤이 최고 영예의 ‘진’ 왕관을 썼다.",
-      "우서윤은 자신의 이름이 호명되자 놀란 마음을 감추지 못하며 “전혀 예상하지 못해 수상 소감도 준비하지 못했다”고 말했다."
+      "(서울=연합뉴스) 이도흔 기자 = 북한과 중국간 무역 규모가 코로나19 이전 수준을 회복했지만, 구조적 무역적자가 계속되는 '불균형한 회복'에 ..."
+    ],
+    "chips": [
+      "#수출"
+    ]
+  },
+  {
+    "id": "n0a95fd56",
+    "category": "사회",
+    "source": "연합뉴스(경제)",
+    "time": "17분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260822035100030",
+    "title": "해수부, 추석 맞이 비축 수산물 '역대 최대' 2만t 방출",
+    "summary": [
+      "(서울=연합뉴스) 홍국기 기자 = 해양수산부는 다음 달 추석을 앞두고 정부 비축 수산물 2만t을 시장에 공급한다고 23일 밝혔다."
     ],
     "chips": [
       "#뉴스"
@@ -637,21 +636,21 @@ window.NEWS_DB = [
 window.KEYWORD_TOP = [
   {
     "rank": 1,
-    "tag": "AI",
-    "mentions": "2330건",
-    "trend": "+255%"
+    "tag": "뉴스",
+    "mentions": "2720건",
+    "trend": "+315%"
   },
   {
     "rank": 2,
-    "tag": "뉴스",
-    "mentions": "2330건",
-    "trend": "+255%"
+    "tag": "AI",
+    "mentions": "1810건",
+    "trend": "+175%"
   },
   {
     "rank": 3,
     "tag": "반도체",
-    "mentions": "1550건",
-    "trend": "+135%"
+    "mentions": "1420건",
+    "trend": "+115%"
   }
 ];
 // ====AUTO-GENERATED-END====
