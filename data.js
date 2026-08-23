@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-08-22 23:11:11
+// 마지막 업데이트: 2026-08-23 00:40:18
 window.NEWS_DB = [
   {
     "id": "na83ca595",
     "category": "IT",
     "source": "서울경제TV",
-    "time": "10분 전",
+    "time": "1시간 전",
     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE4tNjdnckp3SHdITEdhRFNRcFEwQWlGSXVqS01yOHM4amFmTEN0OEJNb24xWGxTczdYSXBGeTJTaGpYNWxsckpCUDBLZHo3dHFrWXVtZHpZdzgtMGlHU3MyR095YXI?oc=5",
     "title": "엔비디아, 中 맞춤형 AI칩 출시설 부인…“계획 없다”",
     "summary": [
@@ -17,10 +17,25 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "ne1436f0f",
+    "category": "IT",
+    "source": "edaily.co.kr",
+    "time": "1시간 전",
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOa3NpMEZRNTh0WmR6UEUwbV9iMHVBamZ4ZkUzU3VKVmF1MVNacVY4RGdRblVhV1JhSURfZVFsTnpJRWVwOGNkNktNYkZPWHhhSFd4emlvS3dVNTVERDZYLWVCR2JJU1dtc2hZNFAzd0dwdDJsODRUMzdxdmJYOGNKZA?oc=5",
+    "title": "엔비디아, AI 서버값 15% 인상…\"원인은 한국 메모리\"",
+    "summary": [
+      "엔비디아, AI 서버값 15% 인상…\"원인은 한국 메모리\" edaily.co.kr."
+    ],
+    "chips": [
+      "#AI",
+      "#엔비디아"
+    ]
+  },
+  {
     "id": "n781455de",
     "category": "IT",
     "source": "뉴스1",
-    "time": "1시간 전",
+    "time": "2시간 전",
     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE8zTmR0c19QdTFybFdEX0tPZkxQeWRfVm83UVdyVGZ3cTNDeWlpSlRSM1pzWnhZNzlLbTZTTUJyWExPcHpLeWdCT1hUTkhzbjZWX3lMeUNsclZuT0J5V2NmN05mUWXSAWpBVV95cUxPcmlMX1F3Rklob1M5V3d2OUt0WDdRc21zX0JFR0ttbzh0ZmhNVWxxZTFTaUtVNkYtS3dBSk1TS0s2VG1sWFBWcjAtZk9zbHJIWGdINnVaMV95SE56RXQ5NE1QUkFQRnptUlNR?oc=5",
     "title": "엔비디아 2Q 성적표 '관전포인트' 3가지…AI 반도체 2막 가늠한다",
     "summary": [
@@ -36,7 +51,7 @@ window.NEWS_DB = [
     "id": "nb65cf3ee",
     "category": "IT",
     "source": "네이트",
-    "time": "2시간 전",
+    "time": "3시간 전",
     "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBjMWgxVGExaFlua1hTUVBLWTdlb3dhdlFfMzBoRDllV3NidUh3NENWQ3dmVFdsTGkxeUwtQ3k0dUFhczk1SEpFYnYycTFhbWxLc2RJ?oc=5",
     "title": "브로드컴 AI 매출 1160억달러 전망…삼성전자 HBM·파운드리 '기회'",
     "summary": [
@@ -52,7 +67,7 @@ window.NEWS_DB = [
     "id": "n82852efd",
     "category": "IT",
     "source": "IT조선",
-    "time": "2시간 전",
+    "time": "3시간 전",
     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9EMmxiS0xwVXY2cFVsVlFXOXVIRExMcGRhRXhuUUpfbXVnZHJDTTFxX1IwYkJHV3BMSjRLNmhueUViUzFQcE9adlVrNG5GSUZQZWQyRGJaTUhHMmg2aVpISFN4a2Z5Y3dIWURaV2FpVmjSAXRBVV95cUxPMG9TemRUQmdxVUxBblAwdzEzanAzMWRGU0hmVXlUVHR0VXVsWVdjSFU0R3VSbGRzOHF4Rnd4cktXSk5VMmY5cEJZdjI5elZiOXpuNzVYSFJUNzhyYzNrcEU5aTVhVWJfVTY5WVJtUmI1WVlHcg?oc=5",
     "title": "‘HBM 묶어 파는’ 삼성 파운드리, TSMC 틈새 뚫고 흑자 시동",
     "summary": [
@@ -89,21 +104,6 @@ window.NEWS_DB = [
     ],
     "chips": [
       "#반도체"
-    ]
-  },
-  {
-    "id": "n62776a87",
-    "category": "IT",
-    "source": "연합뉴스",
-    "time": "2일 전",
-    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBoeHoyVThQZ1RYcktBX0FtUXBNYVdfREVFeTlRLXBBemN5SlhTSXFob2hnYzcxZ0ZQb2I4SVEyZkNTQVZDYmJQTFJDVFdYR1RyVVhpV2JIZXBYdlnSAWBBVV95cUxPWFFONWVpcVNmYWFjTjQ5Q1JLNjMybFczcU5sX25EV3RaVDV0Z3ZBVU5XMnplUlVHd0xDSGhXN242WnFEcE5nN3NzMWx1WEdCNTF4SWhVMmFZaW9Ua2tKOWY?oc=5",
-    "title": "엔비디아가 中 맞춤형 AI칩 출시(?)…회사 \"전혀 계획 없다\"",
-    "summary": [
-      "엔비디아가 中 맞춤형 AI칩 출시(?)…회사 \"전혀 계획 없다\" 연합뉴스."
-    ],
-    "chips": [
-      "#AI",
-      "#엔비디아"
     ]
   },
   {
@@ -211,20 +211,6 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n207a7abe",
-    "category": "IT",
-    "source": "Chosunbiz",
-    "time": "60일 전",
-    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPUGdtbi01TkVMYXphY1VqbF9xRzB3TkVUbWtrM2NhN2d1NmpvS29NLTY5UWFtbFNrangxUlRnQUpxOW9rSEZwWVZuWU42aUdIU1FUUlhnQ0NLbjBXdlNpQ2labGU1cUt3WVZ3NEhVVmtJNjJlc3lUalByb0tqZDBucVJleGVLUFpaanFZX3RLZWvSAaQBQVVfeXFMTXFmYjM1dzZaM0d5QjZZQXJIb0VnanMzR29JcWlBQVZreFhGVVZlRmd4c2xoejc0ajVvdDhkUVo5ZWJ5bWlyVlZSUzlveG9EamJZblA5VDkwRG16QW1hRW1Qel9mTHRfdWI3MHhvbTJfd3ZoRTNIb3dVbjByNmI5T3llUUt2ZlZjVmEwQlV4M0FvMTRVT0JYaG4zNDZ6Rkw1LVVodlA?oc=5",
-    "title": "중기부, 2030년까지 ‘유니콘’ 50개 육성 나선다 - 조선비즈",
-    "summary": [
-      "중기부, 2030년까지 ‘유니콘’ 50개 육성 나선다 - 조선비즈 Chosunbiz."
-    ],
-    "chips": [
-      "#스타트업"
-    ]
-  },
-  {
     "id": "n244b01bd",
     "category": "경제",
     "source": "스트레이트뉴스",
@@ -269,18 +255,17 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n5a1617c5",
-    "category": "부동산",
-    "source": "헤럴드경제",
-    "time": "102일 전",
-    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1TS2Q2aDJMQXUtYUMtcmZTZkUtNXVycDVXUTFSYk1oeTg4TXNFTXQxN3RtcGVlRUJxMWlMWXk0c05lRFFvemxzYk0wa1hsZXMwbm1hVWtn?oc=5",
-    "title": "집값 상승, 전세품귀에…서울, 분양전망 1달 만에 기준치 회복 [부동산360]",
+    "id": "n37646dcf",
+    "category": "IT",
+    "source": "유니콘팩토리",
+    "time": "86일 전",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5KV2k5SXVJM0hUUlJLbHg3U2hqak90M0dETHQ2dmd2M2w1QWtKb2Qzd2VsRG50N1dIWGkzZUVfUU5Ld1lSRFlzS1NhclJEcGJKanlRRGc2alhtNHM4aUVCWWhpMEU4bllEQ3RMRA?oc=5",
+    "title": "\"유니콘 배출보다 중요한 건 ○○\"…중기부가 보는 '모두의 창업'은",
     "summary": [
-      "집값 상승, 전세품귀에…서울, 분양전망 1달 만에 기준치 회복 [부동산360] 헤럴드경제."
+      "\"유니콘 배출보다 중요한 건 ○○\"…중기부가 보는 '모두의 창업'은 유니콘팩토리."
     ],
     "chips": [
-      "#부동산",
-      "#전세"
+      "#스타트업"
     ]
   },
   {
@@ -298,6 +283,21 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n08b2b275",
+    "category": "부동산",
+    "source": "한국부동산뉴스",
+    "time": "130일 전",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBZNmg3TVp4ZWZCV1ZzTE14bXV5UkN4MExnMmZJdkpfNUsyUGltRWlJVWVfUzJoQktRUlcwMTdrUUtuWk9pR2MxaFlhNGpOU0xGZjM3eDUwdlNmRWQtYkFaenAyekhVRGRRY0pJ?oc=5",
+    "title": "대출 규제에 몰린 '15억 이하'…비강남 집값·분양가 동반 상승",
+    "summary": [
+      "대출 규제에 몰린 '15억 이하'…비강남 집값·분양가 동반 상승 한국부동산뉴스."
+    ],
+    "chips": [
+      "#부동산",
+      "#정책"
+    ]
+  },
+  {
     "id": "n4a365471",
     "category": "스포츠",
     "source": "v.daum.net",
@@ -312,310 +312,320 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n452353b9",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "6분 전",
-    "url": "https://www.newsis.com/view/NISX20260821_0003757772",
-    "title": "고양시, 사회조사…1590가구 15세 이상 모든 가구원 대상",
+    "id": "nb8ed6416",
+    "category": "IT",
+    "source": "테크M",
+    "time": "방금 전",
+    "url": "https://www.techm.kr/news/articleView.html?idxno=154502",
+    "title": "메가존클라우드, AI 수익성 새 판 짜기...'IPO 대어' 몸값 다진다",
     "summary": [
-      "[고양=뉴시스] 김도희 기자 = 경기 고양시는 27일부터 내달 10일까지 '제10회 사회조사'를 실시한다고 23일 밝혔다.",
-      "사회조사는 경기도가 주관하고 도내 31개 시·군이 참여하는 통계조사다.",
-      "시민들의 평소 생활과 만족도 등을 파악해 경기도와 각 시·군의 정책 수립을 위한 기초자료로 활용된다."
+      "메가존클라우드가 클라우드 사업에서 확보한 고객을 기반으로 기업의 AI 전환(AX)과 자체 AI 설루션 사업을 확대하고 있다.",
+      "지난해 1조7000억원이 넘는 매출을 거두며 첫 연간 흑자를 낸 데 이어 올해는 AI 사업을 수익으로 잇는 데 힘을 싣고 있다.23일 금융감독원 전자공시시스템에 등록된 메가존클라우드 2025년 감사보고서에 따르면 회사는 지난해 연결 기준 매출 1조7496억원을 기록했다.",
+      "전년보다 27.9% 증가한 역대 최대 매출이다."
     ],
     "chips": [
-      "#정책",
-      "#환경"
+      "#AI"
     ]
   },
   {
-    "id": "n259cab0f",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "7분 전",
-    "url": "https://www.newsis.com/view/NISX20260823_0003758662",
-    "title": "롯데홈쇼핑, '네메르' 리뉴얼…세계적 디자이너와 파리 컬렉션 선봬",
+    "id": "nbc93b282",
+    "category": "IT",
+    "source": "테크M",
+    "time": "방금 전",
+    "url": "https://www.techm.kr/news/articleView.html?idxno=154523",
+    "title": "[타봤다] 조용한데 또 달리고 싶다...BMW 530e가 보여준 '운전의 즐거움'",
     "summary": [
-      "[서울=뉴시스]동효정 기자 = 롯데홈쇼핑이 가을·겨울(FW) 시즌을 맞아 단독 패션 브랜드 네메르(NEMMER)를 리뉴얼하고 세계적인 패션 디자이너와 협업한 네메르 파리 컬렉션을 선보인다고 23일 밝혔다.",
-      "지난해 9월 론칭한 네메르는 최고급 캐시미어 등 프리미엄 소재를 중심으로 유행에 구애받지 않고 오래 입을 수 있는 상품을 선보여 왔다.",
-      "브랜드명은 새로운 시각을 뜻하는 ne(neo=new)와 나를 마주하다를 의미하는 MMER(me+mirror."
+      "BMW가 왜 오랫동안 '운전의 즐거움'을 강조해왔는지 다시 확인할 수 있는 시승이었다.",
+      "효율을 앞세운 플러그인 하이브리드(PHEV) 모델임에도 운전대를 잡으면 자연스럽게 한 번 더 달리고 싶어진다.시승 모델은 BMW 530e M Sport다.",
+      "2.0리터 BMW 트윈파워 터보 가솔린 엔진과 전기모터를 결합해 시스템 합산 최고출력 299마력을 낸다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "nd0288abe",
+    "id": "n14064024",
+    "category": "IT",
+    "source": "테크M",
+    "time": "방금 전",
+    "url": "https://www.techm.kr/news/articleView.html?idxno=154510",
+    "title": "AI에 흔들린 SaaS 몸값...워크데이 한국지사장이 던진 반론은",
+    "summary": [
+      "허정열 워크데이 한국지사장이 AI 확산으로 서비스형 소프트웨어(SaaS)의 사업 모델이 바뀔 수 있다고 진단했다.",
+      "이용자 수에 따라 비용을 받는 기존 모델이 시험대에 올랐다는 설명이다.",
+      "다만 AI 에이전트가 기업 업무를 대신해도 인사나 재무 데이터, 권한, 승인 절차를 관리하는 시스템은 계속 필요하다고 봤다.23일 IT업계에 따르면 허정열 지사장은 자사 미디엄 페이지에 '엔터프라이즈 AI와 차세대 AE'를 주제로 한 글을 게재했다."
+    ],
+    "chips": [
+      "#AI"
+    ]
+  },
+  {
+    "id": "n9050fb30",
     "category": "경제",
-    "source": "한국경제",
-    "time": "7분 전",
-    "url": "https://www.hankyung.com/article/2026082364537",
-    "title": "\"무사하다\" 경찰 말 믿었는데…실종 신고 또 '허위 종결'",
+    "source": "아시아경제",
+    "time": "1분 전",
+    "url": "https://view.asiae.co.kr/article/2026082309381687015",
+    "title": "창원특례시, 광암해수욕장·3·15해양누리공원 물놀이장 문 닫아요",
     "summary": [
-      "\"무사하다\" 경찰 말 믿었는데…실종 신고 또 '허위 종결'."
+      "창원시민들과 바다를 찾는 관광객들에게 인기를 끌었던 광암해수욕장과 3·15해양누리공원 물놀이장이 운영을 종료한다.",
+      "경남 창원특례시는 지난 7월 4일부터 개장한 광암해수욕장이 51일간의 운영을 마치고 8월 23일 폐장한다고 밝혔다.올해 광암해수욕장 방문객은 5만8000여명으로 지난해 대비 약 18% 감소한 것으로 나타났다.",
+      "이는 장기간 이어진 불볕더위와 폭염으로 야외활동을 자제하는 분위기가 확산하면서 해수욕장 이용객."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "nbd64c6d8",
+    "id": "n3624e486",
     "category": "사회",
     "source": "뉴시스",
-    "time": "10분 전",
-    "url": "https://www.newsis.com/view/NISX20260821_0003757116",
-    "title": "\"4기 위암, 림프절 절제 적다고 안전한 것 아냐\"",
+    "time": "2분 전",
+    "url": "https://www.newsis.com/view/NISX20260823_0003758713",
+    "title": "\"국힘 의원들, 지지자들과 '5열 스크럼' 구축해 尹체포방해\"…특검 공소장",
     "summary": [
-      "[서울=뉴시스] 류난영 기자 = 4기 위암 환자가 증상 완화를 위해 위절제술을 시행할 때 림프절 절제 수를 줄이면 수술 부담이 줄 것이란 인식이 있지만, 실제로는 그렇지 않다는 연구결과가 나왔다.",
-      "23일 의료계에 따르면 민재석 고려대학교 안암병원 위장관외과 교수와 정상호 창원경상국립대학교병원 외과 교수 연구팀이 4기 위암 환자에게 완화적인 비근치적 위절제술을 받은 환자에서 림프절 절제와 수술후 단기 결과의 연관성을 분석한 결과를 내놨다."
+      "[서울=뉴시스] 오정우 기자 = 윤석열 전 대통령에 대한 체포영장 집행 방해 혐의로 재판에 넘겨진 국민의힘 의원들이 현직 신분을 내세우며 관저 진입을 가로막은 것으로 조사됐다.",
+      "김기현 의원 등 4명은 '5중 인간벽(스크럼)'을 짜고 2시간가량 영장 집행을 지연시킨 것으로 파악됐다.",
+      "23일 뉴시스가 입수한 김기현, 나경원, 권영진, 윤상현 국민의힘 의원의 특수공무집행방해 혐의 공소장에 따르면 이들은 지난해 1월 15일 이같이 윤 전 대통령 체포영."
     ],
     "chips": [
-      "#교육",
+      "#정치"
+    ]
+  },
+  {
+    "id": "nf29976b1",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "2분 전",
+    "url": "https://www.newsis.com/view/NISX20260823_0003758730",
+    "title": "대구 2·28기념학생도서관 '독서활동지 개발' 학교 독서교육 지원",
+    "summary": [
+      "[대구=뉴시스] 박준 기자 = 대구 2·28기념학생도서관이 학교 독서교육 지원을 위한 독서활동지를 개발해 제공하고 있다.",
+      "23일 대구시교육청에 따르면 2·28 독서활동지는 2019년부터 개발돼 현재 747종까지 확충됐으며 다운로드 누적 횟수는 3만2000여회로 학급 독서수업 자료로 꾸준히 활용되고 있다.",
+      "2·28독서활동지는 학생들이 같은 책을 함께 읽고 탐구하고 표현할 수 있도록 돕는 독서 도움 자료이며 학급이 같은 책을 함께 읽도록 동일 도서."
+    ],
+    "chips": [
+      "#교육"
+    ]
+  },
+  {
+    "id": "n40da74d2",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "2분 전",
+    "url": "https://www.newsis.com/view/NISX20260823_0003758694",
+    "title": "허리케인 겪은 하와이 본섬에 또 열대폭풍 모크 접근, 비상",
+    "summary": [
+      "[호놀룰루( 하와이)= AP/ 뉴시스] 차미례 기자 = 열대성 폭풍 모크가 22일(현지시간) 하와이 본섬( 빅 아일랜드)를 향해 접근하고 있어 얼마전 허리케인 랄라로 엄청난 폭풍과 홍수 피해를 입은 이 곳에 더 큰 피해가 우려되고 있다.",
+      "모크는 21일 태평양에서 형성되어 현재 힐로 남동쪽 680km 지점에서 서북서쪽 방향으로 시속 19km의 속도로 이동 중이다.",
+      "최대 풍속은 시속 85km라고 미 국립기상센터는 발표했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nf4487076",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "3분 전",
+    "url": "https://www.newsis.com/view/NISX20260823_0003758714",
+    "title": "단종의 서사를 국악과 토크로…세종국악관현악단, 9월 한낮의 음악회 '여음'",
+    "summary": [
+      "[서울=뉴시스] 최희정 기자 = 창단 34년을 맞은 세종국악관현악단이 오는 9월 10일 오전 11시 군포문화예술회관 철쭉홀에서 한낮의 토크 음악회 '여음(餘音)' 세 번째 시리즈를 개최한다.",
+      "올 상반기 첫 번째, 두 번째 시리즈로 국악의 울림과 차 한 잔의 여유를 선사했던 '여음'이 오는 9월, 조선 제6대 왕 '단종'의 애달픈 삶을 우리 소리와 인문학적 토크로 관객들과 만난다.",
+      "이번 무대는 역사와 영화, 국악이 어우러진 콘셉트로 꾸며진다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n0f7b2249",
+    "category": "경제",
+    "source": "아시아경제",
+    "time": "4분 전",
+    "url": "https://view.asiae.co.kr/article/2026082309314370131",
+    "title": "해남서 규모 3.1 지진…원안위 \"원자로시설 이상 無\"",
+    "summary": [
+      "원자력위원회는 23일 오전 6시43분 전남광주 해남군 서북서쪽 21㎞ 지역에서 발생한 규모 3.1 지진과 관련 국내 원자로 시설의 안정성에 문제가 없다고 밝혔다.",
+      "진앙으로부터 약 83.2㎞ 떨어진 한빛 원자력발전소는 이번 지진으로 측정된 지진계측값은 0.0032g으로 확인됐다.",
+      "이는 진앙에서 가장 가까운 원자로 시설이다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n1b0ae580",
+    "category": "사회",
+    "source": "아시아경제",
+    "time": "5분 전",
+    "url": "https://view.asiae.co.kr/article/2026082309260859189",
+    "title": "'비만약' 끊고 요요왔다면…\"우울감 2배·극단적 생각 4배 ↑\"",
+    "summary": [
+      "이른바 '살 빼는 약'을 먹은 뒤 다시 체중이 늘어난 경우 극단적 생각을 할 가능성이 4배 이상 높아진다는 연구 결과가 나왔다.",
+      "23일 의료계에 따르면 서울아산병원 손기영 가정의학과 교수 연구진은 2013~2022년 국민건강영양조사에 참여한 성인 2만7741명(남성 1만908명·여성 1만6833명)의 데이터를 분석했다.",
+      "그 결과 살 빼는 약을 먹어본 적이 있는 사람은 사용하지 않았던 사람에 비해 우울 경험은 1.9배·극단적 생각을 할."
+    ],
+    "chips": [
       "#의료"
     ]
   },
   {
-    "id": "n239b7033",
-    "category": "부동산",
-    "source": "동아일보",
-    "time": "10분 전",
-    "url": "https://www.donga.com/news/Society/article/all/20260823/134524040/2",
-    "title": "“정치 얘기 그만” 요청에…대리기사 폭행한 60대 남성",
-    "summary": [
-      "정치와 관련한 이야기를 그만해달라는 요청에 운전하고 있던 대리기사를 폭행한 60대 남성이 벌금형을 선고받았다.23일 법조계에 따르면 울산지법 형사8단독(부장판사 김정진)은 특정범죄가중처벌법 위반 등 혐의로 기소된 60대 남성에게 벌금 100만 원을 선고했다.남성은 2023년 6월 경남 양산의 한 아파트 단지 안에서 자신의 화물차를 대리운전하던 50대 남성을 때리 혐의로 재판에 넘겨졌다.",
-      "당시 남성은 조수석에 앉아 특정 정당을 계속해서 비난했다."
-    ],
-    "chips": [
-      "#부동산",
-      "#정치"
-    ]
-  },
-  {
-    "id": "nc1a5045c",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "10분 전",
-    "url": "https://www.newsis.com/view/NISX20260823_0003758647",
-    "title": "이란 국가안보최고 책임자도 \"미 경제전쟁 가담국들은 모두 적국\" 경고",
-    "summary": [
-      "[ 서울= 뉴시스] 차미례 기자 = 이란 외무부에 이어서 이란 국가안보최고회의 책임자이며 이슬람혁명수비대(RIGC) 장군 출신인 강경파 모센 레자에이 신임 사무총장도 22일(현지시간) 국영 IRIB TV와의 인터뷰에서 미국의 대이란 경제 전쟁에 가담하는 모든 나라는 앞으로 이란의 \"적국\"으로 간주할 것이라고 경고했다.",
-      "AFP, 신화통신 등 보도에 따르면 미국의 트럼프 대통령이 이란에 \"전례 없는 수준의 경제 제재\"를 예고하고 많은 나라에게 이."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n5529d40d",
-    "category": "경제",
-    "source": "한국경제",
-    "time": "10분 전",
-    "url": "https://www.hankyung.com/article/202608215044i",
-    "title": "비트코인·거래소 투자한 국내 기업 어디인지 살펴보니",
-    "summary": [
-      "비트코인·거래소 투자한 국내 기업 어디인지 살펴보니."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n34f71222",
+    "id": "nc2feb794",
     "category": "사회",
     "source": "연합뉴스",
-    "time": "10분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260821141300062",
-    "title": "10대 조카 때리고 벤치 던진 작은아빠 징역형…\"훈육 수준 넘어\"",
+    "time": "6분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260823015700065",
+    "title": "인천공항 MRO 정기 협의체 발족…글로벌 경쟁력 확보",
     "summary": [
-      "(춘천=연합뉴스) 박영서 기자 = 부모의 부재로 인해 10대 조카를 양육하던 작은아버지가 훈육 수준을 넘어선 학대를 저질러 징역형을 선고받았다."
+      "(인천=연합뉴스) 김상연 기자 = 인천국제공항공사는 인천공항의 유지·보수·개조(MRO) 인프라를 토대로 항공 정비 생태계를 구축하기 위해 '인천..."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n9c802d07",
+    "id": "n732807f7",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "6분 전",
+    "url": "https://www.donga.com/news/Culture/article/all/20260823/134524262/1",
+    "title": "운동 싫다는 오은영, 17㎏ 감량 성공…“허벅지 꼬집으며 과일 참았다”",
+    "summary": [
+      "정신건강의학과 전문의 오은영 박사가 운동 대신 식단 조절을 중심으로 다이어트에 성공했다고 밝혔다.21일 오 박사의 유튜브 채널 ‘오은영의 버킷리스트’에는 모델 이현이와 대화를 나누는 영상이 올라왔다.오 박사는 “1년 7개월 동안 17㎏을 뺐다”며 최근 다이어트를 했다고 밝혔다.",
+      "그는 “과일을 좋아하는데, (당류라서) 많이 줄였다”며 “허벅지를 꼬집어 가며 참았더니 살이 많이 빠졌다”고 설명했다.",
+      "이어 “운동을 엄청 싫어한다”며 운동보다는 식단."
+    ],
+    "chips": [
+      "#의료"
+    ]
+  },
+  {
+    "id": "n8e5b8197",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "7분 전",
+    "url": "https://www.chosun.com/economy/science/2026/08/23/GU2GKNZYHFSDEZRUMFRGGMBQGU/",
+    "title": "오름테라퓨틱 “급성골수성백혈병 신약 후보 1상 계획, 美FDA 승인…연내 첫 투여\"",
+    "summary": [
+      "오름테라퓨틱은 미국 식품의약국(FDA)이 급성골수성백혈병 치료제 후보물질 ‘ORM-1153’의 임상 1상 시험계획(IND)을 승인했다고 23일 밝혔다.",
+      "오름테라퓨틱은 이번 승인에 따라 재발성 또는 불응성 급성골수성백혈병(AML) 및 기타 혈액암 환자를 대상으로 올해 말까지 ORM-1153의 최초 인체 투여 1상 임상을 시작할 계획이다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "ned342ba9",
     "category": "IT",
-    "source": "한국경제",
+    "source": "연합뉴스",
+    "time": "7분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260821172400017",
+    "title": "[AI프리즘] AI도 '전기요금' 시대 오나…제2 원자재 부상",
+    "summary": [
+      "(서울=연합뉴스) 권하영 기자 = 인공지능(AI) 서비스 요금이 전기요금처럼 수요·공급에 따라 실시간으로 움직이는 시대가 머지않았다는 분석이 제..."
+    ],
+    "chips": [
+      "#AI"
+    ]
+  },
+  {
+    "id": "na9cfdac9",
+    "category": "IT",
+    "source": "조선비즈IT",
+    "time": "7분 전",
+    "url": "https://biz.chosun.com/it-science/ict/2026/08/23/RBRRBUDGQVANHCCJ7BVCZISEUA/",
+    "title": "KT·서울시, 초등학생 100명 대상 ‘AI 미래 캠프’ 개최",
+    "summary": [
+      "KT·서울시, 초등학생 100명 대상 ‘AI 미래 캠프’ 개최."
+    ],
+    "chips": [
+      "#AI"
+    ]
+  },
+  {
+    "id": "n90724591",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "8분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260823015200053",
+    "title": "경북 안동서 '코리아 그랜드 페스티벌' 막 오른다",
+    "summary": [
+      "(안동=연합뉴스) 이승형 기자 = 경북도는 정부가 추진하는 '2026 코리아 그랜드 페스티벌' 개막행사 개최지로 안동시가 선정됐다고 23일 밝혔..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n2ed4ed5a",
+    "category": "사회",
+    "source": "아시아경제",
+    "time": "8분 전",
+    "url": "https://view.asiae.co.kr/article/2026082309312866600",
+    "title": "글로벌영농조합법인 정경훈 대표이사, 국세청장 공로상 받아",
+    "summary": [
+      "한국전산회계교육연구회는 23일 회계 및 글로벌영농조합법인 정경훈 대표가 세무 분야의 전문성 향상과 실무 중심 인재 양성을 위해 헌신한 노력 및 후학 양성을 위한 장학사업에 기여한 공적을 인정받아 국세청장 공로상을 받았다고 밝혔다.정 대표는 특히 교육부와 과기정보부, 중기부, 산자부, 국세청이 후원한 제32회 전국전산회계경진대회의 성공적인 개최를 위해 물심양면으로 지원했다.",
+      "또한 한국전산회계교육연구회 이사와."
+    ],
+    "chips": [
+      "#교육"
+    ]
+  },
+  {
+    "id": "n51fd3bcf",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "9분 전",
+    "url": "https://www.donga.com/news/Society/article/all/20260823/134524255/1",
+    "title": "“5만원 갚아” 지인 흉기로 수회 찌른 60대, 2심도 징역 15년",
+    "summary": [
+      "다른 사람에게 빌린 돈을 갚으라는 말을 듣고 지인을 살해한 60대에게 2심에서도 중형이 선고됐다.대구고법 형사1-2부(고법판사 왕해진)는 살인 혐의로 기소된 A(63)씨 항소심에서 피고인의 항소를 기각했다고 23일 밝혔다.재판부는 “원심의 양형은 피고인에게 불리하거나 유리한 정상들을 충분히 고려한 것으로 보인다”며 “원심의 형이 재량의 합리적인 범위를 벗어나 지나치게 무거워서 부당하다고 보이지 않는다”며 기각 이유를 설명했다.A씨는 지난해 12."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n3807b7d0",
+    "category": "IT",
+    "source": "연합뉴스",
     "time": "10분 전",
-    "url": "https://www.hankyung.com/article/2026082151136",
-    "title": "\"변동성 장세 지속…엔비디아 실적·잭슨홀 미팅 주목\" [주간전망]",
+    "url": "https://www.yna.co.kr/view/AKR20260821079000017",
+    "title": "[AI위클리] 국산 NPU부터 AI 에이전트까지…경쟁판 넓어진다",
     "summary": [
-      "\"변동성 장세 지속…엔비디아 실적·잭슨홀 미팅 주목\" [주간전망]."
+      "(서울=연합뉴스) 유현민 기자 = 인공지능(AI) 경쟁의 무게중심이 거대언어모델(LLM)의 성능 대결을 넘어 AI를 구동하는 반도체와 현실 세계..."
     ],
     "chips": [
-      "#엔비디아"
+      "#AI",
+      "#반도체"
     ]
   },
   {
-    "id": "n25e71338",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "11분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260821177800004",
-    "title": "'민주당 과반' 서울시의회 첫 시정질문…오세훈과 갈등 예고",
-    "summary": [
-      "(서울=연합뉴스) 황재하 기자 = 더불어민주당이 의석 3분의 2를 차지한 제12대 서울시의회가 오는 26일 오세훈 서울시장에 대한 첫 시정 질문..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n81957253",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "12분 전",
-    "url": "https://www.chosun.com/sports/world-baseball/2026/08/23/GAYDIYJYGBSTQNBVGM4DCNZUMQ/",
-    "title": "김혜성 콜업 실패...'파헤스 골절' 다저스, 알렉 토마스 콜업 \"우투수 상대 중견수 선발 예정\"",
-    "summary": [
-      "[OSEN=조형래 기자] 결국 김혜성의 빅리그 콜업은 없었다.",
-      "다저스는 23일(이하 한국시간) 미국 캘리포니아주 로스앤젤레스 유니클로 필드 앳 다저 스타디움에서 열리는 피츠버그 파이어리츠와의 경기를 앞두고 골절 부상을 당한 앤디 파헤스 대신 외야수 알렉 토마스를 콜업했다.",
-      "파헤스는 전날(22일) 경기 피츠버그 선발 버바 챈들러의 강속구에 왼 손등을 맞았다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nefd5b145",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "15분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260823008500064",
-    "title": "청주시, 대청호 유입 하천 쓰레기 수거…32t 목표",
-    "summary": [
-      "(청주=연합뉴스) 김형우 기자 = 청주시 상수도사업본부는 상수원보호구역인 대청호로 흘러드는 하천 13곳에서 쓰레기 수거사업을 한다고 23일 밝혔..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nac3fa2a5",
-    "category": "스포츠",
-    "source": "연합뉴스",
-    "time": "15분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260823008400007",
-    "title": "'김민재 풀타임' 뮌헨, 도르트문트 2-1 꺾고 슈퍼컵 우승",
-    "summary": [
-      "(서울=연합뉴스) 안홍석 기자 = 독일 프로축구 바이에른 뮌헨이 국가대표 센터백 김민재의 철벽 수비에 힘입어 새 시즌 시작을 알리는 단판 대회인..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n47854b56",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "16분 전",
-    "url": "https://www.chosun.com/sports/football/2026/08/23/HAYWCZDCGQ4GGMRQGFSTENLFGY/",
-    "title": "\"왜 사퇴 안해?\" → \"미용실에서 봐\" 인판티노, 기습 질문에 유체이탈화법…미래는",
-    "summary": [
-      "[스포츠조선 박상경 기자] 그저 농담으로 웃어 넘기고 싶었던 걸까.",
-      "국제축구연맹(FIFA) 자회사 설립 후 지분 매각 계획을 추진하다 사퇴 역풍을 맞고 있는 잔니 인판티노 회장이 유체이탈화법을 시전해 화제다.",
-      "영국 데일리메일은 22일(한국시각) '인판티노 회장이 스카이스포츠의 제임스 매튜스 기자에게 기습 질문을 받은 뒤 황당한 대답을 내놓은 뒤 서둘러 자리."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "ndec2fd7f",
-    "category": "경제",
-    "source": "한국경제",
-    "time": "20분 전",
-    "url": "https://www.hankyung.com/article/2026082364477",
-    "title": "\"국민연금 받았더니 기초연금 깎였다\"…감액액 4년 새 3배",
-    "summary": [
-      "\"국민연금 받았더니 기초연금 깎였다\"…감액액 4년 새 3배."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nc7344469",
+    "id": "n560ae996",
     "category": "사회",
     "source": "동아일보",
-    "time": "30분 전",
-    "url": "https://www.donga.com/news/Society/article/all/20260823/134523973/1",
-    "title": "“뭘 잘못 본 줄 알았다”…친구 따라 산 단 한 장의 복권 1등 ‘대박’",
+    "time": "10분 전",
+    "url": "https://www.donga.com/news/It/article/all/20260821/134513044/2",
+    "title": "쥐 쓰다듬고 다른 동물 돌보는 원숭이…영장류에 숨겨진 ‘집사 본능’?",
     "summary": [
-      "친구들이 즉석복권을 사는 모습을 보고 따라 산 단 한 장의 복권이 1등 5억 원에 당첨됐다.19일 동행복권에 따르면 경남 진주시 남강로의 한 복권 판매점에서 판매된 스피또1000 108회차에서 1등 당첨자가 나왔다.당첨자 A 씨는 일주일에 한 번씩 꾸준히 로또를 구매해 왔지만, 즉석 복권을 구매해 본 적은 없었다.그는 “친구들이 스피또를 구매하는 모습을 보고 가끔 구매하기 시작했다”고 밝혔다.A 씨는 이날 평소처럼 로또를 구매한 뒤 호기심에 스."
+      "다른 종의 동물을 보살피고 유대감을 형성하려는 성향은 인간뿐만 아니라 영장류 전반에 깊이 뿌리내린 본능일 수 있다는 연구 결과가 나왔다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n3522bf4e",
-    "category": "경제",
-    "source": "연합뉴스(경제)",
-    "time": "40분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260821162500003",
-    "title": "삼성전자, 상반기 특허등록 1만1천건…누적 30만건 육박",
-    "summary": [
-      "(서울=연합뉴스) 조성흠 기자 = 삼성전자가 올해 상반기 한국과 미국에서 1만1천건이 넘는 특허를 등록해 처음으로 2개 반기 연속 1만건을 넘어..."
-    ],
-    "chips": [
-      "#삼성전자"
-    ]
-  },
-  {
-    "id": "n70bb60b8",
-    "category": "경제",
-    "source": "연합뉴스(경제)",
-    "time": "40분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260823005900004",
-    "title": "[벼랑끝노인] ⑦ 이중근 회장 \"노인에게 역할을…돌봄에는 존엄을\"",
-    "summary": [
-      "(서울=연합뉴스) 김동규 윤민혁 기자 = \"숲속에서 길을 잃었을 땐 늙은 말을 풀어놓고 따라가라는 말이 있잖아요.",
-      "시대가 급변해도 노인의 쓰임새..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n1b868269",
-    "category": "부동산",
-    "source": "연합뉴스(경제)",
-    "time": "41분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260822043500052",
-    "title": "경남 최대 '재건축 조합장 20억 성과금'…조합원 투표서 부결",
-    "summary": [
-      "(창원=연합뉴스) 박영민 기자 = 경남지역 재건축 조합장 성과금으로는 역대 최대 규모로 알려져 이목을 끈 창원의 한 정비사업 조합의 '20억원 ..."
-    ],
-    "chips": [
-      "#재건축"
-    ]
-  },
-  {
-    "id": "n25ba4740",
-    "category": "사회",
+    "id": "n9ab18c61",
+    "category": "스포츠",
     "source": "동아일보",
-    "time": "43분 전",
-    "url": "https://www.donga.com/news/Inter/article/all/20260823/134523966/1",
-    "title": "시리아 “이스라엘 공격에 민간인 여러명 부상…주권 침해”",
+    "time": "22분 전",
+    "url": "https://www.donga.com/news/Society/article/all/20260823/134524217/2",
+    "title": "‘우지원 딸’ 우서윤, 미스코리아 진(眞) 됐다",
     "summary": [
-      "이스라엘이 시리아 남서부를 드론으로 공격해 복수의 민간인이 부상했다고 시리아 정부가 밝혔다.알자지라에 따르면 시리아 국영 알이흐바리야는 22일(현지 시간) “이스라엘 드론이 다마스쿠스 서부 외곽 베이트진 인근에서 트럭 한 대를 공격해 남성 1명이 부상을 입었다”고 보도했다.이후 시리아 외무·교민부는 성명을 내고 “이스라엘 공습으로 민간인 여러명이 부상했다”며 “이번 공격은 시리아 주권과 영토 보전에 대한 노골적 침해이자 명백한 국제법 위반”이라."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n9bc3ae8b",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "43분 전",
-    "url": "https://www.donga.com/news/Inter/article/all/20260823/134523963/1",
-    "title": "“5개월 아기 안고 러닝머신을?”…美 인플루언서 영상에 갑론을박",
-    "summary": [
-      "미국의 한 인플루언서가 생후 5개월 된 딸을 데리고 러닝머신에서 운동하는 영상을 공개해 논란이 벌어졌다.지난 17일(현지 시간) 영국 더선에 따르면 미국 유타주에 거주하는 여성 안젤라 홈(29)이 늦은 밤 어린 딸을 데리고 헬스장을 찾아 운동하는 모습을 공개했다.다섯 아이의 엄마인 홈은 틱톡에서 약 200만명의 팔로워를 보유한 인플루언서다.",
-      "최근 그는 생후 5개월 된 딸과 헬스장을 방문했고, 딸을 유모차에 태워 러닝머신 옆에 둔 뒤 걷기 운동을."
+      "전 프로농구 선수 우지원의 딸 우서윤(22)이 미스코리아 선발대회에서 최고의 영예인 ‘진(眞)’을 차지했다.글로벌이앤비(GLOBAL E&B) 주최로 22일 오후 서울 강남구 코엑스 오디토리움에서 열린 ‘제70회 미스코리아’ 본선 대회에서 서울·경기·인천 ‘선’ 출신 우서윤이 최고 영예의 ‘진’ 왕관을 썼다.",
+      "우서윤은 자신의 이름이 호명되자 놀란 마음을 감추지 못하며 “전혀 예상하지 못해 수상 소감도 준비하지 못했다”고 말했다."
     ],
     "chips": [
       "#뉴스"
@@ -627,21 +637,21 @@ window.NEWS_DB = [
 window.KEYWORD_TOP = [
   {
     "rank": 1,
-    "tag": "뉴스",
-    "mentions": "2720건",
-    "trend": "+315%"
+    "tag": "AI",
+    "mentions": "2330건",
+    "trend": "+255%"
   },
   {
     "rank": 2,
-    "tag": "AI",
-    "mentions": "1680건",
-    "trend": "+155%"
+    "tag": "뉴스",
+    "mentions": "2330건",
+    "trend": "+255%"
   },
   {
     "rank": 3,
-    "tag": "엔비디아",
-    "mentions": "1420건",
-    "trend": "+115%"
+    "tag": "반도체",
+    "mentions": "1550건",
+    "trend": "+135%"
   }
 ];
 // ====AUTO-GENERATED-END====
