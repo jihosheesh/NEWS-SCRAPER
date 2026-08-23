@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-08-23 04:26:53
+// 마지막 업데이트: 2026-08-23 05:19:32
 window.NEWS_DB = [
   {
     "id": "n4cd16140",
     "category": "IT",
     "source": "전자신문",
-    "time": "1시간 전",
+    "time": "2시간 전",
     "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBTUDFpdjF5ek5WVVV5dGxjRWVKMm1zeG9PWGw0ZGRwRG1XcS1QSklJemw0LTRyYWZfdnB0NHp5eU9sMVFucnVBN0ctc0ZCUQ?oc=5",
     "title": "엔비디아, 고객사에 AI 서버 가격 15% 인상 예고",
     "summary": [
@@ -17,10 +17,25 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n10d70d81",
+    "category": "IT",
+    "source": "경향신문",
+    "time": "2시간 전",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1RbmpaY1ZpZzR0MUIwMlRlZEpHd080TmxTN2NxdFhxNktoSUpmbzFQeDd0ZDNjSENhN3Noc2JHU2xXV2IwdVMxblNtOHR0anh3bExYUExXWGRoZ9IBX0FVX3lxTE5VSlNTNTkxSWZRVWJtVUo3YXJNOUF0MFU1bGFXblJ1c2c4MkJlTlNfUnIxTlNOdzN0LTdXVGdxRlYyLVF0ZkV0UEFWWlJ0WnpBdzlUVGFMbV9hTDZXcTA0?oc=5",
+    "title": "메모리값 폭등에…엔비디아도 AI 서버 가격 15% 이상 올린다",
+    "summary": [
+      "메모리값 폭등에…엔비디아도 AI 서버 가격 15% 이상 올린다 경향신문."
+    ],
+    "chips": [
+      "#AI",
+      "#엔비디아"
+    ]
+  },
+  {
     "id": "n2e25dc41",
     "category": "IT",
     "source": "v.daum.net",
-    "time": "2시간 전",
+    "time": "3시간 전",
     "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5kblVLanlWc3JqblhuZ1JMLTRZYU1pOW1HOXdGN2x4SFhWMXhuZG1wdDh5a0pQSWNoNV9aLVhRMDdLd2I3Nm9mOHRDUzRsUUE?oc=5",
     "title": "엔비디아, AI 서버 가격 15% 인상 예고… 메모리 반도체값 상승 여파",
     "summary": [
@@ -33,25 +48,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n4384bce7",
-    "category": "IT",
-    "source": "연합뉴스",
-    "time": "3시간 전",
-    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9WeWJ5YXB2U2cxdDJNR3V5Wjl6TTZBT0NzUVZXTjdWRnIxNVB3VTVzRTZJbjc1amlWWWVuZ0k5X0xfSDlXdkhWZFFwNUpWUm5hLWpuby1Jak01dWPSAWBBVV95cUxQaGt6VGpEMlRmYmFROFlKWTFYcFNpNVROc2wtQW1jckFIdkFncUc2X0t1bnlKcjJUX3d1N0VRd2tNeUtPUVNGck5nR1R6aDJhSERiQ1JwbWt2WTY3SlpQTmc?oc=5",
-    "title": "AI 서버값 '고공행진'…엔비디아, 고객사에 가격 15% 인상 예고",
-    "summary": [
-      "AI 서버값 '고공행진'…엔비디아, 고객사에 가격 15% 인상 예고 연합뉴스."
-    ],
-    "chips": [
-      "#AI",
-      "#엔비디아"
-    ]
-  },
-  {
     "id": "nb65cf3ee",
     "category": "IT",
     "source": "네이트",
-    "time": "7시간 전",
+    "time": "8시간 전",
     "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBjMWgxVGExaFlua1hTUVBLWTdlb3dhdlFfMzBoRDllV3NidUh3NENWQ3dmVFdsTGkxeUwtQ3k0dUFhczk1SEpFYnYycTFhbWxLc2RJ?oc=5",
     "title": "브로드컴 AI 매출 1160억달러 전망…삼성전자 HBM·파운드리 '기회'",
     "summary": [
@@ -67,7 +67,7 @@ window.NEWS_DB = [
     "id": "n82852efd",
     "category": "IT",
     "source": "IT조선",
-    "time": "7시간 전",
+    "time": "8시간 전",
     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9EMmxiS0xwVXY2cFVsVlFXOXVIRExMcGRhRXhuUUpfbXVnZHJDTTFxX1IwYkJHV3BMSjRLNmhueUViUzFQcE9adlVrNG5GSUZQZWQyRGJaTUhHMmg2aVpISFN4a2Z5Y3dIWURaV2FpVmjSAXRBVV95cUxPMG9TemRUQmdxVUxBblAwdzEzanAzMWRGU0hmVXlUVHR0VXVsWVdjSFU0R3VSbGRzOHF4Rnd4cktXSk5VMmY5cEJZdjI5elZiOXpuNzVYSFJUNzhyYzNrcEU5aTVhVWJfVTY5WVJtUmI1WVlHcg?oc=5",
     "title": "‘HBM 묶어 파는’ 삼성 파운드리, TSMC 틈새 뚫고 흑자 시동",
     "summary": [
@@ -211,14 +211,14 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n207a7abe",
+    "id": "n64dc67f5",
     "category": "IT",
-    "source": "Chosunbiz",
-    "time": "60일 전",
-    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPUGdtbi01TkVMYXphY1VqbF9xRzB3TkVUbWtrM2NhN2d1NmpvS29NLTY5UWFtbFNrangxUlRnQUpxOW9rSEZwWVZuWU42aUdIU1FUUlhnQ0NLbjBXdlNpQ2labGU1cUt3WVZ3NEhVVmtJNjJlc3lUalByb0tqZDBucVJleGVLUFpaanFZX3RLZWvSAaQBQVVfeXFMTXFmYjM1dzZaM0d5QjZZQXJIb0VnanMzR29JcWlBQVZreFhGVVZlRmd4c2xoejc0ajVvdDhkUVo5ZWJ5bWlyVlZSUzlveG9EamJZblA5VDkwRG16QW1hRW1Qel9mTHRfdWI3MHhvbTJfd3ZoRTNIb3dVbjByNmI5T3llUUt2ZlZjVmEwQlV4M0FvMTRVT0JYaG4zNDZ6Rkw1LVVodlA?oc=5",
-    "title": "중기부, 2030년까지 ‘유니콘’ 50개 육성 나선다 - 조선비즈",
+    "source": "유니콘팩토리",
+    "time": "61일 전",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1ORFIxM2VUWmNQaWh2Z0xiY2xXeUlzZFZvT3l4dGwyNFdvdXlyZ0lJdGtNT2cyYjFaU0pNX0FUcnRQelZxZzBXZDZ0Qi1OSWt4V3lCUFRhWXBYZ0g1M0EzTVVmMTZTVEVIeW5ISA?oc=5",
+    "title": "수도권 쏠림 깨기 나선 중기부…창업도시 4곳서 스타트업 278곳 키운다",
     "summary": [
-      "중기부, 2030년까지 ‘유니콘’ 50개 육성 나선다 - 조선비즈 Chosunbiz."
+      "수도권 쏠림 깨기 나선 중기부…창업도시 4곳서 스타트업 278곳 키운다 유니콘팩토리."
     ],
     "chips": [
       "#스타트업"
@@ -376,266 +376,256 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n11cda232",
-    "category": "IT",
-    "source": "뉴시스",
+    "id": "nb0cf200e",
+    "category": "스포츠",
+    "source": "아시아경제",
     "time": "방금 전",
-    "url": "https://www.newsis.com/view/NISX20260823_0003758847",
-    "title": "서초구, 청년 제안 20건 온라인 투표…톱10 선정",
+    "url": "https://view.asiae.co.kr/article/2026082314095342652",
+    "title": "'우지원 딸' 우서윤, 미스코리아 진(眞) 선발됐다",
     "summary": [
-      "[서울=뉴시스] 최현호 기자 = 서울 서초구는 청년이 직접 제안한 정책 후보 20건을 대상으로 온라인 투표를 진행해 10건을 선정하는 '진짜 청년정책 톱(TOP)10'을 추진한다고 23일 밝혔다.",
-      "구는 청년 정책 아이디어 59건을 실무부서에서 실행 가능성과 기대 효과 등을 심사해 20건으로 추렸다.",
-      "최종 10건은 청년 투표로 확정한다."
+      "전 프로농구 선수 우지원(53)의 딸 우서윤(22)이 '제70회 미스코리아 선발대회'에서 최고 영예인 진(眞)에 올랐다.",
+      "우서윤은 글로벌이앤비(GLOBAL E&B) 주최로 22일 오후 서울 강남구 코엑스 오디토리움에서 열린 제70회 미스코리아 선발대회 본선에서 진을 차지했다.",
+      "우서윤은 앞서 서울·경기·인천 지역 예선에서는 '선(善)'에 올랐다."
     ],
     "chips": [
-      "#AI",
-      "#정책",
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n62ccd80a",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "2분 전",
+    "url": "https://www.newsis.com/view/NISX20260823_0003758883",
+    "title": "김동완, 박위 옹호 논란에 \"집단 매도 우려했던 것\"",
+    "summary": [
+      "[서울=뉴시스]이재훈 기자 = 그룹 '신화' 멤버 겸 배우 김동완이 유튜버 박위의 KTX 낙상 사고 CCTV 공개 논란과 관련해 자신의 발언을 재차 해명했다.",
+      "김동완은 23일 자신의 소셜 미디어에 \"앞선 글의 취지가 다르게 전해지는 것 같아 덧붙인다\"며 \"박위 씨와 아무 친분이나 이해관계가 없으며, 고의 없이 실수하고 사과까지 한 사회복무요원이 비난에 노출된 상황도 가볍게 보지 않는다\"고 밝혔다.",
+      "다만 \"영상 공개 방식은 비판받을 수 있지만,."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n2aa36b80",
+    "category": "경제",
+    "source": "아시아경제",
+    "time": "2분 전",
+    "url": "https://view.asiae.co.kr/article/2026082314053153230",
+    "title": "“성소수자 사실 알리겠다” 협박…사우나서 수천만원 뜯은 남성들",
+    "summary": [
+      "사우나 수면실에서 이용객과의 신체 접촉을 의도적으로 유도, 성소수자라는 사실을 가족이나 직장에 알리겠다고 위협해 약 2000만원을 뜯어낸 남성들이 각각 실형과 집행유예를 선고받았다.",
+      "23일 법조계에 따르면 서울남부지법 형사6단독 김주석 부장판사는 폭력행위 등 처벌에 관한 법률 위반(공동공갈) 등의 혐의로 기소된 서모(27)씨에게 징역 10개월을 선고했다.",
+      "함께 재판에 넘겨진 이모(31)씨에게는 징역 8개월에 집행유예 2."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nfffe48ca",
+    "category": "IT",
+    "source": "아시아경제",
+    "time": "2분 전",
+    "url": "https://view.asiae.co.kr/article/2026082314162869976",
+    "title": "길종성 고양시의원 “반도체 특성화고 설립하고 전동킥보드 관리 바꿔야”",
+    "summary": [
+      "길종성 고양시의원(국민의힘·일산1동, 탄현1·2동)이 고양시의 미래 성장동력 확보를 위한 반도체 특성화고 설립과 개인형 이동장치(PM)의 예방 중심 안전관리 대책을 촉구했다.",
+      "길 의원은 지난 21일 열린 제307회 고양시의회 임시회 본회의 시정질문에서 \"반도체 인재 양성은 10년 뒤 자족도시의 성패를 가를 투자이고, 개인형 이동장치 관리는 사고가 발생하기 전에 위험을 막는 예방의 문제\"라고 말했다."
+    ],
+    "chips": [
+      "#반도체"
+    ]
+  },
+  {
+    "id": "n8c71cced",
+    "category": "IT",
+    "source": "조선일보",
+    "time": "4분 전",
+    "url": "https://www.chosun.com/economy/tech_it/2026/08/23/GVSWEMBRME4TGNRWG4ZGMZLGGU/",
+    "title": "KAIST, 물방울 생성·제거 동시 제어 코팅 기술 개발…열전달 효율 5.5배 향상",
+    "summary": [
+      "한국과학기술원(KAIST)이 열전달 성능을 최대 5.5배 끌어올리는 응축 코팅 기술을 개발했다.",
+      "발전소, 담수화 설비, 전자기기 냉각 등에 적용될 수 있을 것으로 기대된다.",
+      "KAIST는 기계공학과 남영석 교수와 생명화학공학과 임성갑 교수 공동연구팀이 초박막 고분자 코팅막의 두께와 구조를 조절해 물방울 생성과 제거를 함께 최적화하는 기술을 내놨다고 23일 밝."
+    ],
+    "chips": [
+      "#AI"
+    ]
+  },
+  {
+    "id": "n0e3dc0e4",
+    "category": "스포츠",
+    "source": "한국경제",
+    "time": "5분 전",
+    "url": "https://www.hankyung.com/article/202608236846H",
+    "title": "[포토+] 서연정, '은퇴 경기 마지막은 남편과 함께~' (BC카드·한경 KLPGA 챔피언십)",
+    "summary": [
+      "[포토+] 서연정, '은퇴 경기 마지막은 남편과 함께~' (BC카드·한경 KLPGA 챔피언십)."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n6bf30af2",
+    "category": "부동산",
+    "source": "조선일보",
+    "time": "6분 전",
+    "url": "https://www.chosun.com/economy/real_estate/2026/08/23/GVSGEMBTHEYWEYRUMU3WKYJQHA/",
+    "title": "성수동 노후 준공업지역에 17층 규모 크래프톤 사옥·도심숲 개발",
+    "summary": [
+      "서울 성동구 성수동에 도심 속 녹지 공간을 품은 17층 높이의 대형 업무복합시설이 들어선다.",
+      "강동구 길동에는 청년들을 위한 공공 임대주택이 공급된다.",
+      "서울시는 지난 21일 열린 제8차 도시·건축공동위원회 수권분과위원회에서 성수IT산업·유통개발진흥지구 내 성수동2가 276-2 일대의 기반시설 대책 수립안을 조건부로 통과시켰다고 23일 밝혔다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nb39b010e",
+    "category": "스포츠",
+    "source": "연합뉴스",
+    "time": "6분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260823029500007",
+    "title": "여자축구 강호 수원FC-KSPO, 25일 W코리아컵 8강서 격돌",
+    "summary": [
+      "(서울=연합뉴스) 배진남 기자 = 여자 실업축구 강호 수원FC위민과 화천KSPO가 W코리아컵 초대 챔피언을 향한 여정에서 일찌감치 맞닥뜨렸다."
+    ],
+    "chips": [
       "#고용"
     ]
   },
   {
-    "id": "n6c0174eb",
-    "category": "사회",
-    "source": "머니투데이",
-    "time": "1분 전",
-    "url": "https://www.mt.co.kr/politics/2026/08/23/2026082313142276821",
-    "title": "北 향한 트럼프의 끈질긴 러브콜…북미회담 기대감 속 '한국패싱' 피해야",
-    "summary": [
-      "[the300] 美, 한미 연합훈련 축소에 '규탄' 빠진 北 미사일 대응 쿠팡 문제·대미투자 등 현안이 '패싱' 원인이 될 수도 도널드 트럼프 미국 대통령의 잇따른 대북 유화책이 북미 정상회담으로 이어질지 관심이 커진다.",
-      "정부는 한반도 평화공존 프로세스가 작동할 중요한 기회라고 보고 있지만 '한국 패싱' 우려도 커진다.",
-      "23일 외교가에서는 트럼프 대통령의 한미 연합훈련 축소 지시 이후 미국 행정부의 대북 전략이 변화하고 있다고 진단했다."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "nf672ffca",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "1분 전",
-    "url": "https://www.newsis.com/view/NISX20260823_0003758845",
-    "title": "세금 체납 속 위기가구 찾는다…서울 중구·세무서 맞손",
-    "summary": [
-      "[서울=뉴시스] 최현호 기자 = 서울 중구는 중부·남대문세무서와 국세 체납자 가운데 위기가구를 발굴해 복지서비스로 연계하는 업무협약을 체결했다고 23일 밝혔다.",
-      "협약에 따라 중부세무서와 남대문세무서는 생계 곤란 체납자를 발견하면 '복지위기 알림앱' 등을 활용해 신고하고 구와 동주민센터에 연결한다.",
-      "중구는 두 세무서가 연계한 대상자의 생활 여건과 어려움을 확인한다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n60756698",
-    "category": "IT",
-    "source": "뉴시스",
-    "time": "2분 전",
-    "url": "https://www.newsis.com/view/NISX20260823_0003758843",
-    "title": "강남구, AI·투자유치 교육…초기창업자 30명 모집",
-    "summary": [
-      "[서울=뉴시스] 최현호 기자 = 서울 강남구는 인공지능(AI)을 회사 운영과 투자유치 준비에 활용하려는 초기창업자 30명을 이달 28일까지 모집한다고 23일 밝혔다.",
-      "구는 창업 3년 이내 기업을 대상으로 '2026 AX 활용 및 투자유치 전략 초기창업자 과정'을 운영한다.",
-      "교육은 다음달 29일부터 12월1일까지 매주 화요일 오후 6시부터 10시까지 팁스타운 S6(강남구 역삼로 168) 지하 1층에서 10주간 진행되며 교육비는 전액 무료다."
-    ],
-    "chips": [
-      "#AI",
-      "#채용",
-      "#교육"
-    ]
-  },
-  {
-    "id": "n9dc48602",
-    "category": "부동산",
-    "source": "머니투데이",
-    "time": "2분 전",
-    "url": "https://www.mt.co.kr/society/2026/08/23/2026082313191290633",
-    "title": "부모에 흉기 휘두른 10대 아들, 아버지 사망· 어머니 중태…왜?",
-    "summary": [
-      "사업 문제로 말다툼하는 부모님에게 10대 아들이 흉기를 휘두르는 사건이 발생해 아버지가 숨지고 어머니는 중태에 빠졌다.",
-      "23일 뉴시스에 따르면 충남 천안동남경찰서는 존속살해 등 혐의를 받는 10대 A군을 체포해 조사 중이다.",
-      "A군은 이날 오전 1시 10분께 천안 동남구 목천읍의 한 아파트에서 40대 부모를 향해 흉기를 휘두른 혐의를 받고 있다."
-    ],
-    "chips": [
-      "#부동산",
-      "#의료"
-    ]
-  },
-  {
-    "id": "n9ad894e6",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "2분 전",
-    "url": "https://www.newsis.com/view/NISX20260823_0003758855",
-    "title": "심리치료과 신설 10주년…법무부, 교정 발전 과제 논의",
-    "summary": [
-      "[서울=뉴시스] 오정우 기자 = 법무부가 심리치료과 신설 10주년을 맞아 교정 심리 치료의 미래 비전과 발전 과제를 논의하는 자리를 마련했다.",
-      "법무부는 22일 오전 9시 서울 코엑스마곡 컨벤션센터에서 한국심리학회 제80차 연차학술대회 공식 세션으로 '심리 치료과 신설 10주년 기념 특별심포지엄'을 개최했다고 23일 밝혔다.",
-      "이번 심포지엄은 교정 심리치료의 새로운 도약을 위한 미래 비전과 발전 과제를 논의했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n21a707ed",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "3분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260823027600053",
-    "title": "처서에도 35도, 대구·경북 폭염에 해변·냉방시설 찾아 피서",
-    "summary": [
-      "(대구=연합뉴스) 이승형 기자 = 더위가 한풀 꺾인다는 '처서(處暑)'인 23일에도 대구와 경북은 폭염특보가 확대되는 등 무더위가 기승을 부렸다..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n747f71a1",
-    "category": "경제",
-    "source": "아시아경제",
-    "time": "4분 전",
-    "url": "https://view.asiae.co.kr/article/2026082313121571985",
-    "title": "깨진 휴대전화 들고 사회초년생 어깨 '쿵'…수천만원 뜯은 20대 실형",
-    "summary": [
-      "이미 깨져있던 휴대전화를 들고 사회초년생을 중심으로 일부러 부딪친 뒤 수리비를 요구하는 수법으로 수천만 원을 갈취한 20대가 징역 1년 6개월을 선고받았다.",
-      "23일 연합뉴스에 따르면 춘천지법 형사3단독 박동욱 판사는 사기·사기미수·스토킹 처벌법 위반·폭행 혐의로 구속기소 된 A씨(21)에게 징역 1년 6개월을 선고했다.",
-      "또 40시간의 스토킹 치료 프로그램 이수와 편취금 총 82만원을 지급하라고 명령했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n6ee44504",
-    "category": "경제",
-    "source": "머니투데이",
-    "time": "4분 전",
-    "url": "https://www.mt.co.kr/stock/2026/08/23/2026082114125823004",
-    "title": "\"시장 턴어라운드 시 단기매매 보다 액티브 ETF 주목\"",
-    "summary": [
-      "[ETF 릴레이 인터뷰]⑦김남호 타임폴리오자산운용 ETF운용본부장 분산, 간접, 장기 투자라는 장점을 기반으로 개미들의 대표 투자 수단이 된 ETF(상장지수펀드).",
-      "'21세기 최고의 금융 상품'으로 불리는 ETF 투자를 경험하고 실력을 겨뤄 볼 'ETF 투자왕' 대회가 오는 9월 개최된다.",
-      "대회에 앞서 ETF 시장 성장을 주도하고 이끌어 온 주요 운용사 ETF 본부장들에게 하반기 투자 전망과 전략 아이디어, 유망한 ETF 종목에 대한 조언을 들."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n34b9e073",
+    "id": "ncab8c278",
     "category": "스포츠",
-    "source": "연합뉴스",
-    "time": "5분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260823027100005",
-    "title": "여성 독립영웅을 부른 밤…오라토리오 '무명의 초상화전'",
+    "source": "조선일보",
+    "time": "6분 전",
+    "url": "https://www.chosun.com/entertainments/movie/2026/08/23/GRQWGOJYGZRWKZLEG43DSZRYHA/",
+    "title": "'오디세이' 19일만에 700만 돌파 '파죽지세'..'스파이더맨4'과 동일 속도",
     "summary": [
-      "(서울=연합뉴스) 권지현 기자 = \"원수는 교활하여 온갖 모략으로 너의 자유를 삼키려 하네.",
-      "저 거짓말에 속지 마라, 간절히 붙들고서 승리하라...."
+      "[OSEN=최이정 기자] 크리스토퍼 놀란 감독의 신작 영화 ‘오디세이’가 개봉 19일 만에 700만 관객을 돌파하며 국내외 흥행 기록을 거침없이 써 내려가고 있다.23일 영화관입장권 통합전산망에 따르면 '오디세이'는 이날 오후 1시 1분 기준 누적 관객수 700만 명을 넘어섰다.",
+      "지난 21일 600만 관객을 돌파한 지 불과 이틀 만에 100만 명을 끌어모은."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n68d782c0",
-    "category": "스포츠",
-    "source": "머니투데이",
+    "id": "na35340ae",
+    "category": "사회",
+    "source": "뉴시스",
     "time": "7분 전",
-    "url": "https://www.mt.co.kr/sports/2026/08/23/2026082313080710687",
-    "title": "'와' 추신수 클라스 보소! SSG-독립리그 교류전에 150인분 간식차 보냈다 \"모든 독립야구 선수를 응원합니다\" 메시지까지",
+    "url": "https://www.newsis.com/view/NISX20260823_0003758813",
+    "title": "\"이력서 대신 숏폼 올린다\"… SNS로 취업 문 두드리는 美 Z세대",
     "summary": [
-      "추신(44) SSG 랜더스 구단주 보좌역 겸 육성총괄이 프로 무대를 향해 땀 흘리는 독립리그 선수들을 위해 든든한 지원군을 자처했다.",
-      "SSG 랜더스는 23일부터 팀의 육성 시스템 고도화와 한국 야구 생태계 상생을 위해 육성군(3군)과 독립리그 올스타 대표팀 간의 교류전을 개최한다고 이날 밝혔다.",
-      "SSG 구단에 따르면 이날 현장에는 특별한 선물이 전달된다."
+      "[서울=뉴시스]허준희 인턴 기자 = 미국의 취업 시장이 얼어붙으면서 Z세대 구직자들이 소셜네트워크서비스(SNS)를 통해 자신의 경력과 역량을 알리며 새로운 취업 기회를 찾고 있다.",
+      "최근 미국 뉴욕포스트는 최근 Z세대 구직자의 46％가 틱톡을 통해 취업이나 인턴십을 얻었다고 전했다.",
+      "특히 해당 전략은 영상·콘텐츠·마케팅 등 창의적인 직군에서는 지원자의 능력과 개성을 직접 보여줄 수 있다는 장점이 있다."
     ],
     "chips": [
-      "#KBO"
+      "#취업"
     ]
   },
   {
-    "id": "nf255d1b0",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "12분 전",
-    "url": "https://www.chosun.com/entertainments/2026/08/23/PTH43FWRCRC3XM6AEJJFTMRIVM/",
-    "title": "GD 선물은 유재석도 자랑하네…\"귀한 날 딱 한 번 신어\"",
+    "id": "n4322388d",
+    "category": "IT",
+    "source": "연합뉴스(경제)",
+    "time": "7분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260823029300004",
+    "title": "AI활용 노하우부터 투자유치 전략까지…강남구 초기창업자 과정",
     "summary": [
-      "GD 선물은 유재석도 자랑하네…\"귀한 날 딱 한 번 신어\"."
+      "(서울=연합뉴스) 김준태 기자 = 강남구가 창업 3년 이내 기업을 운영하는 '초기창업자'를 대상으로 '2026 AX 활용 및 투자유치 전략 초기..."
     ],
     "chips": [
-      "#뉴스"
+      "#AI"
     ]
   },
   {
-    "id": "n8c8c9ff5",
+    "id": "n8183a77d",
     "category": "스포츠",
-    "source": "조선일보",
-    "time": "13분 전",
-    "url": "https://www.chosun.com/sports/golf/2026/08/23/GIZTAZJVMUZGKZLFGBSTKZBWGU/",
-    "title": "타수 못 줄인 임성재, 단독 7위...마지막 라운드서 8년 연속 최종전 진출 판가름난다",
+    "source": "뉴시스",
+    "time": "10분 전",
+    "url": "https://www.newsis.com/view/NISX20260823_0003758833",
+    "title": "\"청년 목소리 시정 담는다\" 화성시, 청년 소통간담회",
     "summary": [
-      "[스포츠조선 김용 기자] 임성재가 상승세를 이어가지 못했다.",
-      "하지만 여전히 희망은 살아있다.",
-      "임성재는 23일(한국시각) 미국 벨러리브컨트리클럽에서 열린 PGA 투어 플레이오프 2차전 BMW챔피언십 3라운드에서 타수를 줄이지 못하고 이븐파를 기록했다."
+      "[화성=뉴시스] 문영호 기자 = 경기 화성시는 지난 22일 동탄구청에서 '2026년 청년과의 소통 간담회'를 열었다고 23일 밝혔다.",
+      "간담회에는 제5기 화성시 청년정책협의체 위원 40여명이 참석, 청년의 다양한 목소리를 시에 전하고 실효성 있는 정책 추진을 함께 모색했다.",
+      "화성시는 '모두의 행복, 더 큰 화성'과 '성장·포용·공정'의 가치를 바탕으로 9대 전략 중 하나인 '기회가 넘치는 청년 친화도시' 조성을 목표로 다양한 청년정책을 추진하고."
     ],
     "chips": [
-      "#뉴스"
+      "#정책"
     ]
   },
   {
-    "id": "nbcbfdd4d",
+    "id": "n5e9ac330",
     "category": "스포츠",
     "source": "연합뉴스",
-    "time": "13분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260823027500007",
-    "title": "MLB 오타니, 50일 만에 타자 세워두고 투구…마운드 복귀 임박",
+    "time": "10분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260823028700073",
+    "title": "日 첫 피겨 페어 금메달 기하라-미우라, 깜짝 약혼 발표",
     "summary": [
-      "(서울=연합뉴스) 장현구 기자 = 투타를 겸업하는 미국프로야구 메이저리그(MLB) 슈퍼스타 오타니 쇼헤이(로스앤젤레스 다저스)가 왼쪽 무릎 통증..."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
-    "id": "n25b67fb4",
-    "category": "부동산",
-    "source": "아시아경제",
-    "time": "15분 전",
-    "url": "https://view.asiae.co.kr/article/2026082313113755225",
-    "title": "강훈식 \"與, 주택용지 확보방안 제시하면 적극 검토\"",
-    "summary": [
-      "강훈식 대통령 비서실장이 수도권 주택공급 방안과 관련해 여당이 주택용지 확보방안을 제시할 경우 적극 검토하겠다고 23일 밝혔다.",
-      "이날 서울 삼청동 총리공관에서 열린 고위당정협의회에서 강 실장은 \"수도권 주택공급을 대폭 확대하는 것이 가장 어렵고 이 중에서도 가장 핵심적인 것은 주택용지를 확보하는 일\"이라며 \"지역 상황에 밝은 여당 지역위원장들과 단체장께서 단기간에 공급 가능한 주택용지 확보 방안을 제시해주면."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "nf480c51e",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "19분 전",
-    "url": "https://www.donga.com/news/Politics/article/all/20260823/134524863/2",
-    "title": "한성숙, ‘제주 실종자 허위 보고’ 사건에 “철저히 진상 조사하라”",
-    "summary": [
-      "한성숙 국무총리는 제주 실종자 ‘허위 보고’ 사건과 관련 “수사 과정 전반에 대해 철저히 진상을 조사하라”고 지시했다.한 총리는 이날 오전 배포한 긴급지시를 통해 경찰청에 “경찰이 실종신고 접수와 처리 과정에서 허위로 사건을 종결하는 등의 행위가 없는지 면밀히 확인하고 근본적인 재발방지 대책을 조속히 마련해 보고하라”며 이같이 전했다.",
-      "또 “가용한 경찰력을 최대한 동원해 실종자 수색에 최선을 다하라”며 “실종자 가족을 더욱 힘들게 하는 장난 전."
+      "(도쿄=연합뉴스) 조성미 특파원 = 일본 피겨 역사상 페어 부문 첫 올림픽 금메달리스트인 기하라 류이치(34·남)-미우라 리쿠(24)가 약혼을 ..."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n98d88b59",
+    "id": "nd2cb1e58",
     "category": "사회",
-    "source": "조선일보",
-    "time": "19분 전",
-    "url": "https://www.chosun.com/national/transport-environment/2026/08/23/AEMF6BKIEBA5LDNYNOTHPQC7B4/",
-    "title": "처서에도 무더위 계속...서울 전역 폭염주의보",
+    "source": "아시아경제",
+    "time": "11분 전",
+    "url": "https://view.asiae.co.kr/article/2026082314061069534",
+    "title": "\"2차 공공기관 이전 대구 차별받을 지 모른다\" 우려…대구경제계, 공정하게 추진해달라 촉구",
     "summary": [
-      "처서에도 무더위 계속...서울 전역 폭염주의보."
+      "대구상공회의소는 23일 공개한 성명서를 통해 \"정부가 추진하는 '2차 공공기관 이전'은 수도권 일극 체제를 극복하고 지역의 새로운 성장동력을 창출하는 핵심 국가균형발전 정책이다\"며 \"국가균형발전이라는 대원칙 아래 모든 지역에 공정한 기회가 보장되고, 각 지역의 산업 기반과 미래 성장성, 국가 경제에 미치는 파급효과 등을 객관적이고 공정하게 분석한 뒤 관련 공공기관을 이전해야한다\"고 밝혔다."
+    ],
+    "chips": [
+      "#정책"
+    ]
+  },
+  {
+    "id": "nc7714f83",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "12분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260823029100504",
+    "title": "보훈부, 스타벅스 '독립유공자 후손' 장학사업 계속하기로",
+    "summary": [
+      "(서울=연합뉴스) 김철선 기자 = 국가보훈부가 '5·18 탱크데이' 논란으로 중단까지 검토했던 스타벅스와의 독립유공자 후손 장학사업을 당초 계획..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n98620bd3",
+    "category": "경제",
+    "source": "한국경제",
+    "time": "16분 전",
+    "url": "https://www.hankyung.com/article/2026082368247",
+    "title": "\"이자·원금 갚는 데만 319조원\"…日 나랏빚 부담 역대 최대",
+    "summary": [
+      "\"이자·원금 갚는 데만 319조원\"…日 나랏빚 부담 역대 최대."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n9d80bc22",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "17분 전",
+    "url": "https://www.newsis.com/view/NISX20260823_0003758808",
+    "title": "\"맥주를 냉동고에? 업계 금기 깼다\"…日 아사히, '3분 냉동' 마케팅 대박",
+    "summary": [
+      "[서울=뉴시스]서이현 인턴 기자 = 일본 아사히 맥주가 캔맥주를 마시기 직전 냉동고에 3분간 넣으라는 파격적인 음용법을 제안해 화제를 모으고 있다.",
+      "22일 니혼게이자이신문에 따르면, 아사히 비어는 2026년 5월 자사 대표 제품 '슈퍼드라이'의 새로운 마시는 방법으로 '마무리 단계에서 3분 냉동고 DRY'를 내놨다.",
+      "냉장고에서 차갑게 보관한 캔맥주를 마시기 직전 약 3분만 냉동고에 넣는 간단한 방법이다."
     ],
     "chips": [
       "#뉴스"
@@ -659,7 +649,7 @@ window.KEYWORD_TOP = [
   },
   {
     "rank": 3,
-    "tag": "KBO",
+    "tag": "반도체",
     "mentions": "1550건",
     "trend": "+135%"
   }
