@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-08-24 16:23:14
+// 마지막 업데이트: 2026-08-24 17:21:54
 window.NEWS_DB = [
   {
     "id": "nfe46f43f",
     "category": "IT",
     "source": "파이낸셜뉴스",
-    "time": "8시간 전",
+    "time": "9시간 전",
     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE16Skp3QU9TMkVIN0NzXzFOeTU1OExnZmUtclFodTVSV0w5SHpNRDg0aUFRM2dsVUJONWhsWmlhRzFhRUwtU3VEZlZIRGxKMjdhYldEWE9pZGdqQQ?oc=5",
     "title": "삼성은 '두뇌' 키우고, SK는 초고적층 쌓는다…HBM 승부처 '설계·패키징'으로",
     "summary": [
@@ -19,7 +19,7 @@ window.NEWS_DB = [
     "id": "nb28c359d",
     "category": "IT",
     "source": "비즈니스포스트",
-    "time": "10시간 전",
+    "time": "11시간 전",
     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5TRVQ5QmxoeGJ1ZDdwQVh4TXdiVFZnRzdjQXBPMGJIZ290RDdSVUxZSElJOExlYUxFZ2k0M051TDh0Z05KTzFDWTkwOFR4SVNOUUQzamFwUlQ1RkRhbnVJTUh5M09HMmI1THFaSGFsYmVXelE?oc=5",
     "title": "엔비디아 실적 발표 'AI 열풍'의 새 시험대, 메모리반도체 가격 상승 반작용 더 커지나",
     "summary": [
@@ -35,7 +35,7 @@ window.NEWS_DB = [
     "id": "n6ce8f860",
     "category": "IT",
     "source": "인공지능신문",
-    "time": "14시간 전",
+    "time": "15시간 전",
     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBfU0ZwNXhTWGtjamZya0FIZ1BaVFZycThDSm1HQ2hEZ09sVmozYzJWTXdMc1R4TFJoUEVwdmVhdWhCQnlTb2RHM1BqUWdJRzV2WnY3YU1tMW5pX3RldnFEUVgtejBSVU0?oc=5",
     "title": "엔비디아 젠슨 황, “오픈 모델이 AI 산업 재편”... ‘오픈 AI 모델’ 직접 키운다",
     "summary": [
@@ -51,7 +51,7 @@ window.NEWS_DB = [
     "id": "n0b6cef2b",
     "category": "IT",
     "source": "비즈니스포스트",
-    "time": "14시간 전",
+    "time": "15시간 전",
     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBhLVJYRXpqelRPZXcxUHVnQ2dkM2ZuSlRXeVNBXy05QVJVNmpkRjJFR2dPZnFqZlgwWnBhWkxNRVV0UjdlS2xveUNCXzB2c1JKV09HUmNELXlGeXJvMFAycndfQ1prcExydnhvMk5VTEJxVUE?oc=5",
     "title": "대만 매체 \"엔비디아 젠슨 황 TSMC와 비공개 회동\", 삼성전자 SK하이닉스 HBM 공급망도 주목",
     "summary": [
@@ -65,14 +65,14 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n2a26e29d",
+    "id": "n10d70d81",
     "category": "IT",
-    "source": "파이낸셜뉴스",
-    "time": "17시간 전",
-    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5zUk1IMnRGc2Z5aGRkMjlzMk5mNWlwZldYdEd1bl9CQnU0aU00OGpzNWpyN3lERWxGUXhxQUlTdGRBVVJZSXd1RWdhcFhSQi1nckxuOVZKdnNjZw?oc=5",
-    "title": "엔비디아, 10조원 베팅해 '개방형 AI' 승부…중국 모델에 맞불",
+    "source": "경향신문",
+    "time": "1일 전",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1RbmpaY1ZpZzR0MUIwMlRlZEpHd080TmxTN2NxdFhxNktoSUpmbzFQeDd0ZDNjSENhN3Noc2JHU2xXV2IwdVMxblNtOHR0anh3bExYUExXWGRoZ9IBX0FVX3lxTE5VSlNTNTkxSWZRVWJtVUo3YXJNOUF0MFU1bGFXblJ1c2c4MkJlTlNfUnIxTlNOdzN0LTdXVGdxRlYyLVF0ZkV0UEFWWlJ0WnpBdzlUVGFMbV9hTDZXcTA0?oc=5",
+    "title": "메모리값 폭등에…엔비디아도 AI 서버 가격 15% 이상 올린다",
     "summary": [
-      "엔비디아, 10조원 베팅해 '개방형 AI' 승부…중국 모델에 맞불 파이낸셜뉴스."
+      "메모리값 폭등에…엔비디아도 AI 서버 가격 15% 이상 올린다 경향신문."
     ],
     "chips": [
       "#AI",
@@ -313,10 +313,68 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n53c975de",
+    "category": "경제",
+    "source": "연합뉴스",
+    "time": "7분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260825003900071",
+    "title": "[속보] 美재무 \"이란 위해 자금세탁하면 美달러 시스템서 제외될 것\"",
+    "summary": [],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nabab1e8e",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "7분 전",
+    "url": "https://www.newsis.com/view/NISX20260825_0003760775",
+    "title": "이스라엘, 하마스에 \"연·풍선 날리면 무관용\"…하마스, 부인",
+    "summary": [
+      "[서울=뉴시스] 김예진 기자 = 이스라엘은 24일(현지 시간) 팔레스타인 무장 정파 하마스가 연, 풍선을 사용해 자국을 타격하려 한다면서, 무관용 정책을 채택할 것을 지시했다고 강력 경고했다.",
+      "AFP통신, 이스라엘내셔널뉴스 등에 따르면 이스라엘 카츠 이스라엘 국방장관은 이날 성명을 내어 베냐민 네타냐후 이스라엘 총리와 함께 자국 네게브 지역을 향해 연과 풍선을 날리는 행위에 대해 무관용 정책을 채택하라는 지시를 이스라엘군에 지시했다고 밝혔다."
+    ],
+    "chips": [
+      "#정책"
+    ]
+  },
+  {
+    "id": "nc83ea6e6",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "7분 전",
+    "url": "https://www.chosun.com/sports/world-football/2026/08/25/HA3DSODDMIYTGZDCGQ2GEOJUME/",
+    "title": "[공식발표] '韓 꽃미남 스타' 조규성, 일본 이적설 끝! J리그 마치다, 오가와 품었다...\"협상 끝에 조규성 영입은 실패\"",
+    "summary": [
+      "[OSEN=고성환 기자] 스트라이커를 찾고 있던 마치다 젤비아가 오가와 고키(29)를 영입했다.",
+      "대한민국 국가대표 공격수 조규성(28, 미트윌란) 영입은 무산된 것으로 알려졌다.마치다 젤비아는 24일(이하 한국시간) 구단 홈페이지를 통해 \"NEC 네이메헌(네덜란드 1부)에서 오가와 고키 선수가 완전 이적으로 합류하게 됐음을 알려드린다\"라며 오가와 영입을 공."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n46432714",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "8분 전",
+    "url": "https://www.chosun.com/sports/basketball/2026/08/25/G4ZWGY3DMVSWCM3DGAZTANTDGY/",
+    "title": "1위 뉴욕, 2위 샌안. 그리고 1티어 5개팀. 디 애슬레틱의 최신 NBA 파워랭킹. 과연 필라델피아의 순위는?",
+    "summary": [
+      "[스포츠조선 류동혁 기자] 최신 NBA 파워랭킹이 발표됐다.",
+      "미국 스포츠 대표적 전문매체 디 애슬레틱스가 25일(한국시각) 발표했다.",
+      "CBS스포츠, ESPN 등이 시즌에는 1주일 간격으로, 비 시즌에는 불규칙적으로 파워랭킹을 발표하는데, 디 애슬레틱지는 올해 비 시즌 첫 파워랭킹을 발표했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
     "id": "nf18668e0",
     "category": "IT",
     "source": "테크M",
-    "time": "방금 전",
+    "time": "8분 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=154574",
     "title": "지그재그 입점했더니 매출 12배 '껑충'…카카오스타일의 상생 실험 통했다",
     "summary": [
@@ -329,10 +387,177 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n37613d22",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "11분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260825003400071",
+    "title": "[속보] 美 \"디지털자산·기술·금·항공·해운 등 이란 관련 2차 제재\"",
+    "summary": [],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n890647ca",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "18분 전",
+    "url": "https://www.chosun.com/international/international_general/2026/08/25/HBRDQZTGGA2WENRSGQ4TMZBVG4/",
+    "title": "이란, 유조선 45척 블랙리스트 올려…韓 장금상선 선박도 포함",
+    "summary": [
+      "이란이 호르무즈 해협 통항 규정을 위반한 유조선을 블랙리스트에 올리고, 이들과 환적하는 모든 선박에 대해서도 조처하겠다고 밝혔다.",
+      "24일(현지 시각) 이란 현지 매체 등에 따르면, 페르시아만해협청(PGSA)은 전날 X(구 트위터)에 4제재 대상 선박 45척을 공개하고 이들 선박에 벌금을 부과하거나 화물을 압류할 수 있다고 경고했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nb383d497",
+    "category": "사회",
+    "source": "머니투데이",
+    "time": "21분 전",
+    "url": "https://www.mt.co.kr/opinion/2026/08/25/2026082310544768936",
+    "title": "[청계광장/황호원]하늘에서 혁신은 무사히 돌아오는 것",
+    "summary": [
+      "발의된 항공안전법 개정안 안전 우려 커져 군용기 민간용 개조에 감항인증 쉽게 변경 효율 핑계 안전을 행정편의와 바꿔선 안돼 산불이 발생하면 가장 먼저 하늘로 향하는 사람들이 있다.",
+      "짙은 연기와 강풍을 뚫고 산등성이를 넘으며 물을 투하하는 산림헬기 조종사들이다.",
+      "대형 재난과 인명사고가 발생하면 소방헬기는 구조대원과 환자를 태우고 때로는 도심 한복판을 비행한다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n3f3271d8",
+    "category": "사회",
+    "source": "머니투데이",
+    "time": "21분 전",
+    "url": "https://www.mt.co.kr/opinion/2026/08/25/2026082410072133564",
+    "title": "[MT시평/배정석]중국인 정탐활동, 방첩체계에 대한 경고",
+    "summary": [
+      "최근 적발된 중국인들의 군사기지 정탐 사건은 우리 방첩 체계에 심각한 경고다.",
+      "경찰이 지난 11일 공개한 내용에 따르면 중국인 2명이 한미 군사시설을 대상으로 서로 다른 방식의 정보 수집 활동을 벌인 혐의로 구속됐다.",
+      "60대 중국인은 올해 4월 한미 공군 전력이 운용되는 군산공항 인근 호텔에 머물며 안테나, 수신기, 노트북을 이용해 전투기와 관제실 간 교신을 불법 도청한 혐의를 받고 있다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n6bf30962",
+    "category": "IT",
+    "source": "머니투데이",
+    "time": "21분 전",
+    "url": "https://www.mt.co.kr/opinion/2026/08/25/2026082315183671901",
+    "title": "석달간의 하안거를 마치며 [투데이 窓/혜원]",
+    "summary": [
+      "안거 끝나면 돌아가신 부모·조상 천도재 제사 사라지지만 고인 추모는 지금도 유효 참선 통한 나눔의 기쁨은 AI가 할 수 없어 안거는 승려가 1년에 두 번 겨울과 여름을 맞아 석 달씩 수행처에 머물며 유행하지 않고 정진하는 것을 말한다.",
+      "여름에는 하안거, 겨울에는 동안거라 이름한다.",
+      "인도에서 우기 석 달 동안 적정처에 머물며 수행하는 것이 시작이다."
+    ],
+    "chips": [
+      "#AI"
+    ]
+  },
+  {
+    "id": "n457a1ee3",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "21분 전",
+    "url": "https://www.newsis.com/view/NISX20260824_0003760034",
+    "title": "\"우리 결혼은 끝났다더니”…별거 중인 女와 만난 男, '상간자 소송' 당했다",
+    "summary": [
+      "[서울=뉴시스]김드보라 인턴 기자 = 이미 혼인관계가 사실상 파탄 난 여성과 교제를 시작했다가 뒤늦게 상간자 손해배상 소송을 당한 남성의 사연이 전해졌다.",
+      "24일 YTN 라디오 '조인섭 변호사의 상담소'에는 이미 혼인관계가 파탄 난 여성과 교제했다가 뒤늦게 여성의 남편으로부터 상간자 손해배상 소송을 당한 남성 A씨의 고민이 소개됐다.",
+      "시인으로 활동하며 글쓰기 교실을 운영하는 사연자 A씨는 여러 글쓰기 강좌 가운데 자신의 아픔을 글로 풀어내며 상."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n4e44580c",
+    "category": "스포츠",
+    "source": "머니투데이",
+    "time": "23분 전",
+    "url": "https://www.mt.co.kr/sports/2026/08/25/2026082418221149554",
+    "title": "'반삭' 홀란 따라 모델 여친도 '싹둑'... 커플 동반 이발에 팬들 \"제발 다시 길러줘, 득점력은 머리카락에 있다\"",
+    "summary": [
+      "머리를 자른 엘링 홀란(26·맨체스터 시티)를 따라 그의 여자친구도 새로운 헤어 스타일을 공개했다.",
+      "영국 '더선'은 24일(한국시간) \"새 시즌을 앞두고 트레이드마크였던 긴 꽁지머리를 싹둑 자른 홀란을 따라 이사벨 하우셍 요한센(22)도 헤어스타일에 변화를 줬다\"고 보도했다.",
+      "매체는 \"모델로 활동 중인 요한센은 파격적인 반삭을 감행한 홀란만큼 극단적인 변화를 주지는 않았다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n537649eb",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "26분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260825002500057",
+    "title": "현대차 노사, 올해 임협 잠정합의…기본급 10만원 인상",
+    "summary": [
+      "(울산=연합뉴스) 김근주 기자 = 현대자동차 노사가 월 기본급 10만원 인상을 골자로 한 올해 임금협상 잠정합의안을 25일 마련했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nee9d685f",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "26분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260825001600087",
+    "title": "지진 이어 폭우까지…베네수서 1명 사망·5명 실종",
+    "summary": [
+      "(멕시코시티=연합뉴스) 송광호 특파원 = 지난 주말 베네수엘라 카라카스와 2개 주(州)에 내린 폭우로 최소 1명이 사망하고 5명이 실종됐다고 현..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nd925178c",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "50분 전",
+    "url": "https://www.newsis.com/view/NISX20260825_0003760770",
+    "title": "후티 반군 \"홍해 얀부 연안서 사우디 유조선 탄도미사일로 타격\"",
+    "summary": [
+      "[서울=뉴시스] 김예진 기자 = 예멘의 친이란 후티 반군은 24일(현지 시간) 홍해 북부 얀부 연안에서 사우디아라비아 유조선을 탄도미사일로 타격했다고 주장했다.",
+      "아나돌루통신 등에 따르면 후티의 야히야 사리 후티 반군 대변인은 소셜미디어 엑스(X)로 성명을 내어 얀부 앞바다에서 사우디아라비아의 유조선 와파호를 여러 발의 탄도미사일로 \"정확하게\" 타격했다고 밝혔다.",
+      "사리 대변인은 이번 공격이 후티가 주장하는 대(對) 사우디아라비아 해상 봉쇄와 ‘봉."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n67539a85",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "51분 전",
+    "url": "https://www.chosun.com/sports/world-baseball/2026/08/25/MFRTGYLGMEYTKZBYG44TQMZTMQ/",
+    "title": "'롯데가 보류권까지 풀어줬는데' 충격 결말, 사직 예수 끝내 방출됐다",
+    "summary": [
+      "[스포츠조선 나유리 기자]'사직 예수' 애런 윌커슨이 결국 새 소속팀에서도 방출됐다.",
+      "아시아리그 재도전이 씁쓸한 결말을 맞았다.",
+      "대만프로야구(CPBL) 푸방 가디언스는 지난 21일 외국인 투수 윌커슨을 방출했다고 공식 발표했다."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
     "id": "n5addee4d",
     "category": "IT",
     "source": "테크M",
-    "time": "방금 전",
+    "time": "56분 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=154573",
     "title": "공모전은 '새단장'·수상작은 '책'으로...카카오 브런치, 창작 생태계 넓힌다",
     "summary": [
@@ -344,86 +569,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n15fa78be",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "6분 전",
-    "url": "https://www.chosun.com/sports/baseball/2026/08/25/HE2DKN3BGAZDEMRVGJQWMZRUMQ/",
-    "title": "제구 되는 159km 강속구를 뿌린다고? 그런데 왜 KBO에 있나...곽빈, 메이저행 현실 될까",
-    "summary": [
-      "[스포츠조선 김용 기자] 이러면 진짜 메이저리그 갈 수 있는 거 아닌가.",
-      "현실 가능성이 높든, 낮든 말이다.",
-      "프로야구 선수들이 꿈꾸는 가장 높은 무대, 미국 메이저리그다."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
-    "id": "n0591c35b",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "8분 전",
-    "url": "https://www.chosun.com/sports/world-baseball/2026/08/25/GMZWMNZYHA2TQZTBGM3TEZRRGU/",
-    "title": "진짜 가능? '타율 0.066' 김하성, ATL과 가을야구 갈지도…현지 매체 \"마지막 한 달 불꽃 경쟁\"",
-    "summary": [
-      "[스포츠조선 박상경 기자] 이게 정말 가능한 일일까.",
-      "극도의 슬럼프를 겪고 있는 김하성(애틀랜타 브레이브스)이 포스트시즌 엔트리에 합류할 수도 있다는 전망이 나왔다.",
-      "애틀랜타 소식을 전하는 HTHB는 24일(한국시각) 애틀랜타가 포스트시즌에 진출할 경우 각 포지션 별 예상 로스터를 전망하면서 김하성의 이름을 언급했다."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
-    "id": "nbfc30444",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "11분 전",
-    "url": "https://www.chosun.com/sports/baseball/2026/08/25/HEZTQNTGGBSDSZLEMEYDIY3DGQ/",
-    "title": "'한화 레전드' 김태균 배트 부러뜨린 구위 살아있네…19세 신인, 데뷔 첫 무실점 선발승 '5이닝 쾌투'",
-    "summary": [
-      "[OSEN=한용섭 기자] 프로야구 한화 이글스 신인 투수 강건우(19)가 퓨처스리그에서 처음으로 무실점 투구로 승리 투수가 됐다.",
-      "강건우는 24일 서산구장에서 열린 2026 퓨처스리그 롯데 자이언츠와 경기에 선발투수로 등판해, 5이닝 동안 5피안타 2볼넷 2탈삼진 무실점으로 승리 투수가 됐다.",
-      "1회 톱타자 이호준을 볼넷으로 내보냈다."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
-    "id": "n2fd7001a",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "11분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260825001300504",
-    "title": "한미, 대북공조 확인했지만 '비핵화' 명시 없이 '북핵문제 해결'",
-    "summary": [
-      "(서울=연합뉴스) 김동현 기자 = 도널드 트럼프 미국 대통령이 한국 정부의 입장을 충분히 반영하지 않은 채로 북한과 북핵 협상에 나설 수 있다는..."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n98b6859b",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "21분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260825001500079",
-    "title": "이스라엘 \"하마스 풍선·연 공격 재개\"…하마스 \"동심까지 적대\"",
-    "summary": [
-      "(카이로=연합뉴스) 김상훈 특파원 = 이스라엘은 24일(현지시간) 팔레스타인 무장정파 하마스가 연과 풍선을 이용해 자국 영토에 대한 공격을 재개..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
     "id": "n033d3fca",
     "category": "사회",
     "source": "뉴시스",
-    "time": "22분 전",
+    "time": "1시간 전",
     "url": "https://www.newsis.com/view/NISX20260824_0003760385",
     "title": "\"잘 때 '이 자세' 피하세요\"….회전근개 파열 온다",
     "summary": [
@@ -439,7 +588,7 @@ window.NEWS_DB = [
     "id": "n21b43d80",
     "category": "경제",
     "source": "아시아경제",
-    "time": "23분 전",
+    "time": "1시간 전",
     "url": "https://view.asiae.co.kr/article/2026082421400729503",
     "title": "[위너스 클럽] 클라크, '신들린 3연속 버디'",
     "summary": [
@@ -452,86 +601,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n2c043477",
-    "category": "IT",
-    "source": "뉴시스",
-    "time": "23분 전",
-    "url": "https://www.newsis.com/view/NISX20260824_0003760318",
-    "title": "\"냉면이 징그러워요\"…한식당 AI 이미지 메뉴판에 손님들 '경악'",
-    "summary": [
-      "[서울=뉴시스]장인혜 인턴 기자 = 캐나다의 한 한식당이 AI로 생성한 것으로 보이는 음식 이미지를 메뉴판에 사용한 모습이 온라인에서 화제가 됐다.",
-      "지난 21일 사회관계망서비스(SNS)에는 캐나다의 한식당에서 촬영한 메뉴판 사진과 함께 \"너무 충격적인 AI 생성 메뉴판을 보고 왔다\"는 내용의 글이 올라왔다.",
-      "글 작성자는 \"같이 간 친구는 보기만 해도 속 메슥거린다고 흐린 눈으로 메뉴 고르고 메뉴판 엎어놓음\"이라고 전했다."
-    ],
-    "chips": [
-      "#AI"
-    ]
-  },
-  {
-    "id": "nf47ba5bb",
-    "category": "스포츠",
-    "source": "뉴시스",
-    "time": "23분 전",
-    "url": "https://www.newsis.com/view/NISX20260824_0003759385",
-    "title": "'바다 수영' 유이, 늘씬한 수영복 자태…8㎏ 감량 유지하는 비결은",
-    "summary": [
-      "[서울=뉴시스]이준형 인턴 기자 = 그룹 애프터스쿨 출신 가수 겸 배우 유이가 바다 수영을 즐기는 모습을 공개했다.",
-      "20일 유이는 자신의 사회관계망서비스(SNS)를 통해 제주도 휴가 당시 촬영한 사진과 영상을 공개했다.",
-      "수영복 차림으로 등장한 그는 남다른 수영 실력을 선보이며 눈길을 끌었다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "neb9e42aa",
-    "category": "경제",
-    "source": "연합뉴스",
-    "time": "24분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260824167251071",
-    "title": "트럼프정부 \"전문직 비자에 1.4억 수수료\"…법원 제동에도 강행(종합)",
-    "summary": [
-      "(워싱턴=연합뉴스) 백나리 특파원 = 도널드 트럼프 미국 행정부가 전문직 비자로 불리는 H-1B 비자 신청자에게 10만 달러가 넘는 수수료를 부..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nd95ceb8c",
-    "category": "경제",
-    "source": "연합뉴스",
-    "time": "34분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260825001000072",
-    "title": "캐나다인 4명중 3명 \"나쁜 거래 중단 옳다\"…대미 무역전쟁 지지",
-    "summary": [
-      "(뉴욕=연합뉴스) 김연숙 특파원 = 미국과 캐나다의 무역 갈등이 고조되는 가운데, 캐나다 국민 대다수가 정부의 대미 무역 협상 중단과 강경 대응..."
-    ],
-    "chips": [
-      "#수출"
-    ]
-  },
-  {
-    "id": "n0ccdca0b",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "37분 전",
-    "url": "https://www.newsis.com/view/NISX20260824_0003760754",
-    "title": "러시아 \"英, 우크라 전쟁에 기름 붓고 있어\" 비판",
-    "summary": [
-      "[서울=뉴시스] 김예진 기자 = 러시아 크렘린궁은 우크라이나를 지원하고 있는 영국이 분쟁을 부추기고 평화 절차를 방해하고 있다고 비난했다.",
-      "24일(현지 시간) 타스통신, 리아노보스티 등에 따르면 드미트리 페스코프 크렘린궁 대변인은 이날 브리핑에서 :영국은 체계적으로, 정기적으로 (우크라이나 전쟁에) 불에 기름을 붓고 있다:고 비판했다.",
-      "그러면서 :평화적 해결 절차에 어떠한 진전도 없도록 책동하고 있다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
     "id": "n2293189a",
     "category": "IT",
     "source": "테크M",
-    "time": "48분 전",
+    "time": "1시간 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=154561",
     "title": "[테크M 리포트] 둘로 나뉘는 카카오, '기업 운영 효율화' 기대 속 'AI·신사업' 성과는 증명 과제로",
     "summary": [
@@ -548,92 +621,13 @@ window.NEWS_DB = [
     "id": "ne6e076e7",
     "category": "사회",
     "source": "동아일보",
-    "time": "53분 전",
+    "time": "1시간 전",
     "url": "https://www.donga.com/news/Economy/article/all/20260824/134535355/2",
     "title": "[단독]넓어진 中하늘길… “알짜 노선 잡아라” 항공사 경쟁",
     "summary": [
       "국토교통부가 2026년도 국제항공운수권 추가 배분 절차에 들어가면서 7년 만에 확대된 중국 핵심 노선을 둘러싼 국적 항공사들의 경쟁이 본격화하고 있다.",
       "중국 여객 수요가 역대 최고 수준에 근접한 가운데 인천을 출발해 베이징(北京), 상하이(上海), 광저우(廣州) 등으로 향하는 ‘알짜 노선’ 운수권이 대거 풀리면서 어느 항공사가 이를 얼마나 가져갈지가 관심사다.",
       "23일 국토교통부 등에 따르면 이번에 추가 배분될 운수권은 67개국 113개 노선이다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n2bc496d2",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "53분 전",
-    "url": "https://www.donga.com/news/Economy/article/all/20260824/134535337/2",
-    "title": "셀트리온, 삼성바이오 이어 44조 키트루다 시장 도전장",
-    "summary": [
-      "연간 매출이 약 44조 원에 이르는 세계 최대 항암제 ‘키트루다’를 둘러싼 국내 바이오 기업들의 복제약 개발 경쟁이 본격화하고 있다.",
-      "삼성바이오에피스에 이어 셀트리온도 국내 품목허가를 신청하면서 시장 선점을 위한 경쟁에 뛰어들었다.",
-      "셀트리온은 24일 식품의약품안전처에 키트루다의 바이오시밀러(바이오의약품 복제약) ‘CT-P51’의 품목허가를 신청했다고 밝혔다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n3c2e5ec0",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "53분 전",
-    "url": "https://www.donga.com/news/Economy/article/all/20260824/134535352/2",
-    "title": "삼성전자, EHS 히트펌프 보일러 국내 생산… 정부 ‘난방 전기화’ 동참",
-    "summary": [
-      "삼성전자가 정부의 난방 전기화 사업에 맞춰 고효율 난방 장치인 ‘에코 히팅 시스템(EHS) 히트펌프 보일러’를 국내에서 생산한다.",
-      "삼성전자는 전남광주통합특별시 광산구 광주사업장 제2캠퍼스에 2132m² 규모의 EHS 히트펌프 보일러 생산라인을 구축해 19일 시험 생산을 시작했다고 24일 밝혔다.",
-      "해당 라인은 공정 안정성과 제품 품질 평가를 거쳐 9월 말부터 양산 체제에 들어간다."
-    ],
-    "chips": [
-      "#삼성전자"
-    ]
-  },
-  {
-    "id": "n4f5845c1",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "53분 전",
-    "url": "https://www.donga.com/news/Economy/article/all/20260824/134535415/2",
-    "title": "1분기 일자리 29만개 증가에도, 20대 이하는 7만개 줄었다",
-    "summary": [
-      "올 1분기(1∼3월) 임금근로 일자리가 1년 전보다 29만2000개 늘어났다.",
-      "전체 일자리 증가 폭은 2년 만에 가장 컸지만, 20대 이하 일자리는 14분기 연속 감소하며 청년층 고용 부진이 이어졌다.",
-      "24일 국가데이터처가 발표한 일자리동향에 따르면 올 1분기 임금근로 일자리 증가 폭은 2024년 1분기(31만4000개) 이후 가장 컸다."
-    ],
-    "chips": [
-      "#고용"
-    ]
-  },
-  {
-    "id": "ne9e1721a",
-    "category": "IT",
-    "source": "테크M",
-    "time": "1시간 전",
-    "url": "https://www.techm.kr/news/articleView.html?idxno=154572",
-    "title": "엔키·스틸리언, ODA 연계로 페루·인니서 현지 접점 넓힌다",
-    "summary": [
-      "국내 보안기업들이 공적개발원조(ODA) 사업과 연계해 후속 사업 기회를 모색하고 있다.",
-      "현지 대학과 공공기관에 교육 콘텐츠나 플랫폼을 공급해 해외 시장에 기술력을 알리는 방식이 활용된다.24일 보안업계에 따르면 엔키화이트햇과 스틸리언은 각각 페루와 인도네시아에서 사이버보안 인력양성 사업을 진행하고 있다.엔키화이트햇은 지난 18일부터 21일까지 페루 국립공과대학교(UNI) 사이버보안학과 교수진과 학생을 대상으로 보안 교육을 했다."
-    ],
-    "chips": [
-      "#교육"
-    ]
-  },
-  {
-    "id": "n671a58f6",
-    "category": "경제",
-    "source": "아시아경제",
-    "time": "1시간 전",
-    "url": "https://view.asiae.co.kr/article/2026082500072302184",
-    "title": "157년 만의 귀환…성균관 대성전 위패, 제자리로",
-    "summary": [
-      "성균관 대성전이 157년 만의 대규모 보수를 마쳤다.",
-      "잠시 자리를 비웠던 유교 성현 39위의 위패도 다시 봉안됐다.",
-      "성균관은 24일 서울 종로구 성균관 일원에서 위패 환안(還安) 행차를 열었다."
     ],
     "chips": [
       "#뉴스"
@@ -646,8 +640,8 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "1940건",
-    "trend": "+195%"
+    "mentions": "2720건",
+    "trend": "+315%"
   },
   {
     "rank": 2,
@@ -657,9 +651,9 @@ window.KEYWORD_TOP = [
   },
   {
     "rank": 3,
-    "tag": "KBO",
-    "mentions": "1680건",
-    "trend": "+155%"
+    "tag": "반도체",
+    "mentions": "1420건",
+    "trend": "+115%"
   }
 ];
 // ====AUTO-GENERATED-END====
