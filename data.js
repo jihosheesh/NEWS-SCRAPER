@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-08-24 14:31:42
+// 마지막 업데이트: 2026-08-24 15:28:13
 window.NEWS_DB = [
   {
     "id": "nfe46f43f",
     "category": "IT",
     "source": "파이낸셜뉴스",
-    "time": "6시간 전",
+    "time": "7시간 전",
     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE16Skp3QU9TMkVIN0NzXzFOeTU1OExnZmUtclFodTVSV0w5SHpNRDg0aUFRM2dsVUJONWhsWmlhRzFhRUwtU3VEZlZIRGxKMjdhYldEWE9pZGdqQQ?oc=5",
     "title": "삼성은 '두뇌' 키우고, SK는 초고적층 쌓는다…HBM 승부처 '설계·패키징'으로",
     "summary": [
@@ -19,7 +19,7 @@ window.NEWS_DB = [
     "id": "nb28c359d",
     "category": "IT",
     "source": "비즈니스포스트",
-    "time": "8시간 전",
+    "time": "9시간 전",
     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5TRVQ5QmxoeGJ1ZDdwQVh4TXdiVFZnRzdjQXBPMGJIZ290RDdSVUxZSElJOExlYUxFZ2k0M051TDh0Z05KTzFDWTkwOFR4SVNOUUQzamFwUlQ1RkRhbnVJTUh5M09HMmI1THFaSGFsYmVXelE?oc=5",
     "title": "엔비디아 실적 발표 'AI 열풍'의 새 시험대, 메모리반도체 가격 상승 반작용 더 커지나",
     "summary": [
@@ -35,7 +35,7 @@ window.NEWS_DB = [
     "id": "n6ce8f860",
     "category": "IT",
     "source": "인공지능신문",
-    "time": "12시간 전",
+    "time": "13시간 전",
     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBfU0ZwNXhTWGtjamZya0FIZ1BaVFZycThDSm1HQ2hEZ09sVmozYzJWTXdMc1R4TFJoUEVwdmVhdWhCQnlTb2RHM1BqUWdJRzV2WnY3YU1tMW5pX3RldnFEUVgtejBSVU0?oc=5",
     "title": "엔비디아 젠슨 황, “오픈 모델이 AI 산업 재편”... ‘오픈 AI 모델’ 직접 키운다",
     "summary": [
@@ -51,7 +51,7 @@ window.NEWS_DB = [
     "id": "n0b6cef2b",
     "category": "IT",
     "source": "비즈니스포스트",
-    "time": "12시간 전",
+    "time": "13시간 전",
     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBhLVJYRXpqelRPZXcxUHVnQ2dkM2ZuSlRXeVNBXy05QVJVNmpkRjJFR2dPZnFqZlgwWnBhWkxNRVV0UjdlS2xveUNCXzB2c1JKV09HUmNELXlGeXJvMFAycndfQ1prcExydnhvMk5VTEJxVUE?oc=5",
     "title": "대만 매체 \"엔비디아 젠슨 황 TSMC와 비공개 회동\", 삼성전자 SK하이닉스 HBM 공급망도 주목",
     "summary": [
@@ -68,7 +68,7 @@ window.NEWS_DB = [
     "id": "n2a26e29d",
     "category": "IT",
     "source": "파이낸셜뉴스",
-    "time": "15시간 전",
+    "time": "16시간 전",
     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5zUk1IMnRGc2Z5aGRkMjlzMk5mNWlwZldYdEd1bl9CQnU0aU00OGpzNWpyN3lERWxGUXhxQUlTdGRBVVJZSXd1RWdhcFhSQi1nckxuOVZKdnNjZw?oc=5",
     "title": "엔비디아, 10조원 베팅해 '개방형 AI' 승부…중국 모델에 맞불",
     "summary": [
@@ -136,6 +136,22 @@ window.NEWS_DB = [
     ],
     "chips": [
       "#환율"
+    ]
+  },
+  {
+    "id": "n14e5eed8",
+    "category": "IT",
+    "source": "지디넷코리아",
+    "time": "11일 전",
+    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA0QnNPOWgxU3R2U1B4aFlUNjdweHZWUmVTUHV4amc1dURxRUxhbFlBSWxhcEtwR3drUlM4UERTazJHcEhtVzM3Z3R1UVgxTWlJOTBSamF3?oc=5",
+    "title": "류제명 차관 \"30년전 네이버처럼...AI 시대 유니콘 탄생 기대\"",
+    "summary": [
+      "류제명 차관 \"30년전 네이버처럼...AI 시대 유니콘 탄생 기대\" 지디넷코리아."
+    ],
+    "chips": [
+      "#AI",
+      "#스타트업",
+      "#네이버"
     ]
   },
   {
@@ -254,6 +270,20 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "nba668fc0",
+    "category": "IT",
+    "source": "한국방송뉴스",
+    "time": "117일 전",
+    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1XaThhZXFiX3dDT0NrYVFwZ2dhNTgxbHU0WE5Bc21vcGVzR0d2Wkh2Zm5pS2MyZ1JkYlhHb2VfRkhkemdEX1F6Q1RtajJLRzR6dDdHcExQelAyS2N1OUE?oc=5",
+    "title": "1조 8000억 규모 벤처펀드 선정…\"벤처·스타트업에 적시 공급\"",
+    "summary": [
+      "1조 8000억 규모 벤처펀드 선정…\"벤처·스타트업에 적시 공급\" 한국방송뉴스."
+    ],
+    "chips": [
+      "#스타트업"
+    ]
+  },
+  {
     "id": "n08b2b275",
     "category": "부동산",
     "source": "한국부동산뉴스",
@@ -280,34 +310,6 @@ window.NEWS_DB = [
     ],
     "chips": [
       "#KBO"
-    ]
-  },
-  {
-    "id": "nbc27bc5a",
-    "category": "IT",
-    "source": "연합뉴스",
-    "time": "180일 전",
-    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5UNnlsSTY5eHFYNEZ6ZktBM216dFF6Q0J5Z1NVYm56M3A2TUFNMDM0U081NTNsZVNJTy1MWklmVGc0cEdLVk5NRHFiTWtHbmx2b2ItSkVEV1A2ZFnSAWBBVV95cUxOV3Z3V2F3aWJvV3dDNDc4OXpfRmpyaDgtaExGWC1ZTUxvX2M4ZVZPNC1rZHpQeUtSNXlIZjc0dHdGWTdfUXpJQXdac1lZU3Mza3NvdHVweFFNYXhmdDMyZWs?oc=5",
-    "title": "스타트업·벤처를 유니콘으로…전북도, '창업 천국' 구상 발표",
-    "summary": [
-      "스타트업·벤처를 유니콘으로…전북도, '창업 천국' 구상 발표 연합뉴스."
-    ],
-    "chips": [
-      "#스타트업"
-    ]
-  },
-  {
-    "id": "nbcfe41a7",
-    "category": "IT",
-    "source": "연합뉴스TV",
-    "time": "182일 전",
-    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8wREZzcDhjdlBHWDRyS0l1YlIxdEszOHZaSjRrNFU1VlBPajQwc1AySHFmWFh4M2NfSVJNWnBaZXhXRHhGOExxZm12ZmZMdFl5WEhLX2owTzVNaWRYd3d0UzRSdndSY2c?oc=5",
-    "title": "\"K-방산 유니콘 키운다\"…스타트업 100개·벤처천억기업 30개 육성",
-    "summary": [
-      "\"K-방산 유니콘 키운다\"…스타트업 100개·벤처천억기업 30개 육성 연합뉴스TV."
-    ],
-    "chips": [
-      "#스타트업"
     ]
   },
   {
@@ -359,10 +361,116 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n715a460c",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "4분 전",
+    "url": "https://www.chosun.com/opinion/palmyeonbong/2026/08/25/ZPP5M2SZDFEFNGA7F522TPBW3Q/",
+    "title": "[팔면봉] ‘특별감찰관은 대통령 소속으로 하되, 직무에 관해 독립 지위를 가진다’. 외",
+    "summary": [
+      "[팔면봉] ‘특별감찰관은 대통령 소속으로 하되, 직무에 관해 독립 지위를 가진다’. 외."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "ne17bea8a",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "5분 전",
+    "url": "https://www.donga.com/news/Inter/article/all/20260825/134536409/1",
+    "title": "조현, 美루비오와 통화…트럼프발 북미 대화 분위기 속 “북핵 해결 공조”",
+    "summary": [
+      "조현 외교부 장관이 마코 루비오 미국 국무부 장관과 통화하며 한미 관계와 북핵 문제 등에 대해 의견을 교환했다.",
+      "양국 외교장관 통화는 올 3월 이란전쟁 관련 통화 이후 5개월 만이다.",
+      "외교부는 이날 통화에서는 양 장관이 “한미 연합방위태세를 유지하는 가운데, 한반도 평화와 북핵 문제 해결을 위해 한미 간 긴밀한 소통과 공조를 이어나가기로 했다”고 밝혔다."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "nb9fd9b70",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "5분 전",
+    "url": "https://www.chosun.com/entertainments/broadcast/2026/08/25/GY3WKMZRGU3GCN3GMNQTKNZSMY/",
+    "title": "'엄태웅♥' 윤혜진, 본업 복귀해 경단녀들 울렸다..네티즌 \"울컥할 정도로 아름다워\"",
+    "summary": [
+      "영상 시청 후 작성된 리뷰 기사입니다.[OSEN=최지연 기자] 발레리나 윤혜진이 본업 복귀를 준비했다.",
+      "지난 20일 유튜브 채널 '윤혜진의 What see TV'에는 '“막은 올랐고 이젠 그냥 하는 거야” 다시 무대 서기까지 11년'이라는 제목의 영상이 게재됐다.",
+      "이날 윤혜진은 '최태지의 발레 오픈 리허설' 무대에 게스트로 참석해 약 14년 만에 발레 공연."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n4dce2d99",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "5분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260824169100099",
+    "title": "민주콩고 에볼라 확진 5천500명 넘어…WHO \"중대 고비\"",
+    "summary": [
+      "(요하네스버그=연합뉴스) 나확진 특파원 = 콩고민주공화국(민주콩고)에서 발병한 에볼라 확진자가 5천500명을 넘어섰다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nbe3307bc",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "7분 전",
+    "url": "https://www.newsis.com/view/NISX20260825_0003760768",
+    "title": "조현·루비오 통화…\"한반도 평화·북핵 해결 위해 긴밀 공조\"",
+    "summary": [
+      "[서울=뉴시스] 유자비 기자 = 조현 외교부 장관이 24일 마코 루비오 미국 국무장관과 통화를 갖고 최근 한반도 문제와 한미 관계에 대한 의견을 교환했다.",
+      "외교부에 따르면 양 장관은 이날 늦은 저녁 통화를 갖고 굳건한 한미 연합방위태세를 유지하는 가운데 한반도 평화와 북핵 문제 해결을 위해 한미 간 긴밀한 소통과 공조를 이어나가기로 했다.",
+      "조 장관은 최근 도널드 트럼프 대통령의 메시지가 북미 대화 재개와 한반도 평화로 이어질 수 있도록 우리 정."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "nb96404ef",
+    "category": "경제",
+    "source": "뉴시스",
+    "time": "8분 전",
+    "url": "https://www.newsis.com/view/NISX20260824_0003759699",
+    "title": "\"매수 버튼 누르는 순간, 기관은 매도 폭탄\"…전문가 리딩 믿지 말라는 이유",
+    "summary": [
+      "[서울=뉴시스]서이현 인턴 기자 = 주식 투자에서 전문가 추천을 맹신했다가는 이른바 '설거지' 물량 떠넘기기에 이용당할 수 있다는 경고가 나왔다.",
+      "14일 유튜브 채널 '너와 나의 경제학교'에 따르면, '아들아, 돈 공부해야 한다'의 저자 정선용 작가는 강연에서 증권사 애널리스트나 리딩방 고수를 믿으면 안 된다며 그 이유를 짚었다.",
+      "그는 이들이 투자자의 수익이 아닌 본인이나 소속 기관의 이익을 우선한다고 지적했다."
+    ],
+    "chips": [
+      "#교육"
+    ]
+  },
+  {
+    "id": "n2bede216",
+    "category": "부동산",
+    "source": "조선일보",
+    "time": "8분 전",
+    "url": "https://www.chosun.com/opinion/editorial/2026/08/25/ZRISFQTXJJASPO3NA7BOKVV7NE/",
+    "title": "[사설] 재개발 권한 박탈, 행정처 폐지, 미운 놈 표적 삼은 저격 입법",
+    "summary": [
+      "[사설] 재개발 권한 박탈, 행정처 폐지, 미운 놈 표적 삼은 저격 입법."
+    ],
+    "chips": [
+      "#재건축"
+    ]
+  },
+  {
     "id": "ne9e1721a",
     "category": "IT",
     "source": "테크M",
-    "time": "방금 전",
+    "time": "11분 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=154572",
     "title": "엔키·스틸리언, ODA 연계로 페루·인니서 현지 접점 넓힌다",
     "summary": [
@@ -374,262 +482,151 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n3124235e",
-    "category": "경제",
-    "source": "동아일보",
-    "time": "1분 전",
-    "url": "https://www.donga.com/news/Opinion/article/all/20260824/134535910/2",
-    "title": "[사설]美-캐나다 무역전쟁 가열… 韓 무역합의 사후관리 강화해야",
-    "summary": [
-      "국경을 맞댄 핵심 동맹인 미국과 캐나다의 무역 전쟁이 가열되고 있다.",
-      "미국은 지난해 3월 캐나다에 25%의 상호관세를 부과했다.",
-      "이후 양국은 보복관세를 주고받으며 협상을 했지만 결렬됐고, 미국은 22일 캐나다산 유제품 주류 기계 등에 50%의 관세 부과를 결정했다."
-    ],
-    "chips": [
-      "#수출"
-    ]
-  },
-  {
-    "id": "nc1b42cf0",
-    "category": "경제",
+    "id": "nc0411c04",
+    "category": "사회",
     "source": "뉴시스",
-    "time": "1분 전",
-    "url": "https://www.newsis.com/view/NISX20260824_0003760762",
-    "title": "[속보]뉴욕증시, 기술주 약세속 혼조 출발",
-    "summary": [
-      "후속기사가 이어집니다 ◎공감언론 뉴시스 aci27@newsis.com."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n6420e339",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "4분 전",
-    "url": "https://www.donga.com/news/Opinion/article/all/20260824/134535912/2",
-    "title": "[사설]‘재명아’ ‘조희대 씨’… 국민 혐오 키우는 여야 대표의 막된 언사",
-    "summary": [
-      "김민석 더불어민주당 대표가 24일 국민의힘 당사로 장동혁 대표를 예방했다.",
-      "김 대표 취임 일주일 만의 첫 여야 대표 만남이다.",
-      "김 대표는 장 대표를 향해 “계엄 해제 과정에서 뜻을 함께해 중요한 역사적 분기점도 같이 넘긴 리더”라고 추켜세우며 언제든 수시로 대화하자고 했다."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "ncfcbfef7",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "5분 전",
-    "url": "https://www.chosun.com/sports/world-football/2026/08/24/MZRGCZRUGUYTMMJWMI3TONZSGA/",
-    "title": "韓 축구 대박 소식! 빅리그 풀백 생긴다...설영우, 분데스 전격 입성 \"이적료 최대 89억에 아우크스부르크 합류\"",
-    "summary": [
-      "[OSEN=고성환 기자] 설영우(28, 츠르베나 즈베즈다)가 2026 북중미 월드컵의 아쉬움을 뒤로 하고 빅리그에 입성한다.",
-      "그가 독일 분데스리가 무대로 향한다는 소식이다.세르비아 '스포르탈'은 24일(한국시간) \"즈베즈다가 분데스리가에 최고 수준의 선수 중 한 명을 팔았다.",
-      "마라카나(즈베즈다 홈구장 별칭)에 수백만 유로가 들어온다!\"라며 \"설영우가 마라카."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n9e7bdb45",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "7분 전",
-    "url": "https://www.donga.com/news/Opinion/article/all/20260824/134535914/2",
-    "title": "[사설]‘규제사각’ 불법 핀플루언서… 이젠 범죄조직까지 꼬인다",
-    "summary": [
-      "허위 정보와 과장된 투자 수익률을 앞세운 일부 ‘핀플루언서(금융 인플루언서)’로 인한 투자자 피해가 확산되고 있다.",
-      "투자는 원칙적으로 개인의 책임이지만, 왜곡된 정보로 투자자의 판단을 흐린 뒤 사익을 챙기는 것은 금융 당국이 단속해야 할 위법 행위다.",
-      "인스타그램, 스레드, 유튜브 등을 통해 자신의 수익을 공개하면서 투자 종목을 추천하는 핀플루언서 상당수는 자본시장 전문가가 아니다."
-    ],
-    "chips": [
-      "#정책"
-    ]
-  },
-  {
-    "id": "ne5770691",
-    "category": "경제",
-    "source": "연합뉴스",
-    "time": "8분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260824167900072",
-    "title": "WSJ, 트럼프의 캐나다 관세전에 \"가장 어리석은 무역전쟁\"",
-    "summary": [
-      "(뉴욕=연합뉴스) 김연숙 특파원 = 미국 일간 월스트리트저널(WSJ)이 도널드 트럼프 대통령의 대(對) 캐나다 관세전쟁을 \"가장 어리석은 무역 ..."
-    ],
-    "chips": [
-      "#수출",
-      "#정치"
-    ]
-  },
-  {
-    "id": "n4d9c5226",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "9분 전",
-    "url": "https://www.chosun.com/entertainments/broadcast/2026/08/24/GMYDSN3FMM4GGMRRMVQTONJSGE/",
-    "title": "빵꾸똥꾸 맞아? 진지희, 바닷가 여신 다 됐네…성숙해진 비주얼",
-    "summary": [
-      "[OSEN=김수형 기자]배우 진지희가 청순한 여름 근황을 전했다.진지희는 24일 자신의 SNS를 통해 바닷가에서 여유로운 시간을 보내는 모습을 공개했다.공개된 사진 속 진지희는 모래사장에 앉아 카메라를 바라보며 미소 짓고 있다.",
-      "잔잔한 패턴의 롱 원피스에 연두색 카디건을 매치해 편안하면서도 사랑스러운 분위기를 완성했다.특히 길게 늘어뜨린 머리와 자연스러운."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n120f32a4",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "10분 전",
-    "url": "https://www.donga.com/news/Inter/article/all/20260824/134536302/1",
-    "title": "트럼프 “내년 1월부터 캐나다산 車·철강 관세 50%로 인상”",
-    "summary": [
-      "트럼프 미국 대통령이 2027년 1월부터 캐나다산 차와 철강 등에 부과되는 관세를 50%로 인상하겠다고 24일(현지시간) 밝혔다.트럼프 대통령은 이날 자신의 트루스소셜에 올린 글에서 “”2027년 1월 1일부터 모든 자동차와 트럭, 자동차 부품, 철강에 대한 관세를 50%로 인상할 것“이라고 밝혔다.",
-      "그는 ”캐나다는 수년 동안 미국을 갈취해 왔다“며 ”캐나다는 더 이상 (미국의) 하나의 주(州)처럼 대우받지 않을 것(Canada will be."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "nee8145a9",
-    "category": "경제",
-    "source": "조선일보",
-    "time": "11분 전",
-    "url": "https://www.chosun.com/international/international_general/2026/08/24/HBRDIOJQGJSTQYZQHEYDKZJRME/",
-    "title": "美정부 “이공계 전문직 H-1B 비자 신청에 수수료 1억원 이상 부과”",
-    "summary": [
-      "미국 국토안보부가 일명 ‘전문직 비자’로 불리는 H-1B 비자 신청자에게 10만달러가 넘는 수수료를 부과하는 방안을 내놨다는 보도가 나왔다.",
-      "24일(현지 시각) 로이터통신에 따르면, 국토안보부는 이날 관보를 통해 H-1B 비자 신청에 수수료 10만3265달러(약1억4300만원)를 내게 하는 안을 제시했다.",
-      "이날부터 30일간 의견 수렴이 시작되며, 확정 여."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nd16a5bdd",
-    "category": "사회",
-    "source": "연합뉴스",
     "time": "13분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260824143851001",
-    "title": "여야, 경찰 '실종 허위종결' 질타…\"신뢰 떨어뜨려\"·\"사건암장\"(종합)",
+    "url": "https://www.newsis.com/view/NISX20260824_0003760763",
+    "title": "이란 \"한국 장금상선 선박 등 45척 호르무즈 규정 위반, 블랙리스트\"",
     "summary": [
-      "(서울=연합뉴스) 오규진 이율립 기자 = 여야는 24일 국회 행정안전위원회의 업무보고에서 제주경찰청의 장미란(37)씨 실종 사건 처리를 두고 일..."
+      "[서울=뉴시스] 김예진 기자 = 이란은 호르무즈 해협 통항 규정을 위반한 유조선 45척을 블랙리스트에 올렸다고 발표했다.",
+      "이들 선박과 화물을 환적하는 모든 선박에 대해서도 조치를 취하겠다고 밝혔다.",
+      "24일(현지 시간) 도이체벨레, 이코노믹타임스 등에 따르면 전날 이란의 페르시아만해협청(PGSA)은 소셜미디어 엑스(X)를 통해 이같이 밝히고 45척 선박의 명단을 공개했다."
     ],
     "chips": [
-      "#정치"
+      "#뉴스"
     ]
   },
   {
-    "id": "n255d283a",
+    "id": "n807d55ff",
     "category": "사회",
     "source": "연합뉴스",
     "time": "17분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260824167800071",
-    "title": "트럼프, 보복관세 캐나다에 \"내년부터 자동차 관세 50%로\" 반격",
+    "url": "https://www.yna.co.kr/view/AKR20260825000400072",
+    "title": "캐나다, 美중간선거 전 협상재개 가능성 낮다 판단…장기전 대비",
     "summary": [
-      "(워싱턴=연합뉴스) 백나리 특파원 = 도널드 트럼프 미국 대통령은 24일(현지시간) 내년부터 캐나다의 자동차와 자동차 부품, 철강 관세를 50%..."
+      "(뉴욕=연합뉴스) 김연숙 특파원 = 캐나다 정부가 미국과의 관세 갈등이 조기에 해소되지 않고 미국 중간선거 이후까지 장기화할 가능성에 무게를 두..."
     ],
     "chips": [
       "#정치"
     ]
   },
   {
-    "id": "na7e30fe0",
+    "id": "n62c5f44f",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "18분 전",
+    "url": "https://www.newsis.com/view/NISX20260824_0003759344",
+    "title": "\"옷도 안 입고 자는데 덜컥\"…비번 알고 문 연 공인중개사 '무단 침입' 논란",
+    "summary": [
+      "[서울=뉴시스]박세은 인턴 기자 = 이사를 앞두고 집을 내놓은 세입자가 공인중개사가 사전 연락 없이 손님과 함께 집으로 들어오는 일이 있었다는 사연을 전했다.",
+      "지난 21일 글쓴이 A씨는 한 온라인 커뮤니티에 '집을 보러 온 공인중개사가 비밀번호를 이용해 무단으로 집에 들어왔다'는 취지의 게시글을 올렸다.",
+      "A씨는 이사를 위해 집을 내놓았는데 이전에 글쓴이가 여행을 떠난 사이 집을 보고 싶다는 요청을 받아 공인중개사에게 비밀번호를 알려주고 집을 보."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n32d84f53",
     "category": "사회",
     "source": "연합뉴스",
     "time": "18분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260824168000079",
-    "title": "이란 \"한국 장금상선 소유 유조선 등 45척 호르무즈 규정 위반\"",
+    "url": "https://www.yna.co.kr/view/AKR20260825000300504",
+    "title": "조현, 美루비오와 통화…'북핵 용인 우려' 속 \"긴밀소통\" 강조",
     "summary": [
-      "(카이로=연합뉴스) 김상훈 특파원 = 이란이 호르무즈 해협 통항 규정을 위반한 유조선 45척을 블랙리스트에 올리고, 이들 선박과 환적하는 모든 ..."
+      "(서울=연합뉴스) 김지헌 기자 = 조현 외교부 장관이 마코 루비오 미국 국무부 장관과 통화하며 한미 간 긴밀한 소통을 강조했다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n89e47210",
-    "category": "경제",
-    "source": "뉴시스",
-    "time": "24분 전",
-    "url": "https://www.newsis.com/view/NISX20260824_0003760752",
-    "title": "트럼프, 캐나다 무역갈등에 \"車·철강관세 50%로 인상\" 위협",
-    "summary": [
-      "[워싱턴=뉴시스] 이윤희 특파원 = 미국과 캐나다가 무역합의에 실패하면서 관세 전쟁이 예고된 가운데, 도널드 트럼프 미 대통령은 내년부터 캐나다산 자동차와 철강에도 50% 관세를 부과하겠다며 추가 위협에 나섰다.",
-      "트럼프 대통령은 24일(현지 시간) 소셜미디어(SNS) 트루스소셜에 \"캐나다는 수년간 미국을 착취해왔다\"며 \"2027년 1월 1일부터 모든 자동차와 트럭, 자동차 부품, 철강에 대한 관세를 50%로 인상할 것이다."
-    ],
-    "chips": [
-      "#수출",
-      "#정치"
-    ]
-  },
-  {
-    "id": "n538b4ab0",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "24분 전",
-    "url": "https://www.newsis.com/view/NISX20260824_0003760756",
-    "title": "주중대사, 수교 34주년 맞아 \"한·중 협력 한 단계 나아가야\"(종합)",
-    "summary": [
-      "[베이징=뉴시스]박정규 특파원 = 노재헌 주중대사가 한·중 수교 34주년을 맞아 양국 간 협력이 새로운 단계로 도약해야 한다는 점을 강조했다.",
-      "노 대사는 24일 베이징 주중국대사관저에서 '한·중 동행 34주년, 음악으로 만나다'를 주제로 개최한 한·중 수교 34주년 기념 음악회에서 환영사를 통해 이같이 밝혔다.",
-      "노 대사는 \"1992년 8월 24일 냉전의 긴 겨울을 지나 한국과 중국은 서로에게 문을 열었다\"며 \"당시 양국 지도자들이 내다본 것은."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n6c0a44ca",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "24분 전",
-    "url": "https://www.newsis.com/view/NISX20260824_0003760753",
-    "title": "거제시, 극한호우 도로 피해 복구…5일만에 100% 통행 재개",
-    "summary": [
-      "[거제=뉴시스] 신정철 기자 = 기록적인 극한호우로 도로 곳곳이 유실되는 등 대규모 피해가 발생한 경남 거제시가 시민 안전과 일상 회복을 최우선에 두고 신속한 복구에 총력을 기울이며, 5일만에 100% 통행을 재개했다.",
-      "24일 거제시에 따르면 15일부터 17일까지 사흘간 이어진 극한호우로 산사태와 토사 유출, 도로 유실 등 대규모 피해가 잇따르자, 변광용 시장의 특별지시에 따라 피해조사와 응급복구를 병행하는 신속 대응체계를 가동했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "na92693fc",
+    "id": "n671a58f6",
     "category": "경제",
     "source": "아시아경제",
-    "time": "31분 전",
-    "url": "https://view.asiae.co.kr/article/2026082423002494711",
-    "title": "[뉴욕증시]마이크론·AMD 등 급락…S&P500·나스닥 ↓",
+    "time": "20분 전",
+    "url": "https://view.asiae.co.kr/article/2026082500072302184",
+    "title": "157년 만의 귀환…성균관 대성전 위패, 제자리로",
     "summary": [
-      "미국의 장기 국채금리가 하락세로 돌아섰지만 반도체주를 중심으로 매도세가 쏠리면서 24일(현지시간) 미국 뉴욕증시의 3대 지수는 장 초반 혼조세를 나타내고 있다.",
-      "뉴욕증권거래소(NYSE)에서 오전 9시 54분 현재 다우지수는 전 거래일보다 152.11포인트(0.29%) 올라간 5만3429.12에 거래 중이다.",
-      "대형주 중심의 S&P500지수는 22.22포인트(0.29%) 하락한 7652.15, 기술주 중심의 나스닥지수는 233.05포인트(0.89%."
+      "성균관 대성전이 157년 만의 대규모 보수를 마쳤다.",
+      "잠시 자리를 비웠던 유교 성현 39위의 위패도 다시 봉안됐다.",
+      "성균관은 24일 서울 종로구 성균관 일원에서 위패 환안(還安) 행차를 열었다."
     ],
     "chips": [
-      "#반도체",
-      "#금리"
+      "#뉴스"
     ]
   },
   {
-    "id": "nf65307c7",
-    "category": "경제",
-    "source": "한국경제",
-    "time": "41분 전",
-    "url": "https://www.hankyung.com/article/2026082498401",
-    "title": "아프리카서 K쌀 열풍…韓 농기계·종자 수출 교두보로",
+    "id": "nd5971a5b",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "21분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260825000200079",
+    "title": "후티 반군 \"홍해 얀부 앞바다서 사우디 유조선 타격\"",
     "summary": [
-      "아프리카서 K쌀 열풍…韓 농기계·종자 수출 교두보로."
+      "(카이로=연합뉴스) 김상훈 특파원 = 예멘의 친이란 반군 후티는 24일(현지시간) 홍해 북부 얀부 앞바다에서 사우디아라비아 유조선을 타격했다고 ..."
     ],
     "chips": [
-      "#수출"
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nfe2347e2",
+    "category": "경제",
+    "source": "동아일보",
+    "time": "26분 전",
+    "url": "https://www.donga.com/news/Inter/article/all/20260825/134536310/1",
+    "title": "美정부 “H-1B 비자 신청에 1억4300만원 수수료 부과”",
+    "summary": [
+      "미국 도널드 트럼프 행정부가 과학·기술 등 전문직 종사자에게 발급되는 H-1B 비자 신청자에게 약 1억4300만 원에 달하는 수수료를 내도록 하는 방안을 추진한다.",
+      "올 연말쯤 확정되면 기존 수수료의 최대 50배를 내야 한다.이날 로이터통신에 따르면 미 국토안보부는 이른바 ‘전문직 비자’로 불리는 H-1B 비자 신청자에게 수수료 10만3265달러를 부과하는 방안을 25일 공지할 예정이다.",
+      "30일간 각계 의견 수렴을 거쳐 이르면 연말에 확정될 가능."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n58f96f24",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "30분 전",
+    "url": "https://www.chosun.com/politics/diplomacy-defense/2026/08/24/WGFOQPQBDNHINHIBDLMQQOTIYE/",
+    "title": "[속보] 한미 외교장관 통화... “북핵 해결 위해 공조”",
+    "summary": [
+      "[속보] 한미 외교장관 통화... “북핵 해결 위해 공조”."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n0051ec08",
+    "category": "경제",
+    "source": "한국경제",
+    "time": "51분 전",
+    "url": "https://www.hankyung.com/article/202608249858i",
+    "title": "팔란티어의 저주가 현실로?…위협받는 앤트로픽 [박신영의 개장전 요것만]",
+    "summary": [
+      "팔란티어의 저주가 현실로?…위협받는 앤트로픽 [박신영의 개장전 요것만]."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n6ac2b4db",
+    "category": "경제",
+    "source": "한국경제",
+    "time": "56분 전",
+    "url": "https://www.hankyung.com/article/2026082498637",
+    "title": "출국세 3배로 올린 日…곰 피해 대책·벚나무 관리에 썼다",
+    "summary": [
+      "출국세 3배로 올린 日…곰 피해 대책·벚나무 관리에 썼다."
+    ],
+    "chips": [
+      "#뉴스"
     ]
   }
 ];
@@ -639,20 +636,20 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "1810건",
-    "trend": "+175%"
+    "mentions": "2330건",
+    "trend": "+255%"
   },
   {
     "rank": 2,
-    "tag": "정치",
+    "tag": "AI",
     "mentions": "1680건",
     "trend": "+155%"
   },
   {
     "rank": 3,
     "tag": "반도체",
-    "mentions": "1550건",
-    "trend": "+135%"
+    "mentions": "1420건",
+    "trend": "+115%"
   }
 ];
 // ====AUTO-GENERATED-END====
