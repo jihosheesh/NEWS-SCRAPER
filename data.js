@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-08-24 12:24:41
+// 마지막 업데이트: 2026-08-24 13:41:40
 window.NEWS_DB = [
   {
     "id": "nfe46f43f",
     "category": "IT",
     "source": "파이낸셜뉴스",
-    "time": "4시간 전",
+    "time": "5시간 전",
     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE16Skp3QU9TMkVIN0NzXzFOeTU1OExnZmUtclFodTVSV0w5SHpNRDg0aUFRM2dsVUJONWhsWmlhRzFhRUwtU3VEZlZIRGxKMjdhYldEWE9pZGdqQQ?oc=5",
     "title": "삼성은 '두뇌' 키우고, SK는 초고적층 쌓는다…HBM 승부처 '설계·패키징'으로",
     "summary": [
@@ -19,7 +19,7 @@ window.NEWS_DB = [
     "id": "nb28c359d",
     "category": "IT",
     "source": "비즈니스포스트",
-    "time": "6시간 전",
+    "time": "7시간 전",
     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5TRVQ5QmxoeGJ1ZDdwQVh4TXdiVFZnRzdjQXBPMGJIZ290RDdSVUxZSElJOExlYUxFZ2k0M051TDh0Z05KTzFDWTkwOFR4SVNOUUQzamFwUlQ1RkRhbnVJTUh5M09HMmI1THFaSGFsYmVXelE?oc=5",
     "title": "엔비디아 실적 발표 'AI 열풍'의 새 시험대, 메모리반도체 가격 상승 반작용 더 커지나",
     "summary": [
@@ -32,10 +32,26 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n6ce8f860",
+    "category": "IT",
+    "source": "인공지능신문",
+    "time": "11시간 전",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBfU0ZwNXhTWGtjamZya0FIZ1BaVFZycThDSm1HQ2hEZ09sVmozYzJWTXdMc1R4TFJoUEVwdmVhdWhCQnlTb2RHM1BqUWdJRzV2WnY3YU1tMW5pX3RldnFEUVgtejBSVU0?oc=5",
+    "title": "엔비디아 젠슨 황, “오픈 모델이 AI 산업 재편”... ‘오픈 AI 모델’ 직접 키운다",
+    "summary": [
+      "엔비디아 젠슨 황, “오픈 모델이 AI 산업 재편”...",
+      "‘오픈 AI 모델’ 직접 키운다 인공지능신문."
+    ],
+    "chips": [
+      "#AI",
+      "#엔비디아"
+    ]
+  },
+  {
     "id": "n0b6cef2b",
     "category": "IT",
     "source": "비즈니스포스트",
-    "time": "10시간 전",
+    "time": "12시간 전",
     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBhLVJYRXpqelRPZXcxUHVnQ2dkM2ZuSlRXeVNBXy05QVJVNmpkRjJFR2dPZnFqZlgwWnBhWkxNRVV0UjdlS2xveUNCXzB2c1JKV09HUmNELXlGeXJvMFAycndfQ1prcExydnhvMk5VTEJxVUE?oc=5",
     "title": "대만 매체 \"엔비디아 젠슨 황 TSMC와 비공개 회동\", 삼성전자 SK하이닉스 HBM 공급망도 주목",
     "summary": [
@@ -49,26 +65,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n507b1cca",
-    "category": "IT",
-    "source": "데이터투자",
-    "time": "12시간 전",
-    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5waXVjSkVYd0J3a1c5Y1N2ZU9vUWRUNlBaWnZYZldmaFRJY1VMRnJzQlcxSF9Ma2REVXFvSldLT25iSFZDTnliWGtMRTlaTEEybXZ4SlcyYkc2X1dKTWVTZnBYN2djN1NhMElSajdPOTJlV2c?oc=5",
-    "title": "엔비디아, ‘3조 몸값’ 리벨리온 인수 검토··솔트룩스, AI반도체·LLM 공동사업 파트너 부각",
-    "summary": [
-      "엔비디아, ‘3조 몸값’ 리벨리온 인수 검토··솔트룩스, AI반도체·LLM 공동사업 파트너 부각 데이터투자."
-    ],
-    "chips": [
-      "#AI",
-      "#반도체",
-      "#엔비디아"
-    ]
-  },
-  {
     "id": "n2a26e29d",
     "category": "IT",
     "source": "파이낸셜뉴스",
-    "time": "13시간 전",
+    "time": "14시간 전",
     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5zUk1IMnRGc2Z5aGRkMjlzMk5mNWlwZldYdEd1bl9CQnU0aU00OGpzNWpyN3lERWxGUXhxQUlTdGRBVVJZSXd1RWdhcFhSQi1nckxuOVZKdnNjZw?oc=5",
     "title": "엔비디아, 10조원 베팅해 '개방형 AI' 승부…중국 모델에 맞불",
     "summary": [
@@ -139,33 +139,17 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n1058f97e",
+    "id": "n671bb698",
     "category": "스포츠",
     "source": "네이트",
-    "time": "11일 전",
-    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8yc083aVJTcjRRMW96ZThmS0J5NnYtWjFpdVpkWlpPMjA2RVhzQzF5dzVTcGhHdUJFaWRDUmdjY053NEFkY2g4dzZmZmNYQW5saFg4YVV4NG1sbkx0bTFMWg?oc=5",
-    "title": "맑은 하늘 아래 펼쳐지는 KBO리그",
+    "time": "18일 전",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9KdGQtY1VveGFTcU1fcVUxX2t3WFptYmE0TVBWWTFqdGVJZFZpb3RURWp1NHRHdGZWNmdWTFNJWVRlUTR4aTFlYWYzcks2RDhvWWNBT1htbm1xeVZ0TGR1Vw?oc=5",
+    "title": "KBO, 연이은 폭염에 프로야구 대책 논의",
     "summary": [
-      "맑은 하늘 아래 펼쳐지는 KBO리그 네이트."
+      "KBO, 연이은 폭염에 프로야구 대책 논의 네이트."
     ],
     "chips": [
       "#KBO"
-    ]
-  },
-  {
-    "id": "n14e5eed8",
-    "category": "IT",
-    "source": "지디넷코리아",
-    "time": "11일 전",
-    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA0QnNPOWgxU3R2U1B4aFlUNjdweHZWUmVTUHV4amc1dURxRUxhbFlBSWxhcEtwR3drUlM4UERTazJHcEhtVzM3Z3R1UVgxTWlJOTBSamF3?oc=5",
-    "title": "류제명 차관 \"30년전 네이버처럼...AI 시대 유니콘 탄생 기대\"",
-    "summary": [
-      "류제명 차관 \"30년전 네이버처럼...AI 시대 유니콘 탄생 기대\" 지디넷코리아."
-    ],
-    "chips": [
-      "#AI",
-      "#스타트업",
-      "#네이버"
     ]
   },
   {
@@ -313,6 +297,20 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "nbc27bc5a",
+    "category": "IT",
+    "source": "연합뉴스",
+    "time": "180일 전",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5UNnlsSTY5eHFYNEZ6ZktBM216dFF6Q0J5Z1NVYm56M3A2TUFNMDM0U081NTNsZVNJTy1MWklmVGc0cEdLVk5NRHFiTWtHbmx2b2ItSkVEV1A2ZFnSAWBBVV95cUxOV3Z3V2F3aWJvV3dDNDc4OXpfRmpyaDgtaExGWC1ZTUxvX2M4ZVZPNC1rZHpQeUtSNXlIZjc0dHdGWTdfUXpJQXdac1lZU3Mza3NvdHVweFFNYXhmdDMyZWs?oc=5",
+    "title": "스타트업·벤처를 유니콘으로…전북도, '창업 천국' 구상 발표",
+    "summary": [
+      "스타트업·벤처를 유니콘으로…전북도, '창업 천국' 구상 발표 연합뉴스."
+    ],
+    "chips": [
+      "#스타트업"
+    ]
+  },
+  {
     "id": "nf18668e0",
     "category": "IT",
     "source": "테크M",
@@ -376,258 +374,264 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nc29bfcdf",
+    "id": "n5c46fdd5",
     "category": "사회",
-    "source": "조선일보",
-    "time": "5분 전",
-    "url": "https://www.chosun.com/national/regional/2026/08/24/PPQI23BZJ5CERDNIJFLA56RHDA/",
-    "title": "제주서 사흘새 실종자 4명째 시신 발견",
+    "source": "머니투데이",
+    "time": "1분 전",
+    "url": "https://www.mt.co.kr/world/2026/08/24/2026082422245797518",
+    "title": "트럼프 \"이란 완전히 붕괴 중\"…베선트, 곧 '경제 전쟁' 세부 내용 발표",
     "summary": [
-      "제주서 사흘새 실종자 4명째 시신 발견."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n4d7bb38a",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "5분 전",
-    "url": "https://www.donga.com/news/Society/article/all/20260824/134536043/1",
-    "title": "성인 실종 연 7만건…매년 99%가 한 달 내 해제, 1시간 내 해제도 50% 안팎",
-    "summary": [
-      "경찰에 접수되는 성인 실종신고가 최근 4년간 매년 7만 건 안팎을 기록하고 있지만 신고 사건의 99% 가량이 한 달 안에 해제된 것으로 파악됐다.",
-      "성인 실종 신고 특성상 단순 연락두절로 종결되는 경우도 많지만, 이같은 ‘신속한 해제’ 관행이 실종 초기 소재 파악 소홀 등으로 이어질 수 있다는 우려가 나온다.24일 국회 행정안전위원회 소속 조국혁신당 정춘생 의원이 경찰청으로부터 제출받은 자료에 따르면 경찰이 ‘가출인’으로 분류해 관리하는 일반 성."
+      "[미국-이란 전쟁] 한국시간 25일 오전 2시 기자회견 \"이란 협력 국가 대상 '2차 제재' 범위 확대할 듯\" 도널드 트럼프 미국 대통령이 이란에 대한 새로운 경제 제재 발표를 앞두고 '이란 붕괴'를 주장했다.",
+      "트럼프 대통령은 24일(현지시간) SNS(소셜미디어) 트루스소셜에 별다른 설명 없이 \"이란이 완전히 붕괴하고 있다!!!\"(IRAN IS COMPLETELY COLLAPSING!!!)고 남겼다.",
+      "앞서 예고한 전례 없는 수준의 대(對)이란."
     ],
     "chips": [
       "#정치"
     ]
   },
   {
-    "id": "n94ed466f",
+    "id": "ndc090bc8",
     "category": "사회",
-    "source": "조선일보",
-    "time": "6분 전",
-    "url": "https://www.chosun.com/entertainments/broadcast/2026/08/24/MRTDSMTBGNRGEMTCGZSDANBSGQ/",
-    "title": "KCM, 결혼 15년 만에 비공개 식 올린다..웨딩 투어 전격 공개",
+    "source": "머니투데이",
+    "time": "3분 전",
+    "url": "https://www.mt.co.kr/sports/2026/08/24/2026082422020651065",
+    "title": "전 세계를 충격에 빠트린 '세계챔피언 총격 사망 사건', 드디어 전말 공개되나... \"용의자 4명 체포\"",
     "summary": [
-      "영상 시청 후 작성된 리뷰 기사입니다.[OSEN=최지연 기자] 가수 겸 방송인 KCM이 웨딩 투어를 진행했다.",
-      "지난 20일 유튜브 채널 'KCM'에는 ‘[케가네] 15년을 기다려준 아내’라는 제목의 영상을 게재됐다.",
-      "이날 KCM은 가족들과 함께 서울 세빛섬의 한 웨딩홀을 찾았다.그는 “살면서 처음으로 웨딩 투어라는 걸 해본다."
+      "충격적인 사건의 전말이 드러날 분위기다.",
+      "자택 앞에서 괴한들의 총격을 받아 비극적으로 세상을 떠난 전 세계 복싱 챔피언 졸라니 테테(38·남아프리카공화국) 피살 사건의 용의자 4명이 현지 경찰에 체포됐다.",
+      "영국 매체 'BBC'는 24일(한국시간) \"남아공 경찰이 지난 21일 자택 밖에서 총에 맞아 숨진 복싱 챔피언 졸라니 테테 살해 사건과 관련해 4명의 용의자를 체포했다\"고 보도했다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n7fa5bc9c",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "6분 전",
-    "url": "https://www.chosun.com/sports/sports_general/2026/08/24/GFRDIMZYMQ2TSYRYGUZGCOBQGE/",
-    "title": "\"역대 3번째로 힘들었다\" 승승승승승승! 안세영, 日 최강자 또 꺾고 우승한 소감은?...\"어떻게 말로 표현해야 할지 모르겠다\"",
-    "summary": [
-      "[OSEN=고성환 기자] 세계랭킹 2위도 안세영(24, 삼성생명)의 상대가 될 순 없었다.",
-      "안세영이 다시 한번 야마구치 아카네(29·일본)를 꺾고 '퍼펙트 우승'을 달성했다.여자단식 세계랭킹 1위 안세영은 23일(한국시간) 인도 뉴델리 인드라 간디 아레나에서 열린 2026 세계배드민턴연맹(BWF) 세계선수권대회 여자단식 결승전에서 야마구치를 49분 만에 2."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n53c298c0",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "8분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260824163800108",
-    "title": "영국 총리 우크라 간 날…러 \"전쟁에 기름 붓는다\"",
-    "summary": [
-      "(이스탄불=연합뉴스) 김동호 특파원 = 드미트리 페스코프 러시아 크렘린궁 대변인은 영국이 우크라이나를 군사적으로 지원하면서 분쟁을 부추긴다고 2..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n432002dd",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "8분 전",
-    "url": "https://www.chosun.com/entertainments/broadcast/2026/08/24/GRQTEMLCMFRTMNJQMU3DGNLEGU/",
-    "title": "노윤서, 그림으로 그린 듯한 미모… ‘작품 같은 비주얼’",
-    "summary": [
-      "[OSEN=김수형 기자] 배우 노윤서가 그림을 옮겨놓은 듯한 비주얼로 시선을 사로잡았다.노윤서는 최근 자신의 SNS를 통해 여러 장의 근황 사진을 공개하며 팬들과 일상을 공유했다.공개된 사진 속 노윤서는 긴 흑발을 자연스럽게 늘어뜨린 채 거울 앞에서 셀카를 찍고 있다.",
-      "장난기 어린 표정과 흐트러진 헤어스타일에도 또렷한 이목구비가 돋보이며 특유의 청초한 분위."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n6e5d3416",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "9분 전",
-    "url": "https://www.newsis.com/view/NISX20260824_0003760721",
-    "title": "경찰청장 대행 \"무거운 책임감\"…사퇴 질의엔 \"고민해보겠다\"(종합)",
-    "summary": [
-      "[서울=뉴시스] 신항섭 기자 = 유재성 경찰청장 직무대행이 제주여성 실종 사건과 장윤기 사건 등 잇단 부실수사 논란에 대해 국회에서 \"무거운 책임감을 느낀다\"고 밝혔다.",
-      "사퇴 용의를 묻는 질의에는 \"고민해보겠다\"고 답했다.",
-      "유 직무대행은 24일 국회 행정안전위원회에서 김영진 위원장이 장윤기 사건과 제주 실종사건을 거론하며 \"경찰의 최고책임자로서 이 문제에 관해 책임감을 느끼지 않느냐\"고 묻자 \"무거운 책임감을 느끼고 있다\"고 답했다."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n86a7d198",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "9분 전",
-    "url": "https://www.newsis.com/view/NISX20260824_0003760720",
-    "title": "국힘, 27~28일 연찬회 개최…박근혜 전 대통령 참석할 듯",
-    "summary": [
-      "[서울=뉴시스] 이승재 기자 = 국민의힘은 오는 27일부터 이틀 간 경기 고양시에서 정기국회를 앞두고 대여 투쟁 방안과 정책 구상을 위한 연찬회를 연다.",
-      "24일 뉴시스 취재를 종합하면 원내지도부 내에서는 연찬회 첫날 박근혜 전 대통령이 참석할 것이라는 관측이 나온다.",
-      "전직 대통령이 당 연찬회에 함께하는 것은 이례적이라는 평가다."
-    ],
-    "chips": [
-      "#정책",
-      "#정치"
-    ]
-  },
-  {
-    "id": "n05a365da",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "10분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260824163500055",
-    "title": "고객들 카드로 131억 결제 40대 구속…돌려막기 감당 못해 자수",
-    "summary": [
-      "(전주=연합뉴스) 김문경 기자 = 신용카드를 빌려주면 원금에 이자까지 지급하겠다며 피해자에게 접근해 131억원을 편취한 40대가 구속됐다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n5c4be3e3",
-    "category": "사회",
-    "source": "한국경제",
-    "time": "10분 전",
-    "url": "https://www.hankyung.com/article/2026082498027",
-    "title": "中 '발암물질 배추' 국내 들어왔나…정부, 수입 여부 확인 중",
-    "summary": [
-      "中 '발암물질 배추' 국내 들어왔나…정부, 수입 여부 확인 중."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nc918d267",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "11분 전",
-    "url": "https://www.newsis.com/view/NISX20260824_0003760707",
-    "title": "유가, 미국 대 이란 제재 기다리며 1.4~2.0% 하락세",
-    "summary": [
-      "[서울=뉴시스] 김재영 기자 = 국제 유가가 주간 첫 영업일인 24일(월) 투자자들이 최근의 이익 실현에 나서는 한편 25일 새벽 2시(한국시간)의 미국 새 대 이란 경제 제재를 기다리면서 상당한 하락세로 거래되고 있다.",
-      "적국에 대한 단일 제재로는 최대 규모가 될 것이라는 미국의 스콧 베선트 재무장관의 위협대로 강한 제재가 나오면 중동 원유 공급이 지금보다 더 차질이 심해질 전망이다.",
-      "호르무즈 해협을 통해 이란전쟁 전에 하루 2000만 배럴의."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nb7a34cba",
-    "category": "스포츠",
-    "source": "아시아경제",
-    "time": "13분 전",
-    "url": "https://view.asiae.co.kr/article/2026082421104692416",
-    "title": "'골프계 우영우' 이승민 \"박인비 선수가 롤 모델\"",
-    "summary": [
-      "'골프계 우영우' 이승민이 '골프여제' 박인비를 롤 모델로 삼았다.",
-      "발달장애 골퍼인 이승민은 24일 경기도 용인의 88컨트리클럽에서 열린 SK텔레콤 어댑티브 오픈(Adaptive Open) 2026 위드 SK 하이닉스에 서포터스로 참여해 후배들의 경기를 지켜봤다.",
-      "그는 \"아직 이루지 못한 꿈들이 있다\"며 \"패럴림픽에서 골프가 정식 종목으로 채택된다면 한국 국가 대표로 출전해 금메달을 따고 싶다\"고 말했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nba17fb8b",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "14분 전",
-    "url": "https://www.newsis.com/view/NISX20260824_0003760718",
-    "title": "靑 \"대통령 관저 연내 이전 확실…보안·경호 업그레이드로 시간 많이 경과\"",
-    "summary": [
-      "[서울=뉴시스]김경록 기자 = 홍익표 청와대 정무수석은 24일 \"보안상의 이유로 경호 시설이고 대통령 관저이기 때문에 일시나 대략의 시기를 확인해드릴 수는 없다.",
-      "금년 안에 이전은 확실하다\"며 \"지금 공사는 거의 마무리 단계여서 일부 경호 시설과 관련돼서 보완이 이뤄지고 있는 상황\"이라고 말했다.",
-      "홍 수석은 이날 오후 국회 예산결산특별위원회 종합정책질의에 출석해 '이재명 대통령이 청와대 이삿날을 못 정했다는 기사를 봤나'라는 박정하 국민의힘 의."
-    ],
-    "chips": [
-      "#정책",
-      "#정치"
-    ]
-  },
-  {
-    "id": "n58213700",
+    "id": "n561b05f7",
     "category": "경제",
     "source": "한국경제",
-    "time": "15분 전",
-    "url": "https://www.hankyung.com/article/2026082497947",
-    "title": "\"반토막 나야 다시 관심\"…'빅쇼트' 주인공도 버린 종목",
+    "time": "4분 전",
+    "url": "https://www.hankyung.com/article/2026082498197",
+    "title": "'야탑역 흉기난동 예고' 20대 남성…\"국가에 1484만원 배상하라\"",
     "summary": [
-      "\"반토막 나야 다시 관심\"…'빅쇼트' 주인공도 버린 종목."
+      "'야탑역 흉기난동 예고' 20대 남성…\"국가에 1484만원 배상하라\"."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n440a5918",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "20분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260824163100009",
-    "title": "시진핑, 요르단 국왕 만나 \"팔레스타인은 중동 문제의 핵심\"",
+    "id": "n790e2933",
+    "category": "경제",
+    "source": "뉴시스",
+    "time": "6분 전",
+    "url": "https://www.newsis.com/view/NISX20260824_0003760239",
+    "title": "美 국채 사들이는 베센트…\"달러 가치 하락 불붙일 수도\"",
     "summary": [
-      "(서울=연합뉴스) 권숙희 기자 = 시진핑 중국 국가주석이 24일 압둘라 2세 요르단 국왕과 만나 팔레스타인 문제를 논의했다."
+      "[서울=뉴시스]이지영 기자 = 미국 재무부가 장기 국채 금리를 잡기 위해 바이백(재매입)을 확대한 정책이 달러 가치 하락을 부추길 수 있다는 경고가 나왔다.",
+      "재정적자라는 근본 문제를 해결하지 않고 금리를 인위적으로 누를 경우 일본처럼 통화 가치 하락으로 이어질 수 있다는 분석이다.",
+      "22일(현지시간) 미국 경제전문지 포춘에 따르면 로빈 브룩스 브루킹스연구소 선임연구원은 \"바이백은 재정적자라는 근본 문제를 해결하지 못하는 '금융공학'에 불과하다\"며."
+    ],
+    "chips": [
+      "#금리",
+      "#정책"
+    ]
+  },
+  {
+    "id": "n56655d88",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "7분 전",
+    "url": "https://www.newsis.com/view/NISX20260824_0003760747",
+    "title": "경주 자동차부품 공장 집진설비 불…인명피해 없어",
+    "summary": [
+      "[경주=뉴시스]정재익 기자 = 경북 경주의 한 자동차부품 제조공장에서 불이 났다.",
+      "24일 경북소방본부에 따르면 이날 오후 4시33분께 경주시 황성동의 한 자동차부품 제조공장에서 화재가 발생했다.",
+      "소방당국은 장비 13대와 인력 33명을 투입해 신고 접수 33분 만에 불을 완전히 껐다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "na8b382ed",
+    "id": "n446f96fc",
+    "category": "경제",
+    "source": "머니투데이",
+    "time": "8분 전",
+    "url": "https://www.mt.co.kr/entertainment/2026/08/24/2026082422173211744",
+    "title": "'중증외상센터' 원작자 이낙준, 수익 30억?…답변은",
+    "summary": [
+      "넷플릭스 오리지널 시리즈 '중증외상센터' 원작 작가인 이낙준이 이 소설로 30억원을 벌었다는 소문에 대해 진실을 밝혔다.",
+      "24일 방송된 KBS 2TV '말자쇼'에는 이낙준이 게스트로 출연해 김영희, 정범균과 이야기를 나누는 모습이 담겼다.",
+      "이낙준은 웹소설 '중증외상센터'의 작가이자 전 이비인후과 전문의다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n750dafe8",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "12분 전",
+    "url": "https://www.newsis.com/view/NISX20260824_0003760744",
+    "title": "'상암팝 적자' 알파드라이브원, 청춘의 성장통 노래한 '소년비스트'",
+    "summary": [
+      "[서울=뉴시스]이재훈 기자 = 보이그룹 '알파드라이브원(ALPHA DRIVE ONE·ALD1·알디원)'이 24일 오후 6시 미니 2집 '언브레이커블 : 소년비스트(UNBREAKABLE : 少年BEAST)'를 발매했다.",
+      "지난 1월 데뷔 앨범 '유포리아(EUPHORIA)'로 밀리언셀러를 기록하고 음악방송 4관왕에 오른 지 약 7개월 만의 정규 컴백이다.",
+      "이번 앨범은 타인의 시선과 편견에 부딪힌 청춘의 성장통을 다룬다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nbf26be9d",
     "category": "사회",
     "source": "연합뉴스",
-    "time": "21분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260824163000055",
-    "title": "남원서 등산 중 벌에 쏘인 60대 부부…병원 이송",
+    "time": "14분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260824166200098",
+    "title": "그린란드 홍역 치른 EU, 북극권 공동 대응 모색",
     "summary": [
-      "(남원=연합뉴스) 김문경 기자 = 24일 오전 9시 16분께 전북 남원시 산내면의 뱀사골 인근에서 '사람이 말벌에 쏘여서 누워있다'는 내용의 신..."
+      "(브뤼셀=연합뉴스) 현윤경 특파원 = 올 초 그린란드 문제로 홍역을 치른 유럽연합(EU) 지도자들이 내달 핀란드에서 모여 지정학적 존재감이 갈수..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "ne0b4f37e",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "17분 전",
+    "url": "https://www.newsis.com/view/NISX20260824_0003760728",
+    "title": "버넘 영 총리 등 유럽 정상들, 키이우에서 우크라 독립 축하",
+    "summary": [
+      "[키이우(우크라)=AP/뉴시스] 김재영 기자 = 유럽 여러 나라 지도자들이 24일 우크라이나 수도 키이우를 방문해 이 나라의 독립 35주년을 축하하고 4년 반 계속되고 있는 러시아 침공 격퇴전에 대한 지원을 약속했다.",
+      "옛 소련이 무너진 직후인 1991년 8월 24일 당시 우크라 국회의원들은 소련 연방 공화국 지위를 내던지고 당당한 독립 국가로 선언했고 몇 달 후 전국민 투표에서 압도적으로 찬성 통과되었다.",
+      "러시아의 블라디미르 푸틴은 2022년."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n9b3253c4",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "23분 전",
+    "url": "https://www.chosun.com/entertainments/broadcast/2026/08/24/MY3DKMDDMIZDQMBUMI2DKOLGGA/",
+    "title": "42kg 신지, 볼살 얼마나 없으면 팩이 커 보일 정도 “관리는 꾸준히”",
+    "summary": [
+      "[OSEN=임혜영 기자] 가수 신지가 근황을 전했다.신지는 24일 개인 채널에 “관리는 꾸준히”, “모두들 잘 자요”라는 글과 함께 사진 한 장을 게재했다.공개된 사진 속 신지는 자기 전 침대에 누워 피부 관리 중인 모습이다.신지는 민낯에 볼을 감싸는 팩을 하고 있으며 팩이 커 보일 정도로 작은 얼굴을 자랑해 눈길을 끈다.",
+      "잡티 하나 없는 매끈한 피부도 돋."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n9d103c00",
+    "category": "IT",
+    "source": "ZDNet Korea",
+    "time": "24분 전",
+    "url": "https://zdnet.co.kr/view/?no=20260824221704",
+    "title": "스틸리언, 인도네시아 사이버보안 교수진 대상 21주 연수 성료",
+    "summary": [
+      "[지디넷코리아]사이버보안 전문기업 스틸리언(대표 박찬암)이 인도네시아 사이버보안 분야 교수진 10명을 대상으로 21주간의 집중 연수를 마쳤다.",
+      "이번 연수는 한국국제협력단(KOICA) 주관 ‘인도네시아 사이버보안 전문인력양성 역량강화사업’ 일환으로 진행했다.24일 회사에 따르면, 이번 연수에는 인도네시아 국가사이버암호원(BSSN) 산하 국가사이버암호 대학(PSSN) 소속 교수진 10명이 참여했다.",
+      "이들은 향후 인도네시아에 설립될 사이버보안 교육훈."
+    ],
+    "chips": [
+      "#교육"
+    ]
+  },
+  {
+    "id": "na830b77e",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "25분 전",
+    "url": "https://www.chosun.com/entertainments/broadcast/2026/08/24/GNTDQZRTHBSWCY3BGA3TEM3DMM/",
+    "title": "한채아, ♥차세찌 절약 정신 진절머리 난다더니 \"저가 쇼핑몰 좋아\"",
+    "summary": [
+      "영상 시청 후 작성된 리뷰 기사입니다.[OSEN=최지연 기자] 배우 한채아가 쇼핑을 즐겼다.",
+      "24일 유튜브 채널 '한채아'에는 '여기서 샀다요? 고투몰 애정템..그리고 피부관리'라는 제목의 영상이 게재됐다.",
+      "이날 한채아는 고속버스터미널 지하에 위치한 고투몰에서 쇼핑하는 모습으로 눈길을 끌었다.그는 \"촬영이 빨리 끝나서 왔다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "ncf99f1a6",
+    "category": "경제",
+    "source": "머니투데이",
+    "time": "27분 전",
+    "url": "https://www.mt.co.kr/society/2026/08/24/2026082420323928613",
+    "title": "\"카드 빌려주면 이자 줄게\" 131억 '꿀꺽'…화장품 방문판매원의 배신",
+    "summary": [
+      "화장품 방문판매원이 고객들에게 신용카드를 빌려주면 원금과 이자를 돌려주겠다고 속여 130억원대의 돈을 가로챈 혐의로 구속됐다.",
+      "24일 뉴스1에 따르면 전북 전주덕진경찰서는 사기 등 혐의로 A씨(40대)를 구속해 조사하고 있다.",
+      "전주에서 화장품 방문판매원으로 일하던 A씨는 고객들에게 \"신용카드를 빌려주면 원금과 이자까지 돌려주겠다\"고 속여 약 131억원을 편취한 혐의를 받는다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n93ed987b",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "30분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260824164451056",
+    "title": "제주서 50대 여성 피살…경찰 출신 전남편 등 조사(종합)",
+    "summary": [
+      "(서귀포=연합뉴스) 고성식 전지혜 기자 = 제주에서 50대 여성이 살해돼 경찰이 용의자를 파악하고 있다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "na603d25e",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "30분 전",
+    "url": "https://www.donga.com/news/Society/article/all/20260824/134536152/1",
+    "title": "월미도 ‘디스코 팡팡’ 타던 30대, 튕겨 나가 머리·목 부상",
+    "summary": [
+      "인천 월미도 한 놀이공원에서 30대 남성이 놀이기구를 타던 중 바깥으로 튕겨 나가는 사고가 발생했다.24일 인천소방본부에 따르면 전날 오후 9시23분경 인천시 제물포구 북성동의 한 놀이공원에서 ‘디스코 팡팡’을 타던 30대 남성이 기구 바깥으로 떨어졌다.남성은 디스코 팡팡을 타던 중 반동으로 인해 놀이기구 바깥으로 튕겨 나가 바닥에 떨어진 것으로 파악됐다.이 사고로 남성이 머리와 목 부위 통증을 호소해 119 구급대에 의해 병원으로 옮겨져 치료."
     ],
     "chips": [
       "#의료"
     ]
   },
   {
-    "id": "n70bb4132",
-    "category": "경제",
-    "source": "한국경제",
-    "time": "23분 전",
-    "url": "https://www.hankyung.com/article/202608248890g",
-    "title": "불가리 37% 뛸 때 토종은 뒷걸음…주얼리도 '중간'이 사라진다",
+    "id": "nc3f2f897",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "31분 전",
+    "url": "https://www.chosun.com/national/national_general/2026/08/24/4CV44VS76NDR5BLGSE76UJUE4Q/",
+    "title": "‘다리 찢기’로 전치 8주... 태권도장 관장 아동학대 피소",
     "summary": [
-      "불가리 37% 뛸 때 토종은 뒷걸음…주얼리도 '중간'이 사라진다."
+      "‘다리 찢기’로 전치 8주... 태권도장 관장 아동학대 피소."
     ],
     "chips": [
       "#뉴스"
+    ]
+  },
+  {
+    "id": "n3404e333",
+    "category": "IT",
+    "source": "ZDNet Korea",
+    "time": "31분 전",
+    "url": "https://zdnet.co.kr/view/?no=20260824221003",
+    "title": "AI 영상, 프롬프트를 넘다…플로바, '올인원' 에이전트 네이티브 영상 창작 구현",
+    "summary": [
+      "[지디넷코리아]플로바 에이아이, 에이전트 네이티브 영상 워크플로에 Seedance 2.5 통합…첨단 생성 기능과 100여 가지 재사용 가능 스킬, 프로젝트 메모리 및 프로덕션 자동화 결합 싱가포르 2026년 8월 24일 /PRNewswire/ -- 플로바 에이아이(Flova.ai)가 자사 올인원 AI 영상 에이전트에서 Seedance 2.5를 완벽하게 지원해 해당 모델을 엔드투엔드 프로덕션 워크플로에 통합했다.",
+      "flova ai AI 모델이 고품."
+    ],
+    "chips": [
+      "#AI"
     ]
   }
 ];
@@ -637,8 +641,8 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2460건",
-    "trend": "+275%"
+    "mentions": "2330건",
+    "trend": "+255%"
   },
   {
     "rank": 2,
@@ -649,8 +653,8 @@ window.KEYWORD_TOP = [
   {
     "rank": 3,
     "tag": "반도체",
-    "mentions": "1550건",
-    "trend": "+135%"
+    "mentions": "1420건",
+    "trend": "+115%"
   }
 ];
 // ====AUTO-GENERATED-END====
