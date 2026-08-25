@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-08-25 11:17:02
+// 마지막 업데이트: 2026-08-25 12:25:34
 window.NEWS_DB = [
   {
     "id": "n01b6d007",
     "category": "IT",
     "source": "뉴스퀘스트",
-    "time": "4시간 전",
+    "time": "5시간 전",
     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE10eDdVb3Zjdmd4YUMwV01FbGtXSElSc3Zpd0gzN1RwT21vUU9adTBmc0hROGd1OFpLbU9yZExjR0txSlo0NWdWY2dkbS1nWnZxV0lmQ2dQaEdrQUs1SzFLZE94NWd6NFNzcGY3U0h4UdIBc0FVX3lxTE4wZHVlazIzd1ljVXhjd2dXTjBKVFdrQnhRUFd2MGIwSm9tNE9nYVdDcTdpMGxJaktUZHZBSDlFcGJIUEhESjg2Nm9wVkgybEVDYW1rQ3NwYTZOSmlSSGs0eHNNNVlZMDBWTmpQOVJ4SmVacVE?oc=5",
     "title": "삼성 ‘원스톱’- SK ‘TSMC 동맹’…HBM4E 이후 승부처는 ‘발열과 양산’",
     "summary": [
@@ -16,10 +16,25 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n7d1aabd9",
+    "category": "IT",
+    "source": "이코리아",
+    "time": "6시간 전",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5rcXg0aHpNZVpILUMwTjNIYWN6M3gwaGN6RWtIaktxVWdnc3lyY1FQY1pUUnBkcTNYQ1o0dGpjSjhCUm1HZDlfNE5QOVltM2Voa09iZWlNSzNSekpEVFhoQjA3bmJjenBqcjdTeDZYOA?oc=5",
+    "title": "삼전닉스, 차세대 HBM 기술 로드맵 공개... HBM 주도권 다툼 격화",
+    "summary": [
+      "삼전닉스, 차세대 HBM 기술 로드맵 공개...",
+      "HBM 주도권 다툼 격화 이코리아."
+    ],
+    "chips": [
+      "#반도체"
+    ]
+  },
+  {
     "id": "n43b5fcba",
     "category": "IT",
     "source": "비즈니스포스트",
-    "time": "10시간 전",
+    "time": "11시간 전",
     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1wUkc0bzBYOGtYWGJBN2VzU3k5WS1adlRmRjdnR1oyQ2hrMzZCQ2VZVU5xQUVnZkRxT2g3bU1BbThNNGEtZEdwWnJwa05VNEt2aXRzU28zODlqN0c2eUtJWnpTZzdwOXVxaWEydnU4eG9MNDA?oc=5",
     "title": "엔비디아 AI 서버에 'D램과 HBM 원가 30%' 분석, 메모리 수요 줄이는 기술 발전 자극",
     "summary": [
@@ -35,7 +50,7 @@ window.NEWS_DB = [
     "id": "n20b176ea",
     "category": "IT",
     "source": "연합뉴스",
-    "time": "13시간 전",
+    "time": "14시간 전",
     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0zaDRKTTBVdVlfMWdnQ0VRaEV4bUNXWU9JbXRnVndwTDJoVUg3bzFqTTloLWFRWGNqYVpSX21QYjE1X3g5bTZqV2ozWU85MGJVMGdiN19aMzhXQ1XSAWBBVV95cUxQTm9YQ2V1blJWakowbE5Ra2hPRU1NRUN3SFAtRVkzSWpxTC1iemFEMnA4SU1yWTBzNUJ4YUJETzc2ZlNTcTl3ejgzYlVQRVBWcWp5YU5pV0doTTVQMXI0TE8?oc=5",
     "title": "뉴욕증시, 반도체·AI주 약세에 혼조 마감…엔비디아 7일째 하락(종합)",
     "summary": [
@@ -51,7 +66,7 @@ window.NEWS_DB = [
     "id": "n931badf7",
     "category": "IT",
     "source": "뉴스핌",
-    "time": "17시간 전",
+    "time": "18시간 전",
     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1YRHJiQkwzbXNOa3RqRENBY2RURHNXcF8xQTFWeTRwWGNJOEctRUEwNDBNTFFrZkRsajY5Tl80RXZLWjBBenFtSTQ0OTM5amlONVowSVBBNFdxTDBx?oc=5",
     "title": "[미국 특징주] 엔비디아의 반도체 시장에 바짝 다가서는 우군과 적군들",
     "summary": [
@@ -71,20 +86,6 @@ window.NEWS_DB = [
     "title": "삼성은 '두뇌' 키우고, SK는 초고적층 쌓는다…HBM 승부처 '설계·패키징'으로",
     "summary": [
       "삼성은 '두뇌' 키우고, SK는 초고적층 쌓는다…HBM 승부처 '설계·패키징'으로 v.daum.net."
-    ],
-    "chips": [
-      "#반도체"
-    ]
-  },
-  {
-    "id": "n82852efd",
-    "category": "IT",
-    "source": "IT조선",
-    "time": "2일 전",
-    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9EMmxiS0xwVXY2cFVsVlFXOXVIRExMcGRhRXhuUUpfbXVnZHJDTTFxX1IwYkJHV3BMSjRLNmhueUViUzFQcE9adlVrNG5GSUZQZWQyRGJaTUhHMmg2aVpISFN4a2Z5Y3dIWURaV2FpVmjSAXRBVV95cUxPMG9TemRUQmdxVUxBblAwdzEzanAzMWRGU0hmVXlUVHR0VXVsWVdjSFU0R3VSbGRzOHF4Rnd4cktXSk5VMmY5cEJZdjI5elZiOXpuNzVYSFJUNzhyYzNrcEU5aTVhVWJfVTY5WVJtUmI1WVlHcg?oc=5",
-    "title": "‘HBM 묶어 파는’ 삼성 파운드리, TSMC 틈새 뚫고 흑자 시동",
-    "summary": [
-      "‘HBM 묶어 파는’ 삼성 파운드리, TSMC 틈새 뚫고 흑자 시동 IT조선."
     ],
     "chips": [
       "#반도체"
@@ -374,255 +375,255 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n6e0a5000",
+    "id": "n905ecb84",
     "category": "사회",
-    "source": "뉴시스",
+    "source": "동아일보",
     "time": "1분 전",
-    "url": "https://www.newsis.com/view/NISX20260825_0003761726",
-    "title": "장항준, 영화계 소문 인정…\"스태프에 말 안 하고 혼자 맛집行\"",
+    "url": "https://www.donga.com/news/Inter/article/all/20260825/134543807/1",
+    "title": "덴마크 여성 총리에 “코에 난 점 빼줄게” DM 보낸 의사… 총리 “내 몸에 만족” 불쾌감",
     "summary": [
-      "[서울=뉴시스]전재경 기자 = 영화감독 장항준이 자신만의 '맛집 사수법'을 공개한다.",
-      "25일 오후 10시30분 방송되는 SBS Plus '시간추적자 설록' 7회에서는 '미식의 제국'을 주제로 음식과 식탁에 얽힌 역사를 살펴본다.",
-      "배우 조재윤, 역사교육과 교수 홍용진, 맛 칼럼니스트이자 셰프 박찬일이 스페셜 게스트로 출연한다."
+      "당신 코에 있는 작은 점을 우리가 해결해보는 건 어떨까요?” (성형외과 의사)“오, 싫어요.",
+      "저는 제 몸(외모)에 만족하고 있고, 남성 성형외과 의사가 제 몸(외모)에 대해 이래라저래라 의견을 보태는 건 딱히 필요 없거든요.”(메테 프레데릭센 덴마크 총리)메테 프레데릭센 덴마크 총리가 24일(현지시간) 인스타그램에 자신의 코에 난 점을 지적하며 “해결해보자”고 제안한 남성 성형외과 의사의 메시지를 공개하며 불쾌감을 드러냈."
     ],
     "chips": [
-      "#교육"
+      "#뉴스"
     ]
   },
   {
-    "id": "na21c5dcc",
+    "id": "nd7843808",
+    "category": "스포츠",
+    "source": "뉴시스",
+    "time": "2분 전",
+    "url": "https://www.newsis.com/view/NISX20260825_0003762404",
+    "title": "선두 KT 잡은 두산, 4위 도약 기회…'12승' 최민석, 다승 단독 선두",
+    "summary": [
+      "[서울=뉴시스]문채현 기자 = 프로야구 두산 베어스가 차세대 에이스의 호투에 힘입어 순위 상승 기회를 잡았다.",
+      "두산은 25일 수원 KT위즈파크에서 열린 2026 신한 쏠 KBO리그 원정 경기에서 KT 위즈를 3-1로 눌렀다.",
+      "리그를 대표하는 젊은 토종 선발 최민석(두산)과 소형준(KT)의 맞대결에선 최민석이 판정승을 거뒀다."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
+    "id": "n528b3271",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "2분 전",
+    "url": "https://www.newsis.com/view/NISX20260825_0003762411",
+    "title": "\"카일리, 여기!\"…제주 해녀들이 먼저 찾는 '미국인 딸', CNN도 주목",
+    "summary": [
+      "[서울=뉴시스]이기주 인턴 기자 = 제주 바다에서 물질하는 미국인 여성이 있다.",
+      "미국 뉴욕 출신 카일리 젠터(36)다.",
+      "올해 기준 한국에서 해녀 면허를 보유한 유일한 외국인인 젠터는 처음에는 낯선 외국인이라는 이유로 경계받았지만, 이제는 해녀들이 그를 ‘딸’이라고 부를 만큼 공동체의 일원으로 자리 잡았다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n59517af2",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "3분 전",
+    "url": "https://www.newsis.com/view/NISX20260825_0003762412",
+    "title": "창원상의, 산업재해 예방 우수사례·우수제안·콘텐츠 공모",
+    "summary": [
+      "[창원=뉴시스]홍정명 기자 = 경남 창원상공회의소는 창원시, 고용노동부 창원지청, 한국산업안전보건공단과 함께 '2026년 창원 산업재해 예방 우수사례·우수제안·콘텐츠 공모전' 작품을 오는 31일까지 접수한다고 25일 밝혔다.",
+      "공모전은 산업재해 예방 우수사례와 창의적인 우수제안 및 콘텐츠를 발굴·시상해 산업안전 문화 확산과 예방활동 정착에 기여하기 위해 마련됐다.",
+      "공모 분야는 ▲산업재해 예방 및 근로환경 개선을 위해 실제 적용·운영 중인 '우수사."
+    ],
+    "chips": [
+      "#고용",
+      "#의료",
+      "#환경"
+    ]
+  },
+  {
+    "id": "n8f664156",
     "category": "사회",
     "source": "동아일보",
-    "time": "4분 전",
-    "url": "https://www.donga.com/news/Politics/article/all/20260825/134541686/1",
-    "title": "“오세훈·한동훈·이준석·유승민 모여 反李-反張 세력 꾸려야” [황형준의 법정모독]",
+    "time": "5분 전",
+    "url": "https://www.donga.com/news/Society/article/all/20260825/134543781/1",
+    "title": "[속보]대구서 실종된 중국인 여대생 사망…경찰, 용의자 검거",
     "summary": [
-      "동아일보 정치 라이브 ＜법정모독＞- 일시: 화·목요일 오전 10~11시- 토크: 김근식 경남대 교수, 김철근 전 개혁신당 사무총장- 진행·연출: 김형민 김수은 - 동아일보 유튜브 : https://www.youtube.com/@donga-ilbo 국민의힘 내부에서 중진들을 중심으로 장동혁 대표의 ‘징계 정치’에 대한 반발이 일고 있는 가운데, 보수 재건을 위해선 오세훈 서울시장, 무소속 한동훈 의원, 개혁신당 이준석 대표, 유승민 전 의원 등."
+      "대구서 실종된 중국인 여대생 사망…경찰, 용의자 검거."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "ndaffb1b6",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "7분 전",
+    "url": "https://www.newsis.com/view/NISX20260825_0003762409",
+    "title": "이석연, 권노갑·문희상 등 與원로와 만찬…\"국민통합 위해 정치갈등 해소 우선 중요\"",
+    "summary": [
+      "[서울=뉴시스] 김지은 기자 = 이석연 대통령 직속 국민통합위원장이 25일 권노갑 김대중재단 이사장, 문희상 전 국회의장 등 더불어민주당 상임고문과 만나 국민 통합 방안 등을 논의했다.",
+      "이 위원장은 이날 저녁 페이스북에 올린 글에서 \"권노갑 이사장님, 문희상 전 국회의장님, 김성재 김대중평화센터 이사장님, 백학순 김대중학술원장님, 고도원 아침편지문화재단 이사장님과 자리를 함께했다\"고 밝혔다.",
+      "이어 \"우리 사회의 깊어지는 정치적 갈등과 국민 통합."
     ],
     "chips": [
       "#정치"
     ]
   },
   {
-    "id": "nc2314f97",
+    "id": "naebef104",
     "category": "사회",
-    "source": "뉴시스",
-    "time": "5분 전",
-    "url": "https://www.newsis.com/view/NISX20260825_0003762384",
-    "title": "\"자살로부터 1명 지키는 예산 226만원…교통안전 240분의 1\"",
+    "source": "연합뉴스",
+    "time": "8분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260825173300527",
+    "title": "경북 경주 오존주의보 해제",
     "summary": [
-      "[서울=뉴시스] 구무서 기자 = 자살이 사회적 문제 중 하나로 대두됐지만 관련 예산이 심각성에 비해 매우 적다는 지적이 나왔다.",
-      "25일 국회 보건복지위원회 소속 김교흥 더불어민주당 의원에 따르면 2025년 자살 사망자는 1만3900명으로 교통 사고 사망자 2549명의 5.4배, 산업재해 사망자 605명의 23배에 달한다.",
-      "반면 전담기관 결산을 보면 생명존중희망재단 312억원, 교통안전공단·도로교통공단 1조3800억원, 산업안전보건공단 1조469."
+      "(대구=연합뉴스) 경북 경주에 내려진 오존주의보가 25일 오후 8시 해제됐다고 환경부 한국환경공단이 전했다."
     ],
     "chips": [
-      "#정치",
+      "#환경"
+    ]
+  },
+  {
+    "id": "n70ba6b25",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "8분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260825175000053",
+    "title": "참관인 신고 안하고 개표소 출입한 구미시의장 송치",
+    "summary": [
+      "(구미=연합뉴스) 황수빈 기자 = 경북 구미경찰서는 참관인 신고 없이 개표소에 출입해 수 분간 머무른 혐의(공직선거법 위반)로 강승수 구미시의장..."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n559c400f",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "11분 전",
+    "url": "https://www.chosun.com/sports/baseball/2026/08/25/MEZDCM3GME4DQMDFGU2WKMBXGQ/",
+    "title": "FA로이드 대폭발인가...믿을 수 없다, 데뷔 18년 만에 괴다 홈런 기록을 갈아치웠다 [수원 현장]",
+    "summary": [
+      "[수원=스포츠조선 김용 기자] FA로이드 대폭발인가.",
+      "두산 베어스 정수빈은 리그를 대표하는 교타자 중 한 명이다.",
+      "2009년 두산 입단 때부터 컨택트 능력 좋고, 중견수 수비 뛰어나고, 잘 달리는 선수로 주목을 받았다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nd9734ea6",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "15분 전",
+    "url": "https://www.chosun.com/entertainments/broadcast/2026/08/25/MI3DOMZYMY2WMNBSGMYDOOLDMY/",
+    "title": "\"요식업 도전은 마지막\" 정준하, '횟집 억대 월매출'로 또 사업 시작",
+    "summary": [
+      "영상 시청 후 작성된 리뷰 기사입니다.[OSEN=최지연 기자] 방송인 정준하가 더이상 요식업 브랜드를 런칭하지 않겠다고 밝혔다.",
+      "25일 유튜브 채널 '정준하하하'에는 '(속보) 연예인 정준하 이젠 정말 마지막 오픈이라며 야심차게 개업한 요거트 브랜드 헬레니카'라는 제목의 영상이 게재됐다.이날 영상 초반에는 지난해 미국 시애틀에서 요거트 아이스크림 전문점에."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n0e1570fe",
+    "category": "경제",
+    "source": "한국경제",
+    "time": "18분 전",
+    "url": "https://www.hankyung.com/article/2026082524507",
+    "title": "\"제로 맥주라 괜찮다?\"…2030 통풍 부르는 뜻밖의 습관 [건강!톡]",
+    "summary": [
+      "\"제로 맥주라 괜찮다?\"…2030 통풍 부르는 뜻밖의 습관 [건강!톡]."
+    ],
+    "chips": [
       "#의료"
     ]
   },
   {
-    "id": "n1f1f366a",
-    "category": "IT",
-    "source": "조선일보",
-    "time": "5분 전",
-    "url": "https://www.chosun.com/national/national_general/2026/08/25/SEYBLCWGYZHNJB6EXXL4DV3W3I/",
-    "title": "연세대 “AI로 입법부·행정부의 투명성 높일 것”",
+    "id": "n5cd582cc",
+    "category": "경제",
+    "source": "한국경제",
+    "time": "19분 전",
+    "url": "https://www.hankyung.com/article/202608252045g",
+    "title": "\"제니도 갔던 곳\"…찐 부자들이 명품백 대신 드는 '에코백' 정체 [트렌드+]",
     "summary": [
-      "연세대 “AI로 입법부·행정부의 투명성 높일 것”."
+      "\"제니도 갔던 곳\"…찐 부자들이 명품백 대신 드는 '에코백' 정체 [트렌드+]."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n0a361503",
+    "category": "경제",
+    "source": "한국경제",
+    "time": "20분 전",
+    "url": "https://www.hankyung.com/article/202608252230H",
+    "title": "\"범죄 혐의 없다? 경찰 어떻게 믿나\"…장미란 씨 사인 의구심 확산",
+    "summary": [
+      "\"범죄 혐의 없다? 경찰 어떻게 믿나\"…장미란 씨 사인 의구심 확산."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nfc98da60",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "23분 전",
+    "url": "https://www.donga.com/news/Inter/article/all/20260825/134543498/1",
+    "title": "프랑스, 지중해 인근 남부서 토네이도로 39명 부상…가옥 300채 파손",
+    "summary": [
+      "프랑스 남서부 오드현에서 24일 밤 회오리 바람 토네이도가 한 읍을 휩쓸어 가옥들이 부서지고 39명이 부상했다고 25일 현지 당국이 말했다.포마 읍 토네이도로 300채 가량의 가옥이 파손되었다.",
+      "부상자 중 2명이 심각한 상태다.토네이도는 순간 시속 100㎞가 넘었다.",
+      "모든 마을 주민들이 집을 버리고 철수했으며 당국은 가옥이 돌아와 살기에 안전한지를 점검하고 있다.한 주민은 가족 4명이 탄 자동차가 토네이도 선풍에 크게 흔들려 간신히 시동을 걸고."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "ndf0c144f",
+    "category": "IT",
+    "source": "동아일보",
+    "time": "23분 전",
+    "url": "https://www.donga.com/news/Economy/article/all/20260825/134543481/1",
+    "title": "韓 조종사 제안 ‘대만 지름길’, 현지 당국 승인…비행시간 4분↓",
+    "summary": [
+      "한국민간항공조종사협회(ALPA-K)가 제안한 대만 공역 내 ‘지름길’을 현지 항공당국이 받아들였다.",
+      "이에 따라 오는 10월부터 대만을 경유해 한국과 동남아시아를 오가는 하늘길이 최대 4분 빨라질 것으로 기대된다.한국민간항공조종사협회는 최근 대만 항공당국이 대만 공역 내 신규 항로를 항공정보간행물(AIP)에 등재해 공식 항로로 승인했다고 25일 밝혔다.협회가 지난 2월 한국항공관제사협회, 국제항공운송협회(IATA)와 개최한 ‘동북아 항공교통관리."
     ],
     "chips": [
       "#AI"
     ]
   },
   {
-    "id": "n2653143b",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "6분 전",
-    "url": "https://www.donga.com/news/Society/article/all/20260825/134540393/1",
-    "title": "대면 확인도, 재처리도 경찰 말 한마디에 ‘끝’ … 부실 대응-허위 종결 드러나",
-    "summary": [
-      "제주에서 실종됐던 장미란 씨(37)로 추정되는 시신과 60대 남성의 주검이 잇따라 발견된 사건과 관련해 최초 신고 접수와 재신고 처리는 물론 이후 의혹을 규명하는 과정에서조차 경찰의 부실이 겹겹이 드러났다.",
-      "대면 확인은커녕 담당 경찰관 한 명의 말 한마디로 사건이 끝났지만 지휘라인은 석 달 넘게 아무것도 몰랐다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n4ac20b47",
+    "id": "n49b8c4d1",
     "category": "IT",
-    "source": "동아일보",
-    "time": "6분 전",
-    "url": "https://www.donga.com/news/Economy/article/all/20260825/134543153/2",
-    "title": "‘자율주행모빌리티산업전’ 코엑스서 개막…“AI로 진화하는 자율주행의 미래”",
+    "source": "한경IT",
+    "time": "25분 전",
+    "url": "https://www.hankyung.com/article/2026082522061",
+    "title": "경찰이 옛 연인 감시에 악용…美 전역 깔린 AI 카메라 '빅브러더' 논란",
     "summary": [
-      "자율주행 기술이 연구개발 단계를 넘어 상용화 시험대에 올랐다.",
-      "로보셔틀과 자율주행 트럭, 대규모 주행 데이터까지 실제 도로 검증을 마친 기술들이 한자리에 모였다.",
-      "코엑스와 한국자율주행산업협회, 한국무역협회, 한국중견기업연합회가 공동 주최하는 ‘2026 자율주행모빌리티산업전(AME 2026)’이 25일 서울 강남구 삼성동 코엑스 B홀에서 사흘간의 공식 일정에 돌입했다.올해 3회째를 맞은 AME는 같은 기간 코엑스에서 열리는 ‘EV 트렌드 코리아’."
+      "경찰이 옛 연인 감시에 악용…美 전역 깔린 AI 카메라 '빅브러더' 논란."
     ],
     "chips": [
-      "#AI",
-      "#수출"
+      "#AI"
     ]
   },
   {
-    "id": "n88289b7f",
-    "category": "스포츠",
-    "source": "뉴시스",
-    "time": "8분 전",
-    "url": "https://www.newsis.com/view/NISX20260825_0003762376",
-    "title": "'배구 전설' 김연경, 亞배구연맹 선수위원장 임명…홍보대사 겸임",
-    "summary": [
-      "[서울=뉴시스]문채현 기자 = 한국 배구의 전설 김연경이 아시아배구연맹(AVC) 선수위원장 겸 홍보대사로 활약할 예정이다.",
-      "AVC는 지난 24일 \"아시아 배구의 아이콘이자 최근 AVC 이사회 구성원으로 선임된 김연경이 AVC 선수위원회 위원장과 홍보대사를 맡는다\"고 발표했다.",
-      "AVC는 김연경에 대해 \"아시아에서 가장 뛰어난 경력을 쌓은 영향력 있는 선수 중 한 명\"이라고 소개하며, \"그는 선수들의 목소리를 강화하고 아시아 전역의 배구 발전을 도."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nc01f5a3f",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "9분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260825172900073",
-    "title": "\"日정부, 호르무즈 해협 우회 원유 수송로 건설 지원\"",
-    "summary": [
-      "(도쿄=연합뉴스) 조성미 특파원 = 일본 정부가 석유 수송의 안정성을 확보하기 위해 호르무즈 해협을 우회하는 원유 조달 파이프라인의 건설을 지원..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n741528f6",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "10분 전",
-    "url": "https://www.newsis.com/view/NISX20260825_0003762368",
-    "title": "유럽인권재판소 \"튀르키예 법원의 정치적 반대자·인권운동가 등 구속, 문제\"",
-    "summary": [
-      "[이스탄불(튀르키예)=AP/뉴시스] 유세진 기자 = 유럽인권재판소(ECHR)는 25일 튀르키예의 저명한 자선가 오스만 카발라의 수감과 관련해 튀르키예 법원을 비판하며, 이 사건이 정치적 반대자, 인권운동가, 언론인들의 구금과 기소로 특징지어지는 '체계적인문제'를 드러냈다고 지적했다.",
-      "평화와 대화를 촉진하는 비영리 단체의 창립자인 68세 카발라는 2013년 시위와 2016년 쿠데타 시도와 관련된 혐의로 2022년 가석방 없는 종신형을 선고받았다."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n8e53847b",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "10분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260825173100505",
-    "title": "[부고] 이주영(내일신문 국제팀 기자)씨 모친상",
-    "summary": [
-      "[부고] 이주영(내일신문 국제팀 기자)씨 모친상."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n7c04bdde",
+    "id": "n97d3abde",
     "category": "사회",
     "source": "조선일보",
-    "time": "16분 전",
-    "url": "https://www.chosun.com/economy/economy_general/2026/08/25/HE2DQYRSMMZWKMTCGVQTSMBTMQ/",
-    "title": "與 지도부 만난 李 “다른 점만 찾다보면 원수의 길”",
+    "time": "29분 전",
+    "url": "https://www.chosun.com/national/court_law/2026/08/25/CIPNEEC2WNAHJP4DUDZGTAUBJA/",
+    "title": "與김민석 ‘조희대씨’ 호칭 논란... 대법 “사법부 수장 존중해야”",
     "summary": [
-      "이재명 대통령이 25일 더불어민주당 신임 지도부를 청와대로 초청해 만찬을 함께 했다.",
-      "지난 19일 김민석 대표와 당권을 겨뤘던 정청래·송영길 의원과 저녁 식사를 한 지 엿새 만이다.",
-      "민주당이 8·17 전당대회 과정에서 ‘친명 vs 친청’ 구도로 분열하고, 경선 이후에도 지지자 간 갈등이 봉합되지 않는 국면을 수습하기 위한 행보다."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n51f63645",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "16분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260825153700004",
-    "title": "[날씨] 내일 수도권·강원 소나기…낮 최고 36도 무더위",
-    "summary": [
-      "(서울=연합뉴스) 전재훈 기자 = 수요일인 26일은 수도권과 강원 내륙·산지·북부 동해안을 중심으로 비 소식이 있겠다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n82dc8140",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "17분 전",
-    "url": "https://www.donga.com/news/Society/article/all/20260825/134543201/1",
-    "title": "11개월 끈 김병기 수사…수사심의위 “한달내 결론내라” 지시",
-    "summary": [
-      "더불어민주당을 탈당해 무소속이 된 김병기 의원을 둘러싼 13개 의혹에 대한 경찰 수사가 11개월째 이어지는 상황에서 서울경찰청 경찰수사심의위원회가 수사팀에 한 달 안에 사건을 처리하라고 지시했다.",
-      "김 의원에 대한 마지막 조사가 이뤄진 뒤에도 4개월 넘게 신병 처리와 송치 여부가 결정되지 않자 외부 위원들로 구성된 수사심의위가 조속한 결론을 주문한 것이다.서울경찰청 수사심의위는 25일 오후 3시부터 정기회의를 열고 김 의원 관련 사건 2건의 수사."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n581533b6",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "18분 전",
-    "url": "https://www.chosun.com/entertainments/broadcast/2026/08/25/MVSTOYTBGNRTSOBWGAYWCZJZGI/",
-    "title": "정선희, 치아 교정 고백..\"의사가 도전하고 싶은 치열 만났다고\" ('롤링썬더')",
-    "summary": [
-      "영상 시청 후 작성된 리뷰 기사입니다.[OSEN=최지연 기자] 방송인 정선희가 치아 교정을 했다고 밝혔다.",
-      "25일 유튜브 채널 '롤링썬더'에는 '“잘 버텨줘서 고마워” 웃음 뒤에 숨겨둔 언니들의 진짜 이야기 (동물농장 썰, 명수 짝사랑 정리, 은인 이경실)ㅣ 신여성 EP.31'라는 제목의 영상이 게재됐다.",
-      "이날 정선희는 이선민 옆에 자신이 앉는 것을 걱정했."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n25bf877e",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "23분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260825172800065",
-    "title": "[부고] 남운하(전 인천항만공사 재난안전실장)씨 별세",
-    "summary": [
-      "[부고] 남운하(전 인천항만공사 재난안전실장)씨 별세."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nb2d5dbcc",
-    "category": "부동산",
-    "source": "연합뉴스(경제)",
-    "time": "31분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260825084351002",
-    "title": "200억대 주택 사서 사주일가 거주…소노그룹 세무조사(종합)",
-    "summary": [
-      "(세종=연합뉴스) 이대희 기자 = 국세청이 '황제사택'과 관련해 총 1조9천억원대 탈루 혐의를 포착하고 세무조사에 나섰다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n4d6bd29e",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "33분 전",
-    "url": "https://www.chosun.com/politics/politics_general/2026/08/25/KEXWODIZIJFINETTM2EVNRLW3E/",
-    "title": "李, 與지도부 만나 “쌍둥이도 다르다, 다른 점만 찾으면 원수의 길로”",
-    "summary": [
-      "李, 與지도부 만나 “쌍둥이도 다르다, 다른 점만 찾으면 원수의 길로”."
+      "與김민석 ‘조희대씨’ 호칭 논란... 대법 “사법부 수장 존중해야”."
     ],
     "chips": [
       "#뉴스"
@@ -635,8 +636,8 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2330건",
-    "trend": "+255%"
+    "mentions": "2200건",
+    "trend": "+235%"
   },
   {
     "rank": 2,
