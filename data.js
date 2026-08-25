@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-08-25 17:22:44
+// 마지막 업데이트: 2026-08-25 18:22:57
 window.NEWS_DB = [
   {
     "id": "n01b6d007",
     "category": "IT",
     "source": "뉴스퀘스트",
-    "time": "10시간 전",
+    "time": "11시간 전",
     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE10eDdVb3Zjdmd4YUMwV01FbGtXSElSc3Zpd0gzN1RwT21vUU9adTBmc0hROGd1OFpLbU9yZExjR0txSlo0NWdWY2dkbS1nWnZxV0lmQ2dQaEdrQUs1SzFLZE94NWd6NFNzcGY3U0h4UdIBc0FVX3lxTE4wZHVlazIzd1ljVXhjd2dXTjBKVFdrQnhRUFd2MGIwSm9tNE9nYVdDcTdpMGxJaktUZHZBSDlFcGJIUEhESjg2Nm9wVkgybEVDYW1rQ3NwYTZOSmlSSGs0eHNNNVlZMDBWTmpQOVJ4SmVacVE?oc=5",
     "title": "삼성 ‘원스톱’- SK ‘TSMC 동맹’…HBM4E 이후 승부처는 ‘발열과 양산’",
     "summary": [
@@ -19,7 +19,7 @@ window.NEWS_DB = [
     "id": "n7d1aabd9",
     "category": "IT",
     "source": "이코리아",
-    "time": "11시간 전",
+    "time": "12시간 전",
     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5rcXg0aHpNZVpILUMwTjNIYWN6M3gwaGN6RWtIaktxVWdnc3lyY1FQY1pUUnBkcTNYQ1o0dGpjSjhCUm1HZDlfNE5QOVltM2Voa09iZWlNSzNSekpEVFhoQjA3bmJjenBqcjdTeDZYOA?oc=5",
     "title": "삼전닉스, 차세대 HBM 기술 로드맵 공개... HBM 주도권 다툼 격화",
     "summary": [
@@ -34,7 +34,7 @@ window.NEWS_DB = [
     "id": "nce8f38ff",
     "category": "IT",
     "source": "mstoday.co.kr",
-    "time": "15시간 전",
+    "time": "16시간 전",
     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9IRVR5bEczdml2SlZLekVYNGJGY1I0Umd2Zk9iSjNuOUJGSHc0cUhFTnF5bExUa1Jmd1U2MV9aWVU3YmQ3bjhxQTZ1U3dtYU1xekhocGdVNlAwV1Y1VlVLZEZDeWMwclNlNE5fMA?oc=5",
     "title": "엔비디아 추론칩 양산 본격화…삼성 파운드리 수혜 기대",
     "summary": [
@@ -49,7 +49,7 @@ window.NEWS_DB = [
     "id": "n43b5fcba",
     "category": "IT",
     "source": "비즈니스포스트",
-    "time": "16시간 전",
+    "time": "17시간 전",
     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1wUkc0bzBYOGtYWGJBN2VzU3k5WS1adlRmRjdnR1oyQ2hrMzZCQ2VZVU5xQUVnZkRxT2g3bU1BbThNNGEtZEdwWnJwa05VNEt2aXRzU28zODlqN0c2eUtJWnpTZzdwOXVxaWEydnU4eG9MNDA?oc=5",
     "title": "엔비디아 AI 서버에 'D램과 HBM 원가 30%' 분석, 메모리 수요 줄이는 기술 발전 자극",
     "summary": [
@@ -65,7 +65,7 @@ window.NEWS_DB = [
     "id": "n20b176ea",
     "category": "IT",
     "source": "연합뉴스",
-    "time": "19시간 전",
+    "time": "20시간 전",
     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0zaDRKTTBVdVlfMWdnQ0VRaEV4bUNXWU9JbXRnVndwTDJoVUg3bzFqTTloLWFRWGNqYVpSX21QYjE1X3g5bTZqV2ozWU85MGJVMGdiN19aMzhXQ1XSAWBBVV95cUxQTm9YQ2V1blJWakowbE5Ra2hPRU1NRUN3SFAtRVkzSWpxTC1iemFEMnA4SU1yWTBzNUJ4YUJETzc2ZlNTcTl3ejgzYlVQRVBWcWp5YU5pV0doTTVQMXI0TE8?oc=5",
     "title": "뉴욕증시, 반도체·AI주 약세에 혼조 마감…엔비디아 7일째 하락(종합)",
     "summary": [
@@ -376,31 +376,159 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "neb60a1e8",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "12분 전",
-    "url": "https://www.chosun.com/sports/world-baseball/2026/08/26/HA3GEMLCMQ4DKNRZMEYTEYTCMQ/",
-    "title": "'여러분, 드디어 제가 살아났어요! 98경기만에!' 폭망했던 60홈런 포수 기사회생",
+    "id": "n1ee42102",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "13분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260826004200108",
+    "title": "젤렌스키가 쫓아낸 우크라 전 국방 \"러에 패전하는 중\"",
     "summary": [
-      "[스포츠조선 나유리 기자]최악의 슬럼프에 빠져있던 시애틀 매리너스 포수 칼 랄리가 3홈런 경기로 기사회생했다.",
-      "랄리는 25일(이하 한국시각) 미국 시애틀 T-모바일 파크에서 열린 2026 메이저리그(MLB) 필라델피아 필리스와의 홈 경기에서 6번타자-포수로 선발 출전해 3타수 3안타 3홈런 4타점 1볼넷 3득점으로 대활약을 펼쳤다."
+      "(이스탄불=연합뉴스) 김동호 특파원 = 볼로디미르 젤렌스키 우크라이나 대통령에게서 경질당한 뒤 대권 잠룡으로 떠오른 미하일로 페도로우 전 국방장..."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n9fe6809f",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "20분 전",
+    "url": "https://www.chosun.com/culture-life/book/2026/08/26/XMLE6ELORZB73DEG5AXUSTBLA4/",
+    "title": "[73화] “조조가 몸 묻힐 땅도 없게 만들 계책이 있습니다”",
+    "summary": [
+      "[73화] “조조가 몸 묻힐 땅도 없게 만들 계책이 있습니다”."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "nb889a9e0",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "13분 전",
-    "url": "https://www.chosun.com/sports/baseball/2026/08/26/MU3DAYJUGUYTKOJVGE2DGMBRMM/",
-    "title": "열흘 재정비 후 'KKKK→멀티히트', 극적 무승부만큼 반가운 '가을영웅' 부활 신호탄",
+    "id": "n304bcdd7",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "22분 전",
+    "url": "https://www.newsis.com/view/NISX20260825_0003761780",
+    "title": "\"컴퓨터 안 켰잖아\"…회사 화장실서 숨진 中남성, '업무상 재해' 불인정",
     "summary": [
-      "[스포츠조선 정현석 기자]1-3으로 뒤지던 8회말 구자욱의 극적인 동점 싹쓸이 2루타로 3대3 무승부를 만든 삼성 라이온즈.",
-      "치열한 선두 싸움을 펼치고 있는 삼성에 반가운 수확이 또 하나 있었다.",
-      "바로 '가을사나이' 김영웅의 부활 조짐이다."
+      "[서울=뉴시스]김드보라 인턴 기자 = 중국에서 출근 직후 회사 화장실에서 숨진 30대 프로그래머가 컴퓨터를 켜고 일을 시작하지 않았다는 이유로 업무상 재해를 인정받지 못해 논란이 일고 있다.",
+      "지난 21일 홍콩 사우스차이나모닝포스트(SCMP)에 따르면 중국 선전에서 프로그래머로 일하던 30대 남성 A씨는 지난 4월 회사 화장실에서 쓰러진 채 발견됐다.",
+      "A씨는 사고 당일 출근 기록을 남긴 뒤 11층 자신의 사무실이 아닌 2층 화장실로 향했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "ne8e938ea",
+    "category": "IT",
+    "source": "조선일보",
+    "time": "22분 전",
+    "url": "https://www.chosun.com/economy/tech_it/2026/08/26/TFJA3GDXE5DY5E5JK7ORHHP5F4/",
+    "title": "마트에 있는 고기나 과일이 신선한지 궁금하면… 사진 찍어서 AI에 물어보라",
+    "summary": [
+      "마트에 있는 고기나 과일이 신선한지 궁금하면… 사진 찍어서 AI에 물어보라."
+    ],
+    "chips": [
+      "#AI"
+    ]
+  },
+  {
+    "id": "nce0b50f7",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "22분 전",
+    "url": "https://www.chosun.com/economy/real_estate/2026/08/26/YUZSQYMKTZD6RNGSLMLL4VUQMI/",
+    "title": "8·3 세제 개편 후… 강남은 ‘급매’, 중저가는 ’20억 신고가'",
+    "summary": [
+      "8·3 세제 개편 후… 강남은 ‘급매’, 중저가는 ’20억 신고가'."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n89534903",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "22분 전",
+    "url": "https://www.chosun.com/sports/sports_general/2026/08/26/VL4MYS32URAYZATSDPRZNNYZH4/",
+    "title": "움직임이 한쪽만 불편할 때… 앉아서 가볍게 푸는 운동",
+    "summary": [
+      "움직임이 한쪽만 불편할 때… 앉아서 가볍게 푸는 운동."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "ne7dbf444",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "27분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260826004000071",
+    "title": "美전문가 \"북미회담 가능성 희박…한미일에 최대 도전은 트럼프\"",
+    "summary": [
+      "(워싱턴=연합뉴스) 홍정규 특파원 = 도널드 트럼프 미국 대통령과 김정은 북한 국무위원장의 회담이 성사될 가능성이 작으며, 성사되더라도 한국과 ..."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n70895506",
+    "category": "사회",
+    "source": "아시아경제",
+    "time": "29분 전",
+    "url": "https://view.asiae.co.kr/article/2026082602525241669",
+    "title": "트럼프, 망명 신청자 최대 20만명 비자 취소",
+    "summary": [
+      "도널드 트럼프 미국 행정부가 미국에 단기 체류 비자로 입국한 뒤 망명을 신청한 외국인을 대상으로 최대 20만건의 비자를 취소하는 대규모 조치에 나선다.",
+      "실제 집행될 경우 미국 역사상 최대 규모의 일괄 비자 취소가 될 전망이다.",
+      "25일(현지시간) AP통신과 백악관 등에 따르면 미 국무부는 국토안보부(DHS)와 협력해 상용·관광 목적의 B1·B2 비자로 미국에 입국한 뒤 망명을 신청한 외국인의 비자를 취소하는 작업을 진행하고."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n3208ae91",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "48분 전",
+    "url": "https://www.newsis.com/view/NISX20260826_0003762466",
+    "title": "이란 외무부 \"美 대이란 경제전쟁, 주권·자결권 말살 행위\"",
+    "summary": [
+      "[서울=뉴시스] 이재우 기자 = 이란 외무부 대변인은 25일(현지시간) 미국의 대(對)이란 경제 전쟁은 국제법과 유엔 헌장의 가장 근본적 원칙인 모든 국가의 주권적 평등과 자결권에 대한 존중을 말살하는 행위라고 비판했다.",
+      "이란 국영 IRNA통신에 따르면 이스마일 바가이 이란 외무부 대변인은 이날 소셜미디어 엑스(X·옛 트위터)에 \"미국은 이란의 '경제적 운명의 날'이 왔다고 선언했다\"며 \"'그림자처럼 복종하는 존재'로 보이기를 선호하는 이들은."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n462aa3b2",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "48분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260826002900071",
+    "title": "이란, 트럼프 막내아들 암살위협 방송…美경호국 \"알고 있다\"",
+    "summary": [
+      "(워싱턴=연합뉴스) 박성민 특파원 = 이란 국영방송에 도널드 트럼프 미국 대통령의 막내아들을 암살하겠다고 위협하는 영상이 올라와 미 경호당국이 ..."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n39983574",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "1시간 전",
+    "url": "https://www.yna.co.kr/view/AKR20260826003100082",
+    "title": "여성 800원, 남성은 공짜…오스트리아 화장실 차별금지 소송",
+    "summary": [
+      "(베를린=연합뉴스) 김계연 특파원 = 공중 화장실 상당수가 유료인 유럽에서 일부 남성은 공짜로 화장실을 이용하는 게 차별이라며 한 여성이 소송을..."
     ],
     "chips": [
       "#뉴스"
@@ -410,7 +538,7 @@ window.NEWS_DB = [
     "id": "na2e267ac",
     "category": "사회",
     "source": "뉴시스",
-    "time": "22분 전",
+    "time": "1시간 전",
     "url": "https://www.newsis.com/view/NISX20260825_0003761762",
     "title": "\"하루 담배 한 갑 피우면서\"…3500원 커피 마신 아내 타박한 남편",
     "summary": [
@@ -423,26 +551,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n470a2036",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "23분 전",
-    "url": "https://www.chosun.com/sports/baseball/2026/08/26/G43GMZTDGNSTONBWGNRGIYRYGI/",
-    "title": "10승 핵잠수함의 귀환 → '9연승 막차' 기적 재현할까",
-    "summary": [
-      "[잠실=스포츠조선 한동훈 기자] 핵잠수함 10승 투수가 돌아왔다.",
-      "NC 다이노스가 지난해 가을야구 막차 탑승의 기적 재현을 꿈꾼다.",
-      "24일 잠실 원정길 버스에 오르는 NC 선수단에 반가운 얼굴이 합류했다."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
     "id": "n9294850d",
     "category": "사회",
     "source": "뉴시스",
-    "time": "25분 전",
+    "time": "1시간 전",
     "url": "https://www.newsis.com/view/NISX20260826_0003762465",
     "title": "\"美 CIA 국장, 비밀리에 러시아 방문\" CBS",
     "summary": [
@@ -455,99 +567,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n540f7bfd",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "32분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260826002500099",
-    "title": "'대통령과 갈등설' 탄자니아 부통령 사임",
-    "summary": [
-      "(요하네스버그=연합뉴스) 나확진 특파원= 아프리카 탄자니아의 엠마누엘 은침비 부통령이 25일(현지시간) 사임한다고 발표했다고 AFP 통신 등이 ..."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "ndc4c3ca3",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "37분 전",
-    "url": "https://www.newsis.com/view/NISX20260825_0003761516",
-    "title": "\"한강뷰 장소 대여 65만원\"…불꽃축제 앞두고 명당 거래 '들썩'",
-    "summary": [
-      "[서울=뉴시스]박세은 인턴 기자 = 오는 9월5일 서울 여의도 한강공원에서 열리는 서울세계불꽃축제를 앞두고 온라인에서 ‘불꽃 명당’ 거래가 활발해지고 있다.",
-      "한강 조망이 가능한 공간부터 숙박시설, 주차권까지 다양한 거래가 이어지고 있다.",
-      "25일 당근마켓 등 중고거래 플랫폼 등에는 한강 조망 장소를 대여하거나 주차권이나 돗자리, 숙박권 등을 판매한다는 게시글이 잇따라 올라오고 있다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "ndc7bb855",
-    "category": "경제",
-    "source": "연합뉴스",
-    "time": "40분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260826002200072",
-    "title": "'관세' 넘어 '주권'으로 번진 쟁점…미·캐나다 협상 결렬 내막",
-    "summary": [
-      "(뉴욕=연합뉴스) 김연숙 특파원 = 최근 미국과 캐나다의 무역 협상이 전격 결렬된 데에는 자동차와 철강 관세뿐만 아니라 캐나다의 대외 무역 정책..."
-    ],
-    "chips": [
-      "#정책",
-      "#수출"
-    ]
-  },
-  {
-    "id": "na37ef76b",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "48분 전",
-    "url": "https://www.newsis.com/view/NISX20260826_0003762460",
-    "title": "트럼프, '한미 연합훈련 축소' SNS 9일만에 시제 바꿔 재게재",
-    "summary": [
-      "[서울=뉴시스] 이재우 기자 = 도널드 트럼프 미국 대통령이 25일(현지시간) 한미연합훈련을 대폭 축소하라고 지시했다는 게시물을 9일만에 시제를 과거형으로 바꿔 다시 게재했다.",
-      "트럼프 대통령은 이날 오전 소셜미디어 트루스소셜에 \"김정은 북한 국무위원장과 매우 좋은 관계를 고려할 때 나는 미국이 오래전 한국과 연합군사훈련에 참여하기로 했다는 사실이 달갑지 않았다\"고 적었다.",
-      "이어 \"이 훈련은 비용이 많이 들뿐 아니라 그 비용의 상당 부분을 미국이."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n50945180",
-    "category": "부동산",
-    "source": "연합뉴스",
-    "time": "53분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260826002600079",
-    "title": "이란 \"美 대이란 경제전쟁은 전세계 주권에 대한 공격\"",
-    "summary": [
-      "(카이로=연합뉴스) 김상훈 특파원 = 이란 외무부는 25일(현지시간) 미국의 대(對)이란 경제 전쟁이 이란을 넘어 전 세계 모든 국가의 주권에 ..."
-    ],
-    "chips": [
-      "#전세"
-    ]
-  },
-  {
-    "id": "nb668f032",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "56분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260826002300087",
-    "title": "브라질, 틱톡에 400억원대 과징금…'디지털 아동보호' 규제 강화",
-    "summary": [
-      "(멕시코시티=연합뉴스) 송광호 특파원 = 브라질 정부가 아동·청소년의 개인 정보를 무단 수집하고 처리한 글로벌 숏폼 플랫폼 '틱톡'의 모회사 바..."
-    ],
-    "chips": [
-      "#정책"
-    ]
-  },
-  {
     "id": "n7ddea8f3",
     "category": "사회",
     "source": "동아일보",
-    "time": "59분 전",
+    "time": "1시간 전",
     "url": "https://www.donga.com/news/Culture/article/all/20260826/134544376/1",
     "title": "도심 루프탑서 감각을 깨우다…코트야드 메리어트 서울명동 ‘웰니스 클래스’ 성료",
     "summary": [
@@ -562,7 +585,7 @@ window.NEWS_DB = [
     "id": "n90b92539",
     "category": "부동산",
     "source": "동아일보",
-    "time": "1시간 전",
+    "time": "2시간 전",
     "url": "https://www.donga.com/news/Society/article/all/20260826/134544368/1",
     "title": "“결혼 테스트였다”…1년 넘게 자가를 월세라 속인 예비 남편",
     "summary": [
@@ -577,7 +600,7 @@ window.NEWS_DB = [
     "id": "n930e440b",
     "category": "스포츠",
     "source": "아시아경제",
-    "time": "1시간 전",
+    "time": "2시간 전",
     "url": "https://view.asiae.co.kr/article/2026082521444703974",
     "title": "김시우의 새 이정표 출격…‘한국 선수 첫 페덱스컵 우승 도전’",
     "summary": [
@@ -593,7 +616,7 @@ window.NEWS_DB = [
     "id": "n557b77d8",
     "category": "경제",
     "source": "동아일보",
-    "time": "1시간 전",
+    "time": "2시간 전",
     "url": "https://www.donga.com/news/Inter/article/all/20260826/134544318/1",
     "title": "캐나다 “미국산 700개 품목에 15~50% 보복관세…9월8일 발효”",
     "summary": [
@@ -604,34 +627,6 @@ window.NEWS_DB = [
       "#수출",
       "#정치"
     ]
-  },
-  {
-    "id": "n87064d17",
-    "category": "경제",
-    "source": "한국경제",
-    "time": "1시간 전",
-    "url": "https://www.hankyung.com/article/2026082625486",
-    "title": "\"시티 프로토콜, 1100만불 투자 유치\"",
-    "summary": [
-      "\"시티 프로토콜, 1100만불 투자 유치\"."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n48dbeff3",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "1시간 전",
-    "url": "https://www.donga.com/news/Entertainment/article/all/20260826/134544303/1",
-    "title": "지연수, 출산 후 30㎏ 감량…“미역국 미역도 물에 씻어 먹었다”",
-    "summary": [
-      "레이싱모델 출신 방송인 지연수가 임신 기간 체중이 45㎏에서 78㎏까지 늘었다가 출산 50일 만에 30㎏ 가까이 감량했다고 밝혔다.지난 24일 구독자 약 4만 7000명을 보유한 유튜브 채널 ‘지연수의 연수롭다’에 지연수의 출산 후 체중 감량 방법이 담긴 영상이 올라왔다.지연수는 “45㎏에 임신했는데 78㎏에 아이를 낳았다”며 “아이를 낳았는데도 4㎏밖에 안 빠졌다”고 당시를 떠올렸다.제작진이 “그걸 어떻게 뺐느냐”고 묻자, 지연수는 “살을 뺀."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
   }
 ];
 
@@ -640,18 +635,18 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2070건",
-    "trend": "+215%"
+    "mentions": "2330건",
+    "trend": "+255%"
   },
   {
     "rank": 2,
-    "tag": "반도체",
-    "mentions": "1810건",
-    "trend": "+175%"
+    "tag": "AI",
+    "mentions": "1940건",
+    "trend": "+195%"
   },
   {
     "rank": 3,
-    "tag": "AI",
+    "tag": "반도체",
     "mentions": "1810건",
     "trend": "+175%"
   }
