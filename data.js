@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-08-25 12:25:34
+// 마지막 업데이트: 2026-08-25 13:40:25
 window.NEWS_DB = [
   {
     "id": "n01b6d007",
     "category": "IT",
     "source": "뉴스퀘스트",
-    "time": "5시간 전",
+    "time": "6시간 전",
     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE10eDdVb3Zjdmd4YUMwV01FbGtXSElSc3Zpd0gzN1RwT21vUU9adTBmc0hROGd1OFpLbU9yZExjR0txSlo0NWdWY2dkbS1nWnZxV0lmQ2dQaEdrQUs1SzFLZE94NWd6NFNzcGY3U0h4UdIBc0FVX3lxTE4wZHVlazIzd1ljVXhjd2dXTjBKVFdrQnhRUFd2MGIwSm9tNE9nYVdDcTdpMGxJaktUZHZBSDlFcGJIUEhESjg2Nm9wVkgybEVDYW1rQ3NwYTZOSmlSSGs0eHNNNVlZMDBWTmpQOVJ4SmVacVE?oc=5",
     "title": "삼성 ‘원스톱’- SK ‘TSMC 동맹’…HBM4E 이후 승부처는 ‘발열과 양산’",
     "summary": [
@@ -19,7 +19,7 @@ window.NEWS_DB = [
     "id": "n7d1aabd9",
     "category": "IT",
     "source": "이코리아",
-    "time": "6시간 전",
+    "time": "7시간 전",
     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5rcXg0aHpNZVpILUMwTjNIYWN6M3gwaGN6RWtIaktxVWdnc3lyY1FQY1pUUnBkcTNYQ1o0dGpjSjhCUm1HZDlfNE5QOVltM2Voa09iZWlNSzNSekpEVFhoQjA3bmJjenBqcjdTeDZYOA?oc=5",
     "title": "삼전닉스, 차세대 HBM 기술 로드맵 공개... HBM 주도권 다툼 격화",
     "summary": [
@@ -34,7 +34,7 @@ window.NEWS_DB = [
     "id": "n43b5fcba",
     "category": "IT",
     "source": "비즈니스포스트",
-    "time": "11시간 전",
+    "time": "12시간 전",
     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1wUkc0bzBYOGtYWGJBN2VzU3k5WS1adlRmRjdnR1oyQ2hrMzZCQ2VZVU5xQUVnZkRxT2g3bU1BbThNNGEtZEdwWnJwa05VNEt2aXRzU28zODlqN0c2eUtJWnpTZzdwOXVxaWEydnU4eG9MNDA?oc=5",
     "title": "엔비디아 AI 서버에 'D램과 HBM 원가 30%' 분석, 메모리 수요 줄이는 기술 발전 자극",
     "summary": [
@@ -50,7 +50,7 @@ window.NEWS_DB = [
     "id": "n20b176ea",
     "category": "IT",
     "source": "연합뉴스",
-    "time": "14시간 전",
+    "time": "16시간 전",
     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0zaDRKTTBVdVlfMWdnQ0VRaEV4bUNXWU9JbXRnVndwTDJoVUg3bzFqTTloLWFRWGNqYVpSX21QYjE1X3g5bTZqV2ozWU85MGJVMGdiN19aMzhXQ1XSAWBBVV95cUxQTm9YQ2V1blJWakowbE5Ra2hPRU1NRUN3SFAtRVkzSWpxTC1iemFEMnA4SU1yWTBzNUJ4YUJETzc2ZlNTcTl3ejgzYlVQRVBWcWp5YU5pV0doTTVQMXI0TE8?oc=5",
     "title": "뉴욕증시, 반도체·AI주 약세에 혼조 마감…엔비디아 7일째 하락(종합)",
     "summary": [
@@ -66,7 +66,7 @@ window.NEWS_DB = [
     "id": "n931badf7",
     "category": "IT",
     "source": "뉴스핌",
-    "time": "18시간 전",
+    "time": "20시간 전",
     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1YRHJiQkwzbXNOa3RqRENBY2RURHNXcF8xQTFWeTRwWGNJOEctRUEwNDBNTFFrZkRsajY5Tl80RXZLWjBBenFtSTQ0OTM5amlONVowSVBBNFdxTDBx?oc=5",
     "title": "[미국 특징주] 엔비디아의 반도체 시장에 바짝 다가서는 우군과 적군들",
     "summary": [
@@ -375,258 +375,257 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n905ecb84",
+    "id": "n91706434",
     "category": "사회",
-    "source": "동아일보",
-    "time": "1분 전",
-    "url": "https://www.donga.com/news/Inter/article/all/20260825/134543807/1",
-    "title": "덴마크 여성 총리에 “코에 난 점 빼줄게” DM 보낸 의사… 총리 “내 몸에 만족” 불쾌감",
+    "source": "아시아경제",
+    "time": "방금 전",
+    "url": "https://view.asiae.co.kr/article/2026082519132088276",
+    "title": "교부금법 개편안 도마…전남광주교육청 \"국회 대응 총력\"",
     "summary": [
-      "당신 코에 있는 작은 점을 우리가 해결해보는 건 어떨까요?” (성형외과 의사)“오, 싫어요.",
-      "저는 제 몸(외모)에 만족하고 있고, 남성 성형외과 의사가 제 몸(외모)에 대해 이래라저래라 의견을 보태는 건 딱히 필요 없거든요.”(메테 프레데릭센 덴마크 총리)메테 프레데릭센 덴마크 총리가 24일(현지시간) 인스타그램에 자신의 코에 난 점을 지적하며 “해결해보자”고 제안한 남성 성형외과 의사의 메시지를 공개하며 불쾌감을 드러냈."
+      "전남광주통합특별시교육청이 25일 정부의 지방교육재정 개편안에 대해 강력한 우려를 표하며 전면 재검토를 촉구하고 나섰다.",
+      "교육청은 이번 개편안이 반세기 넘게 유지되어 온 법률 근거를 무너뜨려 지방교육재정의 신뢰를 뒤흔들 뿐만 아니라, 절차적으로도 교육 현장과의 실질적 협의 없이 일방적으로 추진됐다고 지적했다.",
+      "또한 개편안에 따른 교부금 보전 조항의 실효성에 의문을 제기하며 법안 소급 적용 및 특별교부금 비율."
+    ],
+    "chips": [
+      "#정책",
+      "#정치",
+      "#교육"
+    ]
+  },
+  {
+    "id": "nb18b42a5",
+    "category": "경제",
+    "source": "아시아경제",
+    "time": "2분 전",
+    "url": "https://view.asiae.co.kr/article/2026082518564167416",
+    "title": "수억 들인 '완도 관문 상징물' 철거설 솔솔…예산 낭비 논란",
+    "summary": [
+      "전남 완도군이 약 5억 원의 예산을 들여 조성한 관문 상징물(조형물)을 두고 최근 철거 및 재교체설이 확산되면서 예산 낭비와 행정력 낭비에 대한 논란이 일고 있다.",
+      "25일 완도군에 따르면 군은 지난 2025년 5월부터 '완도 관문상징물 구조안전진단 용역'(2,475만원)을 시작으로 디자인 개발 용역(3,150만원), 실시설계 용역(2,250만원)을 잇달아 진행했다.이어 2026년 2월부터 6월까지 관문조형물 변경 제작·설치(3억9,049만원)."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "nd7843808",
-    "category": "스포츠",
-    "source": "뉴시스",
-    "time": "2분 전",
-    "url": "https://www.newsis.com/view/NISX20260825_0003762404",
-    "title": "선두 KT 잡은 두산, 4위 도약 기회…'12승' 최민석, 다승 단독 선두",
+    "id": "nbb4c6e0e",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "3분 전",
+    "url": "https://www.donga.com/news/Politics/article/all/20260825/134543997/1",
+    "title": "법원행정처장, 與 ‘조희대씨’ 호칭에 “대법원장 존중 필요”",
     "summary": [
-      "[서울=뉴시스]문채현 기자 = 프로야구 두산 베어스가 차세대 에이스의 호투에 힘입어 순위 상승 기회를 잡았다.",
-      "두산은 25일 수원 KT위즈파크에서 열린 2026 신한 쏠 KBO리그 원정 경기에서 KT 위즈를 3-1로 눌렀다.",
-      "리그를 대표하는 젊은 토종 선발 최민석(두산)과 소형준(KT)의 맞대결에선 최민석이 판정승을 거뒀다."
+      "노경필 법원행정처장이 더불어민주당 김민석 대표가 조희대 대법원장을 ‘조희대 씨’로 호칭한 것에 대해 “사법부 수장에 대한 존중이 있어야 한다”고 밝혔다.노 처장은 25일 국회 예산결산특별위원회 전체 회의에서 “사법부 수장을 ‘조희대 대법원장’이라고 부르는 게 맞느냐, ‘조희대씨’라고 부르는 게 맞느냐”는 국민의힘 윤용근 의원 질문에 “사법부 내부가 구체적으로 어떤 입장인지는 잘 알지 못한다”면서도 “다만 사법부 수장에 대해 존중이 있어야 한다고."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "nf849ba9d",
+    "category": "경제",
+    "source": "뉴시스",
+    "time": "4분 전",
+    "url": "https://www.newsis.com/view/NISX20260825_0003762431",
+    "title": "EU, 3년 만에 분기 무역 적자…35.2조 원",
+    "summary": [
+      "[서울=뉴시스] 김재영 기자 = 유럽연합(EU) 27개국은 올 2분기(4월~6월) 동안 역외 국가들과의 무역에서 218억 유로(35.2조 원)의 적자를 기록했다고 25일 EU 통계국 유로스탯이 말했다.",
+      "상품 수입이 7018억 유로인 반면 상품 수출은 6800억 유로에 그쳤다.",
+      "EU의 이번 무역적자는 3년 전 2023년 2분기 후 처음이다."
+    ],
+    "chips": [
+      "#수출"
+    ]
+  },
+  {
+    "id": "n6086a294",
+    "category": "IT",
+    "source": "뉴시스",
+    "time": "4분 전",
+    "url": "https://www.newsis.com/view/NISX20260825_0003762438",
+    "title": "[속보]뉴욕 증시, 반도체주 강세에 상승 출발…나스닥 0.73% ↑",
+    "summary": [
+      "후속기사가 이어집니다 ◎공감언론 뉴시스 ironn108@newsis.com."
+    ],
+    "chips": [
+      "#반도체"
+    ]
+  },
+  {
+    "id": "n8a54a59e",
+    "category": "스포츠",
+    "source": "연합뉴스",
+    "time": "8분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260821171053007",
+    "title": "[프로야구] 26일 선발투수",
+    "summary": [
+      "[프로야구] 26일 선발투수."
     ],
     "chips": [
       "#KBO"
     ]
   },
   {
-    "id": "n528b3271",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "2분 전",
-    "url": "https://www.newsis.com/view/NISX20260825_0003762411",
-    "title": "\"카일리, 여기!\"…제주 해녀들이 먼저 찾는 '미국인 딸', CNN도 주목",
-    "summary": [
-      "[서울=뉴시스]이기주 인턴 기자 = 제주 바다에서 물질하는 미국인 여성이 있다.",
-      "미국 뉴욕 출신 카일리 젠터(36)다.",
-      "올해 기준 한국에서 해녀 면허를 보유한 유일한 외국인인 젠터는 처음에는 낯선 외국인이라는 이유로 경계받았지만, 이제는 해녀들이 그를 ‘딸’이라고 부를 만큼 공동체의 일원으로 자리 잡았다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n59517af2",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "3분 전",
-    "url": "https://www.newsis.com/view/NISX20260825_0003762412",
-    "title": "창원상의, 산업재해 예방 우수사례·우수제안·콘텐츠 공모",
-    "summary": [
-      "[창원=뉴시스]홍정명 기자 = 경남 창원상공회의소는 창원시, 고용노동부 창원지청, 한국산업안전보건공단과 함께 '2026년 창원 산업재해 예방 우수사례·우수제안·콘텐츠 공모전' 작품을 오는 31일까지 접수한다고 25일 밝혔다.",
-      "공모전은 산업재해 예방 우수사례와 창의적인 우수제안 및 콘텐츠를 발굴·시상해 산업안전 문화 확산과 예방활동 정착에 기여하기 위해 마련됐다.",
-      "공모 분야는 ▲산업재해 예방 및 근로환경 개선을 위해 실제 적용·운영 중인 '우수사."
-    ],
-    "chips": [
-      "#고용",
-      "#의료",
-      "#환경"
-    ]
-  },
-  {
-    "id": "n8f664156",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "5분 전",
-    "url": "https://www.donga.com/news/Society/article/all/20260825/134543781/1",
-    "title": "[속보]대구서 실종된 중국인 여대생 사망…경찰, 용의자 검거",
-    "summary": [
-      "대구서 실종된 중국인 여대생 사망…경찰, 용의자 검거."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "ndaffb1b6",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "7분 전",
-    "url": "https://www.newsis.com/view/NISX20260825_0003762409",
-    "title": "이석연, 권노갑·문희상 등 與원로와 만찬…\"국민통합 위해 정치갈등 해소 우선 중요\"",
-    "summary": [
-      "[서울=뉴시스] 김지은 기자 = 이석연 대통령 직속 국민통합위원장이 25일 권노갑 김대중재단 이사장, 문희상 전 국회의장 등 더불어민주당 상임고문과 만나 국민 통합 방안 등을 논의했다.",
-      "이 위원장은 이날 저녁 페이스북에 올린 글에서 \"권노갑 이사장님, 문희상 전 국회의장님, 김성재 김대중평화센터 이사장님, 백학순 김대중학술원장님, 고도원 아침편지문화재단 이사장님과 자리를 함께했다\"고 밝혔다.",
-      "이어 \"우리 사회의 깊어지는 정치적 갈등과 국민 통합."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "naebef104",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "8분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260825173300527",
-    "title": "경북 경주 오존주의보 해제",
-    "summary": [
-      "(대구=연합뉴스) 경북 경주에 내려진 오존주의보가 25일 오후 8시 해제됐다고 환경부 한국환경공단이 전했다."
-    ],
-    "chips": [
-      "#환경"
-    ]
-  },
-  {
-    "id": "n70ba6b25",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "8분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260825175000053",
-    "title": "참관인 신고 안하고 개표소 출입한 구미시의장 송치",
-    "summary": [
-      "(구미=연합뉴스) 황수빈 기자 = 경북 구미경찰서는 참관인 신고 없이 개표소에 출입해 수 분간 머무른 혐의(공직선거법 위반)로 강승수 구미시의장..."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n559c400f",
+    "id": "n8bc7dc62",
     "category": "스포츠",
     "source": "조선일보",
-    "time": "11분 전",
-    "url": "https://www.chosun.com/sports/baseball/2026/08/25/MEZDCM3GME4DQMDFGU2WKMBXGQ/",
-    "title": "FA로이드 대폭발인가...믿을 수 없다, 데뷔 18년 만에 괴다 홈런 기록을 갈아치웠다 [수원 현장]",
+    "time": "8분 전",
+    "url": "https://www.chosun.com/sports/baseball/2026/08/25/GQ4GCOBWGYYWMOJRGZSDANLCMU/",
+    "title": "두산에 새겨진 2개의 새 홈런 역사...300홈런 양의지-7홈런 정수빈, 선두 KT 격파 선봉! [수원 현장]",
     "summary": [
-      "[수원=스포츠조선 김용 기자] FA로이드 대폭발인가.",
-      "두산 베어스 정수빈은 리그를 대표하는 교타자 중 한 명이다.",
-      "2009년 두산 입단 때부터 컨택트 능력 좋고, 중견수 수비 뛰어나고, 잘 달리는 선수로 주목을 받았다."
+      "[수원=스포츠조선 김용 기자] 새롭게 생긴 두 개의 홈런 역사, 최강 선두 KT 잡은 두산.",
+      "두산 베어스가 KT 위즈를 물리치고 3위 경쟁에 다시 불을 붙였다.",
+      "두산은 25일 수원케이티위즈파크에서 열린 KT와의 주중 3연전 1차전에서 5회 터진 정수빈의 동점포, 그리고 6회 터진 양의지의 결승 솔로 홈런 등에 힘입어 3대1로 승리했다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "nd9734ea6",
+    "id": "nae0c47c2",
+    "category": "스포츠",
+    "source": "연합뉴스",
+    "time": "10분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260821170953007",
+    "title": "[프로야구 중간순위] 25일",
+    "summary": [
+      "[프로야구 중간순위] 25일."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
+    "id": "n8cb7b498",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "12분 전",
+    "url": "https://www.chosun.com/entertainments/broadcast/2026/08/25/GBRGIZTGGVRTSNZTGI4GMNDEG4/",
+    "title": "추성훈 모델 스테이크 매장, 테이블 13개로 월 매출 3억 ('휴먼스토리')",
+    "summary": [
+      "영상 시청 후 작성된 리뷰 기사입니다.[OSEN=최지연 기자] 격투기 선수 겸 방송인 추성훈이 자신이 모델인 스테이크 매장을 찾아 눈길을 끌었다.",
+      "지난 22일 유튜브 채널 '휴먼스토리'에는 '잘나가는 격투선수 연예인 추성훈 식당으로 출근하는 이유'라는 제목의 영상이 게재됐다.",
+      "추성훈은 울산에 새로 문을 연 스테이크 매장으로 향하며 \"모델로서 오픈했으니까 잠."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n581533b6",
     "category": "사회",
     "source": "조선일보",
+    "time": "12분 전",
+    "url": "https://www.chosun.com/entertainments/broadcast/2026/08/25/MVSTOYTBGNRTSOBWGAYWCZJZGI/",
+    "title": "정선희, 1년 걸린 치아 교정 고백..\"의사가 도전하고 싶은 치열 만났다고\"",
+    "summary": [
+      "영상 시청 후 작성된 리뷰 기사입니다.[OSEN=최지연 기자] 방송인 정선희가 치아 교정을 했다고 밝혔다.",
+      "25일 유튜브 채널 '롤링썬더'에는 '“잘 버텨줘서 고마워” 웃음 뒤에 숨겨둔 언니들의 진짜 이야기 (동물농장 썰, 명수 짝사랑 정리, 은인 이경실)ㅣ 신여성 EP.31'라는 제목의 영상이 게재됐다.",
+      "이날 정선희는 이선민 옆에 자신이 앉는 것을 걱정했."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nc9d8f0ca",
+    "category": "스포츠",
+    "source": "뉴시스",
+    "time": "13분 전",
+    "url": "https://www.newsis.com/view/NISX20260825_0003762348",
+    "title": "[KBO 오늘의 경기 결과]8월25일(화)",
+    "summary": [
+      "[서울=뉴시스] [KBO]오늘의 경기 결과<2026년 8월25일(화)> ▲NC 4 - 5 LG(잠실) 패 전사민 승 존 케네디 ▲한화 1 - 7 SSG(문학) 패 오웬 화이트 승 김민 ▲롯데 5 - 8 KIA(광주) 패 김원중 승 조상우 ▲두산 3 - 1 KT(수원) 승 최민석 패 소형준 ▲삼성 3 - 3 키움(고척)."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
+    "id": "n81cbcf6b",
+    "category": "경제",
+    "source": "뉴시스",
+    "time": "14분 전",
+    "url": "https://www.newsis.com/view/NISX20260825_0003762436",
+    "title": "금융위, WSJ '韓, 세계에서 가장 미친 증시' 평가 반박…\"최근 안정화 추세\"",
+    "summary": [
+      "[서울=뉴시스]김민수 기자 = 금융위원회가 한국 증시를 '세계에서 가장 미친 주식시장(The World’s Craziest Stock Market)'이라고 평가한 월스트리트저널(WSJ) 보도에 대해 최근 국내 증시는 안정화 추세를 보이고 있다고 반박했다.",
+      "금융위는 25일 '국내증시 상황에 대한 설명' 자료를 내고 \"한국 증시는 오랜 기간 이어져온 박스권을 벗어나 지난해에 이어 올해도 세계 주요국 중 최고 수준의 상승률을 기록하고 있다\"고 밝혔다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n18ba7858",
+    "category": "스포츠",
+    "source": "연합뉴스",
     "time": "15분 전",
-    "url": "https://www.chosun.com/entertainments/broadcast/2026/08/25/MI3DOMZYMY2WMNBSGMYDOOLDMY/",
-    "title": "\"요식업 도전은 마지막\" 정준하, '횟집 억대 월매출'로 또 사업 시작",
+    "url": "https://www.yna.co.kr/view/AKR20260825179500007",
+    "title": "[프로야구 잠실전적] LG 5-4 NC",
     "summary": [
-      "영상 시청 후 작성된 리뷰 기사입니다.[OSEN=최지연 기자] 방송인 정준하가 더이상 요식업 브랜드를 런칭하지 않겠다고 밝혔다.",
-      "25일 유튜브 채널 '정준하하하'에는 '(속보) 연예인 정준하 이젠 정말 마지막 오픈이라며 야심차게 개업한 요거트 브랜드 헬레니카'라는 제목의 영상이 게재됐다.이날 영상 초반에는 지난해 미국 시애틀에서 요거트 아이스크림 전문점에."
+      "[프로야구 잠실전적] LG 5-4 NC."
     ],
     "chips": [
-      "#뉴스"
+      "#KBO"
     ]
   },
   {
-    "id": "n0e1570fe",
-    "category": "경제",
-    "source": "한국경제",
-    "time": "18분 전",
-    "url": "https://www.hankyung.com/article/2026082524507",
-    "title": "\"제로 맥주라 괜찮다?\"…2030 통풍 부르는 뜻밖의 습관 [건강!톡]",
+    "id": "nb0b7466d",
+    "category": "스포츠",
+    "source": "연합뉴스",
+    "time": "16분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260825179400007",
+    "title": "[프로야구 고척전적] 삼성 3-3 키움",
     "summary": [
-      "\"제로 맥주라 괜찮다?\"…2030 통풍 부르는 뜻밖의 습관 [건강!톡]."
+      "[프로야구 고척전적] 삼성 3-3 키움."
     ],
     "chips": [
-      "#의료"
+      "#KBO"
     ]
   },
   {
-    "id": "n5cd582cc",
-    "category": "경제",
-    "source": "한국경제",
-    "time": "19분 전",
-    "url": "https://www.hankyung.com/article/202608252045g",
-    "title": "\"제니도 갔던 곳\"…찐 부자들이 명품백 대신 드는 '에코백' 정체 [트렌드+]",
-    "summary": [
-      "\"제니도 갔던 곳\"…찐 부자들이 명품백 대신 드는 '에코백' 정체 [트렌드+]."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n0a361503",
-    "category": "경제",
-    "source": "한국경제",
-    "time": "20분 전",
-    "url": "https://www.hankyung.com/article/202608252230H",
-    "title": "\"범죄 혐의 없다? 경찰 어떻게 믿나\"…장미란 씨 사인 의구심 확산",
-    "summary": [
-      "\"범죄 혐의 없다? 경찰 어떻게 믿나\"…장미란 씨 사인 의구심 확산."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nfc98da60",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "23분 전",
-    "url": "https://www.donga.com/news/Inter/article/all/20260825/134543498/1",
-    "title": "프랑스, 지중해 인근 남부서 토네이도로 39명 부상…가옥 300채 파손",
-    "summary": [
-      "프랑스 남서부 오드현에서 24일 밤 회오리 바람 토네이도가 한 읍을 휩쓸어 가옥들이 부서지고 39명이 부상했다고 25일 현지 당국이 말했다.포마 읍 토네이도로 300채 가량의 가옥이 파손되었다.",
-      "부상자 중 2명이 심각한 상태다.토네이도는 순간 시속 100㎞가 넘었다.",
-      "모든 마을 주민들이 집을 버리고 철수했으며 당국은 가옥이 돌아와 살기에 안전한지를 점검하고 있다.한 주민은 가족 4명이 탄 자동차가 토네이도 선풍에 크게 흔들려 간신히 시동을 걸고."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "ndf0c144f",
-    "category": "IT",
-    "source": "동아일보",
-    "time": "23분 전",
-    "url": "https://www.donga.com/news/Economy/article/all/20260825/134543481/1",
-    "title": "韓 조종사 제안 ‘대만 지름길’, 현지 당국 승인…비행시간 4분↓",
-    "summary": [
-      "한국민간항공조종사협회(ALPA-K)가 제안한 대만 공역 내 ‘지름길’을 현지 항공당국이 받아들였다.",
-      "이에 따라 오는 10월부터 대만을 경유해 한국과 동남아시아를 오가는 하늘길이 최대 4분 빨라질 것으로 기대된다.한국민간항공조종사협회는 최근 대만 항공당국이 대만 공역 내 신규 항로를 항공정보간행물(AIP)에 등재해 공식 항로로 승인했다고 25일 밝혔다.협회가 지난 2월 한국항공관제사협회, 국제항공운송협회(IATA)와 개최한 ‘동북아 항공교통관리."
-    ],
-    "chips": [
-      "#AI"
-    ]
-  },
-  {
-    "id": "n49b8c4d1",
-    "category": "IT",
-    "source": "한경IT",
-    "time": "25분 전",
-    "url": "https://www.hankyung.com/article/2026082522061",
-    "title": "경찰이 옛 연인 감시에 악용…美 전역 깔린 AI 카메라 '빅브러더' 논란",
-    "summary": [
-      "경찰이 옛 연인 감시에 악용…美 전역 깔린 AI 카메라 '빅브러더' 논란."
-    ],
-    "chips": [
-      "#AI"
-    ]
-  },
-  {
-    "id": "n97d3abde",
+    "id": "n9f9b6eb5",
     "category": "사회",
     "source": "조선일보",
     "time": "29분 전",
-    "url": "https://www.chosun.com/national/court_law/2026/08/25/CIPNEEC2WNAHJP4DUDZGTAUBJA/",
-    "title": "與김민석 ‘조희대씨’ 호칭 논란... 대법 “사법부 수장 존중해야”",
+    "url": "https://www.chosun.com/sports/sports_general/2026/08/25/E6KASJ5A55HCZE544UZGONXNIA/",
+    "title": "키움에 뺨 맞은 KIA, 롯데에 분풀이...9회말 2아웃 역전 끝내기 만루포",
     "summary": [
-      "與김민석 ‘조희대씨’ 호칭 논란... 대법 “사법부 수장 존중해야”."
+      "키움에 뺨 맞은 KIA, 롯데에 분풀이...9회말 2아웃 역전 끝내기 만루포."
     ],
     "chips": [
       "#뉴스"
+    ]
+  },
+  {
+    "id": "n46f4f3d0",
+    "category": "경제",
+    "source": "아시아경제",
+    "time": "35분 전",
+    "url": "https://view.asiae.co.kr/article/2026082521550801965",
+    "title": "현대차 이어 기아도 노사 '임단협' 잠정합의…파업 피했다",
+    "summary": [
+      "현대자동차에 이어 기아 노사도 임금단체교섭 잠정합의안을 도출하면서, 6년 연속 무분규 임금단체교섭이 마무리될 것으로 보인다.",
+      "25일 완성차 업계에 따르면 기아 노사는 이날 오토랜드 광명에서 송민수 대표이사와 강성호 지부장 등 노사 대표가 참석한 가운데 12차 본교섭을 갖고, 6년 연속 무분규로 임금단체교섭 잠정합의안에 합의했다.",
+      "이번 합의안의 주요 내용은 ▲기본급 10만원 인상 ▲경영성과금 300%+400만원 ▲품질향."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nfb7c3369",
+    "category": "IT",
+    "source": "한국경제",
+    "time": "39분 전",
+    "url": "https://www.hankyung.com/article/2026082520596",
+    "title": "사상 최대 실적 전망에도 7일째 하락…'엔비디아 쇼크' 오나 [분석+]",
+    "summary": [
+      "사상 최대 실적 전망에도 7일째 하락…'엔비디아 쇼크' 오나 [분석+]."
+    ],
+    "chips": [
+      "#엔비디아"
     ]
   }
 ];
@@ -635,21 +634,21 @@ window.NEWS_DB = [
 window.KEYWORD_TOP = [
   {
     "rank": 1,
-    "tag": "뉴스",
-    "mentions": "2200건",
-    "trend": "+235%"
+    "tag": "반도체",
+    "mentions": "1940건",
+    "trend": "+195%"
   },
   {
     "rank": 2,
-    "tag": "AI",
+    "tag": "KBO",
     "mentions": "1940건",
     "trend": "+195%"
   },
   {
     "rank": 3,
-    "tag": "반도체",
-    "mentions": "1810건",
-    "trend": "+175%"
+    "tag": "뉴스",
+    "mentions": "1940건",
+    "trend": "+195%"
   }
 ];
 // ====AUTO-GENERATED-END====
