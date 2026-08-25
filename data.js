@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-08-25 14:34:06
+// 마지막 업데이트: 2026-08-25 15:33:01
 window.NEWS_DB = [
   {
     "id": "n01b6d007",
     "category": "IT",
     "source": "뉴스퀘스트",
-    "time": "7시간 전",
+    "time": "8시간 전",
     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE10eDdVb3Zjdmd4YUMwV01FbGtXSElSc3Zpd0gzN1RwT21vUU9adTBmc0hROGd1OFpLbU9yZExjR0txSlo0NWdWY2dkbS1nWnZxV0lmQ2dQaEdrQUs1SzFLZE94NWd6NFNzcGY3U0h4UdIBc0FVX3lxTE4wZHVlazIzd1ljVXhjd2dXTjBKVFdrQnhRUFd2MGIwSm9tNE9nYVdDcTdpMGxJaktUZHZBSDlFcGJIUEhESjg2Nm9wVkgybEVDYW1rQ3NwYTZOSmlSSGs0eHNNNVlZMDBWTmpQOVJ4SmVacVE?oc=5",
     "title": "삼성 ‘원스톱’- SK ‘TSMC 동맹’…HBM4E 이후 승부처는 ‘발열과 양산’",
     "summary": [
@@ -19,7 +19,7 @@ window.NEWS_DB = [
     "id": "n7d1aabd9",
     "category": "IT",
     "source": "이코리아",
-    "time": "8시간 전",
+    "time": "9시간 전",
     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5rcXg0aHpNZVpILUMwTjNIYWN6M3gwaGN6RWtIaktxVWdnc3lyY1FQY1pUUnBkcTNYQ1o0dGpjSjhCUm1HZDlfNE5QOVltM2Voa09iZWlNSzNSekpEVFhoQjA3bmJjenBqcjdTeDZYOA?oc=5",
     "title": "삼전닉스, 차세대 HBM 기술 로드맵 공개... HBM 주도권 다툼 격화",
     "summary": [
@@ -31,10 +31,25 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "nce8f38ff",
+    "category": "IT",
+    "source": "mstoday.co.kr",
+    "time": "13시간 전",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9IRVR5bEczdml2SlZLekVYNGJGY1I0Umd2Zk9iSjNuOUJGSHc0cUhFTnF5bExUa1Jmd1U2MV9aWVU3YmQ3bjhxQTZ1U3dtYU1xekhocGdVNlAwV1Y1VlVLZEZDeWMwclNlNE5fMA?oc=5",
+    "title": "엔비디아 추론칩 양산 본격화…삼성 파운드리 수혜 기대",
+    "summary": [
+      "엔비디아 추론칩 양산 본격화…삼성 파운드리 수혜 기대 mstoday.co.kr."
+    ],
+    "chips": [
+      "#반도체",
+      "#엔비디아"
+    ]
+  },
+  {
     "id": "n43b5fcba",
     "category": "IT",
     "source": "비즈니스포스트",
-    "time": "13시간 전",
+    "time": "14시간 전",
     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1wUkc0bzBYOGtYWGJBN2VzU3k5WS1adlRmRjdnR1oyQ2hrMzZCQ2VZVU5xQUVnZkRxT2g3bU1BbThNNGEtZEdwWnJwa05VNEt2aXRzU28zODlqN0c2eUtJWnpTZzdwOXVxaWEydnU4eG9MNDA?oc=5",
     "title": "엔비디아 AI 서버에 'D램과 HBM 원가 30%' 분석, 메모리 수요 줄이는 기술 발전 자극",
     "summary": [
@@ -50,7 +65,7 @@ window.NEWS_DB = [
     "id": "n20b176ea",
     "category": "IT",
     "source": "연합뉴스",
-    "time": "16시간 전",
+    "time": "17시간 전",
     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0zaDRKTTBVdVlfMWdnQ0VRaEV4bUNXWU9JbXRnVndwTDJoVUg3bzFqTTloLWFRWGNqYVpSX21QYjE1X3g5bTZqV2ozWU85MGJVMGdiN19aMzhXQ1XSAWBBVV95cUxQTm9YQ2V1blJWakowbE5Ra2hPRU1NRUN3SFAtRVkzSWpxTC1iemFEMnA4SU1yWTBzNUJ4YUJETzc2ZlNTcTl3ejgzYlVQRVBWcWp5YU5pV0doTTVQMXI0TE8?oc=5",
     "title": "뉴욕증시, 반도체·AI주 약세에 혼조 마감…엔비디아 7일째 하락(종합)",
     "summary": [
@@ -58,21 +73,6 @@ window.NEWS_DB = [
     ],
     "chips": [
       "#AI",
-      "#반도체",
-      "#엔비디아"
-    ]
-  },
-  {
-    "id": "n931badf7",
-    "category": "IT",
-    "source": "뉴스핌",
-    "time": "21시간 전",
-    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1YRHJiQkwzbXNOa3RqRENBY2RURHNXcF8xQTFWeTRwWGNJOEctRUEwNDBNTFFrZkRsajY5Tl80RXZLWjBBenFtSTQ0OTM5amlONVowSVBBNFdxTDBx?oc=5",
-    "title": "[미국 특징주] 엔비디아의 반도체 시장에 바짝 다가서는 우군과 적군들",
-    "summary": [
-      "[미국 특징주] 엔비디아의 반도체 시장에 바짝 다가서는 우군과 적군들 뉴스핌."
-    ],
-    "chips": [
       "#반도체",
       "#엔비디아"
     ]
@@ -134,6 +134,20 @@ window.NEWS_DB = [
     ],
     "chips": [
       "#환율"
+    ]
+  },
+  {
+    "id": "n17a4ebbf",
+    "category": "스포츠",
+    "source": "v.daum.net",
+    "time": "12일 전",
+    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9hSzI0XzVZbTlHZU1SZ05Eb3V0WkpQMHVTTlVlV2l6cEgyR05uZGd2MWZnRldZOVJKc3B6STdjNC1faWFWTjRyd195NA?oc=5",
+    "title": "KBO, '사회적으로 엄하게 다루는' 직장 내 괴롭힘 의혹→스포츠윤리센터 \"결과 통지, 이의신청 기다린다\"",
+    "summary": [
+      "KBO, '사회적으로 엄하게 다루는' 직장 내 괴롭힘 의혹→스포츠윤리센터 \"결과 통지, 이의신청 기다린다\" v.daum.net."
+    ],
+    "chips": [
+      "#KBO"
     ]
   },
   {
@@ -294,20 +308,6 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n4a365471",
-    "category": "스포츠",
-    "source": "v.daum.net",
-    "time": "170일 전",
-    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1ZbDRsNzJDT3JrUU5UZ1dGREM0RndpdFlCUlFsbHhTbXNaWUtzTFpDeV9lRkw0ZnViblc3Qlh2Y055by1WWVVPZVpUR3Jpd2s?oc=5",
-    "title": "\"장보기만으로 부족\"…이커머스, 야구·축구 스포츠 중계도 나서",
-    "summary": [
-      "\"장보기만으로 부족\"…이커머스, 야구·축구 스포츠 중계도 나서 v.daum.net."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
     "id": "nbfc7acb7",
     "category": "IT",
     "source": "테크M",
@@ -375,264 +375,258 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n5c9fe545",
-    "category": "IT",
-    "source": "동아일보",
-    "time": "4분 전",
-    "url": "https://www.donga.com/news/Opinion/article/all/20260825/134543672/2",
-    "title": "[사설]800조대 예산 당정협의… ‘흥청망청’ ‘퍼주기’ 철저히 걷어내라",
-    "summary": [
-      "더불어민주당과 정부가 9월 정기국회를 앞두고 내년도 예산안 협의에 들어갔다.",
-      "올해 처음 700조 원을 넘은 본예산은 1년 만에 800조 원 이상의 ‘슈퍼 예산’으로 몸집이 불어날 것으로 보인다.",
-      "정부 씀씀이가 세계 금융위기 때인 2009년도 이후 가장 큰 폭으로 늘어나는 만큼 이에 걸맞은 철저한 예산안 심사와 감시가 필요하다."
-    ],
-    "chips": [
-      "#AI",
-      "#정치"
-    ]
-  },
-  {
-    "id": "nd47dd934",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "5분 전",
-    "url": "https://www.chosun.com/sports/baseball/2026/08/25/HE2WGNLGME4WEMZRMU3TKZBUGY/",
-    "title": "\"던지고 싶습니다\" 1이닝이면 '역대 1위' 타이인데…\"기록 알고 있었다\" 냉정했던 사령탑 강판 결정 왜?",
-    "summary": [
-      "[인천=스포츠조선 이종서 기자] SSG 랜더스가 투·타 조화를 앞세워 완벽한 승리를 거뒀다.",
-      "SSG는 25일 인천 SSG랜더스필드에서 열린 한화 이글스와의 홈 경기에서 7대1로 승리했다.",
-      "이날 SSG 선발 투수 김민준은 기록 하나에 도전하고 있었다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n963c1a69",
+    "id": "neba0bf9c",
     "category": "사회",
     "source": "동아일보",
-    "time": "7분 전",
-    "url": "https://www.donga.com/news/Opinion/article/all/20260825/134543676/2",
-    "title": "[사설]60~64세 절반은 아무 연금도 못 받아… 공백 메울 개혁 급하다",
+    "time": "2분 전",
+    "url": "https://www.donga.com/news/Economy/article/all/20260825/134503206/1",
+    "title": "[Travel&]캐리어를 잃어버린 순간에도, 지진이 발생한 순간에도… 해외에서 더 빛난 연결 ‘익시오 로밍콜’",
     "summary": [
-      "60∼64세 가운데 절반 이상이 국민·직역·퇴직·개인연금 등 어떠한 연금도 받지 못하는 것으로 조사됐다.",
-      "현재 법정 정년은 60세지만 국민연금은 63세, 직역연금은 62세부터 받을 수 있어 정년과 연금 수급 사이의 ‘소득 크레바스’(소득 공백)를 겪는 것이다.",
-      "국민연금과 기초연금을 받는 65세 이상 노인들 역시 수령액이 턱없이 적어 노후 빈곤의 늪에서 헤어 나오지 못하고 있다."
+      "여행은 언제나 예상대로 흘러가지 않는다.",
+      "공항에서 짐을 잃어버리기도 하고, 낯선 나라에서 갑작스러운 자연재해를 마주하기도 한다.",
+      "한국에 남겨둔 가족이 문득 걱정되는 순간도 찾아온다.일본 여행과 출장 중 익시오 로밍콜을 이용한 고객들은 이런 순간마다 통화요금 걱정 없이 가족, 지인, 현지 관계자와 연결될 수 있었다고 입을 모았다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "nd96798b6",
-    "category": "경제",
-    "source": "아시아경제",
-    "time": "9분 전",
-    "url": "https://view.asiae.co.kr/article/2026082523242619792",
-    "title": "유엔 사무총장 \"美·러 초강대국 시대 한계…세계질서 변했다\"",
-    "summary": [
-      "안토니우 구테흐스 유엔 사무총장이 미국과 이란의 전쟁 교착과 러시아의 장기화한 우크라이나 침공을 거론하며 초강대국들이 더 이상 자신들의 의지를 일방적으로 관철하기 어려운 시대가 됐다고 진단했다.",
-      "구테흐스 사무총장은 25일(현지시간) 파이낸셜타임스(FT)와의 인터뷰에서 \"초강대국들이 자신들의 힘에 한계가 있다는 사실을 이해해야 할 때\"라며 최근 국제분쟁이 강대국의 군사력만으로 원하는 결과를 얻기 어렵다는 점을."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nbb1e0835",
+    "id": "n32d81769",
     "category": "사회",
     "source": "동아일보",
-    "time": "10분 전",
-    "url": "https://www.donga.com/news/Opinion/article/all/20260825/134543674/2",
-    "title": "[사설]거짓 협박에 20일간 경찰 529명 헛고생… 고작 1500만 원 배상",
+    "time": "2분 전",
+    "url": "https://www.donga.com/news/Economy/article/all/20260825/134542679/2",
+    "title": "생보사들, 고령화에 ‘시니어 돌봄시설’ 집중 투자",
     "summary": [
-      "2년 전 경기 성남시 분당구 야탑역에서 흉기 난동을 벌이겠다고 거짓 협박을 한 20대 남성이 정부에 배상금을 물게 됐다.",
-      "수원지법 민사22단독 장성신 판사는 24일 국가가 이 남성을 상대로 낸 손해배상 청구소송에서 ‘피고의 불법 행위로 인해 국가가 불필요한 비용을 지출했다’며 1484만 원을 지급하라고 판결했다.",
-      "이 남성은 형사 처벌과는 별개로 치안력 낭비에 대한 민사 책임까지 지게 된 것이다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n831aa295",
-    "category": "IT",
-    "source": "뉴시스",
-    "time": "12분 전",
-    "url": "https://www.newsis.com/view/NISX20260825_0003762449",
-    "title": "대만 7월 산업생산 사상 최고…\"AI·고성능 컴퓨팅 수요 견인\"",
-    "summary": [
-      "[서울=뉴시스]이재준 기자 = 대만 산업생산 지수가 인공지능(AI)과 고성능 컴퓨팅 수요에 힘입어 3개월 연속 사상 최고치를 경신했다.",
-      "중앙통신과 공상시보에 따르면 대만 경제부 통계처는 25일 7월 산업생산 지수가 145.24로 전년 동월보다 25.61% 올랐다고 발표했다.",
-      "6월 22.56%에서 상승폭이 확대했다."
-    ],
-    "chips": [
-      "#AI"
-    ]
-  },
-  {
-    "id": "n96333a2e",
-    "category": "IT",
-    "source": "동아일보",
-    "time": "14분 전",
-    "url": "https://www.donga.com/news/Opinion/article/all/20260825/134543659/2",
-    "title": "[횡설수설/김창덕]농사도 AI 로봇이",
-    "summary": [
-      "1970년 노벨 평화상 수상자는 과학자인 노먼 볼로그였다.",
-      "미국인인 그가 고수확 곡물 품종을 개발한 덕분에 멕시코는 1956년 처음 자급자족을 달성했다.",
-      "1960년대 인도와 파키스탄의 식량난 극복에도 그의 기여도가 컸다."
-    ],
-    "chips": [
-      "#AI"
-    ]
-  },
-  {
-    "id": "n22fc4a83",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "15분 전",
-    "url": "https://www.chosun.com/entertainments/broadcast/2026/08/25/MQYGGMZTMQ4TAYRVGMYTIOLBGU/",
-    "title": "솔라, LA 거리에서 포착된 여유…원피스 입고 ‘2만보’ 건강여신",
-    "summary": [
-      "[OSEN=김수형 기자] 마마무 솔라가 미국 로스앤젤레스에서 여유로운 한때를 보냈다.솔라는 지난 24일 자신의 SNS에 “같이 걷자 2만보”라는 글과 함께 LA에서 촬영한 여러 장의 사진을 공개했다.사진 속 솔라는 화창한 LA 거리를 배경으로 음료를 든 채 관광을 즐기고 있다.",
-      "도트 패턴의 민소매 미니 원피스에 선글라스를 매치한 편안한 차림으로, 무대 위."
+      "은퇴자들이 노후를 편하게 보낼 수 있는 시니어 시설이 수도권 곳곳에 경쟁적으로 들어서고 있다.",
+      "올해 수도권에 돌봄 시설 두 곳이 문을 열었고, 내년에 한 곳이 더 들어선다.",
+      "특히 종신보험, 암보험 등 기존 시장이 정체된 생명보험사들이 시니어 시설 사업에 적극적으로 뛰어들고 있다."
     ],
     "chips": [
       "#의료"
     ]
   },
   {
-    "id": "nc179b3de",
+    "id": "n8d161255",
     "category": "사회",
-    "source": "뉴시스",
-    "time": "18분 전",
-    "url": "https://www.newsis.com/view/NISX20260825_0003762427",
-    "title": "러, '돈바스 자유경제구역 조성' 우크라 휴전안 거부",
+    "source": "동아일보",
+    "time": "2분 전",
+    "url": "https://www.donga.com/news/Economy/article/all/20260825/134542696/2",
+    "title": "배달앱 4사 7월 결제액… 역대 최대 3조2700억",
     "summary": [
-      "[서울=뉴시스] 이재우 기자 = 러시아가 25일(현지시간) 우크라이나·미국·유럽이 러시아-우크라이나전쟁 종식을 위해 검토 중인 돈바스(도네츠크·루한스크) 자유경제구역 구상을 사실상 거부했다.",
-      "타스통신에 따르면 드미트리 페스코프 크렘린궁 대변인은 \"우크라이나가 제안하는 돈바스의 외부 관리는 불가능하다.",
-      "이 지역은 러시아의 일부이기 때문\"이라며 \"제3자가 러시아 지역을 관리하는 일을 맡을 수는 없다\"고 말했다."
+      "지난달 국내 주요 배달 플랫폼 4사의 결제 추정액이 3조2000억 원을 넘어서며 역대 최대치를 기록했다.",
+      "25일 앱·리테일 분석 서비스 와이즈앱·리테일이 한국인의 신용·체크카드 결제액을 표본 조사한 결과, 올해 7월 배달의민족·쿠팡이츠·요기요·땡겨요 등 배달 플랫폼 4사의 합산 결제 추정액은 3조2787억 원으로 집계됐다.",
+      "전년 동월(2조7889억 원)보다 18% 증가한 규모다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n82557540",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "19분 전",
-    "url": "https://www.newsis.com/view/NISX20260825_0003762444",
-    "title": "李대통령 \"다른 점 찾아내기 시작하면 원수\"…與지도부와 만찬에서 \"운명공동체\"(종합)",
+    "id": "n55194f35",
+    "category": "부동산",
+    "source": "동아일보",
+    "time": "2분 전",
+    "url": "https://www.donga.com/news/Economy/article/all/20260825/134542698/2",
+    "title": "“하루 최대 60% 손실”… 레버리지 상품 출시땐 손실률 알려야",
     "summary": [
-      "[서울=뉴시스] 김난영 정금민 신재현 김윤영 기자 = 이재명 대통령이 더불어민주당 신임 지도부를 만나 \"당정청은 운명공동체이고 한 몸이다.",
-      "민주당 없이 정권이 있을 수 없다\"며 '원팀'을 강조했다.",
-      "특히 \"다른 점을 찾아내기 시작하면 원수의 길로 갈 것이고 같은 점을 찾아내면 우애 있는 형제가 될 것\"이라며 화합과 단결을 강조했다."
+      "다음 달 30일부터 금융회사가 레버리지·인버스 등 고위험 상품을 판매하려면 예상되는 최대 손실률을 안내해야 한다.",
+      "과거 같은 종류의 상품에서 20%가 넘는 손실이 있었다면 이런 사실도 투자설명서에 밝혀야 한다.",
+      "25일 금융감독원은 금융소비자에게 쉽게 공모펀드 투자 위험을 알릴 수 있도록 이 같은 내용을 담은 ‘펀드 핵심위험 표준안’을 다음 달 30일 도입한다고 밝혔다."
     ],
     "chips": [
-      "#정치"
+      "#부동산"
     ]
   },
   {
-    "id": "n5f618b27",
+    "id": "n0950df42",
     "category": "사회",
     "source": "뉴시스",
-    "time": "20분 전",
-    "url": "https://www.newsis.com/view/NISX20260825_0003762447",
-    "title": "실종 중국인 여대생 살해 피의자, 112에 버젓이 실종신고",
+    "time": "2분 전",
+    "url": "https://www.newsis.com/view/NISX20260825_0003761136",
+    "title": "3000원 아이스크림값 동전 쏟아낸 손님…서비스 제안에 \"거지 취급 말라\" 고성",
     "summary": [
-      "[경산=뉴시스] 강병서 기자 = 중국인 유학생 A(20대·여)씨를 살해한 혐의로 25일 밤 경산경찰서에 검거된 30대 남성 피의자 B씨는 경찰에 A씨 실종신고를 한 것으로 드러났다.",
-      "경찰에 따르면 피의자 B씨는 A씨가 실종된 지 하루 뒤인 지난 21일 경찰에 신고를 하면서 자신이 A씨의 남자친구라고 밝혔다.",
-      "경찰은 B씨가 수사에 혼선을 주기 위해 신고한 것으로 보고 범행 동기와 경위를 추궁하고 있다."
+      "[서울=뉴시스]허준희 인턴 기자 = 고깃집에서 판매하는 구슬 아이스크림값 3000원을 동전으로 내겠다는 손님에게 사장이 무료로 주겠다고 했다가 항의를 받았다는 사연이 전해졌다.",
+      "지난 24일 JTBC '사건반장'에 고깃집을 운영하는 40대 여성 A씨가 제보한 사연이 소개됐다.",
+      "A씨가 운영하는 식당 한쪽에는 입가심용 구슬 아이스크림이 판매되고 있다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n39a6fce7",
+    "id": "n83bec38d",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "2분 전",
+    "url": "https://www.newsis.com/view/NISX20260825_0003761321",
+    "title": "지연수, 출산 후 30㎏ 감량…\"미역국 미역도 물에 씻어 먹었다\"",
+    "summary": [
+      "[서울=뉴시스]김드보라 인턴 기자 = 레이싱모델 출신 방송인 지연수가 임신 기간 체중이 45㎏에서 78㎏까지 늘었다가 출산 50일 만에 30㎏ 가까이 감량했다고 밝혔다.",
+      "지난 24일 구독자 약 4만 7000명을 보유한 유튜브 채널 '지연수의 연수롭다'에 지연수의 출산 후 체중 감량 방법이 담긴 영상이 올라왔다.",
+      "지연수는 \"45㎏에 임신했는데 78㎏에 아이를 낳았다\"며 \"아이를 낳았는데도 4㎏밖에 안 빠졌다\"고 당시를 떠올렸다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nfd5d7bee",
     "category": "사회",
     "source": "연합뉴스",
-    "time": "21분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260825181100079",
-    "title": "이스라엘, 동예루살렘 팔레스타인 난민기구 시설 철거 개시",
+    "time": "4분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260826000800082",
+    "title": "폭스바겐 10만명 구조조정 제동…노조·정부 역제안 마련",
     "summary": [
-      "(카이로=연합뉴스) 김상훈 특파원 = 이스라엘 정부가 동예루살렘에 위치한 유엔 팔레스타인 난민구호기구(UNRWA) 소속 직업훈련 센터에 대한 본..."
+      "(베를린=연합뉴스) 김계연 특파원 = 생산성을 높이기 위해 직원을 최대 10만명 줄이겠다는 폭스바겐그룹 경영진의 구조조정 계획이 난항을 겪고 있..."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n8b4403b0",
+    "id": "n9e9ab6c4",
     "category": "사회",
-    "source": "한국경제",
-    "time": "21분 전",
-    "url": "https://www.hankyung.com/article/202608252512i",
-    "title": "JT저축은행, 분당경영고서 10년째 '1사1교' 금융교육",
+    "source": "조선일보",
+    "time": "10분 전",
+    "url": "https://www.chosun.com/entertainments/broadcast/2026/08/26/MEZGMMLEGBQTQOBQMQ2GEYLDGM/",
+    "title": "고스트스튜디오, MBC 금토 ‘하얀 스캔들‘ 제작..'사냥개들2' 이어 제작명가 우뚝",
     "summary": [
-      "JT저축은행, 분당경영고서 10년째 '1사1교' 금융교육."
+      "[OSEN=최이정 기자] 고스트스튜디오가 MBC 새 금토드라마 ‘하얀 스캔들' 제작에 나선다.고스트스튜디오가 제작하는 ‘하얀 스캔들'은 후계자가 되기 싫은 재벌 3세 배우 단이혁과 추락한 아역 스타 지은설이 세상을 속이기 위해 가짜 연애를 시작하면서 묻혀 있던 과거의 상처를 함께 풀어가는 쌍방 구원 로맨스물.고스트스튜디오가 필연과 공동 기획 개발한 웹툰 ‘."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "ne26113d9",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "11분 전",
+    "url": "https://www.chosun.com/sports/baseball/2026/08/26/ME2GMMRXMIYWINRVMFRDGMZXGQ/",
+    "title": "5위가 어떻게 1위를 잡았나, 300홈런 포수+다승 단독 선두 동시 보유 실화? 감독 대만족 ”양의지 역사에 이름 남겼다“",
+    "summary": [
+      "[OSEN=수원, 이후광 기자] 두산 베어스가 1위를 잡고 미라클 3위 도전을 이어나갔다.",
+      "프로야구 두산 베어스는 25일 수원KT위즈파크에서 열린 2026 신한 SOL KBO리그 KT 위즈와의 시즌 11차전에서 3-1 역전승을 거뒀다.",
+      "5위 두산은 3연전 기선제압과 함께 2연승을 달리며 시즌 59승 4무 50패를 기록했다."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
+    "id": "n7f30a391",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "12분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260826000500053",
+    "title": "졸업식 참석차 한국 온 20대 中유학생 실종 닷새만에 주검으로",
+    "summary": [
+      "(경산=연합뉴스) 최수호 김선형 황수빈 기자 = 연락이 끊긴 지 닷새 만에 숨진 채 발견된 경북 경산시 한 대학원 20대 여성 중국인 유학생은 ..."
     ],
     "chips": [
       "#교육"
     ]
   },
   {
-    "id": "n2ae12be3",
-    "category": "부동산",
-    "source": "연합뉴스",
-    "time": "25분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260825180900098",
-    "title": "스웨덴 핵심 해군기지 인근에 푸틴 연계 러 부동산…\"압류해야\"",
+    "id": "n08e7bd7f",
+    "category": "경제",
+    "source": "아시아경제",
+    "time": "13분 전",
+    "url": "https://view.asiae.co.kr/article/2026082600193927302",
+    "title": "신규주택 판매 10% ↓…고금리·고물가에 소비심리도 위축",
     "summary": [
-      "(브뤼셀=연합뉴스) 현윤경 특파원 = 스웨덴의 핵심 해군 기지 인근에 블라디미르 푸틴 러시아 대통령과 연계된 러시아 사업가가 소유한 부동산이 자..."
+      "미국의 높은 금리와 생활비 부담이 가계 전반을 압박하면서 주택시장과 소비심리가 동시에 식고 있다.",
+      "모기지 금리 부담으로 신규주택 판매가 6개월 만에 최저 수준으로 떨어진 가운데 휘발유 가격 등 생활비 부담과 향후 일자리 우려까지 커지면서 소비자신뢰도 연초 이후 가장 낮은 수준으로 내려갔다.",
+      "25일(현지시간) 미 상무부 산하 인구조사국에 따르면 지난 7월 신규 단독주택 판매는 연율 60만7000채로 전월보다 10.5% 감소."
     ],
     "chips": [
-      "#부동산",
+      "#금리",
+      "#고용"
+    ]
+  },
+  {
+    "id": "n4a40b459",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "13분 전",
+    "url": "https://www.newsis.com/view/NISX20260825_0003761874",
+    "title": "\"차 못 지나가!\"…천안 횡단보도 한복판서 아찔한 통행 방해 왜?",
+    "summary": [
+      "[서울=뉴시스]장인혜 인턴 기자 = 충남 천안의 한 횡단보도에서 보행 신호가 끝난 뒤에도 남성이 도로를 점거하고 차량 통행을 막아서는 일이 발생했다.",
+      "25일 JTBC '사건반장' 보도에 따르면 이번 일은 지난달 29일 오후 6시께 충남 천안시 한 도로에서 일어났다.",
+      "당시 횡단보도를 건너던 제보자는 보행 신호가 끝나갈 무렵 맞은편에서 갑자기 한 남성이 뛰어오는 모습을 목격했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n0afe53e6",
+    "category": "경제",
+    "source": "연합뉴스",
+    "time": "15분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260826000700072",
+    "title": "캐나다, 美에 200억달러 규모 보복관세…700개 품목에 15~50%",
+    "summary": [
+      "(뉴욕=연합뉴스) 임수정 김연숙 특파원 = 캐나다 정부는 25일(현지시간) 약 200억달러 규모의 미국산 제품에 보복관세를 부과한다고 발표했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n7e8cb208",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "21분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260826000400071",
+    "title": "트럼프 \"호르무즈 기뢰 모두 제거…또 설치하는 선박 파괴할 것\"",
+    "summary": [
+      "(워싱턴=연합뉴스) 홍정규 특파원 = 도널드 트럼프 미국 대통령은 25일(현지시간) \"호르무즈 해협의 국제수역에 있던 모든 기뢰가 제거 및 폭파..."
+    ],
+    "chips": [
       "#정치"
     ]
   },
   {
-    "id": "n098e20df",
+    "id": "n7d94a184",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "22분 전",
+    "url": "https://www.newsis.com/view/NISX20260826_0003762461",
+    "title": "[속보]캐나다 \"미국산 700개 품목에 15~50% 보복관세…9월8일 발효\"",
+    "summary": [
+      "후속기사가 이어집니다 ◎공감언론 뉴시스 ironn108@newsis.com."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n1a83c0ab",
     "category": "IT",
     "source": "조선비즈IT",
-    "time": "27분 전",
-    "url": "https://biz.chosun.com/it-science/ict/2026/08/25/BLCM22S4NBDSPKYAFPBZQIEBHQ/",
-    "title": "애플, ‘온디바이스 AI용’ 맥미니 신제품 출시",
-    "summary": [
-      "애플, ‘온디바이스 AI용’ 맥미니 신제품 출시."
-    ],
-    "chips": [
-      "#AI"
-    ]
-  },
-  {
-    "id": "n4b31ec3c",
-    "category": "IT",
-    "source": "아시아경제",
     "time": "32분 전",
-    "url": "https://view.asiae.co.kr/article/2026082523010212132",
-    "title": "[뉴욕증시]장기채 금리 ↓·반도체주 ↑…3대 지수 일제히 상승",
+    "url": "https://biz.chosun.com/it-science/ict/2026/08/26/YW7A6NBZIZC3FEGAV4W2E2A5OI/",
+    "title": "엔비디아, 드론·소형 로봇용 AI 컴퓨터 ‘젯슨 오린 나노2’ 공개… “추론 성능 2배”",
     "summary": [
-      "25일(현지시간) 미국 뉴욕증시의 3대 지수는 장 초반 일제히 상승세를 보인다.",
-      "미 국채금리가 이틀째 하락한 가운데 엔비디아 실적 발표를 앞두고 반도체주가 강세를 보이며 증시를 견인하는 모습이다.",
-      "뉴욕증권거래소(NYSE)에서 오전 9시 53분 현재 다우지수는 전 거래일보다 4.95포인트(0.01%) 올라간 5만3422.12에 거래 중이다."
+      "엔비디아, 드론·소형 로봇용 AI 컴퓨터 ‘젯슨 오린 나노2’ 공개… “추론 성능 2배”."
     ],
     "chips": [
-      "#반도체",
-      "#엔비디아",
-      "#금리"
+      "#AI",
+      "#엔비디아"
     ]
   },
   {
-    "id": "n7dfafa72",
+    "id": "n760289e6",
     "category": "사회",
-    "source": "연합뉴스",
-    "time": "33분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260825175551053",
-    "title": "중국인 여대생 실종 닷새 만에 숨진 채 발견…30대男 체포(종합)",
+    "source": "조선일보",
+    "time": "46분 전",
+    "url": "https://www.chosun.com/opinion/specialist_column/2026/08/25/OMH7SBXHAJFYZC2FNYFXDRZ4EQ/",
+    "title": "[채승우의 카메라 타임머신] 몸으로 탑 쌓던 ‘매스게임’의 흥망성쇠",
     "summary": [
-      "(경산=연합뉴스) 김선형 황수빈 기자 = 20대 중국인 여성 유학생이 대구에서 실종된 지 닷새 만에 숨진 채 발견됐다."
+      "[채승우의 카메라 타임머신] 몸으로 탑 쌓던 ‘매스게임’의 흥망성쇠."
     ],
     "chips": [
       "#뉴스"
@@ -644,21 +638,21 @@ window.NEWS_DB = [
 window.KEYWORD_TOP = [
   {
     "rank": 1,
-    "tag": "AI",
-    "mentions": "2330건",
-    "trend": "+255%"
+    "tag": "뉴스",
+    "mentions": "2200건",
+    "trend": "+235%"
   },
   {
     "rank": 2,
-    "tag": "반도체",
+    "tag": "AI",
     "mentions": "1940건",
     "trend": "+195%"
   },
   {
     "rank": 3,
-    "tag": "뉴스",
-    "mentions": "1940건",
-    "trend": "+195%"
+    "tag": "반도체",
+    "mentions": "1810건",
+    "trend": "+175%"
   }
 ];
 // ====AUTO-GENERATED-END====
