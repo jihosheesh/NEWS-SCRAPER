@@ -1,26 +1,25 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-08-25 10:21:06
+// 마지막 업데이트: 2026-08-25 11:17:02
 window.NEWS_DB = [
   {
-    "id": "n1561c718",
+    "id": "n01b6d007",
     "category": "IT",
-    "source": "매일경제",
-    "time": "5시간 전",
-    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5jUzRKT1Zyc214NTFrNGNDWnVialJBekE4X01rV2J0Tmg1QUhENWx6c3l5bS15V2p3Mi1QYjJOZFZ1ZTgybXkxQ0tuaU5Pdw?oc=5",
-    "title": "엔비디아, 삼성 생산 AI칩 ‘그록’ 첫 상용화",
+    "source": "뉴스퀘스트",
+    "time": "4시간 전",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE10eDdVb3Zjdmd4YUMwV01FbGtXSElSc3Zpd0gzN1RwT21vUU9adTBmc0hROGd1OFpLbU9yZExjR0txSlo0NWdWY2dkbS1nWnZxV0lmQ2dQaEdrQUs1SzFLZE94NWd6NFNzcGY3U0h4UdIBc0FVX3lxTE4wZHVlazIzd1ljVXhjd2dXTjBKVFdrQnhRUFd2MGIwSm9tNE9nYVdDcTdpMGxJaktUZHZBSDlFcGJIUEhESjg2Nm9wVkgybEVDYW1rQ3NwYTZOSmlSSGs0eHNNNVlZMDBWTmpQOVJ4SmVacVE?oc=5",
+    "title": "삼성 ‘원스톱’- SK ‘TSMC 동맹’…HBM4E 이후 승부처는 ‘발열과 양산’",
     "summary": [
-      "엔비디아, 삼성 생산 AI칩 ‘그록’ 첫 상용화 매일경제."
+      "삼성 ‘원스톱’- SK ‘TSMC 동맹’…HBM4E 이후 승부처는 ‘발열과 양산’ 뉴스퀘스트."
     ],
     "chips": [
-      "#AI",
-      "#엔비디아"
+      "#반도체"
     ]
   },
   {
     "id": "n43b5fcba",
     "category": "IT",
     "source": "비즈니스포스트",
-    "time": "9시간 전",
+    "time": "10시간 전",
     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1wUkc0bzBYOGtYWGJBN2VzU3k5WS1adlRmRjdnR1oyQ2hrMzZCQ2VZVU5xQUVnZkRxT2g3bU1BbThNNGEtZEdwWnJwa05VNEt2aXRzU28zODlqN0c2eUtJWnpTZzdwOXVxaWEydnU4eG9MNDA?oc=5",
     "title": "엔비디아 AI 서버에 'D램과 HBM 원가 30%' 분석, 메모리 수요 줄이는 기술 발전 자극",
     "summary": [
@@ -36,7 +35,7 @@ window.NEWS_DB = [
     "id": "n20b176ea",
     "category": "IT",
     "source": "연합뉴스",
-    "time": "12시간 전",
+    "time": "13시간 전",
     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0zaDRKTTBVdVlfMWdnQ0VRaEV4bUNXWU9JbXRnVndwTDJoVUg3bzFqTTloLWFRWGNqYVpSX21QYjE1X3g5bTZqV2ozWU85MGJVMGdiN19aMzhXQ1XSAWBBVV95cUxQTm9YQ2V1blJWakowbE5Ra2hPRU1NRUN3SFAtRVkzSWpxTC1iemFEMnA4SU1yWTBzNUJ4YUJETzc2ZlNTcTl3ejgzYlVQRVBWcWp5YU5pV0doTTVQMXI0TE8?oc=5",
     "title": "뉴욕증시, 반도체·AI주 약세에 혼조 마감…엔비디아 7일째 하락(종합)",
     "summary": [
@@ -49,14 +48,29 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n22d6640a",
+    "id": "n931badf7",
     "category": "IT",
-    "source": "파이낸셜뉴스",
-    "time": "1일 전",
-    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE54TkJWVlV2RG9RdU5vaXJMVjNYYm9ralZiUDE1MGppQURUYmNYcktaZFgwYTZTWUlweHZ5RGZlYkFlNzNUUDZGVjczbTRaOXlYdXlQY3FXZDRYdw?oc=5",
-    "title": "삼성 '연산' vs SK '20단 적층'… 차세대 HBM 승부처는 '설계·패키징'",
+    "source": "뉴스핌",
+    "time": "17시간 전",
+    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1YRHJiQkwzbXNOa3RqRENBY2RURHNXcF8xQTFWeTRwWGNJOEctRUEwNDBNTFFrZkRsajY5Tl80RXZLWjBBenFtSTQ0OTM5amlONVowSVBBNFdxTDBx?oc=5",
+    "title": "[미국 특징주] 엔비디아의 반도체 시장에 바짝 다가서는 우군과 적군들",
     "summary": [
-      "삼성 '연산' vs SK '20단 적층'… 차세대 HBM 승부처는 '설계·패키징' 파이낸셜뉴스."
+      "[미국 특징주] 엔비디아의 반도체 시장에 바짝 다가서는 우군과 적군들 뉴스핌."
+    ],
+    "chips": [
+      "#반도체",
+      "#엔비디아"
+    ]
+  },
+  {
+    "id": "n4efaa9f1",
+    "category": "IT",
+    "source": "v.daum.net",
+    "time": "1일 전",
+    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9SUi1aT25OZi1TM2pJbDFWRjQ5MlBmc0hRa3hvY19aazZPSjlHODdIdVRxazBnTzF5ME1lZkJnaWg1ZTZpMTU2Y2RaZw?oc=5",
+    "title": "삼성은 '두뇌' 키우고, SK는 초고적층 쌓는다…HBM 승부처 '설계·패키징'으로",
+    "summary": [
+      "삼성은 '두뇌' 키우고, SK는 초고적층 쌓는다…HBM 승부처 '설계·패키징'으로 v.daum.net."
     ],
     "chips": [
       "#반도체"
@@ -71,20 +85,6 @@ window.NEWS_DB = [
     "title": "‘HBM 묶어 파는’ 삼성 파운드리, TSMC 틈새 뚫고 흑자 시동",
     "summary": [
       "‘HBM 묶어 파는’ 삼성 파운드리, TSMC 틈새 뚫고 흑자 시동 IT조선."
-    ],
-    "chips": [
-      "#반도체"
-    ]
-  },
-  {
-    "id": "nd9e5e761",
-    "category": "IT",
-    "source": "자본시장뉴스",
-    "time": "4일 전",
-    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1QYUdZQnA5Y2lNeXFNdXhhRFh4bE0zSTV0QWNZSXNZRWs0VXZtYnRxMjhmX0R4ekQtbDJIUTNuN01LM3EtMlI1blRxNU0yZzFkbEdEbFhnRVp0eDMtdDB1aGwyRGFWUnM?oc=5",
-    "title": "[반도체 패권 지도 ④] HBM 79% 쥔 한국…파운드리는 7%에 묶여 있다",
-    "summary": [
-      "[반도체 패권 지도 ④] HBM 79% 쥔 한국…파운드리는 7%에 묶여 있다 자본시장뉴스."
     ],
     "chips": [
       "#반도체"
@@ -147,20 +147,6 @@ window.NEWS_DB = [
     ],
     "chips": [
       "#취업"
-    ]
-  },
-  {
-    "id": "n671bb698",
-    "category": "스포츠",
-    "source": "네이트",
-    "time": "19일 전",
-    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9KdGQtY1VveGFTcU1fcVUxX2t3WFptYmE0TVBWWTFqdGVJZFZpb3RURWp1NHRHdGZWNmdWTFNJWVRlUTR4aTFlYWYzcks2RDhvWWNBT1htbm1xeVZ0TGR1Vw?oc=5",
-    "title": "KBO, 연이은 폭염에 프로야구 대책 논의",
-    "summary": [
-      "KBO, 연이은 폭염에 프로야구 대책 논의 네이트."
-    ],
-    "chips": [
-      "#KBO"
     ]
   },
   {
@@ -293,6 +279,20 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n783ebe44",
+    "category": "스포츠",
+    "source": "테크M",
+    "time": "146일 전",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4zeE1CWFFHZzZrMjhfLXJoWERMeW9jVzI5eF91RWV1NUxXelFvT1U5YWpyRjZaQ1NqclNTR1hoRWEwYl9qQmc4WTh5Q29TSWROU3ptQ1ZmXy1rajBVczZ1T1A0RXZ0UdIBakFVX3lxTE4tUUs3ak9IVFI3ZEtUQmg5NUpZbWRwdUN5OEFTU2JqaWN4WWJzMVJVc0pLU1U0UzVZTkRKMlRZSUIyNmhPVjVWMzBTVGxocHc2VUdVZl9rRWdUaXVxTjFSdUpzTzFPdEZHdnc?oc=5",
+    "title": "'야구·축구·골프'로 갈라진 국내 OTT...스포츠 팬덤 경쟁 격화",
+    "summary": [
+      "'야구·축구·골프'로 갈라진 국내 OTT...스포츠 팬덤 경쟁 격화 테크M."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
     "id": "n4a365471",
     "category": "스포츠",
     "source": "v.daum.net",
@@ -374,250 +374,255 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "ne5c7e338",
+    "id": "n6e0a5000",
     "category": "사회",
     "source": "뉴시스",
-    "time": "5분 전",
-    "url": "https://www.newsis.com/view/NISX20260825_0003762065",
-    "title": "[창녕소식]우포늪, 생태관광지역 4회 연속 재지정 등",
+    "time": "1분 전",
+    "url": "https://www.newsis.com/view/NISX20260825_0003761726",
+    "title": "장항준, 영화계 소문 인정…\"스태프에 말 안 하고 혼자 맛집行\"",
     "summary": [
-      "[창녕=뉴시스] 안지율 기자 = 경남 창녕군은 우포늪이 기후에너지환경부의 제10차 생태관광지역 운영평가에서 4회 연속 생태관광지역으로 재지정됐다고 25일 밝혔다.",
-      "생태관광지역 지정 제도는 2013년부터 자연환경·문화 보전과 관광을 통해 지역경제 활성화를 도모하기 위해 운영되고 있다.",
-      "우포늪은 2013년 첫 지정 이후 2017년, 2020년, 2023년에 이어 이번에도 재지정되며 국내 대표 생태관광지로서 위상을 다시 확인했다."
+      "[서울=뉴시스]전재경 기자 = 영화감독 장항준이 자신만의 '맛집 사수법'을 공개한다.",
+      "25일 오후 10시30분 방송되는 SBS Plus '시간추적자 설록' 7회에서는 '미식의 제국'을 주제로 음식과 식탁에 얽힌 역사를 살펴본다.",
+      "배우 조재윤, 역사교육과 교수 홍용진, 맛 칼럼니스트이자 셰프 박찬일이 스페셜 게스트로 출연한다."
     ],
     "chips": [
-      "#환경"
+      "#교육"
     ]
   },
   {
-    "id": "n618fd35f",
+    "id": "na21c5dcc",
     "category": "사회",
-    "source": "뉴시스",
-    "time": "6분 전",
-    "url": "https://www.newsis.com/view/NISX20260825_0003762359",
-    "title": "\"고생한 경찰관 많아, 비난 멈춰주길\"…장미란씨 유가족의 당부",
+    "source": "동아일보",
+    "time": "4분 전",
+    "url": "https://www.donga.com/news/Politics/article/all/20260825/134541686/1",
+    "title": "“오세훈·한동훈·이준석·유승민 모여 反李-反張 세력 꾸려야” [황형준의 법정모독]",
     "summary": [
-      "[서울=뉴시스] 김종민 기자 = 실종된 지 3개월 만에 숨진 상태로 발견된 장미란 씨(37)의 유가족이 현장에서 수색 작업을 벌인 경찰과 해변경비대(해경) 등에 고마움을 표하며 일각에서 제기되는 경찰을 향한 비난을 거두어 달라고 당부했다.",
-      "뉴스1에 따르면, 장 씨의 사촌 동생으로 알려진 A 씨는 24일 자신의 사회관계망서비스(SNS)를 통해 \"그동안 저희 가족과 함께 마음 졸이며 언니를 찾아주신 모든 분들께 깊이 감사드립니다\"라고 게시글을 올렸."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n2643aa94",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "8분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260825169600054",
-    "title": "박지원 \"김대중노벨상기념관, 폐관 일보 직전…관심 가져야\"",
-    "summary": [
-      "(목포=연합뉴스) 형민우 기자 = 더불어민주당 박지원 의원이 김대중노벨평화상기념관이 비가 새면서 폐관 위기에 놓였다며 정부 차원의 지원을 요구하..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n028734da",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "8분 전",
-    "url": "https://www.chosun.com/entertainments/movie/2026/08/25/MEZWMZJTGMYDMNTCGQZTIZBXMM/",
-    "title": "[SC이슈] 이창동 감독 '가능한 사랑' 韓영화 국가대표로 美아카데미 국제장편영화상 도전",
-    "summary": [
-      "[스포츠조선 조지영 기자] 넷플릭스 영화 '가능한 사랑'(이창동 감독, 파인하우스필름·어나니머스 콘텐츠·나우필름 제작)이 한국을 대표하는 올해의 영화로 선정, 내년 열리는 제99회 미국 아카데미 시상식 국제장편영화 부문에 도전한다.",
-      "영화진흥위원회(이하 영진위)는 25일 \"'가능한 사랑'을 미국 아카데미 시상식 국제장편영화 부문에 출품할 올해 한국 영화 대표."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n30b30a50",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "9분 전",
-    "url": "https://www.newsis.com/view/NISX20260825_0003762355",
-    "title": "지드래곤·저스피스재단, 빅뱅 20주년 공연에 유공자 후손 초청",
-    "summary": [
-      "[서울=뉴시스]이재훈 기자 = 그룹 '빅뱅' 리더 겸 솔로 가수 지드래곤(G-DRAGON·권지용)과 저스피스재단이 사회적 헌신에 대한 감사의 뜻을 전하는 자리를 마련했다.",
-      "25일 소속사 갤럭시코퍼레이션과 저스피스재단에 따르면, 재단은 최근 열린 빅뱅 20주년 월드투어 공연에 독립유공자 후손, 6·25참전유공자 후손, 교정공무원을 초청했다.",
-      "이번 초청은 저스피스재단 명예이사장인 지드래곤이 사비로 구입해 기부한 티켓을 통해 이뤄졌다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nf88a725a",
-    "category": "사회",
-    "source": "한국경제",
-    "time": "10분 전",
-    "url": "https://www.hankyung.com/article/2026082523717",
-    "title": "\"외부서 선거망 침투 가능\"…尹 재판서 나온 증언",
-    "summary": [
-      "\"외부서 선거망 침투 가능\"…尹 재판서 나온 증언."
+      "동아일보 정치 라이브 ＜법정모독＞- 일시: 화·목요일 오전 10~11시- 토크: 김근식 경남대 교수, 김철근 전 개혁신당 사무총장- 진행·연출: 김형민 김수은 - 동아일보 유튜브 : https://www.youtube.com/@donga-ilbo 국민의힘 내부에서 중진들을 중심으로 장동혁 대표의 ‘징계 정치’에 대한 반발이 일고 있는 가운데, 보수 재건을 위해선 오세훈 서울시장, 무소속 한동훈 의원, 개혁신당 이준석 대표, 유승민 전 의원 등."
     ],
     "chips": [
       "#정치"
     ]
   },
   {
-    "id": "na046db96",
-    "category": "스포츠",
-    "source": "동아일보",
-    "time": "11분 전",
-    "url": "https://www.donga.com/news/Sports/article/all/20260825/134540317/1",
-    "title": "LoL부터 포켓몬·뿌요뿌요까지…金 11개 걸린 아시안게임 e스포츠",
-    "summary": [
-      "내달 2026 아이치-나고야 아시안게임에 출전하는 한국 e스포츠 선수단이 25일 서울 마포구 상암 큐브컨벤션센터에서 열린 출정식에서 선전을 다짐했다.e스포츠는 처음 정식 종목으로 채택된 2023년 항저우 대회에 이어 이번 대회에서도 정식 종목으로 치러진다.",
-      "금메달 개수도 7개에서 11개로 늘었다.",
-      "한국은 11개 종목 9개 종목에 선수 36명이 출전한다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n62636797",
-    "category": "부동산",
-    "source": "아시아경제",
-    "time": "11분 전",
-    "url": "https://view.asiae.co.kr/article/2026082519093312704",
-    "title": "성남시, 임대주택 비율 12%→10% 추진…원도심 재개발 ‘숨통’",
-    "summary": [
-      "경기 성남시 원도심(수정·중원구) 재개발 사업장에 마침내 숨통이 트일 전망이다.",
-      "성남시가 재개발 사업의 임대주택 의무 건설비율을 기존 12%에서 10%로 2%포인트 인하하는 방안을 추진하기로 했다.",
-      "원자재 가격과 인건비가 급등하면서 전국의 재개발 현장이 사업성 악화로 어려움을 겪는 가운데 지방자치단체가 직접 규제를 완화해 사업 여건 개선에 나선 것이다."
-    ],
-    "chips": [
-      "#재건축",
-      "#정책"
-    ]
-  },
-  {
-    "id": "nc2bcec67",
-    "category": "경제",
-    "source": "아시아경제",
-    "time": "11분 전",
-    "url": "https://view.asiae.co.kr/article/2026082518555551322",
-    "title": "한국형발사체 ‘누리호 5차’ 발사 승인… 10월 하순 예정",
-    "summary": [
-      "한국형발사체 누리호 5차 발사가 승인됐다.",
-      "누리호 5차 발사는 오는 10월 하순 진행될 것으로 보인다.",
-      "우주항공청은 조만간 발사위원회를 열고 최종 발사 날짜를 확정할 계획이다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n13d5dc5d",
+    "id": "nc2314f97",
     "category": "사회",
     "source": "뉴시스",
-    "time": "13분 전",
-    "url": "https://www.newsis.com/view/NISX20260825_0003761898",
-    "title": "[속보]경찰 수사심의위, '김병기 의혹' 1개월 내 신속 수사 지시",
-    "summary": [],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n5d515392",
-    "category": "경제",
-    "source": "아시아경제",
-    "time": "13분 전",
-    "url": "https://view.asiae.co.kr/article/2026082518165053417",
-    "title": "공정위 '현장 조사' 거부한 쿠팡… 법원에 '직권조사 결정' 취소 소송",
+    "time": "5분 전",
+    "url": "https://www.newsis.com/view/NISX20260825_0003762384",
+    "title": "\"자살로부터 1명 지키는 예산 226만원…교통안전 240분의 1\"",
     "summary": [
-      "공정거래위원회가 쿠팡의 대규모유통업법 위반 등의 혐의를 확인하기 위해 현장 조사에 나섰다가 쿠팡 측의 거부로 철수한 것으로 확인됐다.",
-      "쿠팡은 공정위의 직권조사 결정을 취소해달라는 소송을 법원에 제기했다.",
-      "25일 업계에 따르면 공정위는 최근 쿠팡이 가격 맞춤형 쿠폰 비용을 납품 업체에 떠넘겼다는 의혹 등을 확인하기 위해 19일부터 28일까지 현장 조사에 나설 예정이었다."
+      "[서울=뉴시스] 구무서 기자 = 자살이 사회적 문제 중 하나로 대두됐지만 관련 예산이 심각성에 비해 매우 적다는 지적이 나왔다.",
+      "25일 국회 보건복지위원회 소속 김교흥 더불어민주당 의원에 따르면 2025년 자살 사망자는 1만3900명으로 교통 사고 사망자 2549명의 5.4배, 산업재해 사망자 605명의 23배에 달한다.",
+      "반면 전담기관 결산을 보면 생명존중희망재단 312억원, 교통안전공단·도로교통공단 1조3800억원, 산업안전보건공단 1조469."
     ],
     "chips": [
-      "#뉴스"
+      "#정치",
+      "#의료"
     ]
   },
   {
-    "id": "n856436a4",
+    "id": "n1f1f366a",
+    "category": "IT",
+    "source": "조선일보",
+    "time": "5분 전",
+    "url": "https://www.chosun.com/national/national_general/2026/08/25/SEYBLCWGYZHNJB6EXXL4DV3W3I/",
+    "title": "연세대 “AI로 입법부·행정부의 투명성 높일 것”",
+    "summary": [
+      "연세대 “AI로 입법부·행정부의 투명성 높일 것”."
+    ],
+    "chips": [
+      "#AI"
+    ]
+  },
+  {
+    "id": "n2653143b",
     "category": "사회",
-    "source": "연합뉴스",
-    "time": "13분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260825169500004",
-    "title": "[속보] 서울청 수사심의위 \"김병기사건 1개월 이내 신속처리\" 지시",
-    "summary": [],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nf228c5f0",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "14분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260825165600083",
-    "title": "中매체 \"샤오미 최신 프로세서에 CXMT LPDDR6 탑재할 것\"",
+    "source": "동아일보",
+    "time": "6분 전",
+    "url": "https://www.donga.com/news/Society/article/all/20260825/134540393/1",
+    "title": "대면 확인도, 재처리도 경찰 말 한마디에 ‘끝’ … 부실 대응-허위 종결 드러나",
     "summary": [
-      "(베이징=연합뉴스) 정성조 특파원 = 중국 샤오미가 발표한 최신 프로세서 'XRING(중국명 쉬안제&lt;玄戒&gt;) O3'에 중국 최대 D램..."
+      "제주에서 실종됐던 장미란 씨(37)로 추정되는 시신과 60대 남성의 주검이 잇따라 발견된 사건과 관련해 최초 신고 접수와 재신고 처리는 물론 이후 의혹을 규명하는 과정에서조차 경찰의 부실이 겹겹이 드러났다.",
+      "대면 확인은커녕 담당 경찰관 한 명의 말 한마디로 사건이 끝났지만 지휘라인은 석 달 넘게 아무것도 몰랐다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "nf44064de",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "15분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260825169100009",
-    "title": "美, 저인망식 이란 왕따작전…개인송금·학술·체육 교류도 차단",
+    "id": "n4ac20b47",
+    "category": "IT",
+    "source": "동아일보",
+    "time": "6분 전",
+    "url": "https://www.donga.com/news/Economy/article/all/20260825/134543153/2",
+    "title": "‘자율주행모빌리티산업전’ 코엑스서 개막…“AI로 진화하는 자율주행의 미래”",
     "summary": [
-      "(서울=연합뉴스) 오수진 기자 = 미국이 이란의 경제적 숨통을 끊겠다며 24일(현지시간) 발표한 새로운 대(對)이란 경제 제재에는 개인 간 송금..."
+      "자율주행 기술이 연구개발 단계를 넘어 상용화 시험대에 올랐다.",
+      "로보셔틀과 자율주행 트럭, 대규모 주행 데이터까지 실제 도로 검증을 마친 기술들이 한자리에 모였다.",
+      "코엑스와 한국자율주행산업협회, 한국무역협회, 한국중견기업연합회가 공동 주최하는 ‘2026 자율주행모빌리티산업전(AME 2026)’이 25일 서울 강남구 삼성동 코엑스 B홀에서 사흘간의 공식 일정에 돌입했다.올해 3회째를 맞은 AME는 같은 기간 코엑스에서 열리는 ‘EV 트렌드 코리아’."
     ],
     "chips": [
-      "#뉴스"
+      "#AI",
+      "#수출"
     ]
   },
   {
-    "id": "n8aa413e8",
-    "category": "경제",
-    "source": "아시아경제",
-    "time": "18분 전",
-    "url": "https://view.asiae.co.kr/article/2026082519023276856",
-    "title": "공정위, '납품업체 갑질 의혹' 쿠팡 현장조사 무산…대규모유통업법 시행 이후 처음",
-    "summary": [
-      "공정거래위원회가 쿠팡의 대규모유통업법 위반 혐의를 확인하기 위해 착수한 현장조사가 피조사 기업인 쿠팡의 전면 거부로 무산됐다.",
-      "대규모유통업법 시행 이래 기업이 절차상 법 조항을 문제 삼아 공정위의 현장조사 착수 자체를 거부하고 철수시킨 것은 이번이 처음이다.25일 유통업계와 공정위 등에 따르면 공정위는 지난 19일부터 10일간(19~28일) 일정으로 쿠팡에 대한 현장조사에 착수했으나 쿠팡의 완강한 거부에 부딪혀 나."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n600de931",
+    "id": "n88289b7f",
     "category": "스포츠",
-    "source": "한국경제",
-    "time": "20분 전",
-    "url": "https://www.hankyung.com/article/2026082522531",
-    "title": "경기도만의 문제 아니다…전국 지자체 덮친 '취득세 쇼크'",
+    "source": "뉴시스",
+    "time": "8분 전",
+    "url": "https://www.newsis.com/view/NISX20260825_0003762376",
+    "title": "'배구 전설' 김연경, 亞배구연맹 선수위원장 임명…홍보대사 겸임",
     "summary": [
-      "경기도만의 문제 아니다…전국 지자체 덮친 '취득세 쇼크'."
+      "[서울=뉴시스]문채현 기자 = 한국 배구의 전설 김연경이 아시아배구연맹(AVC) 선수위원장 겸 홍보대사로 활약할 예정이다.",
+      "AVC는 지난 24일 \"아시아 배구의 아이콘이자 최근 AVC 이사회 구성원으로 선임된 김연경이 AVC 선수위원회 위원장과 홍보대사를 맡는다\"고 발표했다.",
+      "AVC는 김연경에 대해 \"아시아에서 가장 뛰어난 경력을 쌓은 영향력 있는 선수 중 한 명\"이라고 소개하며, \"그는 선수들의 목소리를 강화하고 아시아 전역의 배구 발전을 도."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "nb79b7c16",
-    "category": "경제",
-    "source": "한국경제",
-    "time": "20분 전",
-    "url": "https://www.hankyung.com/article/202608251232g",
-    "title": "\"무알코올 와인 한 잔\"…강남 직장인들 달라진 점심 풍경 [트렌드+]",
+    "id": "nc01f5a3f",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "9분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260825172900073",
+    "title": "\"日정부, 호르무즈 해협 우회 원유 수송로 건설 지원\"",
     "summary": [
-      "\"무알코올 와인 한 잔\"…강남 직장인들 달라진 점심 풍경 [트렌드+]."
+      "(도쿄=연합뉴스) 조성미 특파원 = 일본 정부가 석유 수송의 안정성을 확보하기 위해 호르무즈 해협을 우회하는 원유 조달 파이프라인의 건설을 지원..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n741528f6",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "10분 전",
+    "url": "https://www.newsis.com/view/NISX20260825_0003762368",
+    "title": "유럽인권재판소 \"튀르키예 법원의 정치적 반대자·인권운동가 등 구속, 문제\"",
+    "summary": [
+      "[이스탄불(튀르키예)=AP/뉴시스] 유세진 기자 = 유럽인권재판소(ECHR)는 25일 튀르키예의 저명한 자선가 오스만 카발라의 수감과 관련해 튀르키예 법원을 비판하며, 이 사건이 정치적 반대자, 인권운동가, 언론인들의 구금과 기소로 특징지어지는 '체계적인문제'를 드러냈다고 지적했다.",
+      "평화와 대화를 촉진하는 비영리 단체의 창립자인 68세 카발라는 2013년 시위와 2016년 쿠데타 시도와 관련된 혐의로 2022년 가석방 없는 종신형을 선고받았다."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n8e53847b",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "10분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260825173100505",
+    "title": "[부고] 이주영(내일신문 국제팀 기자)씨 모친상",
+    "summary": [
+      "[부고] 이주영(내일신문 국제팀 기자)씨 모친상."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n7c04bdde",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "16분 전",
+    "url": "https://www.chosun.com/economy/economy_general/2026/08/25/HE2DQYRSMMZWKMTCGVQTSMBTMQ/",
+    "title": "與 지도부 만난 李 “다른 점만 찾다보면 원수의 길”",
+    "summary": [
+      "이재명 대통령이 25일 더불어민주당 신임 지도부를 청와대로 초청해 만찬을 함께 했다.",
+      "지난 19일 김민석 대표와 당권을 겨뤘던 정청래·송영길 의원과 저녁 식사를 한 지 엿새 만이다.",
+      "민주당이 8·17 전당대회 과정에서 ‘친명 vs 친청’ 구도로 분열하고, 경선 이후에도 지지자 간 갈등이 봉합되지 않는 국면을 수습하기 위한 행보다."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n51f63645",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "16분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260825153700004",
+    "title": "[날씨] 내일 수도권·강원 소나기…낮 최고 36도 무더위",
+    "summary": [
+      "(서울=연합뉴스) 전재훈 기자 = 수요일인 26일은 수도권과 강원 내륙·산지·북부 동해안을 중심으로 비 소식이 있겠다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n82dc8140",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "17분 전",
+    "url": "https://www.donga.com/news/Society/article/all/20260825/134543201/1",
+    "title": "11개월 끈 김병기 수사…수사심의위 “한달내 결론내라” 지시",
+    "summary": [
+      "더불어민주당을 탈당해 무소속이 된 김병기 의원을 둘러싼 13개 의혹에 대한 경찰 수사가 11개월째 이어지는 상황에서 서울경찰청 경찰수사심의위원회가 수사팀에 한 달 안에 사건을 처리하라고 지시했다.",
+      "김 의원에 대한 마지막 조사가 이뤄진 뒤에도 4개월 넘게 신병 처리와 송치 여부가 결정되지 않자 외부 위원들로 구성된 수사심의위가 조속한 결론을 주문한 것이다.서울경찰청 수사심의위는 25일 오후 3시부터 정기회의를 열고 김 의원 관련 사건 2건의 수사."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n581533b6",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "18분 전",
+    "url": "https://www.chosun.com/entertainments/broadcast/2026/08/25/MVSTOYTBGNRTSOBWGAYWCZJZGI/",
+    "title": "정선희, 치아 교정 고백..\"의사가 도전하고 싶은 치열 만났다고\" ('롤링썬더')",
+    "summary": [
+      "영상 시청 후 작성된 리뷰 기사입니다.[OSEN=최지연 기자] 방송인 정선희가 치아 교정을 했다고 밝혔다.",
+      "25일 유튜브 채널 '롤링썬더'에는 '“잘 버텨줘서 고마워” 웃음 뒤에 숨겨둔 언니들의 진짜 이야기 (동물농장 썰, 명수 짝사랑 정리, 은인 이경실)ㅣ 신여성 EP.31'라는 제목의 영상이 게재됐다.",
+      "이날 정선희는 이선민 옆에 자신이 앉는 것을 걱정했."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n25bf877e",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "23분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260825172800065",
+    "title": "[부고] 남운하(전 인천항만공사 재난안전실장)씨 별세",
+    "summary": [
+      "[부고] 남운하(전 인천항만공사 재난안전실장)씨 별세."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nb2d5dbcc",
+    "category": "부동산",
+    "source": "연합뉴스(경제)",
+    "time": "31분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260825084351002",
+    "title": "200억대 주택 사서 사주일가 거주…소노그룹 세무조사(종합)",
+    "summary": [
+      "(세종=연합뉴스) 이대희 기자 = 국세청이 '황제사택'과 관련해 총 1조9천억원대 탈루 혐의를 포착하고 세무조사에 나섰다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n4d6bd29e",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "33분 전",
+    "url": "https://www.chosun.com/politics/politics_general/2026/08/25/KEXWODIZIJFINETTM2EVNRLW3E/",
+    "title": "李, 與지도부 만나 “쌍둥이도 다르다, 다른 점만 찾으면 원수의 길로”",
+    "summary": [
+      "李, 與지도부 만나 “쌍둥이도 다르다, 다른 점만 찾으면 원수의 길로”."
     ],
     "chips": [
       "#뉴스"
@@ -630,20 +635,20 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2850건",
-    "trend": "+335%"
+    "mentions": "2330건",
+    "trend": "+255%"
   },
   {
     "rank": 2,
     "tag": "AI",
-    "mentions": "1810건",
-    "trend": "+175%"
+    "mentions": "1940건",
+    "trend": "+195%"
   },
   {
     "rank": 3,
     "tag": "반도체",
-    "mentions": "1680건",
-    "trend": "+155%"
+    "mentions": "1810건",
+    "trend": "+175%"
   }
 ];
 // ====AUTO-GENERATED-END====
