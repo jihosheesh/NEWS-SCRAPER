@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-08-25 04:29:12
+// 마지막 업데이트: 2026-08-25 05:22:56
 window.NEWS_DB = [
   {
     "id": "n43b5fcba",
     "category": "IT",
     "source": "비즈니스포스트",
-    "time": "3시간 전",
+    "time": "4시간 전",
     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1wUkc0bzBYOGtYWGJBN2VzU3k5WS1adlRmRjdnR1oyQ2hrMzZCQ2VZVU5xQUVnZkRxT2g3bU1BbThNNGEtZEdwWnJwa05VNEt2aXRzU28zODlqN0c2eUtJWnpTZzdwOXVxaWEydnU4eG9MNDA?oc=5",
     "title": "엔비디아 AI 서버에 'D램과 HBM 원가 30%' 분석, 메모리 수요 줄이는 기술 발전 자극",
     "summary": [
@@ -21,7 +21,7 @@ window.NEWS_DB = [
     "id": "n20b176ea",
     "category": "IT",
     "source": "연합뉴스",
-    "time": "6시간 전",
+    "time": "7시간 전",
     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0zaDRKTTBVdVlfMWdnQ0VRaEV4bUNXWU9JbXRnVndwTDJoVUg3bzFqTTloLWFRWGNqYVpSX21QYjE1X3g5bTZqV2ozWU85MGJVMGdiN19aMzhXQ1XSAWBBVV95cUxQTm9YQ2V1blJWakowbE5Ra2hPRU1NRUN3SFAtRVkzSWpxTC1iemFEMnA4SU1yWTBzNUJ4YUJETzc2ZlNTcTl3ejgzYlVQRVBWcWp5YU5pV0doTTVQMXI0TE8?oc=5",
     "title": "뉴욕증시, 반도체·AI주 약세에 혼조 마감…엔비디아 7일째 하락(종합)",
     "summary": [
@@ -37,7 +37,7 @@ window.NEWS_DB = [
     "id": "n931badf7",
     "category": "IT",
     "source": "뉴스핌",
-    "time": "10시간 전",
+    "time": "11시간 전",
     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1YRHJiQkwzbXNOa3RqRENBY2RURHNXcF8xQTFWeTRwWGNJOEctRUEwNDBNTFFrZkRsajY5Tl80RXZLWjBBenFtSTQ0OTM5amlONVowSVBBNFdxTDBx?oc=5",
     "title": "[미국 특징주] 엔비디아의 반도체 시장에 바짝 다가서는 우군과 적군들",
     "summary": [
@@ -52,7 +52,7 @@ window.NEWS_DB = [
     "id": "n4efaa9f1",
     "category": "IT",
     "source": "v.daum.net",
-    "time": "20시간 전",
+    "time": "21시간 전",
     "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9SUi1aT25OZi1TM2pJbDFWRjQ5MlBmc0hRa3hvY19aazZPSjlHODdIdVRxazBnTzF5ME1lZkJnaWg1ZTZpMTU2Y2RaZw?oc=5",
     "title": "삼성은 '두뇌' 키우고, SK는 초고적층 쌓는다…HBM 승부처 '설계·패키징'으로",
     "summary": [
@@ -147,20 +147,6 @@ window.NEWS_DB = [
     ],
     "chips": [
       "#취업"
-    ]
-  },
-  {
-    "id": "n671bb698",
-    "category": "스포츠",
-    "source": "네이트",
-    "time": "18일 전",
-    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9KdGQtY1VveGFTcU1fcVUxX2t3WFptYmE0TVBWWTFqdGVJZFZpb3RURWp1NHRHdGZWNmdWTFNJWVRlUTR4aTFlYWYzcks2RDhvWWNBT1htbm1xeVZ0TGR1Vw?oc=5",
-    "title": "KBO, 연이은 폭염에 프로야구 대책 논의",
-    "summary": [
-      "KBO, 연이은 폭염에 프로야구 대책 논의 네이트."
-    ],
-    "chips": [
-      "#KBO"
     ]
   },
   {
@@ -264,32 +250,33 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nba668fc0",
-    "category": "IT",
-    "source": "한국방송뉴스",
-    "time": "117일 전",
-    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1XaThhZXFiX3dDT0NrYVFwZ2dhNTgxbHU0WE5Bc21vcGVzR0d2Wkh2Zm5pS2MyZ1JkYlhHb2VfRkhkemdEX1F6Q1RtajJLRzR6dDdHcExQelAyS2N1OUE?oc=5",
-    "title": "1조 8000억 규모 벤처펀드 선정…\"벤처·스타트업에 적시 공급\"",
-    "summary": [
-      "1조 8000억 규모 벤처펀드 선정…\"벤처·스타트업에 적시 공급\" 한국방송뉴스."
-    ],
-    "chips": [
-      "#스타트업"
-    ]
-  },
-  {
-    "id": "n08b2b275",
+    "id": "n5a1617c5",
     "category": "부동산",
-    "source": "한국부동산뉴스",
-    "time": "132일 전",
-    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBZNmg3TVp4ZWZCV1ZzTE14bXV5UkN4MExnMmZJdkpfNUsyUGltRWlJVWVfUzJoQktRUlcwMTdrUUtuWk9pR2MxaFlhNGpOU0xGZjM3eDUwdlNmRWQtYkFaenAyekhVRGRRY0pJ?oc=5",
-    "title": "대출 규제에 몰린 '15억 이하'…비강남 집값·분양가 동반 상승",
+    "source": "헤럴드경제",
+    "time": "104일 전",
+    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1TS2Q2aDJMQXUtYUMtcmZTZkUtNXVycDVXUTFSYk1oeTg4TXNFTXQxN3RtcGVlRUJxMWlMWXk0c05lRFFvemxzYk0wa1hsZXMwbm1hVWtn?oc=5",
+    "title": "집값 상승, 전세품귀에…서울, 분양전망 1달 만에 기준치 회복 [부동산360]",
     "summary": [
-      "대출 규제에 몰린 '15억 이하'…비강남 집값·분양가 동반 상승 한국부동산뉴스."
+      "집값 상승, 전세품귀에…서울, 분양전망 1달 만에 기준치 회복 [부동산360] 헤럴드경제."
     ],
     "chips": [
       "#부동산",
-      "#정책"
+      "#전세"
+    ]
+  },
+  {
+    "id": "n80dc1407",
+    "category": "스포츠",
+    "source": "중앙일보",
+    "time": "167일 전",
+    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1kSmhBTDdKY1NsbWktSU80SFYtRWN3VGpnQjRNeEpaNF9LZVo0ZS1wb19tbkZxQUJMOU1NYjVTdVpPLW9aMW9hN0ZRQXVWY3hjQl81MG1R?oc=5",
+    "title": "축구는 손흥민, 야구는 이정후…대표팀 주장의 품격",
+    "summary": [
+      "축구는 손흥민, 야구는 이정후…대표팀 주장의 품격 중앙일보."
+    ],
+    "chips": [
+      "#손흥민",
+      "#KBO"
     ]
   },
   {
@@ -304,6 +291,20 @@ window.NEWS_DB = [
     ],
     "chips": [
       "#KBO"
+    ]
+  },
+  {
+    "id": "nbc27bc5a",
+    "category": "IT",
+    "source": "연합뉴스",
+    "time": "180일 전",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5UNnlsSTY5eHFYNEZ6ZktBM216dFF6Q0J5Z1NVYm56M3A2TUFNMDM0U081NTNsZVNJTy1MWklmVGc0cEdLVk5NRHFiTWtHbmx2b2ItSkVEV1A2ZFnSAWBBVV95cUxOV3Z3V2F3aWJvV3dDNDc4OXpfRmpyaDgtaExGWC1ZTUxvX2M4ZVZPNC1rZHpQeUtSNXlIZjc0dHdGWTdfUXpJQXdac1lZU3Mza3NvdHVweFFNYXhmdDMyZWs?oc=5",
+    "title": "스타트업·벤처를 유니콘으로…전북도, '창업 천국' 구상 발표",
+    "summary": [
+      "스타트업·벤처를 유니콘으로…전북도, '창업 천국' 구상 발표 연합뉴스."
+    ],
+    "chips": [
+      "#스타트업"
     ]
   },
   {
@@ -370,268 +371,261 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n5e090f02",
+    "id": "nb7b9357c",
     "category": "사회",
     "source": "뉴시스",
-    "time": "1분 전",
-    "url": "https://www.newsis.com/view/NISX20260825_0003761643",
-    "title": "올해 웅치 '올벼쌀' 첫 수확…농가 123곳 '860t' 생산한다",
+    "time": "방금 전",
+    "url": "https://www.newsis.com/view/NISX20260825_0003761489",
+    "title": "[완주소식]한국생활개선완주군연합회, '2026 비전 선포식' 등",
     "summary": [
-      "[전남광주=뉴시스]구용희 기자 = 전남광주통합특별시 보성군은 최근 웅치면 유산리 박은영씨 농가에서 올해 웅치 올벼쌀을 처음 수확했다고 25일 밝혔다.",
-      "웅치면 농가들은 지난 4월 중순 올벼쌀용 찰벼 모내기에 들어갔다.",
-      "이번 첫 수확을 시작으로 내달까지 농가별로 수확을 이어간다."
+      "[완주=뉴시스] 김민수 기자 = 한국생활개선완주군연합회(회장 한숙화)가 25일 완주군문화체육센터에서 '2026 비전 선포 및 어울림 한마당'을 열고 활기찬 농촌을 만들어 갈 것을 다짐했다.",
+      "회원과 유관기관 관계자 450여 명이 참석한 가운데 '리더의 지혜로, 행복한 농촌, 미래를 여는 완주군생활개선회!'라는 슬로건을 내건 이번 행사는 진행했다.",
+      "행사는 지역 농촌 발전에 기여한 유공자들에게 표창장을 수여에 이어 핵심인 '2026 비전 선포식'을."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n9656f117",
-    "category": "스포츠",
-    "source": "뉴시스",
-    "time": "1분 전",
-    "url": "https://www.newsis.com/view/NISX20260825_0003761605",
-    "title": "\"폐교가 영화관으로\"…화성시, 제부분교서 마을영화제",
-    "summary": [
-      "[화성=뉴시스] 문영호 기자 = 폐교된 경기 화성시 제부도 서신초등학교 제부분교장에서 영화제가 열린다.",
-      "화성시는 9월5~6일 이곳에서 '제3회 화성마을영화제'를 개최한다고 25일 밝혔다.",
-      "영화제 주제는 '섬-Seeing 마을시네마'다."
-    ],
-    "chips": [
-      "#교육"
-    ]
-  },
-  {
-    "id": "ne37989ad",
+    "id": "nd66cff89",
     "category": "IT",
-    "source": "동아일보",
-    "time": "2분 전",
-    "url": "https://www.donga.com/news/Economy/article/all/20260825/134538849/1",
-    "title": "퇴임하는 팀 쿡, 애플 송별회서 동성 연인 첫 언급…“마이크도 왔다”",
-    "summary": [
-      "사생활을 거의 공개하지 않아 온 팀 쿡 애플 최고경영자(CEO)가 퇴임을 앞두고 열린 송별 행사에서 이례적으로 자신의 동성 파트너를 언급했다.",
-      "24일(현지 시간) IT 전문매체 디인포메이션에 따르면 애플은 전날 미국 캘리포니아주 쿠퍼티노 애플파크에서 쿡 CEO의 송별 행사를 열었다.",
-      "행사에서 쿡은 발언 도중 자신의 파트너가 참석했다고 밝히면서 그를 ‘마이크’라고 소개했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nd08d555b",
-    "category": "사회",
     "source": "뉴시스",
-    "time": "2분 전",
-    "url": "https://www.newsis.com/view/NISX20260825_0003760993",
-    "title": "'동종 재창업' 불인정 기간, 3년→1년 단축…의결",
+    "time": "방금 전",
+    "url": "https://www.newsis.com/view/NISX20260825_0003761761",
+    "title": "비알피커넥트, 세일즈포스 '데이터팸 서울' 참가",
     "summary": [
-      "[서울=뉴시스]송연주 기자 = 개인사업자 폐업 후 동종 업종 재창업 시 창업 불인정 기간이 기존 3년에서 1년으로 단축된다.",
-      "중소벤처기업부(중기부)는 폐업 후 동종 업종 재창업 시 창업 불인정 기간을 단축하는 '중소기업창업 지원법 시행령' 개정안이 25일 국무회의에서 의결했다고 밝혔다.",
-      "현행 법령은 '창업'을 중소기업을 새로 설립하는 것으로 정의하면서, 창업지원사업의 중복 수혜 방지를 위해 중소기업창업 지원법 시행령 2조 1항에서 창업 제외 사."
+      "[서울=뉴시스] 김경택 기자 = 바로팜 자회사 제약산업 데이터 전문기업 비알피커넥트는 지난 20일 열린 세일즈포스의 Tableau(태블로) 연례 컨퍼런스 '데이터팸 서울(DataFam Seoul) 2026'에 고객 사례 발표자로 참여해 제약산업 데이터 상품화 및 분석 플랫폼 구축 경험을 소개했다고 25일 밝혔다.",
+      "회사 측에 따르면 데이터팸 서울은 데이터·AI 분야의 최신 기술과 실제 기업 활용 사례를 공유하는 태블로의 연간 최대 규모 컨퍼런스다."
     ],
     "chips": [
-      "#스타트업"
+      "#AI"
     ]
   },
   {
-    "id": "na4fb95c1",
+    "id": "n80dd89b5",
     "category": "경제",
     "source": "뉴시스",
-    "time": "3분 전",
-    "url": "https://www.newsis.com/view/NISX20260825_0003761582",
-    "title": "\"비만약이 효자\"…'기술수출' 한미약품 다음 어디?",
+    "time": "1분 전",
+    "url": "https://www.newsis.com/view/NISX20260825_0003761757",
+    "title": "동원F&B, 내달 참치캔·음료 출고가 평균 9~10% 인상",
     "summary": [
-      "[서울=뉴시스]이소헌 기자 = 한미약품이 글로벌 빅파마 제넨텍에 비만신약 후보물질을 3조5000억원 규모로 기술수출하는 성과를 거둔 가운데, 국내 제약바이오 기업들이 개발 중인 차세대 비만치료제에 관심이 쏠린다.",
-      "25일 관련업계에 따르면 HK이노엔, 동아에스티, JW중외제약, 대웅제약 등 국내 기업들은 차세대 비만치료제 파이프라인 연구 및 개발에 몰두하고 있다.",
-      "이들은 기존 GLP-1 비만치료제보다 더 강력한 체중 감량 효과를 내거나 투여 주기."
+      "[서울=뉴시스] 이혜원 기자 = 동원F&B가 다음달 참치캔과 음료류 등 일부 제품의 출고 가격을 인상한다.",
+      "동원F&B는 다음달 1일부터 참치캔과 음료류 등 일부 제품의 가격을 평균 9~10% 인상한다고 25일 밝혔다.",
+      "제품별로는 참치캔류가 9%, 음료류가 9~10% 오를 전망이다."
     ],
     "chips": [
-      "#수출"
+      "#환율"
     ]
   },
   {
-    "id": "n38027bd3",
-    "category": "사회",
-    "source": "아시아경제",
-    "time": "4분 전",
-    "url": "https://view.asiae.co.kr/article/2026082508523311839",
-    "title": "\"여성 멘토 늘리고…신규 교사 전직·전보 예외 규정에 육아 추가\"",
+    "id": "n4071d39c",
+    "category": "경제",
+    "source": "뉴시스",
+    "time": "1분 전",
+    "url": "https://www.newsis.com/view/NISX20260825_0003761763",
+    "title": "[속보]코스피, 상승전환…6700선 웃돌아",
     "summary": [
-      "교육부는 신규 채용 교사의 경우 임용된 날부터 8년 동안 전직·전보할 수 없다고 규정하고 있다.",
-      "하지만 지난해 성별영향평가를 통해 모성보호, 육아 등을 예외 사유로 추가해 일·생활 균형을 보장했다.",
-      "지난해 성별영향평가를 통해 성별 특성을 반영한 정책 개선 이행률이 60.4%를 기록해 전년 대비 3.0%포인트 증가한 것으로 나타났다."
+      "[서울=뉴시스]송혜리 기자 = ◎공감언론 뉴시스 chewoo@newsis.com."
     ],
     "chips": [
-      "#정책",
-      "#채용",
-      "#교육"
+      "#뉴스"
     ]
   },
   {
-    "id": "nb79f1c5b",
+    "id": "n3978f9d5",
     "category": "스포츠",
     "source": "조선일보",
-    "time": "6분 전",
-    "url": "https://www.chosun.com/entertainments/movie/2026/08/25/GQ2GINZVMYYGGNTFGAZTAN3FMY/",
-    "title": "[SC현장] \"샤라웃 투 이창동!\"…'가능한 사랑' 전도연→조인성, 가능했던 사랑의 힘(종합)",
+    "time": "3분 전",
+    "url": "https://www.chosun.com/entertainments/enter_general/2026/08/25/GA3DCOJSHBRDMZRYGMZDIOJYGE/",
+    "title": "‘사랑합니다’ 팀♥아내, 40대에 둘째 임신…초음파 사진에 입맞춤 ‘울컥’",
     "summary": [
-      "[스포츠조선 조지영 기자] 최고와 최고의 만남이다.",
-      "모두가 존중하는 국내 최고의 거장 감독과 이견이 없는 명품 배우들이 사랑의 화두로 여운이 긴 농밀한 서사를 관객에게 선보이게 됐다.",
-      "25일 오전 서울 마포구에 위치한 호텔 나루 서울 엠갤러리에서 넷플릭스 영화 '가능한 사랑'(이창동 감독, 파인하우스필름·어나니머스 콘텐츠·나우필름 제작) 제작보고회가 열렸다."
+      "[스포츠조선 조민정 기자] 가수 팀이 두 아이의 아빠가 된다.",
+      "아내 김보라가 건넨 임신테스트기를 확인한 팀은 벅찬 표정으로 아내를 끌어안았고 초음파 사진에는 입을 맞추며 둘째를 향한 애정을 드러냈다.",
+      "팀의 아내는 25일 자신의 SNS에 \"덜덜덜."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n3020c9ec",
+    "id": "n66fad20f",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "3분 전",
+    "url": "https://www.donga.com/news/Economy/article/all/20260825/134538939/1",
+    "title": "배달앱 4사, 지난달 결제액 3조2787억원 역대 최대…전년比 18%↑",
+    "summary": [
+      "지난달 국내 주요 배달 플랫폼 4사의 결제 추정액이 3조2000억 원을 넘어서며 역대 최대치를 기록했다.25일 앱·리테일 분석 서비스 와이즈앱·리테일이 한국인의 신용·체크카드 결제액을 표본 조사한 결과, 올해 7월 배달의민족·쿠팡이츠·요기요·땡겨요 등 배달 플랫폼 4사의 합산 결제 추정액은 3조2787억 원으로 집계됐다.",
+      "전년 동월(2조7889억 원)보다 18% 증가한 규모다.",
+      "종전 최대였던 올해 5월 3조2004억 원도 두 달 만에 넘어섰다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n4913d1cf",
     "category": "사회",
     "source": "연합뉴스",
-    "time": "7분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260825099700083",
-    "title": "\"中정부 선박, 대만 주변 활동 3개월째 역대 최다…동부로 확대\"",
+    "time": "4분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260825113000065",
+    "title": "사행성 게임으로 돈 잃자 인근 수입차 둔기 파손…60대 체포",
     "summary": [
-      "(베이징=연합뉴스) 김현정 특파원 = 중국이 대만 주변에서 정부 선박 활동을 크게 늘리면서 대만 당국이 탐지한 월간 활동 횟수가 3개월 연속 역..."
+      "(인천=연합뉴스) 홍현기 기자 = 인천 미추홀경찰서는 둔기로 주차된 차량을 파손한 혐의(특수재물손괴)로 60대 남성 A씨를 체포해 조사하고 있다..."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n895e730e",
-    "category": "사회",
-    "source": "아시아경제",
-    "time": "9분 전",
-    "url": "https://view.asiae.co.kr/article/2026082513191828649",
-    "title": "원주시, ‘교육혁신선도지역’ 유치 총력…12개 기관 힘 모은다",
+    "id": "nfe631b93",
+    "category": "부동산",
+    "source": "연합뉴스",
+    "time": "5분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260825113200003",
+    "title": "LH, 거제 폭우 피해현장 지원…침수 주택·상가 복구",
     "summary": [
-      "강원도 원주시가 교육부의 '교육혁신선도지역' 지정을 위해 교육청과 지역 대학, 전문기관, 지역사회가 참여하는 협력체계를 구축하고 공모 대응에 나섰다.",
-      "원주시는 25일 시청 7층 회의실에서 교육혁신선도지역 공모에 공동 대응하기 위한 다자간 업무협약(MOU)을 체결했다고 밝혔다.",
-      "협약에는 원주시와 강원특별자치도교육청, 원주교육지원청을 비롯해 강원대 원주캠퍼스, 경동대 메디컬캠퍼스, 상지대, 연세대 미래캠퍼스, 한라."
+      "(세종=연합뉴스) 오진송 기자 = 한국토지주택공사(LH)는 집중호우로 침수 피해가 발생한 경남 거제시 거제면에서 피해 복구 봉사활동을 했다고 2..."
     ],
     "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nd547f79f",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "6분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260825112100061",
+    "title": "기아 노사, 부분 파업 예고일 하루 앞두고 막판 담판 돌입",
+    "summary": [
+      "(광명=연합뉴스) 김솔 기자 = 기아 노동조합이 부분 파업 예고일을 하루 앞둔 25일 사측과 임금 및 단체협약 타결을 위한 막판 담판에 나섰다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nf08610b5",
+    "category": "경제",
+    "source": "아시아경제",
+    "time": "6분 전",
+    "url": "https://view.asiae.co.kr/article/2026082514041218341",
+    "title": "\"맨홀에서 사람 머리가 불쑥\"…뉴욕 활보한 '두더지 인간' 정체는",
+    "summary": [
+      "새벽 시간대 뉴욕 도심 한복판에서 작업복을 입은 정체불명의 남성들이 맨홀에서 나오는 영상이 확산하면서 경찰이 수사에 나섰다.24일 (현지시간) 뉴욕포스트에 따르면, 지난 18일 틱톡에는 맨해튼 거리에서 상·하의가 연결된 작업복(멜빵바지)을 입고 이마에 헤드램프를 단 남성 3명이 주변을 살피듯 맨홀 밖으로 기어 나오는 영상이 게시됐다.",
+      "해당 영상은 같은 날 오전 4시20분께 맨해튼 펜실베이니아 역 인근에서 촬영된 것으."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n27c2bd39",
+    "category": "사회",
+    "source": "연합뉴스(경제)",
+    "time": "6분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260825112600030",
+    "title": "중진공, 내달 10일까지 경영기획·변호사 등 일반직 60명 모집",
+    "summary": [
+      "(서울=연합뉴스) 이상서 기자 = 중소벤처기업진흥공단은 하반기 채용 공고를 통해 일반직 60명을 채용한다고 25일 밝혔다."
+    ],
+    "chips": [
+      "#스타트업",
+      "#채용"
+    ]
+  },
+  {
+    "id": "n6f17b1dc",
+    "category": "경제",
+    "source": "아시아경제",
+    "time": "6분 전",
+    "url": "https://view.asiae.co.kr/article/2026082514155367129",
+    "title": "개미핥기·재규어와 만난 26세 여성…하루키 신작 '가호' 10월 출간",
+    "summary": [
+      "무라카미 하루키가 처음으로 여성을 단독 주인공으로 내세운 장편소설 '가호―The Tale of KAHO'가 오는 10월 한국 독자를 만난다.",
+      "일본에서는 지난달 출간된 뒤 나흘 만에 발행부수 30만부를 기록하며 흥행하고 있다.",
+      "문학동네는 하루키의 신작 장편 '가호' 한국어판 출판 계약을 체결했다고 25일 밝혔다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nfd3fc884",
+    "category": "경제",
+    "source": "조선일보",
+    "time": "7분 전",
+    "url": "https://www.chosun.com/economy/money/2026/08/25/UWDG2OE37ZHDLPJXGRFEX2WXUU/",
+    "title": "코스피, 개인·기관 매수세에 장중 6700 회복...코스닥도 상승 전환",
+    "summary": [
+      "코스피, 개인·기관 매수세에 장중 6700 회복...코스닥도 상승 전환."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "ncaf6d8cb",
+    "category": "IT",
+    "source": "조선일보",
+    "time": "8분 전",
+    "url": "https://www.chosun.com/economy/tech_it/2026/08/25/JMQRPGC3UZDXRMDRTVMWOBATJE/",
+    "title": "“50달러 스피커가 하룻밤 새 80달러로”… AI 칩플레이션에 ‘사는 대신 빌려 쓴다’",
+    "summary": [
+      "“50달러 스피커가 하룻밤 새 80달러로”… AI 칩플레이션에 ‘사는 대신 빌려 쓴다’."
+    ],
+    "chips": [
+      "#AI"
+    ]
+  },
+  {
+    "id": "n7f753e7a",
+    "category": "IT",
+    "source": "아시아경제",
+    "time": "8분 전",
+    "url": "https://view.asiae.co.kr/article/2026082514141130232",
+    "title": "경과원, 한양대 ERICA 등 3개 대학과 '정보보호 컨설팅 지원' 협약",
+    "summary": [
+      "경기도경제과학진흥원이 25일 광교사무소에서 한양대학교 ERICA 등 3개 대학과 '대학교 연계 ASM 활용 대학생 정보보호 컨설팅 지원사업' 추진을 위한 업무협약을 체결했다.",
+      "이번 사업은 생성형 AI와 클라우드 서비스 이용 확대로 기업의 디지털 자산이 빠르게 늘면서 함께 커지고 있는 사이버 보안 위협에 대응하기 위해 마련됐다.",
+      "특히 조직의 승인이나 관리 범위를 벗어난 정보기술 자산을 뜻하는 섀도우 IT(Shadow IT)와 외부에."
+    ],
+    "chips": [
+      "#AI",
       "#교육"
     ]
   },
   {
-    "id": "n89d79450",
-    "category": "사회",
-    "source": "아시아경제",
-    "time": "10분 전",
-    "url": "https://view.asiae.co.kr/article/2026082513181400468",
-    "title": "\"사회운동도 종단개혁도 수행이었다\"…명진스님 영결식 엄수",
-    "summary": [
-      "\"사회운동도 종단개혁도 모두 수행의 방편이었다.\" 25일 오전 서울 강남구 봉은사.",
-      "지난 22일 입적한 명진스님의 마지막 길을 배웅하는 자리에서 탄성문도회 회장 도공스님은 고인의 삶을 이렇게 돌아봤다.",
-      "1994년 조계종 종단개혁의 한복판에 섰고 사회적 약자와 연대하며 종단과 정치권을 향해 거침없이 목소리를 냈던 '행동하는 수행자'가 이날 수많은 인연의 배웅을 받으며 봉은사를 떠났다."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "nb54038e7",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "15분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260825098500073",
-    "title": "日 '후쿠시마 오염흙', 도쿄 외 지방청사서 첫 사용",
-    "summary": [
-      "(도쿄=연합뉴스) 이도연 특파원 = 2011년 일본 후쿠시마 제1원자력 발전소 폭발 사고 이후 오염 제거 과정에서 수거한 흙(제염토)이 도쿄 외..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nccd140a6",
+    "id": "na96944fa",
     "category": "사회",
     "source": "동아일보",
-    "time": "16분 전",
-    "url": "https://www.donga.com/news/Society/article/all/20260825/134538740/2",
-    "title": "임신부에 자리 내준 사람에 또 양보…감동의 ‘양보 릴레이’(영상)",
+    "time": "11분 전",
+    "url": "https://www.donga.com/news/Inter/article/all/20260825/134539259/1",
+    "title": "日 ‘후쿠시마 제염토’ 활용 범위 넓힌다…도쿄外 지방청사서 사용",
     "summary": [
-      "병원에서 한 여성이 임산부에게 자신의 순서를 양보하고 줄 맨 뒤로 이동하자, 이를 지켜본 다른 시민들이 잇따라 자신의 순서를 내어주는 모습이 담긴 영상이 감동을 전하고 있다.최근 각종 소셜네트워크서비스(SNS)와 온라인 커뮤니티에는 ‘한 사람의 배려가 만든 작은 기적’이라는 제목의 영상이 공유되고 있다.영상에는 한 병원 접수 창구 앞에 진료를 기다리는 사람들이 길게 줄을 선 모습이 담겼다.",
-      "이때 만삭의 임산부가 줄 가장 앞에 있던 여성에게 다가."
+      "일본 정부가 2011년 동일본 대지진 후쿠시마 제1원전 사고 이후 오염 제거 과정에서 수거한 흙인 ‘제염토’를 처음으로 도쿄 밖에서도 재활용하기로 했다.",
+      "센다이와 사이타마에 있는 국가기관 청사 부지에서 사용하는 방안이다.25일 일본 교도통신 등에 따르면 일본 환경성은 후쿠시마현 내 제염토를 미야기현 센다이시와 사이타마현 사이타마시의 국가 합동청사에서 재활용할 방침이다.",
+      "센다이시 아오바구의 센다이 합동청사와 사이타마시 주오구의 사이타마 신도심 합."
     ],
     "chips": [
-      "#의료"
+      "#환경"
     ]
   },
   {
-    "id": "ncf5bf74b",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "17분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260825097700001",
-    "title": "李대통령 \"목소리 높인 개혁은 반발 커…실용적 접근 필요\"",
-    "summary": [
-      "(서울=연합뉴스) 임형섭 기자 = 이재명 대통령은 25일 \"개혁을 할 때 목소리를 높이고 선명하게 목표를 높이 세우면 칭찬을 받기는 좋지만, 저..."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "na0ba00ec",
-    "category": "부동산",
+    "id": "n0f254c37",
+    "category": "스포츠",
     "source": "동아일보",
-    "time": "17분 전",
-    "url": "https://www.donga.com/news/Economy/article/all/20260825/134538720/1",
-    "title": "“빠듯한 노후” 노인 10명 중 9명 연금 받지만…절반은 월 50만원도 안 돼",
+    "time": "12분 전",
+    "url": "https://www.donga.com/news/Economy/article/all/20260825/134539251/1",
+    "title": "이강인 경기 보려다 40분 날렸다…쿠팡플레이, ‘스포츠 인프라’ 시험대",
     "summary": [
-      "노인 10명 중 9명은 연금을 받고 있지만, 수급자의 절반 이상은 한 달에 50만원도 받지 못하는 것으로 나타났다.",
-      "연금 수급률은 높아졌지만 실제 노후소득 수준은 여전히 낮았고, 성별과 주택 보유 여부에 따른 수급액 격차도 컸다.65세 이상 연금 수급자의 월평균 수급액은 73만 7000원으로 1인 가구 최저생계비의 55.1% 수준에 그쳤다.",
-      "중위 수급액은 49만 7000원으로 월평균 수급액보다도 24만원 낮았다.남녀 간 수급액 격차는 41만10."
+      "쿠팡플레이가 축구선수 이강인 선발전을 독점 중계하다가 접속 오류가 발생해 이용자들의 반발을 샀다.",
+      "스포츠 중계권을 공격적으로 확대하고 스포츠 패스까지 별도로 운영하며 스포츠 사업을 키우고 있는 쿠팡플레이로서는 뼈아픈 대목이다.특히 스포츠 중계는 인기 경기가 시작되는 순간 이용자가 집중될 수 밖에 없어 예상 가능한 ‘피크 트래픽’에 얼마나 안정적으로 대응하느냐가 관건이다.",
+      "무작정 서버를 늘리는 것 역시 비용 부담으로 이어지기 때문에 경기별 수요를."
     ],
     "chips": [
       "#뉴스"
-    ]
-  },
-  {
-    "id": "na8829b59",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "18분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260825092700054",
-    "title": "'대만관' 이름 갈등에… 광주비엔날레 파빌리온 설치 지연",
-    "summary": [
-      "(전남광주=연합뉴스) 장아름 기자 = 제16회 광주비엔날레 개막이 10여일 앞으로 다가왔지만, 전시관 국가 명칭 논란으로 파빌리온(특별관) 작품..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n5a6691e2",
-    "category": "사회",
-    "source": "아시아경제",
-    "time": "18분 전",
-    "url": "https://view.asiae.co.kr/article/2026082511130503901",
-    "title": "올해 공공비축미 40만t으로 줄인다…중간정산금은 6만원으로 인상",
-    "summary": [
-      "정부가 2026년산 공공비축미 매입 규모를 40만t으로 지난해 대비 3만t가량 줄이기로 했다.",
-      "쌀값이 평년 대비 높은 수준을 유지하고 있고, 올해부턴 10만t 규모의 '수급조절용 벼' 사업이 처음 시행되는 만큼 쌀 수급에는 문제가 없을 것으로 정부는 보고 있다.",
-      "농림축산식품부는 올해 정부양곡 수급 전망과 공공비축 매입 물량과 매입 가격 등을 포함한 '2026년 공공비축 시행계획 및 2027 양곡연도 정부관리양곡 수급계획'이 25일."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n352c97a6",
-    "category": "부동산",
-    "source": "동아일보",
-    "time": "19분 전",
-    "url": "https://www.donga.com/news/Economy/article/all/20260825/134538711/1",
-    "title": "대출 조이자 주담대 1명당 2110만원↓…서울선 6065만원 ‘뚝’",
-    "summary": [
-      "올해 2분기 주택담보대출(주담대) 신규 취급액이 1인당 평균 2억원을 조금 웃도는 수준까지 줄며 약 3년 만에 최저치를 기록했다.",
-      "대출 규제 강화로 서울과 40대를 중심으로 신규 대출이 크게 위축된 가운데, 20대는 유일하게 주담대 규모가 늘어나는 등 세대·지역별 온도 차가 나타났다.신규 대출이 줄어든 것과 달리 기존 대출의 상환도 함께 줄면서 차주 1인당 가계대출 잔액은 오히려 증가했다.",
-      "대출 규제의 영향으로 주택 관련 신규 자금 수요가 위축."
-    ],
-    "chips": [
-      "#정책"
     ]
   }
 ];
@@ -641,20 +635,20 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2070건",
-    "trend": "+215%"
+    "mentions": "2460건",
+    "trend": "+275%"
   },
   {
     "rank": 2,
-    "tag": "반도체",
-    "mentions": "1680건",
-    "trend": "+155%"
+    "tag": "AI",
+    "mentions": "1810건",
+    "trend": "+175%"
   },
   {
     "rank": 3,
-    "tag": "AI",
-    "mentions": "1420건",
-    "trend": "+115%"
+    "tag": "반도체",
+    "mentions": "1680건",
+    "trend": "+155%"
   }
 ];
 // ====AUTO-GENERATED-END====
