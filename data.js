@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-08-25 18:22:57
+// 마지막 업데이트: 2026-08-25 19:22:55
 window.NEWS_DB = [
   {
     "id": "n01b6d007",
     "category": "IT",
     "source": "뉴스퀘스트",
-    "time": "11시간 전",
+    "time": "12시간 전",
     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE10eDdVb3Zjdmd4YUMwV01FbGtXSElSc3Zpd0gzN1RwT21vUU9adTBmc0hROGd1OFpLbU9yZExjR0txSlo0NWdWY2dkbS1nWnZxV0lmQ2dQaEdrQUs1SzFLZE94NWd6NFNzcGY3U0h4UdIBc0FVX3lxTE4wZHVlazIzd1ljVXhjd2dXTjBKVFdrQnhRUFd2MGIwSm9tNE9nYVdDcTdpMGxJaktUZHZBSDlFcGJIUEhESjg2Nm9wVkgybEVDYW1rQ3NwYTZOSmlSSGs0eHNNNVlZMDBWTmpQOVJ4SmVacVE?oc=5",
     "title": "삼성 ‘원스톱’- SK ‘TSMC 동맹’…HBM4E 이후 승부처는 ‘발열과 양산’",
     "summary": [
@@ -19,7 +19,7 @@ window.NEWS_DB = [
     "id": "n7d1aabd9",
     "category": "IT",
     "source": "이코리아",
-    "time": "12시간 전",
+    "time": "13시간 전",
     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5rcXg0aHpNZVpILUMwTjNIYWN6M3gwaGN6RWtIaktxVWdnc3lyY1FQY1pUUnBkcTNYQ1o0dGpjSjhCUm1HZDlfNE5QOVltM2Voa09iZWlNSzNSekpEVFhoQjA3bmJjenBqcjdTeDZYOA?oc=5",
     "title": "삼전닉스, 차세대 HBM 기술 로드맵 공개... HBM 주도권 다툼 격화",
     "summary": [
@@ -31,25 +31,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nce8f38ff",
-    "category": "IT",
-    "source": "mstoday.co.kr",
-    "time": "16시간 전",
-    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9IRVR5bEczdml2SlZLekVYNGJGY1I0Umd2Zk9iSjNuOUJGSHc0cUhFTnF5bExUa1Jmd1U2MV9aWVU3YmQ3bjhxQTZ1U3dtYU1xekhocGdVNlAwV1Y1VlVLZEZDeWMwclNlNE5fMA?oc=5",
-    "title": "엔비디아 추론칩 양산 본격화…삼성 파운드리 수혜 기대",
-    "summary": [
-      "엔비디아 추론칩 양산 본격화…삼성 파운드리 수혜 기대 mstoday.co.kr."
-    ],
-    "chips": [
-      "#반도체",
-      "#엔비디아"
-    ]
-  },
-  {
     "id": "n43b5fcba",
     "category": "IT",
     "source": "비즈니스포스트",
-    "time": "17시간 전",
+    "time": "18시간 전",
     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1wUkc0bzBYOGtYWGJBN2VzU3k5WS1adlRmRjdnR1oyQ2hrMzZCQ2VZVU5xQUVnZkRxT2g3bU1BbThNNGEtZEdwWnJwa05VNEt2aXRzU28zODlqN0c2eUtJWnpTZzdwOXVxaWEydnU4eG9MNDA?oc=5",
     "title": "엔비디아 AI 서버에 'D램과 HBM 원가 30%' 분석, 메모리 수요 줄이는 기술 발전 자극",
     "summary": [
@@ -65,7 +50,7 @@ window.NEWS_DB = [
     "id": "n20b176ea",
     "category": "IT",
     "source": "연합뉴스",
-    "time": "20시간 전",
+    "time": "21시간 전",
     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0zaDRKTTBVdVlfMWdnQ0VRaEV4bUNXWU9JbXRnVndwTDJoVUg3bzFqTTloLWFRWGNqYVpSX21QYjE1X3g5bTZqV2ozWU85MGJVMGdiN19aMzhXQ1XSAWBBVV95cUxQTm9YQ2V1blJWakowbE5Ra2hPRU1NRUN3SFAtRVkzSWpxTC1iemFEMnA4SU1yWTBzNUJ4YUJETzc2ZlNTcTl3ejgzYlVQRVBWcWp5YU5pV0doTTVQMXI0TE8?oc=5",
     "title": "뉴욕증시, 반도체·AI주 약세에 혼조 마감…엔비디아 7일째 하락(종합)",
     "summary": [
@@ -89,6 +74,21 @@ window.NEWS_DB = [
     ],
     "chips": [
       "#반도체"
+    ]
+  },
+  {
+    "id": "n10d70d81",
+    "category": "IT",
+    "source": "경향신문",
+    "time": "2일 전",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1RbmpaY1ZpZzR0MUIwMlRlZEpHd080TmxTN2NxdFhxNktoSUpmbzFQeDd0ZDNjSENhN3Noc2JHU2xXV2IwdVMxblNtOHR0anh3bExYUExXWGRoZ9IBX0FVX3lxTE5VSlNTNTkxSWZRVWJtVUo3YXJNOUF0MFU1bGFXblJ1c2c4MkJlTlNfUnIxTlNOdzN0LTdXVGdxRlYyLVF0ZkV0UEFWWlJ0WnpBdzlUVGFMbV9hTDZXcTA0?oc=5",
+    "title": "메모리값 폭등에…엔비디아도 AI 서버 가격 15% 이상 올린다",
+    "summary": [
+      "메모리값 폭등에…엔비디아도 AI 서버 가격 15% 이상 올린다 경향신문."
+    ],
+    "chips": [
+      "#AI",
+      "#엔비디아"
     ]
   },
   {
@@ -134,6 +134,20 @@ window.NEWS_DB = [
     ],
     "chips": [
       "#환율"
+    ]
+  },
+  {
+    "id": "n671bb698",
+    "category": "스포츠",
+    "source": "네이트",
+    "time": "19일 전",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9KdGQtY1VveGFTcU1fcVUxX2t3WFptYmE0TVBWWTFqdGVJZFZpb3RURWp1NHRHdGZWNmdWTFNJWVRlUTR4aTFlYWYzcks2RDhvWWNBT1htbm1xeVZ0TGR1Vw?oc=5",
+    "title": "KBO, 연이은 폭염에 프로야구 대책 논의",
+    "summary": [
+      "KBO, 연이은 폭염에 프로야구 대책 논의 네이트."
+    ],
+    "chips": [
+      "#KBO"
     ]
   },
   {
@@ -281,20 +295,6 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n783ebe44",
-    "category": "스포츠",
-    "source": "테크M",
-    "time": "146일 전",
-    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4zeE1CWFFHZzZrMjhfLXJoWERMeW9jVzI5eF91RWV1NUxXelFvT1U5YWpyRjZaQ1NqclNTR1hoRWEwYl9qQmc4WTh5Q29TSWROU3ptQ1ZmXy1rajBVczZ1T1A0RXZ0UdIBakFVX3lxTE4tUUs3ak9IVFI3ZEtUQmg5NUpZbWRwdUN5OEFTU2JqaWN4WWJzMVJVc0pLU1U0UzVZTkRKMlRZSUIyNmhPVjVWMzBTVGxocHc2VUdVZl9rRWdUaXVxTjFSdUpzTzFPdEZHdnc?oc=5",
-    "title": "'야구·축구·골프'로 갈라진 국내 OTT...스포츠 팬덤 경쟁 격화",
-    "summary": [
-      "'야구·축구·골프'로 갈라진 국내 OTT...스포츠 팬덤 경쟁 격화 테크M."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
     "id": "n4a365471",
     "category": "스포츠",
     "source": "v.daum.net",
@@ -325,10 +325,147 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n43c3fd72",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "1분 전",
+    "url": "https://www.newsis.com/view/NISX20260826_0003762472",
+    "title": "이란, 파키스탄에 호르무즈 관련 입장 전달…파키스탄 \"중대한 진전\"(종합)",
+    "summary": [
+      "[서울=뉴시스] 이재우 기자 = 이란이 호르무즈 해협에 대한 자국의 입장과 조건을 중재국인 파키스탄에 전달했다고 이란 반관영 타스님 통신이 25일(현지시간) 협상단에 정통한 소식통을 인용해 보도했다.",
+      "이란 협상단에 정통한 소식통은 \"일부 언론의 보도와는 달리 전날 이란을 방문한 아심 무니르 파키스탄군 총사령관은 미국의 위협적인 메시지나 그와 유사한 메시지를 전달하기 위해 온 것이 아니었다\"고 말했다.",
+      "이어 \"오히려 무니르 총사령관은 협상 공간을."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "na6058ca5",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "2분 전",
+    "url": "https://www.chosun.com/sports/sports_general/2026/08/26/GFTGGNBWGFTGCNLBGFTDKY3CMI/",
+    "title": "안세영은 믿음, 이소희-백하나는 역할 분담, 서승재-김원호는 초심...'아시안게임 金' 향한 키워드 [오!쎈 현장]",
+    "summary": [
+      "[OSEN=인천국제공항, 정승우 기자] 세계 정상에 서는 방법에는 하나의 정답만 존재하지 않았다.",
+      "안세영(24)은 훈련해온 자신을 믿었고, 이소희(32)-백하나(26)는 서로의 장점을 극대화했다.",
+      "세계랭킹 1위 서승재(29)-김원호(27)는 상대의 분석에 흔들린 끝에 다시 자신들의 경기로 돌아가야 한다는 답을 얻었다.대한민국 배드민턴 대표팀은 25일 오전."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nc8ce07a8",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "12분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260826005600072",
+    "title": "엡스틴 공범 맥스웰, '유죄 뒤집기' 무산…美법원 \"터무니없어\"",
+    "summary": [
+      "(뉴욕=연합뉴스) 임수정 특파원 = 미성년자 성착취범 고(故) 제프리 엡스틴의 옛 연인이자 공범으로 징역 20년형을 선고받고 수감 중인 길레인 ..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nefd976b9",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "15분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260826005400079",
+    "title": "IS 격퇴 앞장 쿠르드족 민병대, 시리아군과 통합후 해체 선언",
+    "summary": [
+      "(카이로=연합뉴스) 김상훈 특파원 = 과거 시리아 북동부 지역에서 사실상의 자치 구역을 통제했던 쿠르드족 주도의 민병대 시리아민주군(SDF)이 ..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n85cc5050",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "18분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260826005300108",
+    "title": "교황청 외무장관, 5년 만에 러시아 찾아 \"전쟁 끝내야\"",
+    "summary": [
+      "(이스탄불=연합뉴스) 김동호 특파원 = 교황청 외무장관인 폴 갤러거 대주교가 25일(현지시간) 러시아 수도 모스크바를 찾아 우크라이나 전쟁 종식..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n5541dcb6",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "19분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260826005500071",
+    "title": "美 '컨트리음악 여왕' 돌리 파튼 별세…향년 80세",
+    "summary": [
+      "(워싱턴=연합뉴스) 박성민 특파원 = 미국 컨트리음악의 여왕으로 불리는 돌리 파튼이 80세를 일기로 26일(현지시간) 별세했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n7d3af0ca",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "21분 전",
+    "url": "https://www.newsis.com/view/NISX20260825_0003762291",
+    "title": "대구·경북, 구름 많고 찜통더위…낮 최고 30~36도",
+    "summary": [
+      "[대구=뉴시스] 이상제 기자 = 26일 대구·경북은 가끔 구름 많은 가운데 무더위가 이어질 것으로 예상된다.",
+      "대구지방기상청은 이날 \"대구, 경북에 폭염특보가 발효된 가운데 당분간 매우 무덥겠고 열대야가 나타나는 곳이 있겠다\"고 예보했다.",
+      "대구, 구미, 영천, 경산, 청도, 고령, 성주, 칠곡, 상주, 예천, 의성, 청송, 포항, 김천북부, 김천남부, 안동동남부, 안동서부, 영양평지, 봉화평지, 울진평지, 경주중북부, 경주남부에는 폭염경보가 발효."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "ne7e162be",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "30분 전",
+    "url": "https://www.newsis.com/view/NISX20260826_0003762473",
+    "title": "\"이란·오만, 호르무즈 공동 임시 항로 조성·기뢰 제거 합의\"(종합)",
+    "summary": [
+      "[서울=뉴시스] 이재우 기자 = 이란과 오만은 25일(현지시간) 호르무즈 해협의 안전한 항행 재개를 위한 양국 협의의 틀 안에서 공동 임시 항로를 조성하고 호르무즈 해협내 기뢰 제거 공동사업을 추진하기로 합의했다.",
+      "이란 국영 IRNA통신에 따르면 이란과 오만 외무부는 이날 바드르 알부사이디 오만 외무장관의 테헤란 방문 종료에 맞춰 이같은 공동 성명을 발표했다.",
+      "알부사이디 장관은 이날 이란을 실무 방문해 아바스 아락치 이란 외무장관과 회동했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n20461a71",
+    "category": "사회",
+    "source": "아시아경제",
+    "time": "41분 전",
+    "url": "https://view.asiae.co.kr/article/2026082603404645923",
+    "title": "트럼프 관세에 캐나다 맞불…중간선거 겨냥 '정밀보복'",
+    "summary": [
+      "캐나다 정부가 약 200억달러 규모의 미국산 제품에 최고 50%의 보복관세를 부과하기로 했다.",
+      "도널드 트럼프 미국 행정부가 같은 규모의 캐나다산 제품에 50% 관세를 부과한 데 대해 이른바 '달러 대 달러' 방식으로 맞불을 놓은 것이다.",
+      "특히 캐나다는 오는 11월 미국 중간선거를 앞두고 정치적으로 민감한 지역의 주력 산업을 겨냥해 관세 품목을 선정한 것으로 나타났다."
+    ],
+    "chips": [
+      "#수출",
+      "#정치"
+    ]
+  },
+  {
     "id": "nc9f3c794",
     "category": "IT",
     "source": "테크M",
-    "time": "방금 전",
+    "time": "45분 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=154602",
     "title": "[글로벌] 엔비디아, 풀사이드와 60억달러 기술 계약...네모트론 개발 인력 확보",
     "summary": [
@@ -346,7 +483,7 @@ window.NEWS_DB = [
     "id": "n8596fbe1",
     "category": "IT",
     "source": "테크M",
-    "time": "방금 전",
+    "time": "46분 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=154601",
     "title": "[글로벌] 오픈AI, 캘리포니아 AI 안전법 강화 제안...기존 반대서 입장 선회",
     "summary": [
@@ -362,7 +499,7 @@ window.NEWS_DB = [
     "id": "n0e9695a0",
     "category": "IT",
     "source": "테크M",
-    "time": "방금 전",
+    "time": "48분 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=154600",
     "title": "[글로벌] 베라 루빈·그레이스 블랙웰 서버, 메모리값 급등에 15% 이상 오른다",
     "summary": [
@@ -376,110 +513,54 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n1ee42102",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "13분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260826004200108",
-    "title": "젤렌스키가 쫓아낸 우크라 전 국방 \"러에 패전하는 중\"",
-    "summary": [
-      "(이스탄불=연합뉴스) 김동호 특파원 = 볼로디미르 젤렌스키 우크라이나 대통령에게서 경질당한 뒤 대권 잠룡으로 떠오른 미하일로 페도로우 전 국방장..."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n9fe6809f",
+    "id": "na16fe3c2",
     "category": "사회",
     "source": "조선일보",
-    "time": "20분 전",
-    "url": "https://www.chosun.com/culture-life/book/2026/08/26/XMLE6ELORZB73DEG5AXUSTBLA4/",
-    "title": "[73화] “조조가 몸 묻힐 땅도 없게 만들 계책이 있습니다”",
+    "time": "51분 전",
+    "url": "https://www.chosun.com/culture-life/2026/08/26/66FG5EUC5FBPPFP5RMBY4MZXGI/",
+    "title": "미국인이 사랑한 ‘컨트리의 대모’ 돌리 파튼 별세",
     "summary": [
-      "[73화] “조조가 몸 묻힐 땅도 없게 만들 계책이 있습니다”."
+      "미국인이 사랑한 ‘컨트리의 대모’ 돌리 파튼 별세."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n304bcdd7",
+    "id": "n4c4771b3",
     "category": "사회",
     "source": "뉴시스",
-    "time": "22분 전",
-    "url": "https://www.newsis.com/view/NISX20260825_0003761780",
-    "title": "\"컴퓨터 안 켰잖아\"…회사 화장실서 숨진 中남성, '업무상 재해' 불인정",
+    "time": "57분 전",
+    "url": "https://www.newsis.com/view/NISX20260825_0003762450",
+    "title": "이스라엘 국방 \"시리아 남부 완충지대서 철군 안해\"",
     "summary": [
-      "[서울=뉴시스]김드보라 인턴 기자 = 중국에서 출근 직후 회사 화장실에서 숨진 30대 프로그래머가 컴퓨터를 켜고 일을 시작하지 않았다는 이유로 업무상 재해를 인정받지 못해 논란이 일고 있다.",
-      "지난 21일 홍콩 사우스차이나모닝포스트(SCMP)에 따르면 중국 선전에서 프로그래머로 일하던 30대 남성 A씨는 지난 4월 회사 화장실에서 쓰러진 채 발견됐다.",
-      "A씨는 사고 당일 출근 기록을 남긴 뒤 11층 자신의 사무실이 아닌 2층 화장실로 향했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "ne8e938ea",
-    "category": "IT",
-    "source": "조선일보",
-    "time": "22분 전",
-    "url": "https://www.chosun.com/economy/tech_it/2026/08/26/TFJA3GDXE5DY5E5JK7ORHHP5F4/",
-    "title": "마트에 있는 고기나 과일이 신선한지 궁금하면… 사진 찍어서 AI에 물어보라",
-    "summary": [
-      "마트에 있는 고기나 과일이 신선한지 궁금하면… 사진 찍어서 AI에 물어보라."
-    ],
-    "chips": [
-      "#AI"
-    ]
-  },
-  {
-    "id": "nce0b50f7",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "22분 전",
-    "url": "https://www.chosun.com/economy/real_estate/2026/08/26/YUZSQYMKTZD6RNGSLMLL4VUQMI/",
-    "title": "8·3 세제 개편 후… 강남은 ‘급매’, 중저가는 ’20억 신고가'",
-    "summary": [
-      "8·3 세제 개편 후… 강남은 ‘급매’, 중저가는 ’20억 신고가'."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n89534903",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "22분 전",
-    "url": "https://www.chosun.com/sports/sports_general/2026/08/26/VL4MYS32URAYZATSDPRZNNYZH4/",
-    "title": "움직임이 한쪽만 불편할 때… 앉아서 가볍게 푸는 운동",
-    "summary": [
-      "움직임이 한쪽만 불편할 때… 앉아서 가볍게 푸는 운동."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "ne7dbf444",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "27분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260826004000071",
-    "title": "美전문가 \"북미회담 가능성 희박…한미일에 최대 도전은 트럼프\"",
-    "summary": [
-      "(워싱턴=연합뉴스) 홍정규 특파원 = 도널드 트럼프 미국 대통령과 김정은 북한 국무위원장의 회담이 성사될 가능성이 작으며, 성사되더라도 한국과 ..."
+      "[서울=뉴시스] 이재우 기자 = 이스라엘 국방장관이 시리아 남부에 위치한 이른바 '완충지대'를 찾아 이 지역에서 군을 철수하지 않겠다는 입장을 재확인했다.",
+      "타임스오브이스라엘에 따르면 이스라엘 카츠 이스라엘 국방장관은 이날 시리아 남부를 찾아 \"이스라엘에 대한 지하디스트(이슬람 성전주의자)들의 위협이 존재하는 한, 우리는 헤르몬산과 안보 구역에서 물러서지 않을 것\"이라고 말했다.",
+      "이어 \"시리아 대통령에게 전하는 우리의 메시지는 분명하다\"며 \"다마."
     ],
     "chips": [
       "#정치"
+    ]
+  },
+  {
+    "id": "n1c0c7956",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "1시간 전",
+    "url": "https://www.chosun.com/international/international_general/2026/08/26/KUE7VLJ67BBVPE2U66HR5UFQEY/",
+    "title": "트럼프 “연내 김정은 만날 것”…예측시장 성사 확률은 35%",
+    "summary": [
+      "트럼프 “연내 김정은 만날 것”…예측시장 성사 확률은 35%."
+    ],
+    "chips": [
+      "#뉴스"
     ]
   },
   {
     "id": "n70895506",
     "category": "사회",
     "source": "아시아경제",
-    "time": "29분 전",
+    "time": "1시간 전",
     "url": "https://view.asiae.co.kr/article/2026082602525241669",
     "title": "트럼프, 망명 신청자 최대 20만명 비자 취소",
     "summary": [
@@ -492,85 +573,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n3208ae91",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "48분 전",
-    "url": "https://www.newsis.com/view/NISX20260826_0003762466",
-    "title": "이란 외무부 \"美 대이란 경제전쟁, 주권·자결권 말살 행위\"",
-    "summary": [
-      "[서울=뉴시스] 이재우 기자 = 이란 외무부 대변인은 25일(현지시간) 미국의 대(對)이란 경제 전쟁은 국제법과 유엔 헌장의 가장 근본적 원칙인 모든 국가의 주권적 평등과 자결권에 대한 존중을 말살하는 행위라고 비판했다.",
-      "이란 국영 IRNA통신에 따르면 이스마일 바가이 이란 외무부 대변인은 이날 소셜미디어 엑스(X·옛 트위터)에 \"미국은 이란의 '경제적 운명의 날'이 왔다고 선언했다\"며 \"'그림자처럼 복종하는 존재'로 보이기를 선호하는 이들은."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n462aa3b2",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "48분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260826002900071",
-    "title": "이란, 트럼프 막내아들 암살위협 방송…美경호국 \"알고 있다\"",
-    "summary": [
-      "(워싱턴=연합뉴스) 박성민 특파원 = 이란 국영방송에 도널드 트럼프 미국 대통령의 막내아들을 암살하겠다고 위협하는 영상이 올라와 미 경호당국이 ..."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n39983574",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "1시간 전",
-    "url": "https://www.yna.co.kr/view/AKR20260826003100082",
-    "title": "여성 800원, 남성은 공짜…오스트리아 화장실 차별금지 소송",
-    "summary": [
-      "(베를린=연합뉴스) 김계연 특파원 = 공중 화장실 상당수가 유료인 유럽에서 일부 남성은 공짜로 화장실을 이용하는 게 차별이라며 한 여성이 소송을..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "na2e267ac",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "1시간 전",
-    "url": "https://www.newsis.com/view/NISX20260825_0003761762",
-    "title": "\"하루 담배 한 갑 피우면서\"…3500원 커피 마신 아내 타박한 남편",
-    "summary": [
-      "[서울=뉴시스]박세은 인턴 기자 = 3500원짜리 커피를 사 마셨다는 이유로 남편과 시댁으로부터 거센 타박을 받은 아내의 사연이 온라인을 뜨겁게 달구고 있다.",
-      "작성자 A씨는 지난 25일 한 인터넷 모임터에 \"지난달 내가 3500원짜리 커피를 사 마신 일로 남편이 가계부 청문회를 열었다\"라며 억울함을 호소하는 글을 올렸다.",
-      "A씨는 육아에 지친 마음을 달래려 유모차를 끌고 나가 카페에서 음료를 포장해 집으로 돌아왔다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n9294850d",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "1시간 전",
-    "url": "https://www.newsis.com/view/NISX20260826_0003762465",
-    "title": "\"美 CIA 국장, 비밀리에 러시아 방문\" CBS",
-    "summary": [
-      "[서울=뉴시스] 이재우 기자 = 존 랫클리프 미국 중앙정보국(CIA) 국장이 25일(현지시간) 러시아를 방문했다고 미국 CBS 방송이 소식통을 인용해 보도했다.",
-      "사안에 정통한 소식통들은 CBS에 \"랫클리프 국장이 회담을 위해 러시아 모스크바에 있다\"고 말했다.",
-      "랫클리프 국장의 방러 소식은 미국 공군 보잉 C-17A 글로브마스터Ⅲ 수송기가 모스크바 브누코보 공항에서 목격된 이후 나왔다."
-    ],
-    "chips": [
-      "#채용"
-    ]
-  },
-  {
     "id": "n7ddea8f3",
     "category": "사회",
     "source": "동아일보",
-    "time": "1시간 전",
+    "time": "2시간 전",
     "url": "https://www.donga.com/news/Culture/article/all/20260826/134544376/1",
     "title": "도심 루프탑서 감각을 깨우다…코트야드 메리어트 서울명동 ‘웰니스 클래스’ 성료",
     "summary": [
@@ -585,7 +591,7 @@ window.NEWS_DB = [
     "id": "n90b92539",
     "category": "부동산",
     "source": "동아일보",
-    "time": "2시간 전",
+    "time": "3시간 전",
     "url": "https://www.donga.com/news/Society/article/all/20260826/134544368/1",
     "title": "“결혼 테스트였다”…1년 넘게 자가를 월세라 속인 예비 남편",
     "summary": [
@@ -600,7 +606,7 @@ window.NEWS_DB = [
     "id": "n930e440b",
     "category": "스포츠",
     "source": "아시아경제",
-    "time": "2시간 전",
+    "time": "3시간 전",
     "url": "https://view.asiae.co.kr/article/2026082521444703974",
     "title": "김시우의 새 이정표 출격…‘한국 선수 첫 페덱스컵 우승 도전’",
     "summary": [
@@ -616,7 +622,7 @@ window.NEWS_DB = [
     "id": "n557b77d8",
     "category": "경제",
     "source": "동아일보",
-    "time": "2시간 전",
+    "time": "3시간 전",
     "url": "https://www.donga.com/news/Inter/article/all/20260826/134544318/1",
     "title": "캐나다 “미국산 700개 품목에 15~50% 보복관세…9월8일 발효”",
     "summary": [
@@ -635,8 +641,8 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2330건",
-    "trend": "+255%"
+    "mentions": "2720건",
+    "trend": "+315%"
   },
   {
     "rank": 2,
@@ -647,8 +653,8 @@ window.KEYWORD_TOP = [
   {
     "rank": 3,
     "tag": "반도체",
-    "mentions": "1810건",
-    "trend": "+175%"
+    "mentions": "1680건",
+    "trend": "+155%"
   }
 ];
 // ====AUTO-GENERATED-END====
