@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-08-25 16:23:43
+// 마지막 업데이트: 2026-08-25 17:22:44
 window.NEWS_DB = [
   {
     "id": "n01b6d007",
     "category": "IT",
     "source": "뉴스퀘스트",
-    "time": "9시간 전",
+    "time": "10시간 전",
     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE10eDdVb3Zjdmd4YUMwV01FbGtXSElSc3Zpd0gzN1RwT21vUU9adTBmc0hROGd1OFpLbU9yZExjR0txSlo0NWdWY2dkbS1nWnZxV0lmQ2dQaEdrQUs1SzFLZE94NWd6NFNzcGY3U0h4UdIBc0FVX3lxTE4wZHVlazIzd1ljVXhjd2dXTjBKVFdrQnhRUFd2MGIwSm9tNE9nYVdDcTdpMGxJaktUZHZBSDlFcGJIUEhESjg2Nm9wVkgybEVDYW1rQ3NwYTZOSmlSSGs0eHNNNVlZMDBWTmpQOVJ4SmVacVE?oc=5",
     "title": "삼성 ‘원스톱’- SK ‘TSMC 동맹’…HBM4E 이후 승부처는 ‘발열과 양산’",
     "summary": [
@@ -19,7 +19,7 @@ window.NEWS_DB = [
     "id": "n7d1aabd9",
     "category": "IT",
     "source": "이코리아",
-    "time": "10시간 전",
+    "time": "11시간 전",
     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5rcXg0aHpNZVpILUMwTjNIYWN6M3gwaGN6RWtIaktxVWdnc3lyY1FQY1pUUnBkcTNYQ1o0dGpjSjhCUm1HZDlfNE5QOVltM2Voa09iZWlNSzNSekpEVFhoQjA3bmJjenBqcjdTeDZYOA?oc=5",
     "title": "삼전닉스, 차세대 HBM 기술 로드맵 공개... HBM 주도권 다툼 격화",
     "summary": [
@@ -34,7 +34,7 @@ window.NEWS_DB = [
     "id": "nce8f38ff",
     "category": "IT",
     "source": "mstoday.co.kr",
-    "time": "14시간 전",
+    "time": "15시간 전",
     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9IRVR5bEczdml2SlZLekVYNGJGY1I0Umd2Zk9iSjNuOUJGSHc0cUhFTnF5bExUa1Jmd1U2MV9aWVU3YmQ3bjhxQTZ1U3dtYU1xekhocGdVNlAwV1Y1VlVLZEZDeWMwclNlNE5fMA?oc=5",
     "title": "엔비디아 추론칩 양산 본격화…삼성 파운드리 수혜 기대",
     "summary": [
@@ -49,7 +49,7 @@ window.NEWS_DB = [
     "id": "n43b5fcba",
     "category": "IT",
     "source": "비즈니스포스트",
-    "time": "15시간 전",
+    "time": "16시간 전",
     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1wUkc0bzBYOGtYWGJBN2VzU3k5WS1adlRmRjdnR1oyQ2hrMzZCQ2VZVU5xQUVnZkRxT2g3bU1BbThNNGEtZEdwWnJwa05VNEt2aXRzU28zODlqN0c2eUtJWnpTZzdwOXVxaWEydnU4eG9MNDA?oc=5",
     "title": "엔비디아 AI 서버에 'D램과 HBM 원가 30%' 분석, 메모리 수요 줄이는 기술 발전 자극",
     "summary": [
@@ -65,7 +65,7 @@ window.NEWS_DB = [
     "id": "n20b176ea",
     "category": "IT",
     "source": "연합뉴스",
-    "time": "18시간 전",
+    "time": "19시간 전",
     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0zaDRKTTBVdVlfMWdnQ0VRaEV4bUNXWU9JbXRnVndwTDJoVUg3bzFqTTloLWFRWGNqYVpSX21QYjE1X3g5bTZqV2ozWU85MGJVMGdiN19aMzhXQ1XSAWBBVV95cUxQTm9YQ2V1blJWakowbE5Ra2hPRU1NRUN3SFAtRVkzSWpxTC1iemFEMnA4SU1yWTBzNUJ4YUJETzc2ZlNTcTl3ejgzYlVQRVBWcWp5YU5pV0doTTVQMXI0TE8?oc=5",
     "title": "뉴욕증시, 반도체·AI주 약세에 혼조 마감…엔비디아 7일째 하락(종합)",
     "summary": [
@@ -134,20 +134,6 @@ window.NEWS_DB = [
     ],
     "chips": [
       "#환율"
-    ]
-  },
-  {
-    "id": "n671bb698",
-    "category": "스포츠",
-    "source": "네이트",
-    "time": "19일 전",
-    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9KdGQtY1VveGFTcU1fcVUxX2t3WFptYmE0TVBWWTFqdGVJZFZpb3RURWp1NHRHdGZWNmdWTFNJWVRlUTR4aTFlYWYzcks2RDhvWWNBT1htbm1xeVZ0TGR1Vw?oc=5",
-    "title": "KBO, 연이은 폭염에 프로야구 대책 논의",
-    "summary": [
-      "KBO, 연이은 폭염에 프로야구 대책 논의 네이트."
-    ],
-    "chips": [
-      "#KBO"
     ]
   },
   {
@@ -295,6 +281,20 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n783ebe44",
+    "category": "스포츠",
+    "source": "테크M",
+    "time": "146일 전",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4zeE1CWFFHZzZrMjhfLXJoWERMeW9jVzI5eF91RWV1NUxXelFvT1U5YWpyRjZaQ1NqclNTR1hoRWEwYl9qQmc4WTh5Q29TSWROU3ptQ1ZmXy1rajBVczZ1T1A0RXZ0UdIBakFVX3lxTE4tUUs3ak9IVFI3ZEtUQmg5NUpZbWRwdUN5OEFTU2JqaWN4WWJzMVJVc0pLU1U0UzVZTkRKMlRZSUIyNmhPVjVWMzBTVGxocHc2VUdVZl9rRWdUaXVxTjFSdUpzTzFPdEZHdnc?oc=5",
+    "title": "'야구·축구·골프'로 갈라진 국내 OTT...스포츠 팬덤 경쟁 격화",
+    "summary": [
+      "'야구·축구·골프'로 갈라진 국내 OTT...스포츠 팬덤 경쟁 격화 테크M."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
     "id": "n4a365471",
     "category": "스포츠",
     "source": "v.daum.net",
@@ -376,10 +376,193 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "neb60a1e8",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "12분 전",
+    "url": "https://www.chosun.com/sports/world-baseball/2026/08/26/HA3GEMLCMQ4DKNRZMEYTEYTCMQ/",
+    "title": "'여러분, 드디어 제가 살아났어요! 98경기만에!' 폭망했던 60홈런 포수 기사회생",
+    "summary": [
+      "[스포츠조선 나유리 기자]최악의 슬럼프에 빠져있던 시애틀 매리너스 포수 칼 랄리가 3홈런 경기로 기사회생했다.",
+      "랄리는 25일(이하 한국시각) 미국 시애틀 T-모바일 파크에서 열린 2026 메이저리그(MLB) 필라델피아 필리스와의 홈 경기에서 6번타자-포수로 선발 출전해 3타수 3안타 3홈런 4타점 1볼넷 3득점으로 대활약을 펼쳤다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nb889a9e0",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "13분 전",
+    "url": "https://www.chosun.com/sports/baseball/2026/08/26/MU3DAYJUGUYTKOJVGE2DGMBRMM/",
+    "title": "열흘 재정비 후 'KKKK→멀티히트', 극적 무승부만큼 반가운 '가을영웅' 부활 신호탄",
+    "summary": [
+      "[스포츠조선 정현석 기자]1-3으로 뒤지던 8회말 구자욱의 극적인 동점 싹쓸이 2루타로 3대3 무승부를 만든 삼성 라이온즈.",
+      "치열한 선두 싸움을 펼치고 있는 삼성에 반가운 수확이 또 하나 있었다.",
+      "바로 '가을사나이' 김영웅의 부활 조짐이다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "na2e267ac",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "22분 전",
+    "url": "https://www.newsis.com/view/NISX20260825_0003761762",
+    "title": "\"하루 담배 한 갑 피우면서\"…3500원 커피 마신 아내 타박한 남편",
+    "summary": [
+      "[서울=뉴시스]박세은 인턴 기자 = 3500원짜리 커피를 사 마셨다는 이유로 남편과 시댁으로부터 거센 타박을 받은 아내의 사연이 온라인을 뜨겁게 달구고 있다.",
+      "작성자 A씨는 지난 25일 한 인터넷 모임터에 \"지난달 내가 3500원짜리 커피를 사 마신 일로 남편이 가계부 청문회를 열었다\"라며 억울함을 호소하는 글을 올렸다.",
+      "A씨는 육아에 지친 마음을 달래려 유모차를 끌고 나가 카페에서 음료를 포장해 집으로 돌아왔다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n470a2036",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "23분 전",
+    "url": "https://www.chosun.com/sports/baseball/2026/08/26/G43GMZTDGNSTONBWGNRGIYRYGI/",
+    "title": "10승 핵잠수함의 귀환 → '9연승 막차' 기적 재현할까",
+    "summary": [
+      "[잠실=스포츠조선 한동훈 기자] 핵잠수함 10승 투수가 돌아왔다.",
+      "NC 다이노스가 지난해 가을야구 막차 탑승의 기적 재현을 꿈꾼다.",
+      "24일 잠실 원정길 버스에 오르는 NC 선수단에 반가운 얼굴이 합류했다."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
+    "id": "n9294850d",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "25분 전",
+    "url": "https://www.newsis.com/view/NISX20260826_0003762465",
+    "title": "\"美 CIA 국장, 비밀리에 러시아 방문\" CBS",
+    "summary": [
+      "[서울=뉴시스] 이재우 기자 = 존 랫클리프 미국 중앙정보국(CIA) 국장이 25일(현지시간) 러시아를 방문했다고 미국 CBS 방송이 소식통을 인용해 보도했다.",
+      "사안에 정통한 소식통들은 CBS에 \"랫클리프 국장이 회담을 위해 러시아 모스크바에 있다\"고 말했다.",
+      "랫클리프 국장의 방러 소식은 미국 공군 보잉 C-17A 글로브마스터Ⅲ 수송기가 모스크바 브누코보 공항에서 목격된 이후 나왔다."
+    ],
+    "chips": [
+      "#채용"
+    ]
+  },
+  {
+    "id": "n540f7bfd",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "32분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260826002500099",
+    "title": "'대통령과 갈등설' 탄자니아 부통령 사임",
+    "summary": [
+      "(요하네스버그=연합뉴스) 나확진 특파원= 아프리카 탄자니아의 엠마누엘 은침비 부통령이 25일(현지시간) 사임한다고 발표했다고 AFP 통신 등이 ..."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "ndc4c3ca3",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "37분 전",
+    "url": "https://www.newsis.com/view/NISX20260825_0003761516",
+    "title": "\"한강뷰 장소 대여 65만원\"…불꽃축제 앞두고 명당 거래 '들썩'",
+    "summary": [
+      "[서울=뉴시스]박세은 인턴 기자 = 오는 9월5일 서울 여의도 한강공원에서 열리는 서울세계불꽃축제를 앞두고 온라인에서 ‘불꽃 명당’ 거래가 활발해지고 있다.",
+      "한강 조망이 가능한 공간부터 숙박시설, 주차권까지 다양한 거래가 이어지고 있다.",
+      "25일 당근마켓 등 중고거래 플랫폼 등에는 한강 조망 장소를 대여하거나 주차권이나 돗자리, 숙박권 등을 판매한다는 게시글이 잇따라 올라오고 있다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "ndc7bb855",
+    "category": "경제",
+    "source": "연합뉴스",
+    "time": "40분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260826002200072",
+    "title": "'관세' 넘어 '주권'으로 번진 쟁점…미·캐나다 협상 결렬 내막",
+    "summary": [
+      "(뉴욕=연합뉴스) 김연숙 특파원 = 최근 미국과 캐나다의 무역 협상이 전격 결렬된 데에는 자동차와 철강 관세뿐만 아니라 캐나다의 대외 무역 정책..."
+    ],
+    "chips": [
+      "#정책",
+      "#수출"
+    ]
+  },
+  {
+    "id": "na37ef76b",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "48분 전",
+    "url": "https://www.newsis.com/view/NISX20260826_0003762460",
+    "title": "트럼프, '한미 연합훈련 축소' SNS 9일만에 시제 바꿔 재게재",
+    "summary": [
+      "[서울=뉴시스] 이재우 기자 = 도널드 트럼프 미국 대통령이 25일(현지시간) 한미연합훈련을 대폭 축소하라고 지시했다는 게시물을 9일만에 시제를 과거형으로 바꿔 다시 게재했다.",
+      "트럼프 대통령은 이날 오전 소셜미디어 트루스소셜에 \"김정은 북한 국무위원장과 매우 좋은 관계를 고려할 때 나는 미국이 오래전 한국과 연합군사훈련에 참여하기로 했다는 사실이 달갑지 않았다\"고 적었다.",
+      "이어 \"이 훈련은 비용이 많이 들뿐 아니라 그 비용의 상당 부분을 미국이."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n50945180",
+    "category": "부동산",
+    "source": "연합뉴스",
+    "time": "53분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260826002600079",
+    "title": "이란 \"美 대이란 경제전쟁은 전세계 주권에 대한 공격\"",
+    "summary": [
+      "(카이로=연합뉴스) 김상훈 특파원 = 이란 외무부는 25일(현지시간) 미국의 대(對)이란 경제 전쟁이 이란을 넘어 전 세계 모든 국가의 주권에 ..."
+    ],
+    "chips": [
+      "#전세"
+    ]
+  },
+  {
+    "id": "nb668f032",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "56분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260826002300087",
+    "title": "브라질, 틱톡에 400억원대 과징금…'디지털 아동보호' 규제 강화",
+    "summary": [
+      "(멕시코시티=연합뉴스) 송광호 특파원 = 브라질 정부가 아동·청소년의 개인 정보를 무단 수집하고 처리한 글로벌 숏폼 플랫폼 '틱톡'의 모회사 바..."
+    ],
+    "chips": [
+      "#정책"
+    ]
+  },
+  {
+    "id": "n7ddea8f3",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "59분 전",
+    "url": "https://www.donga.com/news/Culture/article/all/20260826/134544376/1",
+    "title": "도심 루프탑서 감각을 깨우다…코트야드 메리어트 서울명동 ‘웰니스 클래스’ 성료",
+    "summary": [
+      "코트야드 메리어트 서울 명동이 지난 20일 고층 루프탑 야외 공간인 ‘테라스 194’에서 미각 명상과 신체 수련을 결합한 일일 강좌를 마쳤다고 밝혔다.",
+      "일상의 피로를 해소하고 신체 조화를 도모하기 위해 기획된 이번 행사는 인지 감각을 극대화하는 체험형 휴식 방식으로 구성됐다.수강생들은 포도를 비롯해 말린 포도가 첨가된 그래놀라 요거트, 발효 음료인 포도 콤부차를 단계별로 섭취하며 풍미와 촉감, 향 등 다각적인 자극에 집중하는 시식 명상을 진행했."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
     "id": "n90b92539",
     "category": "부동산",
     "source": "동아일보",
-    "time": "2분 전",
+    "time": "1시간 전",
     "url": "https://www.donga.com/news/Society/article/all/20260826/134544368/1",
     "title": "“결혼 테스트였다”…1년 넘게 자가를 월세라 속인 예비 남편",
     "summary": [
@@ -391,179 +574,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n79284ae2",
-    "category": "경제",
-    "source": "연합뉴스",
-    "time": "5분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260826000751072",
-    "title": "캐나다, 美에 200억달러 보복관세…700개 품목에 15~50%(종합)",
-    "summary": [
-      "(뉴욕=연합뉴스) 임수정 김연숙 특파원 = 캐나다 정부가 25일(현지시간) 약 200억달러 규모의 미국산 제품에 최고 50%의 보복관세를 부과하..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nad3597b7",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "6분 전",
-    "url": "https://www.chosun.com/sports/baseball/2026/08/26/GBQWMNJQMJQTAMZUMMZDONZVGU/",
-    "title": "이 무슨 운명의 장난인가 \"무승부 때문에 타이브레이컷 못할 걸\"...그러자 삼성이 바로 만들어버렸다",
-    "summary": [
-      "[스포츠조선 김용 기자] \"무승부 만들라고 해.\" 그러니 진짜 만들었다.",
-      "타이브레이커 인연이 올해도 이어질 수 있을까.",
-      "KBO는 25일 KBO리그 잔여경기 일정을 발표했다."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
-    "id": "n0e7f2125",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "8분 전",
-    "url": "https://www.chosun.com/sports/world-football/2026/08/26/GJRTCMDGGFRTKMZYG4ZTEOJSHE/",
-    "title": "이런 망신이…리즈+레인저스 구단주, 美서 성매매 혐의로 체포",
-    "summary": [
-      "[스포츠조선 박상경 기자] 명망 높던 스포츠 재벌에서 한 순간에 '성범죄자'로 추락했다.",
-      "BBC, ESPN 등은 25일(한국시각) 잉글랜드 프리미어리그 리즈 유나이티드, 스코틀랜드 프리미어리그 레인저스의 공동 구단주이자 내셔널풋볼리그(NFL) 샌프란시스코 포티나이너스 구단주인 제드 요크가 미국 오하이오주에서 성매매 알선 혐의로 체포됐다고 전했다."
-    ],
-    "chips": [
-      "#EPL"
-    ]
-  },
-  {
-    "id": "nc245ef35",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "8분 전",
-    "url": "https://www.chosun.com/entertainments/broadcast/2026/08/26/MVQTONZSGA3WCODCMFSGKNJUGE/",
-    "title": "김장훈, 길거리 전도 현장 취재..\"이러면 사람들이 무서워해\" ('고나리자')",
-    "summary": [
-      "영상 시청 후 작성된 리뷰 기사입니다.[OSEN=최지연 기자] 가수 김장훈이 길거리에서 포교하는 사람과 대화했다.",
-      "지난 21일 유튜브 채널 '고나리자'에는 '이거 왜 하시는 거예요?'라는 제목의 영상이 게재됐다.",
-      "이날 제작진은 김장훈에게 \"길을 가다 보면 불신지옥 팻말 들고 계신 분들이 계신데 그분들의 이야기를 들어보고 싶다\"고 말문을 열었다.제작진은 계속."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n086c0e90",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "9분 전",
-    "url": "https://www.chosun.com/sports/world-baseball/2026/08/26/HEYGIMBRGZQTQYZQGBQWGYZQHA/",
-    "title": "'160㎞ 펑펑 → 2년차 사이영' 24세 투수 추락, '버두치 효과' 창시자가 본 문제점은",
-    "summary": [
-      "[스포츠조선 박상경 기자] 성공을 거듭하던 파이어볼러에게 대체 무슨 일이 생긴걸까.",
-      "폴 스킨스(24·피츠버그 파이어리츠)의 급격한 추락은 올 시즌 메이저리그 최대 미스터리 중 하나다.",
-      "2024년 빅리그에 데뷔한 그는 100마일(약 160.9㎞) 구속의 패스트볼을 어렵지 않게 뿌리면서 혜성처럼 등장했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nd93e69d1",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "11분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260826001500071",
-    "title": "\"美 CIA 국장, 우크라전 교착 속 회담차 극비 방러\"",
-    "summary": [
-      "(워싱턴=연합뉴스) 홍정규 특파원 = 존 랫클리프 미국 중앙정보국(CIA) 국장이 러시아를 방문했다고 25일(현지시간) 미 CBS 방송이 보도했..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n36057c76",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "16분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260826002000079",
-    "title": "이스라엘 국방, 시리아 완충지대 방문…\"군대 철수 안 해\"",
-    "summary": [
-      "(카이로=연합뉴스) 김상훈 특파원 = 이스라엘 카츠 이스라엘 국방부 장관은 25일(현지시간) 시리아 남부에 설정한 완충지대를 방문해 군대를 철수..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n5ef19e6a",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "18분 전",
-    "url": "https://www.newsis.com/view/NISX20260826_0003762464",
-    "title": "\"이란·오만, 호르무즈 공동 임시 항로 조성·기뢰 제거 합의\" IRNA",
-    "summary": [
-      "[서울=뉴시스] 이재우 기자 = 이란과 오만은 25일(현지시간) 호르무즈 해협의 안전한 항행 재개를 위한 양국 협의의 틀 안에서 공동 임시 항로를 조성하고 호르무즈 해협내 기뢰 제거 공동사업을 추진하기로 합의했다.",
-      "이란 국영 IRNA통신에 따르면 이란과 오만 외무부는 이날 바드르 알부사이디 오만 외무장관의 테헤란 방문 종료에 맞춰 이같은 공동 성명을 발표했다.",
-      "알부사이디 장관은 이날 이란을 실무 방문해 아바스 아락치 이란 외무장관과 회동했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n14b7310c",
-    "category": "스포츠",
-    "source": "머니투데이",
-    "time": "22분 전",
-    "url": "https://www.mt.co.kr/sports/2026/08/26/2026082515453536563",
-    "title": "축구협회 '먼데이 브리핑' 결국 없던 일로, 판정 관련 '불통 논란' 여전",
-    "summary": [
-      "대한축구협회(KFA)가 심판 판정과 관련해 대외 소통에 힘쓰겠다며 약속했던 '먼데이(월요일) 브리핑'이 사실상 '없던 일'이 됐다.",
-      "이용수 부회장이 직접 심판 정책 발표회까지 열고 먼데이 브리핑을 예고한 지 6개월 만이다.",
-      "단 한 번도 먼데이 브리핑을 진행하지 않았던 축구협회는 대신 보도자료 형식의 판정 브리핑을 통해 관련 이슈를 설명한다는 계획이다."
-    ],
-    "chips": [
-      "#정책"
-    ]
-  },
-  {
-    "id": "n9cb2530b",
-    "category": "스포츠",
-    "source": "머니투데이",
-    "time": "22분 전",
-    "url": "https://www.mt.co.kr/sports/2026/08/26/2026082519374892740",
-    "title": "'세계 최강' 안세영 위엄, 완패한 '랭킹 2위' 극찬 세례 \"존재만으로도 매우 감사... 나를 성장시켜 줘\"",
-    "summary": [
-      "배드민턴 여자 단식 세계 랭킹 1위 안세영(24·삼성생명)의 압도적인 기량에 결승전 맞대결 상대였던 일본의 라이벌 야마구치 아카네(29)마저 혀를 내둘렀다.",
-      "일본 매체 '닛테레뉴스'는 25일 인도 뉴델리에서 열린 2026 세계선수권대회를 마치고 은메달을 목에 건 채 귀국한 야마구치의 인터뷰를 전했다.",
-      "준결승까지 4경기 연속 무실세트 승리를 거두며 결승에 올랐던 야마구치는 결승에서 안세영에게 세트 스코어 0-2로 완패하."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n9430a716",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "22분 전",
-    "url": "https://www.newsis.com/view/NISX20260825_0003761854",
-    "title": "\"피곤하고 나비모양 반점\"…2040 노리는 '이 질환'",
-    "summary": [
-      "[서울=뉴시스] 류난영 기자 = 최근 20~40대 여성에게서 전신홍반루푸스(SLE)가 꾸준히 발생하고 있다.",
-      "루푸스는 면역체계가 자신의 정상 조직을 공격해 만성 염증을 일으키는 대표적인 자가면역질환으로, 환자의 약 90%가 여성이다.",
-      "특히 가임기 여성에게 흔하게 발생하며, 학업과 직장생활이 활발한 젊은 연령층에서 주로 진단된다."
-    ],
-    "chips": [
-      "#의료"
-    ]
-  },
-  {
     "id": "n930e440b",
     "category": "스포츠",
     "source": "아시아경제",
-    "time": "23분 전",
+    "time": "1시간 전",
     "url": "https://view.asiae.co.kr/article/2026082521444703974",
     "title": "김시우의 새 이정표 출격…‘한국 선수 첫 페덱스컵 우승 도전’",
     "summary": [
@@ -576,40 +590,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n36c96579",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "23분 전",
-    "url": "https://www.newsis.com/view/NISX20260825_0003760924",
-    "title": "\"남편 다신 안 만난다\" 빌더니…불륜 잡히자 스토킹범 몰아세운 내연녀",
-    "summary": [
-      "[서울=뉴시스]이지우 인턴 기자 = 동거 중인 남편의 외도로 사실혼 관계를 정리하던 40대 여성이 내연녀로부터 스토킹 혐의로 고소를 당하는 사건이 발생했다.",
-      "JTBC '사건반장'은 지난 24일 사실혼 관계인 남편의 불륜 여파로 갈등을 겪다 내연녀에게 스토킹 혐의로 피소된 A씨의 제보 내용을 전했다.",
-      "A씨는 남자친구와 동거했지만 혼인 신고는 하지 않은 채 사실혼 관계를 이어갔다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nd272de12",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "25분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260825175552053",
-    "title": "연락 두절 中유학생 끝내 주검으로…실종신고 남성이 피의자(종합2보)",
-    "summary": [
-      "(경산=연합뉴스) 김현태 김선형 황수빈 기자 = 졸업식 참석을 위해 한국을 찾았던 경북 경산시 한 대학원 20대 중국인 여성 유학생이 실종 닷새..."
-    ],
-    "chips": [
-      "#교육"
-    ]
-  },
-  {
     "id": "n557b77d8",
     "category": "경제",
     "source": "동아일보",
-    "time": "30분 전",
+    "time": "1시간 전",
     "url": "https://www.donga.com/news/Inter/article/all/20260826/134544318/1",
     "title": "캐나다 “미국산 700개 품목에 15~50% 보복관세…9월8일 발효”",
     "summary": [
@@ -625,11 +609,25 @@ window.NEWS_DB = [
     "id": "n87064d17",
     "category": "경제",
     "source": "한국경제",
-    "time": "38분 전",
+    "time": "1시간 전",
     "url": "https://www.hankyung.com/article/2026082625486",
     "title": "\"시티 프로토콜, 1100만불 투자 유치\"",
     "summary": [
       "\"시티 프로토콜, 1100만불 투자 유치\"."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n48dbeff3",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "1시간 전",
+    "url": "https://www.donga.com/news/Entertainment/article/all/20260826/134544303/1",
+    "title": "지연수, 출산 후 30㎏ 감량…“미역국 미역도 물에 씻어 먹었다”",
+    "summary": [
+      "레이싱모델 출신 방송인 지연수가 임신 기간 체중이 45㎏에서 78㎏까지 늘었다가 출산 50일 만에 30㎏ 가까이 감량했다고 밝혔다.지난 24일 구독자 약 4만 7000명을 보유한 유튜브 채널 ‘지연수의 연수롭다’에 지연수의 출산 후 체중 감량 방법이 담긴 영상이 올라왔다.지연수는 “45㎏에 임신했는데 78㎏에 아이를 낳았다”며 “아이를 낳았는데도 4㎏밖에 안 빠졌다”고 당시를 떠올렸다.제작진이 “그걸 어떻게 뺐느냐”고 묻자, 지연수는 “살을 뺀."
     ],
     "chips": [
       "#뉴스"
@@ -642,8 +640,8 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2330건",
-    "trend": "+255%"
+    "mentions": "2070건",
+    "trend": "+215%"
   },
   {
     "rank": 2,
