@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-08-26 18:49:16
+// 마지막 업데이트: 2026-08-26 21:27:18
 window.NEWS_DB = [
   {
     "id": "n301c4ffa",
     "category": "IT",
     "source": "mstoday.co.kr",
-    "time": "9시간 전",
+    "time": "12시간 전",
     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5IanVjejRKZXFadWtyUkx4QUZRN2x1LVZJTmgwLTNwelRoeTFSMWZrSjN6OXhUNUxOdFEtTmh5aWJIbFpFRlFaNW1ISFlUa1YwcDRFSWVwUGhCa1BQdXNmc2YwOFMxeE5rZUpWaA?oc=5",
     "title": "엔비디아 ‘운명의 실적’…AI 반도체 랠리 시험대",
     "summary": [
@@ -18,14 +18,30 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n3242be87",
+    "category": "IT",
+    "source": "뉴시스",
+    "time": "12시간 전",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9ENXpwNVlVMzRSUFRRMUV3TjJiU2hJVU9USFFad2FORVU1U0lNUnVmX3dqbnJfVXpVTHZGZ3Q3SURWMnNJamdqdlpjMndmOVU2TkJEdTFVVWx4dDVnX1gwSdIBeEFVX3lxTE1nSWRpUGQwSXZMMDZLWGVzY0RjeVVNbDM0YW1vTFlFVGVUNkY1aHRucDJ3eGFLS1QwT2w0aDBqY1lFUkE4M2hvTnl6dXFmV1NXdDlQWnB5QXV4aWlZWGZmZ3RhQWwzTmlpT0dmU3Z2OHhrcnctb1d3Tw?oc=5",
+    "title": "\"AI칩 얼마나 팔고, HBM 얼마나 살까\"…韓 반도체, 엔비디아 컨콜 메시지 '주목'",
+    "summary": [
+      "\"AI칩 얼마나 팔고, HBM 얼마나 살까\"…韓 반도체, 엔비디아 컨콜 메시지 '주목' 뉴시스."
+    ],
+    "chips": [
+      "#AI",
+      "#반도체",
+      "#엔비디아"
+    ]
+  },
+  {
     "id": "ncc170231",
     "category": "IT",
     "source": "비즈니스포스트",
-    "time": "11시간 전",
+    "time": "14시간 전",
     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE8xazNWS1UzNzBGV0t6aFFwLVlpSVJvR2xaSkJGMy1pTlEyV0ltdFZvZFRXQkdOdV9NMFY1RW52SUhFWUk0blVJOHFfU2hlZjF3aXpfUmx5bEZjbS1IcjVDWWt3WmpvcUVacG1HbWRVU1BQV1E?oc=5",
-    "title": "엔비디아 실적 발표 이후가 주가에 관건, AI 반도체 경쟁력과 중국 수출 성과에 시장 주목",
+    "title": "엔비디아 실적 발표 이후에도 주가 반등 장담 못해, AI 반도체 경쟁력과 중국 수출 성과에 시장 주목",
     "summary": [
-      "엔비디아 실적 발표 이후가 주가에 관건, AI 반도체 경쟁력과 중국 수출 성과에 시장 주목 비즈니스포스트."
+      "엔비디아 실적 발표 이후에도 주가 반등 장담 못해, AI 반도체 경쟁력과 중국 수출 성과에 시장 주목 비즈니스포스트."
     ],
     "chips": [
       "#AI",
@@ -35,25 +51,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nfcd42b60",
-    "category": "IT",
-    "source": "글로벌이코노믹",
-    "time": "12시간 전",
-    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxObTRNdFVVNTRVVUg5VE9lbDFqY0locF82eTBMRnZvTDAxSVp1T2pMaEdTcFQ2dkJlMUdYeGR3bXQxUGRlTDJmMGlDeTNBTmd5c2F5T1JIMmcwTU5lNmNRajBqU0ZwZXJGblRQakpHZ3F0Z2ZmNWVncVRlaUk3V1NFenNkTjlBTVBH?oc=5",
-    "title": "\"오픈AI 칩, 엔비디아 넘었다\"… 소프트뱅크 주가 2.8% 쑥",
-    "summary": [
-      "\"오픈AI 칩, 엔비디아 넘었다\"… 소프트뱅크 주가 2.8% 쑥 글로벌이코노믹."
-    ],
-    "chips": [
-      "#AI",
-      "#엔비디아"
-    ]
-  },
-  {
     "id": "n244b0da4",
     "category": "사회",
     "source": "경북매일",
-    "time": "17시간 전",
+    "time": "20시간 전",
     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBYUEFCOVNDZG1rQ3VxRlNlRFJQSDF1aVRMZmxFS09FNWRndks2eEVEVEx1RkQteERzdTJ0WVhXY2JBNUIxVVdBb1NtaU5HS3lRUWxfNFRPQ25YZw?oc=5",
     "title": "경주시시설관리공단-경주시취업지원센터, 지역 일자리 활성화 ‘맞손’",
     "summary": [
@@ -97,7 +98,7 @@ window.NEWS_DB = [
     "id": "n82852efd",
     "category": "IT",
     "source": "IT조선",
-    "time": "3일 전",
+    "time": "4일 전",
     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9EMmxiS0xwVXY2cFVsVlFXOXVIRExMcGRhRXhuUUpfbXVnZHJDTTFxX1IwYkJHV3BMSjRLNmhueUViUzFQcE9adlVrNG5GSUZQZWQyRGJaTUhHMmg2aVpISFN4a2Z5Y3dIWURaV2FpVmjSAXRBVV95cUxPMG9TemRUQmdxVUxBblAwdzEzanAzMWRGU0hmVXlUVHR0VXVsWVdjSFU0R3VSbGRzOHF4Rnd4cktXSk5VMmY5cEJZdjI5elZiOXpuNzVYSFJUNzhyYzNrcEU5aTVhVWJfVTY5WVJtUmI1WVlHcg?oc=5",
     "title": "‘HBM 묶어 파는’ 삼성 파운드리, TSMC 틈새 뚫고 흑자 시동",
     "summary": [
@@ -238,20 +239,6 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n79d12fb6",
-    "category": "부동산",
-    "source": "Chosunbiz",
-    "time": "89일 전",
-    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQc01fQzQ5RjhjTzMxV0xObHgwUFQ5Z0ozcklaR19VYmhUOXBxVURFZVBjZkxKT2ozQUhsVzViV1JCLXdvVUQ1YWVwYTA5bVB1TjdaYlZHTXFCQUJoRTBsdHNHZXZ5MnJQdVliYzVUUktidVpvNDNzWVJXakYzUFBTMFMxd1Y0NFVrTnhSR1c5WXctLTdFRnhJMtIBrAFBVV95cUxOMk9EaXo0bmRJdnJyRVgyM0REZE1IR1VEVkNzWVNHZW9nR3p3WDRXcXQ0dnpfNk5LRE9SVFVscW45RzlqYTZGTWhWdTlybngycnM5QUliSG1haVFoQW5xT3ZpbFJvWU5hYjNYUGNLTHVyNHgwcDdLZWFsdFhMTHhCNlBodDFsdkFTT0tFX3NXWGZ1M2hCTEpmbTVUVXRzREtvSy1CdkRyWE5sbU5p?oc=5",
-    "title": "매물 줄고 분양가 뛰고… 전국 아파트 매매·전셋값 동반 상승세 지속 - 조선비즈",
-    "summary": [
-      "매물 줄고 분양가 뛰고… 전국 아파트 매매·전셋값 동반 상승세 지속 - 조선비즈 Chosunbiz."
-    ],
-    "chips": [
-      "#부동산"
-    ]
-  },
-  {
     "id": "nb9bdfdfb",
     "category": "스포츠",
     "source": "푸드투데이",
@@ -278,6 +265,21 @@ window.NEWS_DB = [
     ],
     "chips": [
       "#스타트업"
+    ]
+  },
+  {
+    "id": "n08b2b275",
+    "category": "부동산",
+    "source": "한국부동산뉴스",
+    "time": "134일 전",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBZNmg3TVp4ZWZCV1ZzTE14bXV5UkN4MExnMmZJdkpfNUsyUGltRWlJVWVfUzJoQktRUlcwMTdrUUtuWk9pR2MxaFlhNGpOU0xGZjM3eDUwdlNmRWQtYkFaenAyekhVRGRRY0pJ?oc=5",
+    "title": "대출 규제에 몰린 '15억 이하'…비강남 집값·분양가 동반 상승",
+    "summary": [
+      "대출 규제에 몰린 '15억 이하'…비강남 집값·분양가 동반 상승 한국부동산뉴스."
+    ],
+    "chips": [
+      "#부동산",
+      "#정책"
     ]
   },
   {
@@ -374,254 +376,253 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n31ee665e",
+    "id": "n93b45cee",
+    "category": "IT",
+    "source": "조선비즈IT",
+    "time": "2분 전",
+    "url": "https://biz.chosun.com/it-science/ict/2026/08/27/MT4BH7VGOZFHJNMDF6GBI7YX2I/",
+    "title": "엔비디아, 분기 매출 133조원·영업익 88조원… 13분기 연속 최대",
+    "summary": [
+      "엔비디아, 분기 매출 133조원·영업익 88조원… 13분기 연속 최대."
+    ],
+    "chips": [
+      "#엔비디아"
+    ]
+  },
+  {
+    "id": "na216014a",
     "category": "스포츠",
     "source": "조선일보",
-    "time": "10분 전",
-    "url": "https://www.chosun.com/sports/world-baseball/2026/08/27/MM2WGOLEHE4DEYTGGFSDIMZSGE/",
-    "title": "\"KIM, 팀에 남겨둘 이유 전혀 없어\"…2년 연속 웨이버 굴욕일까, 277억 아까워도 김하성 방출 주장",
+    "time": "4분 전",
+    "url": "https://www.chosun.com/sports/baseball/2026/08/27/MI2DGZRWMY3TKNBVGUYTMNBYGE/",
+    "title": "'패전만 10번' ERA 7.86 아시아쿼터, 어떻게든 살려쓸 것인가…\"일단 불펜으로 테스트\"",
     "summary": [
-      "[OSEN=조형래 기자] “애초에 팀에 남겨둘 이유가 없었다.”애틀랜타는 지난 25일(이하 한국시간), 신인 유격수 짐 자비스를 마이너리그로 내려보냈다.",
-      "대신 트리플A에서 브루어 히클렌을 메이저리그로 콜업했다.",
-      "김하성에게 희소식일 수도 있지만, 현지에서는 김하성과 전혀 관계가 없을 것이라는 게 중론이다.애초에 김하성이 방출됐어야 하는 주장도 있다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n5aa98f55",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "18분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260827004800071",
-    "title": "美야당 주도 24개州, 트럼프 '우편투표 제한'에 또 소송",
-    "summary": [
-      "(워싱턴=연합뉴스) 박성민 특파원 = 미국 야당 민주당이 장악한 주(州)들이 26일(현지시간) 도널드 트럼프 미 대통령의 '우편투표 제한' 행정..."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n20561e19",
-    "category": "스포츠",
-    "source": "연합뉴스",
-    "time": "22분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260827004900084",
-    "title": "동남아축구 정상 베트남, 전국 붉은 금성홍기 물결",
-    "summary": [
-      "(하노이=연합뉴스) 박진형 특파원 = \"베트남∼ 호찌민∼!\", \"디 바오 토이(폭풍 응원 가자)!\"."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n99228319",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "29분 전",
-    "url": "https://www.chosun.com/sports/baseball/2026/08/27/MY2GEYJRG4YDEMZSMU2DQZLDME/",
-    "title": "20안타 쳤는데 3연패라니...에이스 8실점 와르르, 외야수 뼈아픈 판단미스, 롯데 멀어지는 가을야구",
-    "summary": [
-      "[OSEN=광주, 이선호 기자] 갈 길 바쁜 롯데 자이언츠가 3연패에 빠졌다.",
-      "롯데는 26일 광주-기아 챔피언스필드에서 열린 2026 신한은행 SOL KBO리그 KIA 타이거즈와의 팀간 14차전에서 11-16으로 패했다.",
-      "시즌 국단 최다 타이인 20안타 2볼넷을 터트렸는데도 응집력이 부족했다."
+      "[OSEN=인천, 조은혜 기자] 극심한 부진에 2군으로 내려간 프로야구 SSG 랜더스 아시아쿼터 타케다 쇼타가 불펜으로 보직을 바꾼다.타케다는 지난 19일 삼성전에서 2이닝 6실점으로 시즌 10패를 기록한 뒤 이튿날 1군 엔트리에서 말소됐다.",
+      "벌써 시즌 세 번째 1군 말소.",
+      "타케다는 올해 20경기 등판해 2승10패 평균자책점 7.86으로 부진했다."
     ],
     "chips": [
       "#KBO"
     ]
   },
   {
-    "id": "n7a951702",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "29분 전",
-    "url": "https://www.donga.com/news/Society/article/all/20260827/134553020/1",
-    "title": "“죽음 문턱” 조정래 괴롭힌 복부대동맥…어떤질환?",
+    "id": "nea225428",
+    "category": "경제",
+    "source": "아시아경제",
+    "time": "6분 전",
+    "url": "https://view.asiae.co.kr/article/2026082515365709120",
+    "title": "평당 매출 '억소리'…제주 올리브영, 전국평균 3배 웃돈다",
     "summary": [
-      "3년 만에 신작 장편 소설 ‘서리꽃’을 발표한 조정래 작가가 지난해 9월 복부대동맥 수술을 받으며 죽음의 문턱을 넘었다는 사실을 공개하면서 이 질환에 대한 관심이 높아지고 있다.",
-      "27일 의료계에 따르면 복부대동맥류는 복부에 있는 대동맥이 풍선처럼 서서히 부풀어 오르는 질환이다.",
-      "대동맥은 심장에서 나온 혈액을 온몸으로 보내는 가장 큰 혈관으로, 복부대동맥은 배와 골반, 다리로 혈액을 공급한다."
+      "CJ올리브영 점포 중 제주 지역 가맹점의 연평균 매출액이 75억원을 넘어선 것으로 나타났다.",
+      "이는 전국 올리브영 점포 매출의 3배가 넘는 규모다.",
+      "1평당(3.3㎡) 연평균 매출액도 1억2800만원을 웃돌며 전국 평균의 2.5배에 달하는 것으로 조사됐다."
     ],
     "chips": [
-      "#의료"
+      "#뉴스"
     ]
   },
   {
-    "id": "n510f4b5e",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "30분 전",
-    "url": "https://www.donga.com/news/Inter/article/all/20260827/134553017/1",
-    "title": "트럼프 “이란 최고지도자 모즈타바 사망하지 않은 듯”",
+    "id": "n2f680b9d",
+    "category": "경제",
+    "source": "한국경제",
+    "time": "6분 전",
+    "url": "https://www.hankyung.com/article/202608251335H",
+    "title": "[단독] \"중국 좋은 일만 한다\"…화장품 사장님들 '공포' [K갈라파고스: 족쇄의 세계]",
     "summary": [
-      "도널드 트럼프 미국 대통령이 약 6개월 전 취임한 모즈타바 하메네이 이란 최고지도자의 사망설을 부인하면서도 그가 심각한 부상을 입었다고 주장했다.트럼프 대통령은 26일(현지 시간) 보수 성향 방송인 글렌 벡의 라디오 프로그램과의 전화 인터뷰에서 “그가 사망했다고 생각하지 않는다”고 밝혔다.트럼프 대통령은 “그는 매우 심각한 부상을 입었다”며 “왼쪽 팔과 다리 등 좌반신 전체를 크게 다쳤지만 사망하지는 않은 것으로 본다”고 말했다.다만 모즈타바가."
+      "[단독] \"중국 좋은 일만 한다\"…화장품 사장님들 '공포' [K갈라파고스: 족쇄의 세계]."
     ],
     "chips": [
-      "#정치"
+      "#뉴스"
     ]
   },
   {
-    "id": "n1d362a66",
+    "id": "n6e3587dc",
     "category": "스포츠",
-    "source": "조선일보",
-    "time": "30분 전",
-    "url": "https://www.chosun.com/sports/sports_general/2026/08/27/HEZTGNLDGNSTOODDMEYDMYZUG4/",
-    "title": "\"비밀이에요\" 웃었던 안세영이 결국 공개한 '세계 최강'의 답...더 훈련하고 준비한 자신을 향한 '무한 신뢰'",
+    "source": "연합뉴스",
+    "time": "8분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260827010300007",
+    "title": "'메이저 5승' 켑카, 2027시즌 가상현실 골프리그 TGL에 합류",
     "summary": [
-      "[OSEN=정승우 기자] 안세영(24, 삼성생명)이 세계 최강의 자리에 오를 수 있었던 비결은 특별한 기술이나 상대만을 겨냥한 전략이 아니었다.",
-      "매일 반복한 훈련과 그렇게 준비한 자신을 끝까지 의심하지 않는 '무한 신뢰'였다.\"내가 어떻게 하면 너를 이길 수 있을까?\"세계랭킹 3위 왕즈이(26, 중국)가 세계랭킹 1위 안세영에게 직접 물었다."
+      "(서울=연합뉴스) 최태용 기자 = 메이저 골프 대회에서 5승을 거둔 브룩스 켑카(미국)가 2027시즌부터 가상현실 골프리그인 TGL에 합류한다...."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n4e253b29",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "30분 전",
-    "url": "https://www.donga.com/news/Society/article/all/20260827/134553014/1",
-    "title": "“보험금 한 푼 못 받았다더니”…동생을 깎아내린 친언니의 두 얼굴",
-    "summary": [
-      "암 투병 중인 친언니의 보험 가입을 도와 5000만원이 넘는 보험금을 받도록 챙겼으나, 오히려 동생의 도움을 거절당했다는 허위 소문에 휩싸인 여성의 사연이 알려졌다.26일 온라인 커뮤니티에는 “제가 들어준 보험으로 암보험금을 받은 친언니가 역으로 저를 험담하는 걸 들었습니다”라는 제목의 글이 올라왔다.작성자 A씨는 아버지가 암으로 세상을 떠난 뒤 평소 몸이 좋지 않았던 친언니가 걱정돼 보험 가입을 챙겼다고 밝혔다.과거 유사암 수술 이력이 있던."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nd71db457",
+    "id": "n2222af05",
     "category": "사회",
     "source": "연합뉴스",
-    "time": "32분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260827004300075",
-    "title": "'록키 호러 픽쳐 쇼' 컬트의 전설 팀 커리 별세…향년 80세",
+    "time": "9분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260827008300007",
+    "title": "재정난 겪는 LIV 골프, 다음 주부터 직원 대량 해고 통보",
     "summary": [
-      "(라스베이거스=연합뉴스) 김경윤 특파원 = 영화 '록키 호러 픽쳐 쇼'에서 주연인 여장남자 미치광이 과학자를 연기해 컬트 영화계 아이콘으로 꼽혀..."
+      "(서울=연합뉴스) 최태용 기자 = 사우디아라비아 국부펀드(PIF)의 지원이 끊긴 LIV 골프가 다음 주부터 직원들의 대량 해고를 예고했다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n9ecc6586",
+    "id": "n9511d648",
+    "category": "스포츠",
+    "source": "연합뉴스",
+    "time": "10분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260827007600007",
+    "title": "시니어 골퍼 고겔, 골프 도박 혐의로 6개월 출전 정지",
+    "summary": [
+      "(서울=연합뉴스) 최태용 기자 = 미국프로골프(PGA) 투어의 시니어 투어인 챔피언스에서 활동하는 맷 고겔(미국)이 골프 경기에 돈을 건 혐의로..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n23ba7623",
     "category": "사회",
     "source": "뉴시스",
-    "time": "34분 전",
-    "url": "https://www.newsis.com/view/NISX20260827_0003764322",
-    "title": "이란군 \"해외 페르시아어 매체, 군사 공격대상 될 수도\"",
+    "time": "10분 전",
+    "url": "https://www.newsis.com/view/NISX20260827_0003764334",
+    "title": "서산 인지면 창고서 불…4300만원 피해",
     "summary": [
-      "[서울=뉴시스] 문예성 기자 = 이란군이 이란인터내셔널과 영국 BBC, 라디오파르다 등 해외 페르시아어 매체를 군사 공격 대상으로 지정할 수 있다고 위협했다.",
-      "26일(현지 시간) 이란 반관영 메흐르통신에 따르면 아볼파즐 셰카르치 이란군 대변인은 이들 매체가 이란의 ‘군사 표적 목록’에 포함될 수 있다고 밝혔다.",
-      "셰카르치 대변인은 “우리는 이들 기관을 언론으로 보지 않는다”며 “이곳에서 일하는 사람들은 시온주의와 범죄국가 미국의 병사로 간주되며."
+      "[서산=뉴시스]김덕진 기자 = 지난 26일 오후 8시28분께 충남 서산시 인지면의 한 창고에서 불이 나 약 4시간 만에 진화됐다.",
+      "27일 서산소방서에 따르면 목격자가 \"창고에서 불이 나고 있다\"고 신고했다.",
+      "소방당국은 소방차 등 16대와 대원 등 52명을 투입해 전날 오후 11시58분께 화재를 진압했다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n623d28a7",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "47분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260827004700091",
-    "title": "[속보] 네팔 홍수 사망자 160명으로 늘어 < AFP>",
-    "summary": [],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n2dc47ac6",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "49분 전",
-    "url": "https://www.chosun.com/culture-life/food-taste/2026/08/27/IOFEFWMXL5FQ7NKJKQ2THYL6KI/",
-    "title": "“미역국이 이렇게 특별했나”… 전국 미역국 맛집 탐방",
-    "summary": [
-      "“미역국이 이렇게 특별했나”… 전국 미역국 맛집 탐방."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nd8a7567d",
+    "id": "n412c4f9e",
     "category": "경제",
-    "source": "뉴시스",
-    "time": "1시간 전",
-    "url": "https://www.newsis.com/view/NISX20260827_0003764321",
-    "title": "트럼프 \"이란과의 협상 복귀 시한 없어…서두르지 않아\"",
+    "source": "한국경제",
+    "time": "12분 전",
+    "url": "https://www.hankyung.com/article/202608275390i",
+    "title": "\"한국에 더 밀릴 순 없다\"…세계 3위 키옥시아, 1조엔 '승부수' [도쿄나우]",
     "summary": [
-      "[서울=뉴시스] 문예성 기자 = 도널드 트럼프 미국 대통령이 이란과의 전쟁을 끝내기 위한 협상 재개 시한을 정하지 않았다고 밝혔다.",
-      "26일(현지 시간) 알자지라에 따르면 트럼프 대통령은 이란에 협상 복귀까지 어느 정도 시간을 줄 것이냐는 질문에 “시간표는 없다”며 “서두르지 않고 있으며 어떠한 시한도 정하지 않았다”고 말했다.",
-      "트럼프 대통령은 “우리는 매우 크게 이기고 있다”며 “이란은 극심한 인플레이션에 시달리고 있고 경제는 무너지고 있다”고."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "nedee07fa",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "1시간 전",
-    "url": "https://www.newsis.com/view/NISX20260826_0003763757",
-    "title": "한그루 \"아랫배가 쏙 들어갔다\"…48시간 디톡스 비법 공개",
-    "summary": [
-      "[서울=뉴시스]김성은 인턴 기자 = 배우 한그루가 육아와 바쁜 일상 속에서 다이어트에 어려움을 겪다가 자신만의 '48시간 디톡스' 방법으로 몸매 관리에 나선 근황을 공개했다.",
-      "한그루는 최근 자신의 유튜브 채널 '그루니까말이야'를 통해 방학이 끝난 지 이틀밖에 지나지 않았다며 그동안 아이들과 시간을 보내느라 식단 관리에 신경 쓰기 어려웠다고 밝혔다.",
-      "그는 \"다이어트고 뭐고 못 한다."
+      "\"한국에 더 밀릴 순 없다\"…세계 3위 키옥시아, 1조엔 '승부수' [도쿄나우]."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "na41b71ed",
+    "id": "n4a46821d",
     "category": "사회",
-    "source": "동아일보",
-    "time": "2시간 전",
-    "url": "https://www.donga.com/news/Inter/article/all/20260827/134552975/1",
-    "title": "“여고생 몸에 고환”…초경 없어 병원 갔다가 알게 된 뜻밖의 진단",
+    "source": "연합뉴스",
+    "time": "13분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260827009100052",
+    "title": "부산·울산·경남 밤까지 최대 60㎜ 비…낮 최고 33도 폭염 계속",
     "summary": [
-      "초경이 시작되지 않아 병원을 찾은 일본 여고생의 몸에서 고환이 발견된 사연이 알려졌다.26일 일본 아사히신문 계열 온라인 매체 위드뉴스는 여성으로 성장한 A씨가 고등학생 때 성분화질환 진단을 받은 사연을 소개했다.",
-      "A씨는 여러 병원을 찾은 끝에 성염색체가 XY이고 몸에 두 개의 고환이 있다는 사실을 확인했다.",
-      "1981년 일본 북관동 지역에서 태어난 A씨는 여성으로 성장했다."
+      "(창원=연합뉴스) 박영민 기자 = 목요일인 27일 부산·울산·경남은 대체로 흐리고 가끔 비가 내리겠다."
     ],
     "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nf7923139",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "16분 전",
+    "url": "https://www.newsis.com/view/NISX20260826_0003762690",
+    "title": "[오늘의 주요일정]강원(8월27일 목요일)",
+    "summary": [
+      "[강원=뉴시스] ▲오전10시30분, 2026년 정선·영월·평창 유림 연찬회, 정선군 여성회관 ▲오전11시, 제27회 시각장애인 하계체력단련대회 개회식, 삼척 씨스포빌 리조트 ▲오후 4시, 제3회 강원국회의원보좌진협의회 개회식, 인제 스피디움 ▲오후 6시30분, 아이숲·꽃동산 어린이집 '플레이데이', 양구 파로호꽃섬 ▲오후 7시, 강릉시립미술관 솔올 교육프로그램 '뮤지엄 아카데미', 강릉시립미술관 솔올 별동 교육실 ▲오후 7시, 동해 프라임 현악."
+    ],
+    "chips": [
+      "#정치",
+      "#교육"
+    ]
+  },
+  {
+    "id": "nb04b640b",
+    "category": "경제",
+    "source": "아시아경제",
+    "time": "17분 전",
+    "url": "https://view.asiae.co.kr/article/2026082610473834328",
+    "title": "줄어드는 적금 인기…'고금리특판'으로 돌파하는 은행들",
+    "summary": [
+      "'목돈 마련'을 위한 대표 상품인 정기적금의 인기가 시들해지고 있다.",
+      "이에 시중은행들은 고객 확보를 위한 돌파구로 고금리 적금 상품을 연달아 선보이고 있다.",
+      "27일 금융권에 따르면 5개 은행(신한·KB국민·하나·우리·NH농협)의 지난 24일 기준 정기적금 잔액은 44조7921억원이었다."
+    ],
+    "chips": [
+      "#금리"
+    ]
+  },
+  {
+    "id": "nb10e6d95",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "17분 전",
+    "url": "https://www.donga.com/news/Inter/article/all/20260827/134553060/1",
+    "title": "네팔·중국 접경 산사태 진동, 규모 5.2 지진과 맞먹어",
+    "summary": [
+      "네팔과 중국 접경지역에서 발생한 대규모 산사태의 진동이 규모 5.2 지진과 맞먹는 수준으로 분석됐다.26일(현지 시간) 미국 지질조사국(USGS)은 이날 오전 8시37분께 네팔 수도 카트만두 북쪽의 중국 접경지역에서 강한 흔들림이 감지됐다고 밝혔다.USGS는 이를 처음에는 규모 4.4의 지진으로 발표했지만 추가 분석을 거쳐 지진이 아닌 산사태에 따른 진동으로 정정했다.또 이번 현상을 ‘네팔 코다리 북서쪽 55㎞ 지점에서 발생한 규모 5.2 상당."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nfceafe5c",
+    "category": "IT",
+    "source": "한국경제",
+    "time": "19분 전",
+    "url": "https://www.hankyung.com/article/202608275365i",
+    "title": "엔비디아 2분기 어닝서프라이즈...매출, 순이익 모두 예상치 뛰어넘어",
+    "summary": [
+      "엔비디아 2분기 어닝서프라이즈...매출, 순이익 모두 예상치 뛰어넘어."
+    ],
+    "chips": [
+      "#엔비디아"
+    ]
+  },
+  {
+    "id": "n796803da",
+    "category": "IT",
+    "source": "연합뉴스(경제)",
+    "time": "22분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260826166700003",
+    "title": "\"2분기 글로벌 신에너지차 판매 10.4%↑…중국, 해외시장 확대\"",
+    "summary": [
+      "(서울=연합뉴스) 장하나 기자 = 글로벌 최대 신에너지차(NEV) 시장인 중국의 내수가 부진한 가운데 BYD를 중심으로 한 중국 전기차 업체들이..."
+    ],
+    "chips": [
+      "#전기차"
+    ]
+  },
+  {
+    "id": "n706e1010",
+    "category": "경제",
+    "source": "연합뉴스(경제)",
+    "time": "24분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260826165900030",
+    "title": "계란값 안정 전망에도 체감은 아직…3분기 들어 작년보다 6.5%↑",
+    "summary": [
+      "(서울=연합뉴스) 한주홍 기자 = 높은 수준을 이어온 계란 가격이 생산량 증가에 따라 하락세로 접어들 것이라는 전망이 나온다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n8acaac13",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "25분 전",
+    "url": "https://www.newsis.com/view/NISX20260826_0003763868",
+    "title": "'웰다잉'도 지역 격차…호스피스 절반이 '수도권 집중'",
+    "summary": [
+      "[서울=뉴시스] 구무서 기자 = '웰다잉'에 대한 관심이 증가하고 있지만 호스피스 사업 참여 기관 절반이 수도권에 집중돼 지역 편차가 큰 것으로 나타났다.",
+      "27일 국회 보건복지위원회 소속 서영석 더불어민주당 의원이 보건복지부로부터 제출 받은 자료에 따르면 7월 말 기준 126개 호스피스 사업 참여 기관 중 47.6%인 60개소가 수도권에 소재하고 있었다.",
+      "경기도가 29개소로 가장 많았고 서울 25개소, 인천 6개소 순이다."
+    ],
+    "chips": [
+      "#정치",
       "#의료"
-    ]
-  },
-  {
-    "id": "n95f142d9",
-    "category": "경제",
-    "source": "한국경제",
-    "time": "3시간 전",
-    "url": "https://www.hankyung.com/article/2026082645147",
-    "title": "[오늘의 운세] 2026년 8월 27일 오행별 행운의 컬러",
-    "summary": [
-      "[오늘의 운세] 2026년 8월 27일 오행별 행운의 컬러."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nf31ff1c6",
-    "category": "경제",
-    "source": "한국경제",
-    "time": "3시간 전",
-    "url": "https://www.hankyung.com/article/2026082645397",
-    "title": "[오늘의 운세] 2026년 8월 27일 별자리 운세",
-    "summary": [
-      "[오늘의 운세] 2026년 8월 27일 별자리 운세."
-    ],
-    "chips": [
-      "#뉴스"
     ]
   }
 ];
@@ -631,20 +632,20 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2720건",
-    "trend": "+315%"
+    "mentions": "2590건",
+    "trend": "+295%"
   },
   {
     "rank": 2,
     "tag": "반도체",
-    "mentions": "1550건",
-    "trend": "+135%"
+    "mentions": "1680건",
+    "trend": "+155%"
   },
   {
     "rank": 3,
-    "tag": "AI",
-    "mentions": "1420건",
-    "trend": "+115%"
+    "tag": "엔비디아",
+    "mentions": "1550건",
+    "trend": "+135%"
   }
 ];
 // ====AUTO-GENERATED-END====
