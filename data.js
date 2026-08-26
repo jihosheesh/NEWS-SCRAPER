@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-08-26 10:23:38
+// 마지막 업데이트: 2026-08-26 11:19:19
 window.NEWS_DB = [
   {
     "id": "n301c4ffa",
     "category": "IT",
     "source": "mstoday.co.kr",
-    "time": "59분 전",
+    "time": "1시간 전",
     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5IanVjejRKZXFadWtyUkx4QUZRN2x1LVZJTmgwLTNwelRoeTFSMWZrSjN6OXhUNUxOdFEtTmh5aWJIbFpFRlFaNW1ISFlUa1YwcDRFSWVwUGhCa1BQdXNmc2YwOFMxeE5rZUpWaA?oc=5",
     "title": "엔비디아 ‘운명의 실적’…AI 반도체 랠리 시험대",
     "summary": [
@@ -21,7 +21,7 @@ window.NEWS_DB = [
     "id": "ncc170231",
     "category": "IT",
     "source": "비즈니스포스트",
-    "time": "3시간 전",
+    "time": "4시간 전",
     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE8xazNWS1UzNzBGV0t6aFFwLVlpSVJvR2xaSkJGMy1pTlEyV0ltdFZvZFRXQkdOdV9NMFY1RW52SUhFWUk0blVJOHFfU2hlZjF3aXpfUmx5bEZjbS1IcjVDWWt3WmpvcUVacG1HbWRVU1BQV1E?oc=5",
     "title": "엔비디아 실적 발표 이후가 주가에 관건, AI 반도체 경쟁력과 중국 수출 성과에 시장 주목",
     "summary": [
@@ -38,7 +38,7 @@ window.NEWS_DB = [
     "id": "nfcd42b60",
     "category": "IT",
     "source": "글로벌이코노믹",
-    "time": "4시간 전",
+    "time": "5시간 전",
     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxObTRNdFVVNTRVVUg5VE9lbDFqY0locF82eTBMRnZvTDAxSVp1T2pMaEdTcFQ2dkJlMUdYeGR3bXQxUGRlTDJmMGlDeTNBTmd5c2F5T1JIMmcwTU5lNmNRajBqU0ZwZXJGblRQakpHZ3F0Z2ZmNWVncVRlaUk3V1NFenNkTjlBTVBH?oc=5",
     "title": "\"오픈AI 칩, 엔비디아 넘었다\"… 소프트뱅크 주가 2.8% 쑥",
     "summary": [
@@ -53,7 +53,7 @@ window.NEWS_DB = [
     "id": "n244b0da4",
     "category": "사회",
     "source": "경북매일",
-    "time": "9시간 전",
+    "time": "10시간 전",
     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBYUEFCOVNDZG1rQ3VxRlNlRFJQSDF1aVRMZmxFS09FNWRndks2eEVEVEx1RkQteERzdTJ0WVhXY2JBNUIxVVdBb1NtaU5HS3lRUWxfNFRPQ25YZw?oc=5",
     "title": "경주시시설관리공단-경주시취업지원센터, 지역 일자리 활성화 ‘맞손’",
     "summary": [
@@ -181,6 +181,20 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n207a7abe",
+    "category": "IT",
+    "source": "Chosunbiz",
+    "time": "64일 전",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPUGdtbi01TkVMYXphY1VqbF9xRzB3TkVUbWtrM2NhN2d1NmpvS29NLTY5UWFtbFNrangxUlRnQUpxOW9rSEZwWVZuWU42aUdIU1FUUlhnQ0NLbjBXdlNpQ2labGU1cUt3WVZ3NEhVVmtJNjJlc3lUalByb0tqZDBucVJleGVLUFpaanFZX3RLZWvSAaQBQVVfeXFMTXFmYjM1dzZaM0d5QjZZQXJIb0VnanMzR29JcWlBQVZreFhGVVZlRmd4c2xoejc0ajVvdDhkUVo5ZWJ5bWlyVlZSUzlveG9EamJZblA5VDkwRG16QW1hRW1Qel9mTHRfdWI3MHhvbTJfd3ZoRTNIb3dVbjByNmI5T3llUUt2ZlZjVmEwQlV4M0FvMTRVT0JYaG4zNDZ6Rkw1LVVodlA?oc=5",
+    "title": "중기부, 2030년까지 ‘유니콘’ 50개 육성 나선다 - 조선비즈",
+    "summary": [
+      "중기부, 2030년까지 ‘유니콘’ 50개 육성 나선다 - 조선비즈 Chosunbiz."
+    ],
+    "chips": [
+      "#스타트업"
+    ]
+  },
+  {
     "id": "n64dc67f5",
     "category": "IT",
     "source": "유니콘팩토리",
@@ -192,21 +206,6 @@ window.NEWS_DB = [
     ],
     "chips": [
       "#스타트업"
-    ]
-  },
-  {
-    "id": "n917184b9",
-    "category": "부동산",
-    "source": "한국경제",
-    "time": "65일 전",
-    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1PMWgycmJDUlh3Smlkb254TmVGMXFZX3JvTThsLUVHNHY2ZDloYVVjZHdPakFSQ0YwSVpBMXBMZHNqcndpVUV6RkJiaVk2NlFJV19fWkl0bXduZw?oc=5",
-    "title": "\"전세값 보다 싸요\"…동탄 집값 22억 찍자 우르르 몰린 동네 [현장+]",
-    "summary": [
-      "\"전세값 보다 싸요\"…동탄 집값 22억 찍자 우르르 몰린 동네 [현장+] 한국경제."
-    ],
-    "chips": [
-      "#부동산",
-      "#전세"
     ]
   },
   {
@@ -236,6 +235,20 @@ window.NEWS_DB = [
     "chips": [
       "#금리",
       "#환율"
+    ]
+  },
+  {
+    "id": "n79d12fb6",
+    "category": "부동산",
+    "source": "Chosunbiz",
+    "time": "89일 전",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQc01fQzQ5RjhjTzMxV0xObHgwUFQ5Z0ozcklaR19VYmhUOXBxVURFZVBjZkxKT2ozQUhsVzViV1JCLXdvVUQ1YWVwYTA5bVB1TjdaYlZHTXFCQUJoRTBsdHNHZXZ5MnJQdVliYzVUUktidVpvNDNzWVJXakYzUFBTMFMxd1Y0NFVrTnhSR1c5WXctLTdFRnhJMtIBrAFBVV95cUxOMk9EaXo0bmRJdnJyRVgyM0REZE1IR1VEVkNzWVNHZW9nR3p3WDRXcXQ0dnpfNk5LRE9SVFVscW45RzlqYTZGTWhWdTlybngycnM5QUliSG1haVFoQW5xT3ZpbFJvWU5hYjNYUGNLTHVyNHgwcDdLZWFsdFhMTHhCNlBodDFsdkFTT0tFX3NXWGZ1M2hCTEpmbTVUVXRzREtvSy1CdkRyWE5sbU5p?oc=5",
+    "title": "매물 줄고 분양가 뛰고… 전국 아파트 매매·전셋값 동반 상승세 지속 - 조선비즈",
+    "summary": [
+      "매물 줄고 분양가 뛰고… 전국 아파트 매매·전셋값 동반 상승세 지속 - 조선비즈 Chosunbiz."
+    ],
+    "chips": [
+      "#부동산"
     ]
   },
   {
@@ -293,20 +306,6 @@ window.NEWS_DB = [
     ],
     "chips": [
       "#KBO"
-    ]
-  },
-  {
-    "id": "nbc27bc5a",
-    "category": "IT",
-    "source": "연합뉴스",
-    "time": "182일 전",
-    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5UNnlsSTY5eHFYNEZ6ZktBM216dFF6Q0J5Z1NVYm56M3A2TUFNMDM0U081NTNsZVNJTy1MWklmVGc0cEdLVk5NRHFiTWtHbmx2b2ItSkVEV1A2ZFnSAWBBVV95cUxOV3Z3V2F3aWJvV3dDNDc4OXpfRmpyaDgtaExGWC1ZTUxvX2M4ZVZPNC1rZHpQeUtSNXlIZjc0dHdGWTdfUXpJQXdac1lZU3Mza3NvdHVweFFNYXhmdDMyZWs?oc=5",
-    "title": "스타트업·벤처를 유니콘으로…전북도, '창업 천국' 구상 발표",
-    "summary": [
-      "스타트업·벤처를 유니콘으로…전북도, '창업 천국' 구상 발표 연합뉴스."
-    ],
-    "chips": [
-      "#스타트업"
     ]
   },
   {
@@ -374,247 +373,260 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nfd44a6d7",
-    "category": "사회",
-    "source": "아시아경제",
-    "time": "1분 전",
-    "url": "https://view.asiae.co.kr/article/2026082619214777646",
-    "title": "선관위 특검, 내일부터 검경 인력 합류…내달 7일 정식 출범",
-    "summary": [
-      "6·3 지방선거 투표용지 부족 사태 등을 수사하는 이태한 선거관리위원회 특별검사팀에 오는 27일부터 일부 검사와 경찰이 파견돼 본격적인 출범 준비에 들어간다.",
-      "이 특검은 26일 언론 공지를 통해 \"특검팀의 외관이 점점 갖춰지고 있다\"며 이같이 밝혔다.",
-      "우선 '국민참정권 침해 진상규명을 위한 검경 합동수사본부'에 파견돼 있던 검사 2명과 일부 경찰이 27일 선발대로 특검팀에 합류한다."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "ncd43a87f",
-    "category": "사회",
-    "source": "머니투데이",
-    "time": "2분 전",
-    "url": "https://www.mt.co.kr/society/2026/08/26/2026082619114545468",
-    "title": "'공익 저격' 박위, \"경사로 없어 상 못 받아\"…과거 발언 재조명",
-    "summary": [
-      "전신마비 유튜버 박위(39)가 KTX 하차 과정에서 발생한 낙상 사고 당시 CCTV를 공개해 사회복무요원을 공개 비난했다는 논란에 휩싸인 가운데 과거 '경사로'에 대한 그의 발언이 재조명되고 있다.",
-      "박위 송지은 부부는 지난해 1월 방송된 '2024 MBC 방송연예대상'에 출연했다.",
-      "두 사람은 MBC '전지적 참견 시점'으로 베스트 커플상 후보에 올랐다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "ndf0ef623",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "3분 전",
-    "url": "https://www.newsis.com/view/NISX20260826_0003764187",
-    "title": "[속보]외교부, '네팔 홍수' 재외국민보호대책본부 설치…대응팀 파견 예정",
-    "summary": [],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n35598f5b",
-    "category": "스포츠",
-    "source": "머니투데이",
-    "time": "3분 전",
-    "url": "https://www.mt.co.kr/sports/2026/08/26/2026082615152876777",
-    "title": "'대박' 최형우, 45년 KBO 새 역사 썼다! 무려 20년 만에 호세 제치고 최고령 만루홈런 주인공→희생양은 '박석민 子' 박준현",
-    "summary": [
-      "'살아있는 전설' 최형우(43·삼성 라이온즈)가 45년 KBO리그 역사에 또 하나의 불멸의 대기록을 아로새겼다.",
-      "2006시즌 롯데 자이언츠 소속이던 펠릭스 호세(61)가 20년 동안 굳건히 지키고 있던 '역대 최고령 만루홈런' 기록을 갈아치웠다.",
-      "더욱 흥미로운 점은 이 역사적 대기록의 제물이 된 투수가 다름 아닌 '절친' 박석민(41) 삼성 라이온즈 2군 코치의 아들 박준현(19·키움 히어로즈)이었다는 점이다."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
-    "id": "n8b3528dd",
-    "category": "경제",
-    "source": "아시아경제",
-    "time": "4분 전",
-    "url": "https://view.asiae.co.kr/article/2026082619185422782",
-    "title": "[속보]네팔 홍수로 남동발전·두산에너빌리티 직원 8명 연락두절",
-    "summary": [
-      "[속보]네팔 홍수로 남동발전·두산에너빌리티 직원 8명 연락두절."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n9d01eb40",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "5분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260826176900504",
-    "title": "네팔 홍수로 한국인 8명 연락두절·10명 고립…대응팀 파견예정",
-    "summary": [
-      "(서울=연합뉴스) 김지헌 기자 = 네팔에서 일어난 홍수로 한국인들의 연락이 끊기는 일이 발생했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nae4aac1c",
-    "category": "스포츠",
-    "source": "아시아경제",
-    "time": "6분 전",
-    "url": "https://view.asiae.co.kr/article/2026082619164479107",
-    "title": "한화생명, 10월 아시아 여자주니어 골프대회 개최",
-    "summary": [
-      "한화생명이 아시아 골프 유망주 육성에 나선다.",
-      "한화생명은 10월 6일부터 8일까지 사흘간 경기도 안산의 더헤븐 컨트리클럽에서 한화생명 인비테이셔널 아시아 여자주니어 골프대회를 개최한다.",
-      "서울특별시골프협회가 주관하고 대한골프협회가 후원하는 이 대회에는 한국과 베트남, 인도네시아, 태국, 말레이시아, 싱가포르 등 동남아시아 5개국의 골프 유망주 108명이 참가, 3라운드 54홀 스트로크 플레이로 기량을 겨룬다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n4d0207ac",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "6분 전",
-    "url": "https://www.chosun.com/sports/baseball/2026/08/26/GRSGEZJRGYYGMOBYGY3DQMTDGA/",
-    "title": "160㎞ 강속구 없으면 어때? 승부되는 김서현, 사령탑도 반겼다…\"야구는 자신감 차이가 크다\"",
-    "summary": [
-      "[인천=스포츠조선 이종서 기자] \"야구는 자신감 차이가 크잖아요.\" 한화 이글스의 김서현(22)은 지난해 33개의 세이브를 기록하며 이글스 우완 최다 세이브 신기록을 세웠다.",
-      "2023년 신인드래프트 1라운드(전체 1순위)로 입단한 그는 입단 당시부터 150㎞ 중반의 빠른 공을 던지면서 많은 기대를 받아왔다.",
-      "입단 후 첫 2년 동안은 제구가 흔들리면서 고전했."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
-    "id": "n7b059f5e",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "7분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260826176200001",
-    "title": "[속보] 靑 \"네팔 홍수로 韓국민 실종…李대통령 수색·구조 총력 지시\"",
-    "summary": [],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "nd5f26050",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "8분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260826176600504",
-    "title": "[속보] 네팔 연락두절 한국인은 남동발전·두산에너빌리티 직원",
-    "summary": [],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nce0ee7bb",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "8분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260826173100030",
-    "title": "GS25, '민음사 빵' 10만개 판매…\"텍스트힙 트렌드 맞춰 협업\"",
-    "summary": [
-      "(서울=연합뉴스) 정수연 기자 = GS리테일이 운영하는 편의점 GS25는 민음사와 협업해 선보인 베이커리 상품이 소비자들 사이에서 큰 인기를 끌..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nf3832335",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "10분 전",
-    "url": "https://www.newsis.com/view/NISX20260826_0003764182",
-    "title": "[속보]외교부 \"네팔 홍수로 한국인 8명 연락두절…10명 고립“",
-    "summary": [],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nd44a446c",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "10분 전",
-    "url": "https://www.chosun.com/sports/world-football/2026/08/26/GRQWEMDCGIZTEYJTG43TIMJSHA/",
-    "title": "'이강인과 동행이냐, 2421억 아스날행이냐' 야유받은 알바레스의 선택…바르셀로나 꿈은 사실상 막혔다",
-    "summary": [
-      "[OSEN=정승우 기자] 이강인(25)과 훌리안 알바레스(26, 이상 아틀레티코 마드리드)가 함께 아틀레티코 마드리드 공격을 이끄는 모습을 시즌 중에 볼 수 있을까.",
-      "FC 바르셀로나 이적길이 막힌 알바레스 앞에 아스날행, 아틀레티코 잔류, 2027년까지 기다리는 세 가지 선택지가 놓였다.영국 'BBC'는 25일(이하 한국시간) \"반목과 분노, 적대감이 알바."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nc54440c7",
-    "category": "스포츠",
-    "source": "뉴시스",
-    "time": "11분 전",
-    "url": "https://www.newsis.com/view/NISX20260826_0003764177",
-    "title": "삼성 최형우, 키움 박준현 상대 그랜드슬램 '쾅'…역대 최고령 만루포",
-    "summary": [
-      "[서울=뉴시스]김희준 기자 = 프로야구 삼성 라이온즈의 베테랑 타자 최형우가 역대 최고령 만루 홈런 기록을 새로 썼다.",
-      "최형우는 26일 서울 고척스카이돔에서 열린 2026 신한 쏠 KBO리그 키움 히어로즈와의 경기에 4번 지명타자로 선발 출전해 1회초 첫 타석에서 키움 신인 박준현을 상대로 만루 홈런을 터뜨렸다.",
-      "0-0으로 맞선 1회초 삼성은 박승규의 안타와 김성윤, 구자욱의 연속 볼넷으로 무사 만루를 일궜다."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
-    "id": "n31229a69",
-    "category": "사회",
-    "source": "머니투데이",
-    "time": "12분 전",
-    "url": "https://www.mt.co.kr/society/2026/08/26/2026082618590253863",
-    "title": "\"장미란씨와 연락돼\" 부 경장 말에...경찰, 유령 통화기록만 3주 쫓았다",
-    "summary": [
-      "고(故) 장미란씨 실종 사건 등을 허위 종결한 혐의를 받는 부 경장이 실종자와 연락한 적이 있다고 속인 탓에, 경찰이 통화기록을 찾는 데만 3주의 시간을 보낸 것으로 나타났다.",
-      "26일 뉴스1에 따르면 경찰은 지난 5월15일 장미란씨에 대한 1차 실종 신고를 접수했고, 이어 7월19일 2차 실종 신고를 받았다.",
-      "2차 신고가 접수됐을 때 부 경장은 \"1차 신고 당시 장씨와 연락이 닿았다\"고 주장했지만, 정작 통화한 기록은 확인되지 않았다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n4a10170a",
-    "category": "스포츠",
-    "source": "머니투데이",
-    "time": "12분 전",
-    "url": "https://www.mt.co.kr/sports/2026/08/26/2026082618422760779",
-    "title": "'미모에 실력까지' 일본서 인기폭발 \"日 여자배구가 기댈 핵심 무기\"",
-    "summary": [
-      "지난 2026 아시아여자배구선수권대회 한일전에서 한국을 상대로 18점 맹폭을 가한 사토 요시노(25·베로 발리 밀라노)가 현지 매체 극찬을 받았다.",
-      "일본 매체 웹 스포르티바는 26일 \"사토의 폭발력은 일본 여자배구 대표팀이 기댈 수 있는 핵심 무기\"라며 \"한국 등 아시아 팀들을 상대로도 차이를 확실히 보여줬다\"고 극찬했다.",
-      "앞서 사토는 지난 23일 중국 톈진 올림픽 센터 체육관에서 열린 대회 조별리그 C조 2차전에서 18점을 기록, 일본의 3-."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n756997e6",
+    "id": "ne8a1c6f8",
     "category": "사회",
     "source": "동아일보",
-    "time": "13분 전",
-    "url": "https://www.donga.com/news/Society/article/all/20260826/134551675/1",
-    "title": "농장 탈출한 말과 부딪쳐 운전자 사망…농장주 2심도 실형",
+    "time": "2분 전",
+    "url": "https://www.donga.com/news/Economy/article/all/20260826/134550793/1",
+    "title": "‘3후4초’ 고령 산모 출산율 최고…합계출산율 0.9명대 기대",
     "summary": [
-      "농장을 탈출한 말과 충돌해 운전자가 숨진 사건과 관련해 농장주가 항소심에서도 무거운 책임을 지게 됐다.26일 법조계에 따르면 대전지법 형사항소3-1부(재판장 홍은아)는 업무상과실치사 등 혐의로 기소된 A 씨(69)에게 원심과 같은 징역 1년을 선고했다.A 씨는 지난 2022년 12월 19일 충남 공주에서 60대 B 씨가 차를 운전하다 말과 부딪쳐 숨진 사건과 관련, 농장 관리를 소홀히 해 사고를 촉발한 책임으로 법정에 섰다.당시 사고는 A 씨가."
+      "결혼하는 나이가 늦어지며 지난해 30대 후반에서 40대 초반 고령 산모의 출산율이 역대 최대로 나타났다.",
+      "올해도 30대를 중심으로 출산율이 올라 연간 합계출산율이 2019년 이후 처음으로 0.9명을 회복할 것이라는 기대가 나온다.26일 국가데이터처가 발표한 출생 통계에 따르면 지난해 35~39세 여성 출산율은 여성 1000명당 52.1명으로 집계됐다.",
+      "전년 대비 6.0명 증가해 역대 최대였다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n082f5e04",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "5분 전",
+    "url": "https://www.chosun.com/international/asia/2026/08/26/43Z2SVBF2RGJZJM6ZCLMH7X74I/",
+    "title": "네팔 당국 “홍수로 여행객 384명 실종... 외국인 291명 포함”",
+    "summary": [
+      "네팔 당국 “홍수로 여행객 384명 실종... 외국인 291명 포함”."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n381ed360",
+    "category": "IT",
+    "source": "뉴시스",
+    "time": "5분 전",
+    "url": "https://www.newsis.com/view/NISX20260826_0003764204",
+    "title": "\"AI 시대엔 학위보다 기술\"…英 청년들, 명문대 대신 견습직 선택",
+    "summary": [
+      "[서울=뉴시스]이기주 인턴 기자 = 영국에서 대학 진학 대신 법률·금융·컨설팅 등 화이트칼라 분야의 견습 프로그램을 선택하는 청년들이 늘고 있다.",
+      "비싼 학비와 취업난에 더해 인공지능(AI)이 신입 사무직 일자리를 빠르게 변화시키면서 대학 학위의 가치에 대한 의문이 커지고 있기 때문이다.",
+      "지난 22일(현지 시간) 월스트리트저널(WSJ)에 따르면 루마이사 칸은 옥스퍼드대 입학 제안을 받았지만 이를 거절하고 로펌 에버셰즈 서덜랜드의 견습 프로그램을."
+    ],
+    "chips": [
+      "#AI",
+      "#취업",
+      "#고용",
+      "#교육"
+    ]
+  },
+  {
+    "id": "n57c996c8",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "6분 전",
+    "url": "https://www.donga.com/news/Society/article/all/20260826/134549397/1",
+    "title": "“일반 성인은 경보 못 띄워”… 제주 실종자 ‘장애인’으로 표기한 경찰",
+    "summary": [
+      "제주에서 실종 104일 만에 숨진 채 발견된 장미란 씨(37)를 찾는 과정에서 경찰이 실제 장애가 없는 장 씨를 ‘장애인’으로 표기해 실종 경보를 발령한 것으로 나타났다.",
+      "현행 제도상 일반 성인은 실종 경보 문자 발송 대상이 아니기 때문이다.",
+      "한편 장 씨의 시신이 오랜 기간 방치된 탓에 경찰은 부검에도 불구하고 사망 원인 규명에 어려움을 겪고 있다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nf825ab06",
+    "category": "경제",
+    "source": "아시아경제",
+    "time": "6분 전",
+    "url": "https://view.asiae.co.kr/article/2026082620123980681",
+    "title": "위메이드, 위믹스달러 해킹 피해 16억원 규모 전액 보상",
+    "summary": [
+      "위메이드가 지난달 발생한 스테이블코인 위믹스달러(WEMIX$) 해킹 사고로 피해를 본 이용자들에게 약 114만달러(약 16억원)을 전액 보상한다.",
+      "위메이드는 26일 위믹스 홈페이지 공지를 통해 WEMIX3.0과 플레이체인 거래 내역을 전수 조사하고 실제 발생한 손실에 준해 보상 규모를 확정했다고 26일 밝혔다.",
+      "보상 대상은 사고 직전 WEMIX$ 보유자와 유동성 풀 예치자, 사고 당시 거래 과정에서 손실을 본 이용자 등 약 17만개 주소."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n4f43f19f",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "6분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260826180900051",
+    "title": "전재수, 중앙지방협력회의서 부산 해양수도 성공전략 제시",
+    "summary": [
+      "(부산=연합뉴스) 김선호 기자 = 전재수 부산시장은 26일 오후 청와대에서 열린 제10회 중앙지방협력회의에 참석해 부산의 해양 수도 성공전략을 ..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n6162ddbc",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "7분 전",
+    "url": "https://www.newsis.com/view/NISX20260826_0003764207",
+    "title": "민주당 경남도의원들 '박완수 선거캠프 의혹' 진상규명 촉구",
+    "summary": [
+      "[창원=뉴시스]홍정명 기자 = 경남도의회 더불어민주당 의원 일동은 26일 도의회에서 기자회견을 열고, 6·3 지방선거 과정에서 불거진 '박완수 경남지사 선거캠프의 관권선거 및 딥페이크 영상 제작 의혹'과 관련해 철저한 진상규명과 성역 없는 수사를 촉구했다.",
+      "검찰은 지난 25일 전·현직 경남도청 공무원 3명, 외주업체 대표 등 관련자 4명에 대해 구속영장을 청구했다.",
+      "민주당 도의원 일동은 \"이번 사건을 단순히 측근 몇 명의 일탈로 규정해서는 안."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n4e3bf1ff",
+    "category": "사회",
+    "source": "아시아경제",
+    "time": "8분 전",
+    "url": "https://view.asiae.co.kr/article/2026082620110349623",
+    "title": "네팔 홍수로 한국인 18명 실종·고립…외교장관, 긴급 대책회의 소집(종합)",
+    "summary": [
+      "네팔에서 발생한 홍수로 현지에 있던 한국인 8명이 연락 두절되고 10명이 고립된 것으로 26일 알려졌다.",
+      "정부는 곧장 긴급 대책회의를 개최하고, 현지 지원을 위한 신속대응팀을 파견할 예정이다.",
+      "외교부에 따르면 이날 오전(현지시간) 네팔 라수와 지역에서 홍수가 발생해 해당 지역에서 수력발전소를 건설 중이던 한국남동발전 및 두산에너빌리티 소속 한국인 직원 8명이 연락 두절됐다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nffa796bd",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "10분 전",
+    "url": "https://www.newsis.com/view/NISX20260826_0003764213",
+    "title": "경찰, '무작위 배당' 강화…중요사건은 총경·경정이 직접 수사",
+    "summary": [
+      "[서울=뉴시스] 조성하 기자 = 경찰이 수사 사건의 공정한 배당을 위해 기존에 시행 중인 무작위 배당 제도를 강화한다.",
+      "외부 법률가 중심의 수사심사관을 전국 경찰서에 배치하고, 중요 사건은 총경·경정급 간부가 직접 수사하는 방안도 새롭게 추진한다.",
+      "26일 경찰에 따르면 경찰청은 오는 10월 개정 형사소송법 시행을 앞두고 이 같은 내용의 수사 대응체계 개편을 추진하고 있다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n533dcc11",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "12분 전",
+    "url": "https://www.donga.com/news/Inter/article/all/20260826/134551863/1",
+    "title": "네팔 홍수로 외국인 291명 포함 여행객 384명 실종…8명 사망",
+    "summary": [
+      "네팔에서 발생한 홍수로 현재까지 400명에 가까운 여행객이 실종됐다고 네팔 관광청이 26일(현지시간) 밝혔다.네팔 관광청은 이날 성명을 통해 “관광 및 여행사로부터 받은 기관별 예비 기록에 따르면, 피해 지역에서 실종된 여행객은 외국인 291명과 네팔인 93명을 포함해 총 384명으로 확인됐다”고 밝혔다.CNN은 실종자로 분류된 사람들의 국적에는 인도, 호주, 네덜란드, 남아프리카, 영국, 말레이시아 출신 여행자들이 포함되어 있다고 보도했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n6bbead5a",
+    "category": "IT",
+    "source": "아시아경제",
+    "time": "12분 전",
+    "url": "https://view.asiae.co.kr/article/2026082620063059592",
+    "title": "성주재단, AI와 패션테크 융합 인재 발굴 나서",
+    "summary": [
+      "성주재단이 인공지능(AI)과 패션·테크산업의 융합을 주제로 한 해커톤 트랙을 운영하며 미래 인재 발굴에 나섰다.",
+      "성주재단은 지난 25일 서울 강서구 마곡 코엑스에서 열린 '멋쟁이사자처럼 14기 중앙해커톤'에 참여해 'Fashion & Tech with AI'를 주제로 한 'SJF 트랙'을 운영했다고 26일 밝혔다.",
+      "이번 중앙해커톤에는 전국 80개 대학에서 약 2500명의 학생이 참가했다."
+    ],
+    "chips": [
+      "#AI",
+      "#교육"
+    ]
+  },
+  {
+    "id": "n04dbc04b",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "13분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260826180151104",
+    "title": "네팔 홍수로 9명 사망…외국인 291명 포함 여행객 384명 실종",
+    "summary": [
+      "(자카르타=연합뉴스) 손현규 특파원 = 히말라야 산악지대에 있는 네팔 중북부 지역에서 대규모 홍수가 발생해 9명이 숨지고 외국인 290여명을 포..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n32841d4f",
+    "category": "IT",
+    "source": "연합뉴스",
+    "time": "13분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260826180800085",
+    "title": "\"생수·식량 비축하세요\" 영국, 비상사태 대비 매뉴얼",
+    "summary": [
+      "(런던=연합뉴스) 김지연 특파원 = 영국 정부가 극단적인 기상현상과 적성국으로부터 사이버 위협에 대비한 대국민 캠페인과 대응 매뉴얼을 준비 중이..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nc93d87e2",
+    "category": "경제",
+    "source": "아시아경제",
+    "time": "14분 전",
+    "url": "https://view.asiae.co.kr/article/2026082620035605854",
+    "title": "경북도의회, 독도수호특위 위원장에 서재원 의원…\"日 도발에 단호히 대응\"",
+    "summary": [
+      "경북도의회 독도수호특별위원회는 지난 25일 회의를 열고 위원장에 서재원 의원(포항), 부위원장에 정윤태 의원(울릉)을 각각 선출했다.",
+      "독도수호특별위원회는 서재원 위원장(포항), 정윤태 부위원장(울릉), 김상일(포항), 박영서(문경), 윤철남(영양), 이동업(포항), 장명수(포항), 정숙경(비례), 조용진(김천) 의원 등 9명이 참여한다.위원회는 일본의 지속적인 독도 영유권 주장과 역사 왜곡에 대응하고, 독도 영토주권 확립과."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n0f7236c5",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "16분 전",
+    "url": "https://www.chosun.com/national/regional/2026/08/26/S3CKGHIMPBAYRMWUAWUOWBB4DA/",
+    "title": "제주 경찰관, ‘허위 종결’ 한 달 뒤 실종사건 공로 경찰청장 표창받았다",
+    "summary": [
+      "제주 경찰관, ‘허위 종결’ 한 달 뒤 실종사건 공로 경찰청장 표창받았다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "na64f2c4b",
+    "category": "부동산",
+    "source": "뉴시스",
+    "time": "16분 전",
+    "url": "https://www.newsis.com/view/NISX20260826_0003764209",
+    "title": "서울시 \"그린벨트 해제 검토, 용산공원 철회가 전제\"",
+    "summary": [
+      "[서울=뉴시스] 최현호 기자 = 김윤덕 국토교통부 장관이 26일 오세훈 서울시장과의 면담 이후 페이스북에 '그린벨트 해제 검토를 환영한다'는 내용의 글을 올린 것과 관련, 서울시는 \"용산공원 주택공급을 철회한다는 것을 전제로 한 것이었다\"는 입장을 내놨다.",
+      "이날 시는 입장문을 통해 \"서울시가 말씀드린 그린벨트 검토는 정부가 용산공원 내 주택공급 방침을 철회한다는 것을 전제로, 이미 훼손돼 보전가치가 낮은 일부 그린벨트 해제를 검토할 수 있다는."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nd80b1a2c",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "18분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260826180500079",
+    "title": "이란군 \"전쟁중 파손된 무기체계 재건…군사교리 공세로 전환\"",
+    "summary": [
+      "(카이로=연합뉴스) 김상훈 특파원 = 이란군은 미국과 이스라엘의 막대한 공습으로 파손됐던 모든 무기 체계 재건을 완료했다고 26일(현지시간) 밝..."
     ],
     "chips": [
       "#뉴스"
@@ -627,18 +639,18 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2720건",
-    "trend": "+315%"
+    "mentions": "2980건",
+    "trend": "+355%"
   },
   {
     "rank": 2,
-    "tag": "KBO",
-    "mentions": "1680건",
-    "trend": "+155%"
+    "tag": "AI",
+    "mentions": "1810건",
+    "trend": "+175%"
   },
   {
     "rank": 3,
-    "tag": "AI",
+    "tag": "반도체",
     "mentions": "1550건",
     "trend": "+135%"
   }
