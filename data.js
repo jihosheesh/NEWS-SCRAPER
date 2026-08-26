@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-08-26 12:28:47
+// 마지막 업데이트: 2026-08-26 13:44:51
 window.NEWS_DB = [
   {
     "id": "n301c4ffa",
     "category": "IT",
     "source": "mstoday.co.kr",
-    "time": "3시간 전",
+    "time": "4시간 전",
     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5IanVjejRKZXFadWtyUkx4QUZRN2x1LVZJTmgwLTNwelRoeTFSMWZrSjN6OXhUNUxOdFEtTmh5aWJIbFpFRlFaNW1ISFlUa1YwcDRFSWVwUGhCa1BQdXNmc2YwOFMxeE5rZUpWaA?oc=5",
     "title": "엔비디아 ‘운명의 실적’…AI 반도체 랠리 시험대",
     "summary": [
@@ -18,26 +18,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nb8040377",
-    "category": "IT",
-    "source": "뉴시스",
-    "time": "3시간 전",
-    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1nSWRpUGQwSXZMMDZLWGVzY0RjeVVNbDM0YW1vTFlFVGVUNkY1aHRucDJ3eGFLS1QwT2w0aDBqY1lFUkE4M2hvTnl6dXFmV1NXdDlQWnB5QXV4aWlZWGZmZ3RhQWwzTmlpT0dmU3Z2OHhrcnctb1d3T9IBeEFVX3lxTE1nSWRpUGQwSXZMMDZLWGVzY0RjeVVNbDM0YW1vTFlFVGVUNkY1aHRucDJ3eGFLS1QwT2w0aDBqY1lFUkE4M2hvTnl6dXFmV1NXdDlQWnB5QXV4aWlZWGZmZ3RhQWwzTmlpT0dmU3Z2OHhrcnctb1d3Tw?oc=5",
-    "title": "\"AI칩 얼마나 팔고, HBM 얼마나 살까\"…韓 반도체, 엔비디아 컨콜 메시지 '주목'",
-    "summary": [
-      "\"AI칩 얼마나 팔고, HBM 얼마나 살까\"…韓 반도체, 엔비디아 컨콜 메시지 '주목' 뉴시스."
-    ],
-    "chips": [
-      "#AI",
-      "#반도체",
-      "#엔비디아"
-    ]
-  },
-  {
     "id": "ncc170231",
     "category": "IT",
     "source": "비즈니스포스트",
-    "time": "5시간 전",
+    "time": "6시간 전",
     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE8xazNWS1UzNzBGV0t6aFFwLVlpSVJvR2xaSkJGMy1pTlEyV0ltdFZvZFRXQkdOdV9NMFY1RW52SUhFWUk0blVJOHFfU2hlZjF3aXpfUmx5bEZjbS1IcjVDWWt3WmpvcUVacG1HbWRVU1BQV1E?oc=5",
     "title": "엔비디아 실적 발표 이후가 주가에 관건, AI 반도체 경쟁력과 중국 수출 성과에 시장 주목",
     "summary": [
@@ -51,10 +35,25 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "nfcd42b60",
+    "category": "IT",
+    "source": "글로벌이코노믹",
+    "time": "7시간 전",
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxObTRNdFVVNTRVVUg5VE9lbDFqY0locF82eTBMRnZvTDAxSVp1T2pMaEdTcFQ2dkJlMUdYeGR3bXQxUGRlTDJmMGlDeTNBTmd5c2F5T1JIMmcwTU5lNmNRajBqU0ZwZXJGblRQakpHZ3F0Z2ZmNWVncVRlaUk3V1NFenNkTjlBTVBH?oc=5",
+    "title": "\"오픈AI 칩, 엔비디아 넘었다\"… 소프트뱅크 주가 2.8% 쑥",
+    "summary": [
+      "\"오픈AI 칩, 엔비디아 넘었다\"… 소프트뱅크 주가 2.8% 쑥 글로벌이코노믹."
+    ],
+    "chips": [
+      "#AI",
+      "#엔비디아"
+    ]
+  },
+  {
     "id": "n244b0da4",
     "category": "사회",
     "source": "경북매일",
-    "time": "11시간 전",
+    "time": "12시간 전",
     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBYUEFCOVNDZG1rQ3VxRlNlRFJQSDF1aVRMZmxFS09FNWRndks2eEVEVEx1RkQteERzdTJ0WVhXY2JBNUIxVVdBb1NtaU5HS3lRUWxfNFRPQ25YZw?oc=5",
     "title": "경주시시설관리공단-경주시취업지원센터, 지역 일자리 활성화 ‘맞손’",
     "summary": [
@@ -81,14 +80,14 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n22d6640a",
+    "id": "n4efaa9f1",
     "category": "IT",
-    "source": "파이낸셜뉴스",
+    "source": "v.daum.net",
     "time": "2일 전",
-    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE54TkJWVlV2RG9RdU5vaXJMVjNYYm9ralZiUDE1MGppQURUYmNYcktaZFgwYTZTWUlweHZ5RGZlYkFlNzNUUDZGVjczbTRaOXlYdXlQY3FXZDRYdw?oc=5",
-    "title": "삼성 '연산' vs SK '20단 적층'… 차세대 HBM 승부처는 '설계·패키징'",
+    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9SUi1aT25OZi1TM2pJbDFWRjQ5MlBmc0hRa3hvY19aazZPSjlHODdIdVRxazBnTzF5ME1lZkJnaWg1ZTZpMTU2Y2RaZw?oc=5",
+    "title": "삼성은 '두뇌' 키우고, SK는 초고적층 쌓는다…HBM 승부처 '설계·패키징'으로",
     "summary": [
-      "삼성 '연산' vs SK '20단 적층'… 차세대 HBM 승부처는 '설계·패키징' 파이낸셜뉴스."
+      "삼성은 '두뇌' 키우고, SK는 초고적층 쌓는다…HBM 승부처 '설계·패키징'으로 v.daum.net."
     ],
     "chips": [
       "#반도체"
@@ -310,6 +309,39 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "nc17848e8",
+    "category": "IT",
+    "source": "테크M",
+    "time": "방금 전",
+    "url": "https://www.techm.kr/news/articleView.html?idxno=154648",
+    "title": "13년 전 '리디샵' IP 마켓으로 부활...팬덤 굿즈 예판 시작",
+    "summary": [
+      "리디가 만화와 애니메이션, 웹툰, 웹소설 지식재산권(IP) 상품을 한 데 모은 '리디샵'을 공개했다.",
+      "직접 상품을 판매하는 방식에 외부 사업자가 입점하는 오픈마켓형 구조를 결합했다.26일 콘텐츠업계에 따르면 리디는 이날 자사 플랫폼에 실물 상품을 판매하는 '리디샵(RIDI SHOP)'을 선보였다.",
+      "리디샵은 ▲만화·애니 ▲웹툰·웹소설 ▲BL까지 3개 카테고리로 구성됐다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n682947a7",
+    "category": "사회",
+    "source": "테크M",
+    "time": "방금 전",
+    "url": "https://www.techm.kr/news/articleView.html?idxno=154649",
+    "title": "[게임스컴 26] 현장 직접 찾은 여야 국회방문단 \"게임법 개정안 처리 속도\" 한 목소리",
+    "summary": [
+      "독일 쾰른에서 개막한 '게임스컴 26' 현장에 국회의원들이 직접 방문해 국내 게임산업의 경쟁력 강화와 제도적 지원 방안을 모색했다.",
+      "특히 현재 국회에 계류중인 게임산업법 전부개정안의 조속한 처리를 추진하겠다는 입장을 밝히면서 정책적 지원을 본격화하겠다는 방침도 밝혔다.",
+      "26일(현지시간) 게임스컴 26 현장을 방문한 조승래 더불어민주당 의원은 게임산업법 전부개정안 처리를 묻는 질문에 \"여야가 함께 힘을 모아 합의 가능한 부분들부터 먼저 빠르게 정."
+    ],
+    "chips": [
+      "#정책",
+      "#정치"
+    ]
+  },
+  {
     "id": "n897c678d",
     "category": "부동산",
     "source": "테크M",
@@ -342,293 +374,252 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n9a226cf8",
-    "category": "스포츠",
-    "source": "테크M",
-    "time": "방금 전",
-    "url": "https://www.techm.kr/news/articleView.html?idxno=154643",
-    "title": "[게임스컴 26] 축구장 32개 규모 전시장 '완판'...글로벌 게임 축제 막 올랐다",
-    "summary": [
-      "독일 쾰른의 공기가 게임으로 물들었다.",
-      "쾰른 메쎄로 향하는 트램 안에선 게임스컴 비표를 목에 걸고 있는 사람들로 가득 차있다.",
-      "게임 캐릭터가 그려진 티셔츠를 입고있는 게이머들은 게임스컴을 알리는 안내판을 따라 행사장으로 향한다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n7497cbf7",
-    "category": "IT",
-    "source": "테크M",
-    "time": "방금 전",
-    "url": "https://www.techm.kr/news/articleView.html?idxno=154642",
-    "title": "업스테이지는 SKT, LG AI연구원은 네이버와...'보안 특파모' 2파전 압축",
-    "summary": [
-      "사이버 보안 특화 AI 파운데이션 모델 사업이 SK텔레콤과 네이버클라우드의 2파전으로 압축됐다.",
-      "업스테이지와 안랩, SK쉴더스는 SKT에, LG AI연구원, S2W, 티오리 등은 네이버클라우드에 합류하면서 국내 주요 AI·보안 기업이 양 진영으로 갈렸다.26일 과학기술정보통신부는 지난달 22일부터 이달 26일까지 '사이버 보안 특화 AI 파운데이션 모델 개발' 사업 참여팀 공모를 진행한 결과 SK텔레콤과 네이버클라우드 총 2개 컨소시엄이 제안서."
-    ],
-    "chips": [
-      "#AI",
-      "#네이버"
-    ]
-  },
-  {
-    "id": "na1c8a468",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "4분 전",
-    "url": "https://www.newsis.com/view/NISX20260826_0003764248",
-    "title": "국힘 \"네팔 홍수로 국민 8명 연락 두절…조속한 구조 이뤄지길\"",
-    "summary": [
-      "[서울=뉴시스]한은진 기자 = 국민의힘은 26일 네팔 라수와 지역에서 발생한 홍수로 우리 국민 8명이 연락이 두절되자 정부를 향해 \"가능한 모든 노력을 다해달라\"고 당부했다.",
-      "장동혁 대표는 이날 자신의 페이스북에 \"네팔 홍수로 현지에서 수력발전소를 건설중이던 우리 국민 8명이 연락 두절되고, 10명이 고립되는 사태가 발생했다\"며 \"모두 무사히 신속하게 귀환하시기를 진심으로 기원한다\"고 적었다.",
-      "장 대표는 \"네팔 정부에서 긴급히 대응에 나섰고,."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n437d45d0",
-    "category": "스포츠",
+    "id": "n55a2d1b3",
+    "category": "경제",
     "source": "아시아경제",
-    "time": "4분 전",
-    "url": "https://view.asiae.co.kr/article/2026082621234417350",
-    "title": "[내일날씨]비 내려도 덥다…전국 곳곳 비·소나기, 남부 폭염",
+    "time": "방금 전",
+    "url": "https://view.asiae.co.kr/article/2026082618580835646",
+    "title": "한화에어로스페이스, 글로벌 법인 '한화호라이즌 USA' 설립 … LNG 밸류체인 본격화",
     "summary": [
-      "목요일인 27일은 전국 곳곳에 비나 소나기가 내리겠다.",
-      "특히 경남 남해안에는 최대 80㎜ 이상의 강한 비가 예상된다.",
-      "기상청에 따르면 이날 아침부터 낮 사이 경기 북부와 강원 북부 내륙·산지에 비가 내리겠다."
+      "한화에어로스페이스가 미국에 '한화호라이즌 USA(Hanwha Horizon USA' 법인을 설립하고 본격적으로 글로벌 액화천연가스(LNG) 사업에 나선다.",
+      "한화호라이즌 USA는 한화에어로스페이스 LNG 사업의 컨트롤타워로, 조달부터 트레이딩(Trading), 물류 최적화 등 사업 전반을 맡는다.",
+      "해양 및 에너지 분야에서 30년의 경력을 보유한 제임스 사가르(James Sagar) 한화해운(한화쉬핑) 최고경영자(CEO)가 한화호라이즌 USA 대표."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n6ff4be5a",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "6분 전",
-    "url": "https://www.newsis.com/view/NISX20260826_0003764244",
-    "title": "'장미란씨 실종사건 허위종결' 부 경장, 두 달 전 '실종자 발견'으로 경찰청장 표창",
+    "id": "n030aa018",
+    "category": "경제",
+    "source": "아시아경제",
+    "time": "1분 전",
+    "url": "https://view.asiae.co.kr/article/2026082622271491260",
+    "title": "\"폭탄 터진다\" 전국 법원 협박 메일 … 창원지법도 긴급 수색",
     "summary": [
-      "[서울=뉴시스]한은진 기자 = 고(故) 장미란씨 실종 사건을 허위로 종결한 혐의를 받는 제주서부경찰서 소속 경찰관이 두 달 전 실종자 발견 공로로 경찰청장 표창을 받은 것으로 26일 확인됐다.",
-      "박수민 국민의힘 의원이 제주경찰청으로부터 제출받은 자료에 따르면 장씨 실종사건을 담당했던 제주서부경찰서 소속 부 모(30대) 경장은 지난 6월 26일 '실종 치매 노인 발견 유공'으로 경찰청장 표창을 받았다.",
-      "이는 부 경장이 장씨 사건을 종결 처리한 지."
+      "전국 법원에 '폭발물 설치' 관련 협박 전자우편(이메일)이 발송된 가운데 경남 창원지방법원에도 유사한 내용이 접수돼 경찰이 수색에 나섰다.",
+      "창원중부경찰서 등에 따르면 26일 오후 1시 30분께 창원지법으로부터 \"법원에 폭발물을 설치했다\"라는 내용의 전자우편(이메일)을 받았다는 신고가 접수됐다.",
+      "해당 메일에는 이날 오후 1시 34분부터 오후 7시 30분 사이 사제 폭탄이 터진다는 내용이 담겼으나 특정 지역이나 법원 이름이."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "ne932b520",
+    "id": "n776fb60c",
     "category": "스포츠",
-    "source": "뉴시스",
-    "time": "8분 전",
-    "url": "https://www.newsis.com/view/NISX20260826_0003764240",
-    "title": "'최민준 호투·6회 5점' SSG, 이틀 연속 한화 제압…류현진 또 승리 불발",
+    "source": "연합뉴스",
+    "time": "4분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260825178051007",
+    "title": "[프로야구 광주전적] KIA 16-11 롯데",
     "summary": [
-      "[서울=뉴시스]김희준 기자 = 프로야구 SSG 랜더스가 이틀 연속 한화 이글스를 제압했다.",
-      "한화의 베테랑 에이스 류현진은 9경기 연속 승리가 불발됐다.",
-      "SSG는 26일 인천 SSG랜더스필드에서 벌어진 2026 신한 쏠 KBO리그 한화와의 경기에서 6-1로 승리했다."
+      "[프로야구 광주전적] KIA 16-11 롯데."
     ],
     "chips": [
       "#KBO"
     ]
   },
   {
-    "id": "n3073ccb8",
+    "id": "na6a9f993",
     "category": "스포츠",
+    "source": "연합뉴스",
+    "time": "8분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260826188900007",
+    "title": "4연패서 팀 구한 FC안양 마테우스…멀티골로 '승리 약속' 지켰다",
+    "summary": [
+      "(안양=연합뉴스) 오명언 기자 = 멀티골로 역전승을 견인하며 팀을 4연패의 수렁에서 건져낸 프로축구 K리그1 FC안양의 마테우스는 팀을 승리로 ..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n8219f634",
+    "category": "경제",
+    "source": "뉴시스",
+    "time": "8분 전",
+    "url": "https://www.newsis.com/view/NISX20260826_0003764288",
+    "title": "[속보] 뉴욕증시, 인플레 우려속 하락 출발…다우지수 0.1%↓",
+    "summary": [
+      "후속기사가 이어집니다 ◎공감언론 뉴시스 sophis731@newsis.com."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nac046bdf",
+    "category": "사회",
     "source": "조선일보",
     "time": "8분 전",
-    "url": "https://www.chosun.com/sports/baseball/2026/08/26/G43TANRRME2DCMZUMYYDQNJQMQ/",
-    "title": "'한화 또 무기력 3연패' SSG 6-1 승리, 위닝시리즈 확보…최민준 5⅓이닝 무실점 호투 '146일 만의 승리' [인천 리뷰]",
+    "url": "https://www.chosun.com/national/national_general/2026/08/26/IX32FU5ABBDGDAKS3DWA2WDZTQ/",
+    "title": "경찰, 中 유학생 살해 중국인 대학 강사 구속영장 신청",
     "summary": [
-      "[OSEN=인천, 조은혜 기자] SSG 랜더스가 한화 이글스를 연이틀 묶고 2연승을 달성했다.이숭용 감독이 이끄는 SSG는 26일 인천SSG랜더스필드에서 열린 2026 신한 SOL KBO리그 한화 이글스와의 홈경기에서 6-1로 승리했다.",
-      "전날 7-1 승리를 거뒀던 SSG는 이틀 연속 투타조화를 앞세워 한화를 누르고 2연승을 달성, 위닝시리즈를 확보했다."
+      "경찰, 中 유학생 살해 중국인 대학 강사 구속영장 신청."
     ],
     "chips": [
-      "#KBO"
+      "#교육"
     ]
   },
   {
-    "id": "n841ceb1a",
+    "id": "nb2979011",
     "category": "사회",
+    "source": "뉴시스",
+    "time": "9분 전",
+    "url": "https://www.newsis.com/view/NISX20260826_0003764286",
+    "title": "[부고]장장익(전 충청매일 취재부장)씨 모친상",
+    "summary": [
+      "[구미=뉴시스] ▲한윤선씨 별세, 장장익(전 충청매일 취재부장)씨 모친상= 26일, 구미장례식장해원 101호, 발인 28일 오전 11시, 장지 상주시 도남동 선영, 054-443-5445."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nbe9dcfda",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "9분 전",
+    "url": "https://www.newsis.com/view/NISX20260826_0003764291",
+    "title": "칠곡 지천면 공장서 화재…4시간47분 만에 완진(종합)",
+    "summary": [
+      "[칠곡=뉴시스] 김정화 기자 = 경북 칠곡의 한 스펀지 제조공장에서 불이 나 약 4시간 40여분만에 완전히 꺼졌다.",
+      "26일 경북소방본부에 따르면 이날 오후 3시34분께 칠곡군 지천면 달서리의 한 스펀지 제조공장에서 불이 났다는 신고가 접수됐다.",
+      "불은 오후 4시50분께 초진됐고 오후 8시21분께 완전히 꺼졌다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n7f1a0218",
+    "category": "스포츠",
     "source": "조선일보",
     "time": "9분 전",
-    "url": "https://www.chosun.com/national/incident/2026/08/26/CYCUKRHP5NEMTG3LAMY6T25J7U/",
-    "title": "경찰, 최근 3년 실종사건 31만건 전수 점검... ‘비대면 종결’ 금지",
+    "url": "https://www.chosun.com/sports/baseball/2026/08/26/GFSGMZJVGEZTMOLGMM4WEZRWHA/",
+    "title": "김도영 39호 스리런→카스트로 투런+만루포, KIA 16-11 위닝시리즈...롯데 20안타 치고도 패패패 [광주 리뷰]",
     "summary": [
-      "경찰, 최근 3년 실종사건 31만건 전수 점검... ‘비대면 종결’ 금지."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "naaa685fe",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "10분 전",
-    "url": "https://www.newsis.com/view/NISX20260826_0003764225",
-    "title": "獨 쾰른서 뭉친 여야 \"게임법 처리 속도 낸다\"[게임스컴 2026]",
-    "summary": [
-      "[쾰른(독일)=뉴시스]오동현 기자 = 여야 국회의원들이 세계 최대 게임쇼 '게임스컴'을 공식 방문했다.",
-      "현장에서 K-게임의 글로벌 경쟁 상황을 확인한 의원들은 '게임산업진흥법 전부개정안' 가운데 여야 이견이 없는 조항부터 신속하게 처리하겠다고 밝혔다.",
-      "26일(현지시간) 독일 쾰른메세에서 개막한 '게임스컴 2026'에는 더불어민주당 조승래·김성회 의원, 국민의힘 정연욱 의원, 조국혁신당 이해민 의원으로 구성된 국회 방문단이 참석했다."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "nb3aacc5c",
-    "category": "스포츠",
-    "source": "동아일보",
-    "time": "12분 전",
-    "url": "https://www.donga.com/news/Sports/article/all/20260826/134551701/1",
-    "title": "삼성 최형우, 호세 넘어 역대 최고령 만루홈런 새 역사",
-    "summary": [
-      "프로야구 삼성의 베테랑 타자 최형우가 KBO리그 최고령 만루홈런 기록을 새로 썼다.",
-      "최형우는 26일 서울 고척스카이돔에서 열린 키움과의 방문경기에 4번 지명타자로 출전해 1회 초 만루홈런을 쳤다.",
-      "최형우는 무사만루 상황에서 키움의 루키 박준현(19)의 시속 152km 직구를 받아쳐 가운데 담장을 넘겼다."
+      "[OSEN=광주, 이선호 기자] KIA 타이거즈가 화끈한 화력을 앞세워 2연승을 달렸다.",
+      "26일 광주-기아 챔피언스필드에서 열린 2026 신한은행 SOL KBO리그 롯데 자이언츠와의 팀간 14차전을 16-11로 이겼다.",
+      "김도영이 시즌 39호 스리런포함 4타점을 올렸고 카스트로는 투런홈런과 만루홈런을 터트렸다.13안타 10사사구를 효율적으로 묶어 대량득점을했."
     ],
     "chips": [
       "#KBO"
     ]
   },
   {
-    "id": "nc8e7cd91",
-    "category": "부동산",
-    "source": "동아일보",
-    "time": "14분 전",
-    "url": "https://www.donga.com/news/Economy/article/all/20260826/134551960/1",
-    "title": "박현주 “트럼프 흉악…배당 많이 했으면 삼전닉스 생겨났겠나”",
+    "id": "n7295aeed",
+    "category": "스포츠",
+    "source": "뉴시스",
+    "time": "11분 전",
+    "url": "https://www.newsis.com/view/NISX20260826_0003764289",
+    "title": "대전, 울산에 2-1 역전승…광주는 K리그1 최다 23경기 무승(종합)",
     "summary": [
-      "박현주 미래에셋그룹 회장 겸 글로벌전략가(GSO)가 최근 인수를 마무리한 가상자산 거래소 ‘코빗’의 운영 업체 디지털엑스 임직원들과 만찬을 진행했다.",
-      "이 자리에서 박 회장은 부동산과 가상자산, 원화 스테이블코인, 주주환원 등 주요 현안에 대해 거침없이 말했다.",
-      "박 회장은 26일 서울 종로구 포시즌스호텔에서 디지털엑스 전체 임직원들과 만찬 자리를 가졌다."
-    ],
-    "chips": [
-      "#부동산"
-    ]
-  },
-  {
-    "id": "n02206f62",
-    "category": "사회",
-    "source": "아시아경제",
-    "time": "14분 전",
-    "url": "https://view.asiae.co.kr/article/2026082620130190065",
-    "title": "배상훈 프로파일러, 장미란씨 사망 사건에…\"타살 가능성은 51.1%\"",
-    "summary": [
-      "지난 5월 실종된 장미란씨(37)가 실종 104일 만에 제주시 한림읍의 한 야자수 농장에서 숨진 채 발견된 가운데 배상훈 프로파일러가 \"타살 가능성은 51.1%\"라고 주장했다.",
-      "배상훈 \"증거 소실돼 재구성에 어려움 있을 듯\" 배 프로파일러는 26일 YTN 라디오 '장성철의 뉴스명당'에 출연해 장 씨의 사망원인과 관련해 야자수 농장에 들어간 경위와 직전 동선을 확인해야 한다고 강조했다.",
-      "그는 \"의문을 해소할 수 있는 몇 가지 지점은."
+      "[서울=뉴시스]안경남 기자 = 황선홍 감독이 지휘하는 프로축구 K리그1 대전하나시티즌이 갈길 바쁜 울산 HD에 역전승을 거두며 파이널A 도약을 위한 발판을 마련했다.",
+      "대전은 26일 대전월드컵경기장에서 열린 하나은행 K리그1 2026 25라운드 홈 경기에서 울산에 2-1 역전승했다.",
+      "리그 2연승을 달린 대전은 9위(승점 32)로 올라섰다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n463036e4",
-    "category": "IT",
-    "source": "아시아경제",
+    "id": "n4db3b9e2",
+    "category": "스포츠",
+    "source": "연합뉴스",
+    "time": "16분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260826188200007",
+    "title": "kt 1위 지킨 끝내기 한 방…김현수 \"안타보다 승리가 기뻐\"",
+    "summary": [
+      "(수원=연합뉴스) 이대호 기자 = 김현수(kt wiz)의 프로 통산 10번째 끝내기 안타는 팀 1위를 지킨 귀중한 한 방이었다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n6e1aaeb5",
+    "category": "사회",
+    "source": "연합뉴스",
     "time": "17분 전",
-    "url": "https://view.asiae.co.kr/article/2026082621112179092",
-    "title": "\"삼전닉스 주주환원 요구, 허접한 얘기…배당보다 투자해야\" 일축한 박현주 미래에셋 회장",
+    "url": "https://www.yna.co.kr/view/AKR20260826188100527",
+    "title": "부산 남부권 7개 구 오존주의보 발령",
     "summary": [
-      "박현주 미래에셋그룹 회장 겸 글로벌전략가(GSO)가 삼성전자와 SK하이닉스에 대한 주주환원 확대 요구를 두고 \"허접한 얘기\"라고 일축했다.",
-      "배당을 늘리기보다 자본을 축적해 미래 성장을 위한 투자에 나서야 한다는 취지다.",
-      "박 회장은 26일 서울 종로구 포시즌스호텔에서 디지털엑스 임직원들과 만나 \"삼성전자가 주주환원을 못 해서 주가가 내려간다? 그런 허접한 얘기가 어디 있느냐\"며 \"주주환원을 해봐야 5~7%인데 그러면 미국."
+      "(부산=연합뉴스) 26일 오후 10시를 기해 부산 남부권 7개 구에 오존주의보가 내려졌다고 환경부 한국환경공단이 전했다."
     ],
     "chips": [
-      "#삼성전자",
-      "#SK하이닉스"
+      "#환경"
     ]
   },
   {
-    "id": "n6effedc9",
+    "id": "n8f959d2b",
+    "category": "IT",
+    "source": "연합뉴스(경제)",
+    "time": "17분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260826188000002",
+    "title": "카카오뱅크, 31일 예정한 총파업 취소…\"노사 간 공감대\"",
+    "summary": [
+      "(서울=연합뉴스) 이도흔 기자 = 카카오뱅크[323410] 노동조합이 오는 31일부터 진행 예정이던 총파업을 취소하기로 했다."
+    ],
+    "chips": [
+      "#카카오"
+    ]
+  },
+  {
+    "id": "n43f6d086",
     "category": "사회",
-    "source": "동아일보",
-    "time": "18분 전",
-    "url": "https://www.donga.com/news/It/article/all/20260826/134552196/1",
-    "title": "[리뷰] 게이밍 노트북의 종착역? 에이수스 ROG 스트릭스 스카 18(G835)",
-    "summary": [
-      "어떤 분야이건 해당 브랜드를 대표하는 ‘플래그십’ 제품이라는 것이 있다.",
-      "이런 제품들은 가성비 보다는 절대적 성능을 중시하는 상위 1%의 취향에 부합하는 스펙을 갖춘 것이 특징이다.",
-      "에이수스(Asus)의 ROG 게이밍 노트북 시리즈, 그 중에서도 스트릭스 스카(Strix SCAR) 제품군이 이런 특징을 잘 보여준다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n5ec37075",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "20분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260826180152104",
-    "title": "네팔 홍수로 19명 사망…외국인 291명 포함 여행객 384명 실종(종합)",
-    "summary": [
-      "(자카르타=연합뉴스) 손현규 특파원 = 히말라야 산악지대에 있는 네팔 중북부 지역에서 대규모 홍수가 발생해 19명이 숨지고 외국인 290여명을 ..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nb05cae0c",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "22분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260826182800079",
-    "title": "이란 혁명수비대 \"美, 오만과 호르무즈 합의 방해…개방 지연\"",
-    "summary": [
-      "(카이로=연합뉴스) 김상훈 특파원 = 이란 이슬람 혁명수비대(IRGC)는 미국이 자국과 오만 간의 호르무즈 해협 개방 관련 협상을 방해하고 있다..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nc8252494",
-    "category": "부동산",
     "source": "동아일보",
     "time": "23분 전",
-    "url": "https://www.donga.com/news/Economy/article/all/20260826/134552055/1",
-    "title": "서울시 “그린벨트 해제 검토, 용산공원 주택공급 철회가 전제”",
+    "url": "https://www.donga.com/news/Inter/article/all/20260826/134552551/1",
+    "title": "400t 성, 밧줄로 묶어 1800명이 2m 옮겼다…日서 진풍경",
     "summary": [
-      "서울시가 정부의 용산공원 주택 공급 방안이 철회될 경우 일부 개발제한구역(그린벨트)을 해제해 택지로 활용하는 방안을 논의할 수 있다고 밝혔다.",
-      "김윤덕 국토교통부 장관이 26일 오세훈 서울시장과의 면담 이후 ‘그린벨트 해제 검토를 환영한다’고 밝힌 것과 관련해 ‘전제’를 단 것이다.서울시는 이날 입장문을 통해 “서울시가 말씀드린 그린벨트 검토는 정부가 용산공원 내 주택 공급 방침을 철회한다는 것을 전제로 한 것”이라며 “이미 훼손돼 보전가치가 낮."
+      "“소-레(そーれ), 소-레(そーれ)”지난 주말 일본 아오모리현 히로사키 공원.",
+      "이곳에 22일~23일 약 1800명의 사람들이 몰려 약 400톤에 달하는 ‘성’을 끌어 2m 넘게 옮기는 진풍경이 펼쳐졌다.이날 히로사키성 천수각을 원래 자리로 되돌리는 작업이 진행됐는데, 건물을 해체하지 않고 통째로 옮기는 일본의 전통적인 건물 이동 방식인 ‘히키야’가 사용됐던 것.",
+      "공원 측은 성채가 국가 중요문화재로 지정돼있기 때문에 건물을 해체하지 않고 고대부터."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "na4c9310d",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "28분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260826182400108",
-    "title": "크렘린궁, 美CIA 국장 러시아 방문 확인…\"푸틴은 안 만나\"",
+    "id": "n18caf3eb",
+    "category": "부동산",
+    "source": "아시아경제",
+    "time": "37분 전",
+    "url": "https://view.asiae.co.kr/article/2026082617041104781",
+    "title": "\"필로폰 투약하고 살해\"…수유동 오피스텔 살인범 구속 기소",
     "summary": [
-      "(이스탄불=연합뉴스) 김동호 특파원 = 존 랫클리프 미국 중앙정보국(CIA) 국장이 러시아를 방문했다고 크렘린궁이 26일(현지시간) 확인했다."
+      "서울 강북구 수유동 오피스텔에서 지인을 살해하고 금품을 빼앗은 50대 남성이 구속 상태로 재판에 넘겨졌다.",
+      "서울북부지검 형사2부(부장검사 김가람)는 강도살인 및 마약류관리법 위반 혐의로 A씨(52)를 구속 기소했다고 26일 밝혔다.",
+      "검찰에 따르면 A씨는 필로폰을 투약한 뒤 지난달 27일 서울 강북구 수유동 한 오피스텔에서 평소 알고 지내던 50대 여성 B씨의 목과 옆구리 등에 흉기를 수십차례 휘둘러 살해하고 B씨 소유의 현."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n8b4a01a5",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "28분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260826102600017",
-    "title": "IAEA, 해상원자력 국제협력체 'ATLAS' 출범…한국도 참여",
+    "id": "na7d23174",
+    "category": "부동산",
+    "source": "연합뉴스(경제)",
+    "time": "37분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260826186000001",
+    "title": "김윤덕 \"용산 어린이정원에 주택공급 논의된 적 없다\"",
     "summary": [
-      "(서울=연합뉴스) 조승한 기자 = 원자력 추진선, 부유식 원전 등 해상 분야 원자력 활용을 논의하기 위해 국제원자력기구(IAEA) 주도로 국제협..."
+      "(서울=연합뉴스) 박재하 기자 = 김윤덕 국토교통부 장관은 26일 용산어린이정원에 주택을 공급하는 방안에 대해 \"한 번도 논의된 적이 없다\"고 ..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n2b06b3bb",
+    "category": "경제",
+    "source": "연합뉴스(경제)",
+    "time": "38분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260826158051001",
+    "title": "주병기 \"공정위 현장 조사 거부한 쿠팡 형사 고발할 것\"(종합)",
+    "summary": [
+      "(서울·세종=연합뉴스) 김수현 최평천 박재하 기자 = 주병기 공정거래위원장은 26일 대규모유통업법 위반 등의 혐의를 확인하기 위한 공정위 현장 ..."
     ],
     "chips": [
       "#뉴스"
@@ -641,20 +632,20 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2590건",
-    "trend": "+295%"
+    "mentions": "2720건",
+    "trend": "+315%"
   },
   {
     "rank": 2,
     "tag": "반도체",
-    "mentions": "1680건",
-    "trend": "+155%"
+    "mentions": "1550건",
+    "trend": "+135%"
   },
   {
     "rank": 3,
     "tag": "KBO",
-    "mentions": "1680건",
-    "trend": "+155%"
+    "mentions": "1550건",
+    "trend": "+135%"
   }
 ];
 // ====AUTO-GENERATED-END====
