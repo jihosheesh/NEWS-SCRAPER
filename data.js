@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-08-26 02:18:40
+// 마지막 업데이트: 2026-08-26 03:43:38
 window.NEWS_DB = [
   {
     "id": "n244b0da4",
     "category": "사회",
     "source": "경북매일",
-    "time": "1시간 전",
+    "time": "2시간 전",
     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBYUEFCOVNDZG1rQ3VxRlNlRFJQSDF1aVRMZmxFS09FNWRndks2eEVEVEx1RkQteERzdTJ0WVhXY2JBNUIxVVdBb1NtaU5HS3lRUWxfNFRPQ25YZw?oc=5",
     "title": "경주시시설관리공단-경주시취업지원센터, 지역 일자리 활성화 ‘맞손’",
     "summary": [
@@ -20,7 +20,7 @@ window.NEWS_DB = [
     "id": "nff775e0d",
     "category": "IT",
     "source": "edaily.co.kr",
-    "time": "4시간 전",
+    "time": "5시간 전",
     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQVGkyMXNudkFpRlFaZkFnS05VUUl5XzhWbmQtTG1GX3RHLWRibUpyUm1JOVJLZkZTcWg1WXZHOGphb215U3hya3E1VnFGY3d6b2xMZFZTSHlDNk1aYm9Jb1NsLVdKOFpwcndZbjVRbUhyQ051ZGtycko4LW9RemJERA?oc=5",
     "title": "엔비디아 독주 흔드나…오픈AI “자체칩, GB300 제쳤다”",
     "summary": [
@@ -35,7 +35,7 @@ window.NEWS_DB = [
     "id": "n50b2589b",
     "category": "IT",
     "source": "v.daum.net",
-    "time": "5시간 전",
+    "time": "6시간 전",
     "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1UV3l3VkdSZnQ3eElieE5NR2ZQY2Q5dkxBYmF3OUVOamJ0OW5VdEN2ODBFR3JqbjU1RUJDY1BRRlNfd2s0TVY4X19mRHMtR3M?oc=5",
     "title": "“반도체 주주님들, 간만에 큰 거 옵니다”…내일 새벽 엔비디아 실적발표",
     "summary": [
@@ -50,7 +50,7 @@ window.NEWS_DB = [
     "id": "n01b6d007",
     "category": "IT",
     "source": "뉴스퀘스트",
-    "time": "19시간 전",
+    "time": "20시간 전",
     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE10eDdVb3Zjdmd4YUMwV01FbGtXSElSc3Zpd0gzN1RwT21vUU9adTBmc0hROGd1OFpLbU9yZExjR0txSlo0NWdWY2dkbS1nWnZxV0lmQ2dQaEdrQUs1SzFLZE94NWd6NFNzcGY3U0h4UdIBc0FVX3lxTE4wZHVlazIzd1ljVXhjd2dXTjBKVFdrQnhRUFd2MGIwSm9tNE9nYVdDcTdpMGxJaktUZHZBSDlFcGJIUEhESjg2Nm9wVkgybEVDYW1rQ3NwYTZOSmlSSGs0eHNNNVlZMDBWTmpQOVJ4SmVacVE?oc=5",
     "title": "삼성 ‘원스톱’- SK ‘TSMC 동맹’…HBM4E 이후 승부처는 ‘발열과 양산’",
     "summary": [
@@ -64,7 +64,7 @@ window.NEWS_DB = [
     "id": "n7d1aabd9",
     "category": "IT",
     "source": "이코리아",
-    "time": "20시간 전",
+    "time": "21시간 전",
     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5rcXg0aHpNZVpILUMwTjNIYWN6M3gwaGN6RWtIaktxVWdnc3lyY1FQY1pUUnBkcTNYQ1o0dGpjSjhCUm1HZDlfNE5QOVltM2Voa09iZWlNSzNSekpEVFhoQjA3bmJjenBqcjdTeDZYOA?oc=5",
     "title": "삼전닉스, 차세대 HBM 기술 로드맵 공개... HBM 주도권 다툼 격화",
     "summary": [
@@ -93,7 +93,7 @@ window.NEWS_DB = [
     "id": "n10d70d81",
     "category": "IT",
     "source": "경향신문",
-    "time": "2일 전",
+    "time": "3일 전",
     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1RbmpaY1ZpZzR0MUIwMlRlZEpHd080TmxTN2NxdFhxNktoSUpmbzFQeDd0ZDNjSENhN3Noc2JHU2xXV2IwdVMxblNtOHR0anh3bExYUExXWGRoZ9IBX0FVX3lxTE5VSlNTNTkxSWZRVWJtVUo3YXJNOUF0MFU1bGFXblJ1c2c4MkJlTlNfUnIxTlNOdzN0LTdXVGdxRlYyLVF0ZkV0UEFWWlJ0WnpBdzlUVGFMbV9hTDZXcTA0?oc=5",
     "title": "메모리값 폭등에…엔비디아도 AI 서버 가격 15% 이상 올린다",
     "summary": [
@@ -235,6 +235,20 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n79d12fb6",
+    "category": "부동산",
+    "source": "Chosunbiz",
+    "time": "88일 전",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQc01fQzQ5RjhjTzMxV0xObHgwUFQ5Z0ozcklaR19VYmhUOXBxVURFZVBjZkxKT2ozQUhsVzViV1JCLXdvVUQ1YWVwYTA5bVB1TjdaYlZHTXFCQUJoRTBsdHNHZXZ5MnJQdVliYzVUUktidVpvNDNzWVJXakYzUFBTMFMxd1Y0NFVrTnhSR1c5WXctLTdFRnhJMtIBrAFBVV95cUxOMk9EaXo0bmRJdnJyRVgyM0REZE1IR1VEVkNzWVNHZW9nR3p3WDRXcXQ0dnpfNk5LRE9SVFVscW45RzlqYTZGTWhWdTlybngycnM5QUliSG1haVFoQW5xT3ZpbFJvWU5hYjNYUGNLTHVyNHgwcDdLZWFsdFhMTHhCNlBodDFsdkFTT0tFX3NXWGZ1M2hCTEpmbTVUVXRzREtvSy1CdkRyWE5sbU5p?oc=5",
+    "title": "매물 줄고 분양가 뛰고… 전국 아파트 매매·전셋값 동반 상승세 지속 - 조선비즈",
+    "summary": [
+      "매물 줄고 분양가 뛰고… 전국 아파트 매매·전셋값 동반 상승세 지속 - 조선비즈 Chosunbiz."
+    ],
+    "chips": [
+      "#부동산"
+    ]
+  },
+  {
     "id": "nb9bdfdfb",
     "category": "스포츠",
     "source": "푸드투데이",
@@ -261,21 +275,6 @@ window.NEWS_DB = [
     ],
     "chips": [
       "#스타트업"
-    ]
-  },
-  {
-    "id": "n08b2b275",
-    "category": "부동산",
-    "source": "한국부동산뉴스",
-    "time": "133일 전",
-    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBZNmg3TVp4ZWZCV1ZzTE14bXV5UkN4MExnMmZJdkpfNUsyUGltRWlJVWVfUzJoQktRUlcwMTdrUUtuWk9pR2MxaFlhNGpOU0xGZjM3eDUwdlNmRWQtYkFaenAyekhVRGRRY0pJ?oc=5",
-    "title": "대출 규제에 몰린 '15억 이하'…비강남 집값·분양가 동반 상승",
-    "summary": [
-      "대출 규제에 몰린 '15억 이하'…비강남 집값·분양가 동반 상승 한국부동산뉴스."
-    ],
-    "chips": [
-      "#부동산",
-      "#정책"
     ]
   },
   {
@@ -307,317 +306,328 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nfb03cc29",
+    "id": "n2f60e543",
+    "category": "경제",
+    "source": "테크M",
+    "time": "방금 전",
+    "url": "https://www.techm.kr/news/articleView.html?idxno=154631",
+    "title": "스타벅스 '별' 모으고 금리도 챙긴다...KB국민은행 '별별통장2' 출시",
+    "summary": [
+      "KB국민은행이 스타벅스 이용 고객을 겨냥한 제휴 통장을 다시 선보인다.",
+      "계좌를 스타벅스 앱 간편결제 수단으로 활용하면 리워드 '별'을 받을 수 있고, 일정 조건을 충족하면 아메리카노 쿠폰도 제공한다.KB국민은행은 오는 9월 1일 스타벅스 제휴통장 'KB 별별통장2'를 출시한다고 26일 밝혔다.",
+      "지난해 4월 20만좌 한정으로 선보인 'KB 별별통장'의 후속 상품으로, 이번에는 총 30만좌 한정 판매한다.KB 별별통장2는 최초 가입 후 1년간 30."
+    ],
+    "chips": [
+      "#금리"
+    ]
+  },
+  {
+    "id": "n9af755bb",
     "category": "IT",
     "source": "테크M",
     "time": "방금 전",
-    "url": "https://www.techm.kr/news/articleView.html?idxno=154628",
-    "title": "잘 나가는 현대백화점 '더마 뷰티' 선점 나선다…판교에 업계 첫 전문매장",
+    "url": "https://www.techm.kr/news/articleView.html?idxno=154630",
+    "title": "카카오뱅크 '모바일 신분증' 70만장 돌파...\"남녀노소 누구나 쉽게 쓴다\"",
     "summary": [
-      "현대백화점이 빠르게 커지는 더마 뷰티 시장 공략에 나선다.",
-      "명품 화장품 브랜드를 중심으로 짜였던 백화점 뷰티 상품기획(MD)을 피부 효능과 전문성을 앞세운 기능성 화장품으로 넓힌다.",
-      "올리브영 등 전문점이 주도해온 신흥 뷰티 브랜드 시장에서 백화점만의 새로운 성장 영역을 만들겠다는 전략이다.26일 유통업계에 따르면 현대백화점은 다음달 18일 판교점 지하 1층에 더마 뷰티 전문 편집숍 '코오드(Khode)' 1호점을 연다."
+      "카카오뱅크가 지난해 7월 선보인 '모바일 신분증'의 누적 발급량이 출시 1년여 만에 약 70만장을 기록했다.",
+      "카카오톡과 카카오뱅크 앱에서 손쉽게 접근할 수 있도록 이용 편의성을 높인 점이 이용자 확대를 이끈 것으로 풀이된다.카카오뱅크는 모바일 신분증 누적 발급량이 약 70만장에 이르렀다고 26일 밝혔다.모바일 신분증은 은행과 병원, 관공서, 국내선 항공 등 신분 확인이 필요한 곳에서 실물 신분증을 대신해 사용할 수 있는 디지털 신분증이다."
     ],
     "chips": [
-      "#뉴스"
+      "#카카오",
+      "#의료"
     ]
   },
   {
-    "id": "ndb66ef27",
-    "category": "사회",
-    "source": "테크M",
-    "time": "방금 전",
-    "url": "https://www.techm.kr/news/articleView.html?idxno=154627",
-    "title": "'1등 거래소' 넘어 정부 파트너로…두나무, 민관 협력 보폭 넓힌다",
-    "summary": [
-      "국내 최대 디지털자산 거래소 업비트를 운영하는 두나무가 정부·공공기관과의 협력 범위를 빠르게 넓히고 있다.",
-      "금융교육과 범죄 예방을 넘어 경찰이 압수한 디지털자산의 보관·관리, 정부 행정정보를 활용한 고객확인(KYC)까지 맡게 됐다.",
-      "디지털자산이 제도권 금융의 한 축으로 편입되는 과정에서 업계 선두 사업자인 두나무의 인프라와 기술력이 공공 영역에서도 활용되는 모습이다.26일 디지털자산 거래업계에 따르면 두나무는 최근 행정안전부의 '행정정보 공동이."
-    ],
-    "chips": [
-      "#교육"
-    ]
-  },
-  {
-    "id": "nc7ccde16",
-    "category": "사회",
-    "source": "테크M",
-    "time": "방금 전",
-    "url": "https://www.techm.kr/news/articleView.html?idxno=154626",
-    "title": "우리금융, 청년 '금융 AI 사관학교' 문 열었다…600시간 실전교육 돌입",
-    "summary": [
-      "우리금융그룹이 청년들의 금융·IT 실무 역량을 키우기 위한 교육 프로그램을 가동한다.우리금융그룹은 지난 25일 서울 중구 본점에서 고용노동부와 함께 청년 60명에게 600시간의 실전 금융 IT 교육을 제공하는 '우리WON 청년 IT 아카데미'를 출범했다고 26일 밝혔다.",
-      "발대식에는 박제성 우리금융지주 경영지원부문장과 임영미 고용노동부 고용정책실장, 서류·면접 전형을 거쳐 선발된 교육생 60명 등이 참석했다.우리WON 청년 IT 아카데미는 고용노."
-    ],
-    "chips": [
-      "#AI",
-      "#정책",
-      "#고용",
-      "#교육"
-    ]
-  },
-  {
-    "id": "n818a41d0",
+    "id": "nbe13a82b",
     "category": "IT",
     "source": "테크M",
     "time": "방금 전",
-    "url": "https://www.techm.kr/news/articleView.html?idxno=154623",
-    "title": "KT, AI 생태계 확장...'성장·상생' 두 마리 토끼 공략",
+    "url": "https://www.techm.kr/news/articleView.html?idxno=154603",
+    "title": "[새로운 신화, 모두를 위한 MMO] 트리플A MMO, 컴투스도 가능하다...\"제우스 흥행 총력전\"",
     "summary": [
-      "KT가 생태계 확장에 주력하고 있다.",
-      "'성장'과 '상생' 두 마리 토끼를 쫓는다.",
-      "인공지능(AI) 등에서 함께 기회를 찾고 있다.26일 KT는 KT AI의 강점을 생태계라고 밝혔다.KT는 정부의 '모두의 AI' 사업에 참가했다."
+      "컴투스가 소위 트리플A급이라 불리는 대형 MMORPG '제우스: 오만의 신' 흥행을 위해 전사적 역량 결집에 나서 눈길을 끈다.",
+      "그동안 MMORPG 장르에서 쓴 맛을 보며 쌓은 역량을 바탕으로 이번에는 컴투스의 운영 역량을 유감없이 발휘하겠다는 계획이다.",
+      "이를 위해 컴투스는 전담 조직을 새롭게 구성하고 개발사 에이버튼과의 긴밀한 협력 관계를 유지한다."
     ],
     "chips": [
-      "#AI"
+      "#뉴스"
     ]
   },
   {
-    "id": "n6826eaea",
-    "category": "경제",
-    "source": "아시아경제",
+    "id": "n20c85073",
+    "category": "IT",
+    "source": "테크M",
     "time": "방금 전",
-    "url": "https://view.asiae.co.kr/article/2026082610542813449",
-    "title": "구미시,'2026 구미 로컬푸드 페스타' 서울광장 뜬다",
+    "url": "https://www.techm.kr/news/articleView.html?idxno=154599",
+    "title": "[새로운 신화, 모두를 위한 MMO] \"모두가 경쟁이 재밌어야\"...김대훤 에이버튼이 그리는 MMORPG의 미래",
     "summary": [
-      "경북 구미시가 지역 농특산물을 앞세워 서울 한복판에서 수도권 소비자 공략에 나선다.",
-      "구미시는 오는 9월 9~10일 서울광장에서 '2026 구미 로컬푸드 페스타'를 개최한다고 밝혔다.",
-      "'구미가 키움! 구미(口味)가 당김!'을 슬로건으로 40개 농가와 업체가 참여해 142개 품목을 선보인다."
+      "\"모두가 재미있게 즐길 수 있는 경쟁형 MMORPG를 만들 수는 없을까\"26일 정식 출시한 '제우스: 오만의 신'의 출발점에는 김대훤 에이버튼 대표의 오랜 MMORPG 경험과 고민이 자리하고 있다.",
+      "과거 넥슨에서 오랜 기간 게임 개발을 이끌며 다양한 흥행작과 대형 프로젝트의 성공을 경험한 그가 에이버튼을 설립한 뒤 첫 작품으로 MMORPG를 선택한 이유도 여기에 있다.단순히 익숙한 장르를 택한 것이 아니라, 누구보다 잘 알고 있는 MMORPG의."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "ne2a82c0c",
-    "category": "경제",
-    "source": "아시아경제",
-    "time": "1분 전",
-    "url": "https://view.asiae.co.kr/article/2026082611023337244",
-    "title": "김천시, 공무원들이 뽑은 ‘생활밀착형 시책’ 7건",
+    "id": "nb9858ac7",
+    "category": "IT",
+    "source": "머니투데이",
+    "time": "7분 전",
+    "url": "https://www.mt.co.kr/stock/2026/08/26/2026082612077078635",
+    "title": "[오늘 이 종목] “외국인·SK하이닉스·한미약품·HEM파마…엔비디아 실적과 3.5조 비만 신약 모멘텀”",
     "summary": [
-      "경북 김천시 공무원들이 직접 현장을 뛰며 발굴한 생활밀착형 신규 시책 7건이 우수 과제로 선정됐다.",
-      "김천시는 지난 24일 '2026년 김사공시 연구단' 최종 심사를 열고 최우수 1개, 우수 1개, 장려 2개, 노력 3개 등 모두 7개 우수 연구단을 선정했다고 밝혔다.'김천을 사랑하는 공무원 시책 연구단'이라는 뜻의 김사공시는 공무원들이 부서 구분 없이 4~6명씩 팀을 꾸려 지역 현안을 발굴하고 새로운 정책을 제안하는 김천시의 시."
+      "시장의 흐름을 읽는 수급, 차트, 거래량, 포트폴리오의 네 가지 시선으로 오늘장의 핵심 전략을 짚어보는 <시선집중> 코너가 공개됐다.",
+      "방송에서는 이충헌 밸류파인더 대표가 출연해 외국인 매도세 속 수급 방향성 및 안정화 시점, 엔비디아 실적 발표를 앞둔 SK하이닉스의 주가 향방, 글로벌 빅파마 대상 3.5조 원 규모 비만 신약 기술수출에 따른 기업가치 재평가, 마이크로바이옴 기반 헬스케어 사업의 해외 성과 가시화까지 주요 투자 포인트와 시장 대응."
     ],
     "chips": [
-      "#정책"
-    ]
-  },
-  {
-    "id": "n923408d2",
-    "category": "사회",
-    "source": "아시아경제",
-    "time": "2분 전",
-    "url": "https://view.asiae.co.kr/article/2026082610353614250",
-    "title": "고령군, ‘함께 성장하고 모두가 누리는 힘 있는 고령’",
-    "summary": [
-      "경북 고령군이 향후 4년간 지역 복지정책의 방향을 담은 제6기 지역사회보장계획 수립에 속도를 내고 있다.",
-      "고령군(군수 이남철)은 25일 군청 대가야홀에서 각 분야 팀장과 지역사회보장협의체 위원, 사회복지시설 관계자, 지역주민 등 40여 명으로 구성된 '제6기 고령군 지역사회보장계획 수립 TF팀'이 참석한 가운데 중간보고회를 개최했다.이번 보고회는 2027년부터 2030년까지 추진될 제6기 지역사회보장계획의 수립 과정을 점."
-    ],
-    "chips": [
-      "#정책"
-    ]
-  },
-  {
-    "id": "nd6ea12d6",
-    "category": "부동산",
-    "source": "연합뉴스(경제)",
-    "time": "3분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260826042900004",
-    "title": "사당동 305-35 일대 재개발 신통기획 확정…최고 34층 970세대",
-    "summary": [
-      "(서울=연합뉴스) 황재하 기자 = 서울시는 동작구 사당동 305-35번지 일대 재개발 신속통합기획(신통기획)을 확정했다고 26일 밝혔다."
-    ],
-    "chips": [
-      "#재건축"
-    ]
-  },
-  {
-    "id": "n1ff95490",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "3분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260826047700004",
-    "title": "서울식물원, 식물유전자원 8천종 확보 추진",
-    "summary": [
-      "(서울=연합뉴스) 황재하 기자 = 서울식물원은 내년까지 식물유전자원 총 8천종 확보를 목표로 수집·증식·보전을 추진한다고 26일 밝혔다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n9518921f",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "3분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260826048100004",
-    "title": "서울시청사 1층에 '찾아가는 서울체력장'…첫째·셋째주 주말",
-    "summary": [
-      "(서울=연합뉴스) 김준태 기자 = 서울시는 시청사 본관 1층 로비에서 '상시형 찾아가는 서울체력장'을 운영한다고 밝혔다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n1f02b6ff",
-    "category": "경제",
-    "source": "연합뉴스(경제)",
-    "time": "3분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260826053800004",
-    "title": "대치동에 24층 업무시설 건립…코엑스는 복합환승센터와 연결강화",
-    "summary": [
-      "(서울=연합뉴스) 김준태 기자 = 서울시는 전날 열린 제15차 건축위원회에서 '대치동 890-16 업무시설 건립사업' 안건을 통과시켰다고 26일..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n9e9a818b",
-    "category": "경제",
-    "source": "연합뉴스(경제)",
-    "time": "3분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260826054900004",
-    "title": "서울불꽃축제 앞두고 '명당호텔' 점검…요금미게시 등 영업정지 5일",
-    "summary": [
-      "(서울=연합뉴스) 김동규 기자 = 서울시가 다음 달 5일 서울세계불꽃축제를 앞두고 한강 조망이 가능한 여의도 인근 호텔의 과도한 숙박요금 인상과..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nbdb5a48b",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "3분 전",
-    "url": "https://www.newsis.com/view/NISX20260826_0003763200",
-    "title": "[속보]오세훈 \"용산공원 지켜지면 다른 국토부 제안 융통성 있게 검토\"",
-    "summary": [
-      "후속기사가 이어집니다 ◎공감언론 뉴시스 daero@newsis.com."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n0391614e",
-    "category": "경제",
-    "source": "아시아경제",
-    "time": "3분 전",
-    "url": "https://view.asiae.co.kr/article/2026082610531488009",
-    "title": "뻥튀기 요금 잡는다… 서울시, 세계불꽃축제 '호텔' 단속",
-    "summary": [
-      "서울시가 100만명 이상 인파가 몰릴 것으로 예상되는 '서울세계불꽃축제'를 앞두고 여의도 일대 관광호텔 단속에 나선다.",
-      "과도한 숙박요금을 요구하거나 동의없는 예약취소 등의 행위가 대상이다.",
-      "서울시는 내달 5일 서울세계불꽃축제가 예정된 만큼 1~3일 영등포·마포·용산구와 합동으로 숙박요금 게시 의무 준수 여부 등 점검을 진행한다고 26일 밝혔다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n5aa9007d",
-    "category": "경제",
-    "source": "연합뉴스(경제)",
-    "time": "3분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260826060400004",
-    "title": "동대문쇼핑몰 수도요금 9억원 밀려…서울시, 장기체납 집중정리 나서",
-    "summary": [
-      "(서울=연합뉴스) 김동규 기자 = 서울시는 9월을 '수도요금 체납 집중 정리기간'으로 정하고 체납 수도요금 징수에 나선다고 26일 밝혔다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n63eebf98",
-    "category": "경제",
-    "source": "뉴시스",
-    "time": "3분 전",
-    "url": "https://www.newsis.com/view/NISX20260826_0003763149",
-    "title": "대치동에 24층 업무시설…코엑스는 보행·녹지공간 확대",
-    "summary": [
-      "[서울=뉴시스] 최현호 기자 = 서울시는 강남구 대치동 890의16·20번지 업무시설 건립사업과 삼성동 한국종합무역센터 특별계획구역 증축사업이 제15차 건축위원회 심의를 통과했다고 26일 밝혔다.",
-      "이번 심의를 통해 대치·삼성 일대에 국제업무와 전시·컨벤션 기능을 뒷받침할 업무·전시·회의 공간과 시민 개방공간을 확충할 계획이다.",
-      "대치동 890의16·20번지에는 대지면적 약 2760㎡, 지하 9층~지상 24층, 연면적 약 5만㎡ 규모의 업무시설이."
-    ],
-    "chips": [
+      "#엔비디아",
+      "#SK하이닉스",
       "#수출"
     ]
   },
   {
-    "id": "n2e45b7b5",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "3분 전",
-    "url": "https://www.newsis.com/view/NISX20260826_0003763064",
-    "title": "서울시, 여의도 관광호텔 숙박요금 게시 의무 집중점검",
+    "id": "n1405e731",
+    "category": "IT",
+    "source": "머니투데이",
+    "time": "8분 전",
+    "url": "https://www.mt.co.kr/tech/2026/08/26/2026082612240347193",
+    "title": "AI 데이터센터 패권 경쟁, 3~4년내 결정…카카오·SKT, 세액공제 늘려야 '한 목소리'",
     "summary": [
-      "[서울=뉴시스] 최현호 기자 = 서울시는 다음달 5일 열리는 '서울세계불꽃축제'를 앞두고 1일부터 3일까지 여의도 인근 관광호텔을 집중 점검한다고 26일 밝혔다.",
-      "서울시와 영등포·마포·용산구 관광부서는 합동 현장점검을 벌여 숙박요금 게시 의무 준수 여부 등을 확인한다.",
-      "시는 축제에 100만 명 이상이 몰릴 것으로 예상했다."
+      "AI 데이터센터 구축 관련 정책 토론회에 카카오·SKT·정부 관계자 참석 안도걸 의원실 등 주최, 한국인터넷기업협회 주관 행사 클라우드 세제 지원 1%…\"개선 필요\" 한 목소리 AI DC(인공지능 데이터센터) 산업 패권 경쟁이 3~4년 안에 결정될 것인만큼 세제 혜택을 대푝 늘려야 한다는 주장이 나왔다.",
+      "26일 오전 10시 서울 여의도 국회도서관에서는 'AI 데이터센터의 국가 기반시설 육성을 위한 정책'을 주제로 국회 토론회가 진행됐다."
+    ],
+    "chips": [
+      "#AI",
+      "#정책",
+      "#카카오",
+      "#정치"
+    ]
+  },
+  {
+    "id": "ndfd92401",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "8분 전",
+    "url": "https://www.chosun.com/entertainments/broadcast/2026/08/26/G42DKMZSGMZGCZLGHA3WGMZYMM/",
+    "title": "\"집에 엘리베이터 설치\"..'재산 1조설' 김재중, 도쿄 대저택 23년만에 공개(편스토랑)",
+    "summary": [
+      "[OSEN=하수정 기자] '재산 1조설'의 주인공 가수 김재중의 일본 도쿄 집이 처음으로 공개된다.8월 27일(목) 저녁 8시 30분 방송되는 KBS 2TV ‘신상출시 편스토랑’(이하 ‘편스토랑’)에서는 아시아의 중심 김재중의 일본 활동 이야기가 공개된다.",
+      "이 과정에서 김재중이 “23년 동안 한 번도 공개하지 않은 공간이다.",
+      "‘편스토랑’에서 최초 공개한다”."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "ne1eebaab",
-    "category": "부동산",
+    "id": "ncbcaa597",
+    "category": "스포츠",
     "source": "뉴시스",
-    "time": "3분 전",
-    "url": "https://www.newsis.com/view/NISX20260825_0003762454",
-    "title": "사당동 305-35 재개발…최고 34층, 970세대 주거 단지 조성",
+    "time": "8분 전",
+    "url": "https://www.newsis.com/view/NISX20260826_0003763216",
+    "title": "10년 만의 우승 보인다…K리그1 FC서울, '승점 15차' 선두 독주",
     "summary": [
-      "[서울=뉴시스] 박대로 기자 = 서울시가 동작구 사당동 305-35 일대 재개발 신속통합기획을 확정했다고 26일 밝혔다.",
-      "대상지는 주변 역세권 개발 사업과 연계한 도로·보행 체계 정비를 통해 최고 34층, 약 970세대 규모 주거 단지로 조성된다.",
-      "사당동 305-35 일대는 지하철 7호선 남성역에서 도보 10분 거리에 있다."
+      "[서울=뉴시스] 하근수 기자 = 프로축구 K리그1 선두 FC서울이 시즌 3번째 3연승을 달리면서 10년 만의 우승에 한 걸음 더 다가섰다.",
+      "서울은 지난 25일 서울월드컵경기장에서 열린 부천FC1995와의 하나은행 K리그1 2026 25라운드 홈 경기에서 후반 3분 클리말라가 터뜨린 결승골에 힘입어 1-0 승리를 거뒀다.",
+      "이날 승리로 '승점 53(16승 5무 4패)' 1위 서울은 을 쌓았고, '승점 38(10승 8무 7패)' 2위 전북 현대와 격."
     ],
     "chips": [
-      "#재건축"
+      "#뉴스"
     ]
   },
   {
-    "id": "n0cca2b91",
+    "id": "nc27cc5ad",
+    "category": "스포츠",
+    "source": "뉴시스",
+    "time": "8분 전",
+    "url": "https://www.newsis.com/view/NISX20260826_0003763259",
+    "title": "'AVC 선수위원회 위원장' 김연경 \"현장에 귀 기울일 것\"",
+    "summary": [
+      "[서울=뉴시스]안경남 기자 = 아시아배구연맹(AVC) 선수위원회 위원장과 홍보대사로 선임된 '배구 여제' 김연경이 현장 목소리에 귀 기울이겠다고 소감을 전했다.",
+      "김연경 소속사 라이언앳은 오는 9월1일부터 2년 동안 AVC 선수위원회 위원장과 홍보대사를 맡아 아시아 배구를 대표하는 행정가 및 리더로서 새로운 여정을 시작한다고 26일 밝혔다.",
+      "AVC는 앞서 지난 24일 김연경의 선수위원회 위원장 및 홍보대사 선임 소식을 전했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nac96b4de",
     "category": "스포츠",
     "source": "조선일보",
-    "time": "4분 전",
-    "url": "https://www.chosun.com/entertainments/enter_general/2026/08/26/MNSDANBWHFSTSOJYMMZWCZRRMQ/",
-    "title": "\"아이 울어 내리려다\"…박수홍, 비행기 1시간 지연 논란 사과[SC이슈]",
+    "time": "9분 전",
+    "url": "https://www.chosun.com/entertainments/movie/2026/08/26/G42DANRYGE2WKNJTGJRTSYRUGQ/",
+    "title": "'부활남: 더 레드' 구교환 \"빨간 머리 변신? 잘 어울린다고 해주셔서 감사\"",
     "summary": [
-      "[스포츠조선 정빛 기자] 방송인 박수홍이 가족의 탑승 번복으로 항공편 출발이 지연됐다는 이른바 '비행기 민폐' 논란에 직접 사과했다.",
-      "박수홍은 26일 자신의 SNS를 통해 \"최근 비행기 출발 과정에서 저희 가족으로 인해 지연 출발 문제가 발생했다\"며 \"이로 인해 많은 분들의 소중한 시간을 빼앗는 큰 불편함을 드렸고, 항공사 관계자분들께도 피해를 드렸다."
+      "[스포츠조선 안소윤 기자] 배우 구교환이 영화 '부활남: 더 레드'에서 빨간 머리로 파격 변신한 소감을 전했다.",
+      "구교환은 26일 서울 광진구 롯데시네마 건대입구에서 열린 영화 '부활남: 더 레드' 제작보고회에서 \"빨간 머리가 잘 어울린다고 말씀해 주셔서 감사하다\"며 \"왜 머리 색이 바뀌었는지 지켜봐 주셨으면 좋겠다\"라고 했다.",
+      "9월 30일 개봉하는 '부활남."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n86f96599",
+    "id": "n5c68a9b4",
+    "category": "스포츠",
+    "source": "뉴시스",
+    "time": "9분 전",
+    "url": "https://www.newsis.com/view/NISX20260826_0003763133",
+    "title": "페르난데스, 루니 이후 16년 만에 맨유 출신 'PFA 올해의 선수'",
+    "summary": [
+      "[서울=뉴시스]안경남 기자 = 잉글랜드 프로축구 프리미어리그(EPL) 맨체스터 유나이티드(맨유)의 간판 미드필더 브루노 페르난데스가 잉글랜드프로축구선수협회(PFA) 올해의 선수로 선정됐다.",
+      "PFA는 26일(한국 시간) \"선수노조 회원들의 투표 결과 올해의 선수로 페르난데스가 뽑혔다\"고 발표했다.",
+      "이로써 페르난데스는 2025~2026시즌 EPL 올해의 선수와 축구기자협회(FWA) 올해의 선수에 이어 PFA 올해의 선수까지 거머쥐며 개인상 3관왕을."
+    ],
+    "chips": [
+      "#EPL"
+    ]
+  },
+  {
+    "id": "n608a0d86",
+    "category": "스포츠",
+    "source": "뉴시스",
+    "time": "9분 전",
+    "url": "https://www.newsis.com/view/NISX20260826_0003763086",
+    "title": "프로축구연맹, 전북 이승우-울산 김현석 감독 언쟁에 \"별도 조치 없다\"",
+    "summary": [
+      "[서울=뉴시스] 하근수 기자 = 프로축구 K리그를 총괄하는 한국프로축구연맹은 K리그1 전북 현대 공격수 이승우와 울산 HD 김현석 감독 사이 발생한 언쟁과 관련해 별도 조치를 하지 않는다고 26일 밝혔다.",
+      "이날 프로축구연맹 관계자는 뉴시스를 통해 \"해당 건은 경기 중 발생한 사안으로 경고 조치가 이루어졌다.",
+      "또한 경기감독관 보고서상 특이 사항이 없었고, 프로평가패널회의에서도 사후 징계에 대한 건의가 없었다\"고 전했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "ncc44f93f",
+    "category": "경제",
+    "source": "머니투데이",
+    "time": "10분 전",
+    "url": "https://www.mt.co.kr/stock/2026/08/26/2026082612293241679",
+    "title": "키움증권, 비대면 첫 계좌 개설하면 최대 12만원 지급",
+    "summary": [
+      "종합계좌·ISA·연금저축 개설 등 신규 고객 이벤트 키움증권이 비대면 계좌를 처음 개설하는 신규 고객에게 최대 12만원을 지급하는 이벤트를 진행한다.",
+      "키움증권은 생애 최초 신규 고객 가운데 비대면 계좌를 처음 개설하는 고객을 대상으로 오는 10월 31일까지 신규 고객 유치 이벤트를 진행한다고 26일 밝혔다.",
+      "이벤트는 △종합계좌 개설 △절세계좌 2종 개설 △이벤트 공유 등 3가지 혜택으로 구성됐다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n8ca31a2a",
     "category": "사회",
-    "source": "조선일보",
-    "time": "5분 전",
-    "url": "https://www.chosun.com/entertainments/2026/08/26/G5ZCTXPBOFD57CVJCZKKJ4V7GE/",
-    "title": "신예은 \"암모나이트의 졸업\" 성균관대 10년 만에 졸업",
+    "source": "머니투데이",
+    "time": "12분 전",
+    "url": "https://www.mt.co.kr/sports/2026/08/26/2026082612244358742",
+    "title": "스포츠윤리센터, 여성 리더 대상 리더십 역량 강화 교육 실시... 한민수 이사장 직무대행 \"자신의 강점, 조직의 성과·성장 연결 역량 갖추는 것 중요\"",
     "summary": [
-      "신예은 \"암모나이트의 졸업\" 성균관대 10년 만에 졸업."
+      "문화체육관광부 산하 스포츠윤리센터(이사장 직무대행 한민수, 이하 센터)가 지난 25일 서울시 중구 인근 교육원에서 여성(예비) 리더를 대상으로 리더십 역량 강화 교육을 시행했다.",
+      "센터는 이번 교육에 관해 \"여성 직원의 리더로서 역할과 역량에 대한 이해를 높이고, 조직 내 다양한 구성원과의 관계 형성 및 소통 역량을 강화하여 향후 조직을 이끌어갈 여성 리더를 육성하기 위한 목적으로 마련했다\"고 설명했다.",
+      "교육에는 외부 전문 강사가 참여했다."
+    ],
+    "chips": [
+      "#교육"
+    ]
+  },
+  {
+    "id": "n5f3be70f",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "13분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260826090700083",
+    "title": "中, 환경파괴 문책대상 확대…당정 간부에 국유기업 경영자 추가",
+    "summary": [
+      "(베이징=연합뉴스) 정성조 특파원 = 중국이 생태 환경이 훼손될 경우 당·정부 간부는 물론 국유기업 경영진과 공공기관 지도자까지 문책할 수 있도..."
+    ],
+    "chips": [
+      "#환경"
+    ]
+  },
+  {
+    "id": "n0d77b352",
+    "category": "경제",
+    "source": "연합뉴스(경제)",
+    "time": "13분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260826035600530",
+    "title": "[게시판] 국립정신건강센터, 청년 정신건강 커리어 성장캠프",
+    "summary": [
+      "[게시판] 국립정신건강센터, 청년 정신건강 커리어 성장캠프."
+    ],
+    "chips": [
+      "#의료"
+    ]
+  },
+  {
+    "id": "n961dfead",
+    "category": "부동산",
+    "source": "아시아경제",
+    "time": "15분 전",
+    "url": "https://view.asiae.co.kr/article/2026082612282026409",
+    "title": "김윤덕 국토장관 \"탄천? 자료부터 달라\"…용산공원은 시각차 여전",
+    "summary": [
+      "김윤덕 국토교통부 장관이 26일 오세훈 서울시장과의 두 번째 회동에서 건진 것은 '용산 합의'가 아니라 '탄천 검토'였다.",
+      "김 장관은 이날 서울시청 인근에서 오 시장과 약 1시간 동안 비공개 면담을 마친 뒤 기자들과 만나 \"(용산공원 관련) 구체적인 합의에 이르기에는 아직 미진한 부분이 있다\"면서 \"오 시장이 제안한 탄천물재생센터의 주택 공급 가능성에 대해 적극적으로 검토하겠다는 취지로 대화를 나눴다\"고 말했다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "ne9bdcaa9",
+    "id": "n84ea0274",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "16분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260826091300005",
+    "title": "구교환 \"안무 배우듯 액션연기 소화…촬영 현장 즐기려고 노력\"",
+    "summary": [
+      "(서울=연합뉴스) 정래원 기자 = 배우 구교환이 영화 '만약에 우리', '군체'에 이은 올해 세 번째 주연작 '부활남: 더 레드'로 다음 달 3..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n4830039f",
+    "category": "부동산",
+    "source": "조선일보",
+    "time": "17분 전",
+    "url": "https://www.chosun.com/economy/real_estate/2026/08/26/MFSTGZBVG43TIZLCHA2WEMJZHE/",
+    "title": "吳 만난 김윤덕 국토장관 “용산공원 여전히 이견… 탄천 주택 공급 검토”",
+    "summary": [
+      "김윤덕 국토교통부 장관은 26일 오세훈 서울시장과의 면담에서 용산공원을 주택 부지로 활용하는 방안에 대해 이견을 좁히지 못했다고 밝혔다.",
+      "서울시에서 용산공원 대신 주택 공급지로 제안한 탄천 물재생센터에 대해서는 “검토해보겠다”고 했다.",
+      "용산공원 주택 공급 방안 등 현안에 대한 논의가 필요한 만큼 김 장관은 내주 오 시장과 다시 면담을 할 계획이다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n7247dfb5",
     "category": "IT",
     "source": "조선비즈IT",
-    "time": "5분 전",
-    "url": "https://biz.chosun.com/it-science/ict/2026/08/26/66GOX6WGNJAFPBWI4OCDCDSVBE/",
-    "title": "아톤, 나이스디앤에스에 ‘악성문자 사전차단 플랫폼’ 공급",
+    "time": "17분 전",
+    "url": "https://biz.chosun.com/it-science/ict/2026/08/26/FLQPG4NG2NFSZERBGUC547TGYU/",
+    "title": "NIPA, 유망 AI 스타트업 해외 진출 지원… 오믈렛 美 무대 선다",
     "summary": [
-      "아톤, 나이스디앤에스에 ‘악성문자 사전차단 플랫폼’ 공급."
+      "NIPA, 유망 AI 스타트업 해외 진출 지원… 오믈렛 美 무대 선다."
+    ],
+    "chips": [
+      "#AI",
+      "#스타트업"
+    ]
+  },
+  {
+    "id": "n234fd15a",
+    "category": "부동산",
+    "source": "연합뉴스(경제)",
+    "time": "20분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260826082951003",
+    "title": "국토장관 \"신규택지에 용산 포함안돼…탄천자료 검토할 것\"(종합)",
+    "summary": [
+      "(서울=연합뉴스) 임기창 오진송 기자 = 김윤덕 국토교통부 장관과 오세훈 서울시장이 26일 다시 만나 주택 공급 관련 현안을 논의했으나 용산공원..."
     ],
     "chips": [
       "#뉴스"
@@ -630,8 +640,8 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2590건",
-    "trend": "+295%"
+    "mentions": "2460건",
+    "trend": "+275%"
   },
   {
     "rank": 2,
@@ -641,7 +651,7 @@ window.KEYWORD_TOP = [
   },
   {
     "rank": 3,
-    "tag": "고용",
+    "tag": "엔비디아",
     "mentions": "1420건",
     "trend": "+115%"
   }
