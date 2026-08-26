@@ -1,15 +1,15 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-08-26 09:30:09
+// 마지막 업데이트: 2026-08-26 10:23:38
 window.NEWS_DB = [
   {
-    "id": "n3242be87",
+    "id": "n301c4ffa",
     "category": "IT",
-    "source": "뉴시스",
-    "time": "37분 전",
-    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9ENXpwNVlVMzRSUFRRMUV3TjJiU2hJVU9USFFad2FORVU1U0lNUnVmX3dqbnJfVXpVTHZGZ3Q3SURWMnNJamdqdlpjMndmOVU2TkJEdTFVVWx4dDVnX1gwSdIBeEFVX3lxTE1nSWRpUGQwSXZMMDZLWGVzY0RjeVVNbDM0YW1vTFlFVGVUNkY1aHRucDJ3eGFLS1QwT2w0aDBqY1lFUkE4M2hvTnl6dXFmV1NXdDlQWnB5QXV4aWlZWGZmZ3RhQWwzTmlpT0dmU3Z2OHhrcnctb1d3Tw?oc=5",
-    "title": "\"AI칩 얼마나 팔고, HBM 얼마나 살까\"…韓 반도체, 엔비디아 컨콜 메시지 '주목'",
+    "source": "mstoday.co.kr",
+    "time": "59분 전",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5IanVjejRKZXFadWtyUkx4QUZRN2x1LVZJTmgwLTNwelRoeTFSMWZrSjN6OXhUNUxOdFEtTmh5aWJIbFpFRlFaNW1ISFlUa1YwcDRFSWVwUGhCa1BQdXNmc2YwOFMxeE5rZUpWaA?oc=5",
+    "title": "엔비디아 ‘운명의 실적’…AI 반도체 랠리 시험대",
     "summary": [
-      "\"AI칩 얼마나 팔고, HBM 얼마나 살까\"…韓 반도체, 엔비디아 컨콜 메시지 '주목' 뉴시스."
+      "엔비디아 ‘운명의 실적’…AI 반도체 랠리 시험대 mstoday.co.kr."
     ],
     "chips": [
       "#AI",
@@ -21,7 +21,7 @@ window.NEWS_DB = [
     "id": "ncc170231",
     "category": "IT",
     "source": "비즈니스포스트",
-    "time": "2시간 전",
+    "time": "3시간 전",
     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE8xazNWS1UzNzBGV0t6aFFwLVlpSVJvR2xaSkJGMy1pTlEyV0ltdFZvZFRXQkdOdV9NMFY1RW52SUhFWUk0blVJOHFfU2hlZjF3aXpfUmx5bEZjbS1IcjVDWWt3WmpvcUVacG1HbWRVU1BQV1E?oc=5",
     "title": "엔비디아 실적 발표 이후가 주가에 관건, AI 반도체 경쟁력과 중국 수출 성과에 시장 주목",
     "summary": [
@@ -38,7 +38,7 @@ window.NEWS_DB = [
     "id": "nfcd42b60",
     "category": "IT",
     "source": "글로벌이코노믹",
-    "time": "3시간 전",
+    "time": "4시간 전",
     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxObTRNdFVVNTRVVUg5VE9lbDFqY0locF82eTBMRnZvTDAxSVp1T2pMaEdTcFQ2dkJlMUdYeGR3bXQxUGRlTDJmMGlDeTNBTmd5c2F5T1JIMmcwTU5lNmNRajBqU0ZwZXJGblRQakpHZ3F0Z2ZmNWVncVRlaUk3V1NFenNkTjlBTVBH?oc=5",
     "title": "\"오픈AI 칩, 엔비디아 넘었다\"… 소프트뱅크 주가 2.8% 쑥",
     "summary": [
@@ -53,7 +53,7 @@ window.NEWS_DB = [
     "id": "n244b0da4",
     "category": "사회",
     "source": "경북매일",
-    "time": "8시간 전",
+    "time": "9시간 전",
     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBYUEFCOVNDZG1rQ3VxRlNlRFJQSDF1aVRMZmxFS09FNWRndks2eEVEVEx1RkQteERzdTJ0WVhXY2JBNUIxVVdBb1NtaU5HS3lRUWxfNFRPQ25YZw?oc=5",
     "title": "경주시시설관리공단-경주시취업지원센터, 지역 일자리 활성화 ‘맞손’",
     "summary": [
@@ -181,20 +181,6 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n207a7abe",
-    "category": "IT",
-    "source": "Chosunbiz",
-    "time": "64일 전",
-    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPUGdtbi01TkVMYXphY1VqbF9xRzB3TkVUbWtrM2NhN2d1NmpvS29NLTY5UWFtbFNrangxUlRnQUpxOW9rSEZwWVZuWU42aUdIU1FUUlhnQ0NLbjBXdlNpQ2labGU1cUt3WVZ3NEhVVmtJNjJlc3lUalByb0tqZDBucVJleGVLUFpaanFZX3RLZWvSAaQBQVVfeXFMTXFmYjM1dzZaM0d5QjZZQXJIb0VnanMzR29JcWlBQVZreFhGVVZlRmd4c2xoejc0ajVvdDhkUVo5ZWJ5bWlyVlZSUzlveG9EamJZblA5VDkwRG16QW1hRW1Qel9mTHRfdWI3MHhvbTJfd3ZoRTNIb3dVbjByNmI5T3llUUt2ZlZjVmEwQlV4M0FvMTRVT0JYaG4zNDZ6Rkw1LVVodlA?oc=5",
-    "title": "중기부, 2030년까지 ‘유니콘’ 50개 육성 나선다 - 조선비즈",
-    "summary": [
-      "중기부, 2030년까지 ‘유니콘’ 50개 육성 나선다 - 조선비즈 Chosunbiz."
-    ],
-    "chips": [
-      "#스타트업"
-    ]
-  },
-  {
     "id": "n64dc67f5",
     "category": "IT",
     "source": "유니콘팩토리",
@@ -206,6 +192,21 @@ window.NEWS_DB = [
     ],
     "chips": [
       "#스타트업"
+    ]
+  },
+  {
+    "id": "n917184b9",
+    "category": "부동산",
+    "source": "한국경제",
+    "time": "65일 전",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1PMWgycmJDUlh3Smlkb254TmVGMXFZX3JvTThsLUVHNHY2ZDloYVVjZHdPakFSQ0YwSVpBMXBMZHNqcndpVUV6RkJiaVk2NlFJV19fWkl0bXduZw?oc=5",
+    "title": "\"전세값 보다 싸요\"…동탄 집값 22억 찍자 우르르 몰린 동네 [현장+]",
+    "summary": [
+      "\"전세값 보다 싸요\"…동탄 집값 22억 찍자 우르르 몰린 동네 [현장+] 한국경제."
+    ],
+    "chips": [
+      "#부동산",
+      "#전세"
     ]
   },
   {
@@ -267,21 +268,6 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n08b2b275",
-    "category": "부동산",
-    "source": "한국부동산뉴스",
-    "time": "134일 전",
-    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBZNmg3TVp4ZWZCV1ZzTE14bXV5UkN4MExnMmZJdkpfNUsyUGltRWlJVWVfUzJoQktRUlcwMTdrUUtuWk9pR2MxaFlhNGpOU0xGZjM3eDUwdlNmRWQtYkFaenAyekhVRGRRY0pJ?oc=5",
-    "title": "대출 규제에 몰린 '15억 이하'…비강남 집값·분양가 동반 상승",
-    "summary": [
-      "대출 규제에 몰린 '15억 이하'…비강남 집값·분양가 동반 상승 한국부동산뉴스."
-    ],
-    "chips": [
-      "#부동산",
-      "#정책"
-    ]
-  },
-  {
     "id": "n783ebe44",
     "category": "스포츠",
     "source": "테크M",
@@ -310,64 +296,77 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "na397e3bb",
+    "id": "nbc27bc5a",
     "category": "IT",
-    "source": "테크M",
-    "time": "방금 전",
-    "url": "https://www.techm.kr/news/articleView.html?idxno=154640",
-    "title": "뤼튼, '기업 가치 1조' 벽 넘었다...시리즈 C 투자 유치",
+    "source": "연합뉴스",
+    "time": "182일 전",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5UNnlsSTY5eHFYNEZ6ZktBM216dFF6Q0J5Z1NVYm56M3A2TUFNMDM0U081NTNsZVNJTy1MWklmVGc0cEdLVk5NRHFiTWtHbmx2b2ItSkVEV1A2ZFnSAWBBVV95cUxOV3Z3V2F3aWJvV3dDNDc4OXpfRmpyaDgtaExGWC1ZTUxvX2M4ZVZPNC1rZHpQeUtSNXlIZjc0dHdGWTdfUXpJQXdac1lZU3Mza3NvdHVweFFNYXhmdDMyZWs?oc=5",
+    "title": "스타트업·벤처를 유니콘으로…전북도, '창업 천국' 구상 발표",
     "summary": [
-      "뤼튼테크놀로지스가 시리즈 C 투자 유치에 성공하며 누적 투자 유치액 2300억원을 달성했다.",
-      "기업 가치 1조원을 돌파한 것으로 추정된다.뤼튼테크놀로지스는 1000억원 규모 시리즈 C 투자를 유치했다고 26일 밝혔다.",
-      "뤼튼 측은 \"이번 유치를 통해 국내 AI 서비스 스타트업 최초로 기업 가치 1조원 이상을 인정받았다\"며 \"누적 투자 유치액은 약 2300억원\"이라고 전했다.이번 투자에는 코어라인벤처스와 유진자산운용이 신규 참여했다."
+      "스타트업·벤처를 유니콘으로…전북도, '창업 천국' 구상 발표 연합뉴스."
     ],
     "chips": [
-      "#AI",
       "#스타트업"
     ]
   },
   {
-    "id": "n2ade8c4d",
+    "id": "n897c678d",
+    "category": "부동산",
+    "source": "테크M",
+    "time": "방금 전",
+    "url": "https://www.techm.kr/news/articleView.html?idxno=154645",
+    "title": "[IT 진맥] 올해 ONL은 속 빈 강정?...K-게임, IP-팬덤 확보에 사활 걸어야",
+    "summary": [
+      "전세계 게임 팬들의 시선이 쏠리는 게임스컴 전야제인 '오프닝 나이트 라이브(ONL)가 끝났다.",
+      "ONL은 전세계 게임 기업들이 준비중인 신작 게임들의 영상을 새롭게 공개하는 행사로, 매년 게임스컴 개막 전날 열린다.",
+      "올해도 ONL을 통해 새로운 소식들이 전해졌다."
+    ],
+    "chips": [
+      "#전세"
+    ]
+  },
+  {
+    "id": "n6c534404",
+    "category": "IT",
+    "source": "테크M",
+    "time": "방금 전",
+    "url": "https://www.techm.kr/news/articleView.html?idxno=154644",
+    "title": "[게임스컴 26] 넥슨·크래프톤·스마일게이트 총출동...글로벌 경쟁력 높이는 K게임 수장들",
+    "summary": [
+      "독일 쾰른에서 글로벌 최대 규모의 게임 축제로 꼽히는 '게임스컴 26'이 개막한 가운데 국내 주요 게임사 수장들이 현장을 방문했다.",
+      "이들은 글로벌 게임 산업의 중심지에서 K게임의 글로벌 경쟁력과 향후 성장 방향을 점검하며 해외 진출을 모색하는 모습이다.",
+      "26일(현지시간) 게임스컴 26 현장에는 김정욱 넥슨코리아 공동대표와 김창한 크래프톤 대표, 성준호 스마일게이트 대표 등이 출동했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n9a226cf8",
     "category": "스포츠",
     "source": "테크M",
     "time": "방금 전",
-    "url": "https://www.techm.kr/news/articleView.html?idxno=154612",
-    "title": "SKT·SKB, '아시안게임 국가대표·여성영화제' 후원",
+    "url": "https://www.techm.kr/news/articleView.html?idxno=154643",
+    "title": "[게임스컴 26] 축구장 32개 규모 전시장 '완판'...글로벌 게임 축제 막 올랐다",
     "summary": [
-      "SK텔레콤과 SK브로드밴드가 환경/사회/지배구조(ESG) 경영을 강화했다.",
-      "SK텔레콤은 비인기 종목 국가대표 선수 후원을 이어간다.",
-      "SK브로드밴드는 여성 영화 콘텐츠를 지원한다.26일 SK텔레콤과 SK브로드밴드는 사회공헌을 확대했다고 밝혔다.SK텔레콤은 이날 충북 진천선수촌에서 '팀 SKT' 출정식을 개최했다."
+      "독일 쾰른의 공기가 게임으로 물들었다.",
+      "쾰른 메쎄로 향하는 트램 안에선 게임스컴 비표를 목에 걸고 있는 사람들로 가득 차있다.",
+      "게임 캐릭터가 그려진 티셔츠를 입고있는 게이머들은 게임스컴을 알리는 안내판을 따라 행사장으로 향한다."
     ],
     "chips": [
-      "#환경"
+      "#뉴스"
     ]
   },
   {
-    "id": "nbc4fc043",
+    "id": "n7497cbf7",
     "category": "IT",
     "source": "테크M",
     "time": "방금 전",
-    "url": "https://www.techm.kr/news/articleView.html?idxno=154639",
-    "title": "SK AX, SAP와 'AI 네이티브 엔터프라이즈' 전략 맞손...ERP부터 운영까지 아우른다",
+    "url": "https://www.techm.kr/news/articleView.html?idxno=154642",
+    "title": "업스테이지는 SKT, LG AI연구원은 네이버와...'보안 특파모' 2파전 압축",
     "summary": [
-      "SK AX가 SAP와 손잡고 기업들의 업무 프로세스를 에이전틱 AI로 재설계하고 AI를 내재화하는 'AI 네이티브 엔터프라이즈' 구현에 나섰다.SK AX는 독일 바덴뷔르템베르크주 발도르프에 위치한 SAP 본사에서 'SAP 오토노머스 스위트 및 비즈니스 AI 협력을 위한 양해각서(MOU)'를 체결했다고 26일 밝혔다.",
-      "이날 협약식에는 김완종 SK AX 사장이 참석해 크리스티안 클라인 SAP 최고경영자(CEO)와 구체적인 협력 방안을 논의했다."
-    ],
-    "chips": [
-      "#AI"
-    ]
-  },
-  {
-    "id": "n0a2b4926",
-    "category": "IT",
-    "source": "테크M",
-    "time": "방금 전",
-    "url": "https://www.techm.kr/news/articleView.html?idxno=154637",
-    "title": "LG CNS, 삼송 데이터센터 '액체냉각' 적용...베라 루빈 운영 기반 마련",
-    "summary": [
-      "LG CNS는 네이버클라우드와 차세대 냉각 기술인 '액체냉각' 인프라를 구축한다고 26일 밝혔다.",
-      "생성형 AI의 확산으로 고성능 GPU 전력소비와 발열이 늘어나면서 기존 공랭 방식을 보완하는 대규모 액체냉각 기술을 데이터센터에 선제적으로 적용할 계획이다.LG CNS는 네이버클라우드와 삼송 데이터센터에 액체냉각 기술 중 하나인 직접 칩 냉각(DTC) 방식을 적용하고 고성능 AI 서비스 지원을 위한 기반을 마련한다.",
-      "LG CNS는 앞서 삼송 데이터."
+      "사이버 보안 특화 AI 파운데이션 모델 사업이 SK텔레콤과 네이버클라우드의 2파전으로 압축됐다.",
+      "업스테이지와 안랩, SK쉴더스는 SKT에, LG AI연구원, S2W, 티오리 등은 네이버클라우드에 합류하면서 국내 주요 AI·보안 기업이 양 진영으로 갈렸다.26일 과학기술정보통신부는 지난달 22일부터 이달 26일까지 '사이버 보안 특화 AI 파운데이션 모델 개발' 사업 참여팀 공모를 진행한 결과 SK텔레콤과 네이버클라우드 총 2개 컨소시엄이 제안서."
     ],
     "chips": [
       "#AI",
@@ -375,266 +374,250 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n20e7bf77",
+    "id": "nfd44a6d7",
     "category": "사회",
-    "source": "뉴시스",
+    "source": "아시아경제",
+    "time": "1분 전",
+    "url": "https://view.asiae.co.kr/article/2026082619214777646",
+    "title": "선관위 특검, 내일부터 검경 인력 합류…내달 7일 정식 출범",
+    "summary": [
+      "6·3 지방선거 투표용지 부족 사태 등을 수사하는 이태한 선거관리위원회 특별검사팀에 오는 27일부터 일부 검사와 경찰이 파견돼 본격적인 출범 준비에 들어간다.",
+      "이 특검은 26일 언론 공지를 통해 \"특검팀의 외관이 점점 갖춰지고 있다\"며 이같이 밝혔다.",
+      "우선 '국민참정권 침해 진상규명을 위한 검경 합동수사본부'에 파견돼 있던 검사 2명과 일부 경찰이 27일 선발대로 특검팀에 합류한다."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "ncd43a87f",
+    "category": "사회",
+    "source": "머니투데이",
     "time": "2분 전",
-    "url": "https://www.newsis.com/view/NISX20260826_0003764142",
-    "title": "\"법치 침해 단호히 대응\"…대법, '서부지법 난동' 5명에 11억대 손배소(종합)",
+    "url": "https://www.mt.co.kr/society/2026/08/26/2026082619114545468",
+    "title": "'공익 저격' 박위, \"경사로 없어 상 못 받아\"…과거 발언 재조명",
     "summary": [
-      "[서울=뉴시스]김정현 기자 = 사법부가 '서울서부지법 1·19 폭동 사건'에 가담한 혐의로 유죄를 확정한 5명을 상대로 손해배상 청구 소송을 제기했다.",
-      "법원이 이번 사태와 관련한 민사소송을 제기한 건 이번이 처음이다.",
-      "대법원 법원행정처는 26일 서울서부지법 1·19 폭동 사건에 가담해 유죄 판결이 확정된 성명불상자 5인을 상대로 물적 피해로 인한 복구비용 합계 11억7589만9770원과 지연손해금을 구하는 손해배상 청구 소송을 서울중앙지법에 제."
+      "전신마비 유튜버 박위(39)가 KTX 하차 과정에서 발생한 낙상 사고 당시 CCTV를 공개해 사회복무요원을 공개 비난했다는 논란에 휩싸인 가운데 과거 '경사로'에 대한 그의 발언이 재조명되고 있다.",
+      "박위 송지은 부부는 지난해 1월 방송된 '2024 MBC 방송연예대상'에 출연했다.",
+      "두 사람은 MBC '전지적 참견 시점'으로 베스트 커플상 후보에 올랐다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n4eaa9641",
+    "id": "ndf0ef623",
     "category": "사회",
     "source": "뉴시스",
     "time": "3분 전",
-    "url": "https://www.newsis.com/view/NISX20260826_0003764048",
-    "title": "하영 '중증외상센터' 시즌2·3 합류설…넷플릭스 \"확정된 것 없다\"",
-    "summary": [
-      "[서울=뉴시스] 이종희 기자 = 넷플릭스는 배우 하영이 '중증외상센터' 후속 시즌에 합류한다는 보도에 대해 확정된 사안이 아니라는 입장을 밝혔다.",
-      "넷플릭스는 26일 '중증외상센터' 시즌2·3에 하영이 합류한다는 보도에 대해 \"후속편 제작은 아직 논의 중인 사안으로 촬영 시점이나 캐스팅에 대해 확인해 드릴 내용이 없다\"고 밝혔다.",
-      "앞서 한 매체는 ‘중증외상센터’가 시즌2에 이어 시즌3까지 준비 중이며, 하영이 하차하지 않고 출연할 예정이라고 보도."
-    ],
+    "url": "https://www.newsis.com/view/NISX20260826_0003764187",
+    "title": "[속보]외교부, '네팔 홍수' 재외국민보호대책본부 설치…대응팀 파견 예정",
+    "summary": [],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "ndbc184dc",
+    "id": "n35598f5b",
     "category": "스포츠",
     "source": "머니투데이",
     "time": "3분 전",
-    "url": "https://www.mt.co.kr/sports/2026/08/26/2026082617310052247",
-    "title": "정몽규·이임생과 '중징계 대상' 김정배 부회장 경찰 출석, 홍명보 선임 개입 의혹 조사",
+    "url": "https://www.mt.co.kr/sports/2026/08/26/2026082615152876777",
+    "title": "'대박' 최형우, 45년 KBO 새 역사 썼다! 무려 20년 만에 호세 제치고 최고령 만루홈런 주인공→희생양은 '박석민 子' 박준현",
     "summary": [
-      "홍명보 전 축구 국가대표팀 선임 당시 유일한 상근 부회장 역할을 맡았던 김정배 전 대한축구협회 부회장이 경찰에 출석해 조사를 받고 있는 것으로 전해졌다.",
-      "26일 뉴시스 등에 따르면 서울경찰청 광역수사단 금융범죄수사대는 이날 김정배 전 부회장과 윤덕여 전 전력강화위원을 불러 조사하고 있다.",
-      "경찰은 홍명보 전 축구 국가대표팀 감독 선임 과정 등을 수사하고 있다."
+      "'살아있는 전설' 최형우(43·삼성 라이온즈)가 45년 KBO리그 역사에 또 하나의 불멸의 대기록을 아로새겼다.",
+      "2006시즌 롯데 자이언츠 소속이던 펠릭스 호세(61)가 20년 동안 굳건히 지키고 있던 '역대 최고령 만루홈런' 기록을 갈아치웠다.",
+      "더욱 흥미로운 점은 이 역사적 대기록의 제물이 된 투수가 다름 아닌 '절친' 박석민(41) 삼성 라이온즈 2군 코치의 아들 박준현(19·키움 히어로즈)이었다는 점이다."
     ],
     "chips": [
-      "#뉴스"
+      "#KBO"
     ]
   },
   {
-    "id": "n2a819b65",
-    "category": "IT",
-    "source": "머니투데이",
+    "id": "n8b3528dd",
+    "category": "경제",
+    "source": "아시아경제",
     "time": "4분 전",
-    "url": "https://www.mt.co.kr/tech/2026/08/26/2026082618103163543",
-    "title": "\"SAP 등 타고 세계로\"…SK AX, 에이전틱 AI 승부",
+    "url": "https://view.asiae.co.kr/article/2026082619185422782",
+    "title": "[속보]네팔 홍수로 남동발전·두산에너빌리티 직원 8명 연락두절",
     "summary": [
-      "SK AX가 독일 바덴뷔르템베르크주 발도르프에 위치한 SAP 본사에서 SAP 오토노머스 스위트 및 비즈니스 AI 협력을 위한 양해각서(MOU)를 체결했다고 26일 밝혔다.",
-      "협약식에는 김완종 SK AX 사장과 손건일 SK AX 최고고객책임자(CCO), 신은영 SAP코리아 대표 등 양사 경영진이 참석했다.",
-      "김완종 SK AX 사장은 크리스티안 클라인 SAP 최고경영자(CEO)와도 만나 구체적인 협력 방안을 논의했다."
-    ],
-    "chips": [
-      "#AI"
-    ]
-  },
-  {
-    "id": "nc9eceacb",
-    "category": "IT",
-    "source": "동아일보",
-    "time": "5분 전",
-    "url": "https://www.donga.com/news/It/article/all/20260826/134550961/1",
-    "title": "전 세계 반도체 엔지니어 집결하는 ‘핫칩스’, 그 자리에 선 한국 기업은?",
-    "summary": [
-      "핫칩스 심포지엄은 매년 8월 실리콘밸리의 중심인 캘리포니아에서 개최되는 세계적 수준의 고성능 마이크로프로세서 및 집적회로 분야 반도체 콘퍼런스며, 최근 AI 반도체의 전 세계적 관심사가 높아지면서 콘퍼런스 자체에 대한 관심도도 높아진 상황이다.",
-      "38회 차를 맞은 이번 핫칩스에서는 엔비디아의 베라 CPU 및 루빈 GPU, 블루필드 4, 스펙트럼-X 등 데이터센터용 포트폴리오 전체 아키텍처의 실질 정보 등이 공개됐으며, 인텔 역시 차세대 서버용 C."
-    ],
-    "chips": [
-      "#AI",
-      "#반도체",
-      "#엔비디아"
-    ]
-  },
-  {
-    "id": "n14e9f603",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "5분 전",
-    "url": "https://www.newsis.com/view/NISX20260826_0003764140",
-    "title": "[부고]김선호(당진시의회 의장)씨 모친상",
-    "summary": [
-      "[당진=뉴시스] ▲조동형씨 별세, 김선호(당진시의회 의장)씨 모친상=26일, 쉴낙원 당진장례식장 특3호실, 발인 28일 오전 9시 홍성추모공원, 장지 고대면 진관리 선영."
+      "[속보]네팔 홍수로 남동발전·두산에너빌리티 직원 8명 연락두절."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "ndff11daf",
-    "category": "IT",
-    "source": "뉴시스",
-    "time": "6분 전",
-    "url": "https://www.newsis.com/view/NISX20260826_0003764124",
-    "title": "반도체·바이오·배터리·방산…중부권 성장엔진 거점 대전",
-    "summary": [
-      "[대전=뉴시스]곽상훈 기자 = 대전시가 정부의 메가특구 연계 5극 3특 성장엔진 육성방안에 따라 중부권 성장엔진을 견인하게 된다.",
-      "이른바 중부권 성장엔진 산업을 중심으로 첨단 산업의 연구개발과 기술혁신을 선도하는 핵심 거점으로 거듭난다는 구상이다.",
-      "26일 시에 따르면 산업통상부는 이날 청와대에서 개최된 중앙지방협력회의에서 5극 3특 성장엔진 육성 방안을 발표했다."
-    ],
-    "chips": [
-      "#반도체",
-      "#전기차"
-    ]
-  },
-  {
-    "id": "n282ce8fb",
+    "id": "n9d01eb40",
     "category": "사회",
     "source": "연합뉴스",
-    "time": "6분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260826170100004",
-    "title": "경찰, 최근 3년 실종사건 31만건 전수점검…'비대면 종결' 금지",
+    "time": "5분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260826176900504",
+    "title": "네팔 홍수로 한국인 8명 연락두절·10명 고립…대응팀 파견예정",
     "summary": [
-      "(서울=연합뉴스) 한지은 홍준석 기자 = 경찰이 제주 실종사건 허위 종결 사태를 계기로 최근 3년간 종결된 실종사건 약 31만건에 대한 전수점검..."
+      "(서울=연합뉴스) 김지헌 기자 = 네팔에서 일어난 홍수로 한국인들의 연락이 끊기는 일이 발생했다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "nee4b7ad1",
-    "category": "IT",
+    "id": "nae4aac1c",
+    "category": "스포츠",
+    "source": "아시아경제",
+    "time": "6분 전",
+    "url": "https://view.asiae.co.kr/article/2026082619164479107",
+    "title": "한화생명, 10월 아시아 여자주니어 골프대회 개최",
+    "summary": [
+      "한화생명이 아시아 골프 유망주 육성에 나선다.",
+      "한화생명은 10월 6일부터 8일까지 사흘간 경기도 안산의 더헤븐 컨트리클럽에서 한화생명 인비테이셔널 아시아 여자주니어 골프대회를 개최한다.",
+      "서울특별시골프협회가 주관하고 대한골프협회가 후원하는 이 대회에는 한국과 베트남, 인도네시아, 태국, 말레이시아, 싱가포르 등 동남아시아 5개국의 골프 유망주 108명이 참가, 3라운드 54홀 스트로크 플레이로 기량을 겨룬다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n4d0207ac",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "6분 전",
+    "url": "https://www.chosun.com/sports/baseball/2026/08/26/GRSGEZJRGYYGMOBYGY3DQMTDGA/",
+    "title": "160㎞ 강속구 없으면 어때? 승부되는 김서현, 사령탑도 반겼다…\"야구는 자신감 차이가 크다\"",
+    "summary": [
+      "[인천=스포츠조선 이종서 기자] \"야구는 자신감 차이가 크잖아요.\" 한화 이글스의 김서현(22)은 지난해 33개의 세이브를 기록하며 이글스 우완 최다 세이브 신기록을 세웠다.",
+      "2023년 신인드래프트 1라운드(전체 1순위)로 입단한 그는 입단 당시부터 150㎞ 중반의 빠른 공을 던지면서 많은 기대를 받아왔다.",
+      "입단 후 첫 2년 동안은 제구가 흔들리면서 고전했."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
+    "id": "n7b059f5e",
+    "category": "사회",
     "source": "연합뉴스",
-    "time": "6분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260826168700003",
-    "title": "서남권 반도체·동남권 제조 AI 벨트…25개 성장엔진 시동",
-    "summary": [
-      "(서울=연합뉴스) 장보인 기자 = 5극 3특 지방 주도 성장을 이끌 권역별 성장엔진이 윤곽을 드러냈다."
-    ],
-    "chips": [
-      "#AI",
-      "#반도체"
-    ]
-  },
-  {
-    "id": "n4e991320",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "6분 전",
-    "url": "https://www.chosun.com/politics/diplomacy-defense/2026/08/26/XZO67FUQPVCDNMZGEXGL743K4Q/",
-    "title": "조현, 방한한 日의원들에 과거사 문제 진전 위한 역할 당부",
-    "summary": [
-      "조현, 방한한 日의원들에 과거사 문제 진전 위한 역할 당부."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nbc19480a",
-    "category": "스포츠",
-    "source": "조선일보",
     "time": "7분 전",
-    "url": "https://www.chosun.com/sports/baseball/2026/08/26/GRQTGYZSGZSGENLFGNSGKOBTGM/",
-    "title": "구겨진 자존심, 배트로 날렸다...'4타수 무안타' 한동희, 끝내기 패배 후유증 없이 볼을 반으로 쪼갤 듯 '폭풍 스윙'",
-    "summary": [
-      "[광주=스포츠조선 박재만 기자] 전날의 충격적인 끝내기 패배도, 4타수 무안타의 침묵도 생각하지 않았다.",
-      "4번 타자 한동희가 구겨진 자존심을 되찾기 위해 이를 악물고 배트를 돌렸다.",
-      "롯데 자이언츠 한동희는 26일 광주-기아 챔피언스필드에서 열린 KIA 타이거즈와의 주중 3연전 두 번째 경기를 앞두고 타격 훈련에 나섰다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nad401662",
-    "category": "사회",
-    "source": "한경IT",
-    "time": "7분 전",
-    "url": "https://www.hankyung.com/article/202608264976i",
-    "title": "“뇌에서 타그리소보다 40배”…보로노이, 표적항암제 VRN11 640㎎ 고용량 도전",
-    "summary": [
-      "“뇌에서 타그리소보다 40배”…보로노이, 표적항암제 VRN11 640㎎ 고용량 도전."
-    ],
-    "chips": [
-      "#고용"
-    ]
-  },
-  {
-    "id": "n787a6162",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "8분 전",
-    "url": "https://www.chosun.com/entertainments/movie/2026/08/26/MY4WCOJYMEZTMMTBHA4TIYZZMI/",
-    "title": "[SC현장] \"'오디세이'·'스파이더맨4'와 맞붙어 기뻐\"…정해인→강하늘 '아가미', K애니 새 지평 열었다(종합)",
-    "summary": [
-      "[스포츠조선 안소윤 기자] '아가미'가 쟁쟁한 경쟁작들 사이에서 한국 애니메이션의 새로운 가능성을 제시했다.",
-      "애니메이션 '아가미' 언론·배급 시사회가 26일 서울 용산구 이촌동 CGV 용산아이파크몰에서 진행됐다.",
-      "현장에는 배우 강하늘, 유재명, 김선영과 안재훈 감독이 참석했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "na20af1a8",
-    "category": "IT",
-    "source": "동아일보",
-    "time": "8분 전",
-    "url": "https://www.donga.com/news/It/article/all/20260826/134550910/1",
-    "title": "굿딜파트너, 좋은 관계로 소상공인 광고 고민 돕는다 [ICT이노베이션스퀘어확산사업]",
-    "summary": [
-      "[IT동아 x 스파크랩] 동남권 ICT이노베이션스퀘어 확산사업은 과학기술정보통신부와 정보통신산업진흥원이 지원하고 부산정보산업진흥원이 주관하며 부산·울산·경남 지역의 디지털 인재 양성과 지역 특화 산업의 디지털 전환, 창업 생태계 조성을 목표로 하고 있습니다.",
-      "이 사업에서 스파크랩이 육성하고 있는 스타트업을 IT동아가 소개합니다.국내 온라인 광고 시장은 매년 꾸준한 성장세를 이어가고 있다.",
-      "하지만 이 성장이 모든 광고주에게 고르게 돌아가는 것은."
-    ],
-    "chips": [
-      "#스타트업"
-    ]
-  },
-  {
-    "id": "n308d8a3b",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "9분 전",
-    "url": "https://www.donga.com/news/Politics/article/all/20260826/134548344/1",
-    "title": "“오만한 권력자? 유시민 본인도…‘어디 감히 나한테’ 생각한 듯”[정치를 부탁해]",
-    "summary": [
-      "동아일보 정치 라이브 ＜정치를 부탁해＞- 일시: 월·수요일 오전 10~11시- 토크: 김종혁 전 국민의힘 최고위원, 박원석 전 정의당 의원- 진행·연출: 조동주 심성주- 동아일보 유튜브 : www.youtube.com/@donga-ilbo국민의힘 장동혁 대표와 무소속 한동훈 의원이 최근 한 행사에서 악수한 것을 두고 “이런 식의 모임, 만남은 계속하는 게 좋다”는 평가가 나왔다.",
-      "국민의힘 김종혁 전 최고위원은 26일 오전 방송된 동아일보 유튜브."
-    ],
+    "url": "https://www.yna.co.kr/view/AKR20260826176200001",
+    "title": "[속보] 靑 \"네팔 홍수로 韓국민 실종…李대통령 수색·구조 총력 지시\"",
+    "summary": [],
     "chips": [
       "#정치"
     ]
   },
   {
-    "id": "naf910dfd",
+    "id": "nd5f26050",
     "category": "사회",
     "source": "연합뉴스",
-    "time": "9분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260826047151001",
-    "title": "李대통령, 전국 시도지사와 지방성장 논의…\"자리 달라도 협력\"(종합)",
-    "summary": [
-      "(서울=연합뉴스) 황윤기 기자 = 이재명 대통령은 26일 오후 청와대에서 중앙지방협력회의를 주재하고 전국 광역 시도지사들과 지방 발전 전략을 논..."
-    ],
+    "time": "8분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260826176600504",
+    "title": "[속보] 네팔 연락두절 한국인은 남동발전·두산에너빌리티 직원",
+    "summary": [],
     "chips": [
-      "#정치"
+      "#뉴스"
     ]
   },
   {
-    "id": "n504a171d",
-    "category": "IT",
+    "id": "nce0ee7bb",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "8분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260826173100030",
+    "title": "GS25, '민음사 빵' 10만개 판매…\"텍스트힙 트렌드 맞춰 협업\"",
+    "summary": [
+      "(서울=연합뉴스) 정수연 기자 = GS리테일이 운영하는 편의점 GS25는 민음사와 협업해 선보인 베이커리 상품이 소비자들 사이에서 큰 인기를 끌..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nf3832335",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "10분 전",
+    "url": "https://www.newsis.com/view/NISX20260826_0003764182",
+    "title": "[속보]외교부 \"네팔 홍수로 한국인 8명 연락두절…10명 고립“",
+    "summary": [],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nd44a446c",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "10분 전",
+    "url": "https://www.chosun.com/sports/world-football/2026/08/26/GRQWEMDCGIZTEYJTG43TIMJSHA/",
+    "title": "'이강인과 동행이냐, 2421억 아스날행이냐' 야유받은 알바레스의 선택…바르셀로나 꿈은 사실상 막혔다",
+    "summary": [
+      "[OSEN=정승우 기자] 이강인(25)과 훌리안 알바레스(26, 이상 아틀레티코 마드리드)가 함께 아틀레티코 마드리드 공격을 이끄는 모습을 시즌 중에 볼 수 있을까.",
+      "FC 바르셀로나 이적길이 막힌 알바레스 앞에 아스날행, 아틀레티코 잔류, 2027년까지 기다리는 세 가지 선택지가 놓였다.영국 'BBC'는 25일(이하 한국시간) \"반목과 분노, 적대감이 알바."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nc54440c7",
+    "category": "스포츠",
+    "source": "뉴시스",
+    "time": "11분 전",
+    "url": "https://www.newsis.com/view/NISX20260826_0003764177",
+    "title": "삼성 최형우, 키움 박준현 상대 그랜드슬램 '쾅'…역대 최고령 만루포",
+    "summary": [
+      "[서울=뉴시스]김희준 기자 = 프로야구 삼성 라이온즈의 베테랑 타자 최형우가 역대 최고령 만루 홈런 기록을 새로 썼다.",
+      "최형우는 26일 서울 고척스카이돔에서 열린 2026 신한 쏠 KBO리그 키움 히어로즈와의 경기에 4번 지명타자로 선발 출전해 1회초 첫 타석에서 키움 신인 박준현을 상대로 만루 홈런을 터뜨렸다.",
+      "0-0으로 맞선 1회초 삼성은 박승규의 안타와 김성윤, 구자욱의 연속 볼넷으로 무사 만루를 일궜다."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
+    "id": "n31229a69",
+    "category": "사회",
     "source": "머니투데이",
-    "time": "9분 전",
-    "url": "https://www.mt.co.kr/industry/2026/08/26/2026082613504916301",
-    "title": "'ESS 골드러시' 미국 시장 4배 커진다…배터리 라인 전환 속도전",
+    "time": "12분 전",
+    "url": "https://www.mt.co.kr/society/2026/08/26/2026082618590253863",
+    "title": "\"장미란씨와 연락돼\" 부 경장 말에...경찰, 유령 통화기록만 3주 쫓았다",
     "summary": [
-      "[MT리포트]ESS 레벨업④ BESS(배터리 에너지저장장치)는 그린 에너지의 간헐성을 보완해줄 수 있는 필수 인프라로 각광받고 있다.",
-      "국내 입찰 시장에서도 '규모의 경제'가 실현되는 모습이지만, 과열 경쟁에 따른 수익성 저하는 반드시 풀어야 할 과제로 꼽힌다.",
-      "본격적인 BESS 개화기에 K배터리의 '레벨업'을 위해 어떤 전략이 필요한지 들여다봤다."
+      "고(故) 장미란씨 실종 사건 등을 허위 종결한 혐의를 받는 부 경장이 실종자와 연락한 적이 있다고 속인 탓에, 경찰이 통화기록을 찾는 데만 3주의 시간을 보낸 것으로 나타났다.",
+      "26일 뉴스1에 따르면 경찰은 지난 5월15일 장미란씨에 대한 1차 실종 신고를 접수했고, 이어 7월19일 2차 실종 신고를 받았다.",
+      "2차 신고가 접수됐을 때 부 경장은 \"1차 신고 당시 장씨와 연락이 닿았다\"고 주장했지만, 정작 통화한 기록은 확인되지 않았다."
     ],
     "chips": [
-      "#AI",
-      "#전기차"
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n4a10170a",
+    "category": "스포츠",
+    "source": "머니투데이",
+    "time": "12분 전",
+    "url": "https://www.mt.co.kr/sports/2026/08/26/2026082618422760779",
+    "title": "'미모에 실력까지' 일본서 인기폭발 \"日 여자배구가 기댈 핵심 무기\"",
+    "summary": [
+      "지난 2026 아시아여자배구선수권대회 한일전에서 한국을 상대로 18점 맹폭을 가한 사토 요시노(25·베로 발리 밀라노)가 현지 매체 극찬을 받았다.",
+      "일본 매체 웹 스포르티바는 26일 \"사토의 폭발력은 일본 여자배구 대표팀이 기댈 수 있는 핵심 무기\"라며 \"한국 등 아시아 팀들을 상대로도 차이를 확실히 보여줬다\"고 극찬했다.",
+      "앞서 사토는 지난 23일 중국 톈진 올림픽 센터 체육관에서 열린 대회 조별리그 C조 2차전에서 18점을 기록, 일본의 3-."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n756997e6",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "13분 전",
+    "url": "https://www.donga.com/news/Society/article/all/20260826/134551675/1",
+    "title": "농장 탈출한 말과 부딪쳐 운전자 사망…농장주 2심도 실형",
+    "summary": [
+      "농장을 탈출한 말과 충돌해 운전자가 숨진 사건과 관련해 농장주가 항소심에서도 무거운 책임을 지게 됐다.26일 법조계에 따르면 대전지법 형사항소3-1부(재판장 홍은아)는 업무상과실치사 등 혐의로 기소된 A 씨(69)에게 원심과 같은 징역 1년을 선고했다.A 씨는 지난 2022년 12월 19일 충남 공주에서 60대 B 씨가 차를 운전하다 말과 부딪쳐 숨진 사건과 관련, 농장 관리를 소홀히 해 사고를 촉발한 책임으로 법정에 섰다.당시 사고는 A 씨가."
+    ],
+    "chips": [
+      "#뉴스"
     ]
   }
 ];
@@ -643,21 +626,21 @@ window.NEWS_DB = [
 window.KEYWORD_TOP = [
   {
     "rank": 1,
-    "tag": "AI",
-    "mentions": "2330건",
-    "trend": "+255%"
+    "tag": "뉴스",
+    "mentions": "2720건",
+    "trend": "+315%"
   },
   {
     "rank": 2,
-    "tag": "반도체",
-    "mentions": "1940건",
-    "trend": "+195%"
+    "tag": "KBO",
+    "mentions": "1680건",
+    "trend": "+155%"
   },
   {
     "rank": 3,
-    "tag": "뉴스",
-    "mentions": "1940건",
-    "trend": "+195%"
+    "tag": "AI",
+    "mentions": "1550건",
+    "trend": "+135%"
   }
 ];
 // ====AUTO-GENERATED-END====
