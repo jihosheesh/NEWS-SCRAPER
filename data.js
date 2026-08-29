@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-08-29 14:47:48
+// 마지막 업데이트: 2026-08-29 18:00:25
 window.NEWS_DB = [
   {
     "id": "n2837a332",
     "category": "IT",
     "source": "시사저널e",
-    "time": "13시간 전",
+    "time": "16시간 전",
     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFB4dzhxbVFpRmdLZUJja1NZRnZxemxzS3pVUUdyUlhiN1VzenVKMy1TWGJCb0o0ck80Y21LMU5sSTAtNDFQWnc3UGRpOHQ1cU9JZFhvU1JnZXY3OUhybGgwZ0VvN1hvdzh1LUExZ3VzS0FEZ9IBdkFVX3lxTE9waC12TS1qSHl5ajNfN2RJOFFxMWJjai1QLXBHTktvZ0Y2RFdRbmt0Q2ZXRmRHOWpMc2J1LWozTXJEU215WmpBM3o1a2xVdXVxbUFFVFBiTmZnNEkzUmhiY2pLYVNQTF9uekcwd1ZWSEZHbGFCbHc?oc=5",
     "title": "반도체부터 로봇까지···삼성·SK·현대차, 美에 뭐 짓나",
     "summary": [
@@ -64,6 +64,21 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n27acd9c6",
+    "category": "IT",
+    "source": "한겨레",
+    "time": "2일 전",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0yT1lKbkZjSzdxdTV4ejRwSENtQ1pHc0NXWjU4aUZ5djliU1lGbFJFUlFHOXlTemVTY3h2c295b0ZsbGhyVkJ1b2lYRGpWV0tEVDhPbWpkenpDZVlfbnpoR0ljbHBYT3BCVVE?oc=5",
+    "title": "‘AI 피크아웃’ 비웃은 엔비디아…분기 매출 133조 또 사상 최대",
+    "summary": [
+      "‘AI 피크아웃’ 비웃은 엔비디아…분기 매출 133조 또 사상 최대 한겨레."
+    ],
+    "chips": [
+      "#AI",
+      "#엔비디아"
+    ]
+  },
+  {
     "id": "n651d3ab9",
     "category": "IT",
     "source": "연합뉴스",
@@ -72,21 +87,6 @@ window.NEWS_DB = [
     "title": "엔비디아, 13분기 연속 매출 신기록…\"AI 변곡점\"",
     "summary": [
       "엔비디아, 13분기 연속 매출 신기록…\"AI 변곡점\" 연합뉴스."
-    ],
-    "chips": [
-      "#AI",
-      "#엔비디아"
-    ]
-  },
-  {
-    "id": "n4a0b2f88",
-    "category": "IT",
-    "source": "경향신문",
-    "time": "2일 전",
-    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5pa0Q5cTVRRTRDNHMzS1J5UWJxeFNYcU9ydzQ1YS13bkp6bjlKTG1faDFVaHJCZ1pMRkttaG5fTXpLRnpkdlBmaGdfM0U2MDZtMEgzZGthem03d9IBX0FVX3lxTE8zWmhLd0NKWG1ydnpqSkpFUENiNjRZeGFsSjFxNjlCd1gyUWt6S1Z6Qmppakx0SmRFQ0lMQ0JaZE1STUNUWEhhSHdlUFlEdzRUQTNJMF9KckdpVmxwdDgw?oc=5",
-    "title": "엔비디아, 분기 매출 133조원 ‘신기록’…젠슨 황 “AI는 지금 변곡점”",
-    "summary": [
-      "엔비디아, 분기 매출 133조원 ‘신기록’…젠슨 황 “AI는 지금 변곡점” 경향신문."
     ],
     "chips": [
       "#AI",
@@ -154,17 +154,17 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n6aa2d332",
-    "category": "경제",
-    "source": "Chosunbiz",
-    "time": "30일 전",
-    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNMFYzUVVCVmVkSGhnX1lDUUZMY3NWS2NYcFVRRWNWRVVkWUw1VHRNZFpzeG5VdU9ub2xGTW84VzI3NVZCV1ppMkRXQ2JZTTgtZi1VWmpkWU1PTlBIRjZCbFVtQ2ZqMndkMW9zbktXN0xkZ3Q1QjN6UDNNOGxKb24xemxPXzBJUdIBmgFBVV95cUxQU05hWUwxVFRDcm5lUkQ1MDJaWTdjMEdEMkJjMmVFZ0xMRFh4cFFic2N5eEl0ZmplNlF4V1RfVEtNMDljc3g4bHdYdTZLZENSUTh4V3pTMVN2VTVQRlowNXZQNWpLdzh5V2c2NDJIWlVZWDVfdVFJY0NuVWp6cWEweDVaWi1wZkNTNGljS09fNFVGNVJ2Nk9lOVVR?oc=5",
-    "title": "[경제 포커스] 주가·환율 함께 떨어지는 이유는… “기업 달러 매도 본격화” - 조선비즈",
+    "id": "n062f98b4",
+    "category": "부동산",
+    "source": "한국주택경제신문",
+    "time": "29일 전",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9Sdmd3SUl0dmRQSWdTck5DVjJ5WXYxTTFmRnBBbEkwa09VclpLd0VsVWFTV2pPRm9sQm1sQmZDb3EyN2lwTVBvZ185RUVycVFnOEdYcHVrcVFnYTdwaGZfUDh2WkFWYndi?oc=5",
+    "title": "서울 아파트값 0.25% 상승… 똘똘한 ‘역세권·대단지’가 집값 견인",
     "summary": [
-      "[경제 포커스] 주가·환율 함께 떨어지는 이유는… “기업 달러 매도 본격화” - 조선비즈 Chosunbiz."
+      "서울 아파트값 0.25% 상승… 똘똘한 ‘역세권·대단지’가 집값 견인 한국주택경제신문."
     ],
     "chips": [
-      "#환율"
+      "#부동산"
     ]
   },
   {
@@ -210,17 +210,18 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n79d12fb6",
-    "category": "부동산",
-    "source": "Chosunbiz",
-    "time": "92일 전",
-    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQc01fQzQ5RjhjTzMxV0xObHgwUFQ5Z0ozcklaR19VYmhUOXBxVURFZVBjZkxKT2ozQUhsVzViV1JCLXdvVUQ1YWVwYTA5bVB1TjdaYlZHTXFCQUJoRTBsdHNHZXZ5MnJQdVliYzVUUktidVpvNDNzWVJXakYzUFBTMFMxd1Y0NFVrTnhSR1c5WXctLTdFRnhJMtIBrAFBVV95cUxOMk9EaXo0bmRJdnJyRVgyM0REZE1IR1VEVkNzWVNHZW9nR3p3WDRXcXQ0dnpfNk5LRE9SVFVscW45RzlqYTZGTWhWdTlybngycnM5QUliSG1haVFoQW5xT3ZpbFJvWU5hYjNYUGNLTHVyNHgwcDdLZWFsdFhMTHhCNlBodDFsdkFTT0tFX3NXWGZ1M2hCTEpmbTVUVXRzREtvSy1CdkRyWE5sbU5p?oc=5",
-    "title": "매물 줄고 분양가 뛰고… 전국 아파트 매매·전셋값 동반 상승세 지속 - 조선비즈",
+    "id": "nabfa15b0",
+    "category": "경제",
+    "source": "YTN",
+    "time": "80일 전",
+    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE50bVBaMGNlWG1LRkQ2OEh1YUF0cjlWc1EwdS1URDE1ZzJpajQzYmtTdUpGZk9yOWc0V1REZF9fNmVWOU4yVFVhbzhtQzNzMUg3b0ZfVkhVd1dxVGl0OXc?oc=5",
+    "title": "\"韓 적정 환율은 얼마일까?\" 환율 vs 금리 vs 증시 상관관계 집중해부",
     "summary": [
-      "매물 줄고 분양가 뛰고… 전국 아파트 매매·전셋값 동반 상승세 지속 - 조선비즈 Chosunbiz."
+      "\"韓 적정 환율은 얼마일까?\" 환율 vs 금리 vs 증시 상관관계 집중해부 YTN."
     ],
     "chips": [
-      "#부동산"
+      "#금리",
+      "#환율"
     ]
   },
   {
@@ -358,275 +359,274 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n28f9060e",
+    "id": "n0bb7a1ea",
     "category": "스포츠",
     "source": "조선일보",
-    "time": "2분 전",
-    "url": "https://www.chosun.com/sports/baseball/2026/08/29/MMYDANZXGI2DQNLCGA3WCNZRHE/",
-    "title": "최강삼성 5연승 폭풍질주! 29일만의 선두 탈환, '페덱+구자욱 합작' KT에 4대2 승리 [대구 리뷰]",
+    "time": "10분 전",
+    "url": "https://www.chosun.com/sports/world-football/2026/08/30/GNSTANZXMZTDCYZRGY3WGYLFHE/",
+    "title": "\"돈도 하나의 가치관이지만...\" 모리야스 소신발언! 日 에이스, 충격 사우디 진출설→\"성장 가능성도 생각하길\" 뼈 있는 조언",
     "summary": [
-      "[대구=스포츠조선 김영록 기자] \"최~강 삼성 승리하리라!\" 텍사스 카우보이와 캡틴 구자욱의 불꽃이 팀 전체를 휘감았고, 2만4000명 야구팬들의 뜨거운 함성이 응답했다.",
-      "삼성 라이온즈는 29일 대구 삼성라이온즈파크에서 열린 KT 위즈와의 시즌 12차전에서 4대2로 승리했다.",
-      "삼성은 이날 승리로 시즌 68승째(3무44패)를 기록, KT를 0.5경기 차이로."
+      "[OSEN=고성환 기자] 모리야스 하지메 일본 대표팀 감독이 핵심 자원 도안 리츠(28, 아인트라흐트 프랑크푸르트)의 사우디아라비아 이적설에 대해 뼈 있는 말을 남겼다.일본 '스포츠 호치'는 29일(한국시간) \"모리야스 감독은 사우디 리그행에 대해 '돈을 버는 것도 하나의 가치관'이라고 말했다.",
+      "그는 일본 대표팀 미드필더 도안의 사우디 이적설에 대해선 말을."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n33b68f39",
+    "category": "IT",
+    "source": "연합뉴스",
+    "time": "18분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260830001900091",
+    "title": "오픈AI, 스페이스X 인수된 커서 계약해지…머스크 \"사기꾼\" 비난",
+    "summary": [
+      "(샌프란시스코=연합뉴스) 권영전 특파원 = 오픈AI가 일론 머스크의 스페이스X가 인수한 인공지능(AI) 코딩 도구 커서 측에 계약 중단을 통보했..."
+    ],
+    "chips": [
+      "#AI"
+    ]
+  },
+  {
+    "id": "n8f15da51",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "19분 전",
+    "url": "https://www.chosun.com/sports/world-baseball/2026/08/30/MQ3WKMZYHA2DIOJQMM3TINTDMI/",
+    "title": "고우석 LG 복귀 없다! 美 방출에도 ML 재도전 예측 왜? “GO 다른 팀에서 기회 얻을 것, AAA+ML 둘 다 가능”",
+    "summary": [
+      "[OSEN=이후광 기자] 고우석이 방출 대기에도 KBO리그 복귀가 아닌 미국에 남아 메이저리그 도전을 이어간다는 현지 예측이 나왔다.",
+      "메이저리그 미네소타 트윈스는 29일(이하 한국시간) 외야수 워커 젠킨스와 메이저리그 계약을 체결했다.",
+      "26인 로스터 자리를 만들기 위해 외야수 앨런 로든을 트리플A 세인트폴 세인츠로 내렸고, 이에 따른 40인 로스터 조정 과."
     ],
     "chips": [
       "#KBO"
     ]
   },
   {
-    "id": "n82a777bd",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "13분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260829051400527",
-    "title": "충남 부여·서천에 호우주의보",
-    "summary": [
-      "(대전=연합뉴스) 기상청은 29일 오후 11시 30분을 기해 부여·서천에 호우주의보를 발효한다고 밝혔다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n8e7581c2",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "14분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260829051300527",
-    "title": "전북 군산시·군산 옥도면(어청도 제외)에 호우주의보",
-    "summary": [
-      "(전주=연합뉴스) 기상청은 29일 오후 11시 30분을 기해 군산시(옥도면 제외)·군산 옥도면(어청도 제외)에 호우주의보를 발효한다고 밝혔다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n76b897a3",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "14분 전",
-    "url": "https://www.chosun.com/international/international_general/2026/08/29/GRRTIZRQHEZWGY3BGRRGIZBUGY/",
-    "title": "네팔·중국 홍수 사망 682명으로 늘어…실종자 3000명 육박",
-    "summary": [
-      "네팔·중국 국경의 히말라야 산악 지대에서 대규모 홍수가 발생한 지 나흘째인 29일(현지 시각) 양국의 사망자가 682명으로 늘었다.",
-      "AP·AFP통신 등에 따르면, 네팔 재난 당국은 지난 26일 중부 바그마티주 일대에서 발생한 대규모 홍수로 이날까지 675명이 숨졌다고 밝혔다.",
-      "같은 날 국경과 맞닿은 중국 티베트자치구 르카쩌시 지룽현에서도 홍수와 연계된 토석."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nd3ae6e6a",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "15분 전",
-    "url": "https://www.chosun.com/sports/baseball/2026/08/29/GYYGIZLFGMZWKYLDGRRTAMJXG4/",
-    "title": "우천 중단 50분 → 3분 재개 → 또 40분 중단 → 경기 끝 → 혼돈의 사직구장 무슨 일이 [부산 현장]",
-    "summary": [
-      "[부산=스포츠조선 한동훈 기자] LG 트윈스가 두 차례 우천 중단 끝에 승리했다.",
-      "LG는 29일 부산 사직구장에서 열린 롯데 자이언츠와 경기에서 7회 8대3 강우 콜드 승리를 거뒀다.",
-      "7회말 갑자기 많은 비가 내렸다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n7cd91e1e",
+    "id": "n24dd37a9",
     "category": "사회",
     "source": "뉴시스",
-    "time": "18분 전",
-    "url": "https://www.newsis.com/view/NISX20260829_0003768046",
-    "title": "네팔·티베트 대홍수 나흘째…682명 사망·3000명 실종(종합)",
+    "time": "19분 전",
+    "url": "https://www.newsis.com/view/NISX20260830_0003768059",
+    "title": "네팔 신속대응팀 \"오늘 2차례 헬기 수색…성과 없어\"",
     "summary": [
-      "[서울=뉴시스]박미선 기자 = 네팔과 중국 접경 히말라야 지역을 덮친 대규모 홍수로 사망자가 682명으로 늘었다.",
-      "실종자도 3000명에 육박하는 가운데 사고 발생 나흘째에도 수력발전소 터널에 100명 이상이 갇혀 있는 것으로 추정돼 인명 피해가 더욱 늘어날 것으로 우려된다.",
-      "29일(현지 시간) AP통신 등에 따르면 지난 26일 네팔과 중국 티베트 접경지역에서 발생한 대규모 돌발 홍수로 현재까지 682명이 숨지고 2980명이 실종됐다."
+      "[카트만두=뉴시스]박정규 특파원 = 네팔에서 발생한 대홍수로 인한 한국인 실종자 9명을 찾기 위한 수색 작업이 29일 두 차례 이뤄졌지만 별다른 성과를 거두지 못했다.",
+      "정부합동 신속대응팀 당국자는 이날 오후 네팔 카트만두 한 호텔에서 취재진과 만난 자리에서 \"일단 오늘 헬기를 두 번 운항해 수색을 실시했다\"며 \"생존자를 발견하거나 그런 성과는 안타깝게도 없었다\"고 밝혔다.",
+      "당국자는 \"사고 현장에 헬기로 이동해 지금 생존자가 있다면 있을 것으로."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "nf62540ee",
+    "id": "n60da20b3",
     "category": "스포츠",
-    "source": "연합뉴스",
-    "time": "23분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260829051200007",
-    "title": "'엄지성 1골 1도움' 스완지, 더비에 3-0 완승…리그 3경기 무패",
+    "source": "조선일보",
+    "time": "20분 전",
+    "url": "https://www.chosun.com/sports/baseball/2026/08/30/MVRWMNTCGY4TINZXGI4DQOBWGE/",
+    "title": "'5연패' 한화는 안 되고, NC는 다 된 것…이호준 감독 \"막아야 할 때 잘 막고, 득점 기회 놓지지 않았다\"",
     "summary": [
-      "(서울=연합뉴스) 배진남 기자 = 2026 아이치·나고야 아시안게임에 와일드카드로 합류하는 국가대표 공격수 엄지성(스완지 시티)이 새 시즌 첫 ..."
+      "[OSEN=대전, 조은혜 기자] NC 다이노스가 한화 이글스를 5연패로 몰아넣고 2연승을 달성했다.이호준 감독이 이끄는 NC는 29일 2026 신한 SOL KBO리그 NC 다이노스와의 원정경기에서 11-4로 승리했다.",
+      "이날 승리로 2연승을 달성한 NC는 시즌 50승(58패2무) 고지를 밟았다.선발 라일리는 6이닝 2피안타 4사사구 4탈삼진 2실점으로 7경기."
     ],
     "chips": [
-      "#뉴스"
+      "#KBO"
     ]
   },
   {
-    "id": "nd9b190da",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "24분 전",
-    "url": "https://www.newsis.com/view/NISX20260829_0003768047",
-    "title": "'푸른거탑' 배우 이용주 심장마비로 사망…향년 44세",
+    "id": "n98b419b2",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "28분 전",
+    "url": "https://www.chosun.com/sports/baseball/2026/08/30/MZSGMZTCMYZTGNZZGI4WINJSGI/",
+    "title": "1위 탈환 자축! 프로 원년팀 삼성, 45년만 역대 홈 최다관중 도전…올해 43번째 매진, 2만4000석 가득 찼다 [대구현장]",
     "summary": [
-      "[서울=뉴시스]이재훈 기자 = tvN 군대 시트콤 '푸른거탑'으로 친숙한 배우 이용주가 세상을 떠났다.",
-      "29일 방송가에 따르면, 이용주는 이날 사망했다.",
-      "사인은 심장마비로 알려졌다."
+      "[대구=스포츠조선 김영록 기자] 삼성 라이온즈가 창단 이래 역대 최다 관중에 도전중이다.",
+      "삼성은 29일 대구 삼성라이온즈파크에서 열린 KT 위즈와의 시즌 12차전에서 2만4000석 전석 매진을 기록했다.",
+      "삼성의 올시즌 43번째 홈경기 매진이다."
     ],
     "chips": [
-      "#뉴스"
+      "#KBO"
     ]
   },
   {
-    "id": "na8edb0e1",
+    "id": "n3c7a8d9d",
     "category": "IT",
-    "source": "ZDNet Korea",
-    "time": "47분 전",
-    "url": "https://zdnet.co.kr/view/?no=20260829171040",
-    "title": "\"양보다 질, 20년 가는 IP로\"…스마일게이트 '에픽세븐', 8주년 '영속의 계승제' 성료",
+    "source": "조선비즈IT",
+    "time": "52분 전",
+    "url": "https://biz.chosun.com/it-science/ict/2026/08/30/MPMEIINQZRGBZLUKHETPAEPLFY/",
+    "title": "프랑스 대선 앞두고 ‘나토 회의론’ 후보들 급부상…유럽 동맹국은 긴장",
     "summary": [
-      "[지디넷코리아]스마일게이트의 대표 모바일 RPG '에픽세븐'이 서비스 8주년을 맞아 오프라인 공간에서 팬들과 직접 호흡하며 장기 흥행을 위한 새로운 비전을 제시했다.29일 서울 신촌 현대백화점 유플렉스에서 에픽세븐 8주년 기념 오프라인 행사 '영속의 계승제'가 열렸다.",
-      "사전 신청을 통해 초청된 160명의 이용자가 참석한 가운데, 12층 일러스타 스테이지와 지하 2층 SMG 카페에서 다채로운 참여형 프로그램이 진행됐다.12층 무대에서는 탁광진 P."
+      "프랑스 대선 앞두고 ‘나토 회의론’ 후보들 급부상…유럽 동맹국은 긴장."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "ndbd289c4",
-    "category": "스포츠",
-    "source": "동아일보",
-    "time": "50분 전",
-    "url": "https://www.donga.com/news/Sports/article/all/20260829/134568218/1",
-    "title": "‘남자 피겨 유망주’ 최하빈·이재근, 주니어 GP 2차 대회 금·은 석권",
+    "id": "n6978b148",
+    "category": "IT",
+    "source": "뉴시스",
+    "time": "1시간 전",
+    "url": "https://www.newsis.com/view/NISX20260828_0003767121",
+    "title": "\"모기 나타나면 레이저 발사\"…AI·레이저 탑재 '모기 퇴치기’ 등장",
     "summary": [
-      "한국 남자 피겨스케이팅 유망주 최하빈(한광고)과 이재근(고려대)이 2026~2027 국제빙상경기연맹(ISU) 주니어 그랑프리 2차 대회에서 나란히 금, 은메달을 목에 걸었다.최하빈은 29일(한국 시간) 라트비아 리가 볼보 스포츠센터에서 열린 대회 남자 싱글 프리스케이팅에서 기술점수(TES) 98.70점에 예술점수(PCS) 71.50점을 더해 총점 170.20점을 획득했다.전날 열린 쇼트프로그램에서 점프 실수를 저지르며 76.21점을 획득, 5위."
+      "[서울=뉴시스]허준희 인턴 기자 = 인공지능(AI)과 레이저를 이용해 공중에서 모기를 찾아 제거하는 이른바 '모기 방공 시스템'이 미국 시장에 등장했다.",
+      "지난 27일(현지 시간) 폭스비즈니스 보도에 따르면, 중국 스타트업 포톤 매트릭스는 모기를 자동으로 탐지한 뒤 레이저를 쏴 제거하는 모기 퇴치 장치를 판매하고 있다.",
+      "실내용 레이저 모기 방어 시스템은 988달러(약 135만원), 실외용 블루 레이저 모델은 1088달러부터 판매된다."
     ],
     "chips": [
-      "#뉴스"
+      "#AI",
+      "#스타트업"
     ]
   },
   {
-    "id": "n623115c1",
-    "category": "경제",
-    "source": "아시아경제",
-    "time": "55분 전",
-    "url": "https://view.asiae.co.kr/article/2026082922520632013",
-    "title": "김용범 정책실장 \"국정 무게중심 옮겨야…국민 재도약 투자\"",
-    "summary": [
-      "김용범 정책실장은 29일 \"어렵게 만들어낸 성장의 힘을 바탕으로 국정의 무게중심을 옮겨야 한다\"며 \"이제는 성장의 힘을 국민의 삶과 기회로 연결해야 할 때\"라고 말했다.",
-      "김 실장은 이날 자신의 페이스북에 \"나라 경제가 좋아지고 있다는 소식에도 선뜻 마음을 놓기 어려운 국민이 많다\"며 이같이 밝혔다.",
-      "김 실장은 \"경제의 숫자가 회복되는 속도만큼 국민의 삶이 빠르게 나아지지는 못했다\"며 \"경제를 살리는 일이 다급했고 미."
-    ],
-    "chips": [
-      "#정책"
-    ]
-  },
-  {
-    "id": "nee8bfd22",
+    "id": "n6f04f4b0",
     "category": "사회",
     "source": "뉴시스",
     "time": "1시간 전",
-    "url": "https://www.newsis.com/view/NISX20260829_0003768041",
-    "title": "러, 키이우 사흘째 드론 공습…탄약고 폭발로 37명 사망",
+    "url": "https://www.newsis.com/view/NISX20260830_0003768054",
+    "title": "中 왕이 \"네팔·중국 홍수, 최근 수년간 최악 초국경 재난\"",
     "summary": [
-      "[서울=뉴시스]박미선 기자 = 러시아군이 우크라이나 수도 키이우를 사흘째 연속 공습하는 가운데 주거지역 인근 탄약 저장시설이 드론 공격을 받아 최소 37명이 숨졌다.",
-      "29일(현지 시간) 파이낸셜타임스(FT)와 CNN 등에 따르면 전날 저녁 키이우에서 서쪽으로 약 30㎞ 떨어진 부차 지역 밀라 마을의 한 창고가 러시아군의 드론 공격을 받았다.",
-      "공격 직후 대형 화재와 연쇄 폭발이 발생해 수시간 동안 이어졌다."
+      "[서울=뉴시스]박미선 기자 = 왕이 중국 외교부장이 네팔과 중국 접경지역을 덮친 대규모 홍수와 산사태를 최근 수년간 양국 사이에서 발생한 가장 심각한 초국경 재난으로 규정하며 전례 없는 규모의 구호 작업이 필요할 것으로 전망했다.",
+      "29일(현지 시간) CNN 등에 따르면 왕 부장은 전날 시시르 카날 네팔 외무장관과 전화 통화를 하고 이번 재난에 따른 구조·구호 작업의 복잡성과 어려움에 대해 논의했다.",
+      "중국 외교부가 공개한 통화 내용에 따르면 왕."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n0b0a75d7",
-    "category": "스포츠",
-    "source": "연합뉴스",
-    "time": "1시간 전",
-    "url": "https://www.yna.co.kr/view/AKR20260829050451007",
-    "title": "안양 유병훈 감독, K리그 100번째 경기 무승부 후 기자회견 불참(종합)",
-    "summary": [
-      "(부천=연합뉴스) 오명언 기자 = 프로축구 K리그1 FC안양의 유병훈 감독이 자신의 K리그 통산 100번째 경기를 무승부로 마친 뒤 공식 기자회..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "ne21e7f8f",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "1시간 전",
-    "url": "https://www.donga.com/news/Society/article/all/20260829/134568212/1",
-    "title": "서울 폭염특보 모두 해제…“30일부터 낮 최고 28도”",
-    "summary": [
-      "서울 전역에 내려졌던 폭염특보가 29일 모두 해제됐다.",
-      "서울시는 폭염 위기경보를 ‘주의’에서 ‘관심’으로 낮추고 시와 25개 자치구의 비상근무도 종료했다.서울시에 따르면 이날 오후 7시 40분 서울 서남권에 내려졌던 폭염주의보와 열대야주의보가 해제되면서 서울 전역의 폭염특보가 모두 풀렸다.",
-      "이에 따라 시는 폭염 종합지원상황실과 자치구 비상근무를 종료했다.서울은 지난 6월 18일 동남권과 서남권에 올해 첫 폭염주의보가 발효된 이후 두 달 넘게 폭."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n8fa9bc2e",
-    "category": "사회",
-    "source": "한국경제",
-    "time": "1시간 전",
-    "url": "https://www.hankyung.com/article/202608291024i",
-    "title": "“현행 수능 수명 끝나” vs “서논술은 현대판 음서제” [이미경의 교육지책]",
-    "summary": [
-      "“현행 수능 수명 끝나” vs “서논술은 현대판 음서제” [이미경의 교육지책]."
-    ],
-    "chips": [
-      "#교육"
-    ]
-  },
-  {
-    "id": "n32979af1",
+    "id": "ndecabe13",
     "category": "경제",
-    "source": "아시아경제",
+    "source": "뉴시스",
     "time": "1시간 전",
-    "url": "https://view.asiae.co.kr/article/2026082922161328291",
-    "title": "워시 Fed 의장, 추가 긴축 시사…시장 9월 인상에 무게",
+    "url": "https://www.newsis.com/view/NISX20260829_0003768049",
+    "title": "트럼프가 택한 워시, 중간선거 앞두고 금리 올리나",
     "summary": [
-      "케빈 워시 미국 연방준비제도(Fed) 의장이 물가 상승세에 강한 우려를 나타내며 인플레이션이 충분히 둔화하지 않을 경우 추가 긴축에 나설 수 있음을 시사했다.",
-      "시장에서는 워시 의장의 발언을 금리 인상 가능성을 열어둔 '매파적 메시지'로 받아들이면서 9월 금리 인상 기대가 크게 높아졌다.",
-      "워시 의장은 28일(현지시간) 미국 와이오밍주 잭슨홀에서 열린 경제정책 심포지엄 기조연설에서 \"우리의 기준은 기조적 인플레이션이 목."
+      "[서울=뉴시스]박미선 기자 = 케빈 워시 미국 연방준비제도(Fed·연준) 의장이 인플레이션 억제를 최우선 과제로 제시하며 이르면 다음 달 기준금리를 인상할 가능성을 시사했다.",
+      "금리 인하를 요구해온 도널드 트럼프 미국 대통령과 정면충돌할 가능성이 커지면서 워시 의장의 통화정책 독립성이 시험대에 올랐다는 분석이 나온다.",
+      "29일(현지 시간) 파이낸셜타임스(FT)에 따르면 워시 의장은 전날 와이오밍주 잭슨홀에서 열린 연례 경제정책 심포지엄 연설에서 최."
     ],
     "chips": [
       "#금리",
-      "#정책"
+      "#정책",
+      "#정치"
     ]
   },
   {
-    "id": "n64a78ac0",
-    "category": "경제",
-    "source": "한국경제",
+    "id": "n0221f4f0",
+    "category": "사회",
+    "source": "연합뉴스",
     "time": "1시간 전",
-    "url": "https://www.hankyung.com/article/202608290878i",
-    "title": "폭염인데 배추값 30% 싸졌다…'뜻밖의 상황' 벌어진 까닭 [프라이스&]",
+    "url": "https://www.yna.co.kr/view/AKR20260830001600079",
+    "title": "IAEA \"자포리자 원전 외부 전력 일주일째 끊겨…열흘내 블랙아웃\"",
     "summary": [
-      "폭염인데 배추값 30% 싸졌다…'뜻밖의 상황' 벌어진 까닭 [프라이스&]."
+      "(카이로=연합뉴스) 김상훈 특파원 = 국제원자력기구(IAEA)는 우크라이나 자포리자 원자력발전소(ZNPP)의 외부 전력 공급이 일주일 이상 끊긴..."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "na05c2f35",
+    "id": "na6bffc4b",
     "category": "사회",
-    "source": "동아일보",
-    "time": "2시간 전",
-    "url": "https://www.donga.com/news/Inter/article/all/20260829/134568203/1",
-    "title": "“美국방, 차기 대선 출마 검토”…헤그세스 “100% 거짓”",
+    "source": "연합뉴스",
+    "time": "1시간 전",
+    "url": "https://www.yna.co.kr/view/AKR20260830001000004",
+    "title": "네팔 신속대응팀 \"두차례 헬기 수색, 실종자 관련 성과 없어\"",
     "summary": [
-      "피트 헤그세스 미국 국방 장관이 2028년 미국 대통령 선거 출마 가능성을 비공개적으로 논의하고 있다고 28일(현지 시간) 미국 NBC 방송이 보도했다.NBC는 복수의 소식통을 인용해 헤그세스 장관 부부가 지난 몇 달 동안 지인들에게 차기 대권 도전 가능성을 시사했다고 전했다.헤그세스 장관은 도널드 트럼프 미국 대통령의 ‘마가(MAGA·미국을 다시 위대하게)’ 지지층을 사로잡을 만한 여러 면모를 갖췄다고 보는 것으로 알려졌다."
+      "(서울=연합뉴스) 정윤주 기자 = 네팔 대규모 홍수로 실종된 한국인 9명을 수색하기 위해 정부 합동 신속대응팀이 임차한 민간 헬기가 29일(현지..."
     ],
     "chips": [
-      "#정치"
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nd81897b1",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "1시간 전",
+    "url": "https://www.yna.co.kr/view/AKR20260830001400527",
+    "title": "전북 정읍·진안에 호우주의보…전주 등 9곳 호우주의보 유지",
+    "summary": [
+      "(전주=연합뉴스) 기상청은 30일 오전 1시 20분을 기해 전북 정읍·진안에 호우주의보를 발효한다고 밝혔다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n374a0a82",
+    "category": "경제",
+    "source": "한국경제",
+    "time": "2시간 전",
+    "url": "https://www.hankyung.com/article/2026082645667",
+    "title": "[오늘의 운세] 2026년 8월 30일 별자리 운세",
+    "summary": [
+      "[오늘의 운세] 2026년 8월 30일 별자리 운세."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n131f2ea4",
+    "category": "경제",
+    "source": "한국경제",
+    "time": "2시간 전",
+    "url": "https://www.hankyung.com/article/2026081744737",
+    "title": "[오늘의 운세] 오늘 뭐 먹지?…8월 30일 띠별 추천 점심메뉴",
+    "summary": [
+      "[오늘의 운세] 오늘 뭐 먹지?…8월 30일 띠별 추천 점심메뉴."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nb523e8c4",
+    "category": "경제",
+    "source": "한국경제",
+    "time": "2시간 전",
+    "url": "https://www.hankyung.com/article/2026082645937",
+    "title": "[오늘의 운세] 2026년 8월 30일 오행별 행운의 컬러",
+    "summary": [
+      "[오늘의 운세] 2026년 8월 30일 오행별 행운의 컬러."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n51766cdd",
+    "category": "경제",
+    "source": "한국경제",
+    "time": "2시간 전",
+    "url": "https://www.hankyung.com/article/2026082889397",
+    "title": "[오늘의 운세] 8월 30일 띠별 운세",
+    "summary": [
+      "[오늘의 운세] 8월 30일 띠별 운세."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n26f63d78",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "3시간 전",
+    "url": "https://www.donga.com/news/Society/article/all/20260829/134568216/1",
+    "title": "몽골 ‘이태준’에서 시베리아 고려인까지…철길 따라 마주한 역사 흔적",
+    "summary": [
+      "‘7시간 45분.’시베리아의 긴 철길을 달려온 열차가 이르쿠츠크에 멈췄다.",
+      "광명에서 출발해 몽골을 지나 러시아 국경을 넘은 뒤 시베리아횡단열차에 몸을 실은 ‘유라시아 평화레일 광명원정대’가 25일 오후 마침내 이르쿠츠크에 도착했다.긴 여정 끝에 원정대가 만난 사람은 이곳에 뿌리를 내리고 살아가는 고려인 동포.",
+      "이르쿠츠크에는 현재 1000~1500명의 고려인이 거주하는 것으로 알려져 있다."
+    ],
+    "chips": [
+      "#뉴스"
     ]
   }
 ];
@@ -636,20 +636,20 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2720건",
-    "trend": "+315%"
+    "mentions": "2590건",
+    "trend": "+295%"
   },
   {
     "rank": 2,
     "tag": "AI",
-    "mentions": "1810건",
-    "trend": "+175%"
+    "mentions": "2070건",
+    "trend": "+215%"
   },
   {
     "rank": 3,
-    "tag": "엔비디아",
-    "mentions": "1550건",
-    "trend": "+135%"
+    "tag": "KBO",
+    "mentions": "1680건",
+    "trend": "+155%"
   }
 ];
 // ====AUTO-GENERATED-END====
