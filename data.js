@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-08-29 20:34:15
+// 마지막 업데이트: 2026-08-29 22:55:20
 window.NEWS_DB = [
   {
     "id": "n2837a332",
     "category": "IT",
     "source": "시사저널e",
-    "time": "19시간 전",
+    "time": "21시간 전",
     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFB4dzhxbVFpRmdLZUJja1NZRnZxemxzS3pVUUdyUlhiN1VzenVKMy1TWGJCb0o0ck80Y21LMU5sSTAtNDFQWnc3UGRpOHQ1cU9JZFhvU1JnZXY3OUhybGgwZ0VvN1hvdzh1LUExZ3VzS0FEZ9IBdkFVX3lxTE9waC12TS1qSHl5ajNfN2RJOFFxMWJjai1QLXBHTktvZ0Y2RFdRbmt0Q2ZXRmRHOWpMc2J1LWozTXJEU215WmpBM3o1a2xVdXVxbUFFVFBiTmZnNEkzUmhiY2pLYVNQTF9uekcwd1ZWSEZHbGFCbHc?oc=5",
     "title": "반도체부터 로봇까지···삼성·SK·현대차, 美에 뭐 짓나",
     "summary": [
@@ -95,14 +95,14 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n5cb06faa",
+    "id": "n058ac370",
     "category": "IT",
     "source": "v.daum.net",
     "time": "5일 전",
-    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE4yN1E3WGhHSUJ5N2dBdkZpc292QUVSMF95ajVBUWtKU3ltM3ZCSndzakY1amZtR2FsMW9xd0I0bEJQT0RNaGhnOXVCTERvRDdCSmFlMA?oc=5",
-    "title": "삼성은 '두뇌' 키우고, SK는 초고적층 쌓는다…HBM 승부처 '설계·패키징'으로",
+    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9lMkp1Um10bi1zeng5NndtM0dBTGU1WUFQS1BsTFZ0UHhhNTh0eWdydFMwa1ZFNEJJRVNVNG92OU1jRzhKYlBrUGhBa0tEeF9Nd1dUZQ?oc=5",
+    "title": "삼성 '연산' vs SK '20단 적층'… 차세대 HBM 승부처는 '설계·패키징'",
     "summary": [
-      "삼성은 '두뇌' 키우고, SK는 초고적층 쌓는다…HBM 승부처 '설계·패키징'으로 v.daum.net."
+      "삼성 '연산' vs SK '20단 적층'… 차세대 HBM 승부처는 '설계·패키징' v.daum.net."
     ],
     "chips": [
       "#반도체"
@@ -154,6 +154,20 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n9623a72b",
+    "category": "스포츠",
+    "source": "네이트",
+    "time": "16일 전",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1VWFlLQnJmRU9nMzY0WDNmaWFVOWktSFltNzMzV0dYcFhDQjEzcjJxUlVoYVpQczVSNWR6VHdMcDV3aHBYWi1vcWFIb3Jad2kzQWRYZ0VnbWQzS0NEVHR6Mg?oc=5",
+    "title": "평일에도 뜨거운 KBO리그",
+    "summary": [
+      "평일에도 뜨거운 KBO리그 네이트."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
     "id": "n1a764c5a",
     "category": "부동산",
     "source": "뉴스핌",
@@ -165,6 +179,20 @@ window.NEWS_DB = [
     ],
     "chips": [
       "#부동산"
+    ]
+  },
+  {
+    "id": "n938b1e1b",
+    "category": "스포츠",
+    "source": "Chosunbiz",
+    "time": "64일 전",
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNZFRMRlVEay1McU5IYVpONmxVb2Z0UDRPY3ZYLVVhdnhKc1JCaUtmOGN3Q2RtZ0pidFp5U1NkMVVEYktoSXJyV1VWX1c5SDBSbVF2QXZQYmZYMUlUa0tsdVFRaThDT3MzckFOV2RCTzdxYWI5clVkRzA0elhkOG9DM1NVd9IBlwFBVV95cUxNdmhIRFh3dTRMRkZXXzFkb3ZnRDU1OW54dEotYUR2ZUZmYWh4WGtuVEs1WjZ0QlZWYUZaYThlY0Y4dk9mSHVJaS13X29FdFV2LUQ2LVdlUksxRWowX1dtZ3ZSZ3F6RG1Lbm9QdV9kZkZhdDh5aHJtc3RaZ1ZPNEt1Q3F5d083enhYOFJLWHppbF9CcE5BWF80?oc=5",
+    "title": "남아공전 0-1 패배 대참사, 축구 박지성은 작심 비판…‘KBO 최초’ 박지성은 뭐라고 했을까 - 조선비즈",
+    "summary": [
+      "남아공전 0-1 패배 대참사, 축구 박지성은 작심 비판…‘KBO 최초’ 박지성은 뭐라고 했을까 - 조선비즈 Chosunbiz."
+    ],
+    "chips": [
+      "#KBO"
     ]
   },
   {
@@ -241,34 +269,6 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n783ebe44",
-    "category": "스포츠",
-    "source": "테크M",
-    "time": "150일 전",
-    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4zeE1CWFFHZzZrMjhfLXJoWERMeW9jVzI5eF91RWV1NUxXelFvT1U5YWpyRjZaQ1NqclNTR1hoRWEwYl9qQmc4WTh5Q29TSWROU3ptQ1ZmXy1rajBVczZ1T1A0RXZ0UdIBakFVX3lxTE4tUUs3ak9IVFI3ZEtUQmg5NUpZbWRwdUN5OEFTU2JqaWN4WWJzMVJVc0pLU1U0UzVZTkRKMlRZSUIyNmhPVjVWMzBTVGxocHc2VUdVZl9rRWdUaXVxTjFSdUpzTzFPdEZHdnc?oc=5",
-    "title": "'야구·축구·골프'로 갈라진 국내 OTT...스포츠 팬덤 경쟁 격화",
-    "summary": [
-      "'야구·축구·골프'로 갈라진 국내 OTT...스포츠 팬덤 경쟁 격화 테크M."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
-    "id": "n4a365471",
-    "category": "스포츠",
-    "source": "v.daum.net",
-    "time": "174일 전",
-    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1ZbDRsNzJDT3JrUU5UZ1dGREM0RndpdFlCUlFsbHhTbXNaWUtzTFpDeV9lRkw0ZnViblc3Qlh2Y055by1WWVVPZVpUR3Jpd2s?oc=5",
-    "title": "\"장보기만으로 부족\"…이커머스, 야구·축구 스포츠 중계도 나서",
-    "summary": [
-      "\"장보기만으로 부족\"…이커머스, 야구·축구 스포츠 중계도 나서 v.daum.net."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
     "id": "nbc27bc5a",
     "category": "IT",
     "source": "연합뉴스",
@@ -312,10 +312,40 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n5718f702",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "2분 전",
+    "url": "https://www.newsis.com/view/NISX20260830_0003768103",
+    "title": "부산 고등학교 옹벽 일부 붕괴…집중호우 탓 추정",
+    "summary": [
+      "[부산=뉴시스]김민지 기자 = 부산의 한 고등학교 옹벽 일부가 무너지는 사고가 발생했다.",
+      "30일 부산시, 부산소방재난본부에 따르면 지난 29일 오후 7시40분께 사하구의 한 고등학교에 설치된 옹벽 구조물 일부가 붕괴했다.",
+      "소방은 119신고를 받고 현장에 출동해 통제선 설치 등 안전 조치를 한 뒤 관할 구청과 교육청에 사안을 인계했다."
+    ],
+    "chips": [
+      "#교육"
+    ]
+  },
+  {
+    "id": "nc521eb06",
+    "category": "스포츠",
+    "source": "동아일보",
+    "time": "2분 전",
+    "url": "https://www.donga.com/news/Sports/article/all/20260830/134568398/1",
+    "title": "‘6경기 무득점’ LAFC 손흥민, DC유나이티드전 선발 출격",
+    "summary": [
+      "한국 남자 축구 대표팀 ‘주장’ 손흥민(34·로스앤젤레스FC)이 DC유나이티드전에서 6경기 무득점 탈출에 나선다.로스앤젤레스FC(LAFC)는 30일 오전 8시30분(한국 시간) 미국 워싱턴 DC 아우디필드에서 DC유나이티드와 미국 프로축구 메이저리그사커(MLS) 2026시즌 정규리그 원정 경기를 갖는다.LAFC는 현재 서부 콘퍼런스 3위(승점 35)로, 1위 밴쿠버 화이트캡스(승점 40)와는 승점 5 차다.선두 추격은 물론 중위권의 추격을 뿌리."
+    ],
+    "chips": [
+      "#손흥민"
+    ]
+  },
+  {
     "id": "n27b02747",
     "category": "IT",
     "source": "테크M",
-    "time": "방금 전",
+    "time": "5분 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=154752",
     "title": "[글로벌] AI발 사이버 공격에 공동 대응 필요...글로벌 기업 100여곳 공개서한에 서명",
     "summary": [
@@ -330,7 +360,7 @@ window.NEWS_DB = [
     "id": "n1e7f647e",
     "category": "IT",
     "source": "테크M",
-    "time": "방금 전",
+    "time": "6분 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=154751",
     "title": "[글로벌] 엔비디아, 정치자금 모금기구 설립...선거 앞두고 AI 규제 적극 대응",
     "summary": [
@@ -348,7 +378,7 @@ window.NEWS_DB = [
     "id": "n35a9c68a",
     "category": "IT",
     "source": "테크M",
-    "time": "방금 전",
+    "time": "8분 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=154750",
     "title": "[글로벌] 구글, 영국 집단 소송에 2억6000만파운드로 합의",
     "summary": [
@@ -360,270 +390,243 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "ncc865bae",
-    "category": "스포츠",
-    "source": "머니투데이",
-    "time": "3분 전",
-    "url": "https://www.mt.co.kr/sports/2026/08/30/2026082914264671499",
-    "title": "'모든 걸 내려놓자 ERA 0.00' 개막부터 센세이션 롯데 루키, 무엇이 달라졌나 \"잘해도 못해도 전 신인이잖아요\" [인터뷰]",
+    "id": "n8ce1caf4",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "10분 전",
+    "url": "https://www.chosun.com/entertainments/broadcast/2026/08/30/MI3GEYTCMZRDSNRQGU3DMMRQMY/",
+    "title": "‘요요’ 강재준, 子 향한 간절한 바람 “제발 엄마 피지컬 닮길”",
     "summary": [
-      "개막 한 달 만에 신인왕 후보로 떠올랐던 롯데 자이언츠 박정민(23)이 자신을 짓눌렀던 기대를 내려놓자 다시 마운드에서 웃기 시작했다.",
-      "박정민은 지난 6월 29일 프로 입단 후 처음으로 1군 엔트리에서 말소됐다.",
-      "개막 엔트리에 포함돼 줄곧 1군을 지켰던 신인에게 처음 찾아온 재정비 시간이었다."
+      "[OSEN=강서정 기자] 코미디언 강재준이 아들을 향해 강한 바람을 내비쳤다.",
+      "강재준은 지난 28일 자신의 소셜미디어에 “현조 제발엄마 피지컬 닮길.",
+      "저기가 어떻게 손이 닿는거지”라고 했다.이와 함께 공개한 영상에서 강재준 아내 이은형이 운동을 하다 철봉에 매달렸는데, 큰 키로 높은 철봉도 손쉽게 매달리는 모습이다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n7f8805d4",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "10분 전",
+    "url": "https://www.newsis.com/view/NISX20260830_0003768098",
+    "title": "익산 미륵사지, 내달 4일 '국가유산 미디어아트' 개막",
+    "summary": [
+      "[익산=뉴시스]고석중 기자 = 전북 익산시는 오는 9월4일 유네스코 세계유산 미륵사지 일원에서 첨단 정보통신기술(ICT)을 융합한 '2026 국가유산 미디어아트 익산 미륵사지' 개막식을 열고 본격적인 운영에 돌입한다.",
+      "개막식은 당일 오후 7시30분 익산시립무용단의 융복합 축하 공연으로 막을 올린다.",
+      "이어 핵심 콘텐츠인 '재탄생(Reborn): 목탑의 귀환' 등 라이트쇼가 펼쳐진다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n983a8e0d",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "11분 전",
+    "url": "https://www.chosun.com/entertainments/broadcast/2026/08/30/MJRWKOJVMM4WCNDGMJQWGNZZG4/",
+    "title": "'시누이들 때문에 못 살까 걱정 받은' 미르 아내, 고은아에 안 밀리네 “시가에서 난리치는 며느리”",
+    "summary": [
+      "방송 시청 후 작성된 리뷰 기사입니다.[OSEN=임혜영 기자] 미르의 아내가 남다른 텐션을 뽐냈다.29일 채널 ‘방가네’에는 ‘시댁 가서 밥 달라고 난리치는 며느리ㅋㅋㅋㅋㅋ 누가 내가 미안’이라는 영상이 게재됐다.미르와 아내는 시가를 찾아갔다.",
+      "이들 부부는 고은아에게 밥을 해달라고 요구했고, 미르의 아내는 고은아 못지않은 텐션을 자랑해 고은아와 큰누나를 지."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n5050d0ee",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "12분 전",
+    "url": "https://www.chosun.com/sports/baseball/2026/08/30/MY2GKYTDHE2GKNDFGBTDEMRTGY/",
+    "title": "'복귀 후 ERA 18.56 폭등' 정우주 이대로 괜찮을까…국가대표 파이어볼러, 고난의 2년 차 시즌",
+    "summary": [
+      "[OSEN=대전, 조은혜 기자] 프로야구 한화 이글스 정우주가 부상을 털고 1군 마운드에 돌아왔지만, 복귀 후 기대했던 모습을 좀처럼 보여주지 못하고 있다.정우주는 29일 대전 한화생명 볼파크에서 열린 2026 신한 SOL KBO리그 NC 다이노스와의 홈경기에서 한화의 8번째 투수로 등판했으나 1이닝 3피안타(1피홈런) 1사사구 1탈삼진 3실점(2자책점)으."
     ],
     "chips": [
       "#KBO"
     ]
   },
   {
-    "id": "ncd5f1ccc",
+    "id": "nb57e00c1",
     "category": "사회",
-    "source": "조선일보",
-    "time": "9분 전",
-    "url": "https://www.chosun.com/economy/startup_story/2026/05/20/INW3HUHHWVF3XMHVSOHOKTPZKY/",
-    "title": "혈당·혈행·혈압 3중 관리 ‘코큐텐’ 3개월 분 1만원대 초특가",
-    "summary": [
-      "혈당·혈행·혈압 3중 관리 ‘코큐텐’ 3개월 분 1만원대 초특가."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n97605d14",
-    "category": "경제",
-    "source": "뉴시스",
-    "time": "9분 전",
-    "url": "https://www.newsis.com/view/NISX20260830_0003768070",
-    "title": "임현식 \"25년간 잊고 있던 조선업 주식, 만원에 샀는데…\"",
-    "summary": [
-      "[서울=뉴시스]이재훈 기자 = 배우 임현식(81)이 뼈아픈 주식 투자 일화를 털어놨다.",
-      "임현식은 29일 방송된 MBN 예능 프로그램 '김주하의 데이앤나잇'에 배우 황석정과 함께 게스트로 출연해 자신의 투자 실패담을 전했다.",
-      "이날 임현식은 \"25년 전 조선업 주식을 사놓고 잊고 지내다 신문을 보니 만 원에 산 게 2500원이 돼 있더라\"며 4분의 1 토막 난 첫 투자를 회상했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n0de76b94",
-    "category": "스포츠",
-    "source": "머니투데이",
+    "source": "연합뉴스",
     "time": "12분 전",
-    "url": "https://www.mt.co.kr/sports/2026/08/30/2026083004222399977",
-    "title": "'시즌 1호 도움' 이강인, '마법 킬패스' 펼쳐졌다... 아틀레티코, 4분 만에 선제골! 세비야에 3-0 리드 (전반 종료)",
+    "url": "https://www.yna.co.kr/view/AKR20260830007600051",
+    "title": "부산 수돗물 절반 공급 송수관 누수…31일부터 긴급보수",
     "summary": [
-      "아틀레티코 마드리드 공격수 이강인(25)이 환상적인 킬패스로 시즌 1호 도움을 올렸다.",
-      "아틀레티코는 오는 30일 오전 4시30분(한국 시간) 스페인 세비야의 에스타디오 라몬 산체스 피스후안에서 열린 세비야와의 2026~2027시즌 라리가 3라운드 원정에서 전반 종료 결과 3-0으로 앞서있다.",
-      "디에고 시메오네 감독이 이끄는 아틀레티코는 4-4-2 포메이션을 가동했다."
+      "(부산=연합뉴스) 차근호 기자 = 부산지역 수돗물 공급량의 절반 이상을 담당하는 대형 송수관에서 누수가 발생해 부산시가 긴급 보수공사에 들어간다..."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n46ce88dc",
+    "id": "n08a88dfb",
     "category": "스포츠",
-    "source": "조선일보",
-    "time": "12분 전",
-    "url": "https://www.chosun.com/sports/world-football/2026/08/30/GNRWGNDGGA3TMYRSMM3DGZBZGU/",
-    "title": "'바에나 멀티골+이강인 1호 AS' ATM, 세비야 원정서 전반 3-0 리드 [전반종료]",
-    "summary": [
-      "[OSEN=정승우 기자] 이강인(26, 아틀레티코 마드리드)의 시즌 1호 어시스트가 폭발했다.",
-      "동료 알렉스 바에나는 전반전에만 2골을 넣으면서 3-0 리드에 앞장섰다.아틀레티코 마드리드는 30일(한국시간) 스페인 세비야의 에스타디오 라몬 산체스 피스후안에서 세비야와 2026-2027시즌 라리가 3라운드 원정 경기를 치르고 있다.",
-      "전반전은 아틀레티코의 3-0."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n5ba193bc",
-    "category": "사회",
     "source": "뉴시스",
     "time": "14분 전",
-    "url": "https://www.newsis.com/view/NISX20260830_0003768072",
-    "title": "경남대표, 전국학생과학발명품경진대회 22편 입상…최고 성적",
+    "url": "https://www.newsis.com/view/NISX20260830_0003768094",
+    "title": "'시즌 1호 도움' 이강인, 세비야전 평점 8 맹활약(종합)",
     "summary": [
-      "[진주=뉴시스] 정경규 기자 = 국립중앙과학관에서 열린 전국학생과학발명품경진대회에 경남 대표로 참가한 학생들이 최우수상 1편을 비롯해 특상, 우수상, 장려상 등 22편이 입상하는 등 최고의 성적으로 전국을 제패했다.",
-      "경남과학교육원은 지난 8월11일 국립중앙과학관에서 열린 제47회 전국학생과학발명품경진대회에서 경남 대표 학생들이 이같은 우수한 성과를 거뒀다고 30일 밝혔다."
+      "[서울=뉴시스] 김진엽 기자 = 한국 남자 축구 대표팀의 주축 자원인 이강인(25·아틀레티코 마드리드)이 세비야와의 스페인 프로축구 프리메라리가 원정 경기서 시즌 1호 도움을 기록했다.",
+      "아틀레티코는 30일 오전 4시30분(한국 시간) 스페인 세비야의 에스타디오 라몬 산체스 피스후안에서 열린 세비야와의 2026~2027시즌 라리가 3라운드에서 3-1로 이겼다.",
+      "개막 3경기 무패(2승1무)를 달린 아틀레티코는 리그 단독 선두에 자리했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n8aa9352c",
+    "category": "스포츠",
+    "source": "동아일보",
+    "time": "15분 전",
+    "url": "https://www.donga.com/news/Society/article/all/20260830/134568375/1",
+    "title": "주차 시비로 이웃과 언쟁하다 흉기까지…50대 남성 형사 입건",
+    "summary": [
+      "주차 시비 끝에 흉기 위협을 한 50대 남성이 경찰에 붙잡혔다.",
+      "경기 성남수정경찰서는 특수협박 혐의로 A 씨를 형사 입건해 조사 중이라고 30일 밝혔다.",
+      "그는 지난 23일 오후 6시 40분께 성남시 수정구 신흥동 주거지 앞에서 이웃주민인 50대 남성 B 씨를 흉기로 위협한 혐의를 받고 있다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n8776b72f",
+    "category": "부동산",
+    "source": "연합뉴스",
+    "time": "17분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260830007400062",
+    "title": "평창서 1t트럭 적재함서 고추건조기 내리던 60대 사망",
+    "summary": [
+      "(평창=연합뉴스) 이재현 기자 = 29일 오후 6시 19분께 강원 평창군 방림면 방림초등학교 인근 주택에서 A(69)씨가 1t 트럭 적재함에서 ..."
     ],
     "chips": [
       "#교육"
     ]
   },
   {
-    "id": "nc39e5f27",
+    "id": "nbfb2af1e",
     "category": "사회",
-    "source": "조선일보",
-    "time": "14분 전",
-    "url": "https://www.chosun.com/national/2026/08/30/ZNEPXXC4NZG5BFID5LVLOGHF5Y/",
-    "title": "[단독] 이태원 특조위, 非운동권 조사국장 ‘찍어내기’ 해임 의혹",
+    "source": "동아일보",
+    "time": "18분 전",
+    "url": "https://www.donga.com/news/Society/article/all/20260830/134568367/1",
+    "title": "경찰, 中 유학생 살해범 지목 장소서 피해자 시신 일부 추가 발견",
     "summary": [
-      "[단독] 이태원 특조위, 非운동권 조사국장 ‘찍어내기’ 해임 의혹."
+      "경찰이 중국인 대학 강사 A 씨(31)에게 살해된 20대 중국인 유학생의 시신 일부를 추가로 수습한 것으로 전해졌다.30일 수사당국 등에 따르면 경북 경산경찰서는 지난 28일부터 형사들을 투입해 A 씨가 시신 유기 장소로 지목한 곳을 함께 돌며 수색을 벌이고 있다.경찰은 지난 29일 A 씨가 지목한 시신 유기 장소에서 피해자의 시신 일부를 발견해 수습한 것으로 알려졌다.경찰은 피해자의 남은 시신을 최대한 수습하기 위해 이날도 수색을 이어갈 방침."
     ],
     "chips": [
-      "#뉴스"
+      "#교육"
     ]
   },
   {
-    "id": "na3c89f98",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "14분 전",
-    "url": "https://www.chosun.com/economy/2026/08/30/Z7OSEFB5SZFALEDCIV764QGDHI/",
-    "title": "“100억 집 서로 바꿉시다”…양도세 폭탄 예고에 강남서 벌어지는 일",
-    "summary": [
-      "“100억 집 서로 바꿉시다”…양도세 폭탄 예고에 강남서 벌어지는 일."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n8b3d7443",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "22분 전",
-    "url": "https://www.newsis.com/view/NISX20260830_0003768069",
-    "title": "경남문화예술회관, 무대시설·조명·음향 등 공연장 체계 개선",
-    "summary": [
-      "[진주=뉴시스] 정경규 기자 = 경남문화예술회관은 올 하반기 본격적인 공연 시즌을 앞두고 대공연장 무대시설 안전점검부터 공연장 조명·음향 장비까지 개선을 완료했다고 30일 밝혔다.",
-      "경남문화예술회관은 공연예술인의 편의와 안전을 높이기 위해 이동식 대기실을 설치하고 대공연장 무대마루를 정비했다.",
-      "이동식 대기실은 공연 상황에 따라 필요한 장소로 옮겨 사용할 수 있다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nb0937477",
+    "id": "n23d59e23",
     "category": "경제",
-    "source": "연합뉴스",
-    "time": "24분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260830003100072",
-    "title": "'침묵' 깨고 '매파 본능' 드러낸 워시…\"9월 행동이 시험대\"",
+    "source": "동아일보",
+    "time": "19분 전",
+    "url": "https://www.donga.com/news/Economy/article/all/20260830/134568361/1",
+    "title": "기준금리 3% 시대…은행 예금금리도 ‘연 4%’ 눈앞",
     "summary": [
-      "(뉴욕=연합뉴스) 임수정 특파원 = 케빈 워시 연방준비제도(Fed·연준) 의장이 잭슨홀 연설에서 물가 우려를 전면에 내세우며 취임 후 가장 선명..."
+      "한국은행이 기준금리를 두 달 연속 인상하며 연 3%대로 올리면서 주요 시중은행의 예금 금리도 연 4% 시대를 눈앞에 두고 있다.",
+      "코스피 변동성 확대 속에 증시를 떠난 자금이 은행 예금으로 돌아오는 ‘역(逆) 머니무브’가 본격화하면서 은행권의 수신 경쟁도 한층 치열해질 전망이다.",
+      "30일 은행연합회에 따르면 전국 19개 은행의 1년 만기 정기예금 최고 우대금리는 연 1.90~3.85% 수준이다."
     ],
     "chips": [
-      "#뉴스"
+      "#금리",
+      "#한은"
     ]
   },
   {
-    "id": "n43ec1fd2",
-    "category": "스포츠",
-    "source": "머니투데이",
+    "id": "n600ffcd3",
+    "category": "IT",
+    "source": "아시아경제",
+    "time": "20분 전",
+    "url": "https://view.asiae.co.kr/article/2026083007342505222",
+    "title": "관악구, 직원이 만든 ‘AI 행정 혁신 플랫폼’ 가동",
+    "summary": [
+      "서울 관악구(구청장 박준희)가 별도 예산 투입 없이 직원 자체 역량으로 개발한 인공지능(AI) 내부 소통 플랫폼 '관악 AI 마당'을 개발했다고 30일 밝혔다.'관악 AI 마당'은 직원들이 AI 활용 업무 자동화 프로그램을 공유하고 아이디어를 한곳에 모아 조직 전체로 확산하기 위한 내부 플랫폼이다.",
+      "구가 추진해 온 AI 교육과 챔피언 인증, 직원 동호회, 공모전 등을 통해 쌓은 경험을 실제 행정업무 활용으로 연결하는 역할을 한다."
+    ],
+    "chips": [
+      "#AI",
+      "#교육"
+    ]
+  },
+  {
+    "id": "n01804dfc",
+    "category": "사회",
+    "source": "아시아경제",
+    "time": "22분 전",
+    "url": "https://view.asiae.co.kr/article/2026082809554437481",
+    "title": "\"초등 입학 전 절대 안 돼\"…금지령에 中학부모 불안감 높아진 이유[중국.zip]",
+    "summary": [
+      "편집자주거대하고 복잡한 중국의 경제, 사회, 문화 방면의 재밌는 이야기를 파헤쳐 알짜배기만 쏙쏙 '압축 해제'해 드리는 연재 기획입니다.",
+      "중국 정부가 최근 사회문제로 대두되고 있는 저출생·혼인율 저하의 주범으로 꼽히는 교육비 부담을 줄이기 위해 초등학교 입학 전 선행학습을 금지한다는 내용을 발표했다.",
+      "이같은 내용은 중국 교육부가 몇 년 전부터 강조하고 있지만, 실제 학부모들의 불안감은 좀처럼 사그라들지 않고."
+    ],
+    "chips": [
+      "#교육"
+    ]
+  },
+  {
+    "id": "n809c1733",
+    "category": "사회",
+    "source": "연합뉴스",
     "time": "25분 전",
-    "url": "https://www.mt.co.kr/sports/2026/08/30/2026082914522037198",
-    "title": "160㎞ 던지고도 안우진 치켜세운 곽빈 \"맞대결 뭉클, 여전히 나보다 한 수 위→다음엔 MLB서 붙었으면...\"",
+    "url": "https://www.yna.co.kr/view/AKR20260828171300007",
+    "title": "[아시안게임] 메달 기대주 ⑭펜싱 오상욱·송세라",
     "summary": [
-      "KBO 리그를 대표하는 '1999년생 동갑내기 절친' 두산 베어스 곽빈(27)과 키움 히어로즈 안우진(27)이 사상 첫 정규시즌 선발 맞대결에서 펼친 '동반 160km 광속구쇼'는 그 자체로 한국 야구의 역사였다.",
-      "하지만 경기 후 마주한 승자 곽빈의 시선은 자신의 신기록이나 승패가 아닌, 같은 길을 걸어온 오랜 친구를 향한 진심 어린 존경으로 향해 있었다.",
-      "29일 잠실야구장에서 펼쳐진 키움과의 맞대결에서 곽빈은 1회초부터 전광판을 뜨겁게 달궜다."
+      "(서울=연합뉴스) 최송아 기자 = 2026 아이치·나고야 아시안게임에서 종합 1위 수성을 노리는 한국 펜싱엔 남녀부 간판스타 오상욱(대전광역시청..."
     ],
     "chips": [
-      "#KBO"
+      "#뉴스"
     ]
   },
   {
-    "id": "n56c1caa5",
+    "id": "n786e1cec",
     "category": "사회",
     "source": "연합뉴스",
-    "time": "29분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260829045500001",
-    "title": "막 오르는 정기국회…여야, 100일간 입법·예산 전쟁 돌입",
+    "time": "25분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260828109800054",
+    "title": "전남광주시 통합지원금 정책분야별 계정 운용 검토",
     "summary": [
-      "(서울=연합뉴스) 김정진 권희원 조다운 오규진 기자 = 100일간의 입법·예산 전쟁이 오는 1일 막을 올린다."
+      "(전남광주=연합뉴스) 박철홍 기자 = 전남광주통합특별시가 정부의 최대 20조원 통합재정지원금을 자체 기금에 담아 정책 분야별 계정으로 나눠 운용..."
     ],
     "chips": [
-      "#정치"
+      "#정책"
     ]
   },
   {
-    "id": "n08817070",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "31분 전",
-    "url": "https://www.newsis.com/view/NISX20260829_0003767759",
-    "title": "\"야!\" 퇴근길 봉변…영상 올리자 회사가 \"내려달라\"",
+    "id": "nf5e77316",
+    "category": "경제",
+    "source": "아시아경제",
+    "time": "25분 전",
+    "url": "https://view.asiae.co.kr/article/2026082712420698101",
+    "title": "8월만 되면 연예인이 뛴다…폭염에 100㎞ 마라톤 [日요일日문화]",
     "summary": [
-      "[서울=뉴시스]장인혜 인턴 기자 = 퇴근길에 낯선 남성들에게 욕설을 들었다는 시민이 당시 상황을 공개하자, 상대방의 회사 측에서 영상 삭제를 요청한 사연이 전해졌다.",
-      "지난 28일 JTBC '사건반장'에 따르면, 제보자는 지난 25일 오후 10시40분께 서울 역삼역 인근에서 귀가를 준비하던 중 한 중년 남성에게 갑자기 \"야!\"라는 말을 들었다고 주장했다.",
-      "제보자가 바라보자 술에 취한 것으로 보이는 남성 2명이 웃고 있었고, 이후 이들이 다가와 시."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nbcc99d93",
-    "category": "부동산",
-    "source": "머니투데이",
-    "time": "33분 전",
-    "url": "https://www.mt.co.kr/estate/2026/08/30/2026082814060265806",
-    "title": "[분양캘린더] 9월 첫주 전국 3713가구 분양…시티오씨엘9단지 등 청약",
-    "summary": [
-      "다음주 전국 3개 단지에서 총 3713가구가 분양에 나선다.",
-      "30일 부동산R114에 따르면 9월 첫째주 전국 3개 단지에서 총 3713가구가 분양을 시작한다.",
-      "이 가운데 일반분양 물량은 2387가구다."
-    ],
-    "chips": [
-      "#부동산"
-    ]
-  },
-  {
-    "id": "n0470d6f1",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "34분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260829044500001",
-    "title": "이준석 사퇴에 갈길 잃은 개혁신당…일각서 자진 해산 전망까지",
-    "summary": [
-      "(서울=연합뉴스) 권희원 조다운 이율립 기자 = 새로운 보수를 표방하는 개혁신당이 창당 3년 만에 길을 잃으면서 사실상 자연 소멸의 위기를 맞고..."
+      "러너들에게 여름은 정말 잔인한 계절이죠.",
+      "이때 많이 뛰어야 기록이 좋아진다고 하는데 말입니다.",
+      "해가 지고 나서 뛰어도 항상 땀 범벅으로 집에 돌아오는데요."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n8c8fde30",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "52분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260830003300527",
-    "title": "달성 북부·대구시 중부에 호우주의보",
+    "id": "n15fd4d7c",
+    "category": "경제",
+    "source": "아시아경제",
+    "time": "28분 전",
+    "url": "https://view.asiae.co.kr/article/2026083007263597179",
+    "title": "성동구, 내달 2~10일 17개 동서 주민총회",
     "summary": [
-      "(대구=연합뉴스) 기상청은 30일 오전 4시 35분을 기해 달성 북부·대구시 중부에 호우주의보를 발효한다고 밝혔다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "na840887f",
-    "category": "IT",
-    "source": "ZDNet Korea",
-    "time": "2시간 전",
-    "url": "https://zdnet.co.kr/view/?no=20260830031013",
-    "title": "2026 중국 국제 빅데이터 산업 박람회, 구이양에서 개막",
-    "summary": [
-      "[지디넷코리아]구이양, 중국 2026년 8월 30일 /PRNewswire/ -- 구이저우 일보(Guizhou Daily)의 보도: China International Big Data Industry Expo 2026 opens in Guiyang 2026 중국 국제 빅데이터 산업 박람회(2026 China International Big Data Industry Expo)가 8월 28일 중국 남서부 구이저우성의 성도 구이양에서 공식 개막했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n22389f20",
-    "category": "IT",
-    "source": "ZDNet Korea",
-    "time": "2시간 전",
-    "url": "https://zdnet.co.kr/view/?no=20260830031003",
-    "title": "시리아, 마스터카드와 QNB 그룹 통해 15년여 만에 첫 국제 카드 결제 처리",
-    "summary": [
-      "[지디넷코리아] 이번 결제는 시리아 결제 생태계가 마스터카드 글로벌 네트워크에 재연결된 이후 이뤄져 첫 결제 완료로 시리아에서 국제 카드 결제 수용의 길 열려 다마스쿠스, 시리아, 2026년 8월 30일 /PRNewswire/ -- 마스터카드(Mastercard)와 QNB 그룹(QNB Group)이 시리아에서 15년여 만에 처음으로 국제 카드 결제를 처리하며 시리아 결제 생태계 현대화에 중요한 이정표를 세웠다.",
-      "시리아 결제 생태계가 마스터카드의."
+      "서울 성동구(구청장 유보화)가 주민이 직접 동네에 필요한 사업을 제안하고 결정하는 '2026년 주민총회'를 9월 2일부터 10일까지 관내 17개 동 주민센터 등에서 순차적으로 연다고 30일 밝혔다.주민총회는 해당 동에 거주하거나 주소를 둔 주민 누구나 참여해 내년도 자치사업과 주민참여예산 사업을 공유하고 최종 결정하는 자리다.",
+      "주민들은 최종 투표를 통해 지역 현안 해결을 위한 주민참여예산 사업의 우선순위를 확정하게 된."
     ],
     "chips": [
       "#뉴스"
@@ -636,14 +639,14 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2720건",
-    "trend": "+315%"
+    "mentions": "2200건",
+    "trend": "+235%"
   },
   {
     "rank": 2,
     "tag": "AI",
-    "mentions": "1810건",
-    "trend": "+175%"
+    "mentions": "1940건",
+    "trend": "+195%"
   },
   {
     "rank": 3,
