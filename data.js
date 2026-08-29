@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-08-28 19:45:47
+// 마지막 업데이트: 2026-08-29 02:35:33
 window.NEWS_DB = [
   {
     "id": "n72aaa12e",
     "category": "IT",
     "source": "한겨레",
-    "time": "12시간 전",
+    "time": "19시간 전",
     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBNdzR5ZUZ0REpCTFRrTkNRbjRKX0tBdEpyaVlScXhnbGdteFJSZ2FiTTZKOU9tcWRsVXFEcUpNeHB2eWNVRHVFdGdYRlZiZ19FaW5MWWhIMVdkcGVsSXZSb1FZXzJTcnpCTGc?oc=5",
     "title": "엔비디아도 걱정하는 ‘메모리 병목’…삼전닉스 ‘양날의 칼’",
     "summary": [
@@ -19,7 +19,7 @@ window.NEWS_DB = [
     "id": "n682736d1",
     "category": "IT",
     "source": "S저널",
-    "time": "14시간 전",
+    "time": "21시간 전",
     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE01d2FEQjMtc2g1T0JhVi1nemd2R1BIdlNWbTA0WS1tZ25tT0M0MnJLS0x4NkgyLVpRQlhaLWs5N0VGVkgzQTVPa1NtSnZRNUIxRGpQdlhUQUJERk50NzBkU1V1bjVfLXFIWmtnQ1RB?oc=5",
     "title": "[S-이슈] 엔비디아 밖에서 열린 ‘HBM 제2전선’… 삼성전자, 오픈AI 타고 SK하이닉스 추격 공식 바꾼다",
     "summary": [
@@ -33,39 +33,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nf8c06292",
-    "category": "IT",
-    "source": "조선일보",
-    "time": "15시간 전",
-    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQcGotaUNQTUdBTDM0b2djN01NYk9oOTZrWUVSWEdMbEh4YS1nUWtQWW9ZS0hlcVRKOUtiZm10RDFYUnk3UjQyT0ZNQWpydERwdWRZakhLLU0zN3V0V1ByVDdfQ0pETElUTmVpNWNNYzhxZ3owbmFEQjJZQUdudlhfcDVQZ2twNWZ0Nmtz?oc=5",
-    "title": "잘 나가는 엔비디아…라이벌 AMD가 따라잡을까?",
-    "summary": [
-      "잘 나가는 엔비디아…라이벌 AMD가 따라잡을까? 조선일보."
-    ],
-    "chips": [
-      "#엔비디아"
-    ]
-  },
-  {
-    "id": "n2e2880f8",
-    "category": "IT",
-    "source": "뉴시스",
-    "time": "18시간 전",
-    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1FYWtIUVFIdTFJSC0tVUcwNHc0WHhzb3l6UDBObUZvV2I5Q3pYREt5Q0hnMGt5SXhlQTFfVUUxYmxkYVFYbnNZb0NzNUxRazhrSWthbHBLM3pNdXJGLXBWRjA2ZEFhNEdCTXBIb25TaDhUWkk1WWVGLdIBeEFVX3lxTE1FYWtIUVFIdTFJSC0tVUcwNHc0WHhzb3l6UDBObUZvV2I5Q3pYREt5Q0hnMGt5SXhlQTFfVUUxYmxkYVFYbnNZb0NzNUxRazhrSWthbHBLM3pNdXJGLXBWRjA2ZEFhNEdCTXBIb25TaDhUWkk1WWVGLQ?oc=5",
-    "title": "SK하이닉스 '첫 삽' 이어 삼성은 곧 '가동'…韓반도체, '美전초기지'로 빅테크 밀착",
-    "summary": [
-      "SK하이닉스 '첫 삽' 이어 삼성은 곧 '가동'…韓반도체, '美전초기지'로 빅테크 밀착 뉴시스."
-    ],
-    "chips": [
-      "#반도체",
-      "#SK하이닉스"
-    ]
-  },
-  {
     "id": "n763642f2",
     "category": "IT",
     "source": "아이뉴스24",
-    "time": "18시간 전",
+    "time": "1일 전",
     "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBXbGU0RnlzWTBJb2xmZ181WDd1am1xb0VBajQtNFZTbFk3V0prWFppcnYtT1JaTkJuQzRqMnVCTWhKcE1QMmV6VlU2aw?oc=5",
     "title": "SK하이닉스 'ICE·TSMC 협력' vs 삼성 '원스톱·빛'…패키징 격돌",
     "summary": [
@@ -79,7 +50,7 @@ window.NEWS_DB = [
     "id": "n4eba399e",
     "category": "IT",
     "source": "비즈니스포스트",
-    "time": "19시간 전",
+    "time": "1일 전",
     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBtcFVIamRkM0F3aW5aaGhEaEI3Q3BEem9OdVBRVUl0V2xOT3g5N3U0UWNocjlLNmRCQTJXVElhU0tkV2d4NWNjZmJnS0FvNWhjTFpiMGhoelotS1dNVkM3NnU3QjdSQVlSSmM4ZjMxWWpPcnM?oc=5",
     "title": "\"엔비디아 AI 반도체 고객사에 금융지원 프로그램 일부 중단\", 반독점 규제 우려",
     "summary": [
@@ -93,10 +64,25 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n651d3ab9",
+    "category": "IT",
+    "source": "연합뉴스",
+    "time": "2일 전",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5GaEtoYkJoMkwwX1FWMGtnandta2FXZThuVHRZd05fMmxJdlVFcVN3QkVhVVUzWXRJUEZFdlJ5V3R0eHUzVmhfSTF0dGs2Zlltd1RyUThsZzJUdTNvWlJKZdIBYEFVX3lxTE5GaEtoYkJoMkwwX1FWMGtnandta2FXZThuVHRZd05fMmxJdlVFcVN3QkVhVVUzWXRJUEZFdlJ5V3R0eHUzVmhfSTF0dGs2Zlltd1RyUThsZzJUdTNvWlJKZQ?oc=5",
+    "title": "엔비디아, 13분기 연속 매출 신기록…\"AI 변곡점\"",
+    "summary": [
+      "엔비디아, 13분기 연속 매출 신기록…\"AI 변곡점\" 연합뉴스."
+    ],
+    "chips": [
+      "#AI",
+      "#엔비디아"
+    ]
+  },
+  {
     "id": "n244b0da4",
     "category": "사회",
     "source": "경북매일",
-    "time": "2일 전",
+    "time": "3일 전",
     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBYUEFCOVNDZG1rQ3VxRlNlRFJQSDF1aVRMZmxFS09FNWRndks2eEVEVEx1RkQteERzdTJ0WVhXY2JBNUIxVVdBb1NtaU5HS3lRUWxfNFRPQ25YZw?oc=5",
     "title": "경주시시설관리공단-경주시취업지원센터, 지역 일자리 활성화 ‘맞손’",
     "summary": [
@@ -105,6 +91,20 @@ window.NEWS_DB = [
     "chips": [
       "#취업",
       "#고용"
+    ]
+  },
+  {
+    "id": "n5cb06faa",
+    "category": "IT",
+    "source": "v.daum.net",
+    "time": "4일 전",
+    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE4yN1E3WGhHSUJ5N2dBdkZpc292QUVSMF95ajVBUWtKU3ltM3ZCSndzakY1amZtR2FsMW9xd0I0bEJQT0RNaGhnOXVCTERvRDdCSmFlMA?oc=5",
+    "title": "삼성은 '두뇌' 키우고, SK는 초고적층 쌓는다…HBM 승부처 '설계·패키징'으로",
+    "summary": [
+      "삼성은 '두뇌' 키우고, SK는 초고적층 쌓는다…HBM 승부처 '설계·패키징'으로 v.daum.net."
+    ],
+    "chips": [
+      "#반도체"
     ]
   },
   {
@@ -310,317 +310,312 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nfbaed06e",
-    "category": "IT",
-    "source": "테크M",
-    "time": "방금 전",
-    "url": "https://www.techm.kr/news/articleView.html?idxno=154748",
-    "title": "[게임스컴 26] K게임 자존심 높인 김대훤의 에이버튼, 글로벌 시장서 '건즈 앤 드래곤즈' 존재감 ↑",
+    "id": "n6f95af2e",
+    "category": "스포츠",
+    "source": "동아일보",
+    "time": "1분 전",
+    "url": "https://www.donga.com/news/Society/article/all/20260829/134567698/1",
+    "title": "여자축구 심판, 지소연에 ‘예민해, 생리하나봐’ 막말 논란…항의하자 되레 옐로카드",
     "summary": [
-      "김대훤 대표가 이끄는 에이버튼이 독일 쾰른에서 열리고 있는 글로벌 게임 최대 축제 '게임스컴 26' 현장에 B2B 부스를 꾸리고 개발중인 신작 '건즈 앤 드래곤즈'를 글로벌 게이머들에게 선보이고 있다.",
-      "한국 시장을 넘어 북미와 유럽 등 글로벌 시장을 겨냥한 만큼 해외 게임 관계자와 게이머들 앞에서 신작의 게임성을 알리는데 집중하는 모습이었다.",
-      "29일(현지시간) 에이버튼은 게임스컴 26에 마련된 한국공동관에 참가해 신작 '건즈 앤 드래곤즈'를 소."
+      "여자 실업축구 WK리그 경기 도중 심판이 수원FC 위민 소속 지소연(35)을 향해 “얘가 초반부터 예민하다.",
+      "생리하나 봐”라는 취지의 부적절한 발언을 했다는 주장이 제기돼 논란이 일고 있다.수원FC 구단에 따르면 지소연은 경기 중 “얘가 초반부터 예민하다.",
+      "생리하나 봐”라는 취지의 발언을 들었다고 주장했다."
+    ],
+    "chips": [
+      "#고용"
+    ]
+  },
+  {
+    "id": "n74f3e889",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "2분 전",
+    "url": "https://www.newsis.com/view/NISX20260829_0003767768",
+    "title": "\"둥근 밥솥은 잊어라\"…쿠쿠, '사각 디자인' 밥솥 선보여",
+    "summary": [
+      "[서울=뉴시스]전민영 인턴 기자 = 쿠쿠가 기존 밥솥의 둥근 형태에서 벗어난 사각형 디자인의 신제품을 선보이며 주방가전 시장 공략에 나섰다.",
+      "쿠쿠는 '미식컬렉션 마스터셰프 사일런스 큐브'를 출시했다고 밝혔다.",
+      "신제품의 가장 큰 특징은 브랜드 최초로 적용한 사각형 외관이다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n3615860d",
-    "category": "IT",
-    "source": "테크M",
-    "time": "방금 전",
-    "url": "https://www.techm.kr/news/articleView.html?idxno=154747",
-    "title": "[게임스컴 26] 케이팝 스타 루미가 '신라면' 한 젓가락...게이머 일상 속으로 자리매김한 '농심'",
+    "id": "n8296289e",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "5분 전",
+    "url": "https://www.newsis.com/view/NISX20260829_0003767761",
+    "title": "이서진 \"팝만 들어 밤양갱 몰라\" 비비 \"약간 재수 없어\"",
     "summary": [
-      "농심이 독일 쾰른에서 열리고 있는 글로벌 게임 최대 축제 '게임스컴 26' 현장에 대형 부스를 마련하고 게이머들과의 접점을 넓히고 있다.",
-      "게임을 직접 즐기는 공간을 넘어 농심이라는 브랜드를 자연스럽게 경험할 수 있도록 구성해 '게이머의 일상 가까이에 있는 브랜드'라는 이미지를 강조했다.29일(현지시간) 농심은 게임스컴 26에 참가해 넓은 규모의 전용 부스를 운영하고 있다.",
-      "B2C 전시장 8번홀과 외부에 각각 부스를 조성하고 다양한 이벤트를 통해."
+      "[서울=뉴시스] 손정빈 기자 = 배우 이서진이 가수 비비 대표곡 '밤양갱'을 전혀 몰랐다고 했다.",
+      "이서진은 28일 방송한 SBS TV 예능프로그램 '무엇이든 해줄지니-비서진'에서 김광규와 함께 비비 일일 매니저로 나섰다.",
+      "워터밤 무대를 앞두고 이서진과 김광규를 만난 비비는 워터밤에 가는 게 이번이 5번째이며, 이날 총 7곡을 부른다고 했다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n2473c5c7",
+    "id": "n9cac226f",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "7분 전",
+    "url": "https://www.chosun.com/politics/diplomacy-defense/2026/08/29/KIA67H75NZFKNEUPE63DI5FLIQ/",
+    "title": "한·프랑스 국방전략대화… 북러 군사협력에 전략적 공조 강화",
+    "summary": [
+      "한·프랑스 국방전략대화… 북러 군사협력에 전략적 공조 강화."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nc7b8ddd4",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "7분 전",
+    "url": "https://www.chosun.com/national/incident/2026/08/29/PNYSQJ6GFRHW7M5DDQXBMPWGBM/",
+    "title": "마사지 업소에 외국인 24명 불법 고용한 2명 집행유예",
+    "summary": [
+      "마사지 업소에 외국인 24명 불법 고용한 2명 집행유예."
+    ],
+    "chips": [
+      "#고용"
+    ]
+  },
+  {
+    "id": "nb05fcea6",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "10분 전",
+    "url": "https://www.chosun.com/entertainments/broadcast/2026/08/29/GRRWGZRUGA2GEYZVMUYTOMZSGY/",
+    "title": "코드쿤스트, 소식좌는 옛말..가스레인지 화구 3개 동시 가동 '4첩반상'",
+    "summary": [
+      "[OSEN=최이정 기자] MBC ‘나 혼자 산다’ 기안84와 코드쿤스트가 몰라보게 달라진 살림력과 생활 패턴으로 안방극장에 반전의 반전 웃음을 안겼다.29일 시청률 조사 회사 닐슨코리아에 따르면 전날(28일) 방송된 ‘나 혼자 산다’ 가구 시청률은 수도권 기준 5.7%를 기록하며 금요일 예능 프로그램 전체 1위를 차지했다.",
+      "채널 경쟁력을 가늠하는 2054."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nb8b50f9f",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "11분 전",
+    "url": "https://www.chosun.com/entertainments/broadcast/2026/08/29/MUYTGZRWG5RTAYZVMYYDOOJRMI/",
+    "title": "머리·양팔 사라진 불탄 시신…현장 전화번호 주인 정체에 ‘충격’ (‘용형5’)",
+    "summary": [
+      "[스포츠조선 조민정 기자] 머리와 양팔이 훼손된 채 불에 탄 남성의 시신.",
+      "피해자의 신원을 알려줄 단서는 모두 사라진 듯했지만, 현장에 떨어진 전화번호 하나가 완전범죄를 꿈꾼 범인의 덜미를 잡았다.",
+      "지난 28일 방송된 티캐스트 E채널 '용감한 형사들5' 18회에는 원종열 형사와 김문영 법의학자, 박미옥 전 형사, 이호 교수가 출연해 잔혹한 강력 사건의 수사."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n923d51af",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "13분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260829025900062",
+    "title": "동해해경, 기상악화에도 울릉도 응급환자 긴급 이송",
+    "summary": [
+      "(동해=연합뉴스) 양지웅 기자 = 동해해양경찰서는 울릉도에서 발생한 복막염 응급환자를 경비함정으로 긴급 이송했다고 29일 밝혔다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nf12d0878",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "14분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260829024500104",
+    "title": "[네팔 대홍수] 쏟아지는 시신들로 안치실 부족…신원확인 난항",
+    "summary": [
+      "(자카르타=연합뉴스) 손현규 특파원 = 최근 네팔과 중국 국경 히말라야 산악지대에서 발생한 대규모 홍수로 사망자가 급증하면서 시신 안치실이 부족..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nc56532b4",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "15분 전",
+    "url": "https://www.donga.com/news/Society/article/all/20260829/134567677/1",
+    "title": "경찰 보고 줄행랑…음주의심 50대 택시와 충돌 5명 부상",
+    "summary": [
+      "50대 운전자가 경찰을 보고 달아나다가 택시와 부딪쳐 5명이 다쳤다.",
+      "경찰은 이 운전자가 음주운전 도중 경찰을 맞닥뜨리자 도주를 시도했다고 의심하고 있다.29일 경찰에 따르면 이날 새벽 1시40분경 부천시 원미구 중동의 한 사거리에서 50대가 몰던 승용차가 다른 방향에서 정상 신호에 따라 주행하던 택시 측면을 들이받았다.",
+      "이 사고 충격으로 해당 택시는 옆 차선 다른 택시와 충돌했다.이 사고로 운저자를 포함한 각 차량 운전자와 승객 등 5명이 다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "ne0549710",
     "category": "사회",
     "source": "뉴시스",
     "time": "15분 전",
-    "url": "https://www.newsis.com/view/NISX20260828_0003766979",
-    "title": "\"불꽃축제 하루 보려고 600만원?\"…여의도 호텔값 '헉', 명당도 40만원",
+    "url": "https://www.newsis.com/view/NISX20260829_0003767841",
+    "title": "조희대, 31일 법사위 현안질의 불출석…법원행정처장은 출석",
     "summary": [
-      "[서울=뉴시스]김성은 인턴 기자 = 오는 9월 5일 서울 여의도 한강공원 일대에서 열리는 서울세계불꽃축제를 앞두고 온라인상에서 불꽃놀이가 잘 보이는 이른바 '명당' 자리와 숙박시설을 높은 가격에 판매하거나 대여한다는 글이 잇따르고 있다.",
-      "축제 수요가 몰리면서 여의도 일대 호텔 숙박비도 크게 오른 것으로 나타났다.",
-      "28일 중고거래 플랫폼 당근마켓에는 불꽃축제가 잘 보이는 명당 자리를 대여한다는 게시글이 올라왔다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n295a7780",
-    "category": "경제",
-    "source": "뉴시스",
-    "time": "16분 전",
-    "url": "https://www.newsis.com/view/NISX20260829_0003767690",
-    "title": "이란 모즈타바 \"사회 결속 해치는 행위 엄단\"…탈달러화 강조",
-    "summary": [
-      "[서울=뉴시스] 권성근 기자 = 미국이 이란을 겨냥해 '경제적 고립 작전'을 개시한 가운데 이란 최고지도자 세예드 아야톨라 모즈타바 하메네이는 국론 분열을 초래할수 있는 어떤 행위도 용납하지 않겠다고 경고 메시지를 내놨다.",
-      "모즈타바 하메네이는 28일 '정부 주간'을 맞아 텔레그램을 통해 발표한 메시지에서 이같이 말했다.",
-      "이란 국제방송에 따르면 하메네이는 \"사회적 결속을 해치는 어떠한 행위도 금지한다\"며 \"국가와 대중의 사기를 꺾고 낙담하게 만드."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n83cbcdf6",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "31분 전",
-    "url": "https://www.newsis.com/view/NISX20260829_0003767689",
-    "title": "트럼프, 우주사관학교 설립 지시…\"차세대 인력 양성\"",
-    "summary": [
-      "[워싱턴=뉴시스] 이윤희 특파원 = 도널드 트럼프 미국 대통령이 28일(현지 시간) 미국의 우주인력 양성을 위한 우주 사관학교 설치를 지시했다.",
-      "트럼프 대통령은 이날 텍사스주 휴스턴의 존슨 우주센터에서 연설한 후 이러한 행정명령에 서명했다.",
-      "우주는 미국의 국가 안보와 경제 성장, 과학적 발전 및 기술 혁신 등 국가적 이익에 매우 중요한 영역이기에, 아카데미를 설립해 차세대 우주비행사, 과학자, 엔지니아, 기술자, 기업가, 군인 등을 양성한다는."
-    ],
-    "chips": [
-      "#정치",
-      "#교육"
-    ]
-  },
-  {
-    "id": "n89fbda72",
-    "category": "IT",
-    "source": "연합뉴스",
-    "time": "40분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260829005600091",
-    "title": "\"하드웨어의 한국·소프트웨어의 실리콘밸리, AI동맹 맺어야\"",
-    "summary": [
-      "(샌프란시스코=연합뉴스) 권영전 특파원 = 인공지능(AI) 혁명 시대를 맞아 한국과 미국 실리콘밸리가 단순 무역 관계를 넘어 지정학적 기술 동맹..."
-    ],
-    "chips": [
-      "#AI",
-      "#수출"
-    ]
-  },
-  {
-    "id": "n6cd22bca",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "41분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260829005900527",
-    "title": "전북 군산시(옥도면 제외)에 호우주의보",
-    "summary": [
-      "(전주=연합뉴스) 기상청은 29일 오전 4시를 기해 군산시(옥도면 제외)에 호우주의보를 발효한다고 밝혔다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nc945e3fe",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "45분 전",
-    "url": "https://www.chosun.com/economy/economy_general/2026/08/29/GRRWMNZSHE3DGM3FGM2DEZJUMQ/",
-    "title": "[데스크 칼럼] 왜 시장과 싸워 이기려 하나",
-    "summary": [
-      "과거 문재인 정부가 ‘소득주도성장’을 강력하게 밀어붙일 때 한 원로 경제학자는 “정부가 200년 전통이 있는 경제학 원론과 싸우는 정책을 한다”고 했다.",
-      "소득주도성장은 가계 소득을 높이면 소비가 살아나면서 경제가 성장해 다시 가계 소득이 늘어난다는 논리인데, 학계에서는 “마치 마차가 말을 끄는 것으로 선후 관계가 바뀌었다”는 비판이 나왔다."
-    ],
-    "chips": [
-      "#정책"
-    ]
-  },
-  {
-    "id": "n2d00bc67",
-    "category": "IT",
-    "source": "테크M",
-    "time": "56분 전",
-    "url": "https://www.techm.kr/news/articleView.html?idxno=154745",
-    "title": "[게임스컴 26] 쾰른 한복판에서 만난 '아크레이더스'...거대한 리퍼에 관람객 눈길 쏠렸다",
-    "summary": [
-      "넥슨이 서비스하고 있는 '아크레이더스'의 개발사 엠바크 스튜디오가 독일 쾰른에서 열리고 있는 글로벌 최대 게임축제 '게임스컴 26' 현장에 대형 부스를 마련하고 관람객들을 맞이하고 있다.",
-      "아크레이더스 부스에는 신작 시연을 넘어 게임 속 세계관을 직접 체험할 수 있는 만큼 글로벌 관람객들이 대거 몰리며 인산인해를 이루는 모습이다.",
-      "28일(현지시간) 엠바크 스튜디오는 게임스컴 B2C 전시장 6번홀에 아크레이더스 부스를 꾸리고 다양한 콘텐츠 경험을."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "ne873f8dc",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "57분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260829005500079",
-    "title": "이란, 국제사회에 \"美 신규 제재 동참하지 말라\" 촉구",
-    "summary": [
-      "(카이로=연합뉴스) 김상훈 특파원 = 이란은 미국의 새로운 경제 제재를 '국가 테러'이자 '반인륜적 범죄'로 강도 높게 비난하며 국제사회에 제재..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "ne216b55f",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "59분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260829005200071",
-    "title": "\"트럼프, 김정은과 북핵용인·종전·한미훈련 중단 논의할 듯\"",
-    "summary": [
-      "(워싱턴=연합뉴스) 백나리 특파원 = 도널드 트럼프 미국 대통령이 김정은 북한 국무위원장과 회담하게 되면 암묵적 북핵 용인과 종전합의, 한미연합..."
+      "[서울=뉴시스]홍연우 기자 = 조희대 대법원장이 31일 국회 법제사법위원회 현안질의에 불출석한다.",
+      "함께 증인으로 채택된 노경필 법원행정처장은 출석할 예정이다.",
+      "29일 법조계 등에 따르면 조 대법원장은 전날 국회 법사위에 불출석 의견서를 제출했다."
     ],
     "chips": [
       "#정치"
     ]
   },
   {
-    "id": "na979b473",
+    "id": "n679dd120",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "16분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260829025200055",
+    "title": "'도민과 함께하는 행감으로'…전북도의회, 제안 창구 운영",
+    "summary": [
+      "(전주=연합뉴스) 임채두 기자 = 전북특별자치도의회는 오는 9∼10월 '행정사무감사 도민 제안 창구'를 운영한다고 29일 밝혔다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "ne21c405c",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "17분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260829024600052",
+    "title": "경남 남해안 고수온 피해 증가…양식어류 378만마리 폐사",
+    "summary": [
+      "(창원=연합뉴스) 이정훈 기자 = 절기상 무더위가 한풀 꺾인다는 처서(處暑)를 넘어 9월이 코앞이지만, 경남 남해안에서 양식어류 고수온 폐사가 ..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "ne2ec1523",
+    "category": "스포츠",
+    "source": "뉴시스",
+    "time": "18분 전",
+    "url": "https://www.newsis.com/view/NISX20260829_0003767794",
+    "title": "'두 경기 연속 선발' 김하성, 3타수 무안타…2회 몸에 맞는 볼로 출루",
+    "summary": [
+      "[서울=뉴시스]문채현 기자 = 대타 끝내기 안타 이후 두 경기 연속 선발 출전 기회를 부여받은 김하성(애틀랜타 브레이브스)이 연속 경기 안타 기록을 이어가지 못했다.",
+      "김하성은 29일(한국 시간) 미국 조지아주 애틀랜타의 트루이스트 파크에서 열린 2026 메이저리그(MLB) 콜로라도 로키스와의 경기에 9번 타자 유격수로 선발 출전해 3타수 무안타로 침묵했다.",
+      "시즌 내내 지독한 부진에 시달리던 김하성은 지난 27일 LA 다저스전 9회말 2사 1,."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n9d108dfd",
+    "category": "경제",
+    "source": "한국경제",
+    "time": "46분 전",
+    "url": "https://www.hankyung.com/article/2026082907047",
+    "title": "중국인 유학생 살해 강사 데리고…경찰, 전국 돌며 시신 수색",
+    "summary": [
+      "중국인 유학생 살해 강사 데리고…경찰, 전국 돌며 시신 수색."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "ndb13d906",
+    "category": "경제",
+    "source": "한국경제",
+    "time": "56분 전",
+    "url": "https://www.hankyung.com/article/202608290665i",
+    "title": "부산에 울리는 저항의 메아리…부산 비엔날레 개막",
+    "summary": [
+      "부산에 울리는 저항의 메아리…부산 비엔날레 개막."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n8c82b50d",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "57분 전",
+    "url": "https://www.donga.com/news/Inter/article/all/20260829/134567631/1",
+    "title": "결국 목적은 석유였나…트럼프 “베네수 650억 배럴, 美 장악”",
+    "summary": [
+      "도널드 트럼프 미국 대통령이 28일(현지 시각) 미국이 베네수엘라의 석유 매장량 650억 배럴을 장악하는 내용의 협정을 체결했다고 밝혔다.",
+      "이번 발표로 이란 전쟁 와중 급등한 국제 유가와 미국 내 에너지 가격이 인하될지 주목된다.",
+      "일각에서는 올해 1월 니콜라스 마두로 베네수엘라 대통령을 미국이 무력으로 체포한 목적이 결국 석유였다는 분석도 나온다.트럼프 대통령은 이날 트루스소셜을 통해 “미국은 방금 베네수엘라 정부와 세계 역사상 최대 규모의 석."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "na0dce144",
+    "category": "경제",
+    "source": "연합뉴스(경제)",
+    "time": "1시간 전",
+    "url": "https://www.yna.co.kr/view/AKR20260829023000011",
+    "title": "[연합뉴스 이 시각 헤드라인] - 10:30",
+    "summary": [
+      "[연합뉴스 이 시각 헤드라인] - 10:30."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nce01dfff",
+    "category": "사회",
+    "source": "연합뉴스(경제)",
+    "time": "1시간 전",
+    "url": "https://www.yna.co.kr/view/AKR20260827078400980",
+    "title": "[마이더스] 2026년 세제개편안…종부세·양도세",
+    "summary": [
+      "올해 8월 3일 정부가 2026년 세제개편안을 발표했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n740b774c",
     "category": "사회",
     "source": "동아일보",
     "time": "1시간 전",
-    "url": "https://www.donga.com/news/Inter/article/all/20260829/134567363/1",
-    "title": "러 “푸틴, 내주 SCO 정상회의서 시진핑과 회담…가스관 협의”",
+    "url": "https://www.donga.com/news/Economy/article/all/20260828/134563782/2",
+    "title": "“남 눈치 안 보고 널브러져요”…‘1인 사우나’ 찾고 용품까지 산다[요즘소비]",
     "summary": [
-      "블라디미르 푸틴 대통령이 내주 키르기스스탄에서 시진핑 중국 국가주석과 회담한다고 28일(현지 시간) 러시아 크렘린궁이 밝혔다.타스 통신에 따르면 유리 우샤코프 크렘린궁 외교담당 보좌관은 이날 푸틴 대통령이 8월 31일~9월 1일 키르기스스탄 수도 비슈케크에서 열리는 2026년 상하이협력기구(SCO) 정상회의에서 시 주석과 회담한다고 말했다.우샤코프 보좌관은 “양국 정상은 이번 회담에서 양자 협력과 관련된 현안 및 국제 문제들을 논의할 것”이라고."
+      "혼자 독립된 공간에서 쉬는 ‘1인 사우나’가 새로운 힐링 루틴으로 떠오르며 관련 검색과 용품 소비가 급증하고 있다.",
+      "사우나의 건강 효과와 연구의 한계도 살펴봤다."
     ],
     "chips": [
-      "#정치"
+      "#의료"
     ]
   },
   {
-    "id": "nd3bfe72c",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "1시간 전",
-    "url": "https://www.newsis.com/view/NISX20260828_0003766955",
-    "title": "\"제발 집으로 돌아와\"…네팔 홍수에 부모 실종된 美자매의 눈물",
-    "summary": [
-      "[서울=뉴시스]김혜경 기자 = 네팔과 티베트 접경 지역을 덮친 대규모 홍수와 산사태로 수백 명의 외국인이 실종된 가운데, 순례 여행을 떠났다가 연락이 끊긴 부모를 찾기 위해 애타게 소식을 기다리는 미국인 자매의 사연이 전해졌다.",
-      "27일(현지 시간) 영국 BBC에 따르면 미국 텍사스에 거주하는 슈레야와 아슈나 아후자 자매의 부모 디팍과 마두 아후자는 티베트에 있는 카일라시산 순례를 위해 네팔과 티베트 접경 지역을 찾았다가 홍수 이후 실종됐다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n4fb68e71",
-    "category": "IT",
-    "source": "테크M",
-    "time": "1시간 전",
-    "url": "https://www.techm.kr/news/articleView.html?idxno=154744",
-    "title": "[게임스컴 26] 관람객 발길 사로잡은 엔씨의 쉼터...신작 한 가운데 마주한 '달콤한 휴식'",
-    "summary": [
-      "독일 쾰른에서 열리고 있는 글로벌 최대 게임축제 '게임스컴 26'.",
-      "전시장 곳곳에서는 전 세계 각국의 다양한 신작을 직접 체험하기 위한 긴 대기줄이 형성돼 있다.",
-      "수많은 부스를 왔다갔다 하며 게임을 즐기다보면 어느새 다리가 무거워지기 마련이다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n441030f1",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "1시간 전",
-    "url": "https://www.chosun.com/sports/football/2026/08/29/GNTDGNTDMI2WEMJWMFSTIMDBME/",
-    "title": "\"생리하나봐\" 심판 발언 실화? 극대노한 지소연...수원FC위민 \"구단차원 공식 이의 제기\", 여축연맹 \"감독관 보고서,각자 입장 명확하게 조사후 조치\"",
-    "summary": [
-      "[스포츠조선 전영지 기자]WK리그 심판이 경기중 부적절한 발언 및 자질 논란에 휩싸였다.",
-      "28일 오후 7시 수원종합운동장에서 펼쳐진 WK리그 22라운드 수원FC 위민과 서울시청전 전반 30분경 경기가 중단됐다.",
-      "심판 판정에 항의하던 '수원 캡틴' 지소연이 옐로카드를 받은 후 격분해 벤치쪽으로 달려갔다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n3754b754",
+    "id": "n09293f4a",
     "category": "경제",
     "source": "한국경제",
     "time": "1시간 전",
-    "url": "https://www.hankyung.com/article/202608290452i",
-    "title": "'정면 돌파' 택한 워시, 트럼프도 뚫을 수 있나…시장에선 '합격점'[Fed 워치]",
+    "url": "https://www.hankyung.com/article/2026082906937",
+    "title": "트럼프 \"베네수엘라 석유 650억배럴 과반 통제권 확보\"",
     "summary": [
-      "'정면 돌파' 택한 워시, 트럼프도 뚫을 수 있나…시장에선 '합격점'[Fed 워치]."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n1d0a714e",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "1시간 전",
-    "url": "https://www.chosun.com/culture-life/food-taste/2026/08/29/QML6WDNXS5C2RK4U4Y7DTHZXHE/",
-    "title": "가을이 오고 있다, 물오른 전어가 먼저 왔다",
-    "summary": [
-      "가을이 오고 있다, 물오른 전어가 먼저 왔다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "necadd566",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "1시간 전",
-    "url": "https://www.chosun.com/economy/weeklybiz/2026/08/29/RNTJQYTESRAS7DFL7S6UEF4M7E/",
-    "title": "배달의 민족이 고가에 팔린 이유",
-    "summary": [
-      "배달의 민족이 고가에 팔린 이유."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n8a40480f",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "1시간 전",
-    "url": "https://www.donga.com/news/Inter/article/all/20260829/134567358/1",
-    "title": "이란, ‘배런 트럼프 암살 계획’ 의혹 부인…“거짓말”",
-    "summary": [
-      "이란이 도널드 트럼프 미국 대통령의 막내아들 배런 트럼프를 겨냥한 살해 위협 의혹에 대해 “거짓말”이라며 부인했다.27일(현지 시간) 미국 폭스뉴스에 따르면 이란 최고국가안보회의 서기 모센 레자이는 레바논 알마나르TV와의 인터뷰에서 배런 트럼프를 겨냥한 암살 계획이 있었다는 언론보도에 대해 “사실이 아니다”라고 일축했다.앞서 CNN은 지난 24일 이란 국영방송 IRIB가 지난 주말 배런 트럼프를 겨냥한 약 3분 분량의 영상을 방송했다고 보도했다."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n626ef99a",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "3시간 전",
-    "url": "https://www.donga.com/news/Entertainment/article/all/20260829/134567342/1",
-    "title": "이용식 “손녀 돌보려고 ‘20㎏’ 감량했다”…중년남 다이어트 비법은",
-    "summary": [
-      "코미디언 이용식이 손녀를 돌보기 위한 체력을 키우고자 체중 20㎏을 감량한 사연이 알려졌다.28일 오전 방송된 KBS 1TV ‘아침마당-퀴즈쇼! 천만다행’에는 코미디언 이용식, 엄영수, 심현섭, 송준근이 게스트로 출연해 입담을 과시했다.이날 방송에서는 “이용식이 손녀를 돌보느라 힘이 들어 20㎏이 빠졌다”라는 OX 퀴즈가 출제됐다.",
-      "이를 들은 심현섭은 “말도 안 된다.",
-      "오히려 더 쪘다”며 즉각 ‘X’ 판을 들었다.그러나 이용식은 “살이 빠진 것."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nb1cd7f3b",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "3시간 전",
-    "url": "https://www.donga.com/news/Entertainment/article/all/20260829/134567338/1",
-    "title": "한소희 “‘마이네임’ 때 15㎏ 증량”…관리 비법은 ‘복싱’",
-    "summary": [
-      "배우 한소희가 극단적인 체중 변화에도 몸매를 유지하는 비결을 밝혔다.28일 오후 유튜브 채널 ‘차린건 쥐뿔도 없지만’(이하 ‘차쥐뿔’)에는 배우 한소희가 시즌4 마지막 게스트로 출연해 이영지와 만나는 영상이 공개됐다.한소희가 라면, 김치찌개를 가장 좋아하는 음식으로 꼽으며 “완전 한식파, 면, 밥 없으면 못 산다”라고 고백해 시선을 모았다.",
-      "그러나 한소희는 작품을 위해 극단적인 체중 변화를 겪으며 뜻밖의 후유증을 겪게 됐다고."
+      "트럼프 \"베네수엘라 석유 650억배럴 과반 통제권 확보\"."
     ],
     "chips": [
       "#뉴스"
@@ -633,18 +628,18 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2850건",
-    "trend": "+335%"
+    "mentions": "2980건",
+    "trend": "+355%"
   },
   {
     "rank": 2,
-    "tag": "엔비디아",
-    "mentions": "1420건",
-    "trend": "+115%"
+    "tag": "고용",
+    "mentions": "1550건",
+    "trend": "+135%"
   },
   {
     "rank": 3,
-    "tag": "AI",
+    "tag": "엔비디아",
     "mentions": "1420건",
     "trend": "+115%"
   }
