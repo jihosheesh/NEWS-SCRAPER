@@ -1,11 +1,26 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-08-30 20:15:23
+// 마지막 업데이트: 2026-08-30 23:00:32
 window.NEWS_DB = [
+  {
+    "id": "n7450f129",
+    "category": "IT",
+    "source": "네이트",
+    "time": "2시간 전",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9UbW1acjExalFnWWhIU282SHM4MHZDdE9Hbl8zUGgxbzg3WXNEZ2owMHRBZnBJRGZGZUFCdjhEV0x3RXFJcDFjazI5YjNUR0VZWTZiVWxyZFpHbEMtNElFMg?oc=5",
+    "title": "HBM 성능의 핵심은 '베이스 다이'…하이닉스·엔비디아 주도권 경쟁",
+    "summary": [
+      "HBM 성능의 핵심은 '베이스 다이'…하이닉스·엔비디아 주도권 경쟁 네이트."
+    ],
+    "chips": [
+      "#반도체",
+      "#엔비디아"
+    ]
+  },
   {
     "id": "na4b654e1",
     "category": "IT",
     "source": "디지털데일리",
-    "time": "18시간 전",
+    "time": "20시간 전",
     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFAtTXZpbjBWUWRxZTA0X0NwSl85MGRYSExXT1NyMnc3YkJrZ25mT3h0OThEOUZLOVJGWnNZQUpUU3lTa0c5RURIUF9iem5XX2c3OHpUUFhINFEzazg1ZFpzRlNjLTg?oc=5",
     "title": "4나노 가격 인상 단행한 삼성 파운드리… SK하이닉스는 美 인디애나 패키징 기지 착공 [위클리반도체]",
     "summary": [
@@ -20,7 +35,7 @@ window.NEWS_DB = [
     "id": "n104e3be1",
     "category": "IT",
     "source": "글로벌이코노믹",
-    "time": "21시간 전",
+    "time": "1일 전",
     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPb3l0aUpNX0ZSa2JfZ01nOEtZcTJBVEFGX1lkcGJfX29JY1NuUnB3SVpUMUFDRVZKeVNhVkxGQUJjNHF2eTRRcF83S29WYl9SaWt2XzJIbEFxTXNNdktZZy1fU3gtWFBjX2MzczhMNGR3bThwRkNWYmtZS2tSLWpIMi13M2pYdmpK?oc=5",
     "title": "엔비디아, 허깅페이스 인수 추진…오픈소스 AI로 반도체 묶는다",
     "summary": [
@@ -30,20 +45,6 @@ window.NEWS_DB = [
       "#AI",
       "#반도체",
       "#엔비디아"
-    ]
-  },
-  {
-    "id": "n2837a332",
-    "category": "IT",
-    "source": "시사저널e",
-    "time": "1일 전",
-    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFB4dzhxbVFpRmdLZUJja1NZRnZxemxzS3pVUUdyUlhiN1VzenVKMy1TWGJCb0o0ck80Y21LMU5sSTAtNDFQWnc3UGRpOHQ1cU9JZFhvU1JnZXY3OUhybGgwZ0VvN1hvdzh1LUExZ3VzS0FEZ9IBdkFVX3lxTE9waC12TS1qSHl5ajNfN2RJOFFxMWJjai1QLXBHTktvZ0Y2RFdRbmt0Q2ZXRmRHOWpMc2J1LWozTXJEU215WmpBM3o1a2xVdXVxbUFFVFBiTmZnNEkzUmhiY2pLYVNQTF9uekcwd1ZWSEZHbGFCbHc?oc=5",
-    "title": "반도체부터 로봇까지···삼성·SK·현대차, 美에 뭐 짓나",
-    "summary": [
-      "반도체부터 로봇까지···삼성·SK·현대차, 美에 뭐 짓나 시사저널e."
-    ],
-    "chips": [
-      "#반도체"
     ]
   },
   {
@@ -111,6 +112,20 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n36bf22dc",
+    "category": "사회",
+    "source": "뉴스 따옴",
+    "time": "10일 전",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1JYmRLTlA3Yk9LMUJzM3k2cHd4bzJlcWJmVEM4Ukx0aGpZdWNYYnUwaUIxY2MzdVRNWmpBemNkRnpNV1ppVnNiSDAzcFY3WEhEOUdIMnVKc2tUNjR5eS14cUdmem80cHlESzJGTTdn0gFyQVVfeXFMT0Q0MHBweW9XVm1JaUJWTnJLcW1Dbm5VcXhjVjRNV1dCOHh5UTlIUGxEUnhfVmR3Tmk0bng0TGcyTkc4RmhVRHAwd1JTaW00STFJcUxGUVdYNDBpWTdNQzdqUENBcDVGeWN1eU1lTEFqMk5n?oc=5",
+    "title": "고용노동부 안양지청, 원하는 일자리는 가까이에, 고용센터 ‘일자리 수요데이’로 통(通)하다",
+    "summary": [
+      "고용노동부 안양지청, 원하는 일자리는 가까이에, 고용센터 ‘일자리 수요데이’로 통(通)하다 뉴스 따옴."
+    ],
+    "chips": [
+      "#고용"
+    ]
+  },
+  {
     "id": "n72333e67",
     "category": "사회",
     "source": "서울뉴스통신",
@@ -125,6 +140,20 @@ window.NEWS_DB = [
       "#채용",
       "#취업",
       "#고용"
+    ]
+  },
+  {
+    "id": "n5887154b",
+    "category": "경제",
+    "source": "서울경제",
+    "time": "12일 전",
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1yLVhPcXhnVjVKbXByY1ZkVzFIc2ROaF9RWHdBTEtfcDU0djBMUXlELTV4QlQzbjZMYzdPSUxmN19jX0dkUnVHS2ZsTUEwbU44UFE?oc=5",
+    "title": "원화 강세에 한은 셈법 복잡…원·달러 환율 하락 마감 [김혜란의 FX]",
+    "summary": [
+      "원화 강세에 한은 셈법 복잡…원·달러 환율 하락 마감 [김혜란의 FX] 서울경제."
+    ],
+    "chips": [
+      "#환율"
     ]
   },
   {
@@ -144,21 +173,6 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n5ee6ae18",
-    "category": "사회",
-    "source": "아웃소싱타임스",
-    "time": "17일 전",
-    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5zc2F0ZE5OclByMVNLM3M5cTZ0ZFduRE1SaWFVQU9fTjl2U1RoV0RvU3o4NkNTQ2g2b2J3a3FGZGxSRnZHM01mVTNGMV9nOTg3OFc4RmwtZnZzdngtYVQzd0N2c2FSVXdEWVlCMGxIQTZDdw?oc=5",
-    "title": "[화제] 구직자는 늘었는데 취업은 줄었다…2026년 2분기 민간 고용서비스 ‘엇갈린 흐름’",
-    "summary": [
-      "[화제] 구직자는 늘었는데 취업은 줄었다…2026년 2분기 민간 고용서비스 ‘엇갈린 흐름’ 아웃소싱타임스."
-    ],
-    "chips": [
-      "#취업",
-      "#고용"
-    ]
-  },
-  {
     "id": "n1a764c5a",
     "category": "부동산",
     "source": "뉴스핌",
@@ -170,20 +184,6 @@ window.NEWS_DB = [
     ],
     "chips": [
       "#부동산"
-    ]
-  },
-  {
-    "id": "nf6ba93fa",
-    "category": "경제",
-    "source": "KB Think",
-    "time": "56일 전",
-    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9IZEZWNjl2UGQ3SDR2MEl6anNtM1h4MmdfOTVLOGJnMGQzc2t3dGt4RDNnMEI5LU0zWlcteEowRGw1bmNpRGVTYjBsR1haRkYxbnRQcjQxVGNyN0xNLXhvUEN3ZWJMR21LdkFLelNMemU4Zw?oc=5",
-    "title": "[채권-주간] 코스피·환율 바라기…24시간 돌아가는 외환시장",
-    "summary": [
-      "[채권-주간] 코스피·환율 바라기…24시간 돌아가는 외환시장 KB Think."
-    ],
-    "chips": [
-      "#환율"
     ]
   },
   {
@@ -317,324 +317,315 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "ndc1af4ad",
-    "category": "사회",
-    "source": "동아일보",
+    "id": "n1808d851",
+    "category": "경제",
+    "source": "아시아경제",
     "time": "방금 전",
-    "url": "https://www.donga.com/news/Inter/article/all/20260831/134573248/1",
-    "title": "“수업보다 목숨”…네팔 교장 결단에 학생 900명 목숨 구해",
+    "url": "https://view.asiae.co.kr/article/2026083107543561344",
+    "title": "[속보] 7월 소비 2.4%↓·투자 7.5%↑·생산 보합",
     "summary": [
-      "네팔에서 대규모 홍수가 발생한 가운데 한 학교 교장이 잇따른 경고 전화를 받고 신속히 대피를 결정해 학생 약 900명의 목숨을 구했다.30일(현지 시간) BBC에 따르면 네팔 누와코트 지역 트리부반 트리슐리 중학교의 라젠드라 다와디 교장은 홍수 위험을 알리는 전화를 받은 뒤 학생들을 안전한 고지대로 대피시켰다.전체 학생 수가 1600명을 조금 넘는 이 학교에서 당시 대피한 학생은 약 900명이었다.다와디 교장은 불과 몇 분 사이 서로 다른 사람."
+      "7월 소비 2.4%↓·투자 7.5%↑·생산 보합."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n3d63a9c1",
+    "category": "경제",
+    "source": "아시아경제",
+    "time": "방금 전",
+    "url": "https://view.asiae.co.kr/article/2026083107075403308",
+    "title": "빠른 속도로 오른 금리…주담대 금리 8% 넘나 [1분 브리프]",
+    "summary": [
+      "MARKET INDEX : Year to dateTop3 NEWS 1분이면 OK, 꼭 필요한 시간-가성비 경제뉴스."
+    ],
+    "chips": [
+      "#금리"
+    ]
+  },
+  {
+    "id": "ndefd77d9",
+    "category": "스포츠",
+    "source": "아시아경제",
+    "time": "방금 전",
+    "url": "https://view.asiae.co.kr/article/2026083106123754378",
+    "title": "'세계의 주인' 윤가은 영화감독, 올해의 양성평등문화인상",
+    "summary": [
+      "영화 '세계의 주인'의 윤가은 감독이 제19회 올해의 양성평등문화인상을 받는다.",
+      "문화체육관광부가 후원하고 여성문화네트워크와 여성신문사가 주최·주관하는 '제19회 올해의 양성평등문화상 시상식'이 9월1일 오후 4시 국립중앙도서관 국제회의장에서 열린다고 문체부가 31일 밝혔다.",
+      "2008년부터 시상해온 '올해의 양성평등문화상'은 문화·예술·체육 등 다양한 분야에서 양성평등에 대한 인식을 높이고 양성평등 문화 확산에 기."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nfd1fc017",
+    "category": "경제",
+    "source": "아시아경제",
+    "time": "방금 전",
+    "url": "https://view.asiae.co.kr/article/2026083100594421074",
+    "title": "일본인 해외여행 4명 중 1명 한국으로…7월 방한객은 중국이 끌어올렸다",
+    "summary": [
+      "올해 들어 7월까지 한국을 찾은 외국인 관광객이 1280만명을 넘어섰다.",
+      "일본에서는 해외여행객 4명 중 1명 이상이 한국을 찾으며 한국 여행 비중이 역대 최고 수준으로 올라섰고, 7월 한 달 방한객 증가세는 중국인 관광객이 주도했다.",
+      "31일 문화체육관광부와 한국관광공사에 따르면 올해 1~7월 방한 외국인은 1280만3042명으로 지난해 같은 기간 1055만9166명보다 21.3% 증가했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n349dcf8b",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "3분 전",
+    "url": "https://www.newsis.com/view/NISX20260831_0003768706",
+    "title": "[오늘의 주요일정]전남광주통합특별시(8월31일 월요일)",
+    "summary": [
+      "[전남광주=뉴시스] ▲오전 6시 한천면 금전리 마을주민, 건축허가용도 준수 및 적법사용 촉구, 화순군 한천면 금전리 465-1 ▲오전 7시30분 영암 송전선로반대위, 송전선로 반대, 한전본사 앞 ▲오전 7시30분 전국공공노조서비스노조 전남광주지부, 교섭권보장 요구 출근길홍보, 전남광주시 무안청사 ▲오전 7시30분 전남도청 공무원노조, 전남광주통합시 기관유지 기능부서 분산배치 촉구, 전남광주시 무안청사 ▲오전 7시40분 한전MCS 검침노조, 인력."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nb38ebaf7",
+    "category": "스포츠",
+    "source": "뉴시스",
+    "time": "4분 전",
+    "url": "https://www.newsis.com/view/NISX20260831_0003768677",
+    "title": "아우크스부르크 설영우, 데뷔전서 교체 투입 1분 만에 도움",
+    "summary": [
+      "[서울=뉴시스] 하근수 기자 = 축구 국가대표 풀백 설영우가 독일 프로축구 분데스리가 아우크스부르크 입단 후 데뷔전에서 그라운드를 밟은 지 1분 만에 1호 도움을 적었다.",
+      "설영우는 31일(한국 시간) 독일 아우크스부르크의 WWK 아레나에서 열린 살케 04와의 2026~2027시즌 독일 분데스리가 1라운드 개막전 홈 경기 중 교체 출전해 어시스트를 기록했다.",
+      "아우크스부르크는 전반 18분 미카엘 그레고리슈의 선제골과 후반 34분 안톤 카데의 추가골."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n692ded90",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "4분 전",
+    "url": "https://www.newsis.com/view/NISX20260831_0003768691",
+    "title": "경운대·에어제타, '항공 물류 전문 인재 양성' 맞손",
+    "summary": [
+      "[구미=뉴시스] 박홍식 기자 = 경운대학교는 화물 전문 항공사인 에어제타㈜와 항공 물류 분야 전문 인재 양성을 위한 업무협약(MOU)을 체결했다고 31일 밝혔다.",
+      "두 기관은 협약에 따라 항공 물류 서비스 분야 인적 자원 공동 육성을 위해 힘을 쏟기로 했다.",
+      "협약서에는 ▲항공 분야 특성화 교과 및 비교과 과정 공동 개발·운영 ▲항공산업 관련 발전 과제 및 인적·물적 자원의 상호 교류 ▲대구·경북 신공항 시대를 대비한 지역 항공 물류 산업 협력 방."
     ],
     "chips": [
       "#교육"
     ]
   },
   {
-    "id": "n0162ac5d",
+    "id": "ne3c6f850",
     "category": "사회",
     "source": "뉴시스",
-    "time": "1분 전",
-    "url": "https://www.newsis.com/view/NISX20260831_0003768632",
-    "title": "젤렌스키 \"美 대표단과 대화 준비…세부내용 공개 예정\"",
-    "summary": [
-      "[서울=뉴시스] 문예성 기자 = 볼로디미르 젤렌스키 우크라이나 대통령이 도널드 트럼프 미국 대표단과 새로운 대화를 준비하고 있다고 밝혔다.",
-      "30일(현지 시간) 우크르인폼에 따르면 젤렌스키 대통령은 이날 대통령실 홈페이지에 공개한 연설에서 “중요한 회의들이 있었다”며 “참모진과 함께 미국 대통령 특사들과의 새로운 소통을 준비하고 있다”고 말했다.",
-      "그는 “내일(31일) 더 자세한 내용을 공개하겠다”면서 “앞으로 전쟁만이 유일한 선택지로 남지 않도록."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "nd2f23316",
-    "category": "사회",
-    "source": "조선일보",
     "time": "5분 전",
-    "url": "https://www.chosun.com/economy/startup_story/2026/06/24/P4A3Q57VHVFJZCTWE7ZFCUTSXQ/",
-    "title": "145℃ 고온 스팀으로 찌든 때 없애는 스팀 살균 청소기, 9만원대 단독 특가",
+    "url": "https://www.newsis.com/view/NISX20260831_0003768697",
+    "title": "원주시민 주권 반상회 '뜻모아' 첫발…\"의견을 정책으로\"",
     "summary": [
-      "145℃ 고온 스팀으로 찌든 때 없애는 스팀 살균 청소기, 9만원대 단독 특가."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n0b47d8a9",
-    "category": "스포츠",
-    "source": "머니투데이",
-    "time": "10분 전",
-    "url": "https://www.mt.co.kr/sports/2026/08/31/2026083015535263897",
-    "title": "\"지금 안우진 아직 100% 아니다\" 결국 사령탑 냉철한 진단 내렸다",
-    "summary": [
-      "한국 야구를 대표하는 에이스 안우진(27·키움 히어로즈)에 관해 사령탑은 아직 100%의 몸 상태가 아니라는 진단을 내렸다.",
-      "내년 시즌 더욱 강해질 수 있다는 뜻이다.",
-      "안우진은 올 시즌 19경기에 등판, 3승 7패 평균자책점 3.70을 기록 중이다."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
-    "id": "na126d33f",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "10분 전",
-    "url": "https://www.chosun.com/economy/startup_story/2026/04/11/SD7UQARYLRC3PC7A4TNSCKH2Z4/",
-    "title": "보청기가 아닌데, 좀 더 잘 들리게 해주는 신기한 이어폰",
-    "summary": [
-      "보청기가 아닌데, 좀 더 잘 들리게 해주는 신기한 이어폰."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nc4b86cfa",
-    "category": "경제",
-    "source": "머니투데이",
-    "time": "11분 전",
-    "url": "https://www.mt.co.kr/entertainment/2026/08/31/2026083104551715924",
-    "title": "75세 고두심, 29년 돌싱 끝?…\"혼자 안 살 것\"",
-    "summary": [
-      "배우 고두심이 후배 임원희, 김광규에게 결혼을 독촉한 가운데 자신의 재혼 가능성에 대해서도 여지를 남기는 발언을 남겼다.",
-      "30일 방영된 SBS '미운 우리 새끼' 510회에서는 고두심이 임원희, 김광규와 식사를 함께하는 모습이 그려졌다.",
-      "이날 고두심은 각종 음식을 싸 들고 임원희의 집을 방문했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n9e455ed3",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "11분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260831003500071",
-    "title": "\"미군, 이란 라라크섬 '기뢰장착 로켓' 발사대 2곳 타격\"",
-    "summary": [
-      "(워싱턴=연합뉴스) 박성민 특파원 = 미군이 30일(현지시간) 이란 남부 호르무즈 해협에 있는 라라크섬의 이슬람혁명수비대(IRGC) 미사일 발사..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n071cf0a5",
-    "category": "IT",
-    "source": "뉴시스",
-    "time": "13분 전",
-    "url": "https://www.newsis.com/view/NISX20260828_0003767095",
-    "title": "\"의료를 하나로\"…굿닥, '모두의AI' SKT와 함께 간다",
-    "summary": [
-      "[서울=뉴시스]송종호 기자 = 굿닥이 병원정보, 진료예약, 비대면진료 등의 의료 서비스를 정보기술(IT)로 연결한다.",
-      "'모두의AI' SK텔레콤(SKT) 컨소시엄 참여를 통해서다.",
-      "굿닥은 과학기술정보통신부와 정보통신산업진흥원이 추진하는 '모두의AI' 사업자으로 SKT 컨소시엄이 선정되면서 파트너사로 참여해 '모두의AI' 앱에 헬스케어 서비스를 제공할 계획이라고 31일 밝혔다."
-    ],
-    "chips": [
-      "#AI",
-      "#의료"
-    ]
-  },
-  {
-    "id": "n9a625cbc",
-    "category": "스포츠",
-    "source": "머니투데이",
-    "time": "14분 전",
-    "url": "https://www.mt.co.kr/sports/2026/08/31/2026083017241069749",
-    "title": "'역대 최고치' 韓 심판 불신 '활활'... '총체적 난국' 끊이질 않는 '막말·불통 논란'",
-    "summary": [
-      "한국 축구 심판계를 둘러싼 잡음이 끊이지 않고 있다.",
-      "그라운드 위 오심과 권위주의적인 불통 논란에 이어, 이번에는 심판진의 부적절한 '입'이 도마 위에 올랐다.",
-      "판정 불신을 넘어 선수와 현장을 대하는 심판진의 기본 자질과 태도 자체가 총체적 난국에 빠졌다는 지적이 나온다."
-    ],
-    "chips": [
-      "#고용"
-    ]
-  },
-  {
-    "id": "nb67aa9c3",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "14분 전",
-    "url": "https://www.newsis.com/view/NISX20260830_0003768476",
-    "title": "인천, 내일까지 30~80㎜ 비 예보…\"더위 한풀 꺾여\"",
-    "summary": [
-      "[인천=뉴시스] 전예준 기자 = 31일 인천은 많은 비가 내리면서 더위가 한풀 꺾이겠다.",
-      "하늘은 정체전선의 영향을 받아 대체로 흐리겠다.",
-      "수도권기상청은 \"아침 최저기온은 23도, 낮 최고기온은 26도 내외의 분포를 보이겠다\"며 \"내일 오전까지 비가 내리겠다\"고 예보했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "ncb5f63dc",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "14분 전",
-    "url": "https://www.newsis.com/view/NISX20260828_0003767288",
-    "title": "[오늘의 주요일정]식품의약품안전처(8월31일 월요일)",
-    "summary": [
-      "[서울=뉴시스] ◇처장 ▲통상일정 ◇차장 ▲통상일정."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nf2d32b7b",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "15분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260830036000001",
-    "title": "국힘, 최고위서 '張 추진' 당협위원장 직선제 재논의",
-    "summary": [
-      "(서울=연합뉴스) 조다운 기자 = 국민의힘은 31일 최고위원회의를 열고 장동혁 대표가 추진하는 '당협위원장 선출 방식 변경의 건'에 대한 논의를..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n35f84e8b",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "15분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260830064400001",
-    "title": "김민석, 특위·추진단 1차 회의 연쇄 개최…민생 드라이브",
-    "summary": [
-      "(서울=연합뉴스) 정연솔 기자 = 더불어민주당 김민석 대표는 31일 당내 특별위원회와 추진단 첫 회의를 잇달아 주재하며 당 쇄신과 정책 드라이브..."
+      "[원주=뉴시스]이덕화 기자 = 강원 원주시가 민선9기 핵심 가치로 내세운 '시민주권시대' 구현을 위해 시민이 직접 정책을 논의하고 제안하는 공론의 장을 연다.",
+      "원주시는 9월1일 오후 1시30분 남산골문화센터에서 시민 300여 명이 참여하는 시민주권 반상회 '제1회 뜻모아'를 개최한다.",
+      "'뜻모아'는 민선9기 주요 정책과 공약의 추진 방향을 일방적으로 설명하는 데서 벗어나 시민의 의견을 정책에 반영하기 위해 마련한 숙의형 공론의 장으로 진행된다."
     ],
     "chips": [
       "#정책"
     ]
   },
   {
-    "id": "ncd732d2c",
+    "id": "n73f22d3f",
     "category": "사회",
     "source": "연합뉴스",
-    "time": "15분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260830037500001",
-    "title": "국회 예결위, 결산안 마지막 부별심사…비경제부처 대상 질의",
+    "time": "7분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260831017100004",
+    "title": "강남구, 478억원 추경안 제출…\"효과 불투명한 사업 등 제외\"",
     "summary": [
-      "(서울=연합뉴스) 조다운 기자 = 국회 예산결산특별위원회는 31일 전체회의를 열고 비경제 부처의 지난해 결산안에 대한 부별 심사를 이어간다."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "nccf2ab56",
-    "category": "스포츠",
-    "source": "머니투데이",
-    "time": "15분 전",
-    "url": "https://www.mt.co.kr/society/2026/08/31/2026083022413218001",
-    "title": "\"일본인 사주로 고종에게 독약을\"…하영 증조부, 독살설 사료 등장",
-    "summary": [
-      "배우 하영(33) 증조부인 안상호가 고종 독살설에 연루된 인물로 기록된 사료가 확인됐다.",
-      "2004년 2월 발간된 군포시 향토사료 '군포시 지명유래 및 씨족역사'를 보면, 안상호는 제4장 '군포의 인물' 가운데 근대 인물 첫 번째로 소개돼 있다.",
-      "해당 자료는 군포시가 경기대학교 전통문화콘텐츠연구소에 의뢰해 만든 학술조사용역 보고서다."
-    ],
-    "chips": [
-      "#교육"
-    ]
-  },
-  {
-    "id": "n878b8066",
-    "category": "사회",
-    "source": "아시아경제",
-    "time": "15분 전",
-    "url": "https://view.asiae.co.kr/article/2026083020342436278",
-    "title": "예상 깬 중폭개각으로 '정면돌파' 택한 李…범진보 확장·통합도 꾀했다",
-    "summary": [
-      "이재명 대통령이 30일 예상을 뛰어넘는 6개 부처 '중폭 개각'을 단행하며 집권 2년 차 국정 운영의 정면돌파를 택했다.",
-      "이 대통령은 여론에 떠밀리는 듯한 결단을 가급적 피하는 스타일로 알려졌지만, 국정 지지율 하락과 쇄신 요구가 누적된 상황에서 19개 부처의 약 3분의 1에 해당하는 장관을 한꺼번에 바꾸는 카드를 꺼냈다.",
-      "청와대 고위 관계자는 이번 인사의 의미를 \"다시 신발 끈을 묶고 열심히 뛰자는 취지\"라고 압축했다."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "nae71c1ad",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "15분 전",
-    "url": "https://www.chosun.com/economy/startup_story/2026/03/24/T5BADN7AVJDU3MWJHCMSKTMWIY/",
-    "title": "부쩍 침침해진 눈 건강 ‘루테인 지아잔틴’, 3개월 분 1만원대 특가",
-    "summary": [
-      "부쩍 침침해진 눈 건강 ‘루테인 지아잔틴’, 3개월 분 1만원대 특가."
-    ],
-    "chips": [
-      "#의료"
-    ]
-  },
-  {
-    "id": "n7a493f4e",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "15분 전",
-    "url": "https://www.chosun.com/national/court_law/2026/08/31/5NVT4OCWAFDVXF4CGLMJYDDM4Y/",
-    "title": "[단독] “압수수색 다음날 아내 유산”… 검찰 ‘과잉 수사’ 논란",
-    "summary": [
-      "[단독] “압수수색 다음날 아내 유산”… 검찰 ‘과잉 수사’ 논란."
+      "(서울=연합뉴스) 정준영 기자 = 서울 강남구(구청장 김현기)는 지난 28일 약 478억원 규모의 올해 제1회 추가경정예산안을 구의회에 냈다고 ..."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n22bd9f78",
+    "id": "n1cbd5693",
     "category": "경제",
-    "source": "아시아경제",
-    "time": "42분 전",
-    "url": "https://view.asiae.co.kr/article/2026083104323129984",
-    "title": "NASA, 허블보다 1000배 빠른 우주망원경 발사…암흑에너지 비밀 푼다",
+    "source": "조선일보",
+    "time": "7분 전",
+    "url": "https://www.chosun.com/economy/stock-finance/2026/08/31/53E6HQTPSRDJZKBBOO6YGFURO4/",
+    "title": "두 달새 카드론 4600억 줄였더니…18% 고금리 빚 6000억 늘었다",
     "summary": [
-      "미국 항공우주국(NASA)이 암흑물질과 암흑에너지 등 우주의 미스터리를 탐사할 차세대 우주망원경을 발사했다.",
-      "허블 우주망원경보다 최대 1000배 빠른 속도로 우주를 관측할 수 있어 향후 우주 팽창의 원인과 외계행성 탐사 등에 새로운 단서를 제공할 것으로 기대된다.",
-      "NASA는 30일(현지시간) 오전 7시26분 플로리다주 케네디우주센터 39A 발사대에서 '낸시 그레이스 로먼 우주망원경'을 스페이스X의 팰컨 헤비 로켓에 실어 발사했."
+      "두 달새 카드론 4600억 줄였더니…18% 고금리 빚 6000억 늘었다."
+    ],
+    "chips": [
+      "#금리"
+    ]
+  },
+  {
+    "id": "n63e4cbbd",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "8분 전",
+    "url": "https://www.chosun.com/entertainments/broadcast/2026/08/31/GY2TSZRZMU4TIN3DGUZTAZRTG4/",
+    "title": "김진곤, ‘TV쇼 진품명품’ 쇼감정단 충격…김진순 할머니 빙의부터 예리 질문까지",
+    "summary": [
+      "[OSEN=강서정 기자] 개그맨 김진곤이 유쾌한 입담과 예리한 관찰력을 앞세워 ‘TV쇼 진품명품’에서 남다른 존재감을 발휘했다.김진곤은 지난 30일 방송된 KBS 1TV ‘TV쇼 진품명품’에 출연해 김가은, 신윤승과 함께 쇼감정단으로 활약했다.",
+      "그는 다양한 의뢰품을 꼼꼼하게 살펴보며 추정 감정가를 제시하는 것은 물론, 특유의 재치까지 더하며 방송에 활기를."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "nab0e6aa7",
+    "id": "n5c4ab030",
     "category": "IT",
-    "source": "동아일보",
-    "time": "45분 전",
-    "url": "https://www.donga.com/news/Politics/article/all/20260831/134572943/2",
-    "title": "세금-부동산 장관 교체… 李, 6개 부처 개각",
+    "source": "한경IT",
+    "time": "9분 전",
+    "url": "https://www.hankyung.com/article/202607305504i",
+    "title": "[이나경 변리사의 전지적 특허 시점]진화하는 디지털치료기기, 특허는 어디까지 따라갈 수 있는가 변경관리 계획과 특허 포트폴리오 전략",
     "summary": [
-      "이재명 대통령이 30일 재정경제부와 법무부, 국토교통부 등 6개 부처 개각을 단행했다.",
-      "경제부처들이 포함되면서 당초 전망보다 개각 폭이 커진 것으로 지지율 하락 속 집권 2년 차 국정 동력 회복을 위한 인적 쇄신에 나선 것으로 풀이된다.",
-      "강훈식 대통령비서실장은 이날 청와대 춘추관에서 장관 후보자 6명과 국가인공지능전략위원회 부위원장 및 대통령 참모 3명 등 총 10명에 대한 인사를 발표했다."
+      "[이나경 변리사의 전지적 특허 시점]진화하는 디지털치료기기, 특허는 어디까지 따라갈 수 있는가 변경관리 계획과 특허 포트폴리오 전략."
     ],
     "chips": [
-      "#AI",
-      "#부동산",
-      "#정치"
+      "#뉴스"
     ]
   },
   {
-    "id": "n6c238aa6",
+    "id": "n485a8cad",
     "category": "경제",
-    "source": "동아일보",
-    "time": "45분 전",
-    "url": "https://www.donga.com/news/Inter/article/all/20260831/134572941/2",
-    "title": "워시 美 연준 의장, 9월 금리인상 시사",
+    "source": "한경IT",
+    "time": "11분 전",
+    "url": "https://www.hankyung.com/article/202607305494i",
+    "title": "[한상춘의 세계경제 읽기]올해 하반기 바이오 업계의 최대 고민… “경제 여건 괜찮은데 환율 안 떨어지나?”",
     "summary": [
-      "케빈 워시 미국 연방준비제도(Fed·연준) 의장(사진)이 28일(현지 시간) 와이오밍주 잭슨홀에서 열린 연례 경제정책 심포지엄에서 “근원 인플레이션이 우리의 목표를 향해 명확하고 충분한 속도로 움직이고 있다는 확신이 있어야 한다”며 “그렇지 않다면 우리는 해야 할 일이 있다”고 밝혔다.",
-      "그는 이어 “단기 금리는 연준의 양대 책무(물가 및 고용 안정)를 달성하기 위한 주된 수단”이라고 덧붙였다.",
-      "미국의 물가 상승률이 연준의 목표인 2%를 향해 충."
+      "[한상춘의 세계경제 읽기]올해 하반기 바이오 업계의 최대 고민… “경제 여건 괜찮은데 환율 안 떨어지나?”."
     ],
     "chips": [
-      "#금리",
-      "#정책",
-      "#고용"
+      "#환율"
+    ]
+  },
+  {
+    "id": "n986f61b2",
+    "category": "스포츠",
+    "source": "연합뉴스",
+    "time": "13분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260831016000007",
+    "title": "부활한 셔저, 7이닝 10K…MLB 통산 탈삼진 9위 도약",
+    "summary": [
+      "(서울=연합뉴스) 천병혁 기자 = 미국프로야구 메이저리그(MLB)의 베테랑 투수 맥스 셔저(42·토론토 블루제이스)가 통산 탈삼진 순위 9위로 ..."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
+    "id": "nfa271a16",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "16분 전",
+    "url": "https://www.donga.com/news/Inter/article/all/20260831/134573416/2",
+    "title": "美 그랜드캐니언서 돌발홍수로 20여명 실종",
+    "summary": [
+      "미국 그랜드캐니언 국립공원에서 갑작스럽게 홍수가 발생해 20여 명이 실종됐다.",
+      "30일(현지 시간) BBC 등 외신에 따르면 미국 국립공원관리청(NPS)은 전날 오후 2시 30분경 애리조나주 그랜드캐니언 국립공원의 브라이트 앤젤 캐니언과 팬텀 랜치 일대에 돌발 홍수가 발생했다고 밝혔다.",
+      "이로 인해 현재까지 60여 명이 헬기로 긴급 대피했으며, 해당 지역의 등산로가 폐쇄됐다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n513ddf6f",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "25분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260831012700075",
+    "title": "美그랜드캐니언서 소나기로 돌발 홍수…15명 실종",
+    "summary": [
+      "(로스앤젤레스=연합뉴스) 김경윤 특파원 = 미국 대표 국립공원인 그랜드 캐니언 에서 갑작스럽게 홍수가 발생해 약 15명이 실종됐다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n04a63094",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "26분 전",
+    "url": "https://www.donga.com/news/Inter/article/all/20260831/134573315/1",
+    "title": "美, 한달만에 이란 공습…호르무즈 로켓 발사대 타격",
+    "summary": [
+      "미군이 30일(현지 시간) 호르무즈해협 라라크섬에 있는 이란 이슬람혁명수비대(IRGC)의 미사일 발사대 2곳을 타격했다.",
+      "미군의 공습은 지난달 말 이후 한 달여 만에 재개된 것으로 알려졌다.",
+      "공식적으로 이란을 표적으로 삼은 미군의 마지막 공격은 지난달 29일 이뤄졌다.AP통신은 이날 익명의 미국 당국자를 인용해 이같이 보도했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n58b3e8da",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "26분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260831011000053",
+    "title": "대구 신천서 물에 빠진 70대 남성 숨져",
+    "summary": [
+      "(대구=연합뉴스) 박세진 기자 = 비가 내린 대구의 도심 하천에서 70대 시민이 물에 빠져 숨지는 사고가 발생했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nb896e8c7",
+    "category": "경제",
+    "source": "연합뉴스(경제)",
+    "time": "30분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260831011300011",
+    "title": "[연합뉴스 이 시각 헤드라인] - 07:30",
+    "summary": [
+      "[연합뉴스 이 시각 헤드라인] - 07:30."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nca70538d",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "30분 전",
+    "url": "https://www.donga.com/news/Culture/article/all/20260828/134558346/2",
+    "title": "구찌는 30년 전 G스트링, 샤넬은 100년 전 LBD…명품의 ‘아카이브 회귀’",
+    "summary": [
+      "구찌와 샤넬 등 글로벌 명품 브랜드들이 과거의 상징적인 디자인을 현대적으로 재해석하고 있다.",
+      "구찌는 톰 포드 시대의 G스트링을 10캐럿 다이아몬드로 되살렸고, 샤넬은 탄생 100주년을 맞은 리틀 블랙 드레스를 다시 꺼냈다.",
+      "명품 소비 둔화와 짧아진 유행 주기 속에서 브랜드 고유의 DNA가 새로운 경쟁력으로 떠오르고 있다는 분석이다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nd1d63d70",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "50분 전",
+    "url": "https://www.donga.com/news/Inter/article/all/20260831/134573288/2",
+    "title": "“트럼프, 김정은 일단 만나고 중간선거 후 2차 회담할 수도”",
+    "summary": [
+      "도널드 트럼프 미국 대통령이 김정은 북한 국무위원장을 만나 대화의 물꼬를 튼 뒤 11월 중간선거 이후 2차 회담을 할 수 있다는 미국 전직 당국자의 전망이 나왔다.트럼프 1기 행정부에서 백악관 국가안보회의(NSC) 북한 담당 국장을 지낸 앤서니 루지에로 애틀랜틱카운슬 비상근 선임연구원은 미 PBS 방송이 28일(현지 시간) 공개한 대담에서 이같이 말했다.",
+      "루지에로 전 국장은 북미 대화 재개 가능성과 관련해 “예측하자면 트럼프 대통령이 어떤 형태."
+    ],
+    "chips": [
+      "#정치"
     ]
   }
 ];
@@ -644,14 +635,14 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2070건",
-    "trend": "+215%"
+    "mentions": "2720건",
+    "trend": "+315%"
   },
   {
     "rank": 2,
     "tag": "AI",
-    "mentions": "1940건",
-    "trend": "+195%"
+    "mentions": "1680건",
+    "trend": "+155%"
   },
   {
     "rank": 3,
