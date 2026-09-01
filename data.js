@@ -1,11 +1,56 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-08-31 21:13:08
+// 마지막 업데이트: 2026-09-01 00:53:48
 window.NEWS_DB = [
+  {
+    "id": "n927b386a",
+    "category": "IT",
+    "source": "디지털투데이",
+    "time": "1시간 전",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9sbVFmNkdIY3k4YkFqcUMwRjVyWUNrcjZqck41UzFSMmR3RFQ5cTZwU3hnMm1LaFkxWFhHX1NJMk5TSzg5NmdhQndTRkg1UklvM042T0ZDWVVCdDJVTk51NDVXekhIWXp6d3RGZnlVcFhUaU0?oc=5",
+    "title": "엔비디아, 미디어텍에 35억달러 투자…AI 칩 시장 판 다시 짠다",
+    "summary": [
+      "엔비디아, 미디어텍에 35억달러 투자…AI 칩 시장 판 다시 짠다 디지털투데이."
+    ],
+    "chips": [
+      "#AI",
+      "#엔비디아"
+    ]
+  },
+  {
+    "id": "n2c0f41aa",
+    "category": "IT",
+    "source": "연합뉴스",
+    "time": "1시간 전",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBSVEdqRzlmS1Y1dU1BV2dEamdfeGZHV1pVVnNmZnllZTZFX2ZlNXpQSEkzUGFHRFpSN2djQVRpbGVvM1FDQVVZU3Q0ckVYQzR4dy1BUkREV2x0ZWfSAWBBVV95cUxPMUVfaGpjN0VCUi1uUWtyRHFxZjFRbS0wcGJPc1hlVEs0c0I2QkltU2xRWFI4M1lHajczY29Vdmthb0lRazFMck5YQTB3X01zQWlTN09xMHVUbjQ4N0hLTkY?oc=5",
+    "title": "\"관악S밸리에서 유니콘의 꿈을\"…관악구, 입주사 최대 20곳 모집",
+    "summary": [
+      "\"관악S밸리에서 유니콘의 꿈을\"…관악구, 입주사 최대 20곳 모집 연합뉴스."
+    ],
+    "chips": [
+      "#스타트업",
+      "#채용"
+    ]
+  },
+  {
+    "id": "n0c220b7f",
+    "category": "IT",
+    "source": "초이스스탁US",
+    "time": "6시간 전",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9LRHRfa19oemxvdzlFdFRkdC05YlZsQUhDUm1hZkFTV0NaSFFfR1MwSEdLc2VJSDZTQ1FHYjhEOFJXZzFqek91Y1ZEVUdkaFdsWExwdlVvOWdVRmZUSjNnemhteWltZ0E?oc=5",
+    "title": "엔비디아, 미디어텍에 35억달러 베팅…AI칩 동맹 확대",
+    "summary": [
+      "엔비디아, 미디어텍에 35억달러 베팅…AI칩 동맹 확대 초이스스탁US."
+    ],
+    "chips": [
+      "#AI",
+      "#엔비디아"
+    ]
+  },
   {
     "id": "nc1f2fede",
     "category": "IT",
     "source": "비즈니스포스트",
-    "time": "16시간 전",
+    "time": "19시간 전",
     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1aM3Y1SHVpcmxGRDlzMVcyMnprd3Bfd3dhRm9kelg1UFV2NVBpSlE5TUdkWE9GemJ4N2l1eFpaZUpZajhtVV81WGtYRHVka1k4a1Y1UC1tbWIzOUdVV0FCWnFZY1NLSUJvbFJ1REFDMks2bUU?oc=5",
     "title": "\"SK하이닉스 이어 삼성전자도 인텔과 HBM 베이스다이 협력 검토 가능성\", 공급망 다변화 효과",
     "summary": [
@@ -18,11 +63,11 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nfa5895e5",
+    "id": "na4b654e1",
     "category": "IT",
     "source": "디지털데일리",
     "time": "1일 전",
-    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5tNTBTRnRHOWVubGJ5TFZ6NVRTZzBoWFR2b093V29salAxWktKelZLR2hNVF9UVnQtYlBFaVZ0NnhwUVRveGtFS0t5RzJJNEZCX09yTWtzdktEWGdPY25OMzFn?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFAtTXZpbjBWUWRxZTA0X0NwSl85MGRYSExXT1NyMnc3YkJrZ25mT3h0OThEOUZLOVJGWnNZQUpUU3lTa0c5RURIUF9iem5XX2c3OHpUUFhINFEzazg1ZFpzRlNjLTg?oc=5",
     "title": "4나노 가격 인상 단행한 삼성 파운드리… SK하이닉스는 美 인디애나 패키징 기지 착공 [위클리반도체]",
     "summary": [
       "4나노 가격 인상 단행한 삼성 파운드리… SK하이닉스는 美 인디애나 패키징 기지 착공 [위클리반도체] 디지털데일리."
@@ -30,22 +75,6 @@ window.NEWS_DB = [
     "chips": [
       "#반도체",
       "#SK하이닉스"
-    ]
-  },
-  {
-    "id": "n104e3be1",
-    "category": "IT",
-    "source": "g-enews.com",
-    "time": "1일 전",
-    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPb3l0aUpNX0ZSa2JfZ01nOEtZcTJBVEFGX1lkcGJfX29JY1NuUnB3SVpUMUFDRVZKeVNhVkxGQUJjNHF2eTRRcF83S29WYl9SaWt2XzJIbEFxTXNNdktZZy1fU3gtWFBjX2MzczhMNGR3bThwRkNWYmtZS2tSLWpIMi13M2pYdmpK?oc=5",
-    "title": "엔비디아, 허깅페이스 인수 추진…오픈소스 AI로 반도체 묶는다 - g",
-    "summary": [
-      "엔비디아, 허깅페이스 인수 추진…오픈소스 AI로 반도체 묶는다 g-enews.com."
-    ],
-    "chips": [
-      "#AI",
-      "#반도체",
-      "#엔비디아"
     ]
   },
   {
@@ -69,7 +98,7 @@ window.NEWS_DB = [
     "id": "n4eba399e",
     "category": "IT",
     "source": "비즈니스포스트",
-    "time": "3일 전",
+    "time": "4일 전",
     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBtcFVIamRkM0F3aW5aaGhEaEI3Q3BEem9OdVBRVUl0V2xOT3g5N3U0UWNocjlLNmRCQTJXVElhU0tkV2d4NWNjZmJnS0FvNWhjTFpiMGhoelotS1dNVkM3NnU3QjdSQVlSSmM4ZjMxWWpPcnM?oc=5",
     "title": "\"엔비디아 AI 반도체 고객사에 금융지원 프로그램 일부 중단\", 반독점 규제 우려",
     "summary": [
@@ -80,21 +109,6 @@ window.NEWS_DB = [
       "#반도체",
       "#엔비디아",
       "#정책"
-    ]
-  },
-  {
-    "id": "n651d3ab9",
-    "category": "IT",
-    "source": "연합뉴스",
-    "time": "4일 전",
-    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5GaEtoYkJoMkwwX1FWMGtnandta2FXZThuVHRZd05fMmxJdlVFcVN3QkVhVVUzWXRJUEZFdlJ5V3R0eHUzVmhfSTF0dGs2Zlltd1RyUThsZzJUdTNvWlJKZdIBYEFVX3lxTE5GaEtoYkJoMkwwX1FWMGtnandta2FXZThuVHRZd05fMmxJdlVFcVN3QkVhVVUzWXRJUEZFdlJ5V3R0eHUzVmhfSTF0dGs2Zlltd1RyUThsZzJUdTNvWlJKZQ?oc=5",
-    "title": "엔비디아, 13분기 연속 매출 신기록…\"AI 변곡점\"",
-    "summary": [
-      "엔비디아, 13분기 연속 매출 신기록…\"AI 변곡점\" 연합뉴스."
-    ],
-    "chips": [
-      "#AI",
-      "#엔비디아"
     ]
   },
   {
@@ -189,20 +203,6 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "neb121d70",
-    "category": "IT",
-    "source": "중기이코노미",
-    "time": "68일 전",
-    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1MWjVoQmtnbHU3a2JjMkdrWHo3c2xGZTdXVG0wMkVJa3hWdXdEbjFtOW5TckxVWHRmVnhaUnZRVWVDT0xpamVRYWUxN3ppRXlnSGp3QU9PZ1JjeE5BcHVGTTFCaF9CSDktQ3c?oc=5",
-    "title": "중소벤처기업부, 2030년 글로벌 유니콘 50개사 육성",
-    "summary": [
-      "중소벤처기업부, 2030년 글로벌 유니콘 50개사 육성 중기이코노미."
-    ],
-    "chips": [
-      "#스타트업"
-    ]
-  },
-  {
     "id": "n207a7abe",
     "category": "IT",
     "source": "Chosunbiz",
@@ -277,12 +277,12 @@ window.NEWS_DB = [
   {
     "id": "n08b2b275",
     "category": "부동산",
-    "source": "한국부동산뉴스",
+    "source": "karnews.or.kr",
     "time": "139일 전",
     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBZNmg3TVp4ZWZCV1ZzTE14bXV5UkN4MExnMmZJdkpfNUsyUGltRWlJVWVfUzJoQktRUlcwMTdrUUtuWk9pR2MxaFlhNGpOU0xGZjM3eDUwdlNmRWQtYkFaenAyekhVRGRRY0pJ?oc=5",
     "title": "대출 규제에 몰린 '15억 이하'…비강남 집값·분양가 동반 상승",
     "summary": [
-      "대출 규제에 몰린 '15억 이하'…비강남 집값·분양가 동반 상승 한국부동산뉴스."
+      "대출 규제에 몰린 '15억 이하'…비강남 집값·분양가 동반 상승 karnews.or.kr."
     ],
     "chips": [
       "#부동산",
@@ -318,314 +318,316 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nbfb0f85c",
-    "category": "IT",
-    "source": "테크M",
+    "id": "n9af7e8c8",
+    "category": "경제",
+    "source": "머니투데이",
     "time": "방금 전",
-    "url": "https://www.techm.kr/news/articleView.html?idxno=154791",
-    "title": "[카드뉴스] 페이커와 사진 찍고, 붉은사막 속으로.. 삼성전자가 유럽에서 내세운 '체험'전략은?",
+    "url": "https://www.mt.co.kr/living/2026/09/01/2026090109155459591",
+    "title": "처음처럼, 더 부드러워진다…알코올 도수 16→15.7도",
     "summary": [
-      "삼성전자가 유럽에서 제품을 보여주는 방식이 달라지고 있습니다.",
-      "게임스컴에서는 세계 최초 기술을 담은 게이밍 모니터로 게임의 몰입감을 끌어올리고, 페이커와 사진을 찍거나 ‘붉은사막’ 캐릭터가 되어보는 참여형 콘텐츠까지 선보였습니다.독일 최대 가전 유통업체의 매장에서는 TV와 가전, 모바일, 게임을 직접 경험할 수 있는 공간도 만들었는데요.",
-      "제품의 성능을 설명하는 데서 그치지 않고 직접 만지고 즐기게 만드는 것."
-    ],
-    "chips": [
-      "#삼성전자"
-    ]
-  },
-  {
-    "id": "n2d50ae68",
-    "category": "부동산",
-    "source": "뉴시스",
-    "time": "7분 전",
-    "url": "https://www.newsis.com/view/NISX20260831_0003770282",
-    "title": "[오늘의 주요일정]대전세종충남(9월1일 화요일)",
-    "summary": [
-      "[대전=뉴시스]곽상훈 기자 = ▲오전 7시30분, 천안시 확대간부회의, 중회의실 ▲오전 9시, 청양군 직원 만남의 날, 문예회관 ▲오전 9시, 태안군 9월 월례조회, 대강당 ▲오전 9시20분, 당진시 2026년 양성평등주간 기념식, 대강당 ▲오전 10시, 서천군지역사회보장협의체 제3차 회의, 군청상황실 ▲오전 10시, 제299회 제1차 정례회 개회, 대전시의회 ▲오전 10시, 세종시 2026년 제4차 청렴도 향상 대책회의, 대회의실(509호)."
-    ],
-    "chips": [
-      "#전세"
-    ]
-  },
-  {
-    "id": "n89ba494f",
-    "category": "경제",
-    "source": "연합뉴스",
-    "time": "8분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260831169300008",
-    "title": "[코스피·코스닥 전 거래일(31일) 주요공시]",
-    "summary": [
-      "[코스피·코스닥 전 거래일(31일) 주요공시]."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nbad088cf",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "8분 전",
-    "url": "https://www.newsis.com/view/NISX20260831_0003769470",
-    "title": "원청 교섭 요구는 민간이 더 많은데…노동부 자문 회신은 '0건'",
-    "summary": [
-      "[서울=뉴시스]박정영 기자 = 노란봉투법(개정 노동조합법) 시행 이후 원청을 상대로 한 교섭 요구는 민간 부문에서 더 많이 진행되고 있지만, 정작 고용노동부 자문기구의 회신은 공공 부문에 대해서만 이뤄진 것으로 나타났다.",
-      "1일 국회 기후에너지환경노동위원회 소속 이종배 국민의힘 의원실이 노동부로부터 제출받은 자료에 따르면, 지난달 7일까지 단체교섭 판단지원위원회(판단지원위)에 접수된 사용자성 관련 질의는 총 133건이었다."
-    ],
-    "chips": [
-      "#고용",
-      "#정치",
-      "#환경"
-    ]
-  },
-  {
-    "id": "na3307912",
-    "category": "사회",
-    "source": "연합뉴스(경제)",
-    "time": "9분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260831117700530",
-    "title": "육아휴직 동료 지원금 작년 집행률 6.6%…\"신청방식 개선해야\"",
-    "summary": [
-      "(서울=연합뉴스) 한혜원 기자 = 육아휴직자의 업무를 나눠 맡은 동료에게 보상하도록 사업주를 지원하는 정부 제도의 지난해 예산 집행률이 6.6%..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "necf01056",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "10분 전",
-    "url": "https://www.newsis.com/view/NISX20260831_0003770083",
-    "title": "취약계층 비수도권에 많은데…기부 식품 절반은 수도권에",
-    "summary": [
-      "[서울=뉴시스] 구무서 기자 = 취약계층의 절반 이상은 비수도권에 거주하지만 기부 식품 등은 대부분 수도권에 집중돼 수요와 공급의 불균형이 발생한다는 지적이 나온다.",
-      "1일 국회입법조사처 2026 국정감사 이슈 분석에 따르면 2024년 기준 기초생활수급자, 차상위계층수급자, 긴급복지수급자 등 348만명의 취약계층 중 비수도권 거주자가 57.2%로 수도권 42.8%보다 많다.",
-      "광역지자체 별로는 경기가 20.5%, 서울이 15.5%로 가장 많고 부산."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n99989cab",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "11분 전",
-    "url": "https://www.newsis.com/view/NISX20260831_0003770192",
-    "title": "[단독]서울교육청, 기초학력 전문교원 34명 내년 첫 배치",
-    "summary": [
-      "[서울=뉴시스]이현주 기자 = 서울시교육청이 기초학력 전문교원 34명을 올해 선발해 내년 학교 현장에 배치한다.",
-      "서울 지역에 기초학력 전문교원이 배치되는 것은 이번이 처음이다.",
-      "1일 교육계에 따르면 시교육청은 기초학력 전문교원 34명 정원을 교육부로부터 확보해 올해 선발, 내년 지역 내 초등학교에 첫 배치한다."
-    ],
-    "chips": [
-      "#교육"
-    ]
-  },
-  {
-    "id": "n741d1af5",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "11분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260901011600064",
-    "title": "충북 흐리고 가끔 비…낮 최고 31도",
-    "summary": [
-      "(청주=연합뉴스) 천경환 기자 = 1일 충북은 대체로 흐리고 가끔 비가 내리겠다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n96c6648a",
-    "category": "경제",
-    "source": "연합뉴스(경제)",
-    "time": "11분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260831140400530",
-    "title": "작년 국민의료비 225조원 역대 최대…GDP의 8.4%",
-    "summary": [
-      "(서울=연합뉴스) 김영신 기자 = 지난해 국내에서 의료서비스와 의약품 등에 지출된 국민의료비가 225조원에 육박하며 역대 최대를 기록했다."
+      "롯데칠성음료가 대표 소주 브랜드 처음처럼의 알코올 도수를 16도에서 15.7도로 낮춘다고 1일 밝혔다.",
+      "롯데칠성음료는 처음처럼 출시 20주년을 맞아 부드러움을 강조하기 위해 도수를 낮췄다.",
+      "또 최근 취하는 음주에서 즐기는 음주로 바뀌어 가는 소비 트렌드를 반영했다."
     ],
     "chips": [
       "#의료"
     ]
   },
   {
-    "id": "n5a9b8dbb",
-    "category": "부동산",
-    "source": "연합뉴스(경제)",
-    "time": "11분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260831171300003",
-    "title": "'공급 실행력' 내세운 홍지선…경기도 시절 주택정책 성적표는",
+    "id": "nbb8f5ba0",
+    "category": "경제",
+    "source": "머니투데이",
+    "time": "1분 전",
+    "url": "https://www.mt.co.kr/tech/2026/09/01/2026090108545764071",
+    "title": "배달의민족, 구독상품 '배민클럽'도 '포인트 적립'…가격은 미정",
     "summary": [
-      "(세종=연합뉴스) 오진송 기자 = 정부가 수도권 주택 공급 확대를 최우선 과제로 두고 속도전을 예고한 가운데 홍지선 국토교통부 장관 후보자의 경..."
+      "배달의민족이 구독 멤버십 '배민클럽'에 적립 기능을 추가한다.",
+      "혜택을 늘려 구독 멤버십 경쟁력을 강화하겠다는 입장이지만, 정작 달라질 배민클럽 이용료는 공개하지 않았다.",
+      "배민 운영사 우아한형제들은 △무료배달 △배민B마트 10% 무제한 할인 등 기존 혜택에 결제 시 배민포인트 적립을 추가한 신규 배민클럽을 오는 10월1일 출시할 예정이라고 1일 밝혔다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nfb015d61",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "1분 전",
+    "url": "https://www.donga.com/news/It/article/all/20260901/134581238/1",
+    "title": "“신장이식후 빨리걷기 매일 했더니”…놀라운 결과",
+    "summary": [
+      "신장이식 환자가 매일 꾸준하게 운동하면 이식받은 신장 기능을 더 오래 유지하고 사망 위험도 크게 낮출 수 있다는 연구 결과가 나왔다.1일 의료계에 따르면 이주한 세브란스병원 이식외과 교수, 윤서연 재활의학과 교수 연구팀이 최문채 국군수도병원 군의관과 함께 신장이식 환자를 대상으로 규칙적인 운동 영향을 분석한 결과 이식신장은 물론 환자 생존에 긍정적인 영향을 미친 것으로 나타났다.",
+      "만성콩팥병 환자가 꾸준하게 운동하며 신장 기능 저하와 사망 위험을."
+    ],
+    "chips": [
+      "#의료"
+    ]
+  },
+  {
+    "id": "nd0c76b3c",
+    "category": "부동산",
+    "source": "머니투데이",
+    "time": "1분 전",
+    "url": "https://www.mt.co.kr/estate/2026/09/01/2026090108454453035",
+    "title": "대우건설, 목동8단지 외관 '인피니티 프리즘' 제안…어반 에이전시와 협업",
+    "summary": [
+      "대우건설이 덴마크를 기반으로 활동하는 글로벌 도시.건축 디자인 그룹 어반 에이전시와 목동8단지 재건축사업의 랜드마크 외관 설계 협업에 나선다.",
+      "대우건설의 설계 및 도시정비사업 담당 임직원들은 지난달 28일 어반 에이전시 관계자들과 함께 서울 양천구 목동8단지 현장을 직접 둘러보고 단지의 입지와 주변 도시환경을 분석하며 랜드마크 설계를 위한 협업 방향을 논의했다고 1일 밝혔다.",
+      "어반 에이전시는 도시와 건축, 공공공간 등을 아우르는 디자인 프로젝트."
+    ],
+    "chips": [
+      "#재건축",
+      "#환경"
+    ]
+  },
+  {
+    "id": "nc56d899e",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "2분 전",
+    "url": "https://www.newsis.com/view/NISX20260901_0003770842",
+    "title": "건설근로자 하루 임금 28만원…상승률 10년 만에 최저",
+    "summary": [
+      "[서울=뉴시스] 박성환 기자 = 건설업 근로자의 하루 평균 임금 상승률이 10년 만에 가장 낮은 수준으로 떨어졌다.",
+      "건설 경기 부진이 장기화하면서 고용이 줄어든 데다 현장 인력에 대한 임금 상승 압력도 약해진 것으로 풀이된다.",
+      "1일 대한건설협회가 지난 5월 건설업 임금을 조사한 결과에 따르면 올해 하반기 적용되는 132개 직종의 하루 평균 임금이 28만2737원으로 집계됐다."
+    ],
+    "chips": [
+      "#고용"
+    ]
+  },
+  {
+    "id": "n7dccf929",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "2분 전",
+    "url": "https://www.newsis.com/view/NISX20260901_0003770858",
+    "title": "사정희 시의원 \"수원 44개 동에 복지관 5곳…확충 필요\"",
+    "summary": [
+      "[수원=뉴시스] 박종대 기자 = 경기 수원시 44개 행정동 전역을 5곳뿐인 종합사회복지관이 감당하고 있어 복지 손길이 미치지 못하는 지역이 생길 수 있다는 우려가 지역 복지 현장에서 나온다.",
+      "1일 수원시의회에 따르면 보건복지위원회 사정희 의원은 전날 4개 종합사회복지관 관장과 간담회를 열고 이 같은 현안을 논의했다.",
+      "이날 간담회에는 이철승 위원장, 김현 의원과 연무·영통·광교·능실 종합사회복지관 관장, 수원시 복지정책과 관계자 등이 참석해 '찾."
+    ],
+    "chips": [
+      "#정책",
+      "#의료"
+    ]
+  },
+  {
+    "id": "n39372530",
+    "category": "경제",
+    "source": "머니투데이",
+    "time": "2분 전",
+    "url": "https://www.mt.co.kr/economy/2026/09/01/2026090109502689960",
+    "title": "[인사]재정경제부",
+    "summary": [
+      "◆재정경제부 <전보> ▷국장급 △관세정책관 진승하..."
     ],
     "chips": [
       "#정책"
     ]
   },
   {
-    "id": "nf4b01391",
-    "category": "부동산",
-    "source": "한국경제",
-    "time": "12분 전",
-    "url": "https://www.hankyung.com/article/202608276672i",
-    "title": "\"용적률 풀어줘도 공사비가 삼킨다\"…서울 주택공급 '비상' [프라이스&]",
+    "id": "n1f90facd",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "2분 전",
+    "url": "https://www.donga.com/news/Economy/article/all/20260901/134581231/1",
+    "title": "KB국민은행, 하반기 신입행원 160여 명 채용…경력직은 20여 명",
     "summary": [
-      "\"용적률 풀어줘도 공사비가 삼킨다\"…서울 주택공급 '비상' [프라이스&]."
+      "KB국민은행이 올해 하반기 신입 행원과 경력 직원을 180여 명 규모로 채용한다고 1일 밝혔다.",
+      "채용 예정 인원은 신입 행원 160여 명, 경력 직원 20여 명이다.",
+      "서류 제출 일자는 9일까지, 지원은 KB국민은행 공식 채용 홈페이지에서 할 수 있다.신입 공채 부문은 UB(Universal Banker), 전역(예정) 장교, 전문 자격(공인회계사), ICT, 특성화고, ESG 동반성장으로 나뉜다."
+    ],
+    "chips": [
+      "#채용"
+    ]
+  },
+  {
+    "id": "n5f60c600",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "2분 전",
+    "url": "https://www.newsis.com/view/NISX20260901_0003770878",
+    "title": "위조 서류로 부산교육청 예산 수천만원 부정 수령…경찰 수사",
+    "summary": [
+      "[부산=뉴시스]김민지 기자 = 부산의 한 사회적협동조합이 위조 서류로 부산교육청으로부터 수천만원의 예산을 받아냈다는 내용의 고소장이 접수돼 경찰이 수사를 벌이고 있다.",
+      "부산 연제경찰서는 사문서위·변조 및 위조사문서행사, 사기 등 혐의로 사회적협동조합 실운영자 A(40대)씨와 프리랜서 강사 2명 등 3명에 대한 고소장을 접수해 수사 중이라고 1일 밝혔다.",
+      "경찰에 따르면 A씨 등은 부산의 한 사회적협동조합에서 2024~2025년 실제 장애인 강사가."
+    ],
+    "chips": [
+      "#교육"
+    ]
+  },
+  {
+    "id": "n05b4ab60",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "2분 전",
+    "url": "https://www.newsis.com/view/NISX20260901_0003770872",
+    "title": "정부, '대홍수' 네팔에 해외긴급구호대 파견…44명 오늘 출국",
+    "summary": [
+      "[서울=뉴시스] 유자비 기자 = 정부가 1일 네팔 홍수 피해 지역에 대한민국 해외긴급구호대(KDRT) 44명을 파견하기로 결정했다.",
+      "외교부는 이날 '민관합동 해외긴급구호협의회' 의결을 거쳐 이같이 파견이 결정됐다고 밝혔다.",
+      "이번에 파견되는 해외긴급구호대는 이규호 외교부 개발협력국장을 구호대장으로, 외교부, 한국국제협력단(KOICA), 소방청 등 44명으로 구성된다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "na1fe8a47",
-    "category": "경제",
-    "source": "한국경제",
-    "time": "12분 전",
-    "url": "https://www.hankyung.com/article/202608314371g",
-    "title": "\"디젤 천하 유럽에서 터졌다\"…기아 전기밴의 '예상밖 질주'",
+    "id": "ndad52647",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "4분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260901048900052",
+    "title": "산청군, 임기제 공무원 면접점수 부정 기재…불합격자가 합격",
     "summary": [
-      "\"디젤 천하 유럽에서 터졌다\"…기아 전기밴의 '예상밖 질주'."
+      "(창원=연합뉴스) 이정훈 기자 = 경남 산청군이 올해 초 임기제 공무원을 뽑으면서 면접시험 점수를 부정하게 기재해 불합격해야 할 응시자가 합격하..."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n423ac886",
-    "category": "경제",
-    "source": "한국경제",
-    "time": "12분 전",
-    "url": "https://www.hankyung.com/article/2026083146441",
-    "title": "삼전닉스 말고 또 있다…큰손이 찍은 韓 '잠자는 호랑이'",
+    "id": "nf3587144",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "4분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260901047100057",
+    "title": "진짜 사장 허가 없이 마트 팔아치워 10억원 챙긴 대리사장 실형",
     "summary": [
-      "삼전닉스 말고 또 있다…큰손이 찍은 韓 '잠자는 호랑이'."
+      "(울산=연합뉴스) 김근주 기자 = 자신들을 믿고 맡긴 사업가가 실소유주인 체인형 식자재마트를 가로챈 남매에게 각각 실형과 징역형의 집행유예가 선..."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n61a24785",
+    "id": "nc0ae2467",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "4분 전",
+    "url": "https://www.donga.com/news/Inter/article/all/20260901/134581200/1",
+    "title": "[속보]韓, 네팔 요청에 긴급구호대 파견…오늘 군 수송기 출발",
+    "summary": [
+      "정부가 1일 네팔 라수와 지역에서 발생한 대홍수 관련, 피해 지역에 대한민국 해외긴급구호대(KDRT)를 파견하기로 결정했다.",
+      "44명으로 구성된 긴급구호대는 이날 밤 군 수송기로 출국해 앞으로 10일여 간 수색 구조 활동을 수행하게 된다.정부는 1일 “민관합동 해외긴급구호협의회 의결을 거쳐 네팔 홍수 피해 지역에 대한민국 해외긴급구호대(KDRT)를 파견하기로 결정했다”고 밝혔다.",
+      "이는 네팔 측 요청에 따른 것이다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nea400048",
+    "category": "스포츠",
+    "source": "동아일보",
+    "time": "4분 전",
+    "url": "https://www.donga.com/news/Sports/article/all/20260901/134581195/1",
+    "title": "이정후, 애틀랜타전 4타수 무안타 1볼넷 1도루…김하성 결장",
+    "summary": [
+      "이정후(샌프란시스코 자이언츠)가 메이저리그(MLB) 애틀랜타 브레이브스를 상대로 침묵하며 연속 안타 행진을 3경기에서 마감했다.",
+      "애틀랜타에서 뛰는 김하성은 결장하며 한국인 메이저리거 맞대결이 무산됐다.이정후는 1일(한국 시간) 미국 조지아주 애틀랜타의 트루이스트 파크에서 열린 2026 MLB 애틀랜타와의 원정 경기에 5번 타자 우익수로 선발 출전해 4타수 무안타 1볼넷 1도루를 기록했다.안타 생산에 실패한 이정후는 시즌 타율이 0.291에서 0."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nb0188a9f",
     "category": "경제",
     "source": "연합뉴스(경제)",
-    "time": "12분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260831155200002",
-    "title": "소상공인·취약계층 '무료 상생보험'…7개 지자체서 출시",
+    "time": "5분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260901056400008",
+    "title": "신한증권, 일반법인용 프리미어 발행어음 출시…만기 3개월부터",
     "summary": [
-      "(서울=연합뉴스) 강수련 기자 = 금융위원회는 7개 지방자치단체가 소상공인·취약계층을 대상으로 한 무료 상생보험 상품을 출시한다고 1일 밝혔다."
+      "(서울=연합뉴스) 고은지 기자 = 신한투자증권은 개인 고객을 중심으로 제공해온 '신한 프리미어(Premier) 발행어음'을 일반법인 고객으로 확..."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "ndadd887e",
-    "category": "경제",
-    "source": "한국경제",
-    "time": "12분 전",
-    "url": "https://www.hankyung.com/article/202608314475i",
-    "title": "“관세 대신 투자”…트럼프 움직인 日카드, 한국도 벤치마크 [도쿄나우]",
-    "summary": [
-      "“관세 대신 투자”…트럼프 움직인 日카드, 한국도 벤치마크 [도쿄나우]."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nc2b823ac",
+    "id": "n85b89f00",
     "category": "IT",
-    "source": "조선비즈IT",
-    "time": "12분 전",
-    "url": "https://biz.chosun.com/it-science/ict/2026/09/01/Z555ULRVZ5EAXEILSM4BRZNI7Q/",
-    "title": "메타버스에 640억원 투입했지만 사업 축소 수순… 롯데이노베이트, 피지컬 AI·데이터센터 전면에",
+    "source": "연합뉴스",
+    "time": "5분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260901051300017",
+    "title": "삼성SDS, 8일 코엑스서 '리얼 서밋 2026'…AX 성공전략 공개",
     "summary": [
-      "메타버스에 640억원 투입했지만 사업 축소 수순… 롯데이노베이트, 피지컬 AI·데이터센터 전면에."
+      "(서울=연합뉴스) 권하영 기자 = 삼성SDS는 오는 8일 서울 코엑스 컨벤션센터에서 기업의 인공지능(AI) 전환(AX) 콘퍼런스 '리얼 서밋 2..."
     ],
     "chips": [
       "#AI"
     ]
   },
   {
-    "id": "n70da45d8",
+    "id": "nca83c993",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "6분 전",
+    "url": "https://www.chosun.com/politics/diplomacy-defense/2026/09/01/LPQJGQSZMBCCVKNCPYLYFCTBMQ/",
+    "title": "정부, 네팔에 긴급구호대(KDRT) 파견... 실종자 구조 지원",
+    "summary": [
+      "정부, 네팔에 긴급구호대(KDRT) 파견... 실종자 구조 지원."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n9a9f63c6",
+    "category": "경제",
+    "source": "연합뉴스(경제)",
+    "time": "6분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260901056700008",
+    "title": "[게시판] 키움증권 '키움 디지털 아카데미' 5기 시작",
+    "summary": [
+      "[게시판] 키움증권 '키움 디지털 아카데미' 5기 시작."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n388674e4",
+    "category": "경제",
+    "source": "연합뉴스(경제)",
+    "time": "6분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260901055400002",
+    "title": "[게시판] NH농협캐피탈, 민원취하 자동응답시스템 도입",
+    "summary": [
+      "[게시판] NH농협캐피탈, 민원취하 자동응답시스템 도입."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n771c2ff6",
+    "category": "경제",
+    "source": "연합뉴스(경제)",
+    "time": "8분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260901055200002",
+    "title": "DAXA, 미신고 가상자산 거래소 4곳 확인…경찰 수사 의뢰",
+    "summary": [
+      "(서울=연합뉴스) 박수현 기자 = 디지털자산거래소 공동협의체(DAXA·닥사)는 미신고 상태로 내국인 대상 영업을 해온 해외 가상자산 거래소 4곳..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n502238a0",
     "category": "IT",
     "source": "조선비즈IT",
-    "time": "12분 전",
-    "url": "https://biz.chosun.com/it-science/ict/2026/09/01/GXWCVUGK4RFQPOILRTUWRA7OGY/",
-    "title": "[비즈톡톡] CXMT ‘세계 최초’ 차세대 D램 상용화 발표에 의문투성이",
+    "time": "29분 전",
+    "url": "https://biz.chosun.com/it-science/ict/2026/09/01/CZDG3QEFUBCZFDUYKSRM5BEEBQ/",
+    "title": "퀄컴, ‘퀄컴 드래곤윙 IoT 데이’ 개최…국내 고객사·협력사 첨단 기술 시연",
     "summary": [
-      "[비즈톡톡] CXMT ‘세계 최초’ 차세대 D램 상용화 발표에 의문투성이."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n6db6c6a0",
-    "category": "경제",
-    "source": "동아일보",
-    "time": "52분 전",
-    "url": "https://www.donga.com/news/Inter/article/all/20260901/134580264/1",
-    "title": "트럼프 “세계 최저 금리로 낮춰야…워시, 해야 할 일 할 것”",
-    "summary": [
-      "도널드 트럼프 미국 대통령이 31일(현지시간) 최근 금리 인상 가능성을 시사한 케빈 워시 연방준비제도(Fed) 의장에 대한 지지 의사를 밝혔다.",
-      "다만 여전히 금리 인하를 재차 주장했다.",
-      "로이터 통신에 따르면, 트럼프 대통령은 이날 백악관 집무실에서 기자들과 만나 워시 의장을 매우 존중한다며 금리와 관련해 “그는 자신이 해야 할 일을 할 것”이라고 말했다."
-    ],
-    "chips": [
-      "#금리",
-      "#정치"
-    ]
-  },
-  {
-    "id": "n38462272",
-    "category": "IT",
-    "source": "테크M",
-    "time": "1시간 전",
-    "url": "https://www.techm.kr/news/articleView.html?idxno=154792",
-    "title": "엔비디아도 '울상'...8월 메모리값 상승세 지속",
-    "summary": [
-      "메모리반도체 가격이 상승세를 지속했다.",
-      "D램도 낸드플래시도 마찬가지다.",
-      "인공지능(AI) 시대 메모리 병목이 더 좁아졌다."
-    ],
-    "chips": [
-      "#AI",
-      "#반도체",
-      "#엔비디아"
-    ]
-  },
-  {
-    "id": "ne4b20d33",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "1시간 전",
-    "url": "https://www.donga.com/news/Politics/article/all/20260901/134579767/1",
-    "title": "[단독]북한군, 지난 주말 동·서부전선서 동시다발 MDL 남하",
-    "summary": [
-      "지난주 주말 북한군이 동부와 서부 전선에서 동시다발적으로 군사분계선(MDL)으로 남하해 군이 경고 방송, 경고 사격 등 대응에 나선 것으로 알려졌다.",
-      "북한이 국경선 요새화 작업을 진행하면서 지난해 다수 발생한 MDL 월선이 최근 다시 본격화하는 양상이다.31일 정부 소식통은 동아일보에 “주말 동안 서부 전선과 동부 전선에서 북한군이 MDL로 남하해 군이 대응한 것으로 안다”고 전했다.",
-      "사실상 전 전선에 걸쳐 관련 동향이 있었다는 것."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nea951c81",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "1시간 전",
-    "url": "https://www.donga.com/news/Culture/article/all/20260901/134579456/2",
-    "title": "죽을만큼 사랑해… 죽일만큼 사랑해",
-    "summary": [
-      "베어 베일리(마이클 존스턴)는 어릴 적부터 친한 소꿉친구 니키 프리먼(인디 내버레티)을 오래도록 짝사랑하고 있다.",
-      "마침내 고백하기로 마음먹었으나 소심한 성격 탓에 결국 실패했다.",
-      "스스로 지질함에 몸부림치던 그때, 골동품 상점에서 샀던 ‘원 위시 윌로(One Wish Willow)’가 떠오른다."
+      "퀄컴, ‘퀄컴 드래곤윙 IoT 데이’ 개최…국내 고객사·협력사 첨단 기술 시연."
     ],
     "chips": [
       "#뉴스"
@@ -638,20 +640,20 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2330건",
-    "trend": "+255%"
+    "mentions": "2460건",
+    "trend": "+275%"
   },
   {
     "rank": 2,
     "tag": "AI",
-    "mentions": "1940건",
-    "trend": "+195%"
+    "mentions": "1810건",
+    "trend": "+175%"
   },
   {
     "rank": 3,
-    "tag": "반도체",
-    "mentions": "1680건",
-    "trend": "+155%"
+    "tag": "엔비디아",
+    "mentions": "1420건",
+    "trend": "+115%"
   }
 ];
 // ====AUTO-GENERATED-END====
