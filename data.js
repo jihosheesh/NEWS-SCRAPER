@@ -1,15 +1,15 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-09-01 10:44:08
+// 마지막 업데이트: 2026-09-01 15:18:10
 window.NEWS_DB = [
   {
-    "id": "n0e045295",
+    "id": "n0a9cd638",
     "category": "IT",
-    "source": "네이트",
-    "time": "2시간 전",
-    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBGZG4xVS1ITXZDWHo2cHViS1ZjMVZzYVQybnptOXhVM1ZXVUJGYktOSTZkaHZvUjdQWFBtRkRvLTFGQ2FFZ2ZxaHB5cHU3VEJGLU13?oc=5",
-    "title": "관악구, '관악S밸리'에서 유니콘 꿈 키울 스타트업 20곳 모집",
+    "source": "관악신문",
+    "time": "6시간 전",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1vMUcxenZqYlQ3Sjd6U1NrUjdDaW1KZFdOUm5GdjFoaUNNaWN1Ri1laTlfel9Md25PNXFHYzIxWFhrSzlXcndKSzhhY2JmYmkzTy0yMEpTTTlrUDhfTmZJcFZsSm00bElSdlE?oc=5",
+    "title": "관악S밸리 신규 입주기업 모집… “미래 유니콘 기업 육성”",
     "summary": [
-      "관악구, '관악S밸리'에서 유니콘 꿈 키울 스타트업 20곳 모집 네이트."
+      "관악S밸리 신규 입주기업 모집… “미래 유니콘 기업 육성” 관악신문."
     ],
     "chips": [
       "#스타트업",
@@ -20,7 +20,7 @@ window.NEWS_DB = [
     "id": "n8bef9fa8",
     "category": "IT",
     "source": "테크M",
-    "time": "3시간 전",
+    "time": "7시간 전",
     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9tOVFTTlI0R1BwM1p5c19YMlA3NFZoXzVnSV9nS0pSS2dpZ0NrWXhOMVdRVklOcmJfaEFvM0I3ZHlDQ2MwTUlETE9jaTVhdk1zSWllOTZjN1FuczctSFBYSUZfZHBHZ9IBakFVX3lxTE1odlpDa2p4bURvekFUSE5WalJMOTlfYm5xcXFsQ1JvNUNxa2NEX1h3b3F3Z1lMZ1ZHMEZlbkhweWMzOGo0dWxtY1ZEaVBveWZ5YzdhNmE5QUlKM0RCT0Z0RlZwYmdfb3h4Wnc?oc=5",
     "title": "[글로벌] 자체 AI칩 늘어나자 판 키우는 엔비디아...미디어텍에 35억달러 투자",
     "summary": [
@@ -35,7 +35,7 @@ window.NEWS_DB = [
     "id": "n97a72ade",
     "category": "IT",
     "source": "연합뉴스",
-    "time": "5시간 전",
+    "time": "10시간 전",
     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9veGd2cVVkeWRwSE1KTUxuR2JjLTdrN3JHUHZ3VWw1NVJ6LWVqZVBjeHc0LXNCTFYwaVloWFg2SGd1eVI5eEdhdFJ3QjNNNDRqYTRVdXhDa18yZkXSAWBBVV95cUxPdHA5OTlORXNMdUJLWnNBN1ppWkpvaWo2eTRtYXJvdG1FZmxoMjI4a3pCa1AyakxWdUN0M2R1MkFFdi1zQlZUaUZLRHdrWXJjeTZCOF80dlJtckxlRkE4OWs?oc=5",
     "title": "엔비디아, 대만 미디어텍에 4조7천억원 투자…\"파트너십 확대\"",
     "summary": [
@@ -49,7 +49,7 @@ window.NEWS_DB = [
     "id": "na9bf3191",
     "category": "IT",
     "source": "더코리아",
-    "time": "8시간 전",
+    "time": "13시간 전",
     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4yMmtYQl8xRHVocVdkZUVXLTlRb2JoTXpkSF84VEIwUWFLX1o4NjROUEZCQmtIa0QtT0FCRXpwWEdrWHRmQjlPWXNva0R1cEZMVXRKaFRLdDRfZVk1MlRKM21kMHRIaEdfbDJxLW5UWnE?oc=5",
     "title": "관악S밸리 벤처 영토 확장 창업 둥지 트는 미래 유니콘 > 뉴스",
     "summary": [
@@ -63,7 +63,7 @@ window.NEWS_DB = [
     "id": "n73c02f7b",
     "category": "IT",
     "source": "Chosunbiz",
-    "time": "9시간 전",
+    "time": "14시간 전",
     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPcl9HVnNRWURTZl90cUQ0cFNRbkJDTEV0MmJzbFhJQWp3Q3pwM3lNLVRzZHV2cG1TRjZsbjJpRXJfa0JXbDdLWGR0R1draURGS0QwZ0UweDBzQXY0dFpWMGpJZi1UeVJBQXNyNFhueGNhTzV3bEJORHVDd3Z6ZGRnTU130gGWAUFVX3lxTFBJa0h2UmNZZGttc1l1bV9LUHpyMmt3UkNLRFNRQXBkbG5KV1dDNmNiLVprNzNHZFBGNHFpWnZZN3JBWm1iLThJZF85Xzh0VTcwYVZhZllDYVlJNVBXLWNyX19mYXVxVG5GaEt5QTdLVU1BYVZ4WjZrOUpoYTNWUjI5dF9WU3g2SVZIMHdtMzNoS2dPYVdyQQ?oc=5",
     "title": "엔비디아, 미디어텍에 4.8조원 투자… AI 인프라·PC·車 협력 확대 - 조선비즈",
     "summary": [
@@ -78,7 +78,7 @@ window.NEWS_DB = [
     "id": "n9c75b486",
     "category": "IT",
     "source": "연합뉴스",
-    "time": "11시간 전",
+    "time": "15시간 전",
     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8xRV9oamM3RUJSLW5Ra3JEcXFmMVFtLTBwYk9zWGVUSzRzQjZCSW1TbFFYUjgzWUdqNzNjb1V2a2FvSVFrMUxyTlhBMHdfTXNBaVM3T3EwdVRuNDg3SEtORtIBYEFVX3lxTE8xRV9oamM3RUJSLW5Ra3JEcXFmMVFtLTBwYk9zWGVUSzRzQjZCSW1TbFFYUjgzWUdqNzNjb1V2a2FvSVFrMUxyTlhBMHdfTXNBaVM3T3EwdVRuNDg3SEtORg?oc=5",
     "title": "\"관악S밸리에서 유니콘의 꿈을\"…관악구, 입주사 최대 20곳 모집",
     "summary": [
@@ -138,38 +138,6 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n244b0da4",
-    "category": "사회",
-    "source": "경북매일",
-    "time": "6일 전",
-    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBYUEFCOVNDZG1rQ3VxRlNlRFJQSDF1aVRMZmxFS09FNWRndks2eEVEVEx1RkQteERzdTJ0WVhXY2JBNUIxVVdBb1NtaU5HS3lRUWxfNFRPQ25YZw?oc=5",
-    "title": "경주시시설관리공단-경주시취업지원센터, 지역 일자리 활성화 ‘맞손’",
-    "summary": [
-      "경주시시설관리공단-경주시취업지원센터, 지역 일자리 활성화 ‘맞손’ 경북매일."
-    ],
-    "chips": [
-      "#취업",
-      "#고용"
-    ]
-  },
-  {
-    "id": "n72333e67",
-    "category": "사회",
-    "source": "서울뉴스통신",
-    "time": "12일 전",
-    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1PU0xyNnJwRUhKbThVQm9zempWb0p3QVBUUEE3YVQxZ05XdXdUeUtfT01hZlVMbTA2ZTlKU2ctUlhJTVNWVlJMNXFHenVndGxFVG9xMGdVdnh1dEtZUENkdFQ5dXdRRjNTdVh3?oc=5",
-    "title": "고용센터 AI 기반 맞춤형으로 개편…구직 상담·기업 채용지원 대폭 강화",
-    "summary": [
-      "고용센터 AI 기반 맞춤형으로 개편…구직 상담·기업 채용지원 대폭 강화 서울뉴스통신."
-    ],
-    "chips": [
-      "#AI",
-      "#채용",
-      "#취업",
-      "#고용"
-    ]
-  },
-  {
     "id": "n5887154b",
     "category": "경제",
     "source": "서울경제",
@@ -181,21 +149,6 @@ window.NEWS_DB = [
     ],
     "chips": [
       "#환율"
-    ]
-  },
-  {
-    "id": "n5ee6ae18",
-    "category": "사회",
-    "source": "아웃소싱타임스",
-    "time": "19일 전",
-    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5zc2F0ZE5OclByMVNLM3M5cTZ0ZFduRE1SaWFVQU9fTjl2U1RoV0RvU3o4NkNTQ2g2b2J3a3FGZGxSRnZHM01mVTNGMV9nOTg3OFc4RmwtZnZzdngtYVQzd0N2c2FSVXdEWVlCMGxIQTZDdw?oc=5",
-    "title": "[화제] 구직자는 늘었는데 취업은 줄었다…2026년 2분기 민간 고용서비스 ‘엇갈린 흐름’",
-    "summary": [
-      "[화제] 구직자는 늘었는데 취업은 줄었다…2026년 2분기 민간 고용서비스 ‘엇갈린 흐름’ 아웃소싱타임스."
-    ],
-    "chips": [
-      "#취업",
-      "#고용"
     ]
   },
   {
@@ -224,6 +177,38 @@ window.NEWS_DB = [
     ],
     "chips": [
       "#부동산"
+    ]
+  },
+  {
+    "id": "n6b58f8f3",
+    "category": "사회",
+    "source": "ajunews.com",
+    "time": "64일 전",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5FSkF1TmQxQlBoNE14SmsybFhoZDZyR0VEcm04My1JZnM4VjZFNlZOWTRteFNuU05UbnpRQlRraldzaEN6bjMtWHE5c0ZuUEFKa04zZXhaazdGd9IBWEFVX3lxTE1vV2tXSWRPZXBXZFdCWHp1dks5NW5zQnFQYVF1bTBWUjRpam1ITlN2NXhSZ3hhNVU2TV9NM0J4bURmbHFxWnAxd3I0VURPV19jeURVYUFEQTk?oc=5",
+    "title": "구직자에 취업확률, 기업에 채용 피드백 제공…노동부, 고용24 고도화",
+    "summary": [
+      "구직자에 취업확률, 기업에 채용 피드백 제공…노동부, 고용24 고도화 ajunews.com."
+    ],
+    "chips": [
+      "#채용",
+      "#취업",
+      "#고용"
+    ]
+  },
+  {
+    "id": "nf33ebd3a",
+    "category": "사회",
+    "source": "브릿지경제",
+    "time": "64일 전",
+    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE8xX09vT3F4TnpZenQ2c3RMVmU2NEt2ZGdaQkxGeUFOWl9wOG1XN3RDZVQzSFN6ekZxMVcwRnVZSG5Oak9MWlJXNktlXzliUXVzN2Voaw?oc=5",
+    "title": "AI가 취업확률 분석하고 일자리 추천까지…고용24, 맞춤형 취업 서비스 시작",
+    "summary": [
+      "AI가 취업확률 분석하고 일자리 추천까지…고용24, 맞춤형 취업 서비스 시작 브릿지경제."
+    ],
+    "chips": [
+      "#AI",
+      "#취업",
+      "#고용"
     ]
   },
   {
@@ -256,32 +241,33 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n79d12fb6",
-    "category": "부동산",
-    "source": "Chosunbiz",
-    "time": "95일 전",
-    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQc01fQzQ5RjhjTzMxV0xObHgwUFQ5Z0ozcklaR19VYmhUOXBxVURFZVBjZkxKT2ozQUhsVzViV1JCLXdvVUQ1YWVwYTA5bVB1TjdaYlZHTXFCQUJoRTBsdHNHZXZ5MnJQdVliYzVUUktidVpvNDNzWVJXakYzUFBTMFMxd1Y0NFVrTnhSR1c5WXctLTdFRnhJMtIBrAFBVV95cUxOMk9EaXo0bmRJdnJyRVgyM0REZE1IR1VEVkNzWVNHZW9nR3p3WDRXcXQ0dnpfNk5LRE9SVFVscW45RzlqYTZGTWhWdTlybngycnM5QUliSG1haVFoQW5xT3ZpbFJvWU5hYjNYUGNLTHVyNHgwcDdLZWFsdFhMTHhCNlBodDFsdkFTT0tFX3NXWGZ1M2hCTEpmbTVUVXRzREtvSy1CdkRyWE5sbU5p?oc=5",
-    "title": "매물 줄고 분양가 뛰고… 전국 아파트 매매·전셋값 동반 상승세 지속 - 조선비즈",
-    "summary": [
-      "매물 줄고 분양가 뛰고… 전국 아파트 매매·전셋값 동반 상승세 지속 - 조선비즈 Chosunbiz."
-    ],
-    "chips": [
-      "#부동산"
-    ]
-  },
-  {
     "id": "nb9bdfdfb",
     "category": "스포츠",
-    "source": "foodtoday.or.kr",
+    "source": "푸드투데이",
     "time": "95일 전",
     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9BVmpLTU1zOFZsU1RWVmVOSXppaWhDWFBBRkF4akI3WHBIcXIyX2pXa3JaeXplMm9vbmE4cU1PclhFTXVZdURxQ0RCYTF3aFNsbmRKcTZ5VE9na0cwakQ2XzNuWlJ5QQ?oc=5",
     "title": "‘손흥민 월드콘.KBO몽쉘’ 축구.야구팬 다 잡자...롯데웰푸드, 스포츠마케팅 총력",
     "summary": [
-      "‘손흥민 월드콘.KBO몽쉘’ 축구.야구팬 다 잡자...롯데웰푸드, 스포츠마케팅 총력 foodtoday.or.kr."
+      "‘손흥민 월드콘.KBO몽쉘’ 축구.야구팬 다 잡자...롯데웰푸드, 스포츠마케팅 총력 푸드투데이."
     ],
     "chips": [
       "#손흥민",
       "#KBO"
+    ]
+  },
+  {
+    "id": "n08b2b275",
+    "category": "부동산",
+    "source": "한국부동산뉴스",
+    "time": "140일 전",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBZNmg3TVp4ZWZCV1ZzTE14bXV5UkN4MExnMmZJdkpfNUsyUGltRWlJVWVfUzJoQktRUlcwMTdrUUtuWk9pR2MxaFlhNGpOU0xGZjM3eDUwdlNmRWQtYkFaenAyekhVRGRRY0pJ?oc=5",
+    "title": "대출 규제에 몰린 '15억 이하'…비강남 집값·분양가 동반 상승",
+    "summary": [
+      "대출 규제에 몰린 '15억 이하'…비강남 집값·분양가 동반 상승 한국부동산뉴스."
+    ],
+    "chips": [
+      "#부동산",
+      "#정책"
     ]
   },
   {
@@ -310,6 +296,21 @@ window.NEWS_DB = [
     ],
     "chips": [
       "#KBO"
+    ]
+  },
+  {
+    "id": "nb36dbf94",
+    "category": "사회",
+    "source": "서울특별시",
+    "time": "305일 전",
+    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE96VE9RbmlQMy1xajJseG5PV2xMckFFeWFFaWQ3dmhfV2hWS3VCRnNEakFUOWh5a0ZsSlNZRmpVQmRDeDRqVkRQdXBqUlltQy1nUkJrOUhjTDg?oc=5",
+    "title": "11월엔 취업문이 활짝! '일자리 박람회' 3곳 소개",
+    "summary": [
+      "11월엔 취업문이 활짝! '일자리 박람회' 3곳 소개 서울특별시."
+    ],
+    "chips": [
+      "#취업",
+      "#고용"
     ]
   },
   {
@@ -377,184 +378,226 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "naaf590bd",
+    "id": "nf631ba19",
     "category": "사회",
     "source": "뉴시스",
-    "time": "4분 전",
-    "url": "https://www.newsis.com/view/NISX20260901_0003772192",
-    "title": "기본소득당 \"보조금 11억 아닌 3.5억…우리 없어지면 국힘 수혜\"",
+    "time": "3분 전",
+    "url": "https://www.newsis.com/view/NISX20260901_0003772293",
+    "title": "트럼프 행정부, 선거앞 이민단속 박차…8월만 5만명 체포",
     "summary": [
-      "[서울=뉴시스]이기주 인턴 기자 = 오준호 기본소득당 대표 후보가 용혜인 의원의 의원직 유지를 두고 연간 11억원의 국고보조금을 받기 위한 것이라는 나경원 국민의힘 의원의 비판에 반박했다.",
-      "오 후보는 실제 보조금을 올해 3분기까지 3.5원 가량을 받았으며, 용 의원이 사퇴할 경우 기본소득당은 1석을 잃고 해당 의석은 더불어민주연합 후순위인 민주당 후보가 승계하게 된다고 주장했다.",
-      "또 기본소득당에 배분될 보조금 역시 국고에 남는 것이 아니라 국민."
+      "[워싱턴=뉴시스] 이윤희 특파원 = 도널드 트럼프 미국 행정부가 11월 중간선거를 앞두고 불법이민자 단속에 열을 올리고 있다.",
+      "미국 NBC는 1일(현지 시간) 국토안보부 고위관계자를 인용해 이민세관단속국(ICE) 요원들이 지난달 약 5만명을 체포한 것으로 집계됐다고 보도했다.",
+      "이는 트럼프 2기 행정부 출범 이후 가장 많은 이민자 체포가 이뤄졌던 7월 수치와 유사한 수준이라고 매체는 전했다."
     ],
     "chips": [
-      "#뉴스"
+      "#정치"
     ]
   },
   {
-    "id": "ne60e2709",
+    "id": "nc35b95db",
     "category": "사회",
-    "source": "뉴시스",
-    "time": "4분 전",
-    "url": "https://www.newsis.com/view/NISX20260901_0003772176",
-    "title": "中, PIF 정상회의 대만 참석에 \"결과 뒤따를 것\" 경고",
-    "summary": [
-      "[코로르(팔라우)=AP/뉴시스] 유세진 기자 = 중국이 31일 팔라우 최대 도시 코로르에서 열린 연례 정상회의에 대만이 파트너로 참석한 것에 대해 \"참석에 따른 결과과 있을 것\"이라고 경고했다.",
-      "이번 회의는 태평양 도서국가 포럼(PIF) 18개 회원국들 외에 중국과 미국, 대만이 파트너로 참여했는데, 이들은 모두 팔라우의 초청을 받은 파트너 자격으로 참석했다.",
-      "중국은 '대화 파트너', 대만은 '개발 파트너'로 초청을 받았다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "ndb941eb1",
-    "category": "스포츠",
     "source": "조선일보",
-    "time": "7분 전",
-    "url": "https://www.chosun.com/sports/world-football/2026/09/01/GY4GKOBRMI3WMNBXGJTGEOBXGE/",
-    "title": "'이강인 맹활약에도…' 웃지 못하는 아틀레티코 마드리드, '주포' 훌리안 알바레즈 잔류 엔딩 가능성 'FC바르셀로나 이적 불가→아스널 희박'",
+    "time": "6분 전",
+    "url": "https://www.chosun.com/entertainments/broadcast/2026/09/02/GAYDAZBQMIZDOOJQHAYWMMTBGQ/",
+    "title": "'손예진♥' 현빈, 바빠도 가족과 함께 \"아들 위해 어디든 놀러가려 해\"",
     "summary": [
-      "[스포츠조선 김가을 기자]훌리안 알바레즈(아틀레티코 마드리드)의 상황엔 변화가 없다.",
-      "스페인 언론 '문도데포르티보'는 8월 31일(이하 한국시각) '여름 이적 시장의 마감일이 얼마 남지 않았다.",
-      "알바레즈의 상황은 변함이 없다."
+      "방송 시청 후 작성된 리뷰 기사입니다.[OSEN=최지연 기자] 배우 현빈이 아이가 생긴 뒤 가족들과 휴가를 꼭 즐기려고 한다고 알렸다.",
+      "1일 방송된 SBS 예능 프로그램 '틈만나면,'에는 ‘투유 MC’ 유재석, 유연석과 ‘틈친구’ 현빈, 우도환이 안양의 틈새 시간을 찾아가 눈길을 끌었다.이날 네 사람은 첫 번째 '틈 주인'을 만나기 위해 걸어서 이동하며 근."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n0bb121f8",
-    "category": "경제",
-    "source": "연합뉴스(경제)",
-    "time": "7분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260901190000008",
-    "title": "한국거래소, 14일 개장 애프터마켓서 ETF·ETN 거래 제외",
+    "id": "nc648d06d",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "6분 전",
+    "url": "https://www.chosun.com/sports/2026/09/02/EA3E4WQ2B5FQTJCIL6SRRYESQM/",
+    "title": "'보스 고별전 7이닝 무실점' 삼성, 롯데 5연패 몰고 6연승…1위 수성",
     "summary": [
-      "(서울=연합뉴스) 김유아 기자 = 한국거래소가 이달 14일 개장하는 애프터마켓(오후 4∼8시)의 시간외접속매매 대상에서 상장지수펀드(ETF)와 ..."
+      "'보스 고별전 7이닝 무실점' 삼성, 롯데 5연패 몰고 6연승…1위 수성."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "nda093540",
-    "category": "경제",
-    "source": "뉴시스",
-    "time": "8분 전",
-    "url": "https://www.newsis.com/view/NISX20260901_0003772191",
-    "title": "美 장기국채 바이백 최소 2배 예고…원화 2.83%↑, 신흥국으로 뭉칫돈 몰리나",
-    "summary": [
-      "[서울=뉴시스]박영환 기자 = 미국 재무부가 오는 9일부터 장기 국채 바이백(조기 환매) 규모를 회당 최소 2배로 늘리기로 하면서 달러 약세와 고금리 신흥시장 자산을 겨냥한 투자자금 유입이 이어질 것이라는 전망이 나왔다.",
-      "재무부의 발표 이후 원화는 달러 대비 2.83% 올랐다.",
-      "미 CNBC는 1일(현지시간) 로빈 브룩스 브루킹스연구소 선임연구원 등 시장 전문가들을 인용해 신흥시장으로 막대한 투자자금이 몰릴 수 있다고 보도했다."
-    ],
-    "chips": [
-      "#금리"
-    ]
-  },
-  {
-    "id": "n5d107341",
+    "id": "n1f44692b",
     "category": "사회",
     "source": "뉴시스",
     "time": "8분 전",
-    "url": "https://www.newsis.com/view/NISX20260901_0003772190",
-    "title": "김용범 \"첫 정책실장 소임 마쳐…우리가 만든 결과 자랑스럽다\"",
+    "url": "https://www.newsis.com/view/NISX20260901_0003772296",
+    "title": "12년만의 귀환…고영진 전 경남교육감, 권순기 교육감과 '경남미래교육' 논의(종합)",
     "summary": [
-      "[서울=뉴시스]조재완 기자 = 사의를 표명한 김용범 청와대 정책실장이 1일 \"우리가 만든 결과가 자랑스럽다\"고 소회를 밝혔다.",
-      "김 실장은 이날 오후 페이스북을 통해 \"오늘 이재명 정부의 첫 정책실장으로서 맡은 소임을 마쳤다.",
-      "별도의 퇴임 인사 대신, 저와 가장 가까이에서 일해온 정책실 동료들에게 보낸 작별인사를 공유한다\"며 이같이 적었다."
+      "[창원=뉴시스] 김기진 기자 = 12년만의 귀환.",
+      "고영진 전 경남교육감은 '진보' 성향의 박종훈 경남교육감에게 교육감 자리를 내주고 12년만에 경남교육감 집무실을 찾았다.",
+      "직속 고향 후배인 진주 출신의 권순기 경남교육감이 '보수 아이콘'으로 나서서 제19대 경남교육감으로 등극하기까지 '뒷 배' 역할을 했다."
     ],
     "chips": [
-      "#정책"
+      "#교육"
     ]
   },
   {
-    "id": "n945f5701",
+    "id": "ne2bcb4ce",
+    "category": "경제",
+    "source": "뉴시스",
+    "time": "8분 전",
+    "url": "https://www.newsis.com/view/NISX20260901_0003770841",
+    "title": "\"개별 종목보다 ETF…10% 벌고 파는 건 카지노\" 존리의 노후자금 투자법",
+    "summary": [
+      "[서울=뉴시스]서이현 인턴 기자 = 전문가가 노후자금 마련을 위해서 퇴직연금과 연금저축 계좌를 활용해 주식형 자산에 장기 투자하는 것을 권했다.",
+      "31일 유튜브 채널 '신사임당'에는 존리 존리의 부자학교 대표가 출연해 노후자금 투자법을 소개했다.",
+      "존리 대표는 메리츠자산운용 전 대표이사를 지냈다."
+    ],
+    "chips": [
+      "#교육"
+    ]
+  },
+  {
+    "id": "nec6ef10d",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "8분 전",
+    "url": "https://www.newsis.com/view/NISX20260901_0003770667",
+    "title": "평생 월급 노예 vs 수백억 부자…전문가가 말하는 결정적 차이 '3가지'",
+    "summary": [
+      "[서울=뉴시스]이준형 인턴 기자 = '아들아, 돈 공부해야 한다'의 저자 정선용 작가가 '월급 노예'로 남는 사람과 부자가 되는 사람의 결정적 차이를 제시해 주목받고 있다.",
+      "31일 유튜브 채널 '너와 나의 경제학교'에는 '30여년 직장생활하면서 수천명 만나보고 깨달은 평생 '월급 노예'로 끝나는 사람 vs 수백억 부자가 되는 사람의 결정적 차이'라는 제목의 영상이 올라왔다.",
+      "정 작가는 유통업계 등에서 30년 동안 근무하며 만난 부자들의 공통점을."
+    ],
+    "chips": [
+      "#교육"
+    ]
+  },
+  {
+    "id": "nf465af66",
     "category": "사회",
     "source": "조선일보",
-    "time": "9분 전",
-    "url": "https://www.chosun.com/entertainments/broadcast/2026/09/01/MVRGGMLBMMYDEZDEGM2TQNDBMY/",
-    "title": "이시영, 바이크 타며 성난 복근까지..멋짐이 폭발했다 “애 엄마 같지 않아”",
+    "time": "8분 전",
+    "url": "https://www.chosun.com/opinion/editorial/2026/09/02/XURGIR75M5ELJJUY6E2TUFB7TM/",
+    "title": "[사설] 개각서 김용범 뺐다가, 다음날 경질, 희한한 쇄신 인사",
     "summary": [
-      "[OSEN=임혜영 기자] 배우 이시영이 탄탄한 복근을 뽐냈다.이시영은 1일 개인 채널에 “여름 안녕”, “정말 뜨거웠던 여름”, “이안이랑 올해도 소중한 기억 담아 갑니다”라는 글과 함께 여러 장의 사진을 게재했다.공개된 사진 속 이시영은 평소 취미로 즐기고 있는 바이크 앞에서 모델 같은 자세를 취하는 모습이다.이시영은 브라톱에 청바지, 셔츠를 입은 모습이."
+      "[사설] 개각서 김용범 뺐다가, 다음날 경질, 희한한 쇄신 인사."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n16a117d0",
+    "id": "n5775a481",
     "category": "사회",
     "source": "연합뉴스",
-    "time": "11분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260901189700089",
-    "title": "中, '외자기업 투자' 외국인 배당소득 면세 종료…20% 내야",
+    "time": "13분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260901201900098",
+    "title": "스타머 전 영국 총리, 의원직도 사퇴…\"국제문제에 집중\"",
     "summary": [
-      "(상하이=연합뉴스) 차병섭 특파원 = 중국이 외자기업에 투자한 외국인에게 부여해왔던 배당소득 면세 혜택을 종료했다."
+      "(브뤼셀=연합뉴스) 현윤경 특파원 = 키어 스타머 전 영국 총리가 총리직에서 물러난 지 약 6주 만에 의원직에서도 사퇴한다는 의사를 밝혔다고 1..."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "ne1139a8a",
+    "id": "nd6d11a38",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "18분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260902000100011",
+    "title": "[알림] 연합뉴스 콘텐츠 저작권 고지",
+    "summary": [
+      "연합뉴스가 제공하는 기사, 사진, 그래픽, 영상 등 모든 콘텐츠는 관련 법의 보호를 받습니다.",
+      "연합뉴스 콘텐츠를 사전허가 없이 전재·방송하거나 ..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nc2426f0b",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "18분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260901201600108",
+    "title": "에르도안, 푸틴에 \"새 원전 건설에도 함께\"",
+    "summary": [
+      "(이스탄불=연합뉴스) 김동호 특파원 = 레제프 타이이프 에르도안 튀르키예 대통령은 1일(현지시간) 블라디미르 푸틴 러시아 대통령과 정상회담하면서..."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n2bb588be",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "25분 전",
+    "url": "https://www.donga.com/news/Society/article/all/20260901/134587529/2",
+    "title": "中유학생 살해 정창성, 범행 후 쓰레기 버리는 등 대낮 활보",
+    "summary": [
+      "경북 경산에서 같은 중국 국적의 여성 유학생을 살해한 혐의(살인 및 사체손괴·유기 등)를 받는 중국인 남성 정창성(31)의 범행 후 모습이 1일 공개됐다.이날 채널A가 공개한 폐쇄회로(CC)TV 영상에 따르면 지난달 21일 오후 경산 주거지 인근 골목길에서 검은색 티셔츠에 반바지 차림을 한 정창성의 모습이 포착됐다.",
+      "그는 검은색 비닐봉지 두 개를 왼손에 들고 휴대전화에 시선을 고정한 채 길을 걸었다.",
+      "주변을 살피는 등의 행동은 없었다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n7ff24797",
     "category": "사회",
     "source": "조선일보",
-    "time": "11분 전",
-    "url": "https://www.chosun.com/national/regional/gyeonggi-incheon/2026/09/01/AVDQNIEQYNEYJLWSITDB2C6N7I/",
-    "title": "“이혼 소송 불리할까봐”... 30대 공무원, 아내 살해",
+    "time": "29분 전",
+    "url": "https://www.chosun.com/national/national_general/2026/09/02/J7HRFGFVEJDGPJEWM4ZAKZOIGE/",
+    "title": "실종 ‘허위 종결’ 여파... 제주경찰청장 승진 무산됐다",
     "summary": [
-      "“이혼 소송 불리할까봐”... 30대 공무원, 아내 살해."
+      "실종 ‘허위 종결’ 여파... 제주경찰청장 승진 무산됐다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n35bd0a01",
-    "category": "스포츠",
-    "source": "동아일보",
-    "time": "12분 전",
-    "url": "https://www.donga.com/news/It/article/all/20260901/134586525/1",
-    "title": "ROG 20주년 팝업 가보니… 한정판 ‘로갈리’에서 ‘G1000’까지 한자리",
+    "id": "nf9ffc919",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "41분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260901201100004",
+    "title": "21개월 공석 경찰청장, 세번째 대행체제…제주청장은 문책성 이동",
     "summary": [
-      "에이수스의 게이밍 전문 브랜드 ‘ROG(Republic of Gamers)’가 올해로 출범 20주년을 맞이했다.",
-      "ROG는 브랜드 등장 초기만 해도 오버클러킹용 메인보드 등 일부 마니아·전문가를 겨냥한 부품류 제품이 주를 이뤘다.",
-      "그러나 고급 사용자들 사이에서 성능과 완성도가 좋다는 입소문이 퍼지면서 점차 제품군을 넓혔고, 최근에는 게이밍 노트북을 비롯해 일반 소비자가 주로 접하는 영역에서도 높은 인지도를 갖추게 됐다.e스포츠 강국인 한국에서도."
+      "(서울=연합뉴스) 이동환 기자 = 김종철 경남경찰청장이 1일 경찰청 차장으로 임명되면서 계엄 이후 세 번째 경찰청장 직무대행을 맡게 됐다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "nb3ea072d",
+    "id": "nfdde4bea",
     "category": "IT",
     "source": "동아일보",
-    "time": "14분 전",
-    "url": "https://www.donga.com/news/It/article/all/20260901/134586508/1",
-    "title": "[SBA x IT동아] 다이버 “굿즈는 브랜드를 경험하게 하는 가장 강력한 도구”",
+    "time": "48분 전",
+    "url": "https://www.donga.com/news/Opinion/article/all/20260901/134586836/2",
+    "title": "[사설]내년 예산 821조, 나랏빚 1500조… ‘빚의 역습’ 대비해야",
     "summary": [
-      "[SBA x IT동아 공동기획] 서울특별시와 서울경제진흥원(SBA)이 마련한 서울창업허브 공덕은 유망 스타트업을 발굴, 초기 창업부터 성장기까지 단계별 프로그램을 지원해 육성합니다.",
-      "2026년 두드러진 활동을 펼친, 성장 가능성이 높은 유망 스타트업을 소개합니다.국내에서 ‘굿즈’라고 하면 아직도 행사장에서 나눠주는 판촉물 정도로 여겨지는 경우가 많다.",
-      "그러다 보니 이 시장은 크게 둘로 나뉜다."
+      "내년도 정부 예산안이 820조9000억 원 규모로 편성됐다.",
+      "올해 본예산보다 93조 원 늘어난 ‘초팽창 예산’이다.",
+      "올해 처음 700조 원을 넘어섰는데 1년 만에 앞자리가 또 바뀌었다."
     ],
     "chips": [
-      "#스타트업"
+      "#반도체"
     ]
   },
   {
-    "id": "n8f315cf4",
+    "id": "neabb7036",
     "category": "사회",
     "source": "동아일보",
-    "time": "15분 전",
-    "url": "https://www.donga.com/news/Inter/article/all/20260901/134584267/1",
-    "title": "시진핑, 러·이집트·인도와 연쇄 회담…트럼프 만나기 전 광폭 외교",
+    "time": "51분 전",
+    "url": "https://www.donga.com/news/Opinion/article/all/20260901/134586842/2",
+    "title": "[사설]김용범 사퇴… 내각이 청와대만 쳐다보도록 해선 안 돼",
     "summary": [
-      "시진핑(習近平) 중국 국가주석이 1일 중앙아시아 키르기스스탄의 수도 비슈케크에서 열린 ‘상하이협력기구(SCO)’ 정상회의 본회의에서 “ 외부 세력의 내정간섭, 정치안보 위협, 지역 안정 파괴를 엄격히 막아야 한다”고 밝혔다.",
-      "이란 전쟁, 전 세계를 대상으로한 관세 부과 정책으로 비판받는 도널드 트럼프 미국 대통령을 겨냥한 발언으로 풀이된다.",
-      "24일 미국 워싱턴에서 트럼프 대통령과의 회담을 앞두고 있는 시 주석은 하루 전 블라디미르 푸틴 러시아."
+      "김용범 대통령정책실장이 1일 자리에서 물러났다.",
+      "김 실장이 전날 사의를 표명하고 이재명 대통령이 하루 만에 사표를 수리했다고 한다.",
+      "이재명 정부 초대 정책실장으로 임명된 지 1년 3개월 만으로, 실장급 청와대 고위 참모의 첫 교체다."
     ],
     "chips": [
       "#정책",
@@ -562,78 +605,33 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n99917079",
-    "category": "경제",
-    "source": "동아일보",
-    "time": "15분 전",
-    "url": "https://www.donga.com/news/list/article/all/20260901/134586492/2",
-    "title": "현대차 파업에 8월 실적 부진… 쏘렌토 내수 판매 1위",
-    "summary": [
-      "국내 5개 완성차업체가 지난 8월 글로벌 시장에서 총 58만9412대를 판매했다.",
-      "현대자동차가 파업에 따른 생산 차질로 두 자릿수 감소한 가운데 KGM과 르노코리아도 부진한 실적을 보였다.",
-      "반면 기아는 해외 판매 증가에 힘입어 성장세를 이어갔다."
-    ],
-    "chips": [
-      "#수출"
-    ]
-  },
-  {
-    "id": "n5186c1da",
+    "id": "n7bb5e37f",
     "category": "사회",
-    "source": "연합뉴스",
-    "time": "17분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260901188900063",
-    "title": "'서울대 10개 만들기' 선정 충남대 \"대덕특구·중부권 첨단산업 잇는 성장축\"",
+    "source": "동아일보",
+    "time": "54분 전",
+    "url": "https://www.donga.com/news/Opinion/article/all/20260901/134586840/2",
+    "title": "[사설]테러 물자 조달 외국인 첫 검거… 테러 조직에 빈틈 안 된다",
     "summary": [
-      "(대전=연합뉴스) 변선진 기자 = 충남대학교는 이재명 정부의 핵심 교육 국정과제인 '서울대 10개 만들기' 패키지 지원대학으로 선정된 1일 \"대..."
+      "국내에서 중고차와 굴착기 등 장비를 사들여 국제 테러단체에 보낸 우즈베키스탄 남성 4명이 경찰에 검거됐다.",
+      "과거 테러단체에 돈을 송금한 외국인들이 검거된 사례가 있지만 이번처럼 테러단체로부터 자금을 받아 물자까지 조달한 게 적발된 것은 처음이다.",
+      "구속된 주범은 유엔이 지정한 이슬람 극단주의 무장 테러단체 KTJ에서 받은 가상자산으로 물건을 산 뒤 조직 거점이 있는 시리아로 보냈다."
     ],
     "chips": [
-      "#교육"
+      "#뉴스"
     ]
   },
   {
-    "id": "n9f743243",
+    "id": "na1601fd4",
     "category": "IT",
-    "source": "연합뉴스",
-    "time": "17분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260901185400017",
-    "title": "\"AI 경쟁력, 국민 신뢰 뒷받침돼야\"…한·유럽 정책 대화",
+    "source": "조선비즈IT",
+    "time": "1시간 전",
+    "url": "https://biz.chosun.com/it-science/ict/2026/09/01/TCT22UXFJVFVVA6JYVSYOTZYEY/",
+    "title": "배경훈 부총리, G20 혁신 장관회의 참석해 ‘AI 3강’ 전략 소개",
     "summary": [
-      "(서울=연합뉴스) 권하영 기자 = 국가인공지능전략위원회가 유럽 주요 정책·노동계 인사들과 만나 사회적 정당성을 갖춘 인공지능(AI) 전략 수립 ..."
+      "배경훈 부총리, G20 혁신 장관회의 참석해 ‘AI 3강’ 전략 소개."
     ],
     "chips": [
-      "#AI",
-      "#정책"
-    ]
-  },
-  {
-    "id": "n19f4841a",
-    "category": "경제",
-    "source": "아시아경제",
-    "time": "23분 전",
-    "url": "https://view.asiae.co.kr/article/2026090119201433578",
-    "title": "유로존 8월 물가상승률 3.3%…3년 만에 최고",
-    "summary": [
-      "유로존(유로화 사용 21개국)의 지난달 물가상승률이 에너지 가격 급등으로 3년 만에 최고치를 기록했다.",
-      "1일(현지시간) 유럽연합(EU) 통계기구 유로스타트에 따르면 지난달 유로존 소비자물가는 전년 대비 3.3% 오른 것으로 잠정 집계됐다.",
-      "이는 2023년 9월(4.3％) 이후 약 3년 만에 가장 가파른 상승폭이다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "na879663d",
-    "category": "경제",
-    "source": "연합뉴스(경제)",
-    "time": "28분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260901185051002",
-    "title": "상호금융 가계대출 목표치 배분 완료…새마을금고·신협도 늘어(종합)",
-    "summary": [
-      "(서울=연합뉴스) 강수련 김지연 강류나 기자 = 금융당국이 새마을금고 등 상호금융업권에도 가계대출 총량 관리 목표치 배분이 마무리됐다."
-    ],
-    "chips": [
-      "#뉴스"
+      "#AI"
     ]
   }
 ];
@@ -643,8 +641,8 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2330건",
-    "trend": "+255%"
+    "mentions": "2200건",
+    "trend": "+235%"
   },
   {
     "rank": 2,
@@ -654,7 +652,7 @@ window.KEYWORD_TOP = [
   },
   {
     "rank": 3,
-    "tag": "스타트업",
+    "tag": "엔비디아",
     "mentions": "1420건",
     "trend": "+115%"
   }
