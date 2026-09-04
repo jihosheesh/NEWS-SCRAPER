@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-09-04 18:41:21
+// 마지막 업데이트: 2026-09-04 21:08:54
 window.NEWS_DB = [
   {
     "id": "nbd40a3c1",
     "category": "IT",
     "source": "팝콘뉴스",
-    "time": "13시간 전",
+    "time": "15시간 전",
     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1RN0lISnUzaEstdC1qbExJRWNiZGV2WUdyOEhSM3pMS0ZyUzVLRXIwSDdaMmp4cl9ZdGt1cjZ0bm93eWhwSHU1bUp0LS1Ld0VWVmJyQnIxdFRHc3lHampXbFNHcFBSTUoyc0tHSUJn0gFyQVVfeXFMTXJEckVScGZzcmhodFdOSDQtQjdObkpaOW8xNGhIeWlTT24xYVZGWnFuUU1uM0Y2YnVXckd4Q05jY1lMNlQxVU5UMDE3Zk5RVmhZQlRXQ19CQU00a0pFNGpvdGhNU2JiMWhTQ1JRdmZ2VjV3?oc=5",
     "title": "삼성·SK하이닉스, 3분기도 웃는다…HBM에 D램 가격 상승까지 '쌍끌이'",
     "summary": [
@@ -17,24 +17,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nd3c8b478",
-    "category": "IT",
-    "source": "dailycar.co.kr",
-    "time": "19시간 전",
-    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5CY1RwSTZXRDRTVmctTHRmRkNGYk1STFR5a1ZuLWlWUG92dHk4QXJBbjkyWjZsc1hBSDZQVFJUVFVlYUZXVG9nWHd1WGhwM0tfMGdndzF5Zzc5cFRKb0R4c2xpQ013MFl2QzVjMzVHYno1TmtnMmc?oc=5",
-    "title": "아마존, 엔비디아 GPU 200만개 더 산다..왜?",
-    "summary": [
-      "아마존, 엔비디아 GPU 200만개 더 산다..왜? dailycar.co.kr."
-    ],
-    "chips": [
-      "#엔비디아"
-    ]
-  },
-  {
     "id": "nddb6f8d3",
     "category": "IT",
     "source": "연합뉴스",
-    "time": "22시간 전",
+    "time": "1일 전",
     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1HbWdIaXVodmF6Tk11Qm82MnlrMFJrbzJjRmlqRXBUN2JNbk1DZWUzQ0hFZXQ2VDhRZ2FvQlZ6SDZWampuUF9jSC1QcWRseGI2dFV6SDE5Vjh5RkHSAWBBVV95cUxPT3oxTGczSHB5bXI2LXVfZDhNOVctNmZuWGp0Ui1EekVET2ZFN2sxdl9saFFseXp0dGtMZ1g1MF9RSHhheGNXMDhyRm5jY1dMemxiZDJUV2ZRdVBFZU9Hb1k?oc=5",
     "title": "엔비디아, 허깅페이스 17.5조원에 인수…개방형 AI허브 계열화",
     "summary": [
@@ -61,6 +47,23 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n328b8b98",
+    "category": "IT",
+    "source": "비즈니스포스트",
+    "time": "2일 전",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBZTzd4cGFJdWgyWjdYbkJhQlVPUHloai1sendSbURXckpQZ3FlSjFiY0JmelYzMUQ5SUFGdktTUUZUZElVYTNCZDA2TEpnX185X2ZFYVM0V2VKbUItbUl4cFpmVXA1Y3VNX0V0dThaR3BPZlk?oc=5",
+    "title": "한국 '소버린 AI' 선두 국가로 평가, \"엔비디아 수혜 커지고 삼성전자 SK하이닉스는 불리\"",
+    "summary": [
+      "한국 '소버린 AI' 선두 국가로 평가, \"엔비디아 수혜 커지고 삼성전자 SK하이닉스는 불리\" 비즈니스포스트."
+    ],
+    "chips": [
+      "#AI",
+      "#엔비디아",
+      "#삼성전자",
+      "#SK하이닉스"
+    ]
+  },
+  {
     "id": "n06cafdab",
     "category": "IT",
     "source": "뉴스핌",
@@ -78,12 +81,12 @@ window.NEWS_DB = [
   {
     "id": "n2b62fa28",
     "category": "사회",
-    "source": "서울복지신문",
+    "source": "swnews.kr",
     "time": "2일 전",
     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1CM2lWaFN1ekxUU19leEpTSzhuYUZScTE4U2RnamZuWE5LXzE5ZEtRa3V4Qi1hYWFXTFlVQ0ZVWnFMM3NNNzBWckh3ZWM2SnNMT0ZuNXJGRUhMQmdIbGQ0Wks1SzfSAWhBVV95cUxPUEw5OWNsSDJEOFFJcXpaMlMtTHlNbi1heWQ4NFJ1X0dBdHpGMGREaXQzWE5PWHNpdGZyVTIxTkZ0VEh6bzBWOHdDbFdkQzBqT2ZmbWl6RkNkR0dvRnh1V0Z4ODBJSUJSLQ?oc=5",
     "title": "강남구, ‘장애인일자리’ 채용정보 한번에",
     "summary": [
-      "강남구, ‘장애인일자리’ 채용정보 한번에 서울복지신문."
+      "강남구, ‘장애인일자리’ 채용정보 한번에 swnews.kr."
     ],
     "chips": [
       "#채용",
@@ -197,12 +200,12 @@ window.NEWS_DB = [
   {
     "id": "n062f98b4",
     "category": "부동산",
-    "source": "한국주택경제신문",
+    "source": "arunews.com",
     "time": "35일 전",
     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9Sdmd3SUl0dmRQSWdTck5DVjJ5WXYxTTFmRnBBbEkwa09VclpLd0VsVWFTV2pPRm9sQm1sQmZDb3EyN2lwTVBvZ185RUVycVFnOEdYcHVrcVFnYTdwaGZfUDh2WkFWYndi?oc=5",
     "title": "서울 아파트값 0.25% 상승… 똘똘한 ‘역세권·대단지’가 집값 견인",
     "summary": [
-      "서울 아파트값 0.25% 상승… 똘똘한 ‘역세권·대단지’가 집값 견인 한국주택경제신문."
+      "서울 아파트값 0.25% 상승… 똘똘한 ‘역세권·대단지’가 집값 견인 arunews.com."
     ],
     "chips": [
       "#부동산"
@@ -234,6 +237,21 @@ window.NEWS_DB = [
     ],
     "chips": [
       "#환율"
+    ]
+  },
+  {
+    "id": "n0c43a823",
+    "category": "IT",
+    "source": "v.daum.net",
+    "time": "66일 전",
+    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB2cElxOUx5Zzh4ZTcwbXlsSmdvZElCQUhrQzJxd3FVXzRPMXdoV285OE1EQXZvYzhjOTVrS1ROSllLUllEakMxQWpkUnVxMW8?oc=5",
+    "title": "야구팬들 염장 지른 ‘그 판정’…‘AI 심판’은 어떻게 돈이 됐나 [권준영의 머니볼]",
+    "summary": [
+      "야구팬들 염장 지른 ‘그 판정’…‘AI 심판’은 어떻게 돈이 됐나 [권준영의 머니볼] v.daum.net."
+    ],
+    "chips": [
+      "#AI",
+      "#KBO"
     ]
   },
   {
@@ -295,203 +313,298 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n01f4c085",
-    "category": "스포츠",
-    "source": "뉴시스",
-    "time": "165일 전",
-    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1XV3RRSy1sd3NMSFhfNzNwVUxDR3FBU29KbG1hSmJKS0pnLXlmS3k1M21nMVQ2RXR1bXNuc2JTMFV1ZVlYMm10Qy1HeXZaeGRRcWVkWUNlWUU4bEtWcnZmMtIBeEFVX3lxTE1qV0k5TEJ1d0taUTFrUXQ1SDRJQUZscnYwOWdqV2dSSTJvRXlCbjNjazI4alZnOHRLelFHRkdPOGVNVUZPaHdVU1J4ZmQwR0o2aWNiYjlqLTVvZFpIZ0QwX3MyQnZOZktzeHRSNjlpMmlNT0I5OXd5Tg?oc=5",
-    "title": "야구·축구 시즌 돌아왔다…식품업계, 팬심 자극 스포츠 마케팅 활발",
+    "id": "nb9e88645",
+    "category": "IT",
+    "source": "머니투데이",
+    "time": "1분 전",
+    "url": "https://www.mt.co.kr/world/2026/09/05/2026090418055182786",
+    "title": "테크 업계 종사자들의 우울 [PADO]",
     "summary": [
-      "야구·축구 시즌 돌아왔다…식품업계, 팬심 자극 스포츠 마케팅 활발 뉴시스."
+      "노에마 매거진의 8월 6일자 에세이는 AI 등장과 함께 심해지고 있는 테크 업계 사람들의 '우울'을 담담하게 스케치합니다.",
+      "이 글에서 가장 주목하는 것은 일터에서 지식노동자들이 서로 교류하는 모습이 AI의 등장으로 사라지고 있다는 사실입니다.",
+      "구체적인 것을 만지고 만들어내기 보다는 추상을 다루고 추상을 생산해내는 지식노동은 안 그래도 우울해질 가능성이 높은 직종인데 AI의 등장으로 사람과 사람의 교류가 더욱 차단되고 AI만 상대해가며 추상을 빠."
+    ],
+    "chips": [
+      "#AI"
+    ]
+  },
+  {
+    "id": "n92b84826",
+    "category": "경제",
+    "source": "머니투데이",
+    "time": "3분 전",
+    "url": "https://www.mt.co.kr/world/2026/09/05/2026090417552544935",
+    "title": "수단의 비극 [PADO]",
+    "summary": [
+      "이코노미스트의 8월 6일자 기사는 수단이 어떻게 폐허가 되어버렸는지를 조명합니다.",
+      "이 기사는 PADO가 8월 21일에 발행한 'UAE의 아프리카 제국' 기사와 함께 읽으시면 좀 더 입체적으로 상황을 파악하실 수 있습니다.",
+      "수단의 비극 뒤에는 UAE을 포함한 외세들의 개입도 있기 때문입니다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n893f1a0a",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "3분 전",
+    "url": "https://www.newsis.com/view/NISX20260904_0003777127",
+    "title": "충남권 곳곳 강풍, 최고 초속 20m…미세먼지 '좋음'",
+    "summary": [
+      "[대전=뉴시스]김도현 기자 = 5일 대전·세종·충남 지역은 곳곳에서 강풍이 불 것으로 예보됐다.",
+      "대전지방기상청에 따르면 이날 중국 북동지방에서 동쪽으로 이동하는 고기압 가장자리에 들어 대체로 맑겠다.",
+      "충남권 내륙은 바람이 순간풍속 초속 15m 안팎으로, 충남 서해안과 고지대는 초속 20m 안팎으로 바람이 불 것으로 나타났다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "ne6128b78",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "3분 전",
+    "url": "https://www.newsis.com/view/NISX20260904_0003776706",
+    "title": "[현장]\"탄소 70% 줄이고, 고급강 생산\"…현대제철, 美 전기로 제철소 본격화",
+    "summary": [
+      "[도널슨빌(루이지애나)=뉴시스]박현준 기자 = 석탄 고로 대신 천연가스와 전기를 활용해 탄소 배출을 획기적으로 줄이는 '현대제철-포스코 루이지애나 전기로 제철소(HPLS)' 프로젝트가 본궤도에 올랐다.",
+      "현대제철은 직접환원설비(DRP)와 전기로 공정을 통해 고급 철강재 생산과 탄소중립이라는 두 마리 토끼를 잡는다는 전략이다.",
+      "5일 현대제철에 따르면 미국 루이지애나주 도널슨빌에 들어서는 HPLS는 철광석을 녹이는 과정에서 석탄을 사용하는 기존 고로."
+    ],
+    "chips": [
+      "#환경"
+    ]
+  },
+  {
+    "id": "n83965145",
+    "category": "경제",
+    "source": "머니투데이",
+    "time": "5분 전",
+    "url": "https://www.mt.co.kr/society/2026/09/05/2026090410202581175",
+    "title": "친구 때렸는데 \"아이 손이 뺨에 맞은 것\" 학부모 갑질...결국 비극으로[뉴스속오늘]",
+    "summary": [
+      "뉴스를 통해 우리를 웃고 울렸던 어제의 오늘을 다시 만나봅니다.",
+      "\"저는 다시 좋은 선생님이 될 수 없을 것 같다.\" 2023년 9월 5일 대전광역시 유성구 자택에서 40대 초등학교 여교사 A씨가 스스로 생을 마감하기 위해 극단적 선택을 시도했다.",
+      "A씨는 곧바로 병원으로 옮겨져 치료를 받았으나, 의식을 회복하지 못하고 이틀 뒤 끝내 숨을 거두었다."
+    ],
+    "chips": [
+      "#교육",
+      "#의료"
+    ]
+  },
+  {
+    "id": "n03e03443",
+    "category": "부동산",
+    "source": "머니투데이",
+    "time": "6분 전",
+    "url": "https://www.mt.co.kr/estate/2026/09/05/2026090416390984073",
+    "title": "강북·경기 아파트값 강세…노원 0.63%·안양 동안구 0.74%↑",
+    "summary": [
+      "서울 강북권과 경기 주요 지역을 중심으로 아파트값 강세가 이어졌다.",
+      "노원·도봉·성북구 등 서울 강북권과 안양 동안구·광명·수원 영통구가 상승세를 이끌었다.",
+      "반면 강남구는 3주 연속 하락했고 서울 매수심리도 약해지는 등 지역별 온도 차가 뚜렷했다."
+    ],
+    "chips": [
+      "#부동산"
+    ]
+  },
+  {
+    "id": "nee18014d",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "7분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260904075900530",
+    "title": "특수교육대상 '자폐성 장애' 학생 2만9천명 육박…4년만에 69%↑",
+    "summary": [
+      "(서울=연합뉴스) 노재현 기자 = 전국 특수교육 대상자 중 자폐성 장애 진단을 받은 학생이 수년간 가파르게 늘면서 2만9천명을 눈앞에 둔 것으로..."
+    ],
+    "chips": [
+      "#교육"
+    ]
+  },
+  {
+    "id": "n43badff7",
+    "category": "IT",
+    "source": "뉴시스",
+    "time": "7분 전",
+    "url": "https://www.newsis.com/view/NISX20260904_0003776701",
+    "title": "\"3㎜도 놓치지 않는다\"…AI가 뇌동맥류 진단보조[빠정예진]",
+    "summary": [
+      "[서울=뉴시스]송종호 기자 = 뇌동맥류는 뇌혈관 벽이 약해지면서 혈관 일부가 풍선이나 꽈리처럼 부풀어 오르는 질환이다.",
+      "파열되면 뇌출혈로 이어질 수 있어 조기 발견과 정확한 진단이 중요하다.",
+      "최근 건강검진 확대로 파열 전 뇌동맥류가 발견되는 사례가 늘면서 영상 판독을 돕는 의료 인공지능(AI)도 속속 등장하고 있다."
+    ],
+    "chips": [
+      "#AI",
+      "#의료"
+    ]
+  },
+  {
+    "id": "n80dd1112",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "7분 전",
+    "url": "https://www.newsis.com/view/NISX20260904_0003776564",
+    "title": "만취 상태로 순찰차 들이받아 경찰 부상…30대男 벌금형",
+    "summary": [
+      "[의정부=뉴시스] 송주현 기자 = 만취 상태 음주 운전도 모자라 순찰차까지 들이받아 경찰관을 다치게 한 혐의로 재판에 넘겨진 30대 남성에게 벌금형이 선고됐다.",
+      "5일 법조계에 따르면 의정부지법 형사5단독 조종현 판사는 도로교통법위반(음주운전) 등 혐의로 불구속기소된 A씨에게 벌금 600만원을 선고했다.",
+      "A씨는 지난 2025년 12월3일 오전 2시15분께 혈중알코올농도 0.095% 상태로 자신의 차를 몰고 경기 포천시 한 도로를 달렸다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n8fe41e5a",
+    "category": "IT",
+    "source": "조선비즈IT",
+    "time": "8분 전",
+    "url": "https://biz.chosun.com/it-science/ict/2026/09/05/DWPPBPC6V5ASRGSPIBHH56K6ZQ/",
+    "title": "[IFA 2026] 냉장고 옆에 전기차가… ‘가전쇼’에 車가 들어온 이유",
+    "summary": [
+      "[IFA 2026] 냉장고 옆에 전기차가… ‘가전쇼’에 車가 들어온 이유."
+    ],
+    "chips": [
+      "#전기차"
+    ]
+  },
+  {
+    "id": "n26feb2ad",
+    "category": "IT",
+    "source": "조선비즈IT",
+    "time": "8분 전",
+    "url": "https://biz.chosun.com/it-science/ict/2026/09/05/TBPNN3S2UVGATFX2ZLQDX65IZ4/",
+    "title": "[IFA 2026] 모터·센서·AI가 드라이어·칫솔로 재탄생… 뷰티테크로 넓어진 가전 영토",
+    "summary": [
+      "[IFA 2026] 모터·센서·AI가 드라이어·칫솔로 재탄생… 뷰티테크로 넓어진 가전 영토."
+    ],
+    "chips": [
+      "#AI"
+    ]
+  },
+  {
+    "id": "n128e50ac",
+    "category": "IT",
+    "source": "조선비즈IT",
+    "time": "8분 전",
+    "url": "https://biz.chosun.com/it-science/ict/2026/09/05/CFREMVI2DNGINPSURUAJNFP7NA/",
+    "title": "엔비디아 직원 99%가 젠슨 황에게 열광하는 7가지 이유",
+    "summary": [
+      "젠슨 황 엔비디아 최고경영자(CEO)가 미국 취업 정보 사이트 글래스도어의 ‘2026년 최고의 CEO 50인’ 발표에서 압도적 격차로 1위에 올랐다.",
+      "사실상 직원 전원이라고 볼 수 있는 99% 지지율은 단순한 인기를 넘어, AX(AI 전환·AI Transformation) 시대가 요구하는 새로운 리더십 패러다임을 보여준다.",
+      "인공지능(AI) 혁명의 최전선에서."
+    ],
+    "chips": [
+      "#AI",
+      "#엔비디아",
+      "#취업"
+    ]
+  },
+  {
+    "id": "nb68216db",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "8분 전",
+    "url": "https://www.chosun.com/economy/industry-company/2026/09/05/NJLPLJ6ZA5BVVMR5ZRTOD4JHBI/",
+    "title": "50% 관세에 美서 쇳물 뽑는다… 현대제철·포스코 제철소 첫 삽",
+    "summary": [
+      "50% 관세에 美서 쇳물 뽑는다… 현대제철·포스코 제철소 첫 삽."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n40339bff",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "8분 전",
+    "url": "https://www.chosun.com/national/weekend/2026/09/05/PZ7NMM67SVBIDJ2KQ2XH4QZZMQ/",
+    "title": "[아무튼, 주말]#명랑야구소녀김라경#67세발명왕조정숙",
+    "summary": [
+      "[아무튼, 주말]#명랑야구소녀김라경#67세발명왕조정숙."
     ],
     "chips": [
       "#KBO"
     ]
   },
   {
-    "id": "na8b7aae0",
+    "id": "n2b040653",
     "category": "사회",
     "source": "연합뉴스",
     "time": "8분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260905003800082",
-    "title": "9월인데 45.7도…스페인 올해 최고기온 경신",
+    "url": "https://www.yna.co.kr/view/AKR20260904133700003",
+    "title": "현대제철 미국 전기로 제철소 첫발…탄소저감 강판 270만t 생산",
     "summary": [
-      "(베를린=연합뉴스) 김계연 특파원 = 여름 내내 살인적 더위에 시달린 스페인에서 올해 최고기온 기록이 9월에 깨졌다."
+      "(도널드슨빌[미 루이지애나주]=연합뉴스) 장보인 기자 = 현대제철의 미국 전기로 제철소 건설 프로젝트가 4일(현지시간) 첫발을 뗐다."
     ],
     "chips": [
-      "#뉴스"
+      "#환경"
     ]
   },
   {
-    "id": "nb0bed31b",
-    "category": "경제",
-    "source": "뉴시스",
-    "time": "9분 전",
-    "url": "https://www.newsis.com/view/NISX20260905_0003777355",
-    "title": "美 경유가격 갤런당 5.85＄로 사상최고 기록",
-    "summary": [
-      "[시카고=AP/뉴시스]이재준 기자 = 미국에서 경유 가격이 사상 최고치로 치솟으면서 화물 운송과 배송 비용이 상승하고 식료품을 비롯한 각종 소비재 가격에도 상승 압력이 커지고 있다.",
-      "이란전쟁이 6개월째 이어지면서 세계 연료 공급망이 차질을 빚는 가운데 미국에서 경유 평균 가격은 4일(현지시간) 갤런당 5.85달러까지 뛰어올라 역대 최고치를 경신했다.",
-      "미국 경유 가격은 2월 말 중동전쟁 발발 전보다 56% 가량 뛰었다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nfd3d42e6",
+    "id": "n5de436df",
     "category": "사회",
-    "source": "뉴시스",
-    "time": "16분 전",
-    "url": "https://www.newsis.com/view/NISX20260905_0003777353",
-    "title": "트럼프, \"한국 천궁-II 우크라 판매 압박해야\" 칼럼 공유",
+    "source": "연합뉴스",
+    "time": "12분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260905004351071",
+    "title": "\"트럼프, 보안 논란 '카타르 선물' 전용기로 아일랜드 방문\"(종합)",
     "summary": [
-      "[워싱턴=뉴시스] 이윤희 특파원 = 도널드 트럼프 미국 대통령이 4일(현지 시간) 우크라이나에 대한 요격미사일 공급을 위해 한국을 압박해야 한다는 주장에 공감을 표하고 나섰다.",
-      "트럼프 대통령은 이날 SNS 트루스소셜에 '트럼프는 어떻게 우크라이나가 자체 패트리엇 미사일을 개발하도록 도울 수 있을까'라는 워싱턴포스트(WP) 칼럼을 공유했다.",
-      "해당 칼럼은 겨울이 다가오면서 우크라이나에 대한 러시아의 공격이 격화될 것으로 전망되지만, 이란 전쟁을 치."
+      "(워싱턴=연합뉴스) 박성민 특파원 = 도널드 트럼프 미국 대통령이 오는 12∼13일로 예정된 아일랜드 방문 때 카타르가 선물한 새 대통령 전용기..."
     ],
     "chips": [
       "#정치"
     ]
   },
   {
-    "id": "n8f3225cb",
+    "id": "n7d991935",
     "category": "사회",
     "source": "연합뉴스",
-    "time": "27분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260905003000091",
-    "title": "30년내 샌프란 일대 강진 확률 74%…\"지각에 응력 축적됐다\"",
+    "time": "13분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260904164700004",
+    "title": "600억원 불법 공매도한 글로벌 투자은행…法 \"과징금 169억 정당\"",
     "summary": [
-      "(샌프란시스코=연합뉴스) 권영전 특파원 = 실리콘밸리가 있는 미국 샌프란시스코 베이지역의 강진 발생 확률이 74.1%라는 조사 결과가 나왔다."
+      "(서울=연합뉴스) 김빛나 기자 = 600억대 규모의 불법 공매도로 과징금 169억을 부과받은 글로벌 투자은행(IB)이 한국 금융당국을 상대로 낸..."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "nbd517621",
-    "category": "부동산",
-    "source": "뉴시스",
-    "time": "41분 전",
-    "url": "https://www.newsis.com/view/NISX20260904_0003777034",
-    "title": "3기 신도시 첫 민간분양은 계양…1110가구 '카이브 유보라' 내달 출격",
-    "summary": [
-      "[서울=뉴시스] 변해정 기자 = 반도건설은 계양신도시 카이브 유보라를 다음달 분양한다고 5일 밝혔다.",
-      "3기 신도시 가운데 가장 먼저 입주하는 계양신도시에서 처음 공급되는 민간분양 주상복합 단지다.",
-      "계양신도시 AC3블록 614가구와 AC4블록 496세대를 합쳐 총 1110가구로 조성된다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n7117d628",
-    "category": "부동산",
-    "source": "뉴시스",
-    "time": "41분 전",
-    "url": "https://www.newsis.com/view/NISX20260904_0003776640",
-    "title": "\"앞으로 2년 더 오른다\"…부동산 전문가 \"강남은 기다리고, 그 외 지역은 서둘러야\"",
-    "summary": [
-      "[서울=뉴시스]김혜경 기자, 정승혜 인턴기자 = 부동산 시장을 둘러싼 세제 개편과 금리 인상 등 변수 속에서도 향후 약 2년간 상승 흐름이 지속될 것이라는 전망이 나왔다.",
-      "초고가 주택이 밀집한 강남권은 관망하는 것이 유리하나 그 외 지역은 빠른 매수 대응이 필요하다는 제언이다.",
-      "부동산 투자 전문가 김원철 씨는 지난 3일 구독자 183만명을 보유한 유튜브 '부읽남TV'에 출연해 현 부동산 시장 상황과 향후 전망을 이같이 진단했다."
-    ],
-    "chips": [
-      "#부동산",
-      "#금리"
-    ]
-  },
-  {
-    "id": "n93e71e8d",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "41분 전",
-    "url": "https://www.chosun.com/culture-life/art-gallery/2026/09/05/OW2FQMYRGNDJ3KJXAEADHIDZY4/",
-    "title": "영화 ‘왕과 사는 남자’ 단종 보다가 이집트 투탕카멘 떠올린 이유",
-    "summary": [
-      "영화 ‘왕과 사는 남자’ 단종 보다가 이집트 투탕카멘 떠올린 이유."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nb3ae7e74",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "41분 전",
-    "url": "https://www.chosun.com/culture-life/food-taste/2026/09/05/TCH7LYHX5JHSTII53FSVSRKRZI/",
-    "title": "세균도 위스키 맛의 일부였다… 40년 전 술을 다시 만든 남자",
-    "summary": [
-      "세균도 위스키 맛의 일부였다… 40년 전 술을 다시 만든 남자."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nfc1014ff",
+    "id": "nb39bedc5",
     "category": "경제",
-    "source": "조선일보",
-    "time": "41분 전",
-    "url": "https://www.chosun.com/economy/weeklybiz/2026/09/05/VY3IS75R6RAHLLJ3GJF2JM5K44/",
-    "title": "“일본은행 금리 올려도 엔화 약세 못 벗어날 것… 170엔 가능성 여전”",
+    "source": "연합뉴스(경제)",
+    "time": "52분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260905005600072",
+    "title": "바브엘만데브 해협까지 불안…국제유가 상승세 지속",
     "summary": [
-      "“일본은행 금리 올려도 엔화 약세 못 벗어날 것… 170엔 가능성 여전”."
-    ],
-    "chips": [
-      "#금리"
-    ]
-  },
-  {
-    "id": "n37b03a03",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "41분 전",
-    "url": "https://www.chosun.com/international/2026/09/05/UE5IVKNJL5FL7F7KFIB2AS325Q/",
-    "title": "“민간인인 줄 알았다면 안 쐈을 것”… KAL 007편 격추 조종사가 남긴 회한",
-    "summary": [
-      "“민간인인 줄 알았다면 안 쐈을 것”… KAL 007편 격추 조종사가 남긴 회한."
+      "(뉴욕=연합뉴스) 김연숙 특파원 = 4일(현지시간) 국제유가는 중동 지역의 정세 불안이 홍해와 아덴만을 잇는 해상 물류 요충지 바브엘만데브 해협..."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n29b83ee4",
-    "category": "경제",
-    "source": "머니투데이",
-    "time": "41분 전",
-    "url": "https://www.mt.co.kr/entertainment/2026/09/05/2026090502515624001",
-    "title": "차태현 아내, 알고 보니 작사가? \"'I Love You' 저작권료 받는다\"",
-    "summary": [
-      "차태현이 자신의 히트곡 'I Love You'를 아내가 작사했다고 밝힌 가운데 당시 여자친구였던 아내의 존재를 공개할 수 없어 '거목'이라는 필명을 사용했다고 털어놨다.",
-      "4일 방영된 SBS '무엇이든 해줄지니-비서진' 2회에서는 차태현이 두 번째 '마이 스타'로 출연했다.",
-      "이날 이서진은 이동하는 차 안에서 차태현에게 히트곡 'I Love You'를 언급하며 \"'I Love You'도 한 20년 넘었지?\"라고 물었다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "na943c44b",
+    "id": "n1f877a3e",
     "category": "IT",
-    "source": "연합뉴스",
-    "time": "45분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260905002500075",
-    "title": "테슬라 사이버캡 공개에 美교통당국 곧바로 제동…안전성 조사",
+    "source": "조선비즈IT",
+    "time": "2시간 전",
+    "url": "https://biz.chosun.com/it-science/ict/2026/09/05/CYD3S4M4MNHWLPQDFE7LGAEPEE/",
+    "title": "[IFA 2026] LG전자 ‘최고 브랜드’·삼성전자 혁신상 4개… 韓 가전 나란히 수상",
     "summary": [
-      "(로스앤젤레스=연합뉴스) 김경윤 특파원 = 일론 머스크의 전기자동차 기업 테슬라가 텍사스주(州)에서 사이버캡 출시 행사를 열자마자 교통 당국이 ..."
+      "[IFA 2026] LG전자 ‘최고 브랜드’·삼성전자 혁신상 4개… 韓 가전 나란히 수상."
     ],
     "chips": [
-      "#뉴스"
+      "#삼성전자"
     ]
   },
   {
     "id": "n4ab08886",
     "category": "스포츠",
     "source": "테크M",
-    "time": "52분 전",
+    "time": "3시간 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=154944",
     "title": "[FSL 통신] '오프라인 울렁증' 깬 네이비 vs '28% 기적' 라이트...'역배 영웅'들의 끝장 승부",
     "summary": [
@@ -503,24 +616,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n8181d413",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "56분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260905002300071",
-    "title": "\"美국방장관과 갈등에 사임한 육군장관 후임으로 4명 거론\"",
-    "summary": [
-      "(워싱턴=연합뉴스) 홍정규 특파원 = 피트 헤그세스 미국 국방부 장관과의 갈등으로 사임한 댄 드리스콜 전 육군장관의 후임으로 4명의 후보군이 부..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
     "id": "na2142ef8",
     "category": "IT",
     "source": "테크M",
-    "time": "58분 전",
+    "time": "3시간 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=154950",
     "title": "[글로벌] 테슬라, 美 오스틴서 '사이버캡' 운행 시작...자율주행 전용차 첫 투입",
     "summary": [
@@ -531,101 +630,6 @@ window.NEWS_DB = [
     "chips": [
       "#전기차"
     ]
-  },
-  {
-    "id": "ne6daa2f8",
-    "category": "경제",
-    "source": "머니투데이",
-    "time": "1시간 전",
-    "url": "https://www.mt.co.kr/entertainment/2026/09/05/2026090502204188788",
-    "title": "'강남 건물주' 차태현, 소속사 가구는 다 연예인 선물 \"황금 인맥 답네\"",
-    "summary": [
-      "차태현이 강남 신사동에 위치한 소속사 사무실을 공개한 가운데, 고급 가구 대부분이 연예계 지인들의 선물이라고 밝혀 '황금 인맥'을 실감케 했다.",
-      "4일 방영된 SBS '무엇이든 해줄지니-비서진' 2회에서는 차태현이 두 번째 '마이 스타'로 출연했다.",
-      "이날 이서진과 김광규는 차태현이 운영 중인 소속사 사무실을 찾았다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n1606091f",
-    "category": "IT",
-    "source": "테크M",
-    "time": "1시간 전",
-    "url": "https://www.techm.kr/news/articleView.html?idxno=154952",
-    "title": "[카드뉴스] AI 쓰면 쓸수록 '토큰값' 폭탄...애플이 맥을 AI 서버로 바꾸는 이유",
-    "summary": [
-      "기업들이 AI를 더 많이 쓰기 시작하면서 새로운 비용 고민이 떠오르고 있습니다.",
-      "바로 AI를 사용할 때마다 쌓이는 '토큰값'입니다.",
-      "코딩부터 문서 작성, AI 에이전트까지 활용 범위가 넓어질수록 비용 부담도 커지는 상황."
-    ],
-    "chips": [
-      "#AI"
-    ]
-  },
-  {
-    "id": "ne9310ea1",
-    "category": "스포츠",
-    "source": "테크M",
-    "time": "1시간 전",
-    "url": "https://www.techm.kr/news/articleView.html?idxno=154953",
-    "title": "\"흩어졌던 조직 하나로\"...판교 둥지 튼 SOOP, R&D 역량 결집해 제2도약",
-    "summary": [
-      "라이브 스트리밍 플랫폼 SOOP이 판교에 새로운 보금자리를 마련하고 지속 가능한 성장을 위한 본격적인 발판을 다집니다.SOOP은 경기도 성남시 분당구 판교에 위치한 토지와 건물을 매입하기로 결정했다고 4일 밝혔습니다.",
-      "지난 2005년 라이브 스트리밍 서비스를 시작한 이후 약 20년만에 추진하는 독자적인 통합 사옥 마련입니다.이번 신사옥 매입은 단순한 공간 이전을 넘어 글로벌 미디어 플랫폼 시장에서 기술 경쟁력과 사업 실행력을 극대화하겠다는 전략."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nacd26390",
-    "category": "스포츠",
-    "source": "동아일보",
-    "time": "1시간 전",
-    "url": "https://www.donga.com/news/Society/article/all/20260905/134610299/1",
-    "title": "“엄마와 마지막 金, 이젠 당신 삶 살길”… “예진이는 악바리, 혼자도 훨훨 날 것”",
-    "summary": [
-      "모든 엄마는 딸이 자신보다 더 높이, 더 멀리 나아가기를 꿈꾼다.",
-      "태권도 선수 출신 문우영 씨(64)도 그랬다.",
-      "뇌성마비 장애를 갖고 태어난 큰딸 최예진(35)은 열일곱 살이던 2008년 보치아 선수 생활을 시작했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nc7d92cf2",
-    "category": "경제",
-    "source": "머니투데이",
-    "time": "1시간 전",
-    "url": "https://www.mt.co.kr/entertainment/2026/09/05/2026090502012520245",
-    "title": "민호, 집 인테리어도 운동광…하이록스 깃발 6개 벽에 걸었다",
-    "summary": [
-      "민호가 하이록스 대회에서 획득한 깃발 6개를 거실 벽에 걸며 운동광다운 인테리어를 완성했다.",
-      "4일 방영된 MBC '나 혼자 산다' 663회에서는 민호가 집에서 보내는 일상이 그려졌다.",
-      "이날 민호는 취미 생활인 분재 수업을 마친 뒤 집으로 돌아왔다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nd64f3edc",
-    "category": "경제",
-    "source": "머니투데이",
-    "time": "1시간 전",
-    "url": "https://www.mt.co.kr/entertainment/2026/09/05/2026090501295477728",
-    "title": "민호, 두 아들 아빠 됐다? \"차분함 필요해…분재 배워 반려식물 키운다\"",
-    "summary": [
-      "샤이니 민호가 새 취미로 분재를 배우고 있는 근황을 공개했다.",
-      "활동적인 성격 탓에 차분함이 필요했다고 밝힌 민호는 첫 반려 식물 '섬개야광'에 이어 편백나무 분재까지 직접 가꾸며 초보 분재 학생의 면모를 보였다.",
-      "4일 방영된 MBC '나 혼자 산다' 663회에서는 민호가 분재를 배우는 모습이 그려졌다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
   }
 ];
 
@@ -633,21 +637,21 @@ window.NEWS_DB = [
 window.KEYWORD_TOP = [
   {
     "rank": 1,
-    "tag": "뉴스",
-    "mentions": "2980건",
-    "trend": "+355%"
+    "tag": "AI",
+    "mentions": "1940건",
+    "trend": "+195%"
   },
   {
     "rank": 2,
-    "tag": "엔비디아",
-    "mentions": "1420건",
-    "trend": "+115%"
+    "tag": "뉴스",
+    "mentions": "1810건",
+    "trend": "+175%"
   },
   {
     "rank": 3,
-    "tag": "부동산",
-    "mentions": "1420건",
-    "trend": "+115%"
+    "tag": "엔비디아",
+    "mentions": "1550건",
+    "trend": "+135%"
   }
 ];
 // ====AUTO-GENERATED-END====
