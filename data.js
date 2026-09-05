@@ -1,35 +1,20 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-09-05 01:55:27
+// 마지막 업데이트: 2026-09-05 06:29:41
 window.NEWS_DB = [
   {
     "id": "ne29c3c7a",
     "category": "IT",
     "source": "한국경제",
-    "time": "51분 전",
+    "time": "5시간 전",
     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1mLTdLVVpwMWxoSVBkRzZyRUVuODJOWUZ3WF8yVlVBcGF3M2pnU2FhUnlvajYyWWZ2VFBlVVJjaVZQU0Q2aWEyaUthUGRQYkdJVkZNQjJQanBpZw?oc=5",
-    "title": "엔비디아·오픈AI 격돌…고래싸움에 반도체가 웃었다 [빈난새의 빈틈없이마켓]",
+    "title": "엔비디아·오픈AI 격돌…고래싸움에 반도체 웃었다 [빈난새의 빈틈없이마켓]",
     "summary": [
-      "엔비디아·오픈AI 격돌…고래싸움에 반도체가 웃었다 [빈난새의 빈틈없이마켓] 한국경제."
+      "엔비디아·오픈AI 격돌…고래싸움에 반도체 웃었다 [빈난새의 빈틈없이마켓] 한국경제."
     ],
     "chips": [
       "#AI",
       "#반도체",
       "#엔비디아"
-    ]
-  },
-  {
-    "id": "nbd40a3c1",
-    "category": "IT",
-    "source": "팝콘뉴스",
-    "time": "20시간 전",
-    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1RN0lISnUzaEstdC1qbExJRWNiZGV2WUdyOEhSM3pMS0ZyUzVLRXIwSDdaMmp4cl9ZdGt1cjZ0bm93eWhwSHU1bUp0LS1Ld0VWVmJyQnIxdFRHc3lHampXbFNHcFBSTUoyc0tHSUJn0gFyQVVfeXFMTXJEckVScGZzcmhodFdOSDQtQjdObkpaOW8xNGhIeWlTT24xYVZGWnFuUU1uM0Y2YnVXckd4Q05jY1lMNlQxVU5UMDE3Zk5RVmhZQlRXQ19CQU00a0pFNGpvdGhNU2JiMWhTQ1JRdmZ2VjV3?oc=5",
-    "title": "삼성·SK하이닉스, 3분기도 웃는다…HBM에 D램 가격 상승까지 '쌍끌이'",
-    "summary": [
-      "삼성·SK하이닉스, 3분기도 웃는다…HBM에 D램 가격 상승까지 '쌍끌이' 팝콘뉴스."
-    ],
-    "chips": [
-      "#반도체",
-      "#SK하이닉스"
     ]
   },
   {
@@ -66,7 +51,7 @@ window.NEWS_DB = [
     "id": "n06cafdab",
     "category": "IT",
     "source": "뉴스핌",
-    "time": "2일 전",
+    "time": "3일 전",
     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9tQUdZb1BQVFZ3M3gyRU1mbm9yLVVnOWpxcGxRNHhEWHg2eE9mY19pU3NVUjRubTFGbmJEenNOb1YzM2gwU1hHTWtsREZibFBOVExQQ0R5bkd4NWFZ?oc=5",
     "title": "엔비디아가 바꾼 HBM 룰…삼성 '수직통합'·SK '개방연합' 격돌",
     "summary": [
@@ -75,6 +60,22 @@ window.NEWS_DB = [
     "chips": [
       "#반도체",
       "#엔비디아"
+    ]
+  },
+  {
+    "id": "n6fd83e02",
+    "category": "IT",
+    "source": "테크월드",
+    "time": "3일 전",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9taS1TSmZKbVNKLTZzcGhKcllNYk5ENXV0Y2J4cmtRREJpMVpuRGs3S1BIQ1pWNzZ3X0piZEJaM0hCckpTdy0wUEQxemNydWJYeTA3eU9EVUhkWnhPVGNTM2lnY3ppazIx?oc=5",
+    "title": "삼성전자, 브로드컴과 292조원 AI 반도체 동맹…HBM부터 2나노까지",
+    "summary": [
+      "삼성전자, 브로드컴과 292조원 AI 반도체 동맹…HBM부터 2나노까지 테크월드."
+    ],
+    "chips": [
+      "#AI",
+      "#반도체",
+      "#삼성전자"
     ]
   },
   {
@@ -108,25 +109,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n0e045295",
-    "category": "IT",
-    "source": "네이트",
-    "time": "3일 전",
-    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBGZG4xVS1ITXZDWHo2cHViS1ZjMVZzYVQybnptOXhVM1ZXVUJGYktOSTZkaHZvUjdQWFBtRkRvLTFGQ2FFZ2ZxaHB5cHU3VEJGLU13?oc=5",
-    "title": "관악구, '관악S밸리'에서 유니콘 꿈 키울 스타트업 20곳 모집",
-    "summary": [
-      "관악구, '관악S밸리'에서 유니콘 꿈 키울 스타트업 20곳 모집 네이트."
-    ],
-    "chips": [
-      "#스타트업",
-      "#채용"
-    ]
-  },
-  {
     "id": "na9bf3191",
     "category": "IT",
     "source": "더코리아",
-    "time": "3일 전",
+    "time": "4일 전",
     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4yMmtYQl8xRHVocVdkZUVXLTlRb2JoTXpkSF84VEIwUWFLX1o4NjROUEZCQmtIa0QtT0FCRXpwWEdrWHRmQjlPWXNva0R1cEZMVXRKaFRLdDRfZVk1MlRKM21kMHRIaEdfbDJxLW5UWnE?oc=5",
     "title": "관악S밸리 벤처 영토 확장 창업 둥지 트는 미래 유니콘 > 뉴스",
     "summary": [
@@ -137,10 +123,25 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n2c0f41aa",
+    "category": "IT",
+    "source": "연합뉴스",
+    "time": "4일 전",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBSVEdqRzlmS1Y1dU1BV2dEamdfeGZHV1pVVnNmZnllZTZFX2ZlNXpQSEkzUGFHRFpSN2djQVRpbGVvM1FDQVVZU3Q0ckVYQzR4dy1BUkREV2x0ZWfSAWBBVV95cUxPMUVfaGpjN0VCUi1uUWtyRHFxZjFRbS0wcGJPc1hlVEs0c0I2QkltU2xRWFI4M1lHajczY29Vdmthb0lRazFMck5YQTB3X01zQWlTN09xMHVUbjQ4N0hLTkY?oc=5",
+    "title": "\"관악S밸리에서 유니콘의 꿈을\"…관악구, 입주사 최대 20곳 모집",
+    "summary": [
+      "\"관악S밸리에서 유니콘의 꿈을\"…관악구, 입주사 최대 20곳 모집 연합뉴스."
+    ],
+    "chips": [
+      "#스타트업",
+      "#채용"
+    ]
+  },
+  {
     "id": "nc1f2fede",
     "category": "IT",
     "source": "비즈니스포스트",
-    "time": "4일 전",
+    "time": "5일 전",
     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1aM3Y1SHVpcmxGRDlzMVcyMnprd3Bfd3dhRm9kelg1UFV2NVBpSlE5TUdkWE9GemJ4N2l1eFpaZUpZajhtVV81WGtYRHVka1k4a1Y1UC1tbWIzOUdVV0FCWnFZY1NLSUJvbFJ1REFDMks2bUU?oc=5",
     "title": "\"SK하이닉스 이어 삼성전자도 인텔과 HBM 베이스다이 협력 검토 가능성\", 공급망 다변화 효과",
     "summary": [
@@ -170,12 +171,12 @@ window.NEWS_DB = [
   {
     "id": "ndc5c8acf",
     "category": "사회",
-    "source": "복지뉴스",
+    "source": "bokjinews.com",
     "time": "14일 전",
     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1HdzFWTmNINFVObFVXanpkWFU0VHk2c0ZMRDlDYmE2LUx3NXFJZHp0V3lkRkhsamxDTWFKZEo2d05iV0pIOUplQkxKeFY2Q1J1QnhHczRpc1pOTzVqMnFJVm43elQxMUlK?oc=5",
     "title": "실업급여 구직활동 ‘취업활동 마일리지’로 바뀐다…9월 실업급여 반복수급자 대상 시범운영",
     "summary": [
-      "실업급여 구직활동 ‘취업활동 마일리지’로 바뀐다…9월 실업급여 반복수급자 대상 시범운영 복지뉴스."
+      "실업급여 구직활동 ‘취업활동 마일리지’로 바뀐다…9월 실업급여 반복수급자 대상 시범운영 bokjinews.com."
     ],
     "chips": [
       "#취업",
@@ -185,12 +186,12 @@ window.NEWS_DB = [
   {
     "id": "n5887154b",
     "category": "경제",
-    "source": "sedaily.com",
+    "source": "서울경제",
     "time": "17일 전",
     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1yLVhPcXhnVjVKbXByY1ZkVzFIc2ROaF9RWHdBTEtfcDU0djBMUXlELTV4QlQzbjZMYzdPSUxmN19jX0dkUnVHS2ZsTUEwbU44UFE?oc=5",
     "title": "원화 강세에 한은 셈법 복잡…원·달러 환율 하락 마감 [김혜란의 FX]",
     "summary": [
-      "원화 강세에 한은 셈법 복잡…원·달러 환율 하락 마감 [김혜란의 FX] sedaily.com."
+      "원화 강세에 한은 셈법 복잡…원·달러 환율 하락 마감 [김혜란의 FX] 서울경제."
     ],
     "chips": [
       "#환율"
@@ -227,12 +228,12 @@ window.NEWS_DB = [
   {
     "id": "nf6ba93fa",
     "category": "경제",
-    "source": "kbthink.com",
+    "source": "KB Think",
     "time": "61일 전",
     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9IZEZWNjl2UGQ3SDR2MEl6anNtM1h4MmdfOTVLOGJnMGQzc2t3dGt4RDNnMEI5LU0zWlcteEowRGw1bmNpRGVTYjBsR1haRkYxbnRQcjQxVGNyN0xNLXhvUEN3ZWJMR21LdkFLelNMemU4Zw?oc=5",
     "title": "[채권-주간] 코스피·환율 바라기…24시간 돌아가는 외환시장",
     "summary": [
-      "[채권-주간] 코스피·환율 바라기…24시간 돌아가는 외환시장 kbthink.com."
+      "[채권-주간] 코스피·환율 바라기…24시간 돌아가는 외환시장 KB Think."
     ],
     "chips": [
       "#환율"
@@ -256,12 +257,12 @@ window.NEWS_DB = [
   {
     "id": "n244b01bd",
     "category": "경제",
-    "source": "straightnews.co.kr",
+    "source": "스트레이트뉴스",
     "time": "80일 전",
     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBCMWo2YXNZMEh0aUhtSDk2czAteEZBVVM4MFVGSmNlREM2bEdPX3NaNFMyMDhNWXp1bllqd1NEbkE5elZZYlhRRnRTNm1OdFFmVmlmQ2o2LTdLZXE3TUw5Mm5uU014MFN5ZFkxXzBPbWxCS3fSAXdBVV95cUxQR1pwdFp0SFJzTkVyR3RtbjVBVm03aGxUS2JURUN6eE1iVDlKazYwZmh5bUxRdU1hQXc3dUIxWXFYRG1XZlA1cHB1S3NVR0pYUExPbEtQMFBxeWp0NnFweW5hM0xOMUNmM2o1cENPdjFqb0Q4SWJkaw?oc=5",
     "title": "미·이란 종전 합의에 금리 전망 변화?…한은 7월 인상론 여전",
     "summary": [
-      "미·이란 종전 합의에 금리 전망 변화?…한은 7월 인상론 여전 straightnews.co.kr."
+      "미·이란 종전 합의에 금리 전망 변화?…한은 7월 인상론 여전 스트레이트뉴스."
     ],
     "chips": [
       "#금리"
@@ -300,12 +301,12 @@ window.NEWS_DB = [
   {
     "id": "n783ebe44",
     "category": "스포츠",
-    "source": "techm.kr",
+    "source": "테크M",
     "time": "156일 전",
     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4zeE1CWFFHZzZrMjhfLXJoWERMeW9jVzI5eF91RWV1NUxXelFvT1U5YWpyRjZaQ1NqclNTR1hoRWEwYl9qQmc4WTh5Q29TSWROU3ptQ1ZmXy1rajBVczZ1T1A0RXZ0UdIBakFVX3lxTE4tUUs3ak9IVFI3ZEtUQmg5NUpZbWRwdUN5OEFTU2JqaWN4WWJzMVJVc0pLU1U0UzVZTkRKMlRZSUIyNmhPVjVWMzBTVGxocHc2VUdVZl9rRWdUaXVxTjFSdUpzTzFPdEZHdnc?oc=5",
     "title": "'야구·축구·골프'로 갈라진 국내 OTT...스포츠 팬덤 경쟁 격화",
     "summary": [
-      "'야구·축구·골프'로 갈라진 국내 OTT...스포츠 팬덤 경쟁 격화 techm.kr."
+      "'야구·축구·골프'로 갈라진 국내 OTT...스포츠 팬덤 경쟁 격화 테크M."
     ],
     "chips": [
       "#KBO"
@@ -345,288 +346,291 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n8a43e508",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "3분 전",
-    "url": "https://www.newsis.com/view/NISX20260905_0003777469",
-    "title": "김종서, 성시경 향해 \"내 인생의 귀인\"…무슨 사연",
-    "summary": [
-      "[서울=뉴시스]전재경 기자 = 가수 김종서가 성시경을 \"내 인생의 귀인\"이라고 표현했다.",
-      "지난 4일 방송된 KBS 2TV 뮤직 토크쇼 '더 시즌즈-성시경의 고막남친'에는 김종서, 안은진, 태민, NCT 127이 출연했다.",
-      "이날 김종서는 솔로 데뷔곡 '대답 없는 너'로 무대를 열었다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n8e94e25d",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "5분 전",
-    "url": "https://www.newsis.com/view/NISX20260905_0003777475",
-    "title": "태풍 크로반 영향권, 제주엔 강풍…피해 14건·뱃길 차질",
-    "summary": [
-      "[제주=뉴시스] 김수환 기자 = 제주지역이 제24호 태풍 '크로반'의 간접 영향을 받고 있는 가운데 밤사이 강풍으로 인한 시설물 피해가 잇따르고 뱃길 운항에도 차질이 빚어지고 있다.",
-      "5일 제주기상청에 따르면 현재 제주도 전역에 강풍주의보가, 제주도 전 해상과 남해 서부 서쪽 먼바다에는 풍랑특보가 발효돼 있다.",
-      "바람이 순간풍속 초속 20m(산지 25m) 이상으로 매우 강하게 불면서 밤사이 각종 시설물 피해가 잇따랐다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n62c26d2d",
-    "category": "경제",
-    "source": "아시아경제",
-    "time": "7분 전",
-    "url": "https://view.asiae.co.kr/article/2026090510480796586",
-    "title": "'나의 살던 고향은'…오는 20일 세종문화회관에서 홍난파가곡제",
-    "summary": [
-      "서울 종로구 홍파동 국가등록문화유산 '홍난파가옥'을 운영하는 '홍난파의집'은 오는 20일 오후 5시 세종문화회관 대극장에서 '나의 살던 고향은'이라는 제목의 '2026 홍난파가곡제'를 개최한다.",
-      "'나의 살던 고향은'이라는 노랫말로 시작하는 '고향의 봄'은 한국 사람이라면 모르는 사람이 없을 정도로 유명한 홍난파의 대표곡이다.",
-      "아동문학가 이원수가 쓴 동명의 동시에 홍난파가 곡을 붙인 작품으로 올해는 이원수가 동시 고향의 봄을 발표한 지 100주년."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "ncd7cfe0f",
-    "category": "스포츠",
-    "source": "뉴시스",
-    "time": "7분 전",
-    "url": "https://www.newsis.com/view/NISX20260905_0003777463",
-    "title": "서울 이랜드 안주완, K리그 최연소 멀티골 작성…17세 4개월 21일",
-    "summary": [
-      "[서울=뉴시스] 하근수 기자 = 프로축구 K리그2 서울 이랜드 FC 유망주 안주완이 리그 역대 최연소 멀티골 기록을 새로 썼다.",
-      "안주완은 4일 청주종합경기장에서 열린 충북청주FC와의 하나은행 K리그2 2026 25라운드 원정 경기에 선발 출전해 두 차례 골망을 갈라 2-0 승리를 이끌었다.",
-      "안주완은 전반 45분 에울레르가 연결한 크로스에 머리를 맞춰 선제골을 터뜨렸다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "ne01c87ae",
-    "category": "경제",
-    "source": "아시아경제",
-    "time": "10분 전",
-    "url": "https://view.asiae.co.kr/article/2026090510421487816",
-    "title": "성범죄 재판 중에 처음 본 10대 '스토킹' 했는데…'징역형 집유'",
-    "summary": [
-      "일면식 없는 10대를 몇 달간 반복해서 따라다닌 30대가 처벌받았다.",
-      "5일 춘천지법 형사1단독 정종건 부장판사는 스토킹 처벌법 위반 혐의로 기소된 A씨(31)에게 징역 10개월에 집행유예 2년을 선고했다고 밝혔다.",
-      "이어 보호관찰과 사회봉사 80시간, 스토킹 재범 예방 강의 40시간 수강을 명령했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n21ec43cc",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "11분 전",
-    "url": "https://www.chosun.com/sports/world-football/2026/09/05/GYYWCNZWHBRDEZJTG4ZGIYZYMM/",
-    "title": "'2367억' 이적료 값 이제 해내나...이삭, 9분 만에 2골 폭발! 리버풀, 입스위치 2-0 제압",
-    "summary": [
-      "[OSEN=정승우 기자] 알렉산데르 이삭(27, 리버풀)이 경기 시작 9분 만에 두 골을 몰아쳤다.",
-      "리버풀이 입스위치 타운을 꺾고 시즌 첫 승리를 신고했다.리버풀은 5일(한국시간) 영국 입스위치의 포트먼 로드에서 열린 2026-2027시즌 프리미어리그 3라운드에서 입스위치를 2-0으로 제압했다.개막 후 뉴캐슬 유나이티드, 노팅엄 포레스트와 연달아 2-2로."
-    ],
-    "chips": [
-      "#EPL"
-    ]
-  },
-  {
-    "id": "n4d73a257",
+    "id": "n105380e5",
     "category": "사회",
     "source": "연합뉴스",
-    "time": "12분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260905022600007",
-    "title": "애틀랜타 김하성, 필라델피아전 2타수 무안타…7회 대타 교체",
+    "time": "4분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260905034500054",
+    "title": "\"섬의 매력에 빠져보세요\"…여수세계섬박람회 관람객에 첫선",
     "summary": [
-      "(서울=연합뉴스) 김경윤 기자 = 최근 회복세를 보였던 애틀랜타 브레이브스의 내야수 김하성이 다시 무안타 침묵했다."
+      "(여수=연합뉴스) 정다움 민현기 기자 = \"섬 여행하고 싶어졌어요\", \"핵심 콘텐츠가 없는 것 같아 약간 아쉬워요\"."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "naedb8f22",
+    "id": "n059b3b0e",
     "category": "사회",
     "source": "뉴시스",
-    "time": "12분 전",
-    "url": "https://www.newsis.com/view/NISX20260905_0003777453",
-    "title": "\"바비인형 같다\"…한소희, 다이어트 후유증 딛은 몸매 관리 비결은",
+    "time": "4분 전",
+    "url": "https://www.newsis.com/view/NISX20260905_0003777618",
+    "title": "9월10일은 세계 자살예방의 날…'생명사랑 걷기·러닝' 등[증평소식]",
     "summary": [
-      "[서울=뉴시스]이준형 인턴 기자 = 배우 한소희가 비현실적인 비율을 과시하며 시사회장을 환하게 밝혔다.",
-      "한소희는 4일 서울 CGV 용산아이파크몰에서 열린 영화 '인턴' 언론배급시사회에 참석했다.",
-      "이날 한소희는 하얀 피부를 돋보이게 하는 화사한 금발 헤어스타일과 함께 투피스 세트업을 입고 등장했다."
+      "[증평=뉴시스] 서주영 기자 = 충북 증평군은 5일 세계 자살예방의 날(9월10일)을 앞두고 '삼심이와 함께 생명을 잇다' 걷기·러닝대회를 열었다.",
+      "지역 주민 등 300여명이 참여해 보강천운동장에서 출발해 반탄·증평대교를 왕복하는 3㎞ 코스를 걸으며 생명 사랑의 의미를 되새겼다.",
+      "군정신건강복지센터 자살예방 캐릭터 '삼심이'를 활용한 미션 부스도 마련돼 참가자들에게 추첨을 통해 지역사랑상품권을 전달했다."
+    ],
+    "chips": [
+      "#의료"
+    ]
+  },
+  {
+    "id": "n51ff877d",
+    "category": "스포츠",
+    "source": "뉴시스",
+    "time": "7분 전",
+    "url": "https://www.newsis.com/view/NISX20260905_0003777613",
+    "title": "자유총연맹 경남지부, 사천서 '자유·안보 수호 결의대회'",
+    "summary": [
+      "[창원=뉴시스]홍정명 기자 = 한국자유총연맹 경남도지부 주최·사천시지회 주관 '자유·안보 수호 결의대회'가 5일 사천시 삼천포체육관에서 열렸다.",
+      "행사에는 박완수 경남도지사와 박동식 사천시장, 신종철 경남도의회 부의장, 남석주 한국자유총연맹 경상남도지부 회장, 조용백 사천시지회장, 시군 지회 회원 등 1200여명이 참석했다.",
+      "참석자들은 선수대표 선서, 결의문 채택 등을 통해 자유민주주의 수호와 안보의식을 되새겼다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n847e4bf7",
+    "id": "n918f592d",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "7분 전",
+    "url": "https://www.chosun.com/entertainments/broadcast/2026/09/05/HA3DQNZZGEYTKYRZG42TMYRXMM/",
+    "title": "\"배우해야 될 얼굴\" 정웅인 둘째 딸, SNS 끊더니 첫 근황 공개…더 예뻐진 고양이",
+    "summary": [
+      "[OSEN=장우영 기자] 배우 정웅인의 둘째 딸 정세윤이 오랜만에 근황을 공개했다.5일 정웅인의 아내 이지인 씨는 자신의 소셜 미디어 스토리에 “작은 애기♥”라는 글과 몇 장의 사진을 게재했다.사진에서 이지인 씨는 첫째 딸 정세윤, 둘째 딸 정소윤과 편집샵에서 데이트를 즐기고 있다.",
+      "이지인 씨는 첫째 딸 정세윤과 화이트 반팔 탑에 미니스커트로 모녀 시밀러룩."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n1ae700ba",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "9분 전",
+    "url": "https://www.newsis.com/view/NISX20260905_0003777615",
+    "title": "여야, '김현지 실세론' 공방…\"용혜인 사퇴거부 눈감아\" vs \"망상 멈춰야\"",
+    "summary": [
+      "[서울=뉴시스]권신혁 하지현 기자 = 여야는 5일 용혜인 성평등가족부 장관 후보자와 관련된 논란을 두고 공방을 벌였다.",
+      "국민의힘이 먼저 \"김현지 청와대 제1부속실장의 '좌파 카르텔' 빌드업\"이라고 했고, 더불어민주당은 \"부정선거와 다름없는 망상\"이라고 맞받았다.",
+      "장 대표는 이날 페이스북에 \"(용 후보자의) 비례대표 사퇴 거부, 청와대가 몰랐을까\"라며 \"김현지 부속실장은 알았을 것이다."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n21e7dbf4",
     "category": "스포츠",
     "source": "조선일보",
-    "time": "13분 전",
-    "url": "https://www.chosun.com/sports/baseball/2026/09/05/GNSTEZBZMY2DQOLGMM3DMNJQMI/",
-    "title": "“김영웅은 절대 아니다”...이재현 AG 출전하면, 삼성 유격수는 누구일까",
+    "time": "9분 전",
+    "url": "https://www.chosun.com/sports/world-baseball/2026/09/05/HBSWGYRYHEZWGNZTGZTGCOJYGY/",
+    "title": "'2G 연속 결장' 오타니 결국 IL 향하나…다저스는 워싱턴 5-3 꺾고 2연승 [LAD 리뷰]",
     "summary": [
-      "[OSEN=잠실, 한용섭 기자] 프로야구 삼성 라이온즈는 KT 위즈와 치열한 1위 싸움을 하고 있다.",
-      "삼성은 7연승을 달리며 1위로 올라섰다가 3일 롯데에 패배하면서 2위로 밀려났다.",
-      "1위 KT와 0.5경기 차이에 불과하다."
+      "[OSEN=조은혜 기자] LA 다저스 오타니 쇼헤이가 이틀 연속 결장한 가운데 팀은 워싱턴 내셔널스를 꺾고 2연승에 성공했다.다저스는 5일(이하 한국시간) 미국 캘리포니아주 로스엔젤레스의 다저스타디움에서 열린 2026 메이저리그 워싱턴과의 홈경기에서 5-3 승리를 거뒀다.",
+      "처음으로 이틀 연속 선발 라인업에서 제외된 오타니는 교체 출전도 하지 못하고 결장했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n8a0ee9f0",
+    "category": "스포츠",
+    "source": "머니투데이",
+    "time": "11분 전",
+    "url": "https://www.mt.co.kr/sports/2026/09/05/2026090513513294136",
+    "title": "삼성 호재 떴다! 최형우, 4번 DH 전격 복귀→구자욱·디아즈와 공포의 좌타 라인 구축... 박세혁 선발 포수",
+    "summary": [
+      "삼성 라이온즈가 전날(4일) 경기에서 뼈아픈 역전패의 아쉬움을 털어내기 위해 타선의 화력을 대폭 끌어올린 모양새다.",
+      "4일 경기에서 아예 결장했던 해결사 최형우(43)가 하루 만에 라인업 중심에 돌아온 것이다.",
+      "삼성은 5일 서울 잠실야구장에서 열리는 '2026 신한 SOL KBO리그' LG 트윈스와의 맞대결을 앞두고 선발 출전 명단을 발표했다."
     ],
     "chips": [
       "#KBO"
     ]
   },
   {
-    "id": "nd2f8b97f",
+    "id": "n389b7681",
+    "category": "경제",
+    "source": "아시아경제",
+    "time": "12분 전",
+    "url": "https://view.asiae.co.kr/article/2026090515153522535",
+    "title": "'일과 끝 맥주 딱 한잔'의 배신…\"알코올 관련 암 사망 높여\"",
+    "summary": [
+      "하루에 맥주 한 캔 수준만 마셔도 암 사망 위험을 크게 높인다는 연구 결과가 나왔다.",
+      "3일(현지시간) CNN은 의학 학술지 '랜신 리저널 헬스-아메리카스'에 게재된 논문에서 미국의 연간 음주 관련 암 사망자가 1990년 1만 1361명에서 2023년 2만 3126명으로 두 배 이상 폭증했다는 연구 결과가 있었다고 전했다.",
+      "지난 33년간 20세 이상 성인 기준 전체 암 사망 원인 가운데 음주가 차지하는 비중도 약 두배로 증가했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n5db4ba0c",
+    "category": "스포츠",
+    "source": "연합뉴스",
+    "time": "13분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260905036500061",
+    "title": "의왕 낚시용품 창고 건물서 화재…1명 경상·14명 대피",
+    "summary": [
+      "(의왕=연합뉴스) 이영주 기자 = 5일 오후 2시 10분께 경기도 의왕시 오전동 한 낚시용품 창고 건물에서 불이 났다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nbb37f32a",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "14분 전",
+    "url": "https://www.newsis.com/view/NISX20260905_0003777612",
+    "title": "\"아침부터 서둘렀어요\"…불꽃축제 명당 선점 경쟁 '후끈'[현장]",
+    "summary": [
+      "[서울=뉴시스] 조성하 염지윤 수습 기자, 박준성 인턴기자 = 5일 '서울세계불꽃축제 2026' 본행사가 열리는 서울 영등포구 여의도 한강공원 일대는 불꽃쇼가 시작하기 한참 전부터 '명당'을 차지하려는 시민들로 북적였다.",
+      "오후 1시께 뉴시스가 찾은 여의도 한강공원 한강변 잔디밭은 형형색색의 돗자리를 편 시민들로 빼곡해 발 디딜 틈조차 없었다.",
+      "낮 최고기온이 29도까지 오를 것으로 예보된 가운데 시민들은 우산과 양산, 파라솔로 햇볕을 피하며 불꽃."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n752ca93b",
+    "category": "스포츠",
+    "source": "머니투데이",
+    "time": "14분 전",
+    "url": "https://www.mt.co.kr/sports/2026/09/05/2026090514575541204",
+    "title": "'올림픽 3관왕 2명 탈락→15세 여중생 발탁' 한국 양궁 대표팀, 왜 야구장서 훈련 진행하나... 2026 AG 앞두고 마지막 실전훈련",
+    "summary": [
+      "대한민국 양궁 국가대표팀이 관중의 함성이 가득한 야구장에서 특별한 실전훈련에 나선다.",
+      "올림픽 3관왕들이 빠지고 15세 여중생 국가대표가 등장하는 등 큰 변화를 겪은 한국 양궁이 2026 아이치·나고야 아시안게임을 앞두고 마지막 담금질에 돌입했다.",
+      "양궁 국가대표 선수단은 5일 광주-기아챔피언스필드에서 아시안게임 대비 야구장 특별훈련을 진행한다."
+    ],
+    "chips": [
+      "#KBO",
+      "#환경"
+    ]
+  },
+  {
+    "id": "n7a8e1068",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "17분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260905036000063",
+    "title": "'구명조끼' 착용이 이렇게 중요…침몰 모터보트서 6명 전원 구조",
+    "summary": [
+      "(당진=연합뉴스) 김준호 기자 = 충남 당진시 마섬포구 인근 해상에서 주꾸미 낚시객들을 태운 모터보트가 침몰해 승선원 6명이 모두 바다에 빠졌으..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nf5ed0a1c",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "20분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260905034000004",
+    "title": "\"일생 한번뿐인 구경\"…불꽃축제 오전부터 한강공원 인파 몰려",
+    "summary": [
+      "(서울=연합뉴스) 정윤주 기자 = '2026 세계불꽃축제'가 열리는 5일 서울 영등포구 여의나루역 일대 한강 변은 이른 아침부터 '명당' 자리를..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n22ea6874",
     "category": "사회",
     "source": "동아일보",
-    "time": "15분 전",
-    "url": "https://www.donga.com/news/Society/article/all/20260905/134610637/1",
-    "title": "새벽에 자전거 탄 노인 치어 숨지게 하고 도망간 우즈벡 유학생 체포",
-    "summary": [
-      "자전거를 탄 노인을 새벽에 차량으로 치어 숨지게 하고 현장을 벗어난 외국인 유학생이 경찰에 붙잡혔다.전북 익산경찰서는 특정범죄 가중처벌 등에 관한 법률 위반(도주치사) 혐의로 우즈베키스탄 국적 유학생을 긴급체포했다고 5일 밝혔다.이 유학생은 이날 새벽 1시42분경 익산시 왕궁면의 한 도로에서 자전거를 탄 80대 노인을 치어 숨지게하고도 구호조치 없이 현장을 벗어난 혐의를 받고 있다.유학생은 1차로를 달리던 노인의 뒤에서 그를 들이받고 그대로 현."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nf267adf1",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "16분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260905022200009",
-    "title": "뉴욕 브루클린다리서 흉기 들고 \"폭탄 있다\"…경찰 총격에 사망",
-    "summary": [
-      "(서울=연합뉴스) 김아람 기자 = 미국 뉴욕의 대표적 랜드마크 중 하나인 브루클린 다리에서 흉기를 들고 폭탄을 갖고 있다고 위협하던 한 남성이 ..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n7375a3c4",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "18분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260905021800001",
-    "title": "국힘, 초대 중수청장 후보군에 \"李정부 검찰 장악 속셈 드러나\"",
-    "summary": [
-      "(서울=연합뉴스) 박수윤 기자 = 국민의힘은 5일 중수청장후보추천위가 초대 청장으로 4명의 후보를 선정한 것과 관련, \"이쯤 되면 검찰개혁이 아..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n5affebbe",
-    "category": "경제",
-    "source": "아시아경제",
     "time": "21분 전",
-    "url": "https://view.asiae.co.kr/article/2026090510335936769",
-    "title": "여의도서 '불꽃축제' 오후 8시부터 시작…여의동로 차량 통제",
+    "url": "https://www.donga.com/news/Society/article/all/20260905/134610960/2",
+    "title": "모르는 10대 여학생 뒤 3개월간 졸졸…스토킹 30대 집유",
     "summary": [
-      "한화그룹의 서울세계불꽃축제가 5일 오후 8시 여의도 한강공원에서 열린다.",
-      "올해는 추석 연휴와 외국인 관광 수요 등을 감안해 예년보다 3주가량 일찍 열린다.",
-      "이번 불꽃축제는 '당신의 빛을 찾아서'를 주제로 ㈜한화를 비롯해 미국과 영국 등 총 3개국 대표 불꽃팀이 참가한다."
+      "일면식도 없는 10대 여학생을 세 달 동안 반복적으로 따라다니며 스토킹한 30대 남성이 징역형의 집행유예를 선고받았다.춘천지법 형사1단독 정종건 부장판사는 스토킹 범죄의 처벌 등에 관한 법률 위반 혐의로 기소된 31세 남성에게 징역 10개월에 집행유예 2년을 선고했다고 5일 밝혔다.",
+      "보호관찰과 사회봉사 80시간, 스토킹 범죄 재범 예방 강의 40시간 수강도 명령했다.이 남성은 지난해 6월부터 8월까지 강원 춘천시 일대에서 15세 여학생을 발견하."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n555f6907",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "21분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260905022500007",
-    "title": "테니스 알카라스·사발렌카, 나란히 US오픈 16강",
-    "summary": [
-      "(서울=연합뉴스) 김동한 기자 = 테니스 남녀 단식 디펜딩 챔피언 카를로스 알카라스(3위·스페인)와 아리나 사발렌카(1위·벨라루스)가 나란히 2..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nf9c81bee",
-    "category": "사회",
-    "source": "연합뉴스(경제)",
-    "time": "25분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260904147800062",
-    "title": "태백시, 옛 농특산물직판장에 '시니어 일자리 특화타운' 조성",
-    "summary": [
-      "(태백=연합뉴스) 이상학 기자 = 강원 태백시가 옛 농특산물직판장을 노인 일자리와 취약계층 돌봄 기능을 결합한 '시니어 일자리 특화타운'으로 조..."
-    ],
-    "chips": [
-      "#고용"
-    ]
-  },
-  {
-    "id": "n8d71781e",
+    "id": "n7827ad64",
     "category": "경제",
-    "source": "연합뉴스(경제)",
-    "time": "25분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260905021600011",
-    "title": "[연합뉴스 이 시각 헤드라인] - 10:30",
+    "source": "머니투데이",
+    "time": "23분 전",
+    "url": "https://www.mt.co.kr/society/2026/09/05/2026090514291590641",
+    "title": "44만8000㎞ 탄 트럭에...\"네 덕에 애들 다 키웠다\" 고별 편지 '뭉클'",
     "summary": [
-      "[연합뉴스 이 시각 헤드라인] - 10:30."
+      "29년 동안 몰았던 트럭에 남긴 차주의 '고별 편지'가 화제가 되자 현대자동차도 해당 차주를 찾아나섰다.",
+      "최근 SNS(소셜미디어)와 온라인 커뮤니티에는 한 트럭 앞유리에 붙은 '고별 운행'이라는 제목의 손편지 사진이 잇따라 게시됐다.",
+      "편지에는 1997년 10월 28일이라는 최초 등록일과 함께 44만 8000㎞라는 주행거리가 적혀 있었다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "nc600e61d",
-    "category": "경제",
-    "source": "ZDNet Korea",
-    "time": "26분 전",
-    "url": "https://zdnet.co.kr/view/?no=20260905095929",
-    "title": "비트코인 8만 달러 붕괴…美 금리인상 우려 '직격탄'",
-    "summary": [
-      "[지디넷코리아]8월 미국 비농업 고용지표가 시장 예상치를 크게 웃돌면서 미국 연방준비제도(연준)의 기준금리 인상 가능성이 커졌다.",
-      "전날 8만 달러를 웃돌던 비트코인도 7만 달러대로 내려 앉았다.5일 코인마켓캡에 따르면 비트코인은 전일 대비 약 2% 하락한 7만 9658 달러에 거래되고 있다.",
-      "이번 하락은 4일(현지시간) 발표된 미국 고용지표가 시장 예상보다 견조하게 나타난 영향으로 풀이된다.미국 노동부에 따르면 8월 비농업 일자리는 전월 대비."
-    ],
-    "chips": [
-      "#금리",
-      "#고용"
-    ]
-  },
-  {
-    "id": "n4599200e",
-    "category": "경제",
-    "source": "아시아경제",
-    "time": "27분 전",
-    "url": "https://view.asiae.co.kr/article/2026090510261887908",
-    "title": "이승기, 전 소속사 정산금 소송 또 사실상 승소…6억9000만원 지급의무 인정",
-    "summary": [
-      "가수 겸 배우 이승기가 전 소속사 후크엔터테인먼트(현 초록뱀미디어)를 상대로 전속계약 종료 뒤 발생한 음원 수익금을 배분하라는 소송에서 사실상 승소했다.",
-      "5일 법조계에 따르면 서울중앙지법 민사합의20부(김민철 부장판사)는 이승기가 후크엔터테인먼트를 상대로 제기한 정산금 등 소송에서 지난달 29일 원고 일부 승소 판결했다.",
-      "재판부는 청구액 약 8억 3000만원 가운데 약 6억 9000만원을 인용했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n132c8934",
+    "id": "n758986a3",
     "category": "스포츠",
+    "source": "머니투데이",
+    "time": "24분 전",
+    "url": "https://www.mt.co.kr/sports/2026/09/05/2026090513515518370",
+    "title": "아주 진귀한 장면이었네! 美 17년 동안 보크 고작 3번했던 카라스코, 韓 6경기 만에 보크라니→다음 경기엔 어떨까",
+    "summary": [
+      "메이저리그 통산 17시즌 무려 343경기 1704이닝, 112승.",
+      "산전수전을 다 겪은 베테랑 우완 투수 카를로스 카라스코(39)가 그 긴 세월 동안 빅리그 마운드에서 지적받은 보크는 고작 3차례였을 뿐이다.",
+      "메이저리그의 수많은 심판과 찰나를 노리는 주자들 틈바구니에서 17년 동안 철저히 공인받았던 투구 동작."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
+    "id": "n4f652ba6",
+    "category": "경제",
+    "source": "연합뉴스(경제)",
+    "time": "26분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260905034100002",
+    "title": "9월 초 수출누계 7천억달러 돌파…작년 연간 최대 실적 넘어",
+    "summary": [
+      "(세종=연합뉴스) 안채원 기자 = 올해 9월 초까지 수출액이 7천억달러를 돌파하면서 역대 최대치를 기록했던 지난해 연간 실적을 이미 넘어섰다."
+    ],
+    "chips": [
+      "#수출"
+    ]
+  },
+  {
+    "id": "n62a96f25",
+    "category": "사회",
+    "source": "아시아경제",
+    "time": "29분 전",
+    "url": "https://view.asiae.co.kr/article/2026090514594460978",
+    "title": "금융피해자연대 \"김관정 중수청장 후보, 코인사기 변호…임명 반대\"",
+    "summary": [
+      "금융피해자연대가 초대 중대범죄수사청장 후보로 추천된 김관정 변호사의 가상화폐 사기사건 변호 이력을 문제 삼아 임명에 반대하는 성명을 5일 발표했다.",
+      "금융피해자연대는 성명을 통해 \"김관정 변호사는 다단계 코인 사기 'KOK 사건'의 피고인들을 변호하고 있다\"며 \"금융사기 피해자들은 김 변호사의 초대 중수청장 임명을 결사반대할 것\"이라고 밝혔다.",
+      "금융피해자연대에 따르면 이른바 KOK 사건은 영화·게임·웹툰 등 각종 콘텐츠를 'KOK코인'을 통해 소."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n672faad9",
+    "category": "경제",
     "source": "동아일보",
     "time": "34분 전",
-    "url": "https://www.donga.com/news/Sports/article/all/20260905/134610632/1",
-    "title": "여자농구 주장 강이슬 “나이지리아전 승리 통해 자신감 얻어”",
+    "url": "https://www.donga.com/news/Sports/article/all/20260905/134610955/1",
+    "title": "‘최강’ 안세영, 왕즈이 꺾은 미야자키와 중국 마스터스 결승 격돌",
     "summary": [
-      "2027 국제농구연맹(FIBA) 여자농구 월드컵 첫 경기에서 강호 나이지리아를 꺾는 데 기여한 한국 여자농구 대표팀 주장 강이슬이 큰 자신감을 얻었다고 자평했다.강이슬은 4일(현지시간) 독일 베를린 아레나에서 열린 나이지리아와 대회 조별리그 B조 1차전에 출전해 29분30초를 소화하며 20점 5리바운드 7어시스트를 기록, 99-81 승리에 힘을 보탰다.이날 강이슬은 장기인 3점슛을 6개나 집어넣으며 나이지리아 외곽을 무력화시켰다.이번 대회가 개."
+      "‘배드민턴 여제’ 안세영(삼성생명)이 2026 세계배드민턴연맹(BWF) 월드 투어 중국 마스터스(슈퍼 750) 3연패까지 마지막 한 걸음만을 남겼다.‘세계랭킹 1위’ 안세영은 5일 중국 선전에서 열린 야마구치 아카네(일본·3위)와의 대회 여자 단식 준결승에서 2-0(21-13 21-15) 완승을 거뒀다.결승에 오른 안세영은 미야자키 도모카(일본·9위)와 우승컵을 다툰다.",
+      "챔피언에 오르면 상금 8만7500 달러(약 1억2000만원)를 받는다.같은."
     ],
     "chips": [
       "#뉴스"
@@ -639,20 +643,20 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2980건",
-    "trend": "+355%"
+    "mentions": "2720건",
+    "trend": "+315%"
   },
   {
     "rank": 2,
-    "tag": "고용",
-    "mentions": "1550건",
-    "trend": "+135%"
+    "tag": "KBO",
+    "mentions": "1680건",
+    "trend": "+155%"
   },
   {
     "rank": 3,
     "tag": "AI",
-    "mentions": "1420건",
-    "trend": "+115%"
+    "mentions": "1550건",
+    "trend": "+135%"
   }
 ];
 // ====AUTO-GENERATED-END====
