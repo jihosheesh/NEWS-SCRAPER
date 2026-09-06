@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-09-06 13:17:20
+// 마지막 업데이트: 2026-09-06 16:34:05
 window.NEWS_DB = [
   {
     "id": "n229cd7e4",
     "category": "IT",
     "source": "데일리뉴스",
-    "time": "21시간 전",
+    "time": "1일 전",
     "url": "https://news.google.com/rss/articles/CBMiwwNBVV95cUxNNVpqQ0lyUGlEaEFITVcwUC0zWE5nU1k0M2NZYjRCcVpQZ3RjV0MzTTM5SlNHaEI5SHd2cWtxZDZ2NVRGLXlVYjk1ZC1XQjFHOTdIZlZERTlWV2VvOTdGY1BSMi1PSHdTekU4SW40Rkc2cE53VHczM00xUzRIMkVqNzNWZmFha0x3d3MwaUtEUDFkWVpkY3hCc1FrODhwMEI2eGRoQmZHU3c4Rkl5Wjc5c1pIaTJsWWZ6Vk5GQjJkellyNHViLWhqS2pJbU1GLTRibFMyTXhnWkR0dVNqYWRGa0EzVHNLcnNicUIydy1EUF9OSXlLX21rZ1hld0EwV0xHZWRBdGplaldiWlIxcFFyc1J1enN3cnVaZ01xM25wTTZBZk9Ga2VMaFlkdnU2T2FoWHVnWnQ3ci1LYUd2cmxpenRiaUQ2WTBMbVllci1ZNEVtRGlVSGxDUVQyUUdSc2NqYVJ6MkFQRnNXeXJ1c25DT2JVNWR3ekk3NmdFV0pZN3M2QUFzejJXNkV2cGpSaVVodjhJS1VSS3cteHIwUUEyRlNwbUNuRnY2YkU3YTdab3NJMXIzQjNLM01uMkh2amR2cjNJ?oc=5",
     "title": "정부, ‘K-엔비디아 육성사업’ 본격 추진… 인공지능 반도체 경쟁력 강화 나서",
     "summary": [
@@ -48,11 +48,11 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n67cce0d3",
+    "id": "nae6f1798",
     "category": "IT",
     "source": "초이스스탁US",
     "time": "2일 전",
-    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAteUFQM3Z5SmwwQndlczVnRUE2d1E5NDRtTl9DWGdHenlZTURsOF8zT0hHUm1ET3REbm15VVdqc3djamM5QzY1NDRZdGFlODNreXNfTkZ1TTc3OWR5WWk2WWozNFZMUEE?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE8tdWctN19VU05vS25mc1pjMVBKSzhXMzR2TkdtQ0p3U1E4Z0xMZUd4SjUweGdrd3FldURPSnNnUk9zUTN6cnc1VW1YUXhJcUZTX2txWnR6TWk1TFBHUjA0WFdR?oc=5",
     "title": "엔비디아, 허깅페이스 129억달러에 인수…개방형 AI 영향력 확대",
     "summary": [
       "엔비디아, 허깅페이스 129억달러에 인수…개방형 AI 영향력 확대 초이스스탁US."
@@ -111,12 +111,12 @@ window.NEWS_DB = [
   {
     "id": "na9bf3191",
     "category": "IT",
-    "source": "더코리아",
+    "source": "thekorea.kr",
     "time": "5일 전",
     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4yMmtYQl8xRHVocVdkZUVXLTlRb2JoTXpkSF84VEIwUWFLX1o4NjROUEZCQmtIa0QtT0FCRXpwWEdrWHRmQjlPWXNva0R1cEZMVXRKaFRLdDRfZVk1MlRKM21kMHRIaEdfbDJxLW5UWnE?oc=5",
     "title": "관악S밸리 벤처 영토 확장 창업 둥지 트는 미래 유니콘 > 뉴스",
     "summary": [
-      "관악S밸리 벤처 영토 확장 창업 둥지 트는 미래 유니콘 > 뉴스 더코리아."
+      "관악S밸리 벤처 영토 확장 창업 둥지 트는 미래 유니콘 > 뉴스 thekorea.kr."
     ],
     "chips": [
       "#스타트업"
@@ -170,12 +170,12 @@ window.NEWS_DB = [
   {
     "id": "n062f98b4",
     "category": "부동산",
-    "source": "한국주택경제신문",
+    "source": "arunews.com",
     "time": "37일 전",
     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9Sdmd3SUl0dmRQSWdTck5DVjJ5WXYxTTFmRnBBbEkwa09VclpLd0VsVWFTV2pPRm9sQm1sQmZDb3EyN2lwTVBvZ185RUVycVFnOEdYcHVrcVFnYTdwaGZfUDh2WkFWYndi?oc=5",
     "title": "서울 아파트값 0.25% 상승… 똘똘한 ‘역세권·대단지’가 집값 견인",
     "summary": [
-      "서울 아파트값 0.25% 상승… 똘똘한 ‘역세권·대단지’가 집값 견인 한국주택경제신문."
+      "서울 아파트값 0.25% 상승… 똘똘한 ‘역세권·대단지’가 집값 견인 arunews.com."
     ],
     "chips": [
       "#부동산"
@@ -284,18 +284,18 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n08b2b275",
+    "id": "n5a1617c5",
     "category": "부동산",
-    "source": "한국부동산뉴스",
-    "time": "145일 전",
-    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBZNmg3TVp4ZWZCV1ZzTE14bXV5UkN4MExnMmZJdkpfNUsyUGltRWlJVWVfUzJoQktRUlcwMTdrUUtuWk9pR2MxaFlhNGpOU0xGZjM3eDUwdlNmRWQtYkFaenAyekhVRGRRY0pJ?oc=5",
-    "title": "대출 규제에 몰린 '15억 이하'…비강남 집값·분양가 동반 상승",
+    "source": "헤럴드경제",
+    "time": "117일 전",
+    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1TS2Q2aDJMQXUtYUMtcmZTZkUtNXVycDVXUTFSYk1oeTg4TXNFTXQxN3RtcGVlRUJxMWlMWXk0c05lRFFvemxzYk0wa1hsZXMwbm1hVWtn?oc=5",
+    "title": "집값 상승, 전세품귀에…서울, 분양전망 1달 만에 기준치 회복 [부동산360]",
     "summary": [
-      "대출 규제에 몰린 '15억 이하'…비강남 집값·분양가 동반 상승 한국부동산뉴스."
+      "집값 상승, 전세품귀에…서울, 분양전망 1달 만에 기준치 회복 [부동산360] 헤럴드경제."
     ],
     "chips": [
       "#부동산",
-      "#정책"
+      "#전세"
     ]
   },
   {
@@ -342,139 +342,136 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n761a0723",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "3분 전",
-    "url": "https://www.newsis.com/view/NISX20260906_0003778261",
-    "title": "美중부사 \"이란 해상봉쇄에 92척 항로 변경…F-35A도 순찰\"",
-    "summary": [
-      "[서울=뉴시스]고재은 기자 = 미 중부사령부(CENTCOM)가 6일(현지 시간) 대(對) 이란 해상봉쇄를 강화하면서 상선 92척의 항로를 변경했다고 밝혔다.",
-      "중부사령부는 이날 소셜미디어 엑스(X·구 트위터)를 통해 \"6일 현재 미군은 상선 92척의 항로를 변경하고 3척의 선박을 무력화했다\"고 알렸다.",
-      "중부사는 이어 \"2척에는 승선해서 봉쇄 조치 준수를 철저히 확인했다\"고 설명했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n34292ad5",
-    "category": "스포츠",
-    "source": "연합뉴스",
-    "time": "3분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260906051100007",
-    "title": "'잇몸으로 완승'…안양전 무승 사슬 끊은 K리그1 강원의 '소통'",
-    "summary": [
-      "(안양=연합뉴스) 배진남 기자 = 어려운 팀 사정 속에서도 FC안양과 프로축구 K리그1 맞대결에서 첫 승리를 거둔 강원FC의 정경호 감독은 '소..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n82879f67",
+    "id": "n7b81742a",
     "category": "스포츠",
     "source": "조선일보",
-    "time": "9분 전",
-    "url": "https://www.chosun.com/sports/football/2026/09/06/MZQWKMDCGU2WKNZQMU2WKOJUG4/",
-    "title": "'0-2→2-2' 광주, 'K리그 최다' 25경기 무승의 늪...'승격 보인다' 수원은 충남아산 꺾고 K리그2 첫 '승점 50' 달성",
+    "time": "12분 전",
+    "url": "https://www.chosun.com/sports/baseball/2026/09/07/MMYDKOLEMVSDIYRWG5SGGNBUG4/",
+    "title": "‘눈물의 작별’ 다시 한국 못 올 것처럼 울었는데, 꼴찌팀 이적→친정에 비수…100홈런 쾅, 5-6위 다시 4.5G 벌어졌다",
     "summary": [
-      "[OSEN=고성환 기자] 광주FC가 뒷심을 보여줬으나 승리까지는 조금 모자랐다.",
-      "결국 K리그1·2부를 통틀어 최다 연속 경기 무승 타이 기록(25경기)를 쓰고 말았다.광주FC는 6일 김천종합운동장에서 열린 하나은행 K리그1 2026 27라운드 김천 상무와 원정 경기에서 2-2 무승부를 거뒀다.",
-      "광주는 승점 13(1승 10무 16패)로 최하위인 12위, 김천."
+      "[OSEN=이후광 기자] 영웅군단이 공룡군단의 8연승 도전을 막아섰다.",
+      "프로야구 키움 히어로즈는 6일 서울 고척스카이돔에서 열린 2026 신한 SOL KBO리그 NC 다이노스와의 시즌 15차전에서 4-2로 승리했다.",
+      "최하위 키움은 2연패에서 탈출하며 시즌 44승 3무 80패를 기록했다."
     ],
     "chips": [
-      "#뉴스"
+      "#KBO"
     ]
   },
   {
-    "id": "nbf160158",
+    "id": "n2d215830",
     "category": "스포츠",
     "source": "조선일보",
     "time": "13분 전",
-    "url": "https://www.chosun.com/sports/football/2026/09/06/HFRTAMBQGA2WGMLDGQ3TEZBZHA/",
-    "title": "'푸른 해결사' 루이스, 또 다시 결승골! '페신 추가골' 수원, 충남아산에 2-0 승리 '8경기 무패+2위 서울E와 5점차 선두 질주'[현장 리뷰]",
+    "url": "https://www.chosun.com/sports/sports_general/2026/09/07/MNQTGYTGGZRTGMBUHEYTSMJVHA/",
+    "title": "‘안세영 잡겠다고?’ 호기롭게 나섰던 일본 아이돌 미야자키 토모카, 얼굴만 예뻤다…코트에 수차례 넘어지는 굴욕패",
     "summary": [
-      "[수원=스포츠조선 박찬준 기자]수원 삼성이 선두를 굳게 지켰다.",
-      "수원은 6일 수원월드컵경기장에서 열린 충남아산과 '하나은행 K리그2 2026' 25라운드에서 루이스와 페신의 연속골을 앞세워 2대0으로 승리했다.",
-      "8경기 무패를 달린 수원은 승점 50점(15승5무4패) 고지를 밟았다."
+      "[OSEN=서정환 기자] ‘일본 아이돌’ 미야자키 토모카(20, 일본)에게 진격의 안세영(24, 삼성생명)은 커도 너무 큰 거인이었다.",
+      "세계 1위 안세영(24, 삼성생명)은 6일 중국 선전에서 열린 2026 중국 마스터스 여자단식 결승전에서 세계랭킹 9위 미야자키 토모카(20, 일본)를 세트스코어 2-0(21-17, 21-6)으로 꺾고 우승을 차지했다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "nc9e767f9",
+    "id": "n8907d72f",
     "category": "스포츠",
     "source": "조선일보",
-    "time": "15분 전",
-    "url": "https://www.chosun.com/sports/baseball/2026/09/06/GQ4DCNRXGMZTCYRXGEZWKY3CGM/",
-    "title": "KIA 초대박 이걸 다 이겨?! → 3위가 눈앞! 이범호 감독, 스기모토 부상도 잊지 않았다 \"걱정되는데 빠른 회복 바란다\" [광주 현장]",
+    "time": "13분 전",
+    "url": "https://www.chosun.com/sports/world-baseball/2026/09/07/GY4DMM3EMU2WIZRZMVRWIMLCHE/",
+    "title": "'야구를 못하는 게 뭘까?' 34년 연속 5할 승률↑, 그런데 마지막 우승이 2009년",
     "summary": [
-      "[광주=스포츠조선 한동훈 기자] KIA 타이거즈가 KT 위즈와 주말 3연전을 싹쓸이했다.",
-      "KIA 김도영은 최연소 40홈런에 실패했지만 짧은 안타 4개를 생산해내며 팀배팅에 충실한 모습이 돋보였다.",
-      "KIA는 6일 광주 KIA챔피언스필드에서 열린 KT와 경기에서 8대3으로 승리했다."
+      "[스포츠조선 나유리 기자]야구를 못하는 기분을 모른다.",
+      "뉴욕 양키스가 34시즌 연속 승률 5할 이상을 확정했다.",
+      "양키스는 6일(이하 한국시각) 미국 캘리포니아주 샌디에이고 펫코파크에서 열린 2026 메이저리그(MLB) 샌디에이고 파드리스와의 원정 경기에서 5대1로 승리했다."
     ],
     "chips": [
-      "#뉴스"
+      "#KBO"
     ]
   },
   {
-    "id": "ndc500a3e",
+    "id": "nfb69210a",
     "category": "사회",
     "source": "뉴시스",
-    "time": "20분 전",
-    "url": "https://www.newsis.com/view/NISX20260906_0003778235",
-    "title": "카보베르데, 교통사고로 25명 사망",
+    "time": "30분 전",
+    "url": "https://www.newsis.com/view/NISX20260907_0003778280",
+    "title": "美국무, 한국 기업 '비확산법' 위반 제재 조기 종료…7개월 만",
     "summary": [
-      "[프라이아(카보베르데)=AP/뉴시스] 김재영 기자 = 아프리카 대서양 섬나라인 카보베르데에서 교통사고가 나 대부분이 십대들인 25명이 사망했다고 6일 현지 매체와 관리들이 말했다.",
-      "포고섬 산악 지역인 캄파나스 데 키미 도로에서 전날 버스 사고가 난 것으로 부상자도 여러 명 있다.",
-      "카보베르데의 호세 마리아 대통령은 '커다란 재난\"이라고 페이스북에서 말했다."
-    ],
-    "chips": [
-      "#정치",
-      "#의료"
-    ]
-  },
-  {
-    "id": "nc3d34efd",
-    "category": "경제",
-    "source": "아시아경제",
-    "time": "25분 전",
-    "url": "https://view.asiae.co.kr/article/2026090621512001720",
-    "title": "초고가 줄고 거래 폭 넓혔다…키아프·프리즈, 불황 속 '실수요' 확인",
-    "summary": [
-      "세계 미술시장 침체 속에서 열린 프리즈 서울과 키아프 서울이 초고가 작품 몇 점에 집중됐던 과거와 달리 폭넓은 가격대에서 거래가 이어지며 막을 내렸다.",
-      "관람객 규모는 전년과 비슷했지만 해외 컬렉터와 미술기관 참여가 확대됐고, 수천만원에서 수억원대 작품을 중심으로 실제 구매가 이어지는 모습이 두드러졌다.",
-      "지난 2일 서울 강남구 코엑스에서 함께 개막한 프리즈 서울은 5일, 키아프 서울은 6일 각각 폐막했다."
+      "[서울=뉴시스]고재은 기자 = 도널드 트럼프 미국 행정부가 '이란·북한·시리아 비확산법(INKSNA)' 위반 혐의로 한국 기업 JS리서치에 부과했던 제재를 7개월여 만에 조기 종료하기로 했다.",
+      "미국 연방 관보에는 지난 4일(현지 시간) 미 국무부의 '한국 기업의 비확산법 위반에 대한 제재 종료(Termination of Iran, North Korea, and Syria Nonproliferation Act Measures Against ROK."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n39c1ecda",
-    "category": "스포츠",
+    "id": "n8c91dde6",
+    "category": "사회",
+    "source": "한국경제",
+    "time": "31분 전",
+    "url": "https://www.hankyung.com/article/202609077140i",
+    "title": "李대통령, 프랑스 니스 도착…3박 5일 국빈 방문 시작",
+    "summary": [
+      "李대통령, 프랑스 니스 도착…3박 5일 국빈 방문 시작."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "na6b935b8",
+    "category": "사회",
     "source": "뉴시스",
-    "time": "29분 전",
-    "url": "https://www.newsis.com/view/NISX20260906_0003778258",
-    "title": "제주도청, 영월군청 꺾고 전국장사씨름대회 남자 일반부 우승",
+    "time": "33분 전",
+    "url": "https://www.newsis.com/view/NISX20260904_0003776636",
+    "title": "어린시절 뚱뚱한 아이…80%는 \"성인돼서도 비만\"",
     "summary": [
-      "[서울=뉴시스] 하근수 기자 = 제주특별자치도청(제주특별자치도)이 영월군청(강원특별자치도)을 꺾고 제2회 삼척이사부장군배전국장사씨름대회 남자 일반부 단체전을 제패했다.",
-      "박현우 감독이 이끄는 제주도청은 6일 강원 삼척체육관에서 열린 영월군청과의 대회 남자 일반부 단체전 결승에서 게임 점수 4-2 승리를 거두고 시즌 첫 우승을 달성했다.",
-      "1경기 경장급(75㎏ 이하)은 제주도청 이대성, 2경기 소장급(80㎏ 이하)은 이현서(영월군청)가 챙겼다."
+      "[서울=뉴시스] 류난영 기자 = 소아·청소년 비만은 단순히 많이 먹고 덜 움직여서 생기는 문제가 아니다.",
+      "식욕과 포만감을 조절하는 호르몬 체계, 에너지를 저장하고 소비하는 대사 방식 자체가 개인마다 다르게 작동하는 만성질환이다.",
+      "7일 대한비만학회의 '2025년 비만 팩트시트'에 따르면, 부모가 모두 비만일 경우 자녀의 비만 위험은 최대 5.9배, 딸은 최대 7배까지 높아지는 것으로 나타났다."
+    ],
+    "chips": [
+      "#환경"
+    ]
+  },
+  {
+    "id": "nc138ec7c",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "34분 전",
+    "url": "https://www.newsis.com/view/NISX20260906_0003778170",
+    "title": "\"관리 좀 해라, 남편 밖에서 눈 돌아간다\"…시어머니 외모 잔소리에 며느리 '눈물'",
+    "summary": [
+      "[서울=뉴시스]허준희 인턴 기자 = 시어머니가 자신의 외모를 지적한다는 한 여성의 사연이 온라인에서 화제가 되고 있다.",
+      "지난 2일 온라인 커뮤니티에는 '며느리는 꾸며야 한다는 시어머니'라는 제목의 글이 올라왔다.",
+      "결혼 18년 차라고 밝힌 작성자 A씨는 \"시어머니는 저를 보면 늘 외모 얘기부터 하신다\"고 토로했다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "nf26e6a00",
+    "id": "n353c5b91",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "34분 전",
+    "url": "https://www.newsis.com/view/NISX20260904_0003775889",
+    "title": "'음악 승려' 간호 야쿠시지, 첫 내한…일렉 비트 위에 새긴 반야심경",
+    "summary": [
+      "[서울=뉴시스]이재훈 기자 = 불교 경전과 전자음악을 결합해 세계적인 반향을 일으킨 일본의 '음악 승려' 간호 야쿠시지(Kanho Yakushiji·칸호 야쿠시지)가 처음으로 국내 무대에 오른다.",
+      "7일 공연기획사 재즈브릿지컴퍼니와 라이브유니크에 따르면, 야쿠시지가 오는 10월30일 오후 7시 서울 신촌 예스(YES)24 원더로크홀에서 첫 내한공연 '서클 오브 하모니(Circle of Harmony)'를 연다.",
+      "야쿠시지는 일본 에히메현 이마바리에."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n6c54b8f4",
     "category": "사회",
     "source": "연합뉴스",
-    "time": "29분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260906050300109",
-    "title": "트럼프 특사, 우크라 첫 방문…젤렌스키와 종전 논의",
+    "time": "35분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260906050351109",
+    "title": "트럼프 특사, 키이우서 젤렌스키와 종전 논의…영·프·독 참여(종합)",
     "summary": [
       "(로마=연합뉴스) 민경락 특파원 = 러시아·우크라이나 종전 협상을 중재하는 미국 도널드 트럼프 대통령 특사가 6일(현지시간) 블라디미르 푸틴 러..."
     ],
@@ -483,151 +480,151 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nbf0a7c2b",
-    "category": "스포츠",
-    "source": "뉴시스",
-    "time": "30분 전",
-    "url": "https://www.newsis.com/view/NISX20260906_0003778244",
-    "title": "AG 차출 딛고 10년 만에 안양 꺾은 정경호 \"소통이 만든 승리\"",
-    "summary": [
-      "[안양=뉴시스]안경남 기자 = 2026 아이치·나고야 아시안게임 차출 공백을 딛고 10년 만에 FC안양을 꺾은 프로축구 K리그1 강원FC 정경호 감독이 \"소통이 만든 승리\"라며 웃었다.",
-      "강원은 6일 안양종합운동장에서 열린 하나은행 K리그1 2026 27라운드 원정 경기에서 FC안양에 3-0 완승을 거뒀다.",
-      "강원이 K리그1에서 안양을 꺾은 건 이번이 처음이다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nab5442ae",
-    "category": "경제",
-    "source": "한국경제",
-    "time": "36분 전",
-    "url": "https://www.hankyung.com/article/2026090671087",
-    "title": "의대 그만둔 10명 중 '8명' 지방 대학생…\"수도권 '갈아타기'\"",
-    "summary": [
-      "의대 그만둔 10명 중 '8명' 지방 대학생…\"수도권 '갈아타기'\"."
-    ],
-    "chips": [
-      "#교육"
-    ]
-  },
-  {
-    "id": "ndd37ea05",
+    "id": "nd47a488a",
     "category": "사회",
-    "source": "연합뉴스(경제)",
-    "time": "38분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260906033552001",
-    "title": "주진우 \"김승원 자녀, 아내 원장인 기관 취업\"…金측 \"가족폄훼\"(종합2보)",
+    "source": "동아일보",
+    "time": "54분 전",
+    "url": "https://www.donga.com/news/Politics/article/all/20260907/134616102/1",
+    "title": "이 대통령, 프랑스 도착…‘뤼미에르 서밋’ 등 3박5일 일정",
     "summary": [
-      "(서울=연합뉴스) 박수윤 노선웅 박재현 기자 = 국민의힘 주진우 의원은 6일 김승원 법무부 장관 후보자의 배우자가 일하는 복지기관이 이들 부부의..."
+      "이재명 대통령은 6일 영화·영상산업 국제 정상회의인 ‘뤼미에르 서밋’ 참석차 프랑스를 방문했다.이 대통령 부부와 참모진 등을 태운 공군 1호기(대통령 전용기)는 현지시간 이날 오후 5시께 프랑스 니스 코트다쥐르공항에 도착했다.공항엔 에릭 시오티 니스 시장이 나와 이 대통령 내외를 영접했으며, 이 대통령에게 기념메달을 증정했다.",
+      "이 대통령은 안내에 따라 환영인사들과 악수 나눴으며, 기념메달을 들고 잠시 대화를 나눴다.이 대통령은 도착 다음날인 7."
     ],
     "chips": [
-      "#취업"
-    ]
-  },
-  {
-    "id": "nd7970df1",
-    "category": "사회",
-    "source": "아시아경제",
-    "time": "48분 전",
-    "url": "https://view.asiae.co.kr/article/2026090621282897281",
-    "title": "주진우 \"김승원 자녀, 아내 원장인 복지기관 취업…가족이 급여 수억원 챙겨\"",
-    "summary": [
-      "주진우 국민의힘 의원은 6일 김승원 법무부 장관 후보자의 배우자가 일하는 복지기관이 김 후보자 부부의 자녀 2명을 채용해 수억원의 인건비를 지급한 것으로 나타났다고 주장했다.",
-      "주 의원은 이날 국회 소통관에서 기자회견을 열고 \"박원순식 사회적 협동조합이 혈세에 빨대 꽂는다는 지적을 받아왔는데, 이번 김승원의 가족형 협동조합 사례로 실체가 드러났다\"며 이같이 주장했다.",
-      "주 의원에 따르면 김 후보자의 아들(26)과 딸(22)은 모친이 대표인 발달장애."
-    ],
-    "chips": [
-      "#채용",
-      "#취업",
       "#정치"
     ]
   },
   {
-    "id": "n5476d919",
-    "category": "경제",
-    "source": "한국경제",
-    "time": "49분 전",
-    "url": "https://www.hankyung.com/article/2026090670997",
-    "title": "\"20억원 집 팔고 미국 주식 올인\"…연봉 2.5억 부부의 결심",
-    "summary": [
-      "\"20억원 집 팔고 미국 주식 올인\"…연봉 2.5억 부부의 결심."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nd4c872ac",
+    "id": "nb82b0170",
     "category": "사회",
     "source": "연합뉴스",
-    "time": "59분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260906021451001",
-    "title": "국힘 \"김승원, 탐욕의 종합판…지명철회·수사해야\"…파상공세(종합)",
+    "time": "58분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260905036351085",
+    "title": "베네치아서 베일벗은 '가능한 사랑'…거장이 빚어낸 인간의 품위(종합)",
     "summary": [
-      "(서울=연합뉴스) 박수윤 노선웅 기자 = 국민의힘은 '신약 청탁' 의혹을 받는 김승원 법무부 장관 후보자를 향해 \"철저한 수사가 필요한 사안\"이..."
+      "(베네치아=연합뉴스) 김지연 특파원 = 해고 노동자 호석(설경구)의 아내 미옥(전도연)은 호석의 전 동료 장례식장에서 해고 노동자 문제를 다루는..."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n77dc5000",
+    "id": "n32f43d82",
     "category": "경제",
-    "source": "한국경제",
+    "source": "동아일보",
     "time": "1시간 전",
-    "url": "https://www.hankyung.com/article/2026090670957",
-    "title": "중국 강타한 태풍 '사우델' 산사태 이어져…5명 사망·9명 실종",
+    "url": "https://www.donga.com/news/Economy/article/all/20260906/134614849/2",
+    "title": "환율 1345원까지 뚝뚝… 기업 달러예금 역대최대",
     "summary": [
-      "중국 강타한 태풍 '사우델' 산사태 이어져…5명 사망·9명 실종."
+      "프리랜서로 영상 촬영을 하는 김찬희 씨(31)는 7월 초 원-달러 환율이 1500원 선을 뚫고 하락(원화 가치는 상승)하자 원화를 달러로 환전해 모았다.",
+      "‘환율이 언제 오를지 모르니 일단 사두자’는 생각에서였다.",
+      "하지만 최근 환율이 1340원대까지 내려와 미리 사둔 달러값이 떨어지니 억울하다."
     ],
     "chips": [
-      "#뉴스"
+      "#환율"
     ]
   },
   {
-    "id": "na87a1ec9",
+    "id": "n48dbafa2",
     "category": "경제",
-    "source": "아시아경제",
+    "source": "동아일보",
     "time": "1시간 전",
-    "url": "https://view.asiae.co.kr/article/2026090621055886398",
-    "title": "中티베트 지역 사망자 43명·실종자 519명으로 늘어",
+    "url": "https://www.donga.com/news/Economy/article/all/20260906/134614834/2",
+    "title": "폭염 덮친 밥상물가… 추석 차례상 비용 다시 30만원대로 올라",
     "summary": [
-      "히말라야 산악지대에서 발생한 대홍수로 인한 중국 시짱(티베트) 지역 사망자 수가 43명으로 늘었다.",
-      "6일 중국 국영 신화통신에 따르면 티베트 지룽현 당국은 이날 오후 6시 기준 중국 측 사망자는 43명, 실종자는 519명으로 집계됐다고 발표했다.",
-      "중국 당국은 실종자에 네팔, 인도, 라트비아, 미국, 영국 등 23개국 외국인이 포함됐다고 밝힌 바 있으나, 현재까지 구체적인 정보는 공개되지 않은 상태다."
+      "추석이 25일로 다가온 가운데 올여름 폭염 등의 영향으로 농축수산물 가격이 오르면서 올해 차례상 비용이 지난해보다 소폭 상승한 것으로 조사됐다.",
+      "전통시장 차림 비용도 30만 원을 넘어섰고, 대형마트 기준으로는 40만 원에 육박했다.",
+      "한우 가격까지 두 자릿수 상승세를 보이면서 명절 장바구니 부담이 더 커질 전망이다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n67cc533d",
+    "id": "nb608a1c9",
+    "category": "부동산",
+    "source": "동아일보",
+    "time": "1시간 전",
+    "url": "https://www.donga.com/news/Economy/article/all/20260906/134614770/2",
+    "title": "서울 아파트 전세 재계약 90%가 보증금 올라… ‘1억 이상’ 17%",
+    "summary": [
+      "올 7월 서울에서 계약갱신요구권(갱신권)을 쓰지 않은 아파트 전세 재계약 10건 중 9건의 보증금이 직전 계약보다 오른 것으로 나타났다.",
+      "평균 인상액은 4700만 원에 육박했다.",
+      "서울 전셋값 오름세가 이어지면서 세입자의 보증금 부담이 커진 것으로 풀이된다."
+    ],
+    "chips": [
+      "#부동산",
+      "#전세"
+    ]
+  },
+  {
+    "id": "n771a7117",
     "category": "사회",
-    "source": "한국경제",
+    "source": "연합뉴스",
     "time": "1시간 전",
-    "url": "https://www.hankyung.com/article/2026090670867",
-    "title": "김승원, '장애인 복지 예산 특혜' 의혹에 \"가족 삶 폄훼, 사과하라\"",
+    "url": "https://www.yna.co.kr/view/AKR20260907000400087",
+    "title": "볼리비아 군기지서 폭발 사고…3명 사망·14명 실종",
     "summary": [
-      "김승원, '장애인 복지 예산 특혜' 의혹에 \"가족 삶 폄훼, 사과하라\"."
+      "(멕시코시티=연합뉴스) 송광호 특파원 = 볼리비아의 한 군사기지에서 발생한 폭발 사고로 인한 사망자가 3명으로 늘었다고 현지 일간 엘데베르와 A..."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "nf2a9750a",
-    "category": "경제",
-    "source": "연합뉴스(경제)",
+    "id": "nc8c9673b",
+    "category": "사회",
+    "source": "연합뉴스",
     "time": "1시간 전",
-    "url": "https://www.yna.co.kr/view/AKR20260906049000002",
-    "title": "[부고] 강윤진(재정경제부 개발금융국장)씨 부친상",
+    "url": "https://www.yna.co.kr/view/AKR20260906007200001",
+    "title": "李대통령, 프랑스 도착…내일 영화·영상 정상회의 참석",
     "summary": [
-      "[부고] 강윤진(재정경제부 개발금융국장)씨 부친상."
+      "(니스=연합뉴스) 임형섭 고동욱 기자 = 이재명 대통령이 6일(현지시간) 국제 영화·영상 정상회의인 '뤼미에르 서밋'이 열리는 프랑스에 도착했다..."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "na0ab6d5b",
+    "category": "경제",
+    "source": "한국경제",
+    "time": "1시간 전",
+    "url": "https://www.hankyung.com/article/2026090168517",
+    "title": "[오늘의 운세] 2026년 9월 7일 오행별 행운의 컬러",
+    "summary": [
+      "[오늘의 운세] 2026년 9월 7일 오행별 행운의 컬러."
     ],
     "chips": [
       "#뉴스"
+    ]
+  },
+  {
+    "id": "n6b40d8e2",
+    "category": "경제",
+    "source": "한국경제",
+    "time": "1시간 전",
+    "url": "https://www.hankyung.com/article/2026083124137",
+    "title": "[오늘의 운세] 2026년 9월 7일 별자리 운세",
+    "summary": [
+      "[오늘의 운세] 2026년 9월 7일 별자리 운세."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n4ddebf9a",
+    "category": "경제",
+    "source": "ZDNet Korea",
+    "time": "2시간 전",
+    "url": "https://zdnet.co.kr/view/?no=20260906230958",
+    "title": "최윤범이 키운 자원순환 사업…한국 희토류 공급망 대안으로",
+    "summary": [
+      "[지디넷코리아]희토류 자원이 부족한 한국이 비철금속 제련 기술과 폐자원을 활용하는 도시광산 사업을 결합해 핵심광물 공급망의 돌파구를 마련해야 한다는 국책은행 분석이 나왔다.6일 업계에 따르면 한국산업은행 KDB 미래전략연구소는 지난 2일 발간한 ‘글로벌 희토류 공급망 재편 동향’ 보고서에서 특정 국가의 수출 통제가 강화되는 상황에서 제련 기술과 도시광산이 한국의 희토류 공급망 경쟁력을 높일 수 있다고 분석했다.도시광산은 폐가전과 폐자석 등 사용."
+    ],
+    "chips": [
+      "#수출"
     ]
   }
 ];
@@ -637,8 +634,8 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2980건",
-    "trend": "+355%"
+    "mentions": "2330건",
+    "trend": "+255%"
   },
   {
     "rank": 2,
@@ -648,7 +645,7 @@ window.KEYWORD_TOP = [
   },
   {
     "rank": 3,
-    "tag": "취업",
+    "tag": "KBO",
     "mentions": "1550건",
     "trend": "+135%"
   }
