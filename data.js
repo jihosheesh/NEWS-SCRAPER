@@ -1,5 +1,5 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-09-06 16:34:05
+// 마지막 업데이트: 2026-09-06 18:44:25
 window.NEWS_DB = [
   {
     "id": "n229cd7e4",
@@ -35,12 +35,12 @@ window.NEWS_DB = [
   {
     "id": "nddb6f8d3",
     "category": "IT",
-    "source": "연합뉴스",
+    "source": "yna.co.kr",
     "time": "2일 전",
     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1HbWdIaXVodmF6Tk11Qm82MnlrMFJrbzJjRmlqRXBUN2JNbk1DZWUzQ0hFZXQ2VDhRZ2FvQlZ6SDZWampuUF9jSC1QcWRseGI2dFV6SDE5Vjh5RkHSAWBBVV95cUxPT3oxTGczSHB5bXI2LXVfZDhNOVctNmZuWGp0Ui1EekVET2ZFN2sxdl9saFFseXp0dGtMZ1g1MF9RSHhheGNXMDhyRm5jY1dMemxiZDJUV2ZRdVBFZU9Hb1k?oc=5",
     "title": "엔비디아, 허깅페이스 17.5조원에 인수…개방형 AI허브 계열화",
     "summary": [
-      "엔비디아, 허깅페이스 17.5조원에 인수…개방형 AI허브 계열화 연합뉴스."
+      "엔비디아, 허깅페이스 17.5조원에 인수…개방형 AI허브 계열화 yna.co.kr."
     ],
     "chips": [
       "#AI",
@@ -51,7 +51,7 @@ window.NEWS_DB = [
     "id": "nae6f1798",
     "category": "IT",
     "source": "초이스스탁US",
-    "time": "2일 전",
+    "time": "3일 전",
     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE8tdWctN19VU05vS25mc1pjMVBKSzhXMzR2TkdtQ0p3U1E4Z0xMZUd4SjUweGdrd3FldURPSnNnUk9zUTN6cnc1VW1YUXhJcUZTX2txWnR6TWk1TFBHUjA0WFdR?oc=5",
     "title": "엔비디아, 허깅페이스 129억달러에 인수…개방형 AI 영향력 확대",
     "summary": [
@@ -111,12 +111,12 @@ window.NEWS_DB = [
   {
     "id": "na9bf3191",
     "category": "IT",
-    "source": "thekorea.kr",
+    "source": "더코리아",
     "time": "5일 전",
     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4yMmtYQl8xRHVocVdkZUVXLTlRb2JoTXpkSF84VEIwUWFLX1o4NjROUEZCQmtIa0QtT0FCRXpwWEdrWHRmQjlPWXNva0R1cEZMVXRKaFRLdDRfZVk1MlRKM21kMHRIaEdfbDJxLW5UWnE?oc=5",
     "title": "관악S밸리 벤처 영토 확장 창업 둥지 트는 미래 유니콘 > 뉴스",
     "summary": [
-      "관악S밸리 벤처 영토 확장 창업 둥지 트는 미래 유니콘 > 뉴스 thekorea.kr."
+      "관악S밸리 벤처 영토 확장 창업 둥지 트는 미래 유니콘 > 뉴스 더코리아."
     ],
     "chips": [
       "#스타트업"
@@ -125,12 +125,12 @@ window.NEWS_DB = [
   {
     "id": "n2c0f41aa",
     "category": "IT",
-    "source": "연합뉴스",
+    "source": "yna.co.kr",
     "time": "5일 전",
     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBSVEdqRzlmS1Y1dU1BV2dEamdfeGZHV1pVVnNmZnllZTZFX2ZlNXpQSEkzUGFHRFpSN2djQVRpbGVvM1FDQVVZU3Q0ckVYQzR4dy1BUkREV2x0ZWfSAWBBVV95cUxPMUVfaGpjN0VCUi1uUWtyRHFxZjFRbS0wcGJPc1hlVEs0c0I2QkltU2xRWFI4M1lHajczY29Vdmthb0lRazFMck5YQTB3X01zQWlTN09xMHVUbjQ4N0hLTkY?oc=5",
     "title": "\"관악S밸리에서 유니콘의 꿈을\"…관악구, 입주사 최대 20곳 모집",
     "summary": [
-      "\"관악S밸리에서 유니콘의 꿈을\"…관악구, 입주사 최대 20곳 모집 연합뉴스."
+      "\"관악S밸리에서 유니콘의 꿈을\"…관악구, 입주사 최대 20곳 모집 yna.co.kr."
     ],
     "chips": [
       "#스타트업",
@@ -140,12 +140,12 @@ window.NEWS_DB = [
   {
     "id": "n244b0da4",
     "category": "사회",
-    "source": "경북매일",
+    "source": "kbmaeil.com",
     "time": "11일 전",
     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBYUEFCOVNDZG1rQ3VxRlNlRFJQSDF1aVRMZmxFS09FNWRndks2eEVEVEx1RkQteERzdTJ0WVhXY2JBNUIxVVdBb1NtaU5HS3lRUWxfNFRPQ25YZw?oc=5",
     "title": "경주시시설관리공단-경주시취업지원센터, 지역 일자리 활성화 ‘맞손’",
     "summary": [
-      "경주시시설관리공단-경주시취업지원센터, 지역 일자리 활성화 ‘맞손’ 경북매일."
+      "경주시시설관리공단-경주시취업지원센터, 지역 일자리 활성화 ‘맞손’ kbmaeil.com."
     ],
     "chips": [
       "#취업",
@@ -170,12 +170,12 @@ window.NEWS_DB = [
   {
     "id": "n062f98b4",
     "category": "부동산",
-    "source": "arunews.com",
+    "source": "한국주택경제신문",
     "time": "37일 전",
     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9Sdmd3SUl0dmRQSWdTck5DVjJ5WXYxTTFmRnBBbEkwa09VclpLd0VsVWFTV2pPRm9sQm1sQmZDb3EyN2lwTVBvZ185RUVycVFnOEdYcHVrcVFnYTdwaGZfUDh2WkFWYndi?oc=5",
     "title": "서울 아파트값 0.25% 상승… 똘똘한 ‘역세권·대단지’가 집값 견인",
     "summary": [
-      "서울 아파트값 0.25% 상승… 똘똘한 ‘역세권·대단지’가 집값 견인 arunews.com."
+      "서울 아파트값 0.25% 상승… 똘똘한 ‘역세권·대단지’가 집값 견인 한국주택경제신문."
     ],
     "chips": [
       "#부동산"
@@ -184,12 +184,12 @@ window.NEWS_DB = [
   {
     "id": "nac7d261c",
     "category": "사회",
-    "source": "연합뉴스",
+    "source": "yna.co.kr",
     "time": "37일 전",
     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1wZmd4RTNaSTBwNVNxSm0yRGFySTlYN19qVTZfYzRtVzBzVV9nSnR3RXdYaTNiNkZRX3F6aXhFZTA5ekUxNW9VWHIzZHFjYnoyWU0wVDNoU2FJcVE?oc=5",
     "title": "강남구 일자리통합지원센터, 맞춤형 지원으로 취업자 25.7％ 증가",
     "summary": [
-      "강남구 일자리통합지원센터, 맞춤형 지원으로 취업자 25.7％ 증가 연합뉴스."
+      "강남구 일자리통합지원센터, 맞춤형 지원으로 취업자 25.7％ 증가 yna.co.kr."
     ],
     "chips": [
       "#취업",
@@ -342,72 +342,213 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n7b81742a",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "12분 전",
-    "url": "https://www.chosun.com/sports/baseball/2026/09/07/MMYDKOLEMVSDIYRWG5SGGNBUG4/",
-    "title": "‘눈물의 작별’ 다시 한국 못 올 것처럼 울었는데, 꼴찌팀 이적→친정에 비수…100홈런 쾅, 5-6위 다시 4.5G 벌어졌다",
-    "summary": [
-      "[OSEN=이후광 기자] 영웅군단이 공룡군단의 8연승 도전을 막아섰다.",
-      "프로야구 키움 히어로즈는 6일 서울 고척스카이돔에서 열린 2026 신한 SOL KBO리그 NC 다이노스와의 시즌 15차전에서 4-2로 승리했다.",
-      "최하위 키움은 2연패에서 탈출하며 시즌 44승 3무 80패를 기록했다."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
-    "id": "n2d215830",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "13분 전",
-    "url": "https://www.chosun.com/sports/sports_general/2026/09/07/MNQTGYTGGZRTGMBUHEYTSMJVHA/",
-    "title": "‘안세영 잡겠다고?’ 호기롭게 나섰던 일본 아이돌 미야자키 토모카, 얼굴만 예뻤다…코트에 수차례 넘어지는 굴욕패",
-    "summary": [
-      "[OSEN=서정환 기자] ‘일본 아이돌’ 미야자키 토모카(20, 일본)에게 진격의 안세영(24, 삼성생명)은 커도 너무 큰 거인이었다.",
-      "세계 1위 안세영(24, 삼성생명)은 6일 중국 선전에서 열린 2026 중국 마스터스 여자단식 결승전에서 세계랭킹 9위 미야자키 토모카(20, 일본)를 세트스코어 2-0(21-17, 21-6)으로 꺾고 우승을 차지했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n8907d72f",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "13분 전",
-    "url": "https://www.chosun.com/sports/world-baseball/2026/09/07/GY4DMM3EMU2WIZRZMVRWIMLCHE/",
-    "title": "'야구를 못하는 게 뭘까?' 34년 연속 5할 승률↑, 그런데 마지막 우승이 2009년",
-    "summary": [
-      "[스포츠조선 나유리 기자]야구를 못하는 기분을 모른다.",
-      "뉴욕 양키스가 34시즌 연속 승률 5할 이상을 확정했다.",
-      "양키스는 6일(이하 한국시각) 미국 캘리포니아주 샌디에이고 펫코파크에서 열린 2026 메이저리그(MLB) 샌디에이고 파드리스와의 원정 경기에서 5대1로 승리했다."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
-    "id": "nfb69210a",
+    "id": "n43189d55",
     "category": "사회",
     "source": "뉴시스",
-    "time": "30분 전",
-    "url": "https://www.newsis.com/view/NISX20260907_0003778280",
-    "title": "美국무, 한국 기업 '비확산법' 위반 제재 조기 종료…7개월 만",
+    "time": "10분 전",
+    "url": "https://www.newsis.com/view/NISX20260907_0003778288",
+    "title": "美에너지부 \"이란 핵 합의 없을 수도…다른 나라 호르무즈 지원 기대\"",
     "summary": [
-      "[서울=뉴시스]고재은 기자 = 도널드 트럼프 미국 행정부가 '이란·북한·시리아 비확산법(INKSNA)' 위반 혐의로 한국 기업 JS리서치에 부과했던 제재를 7개월여 만에 조기 종료하기로 했다.",
-      "미국 연방 관보에는 지난 4일(현지 시간) 미 국무부의 '한국 기업의 비확산법 위반에 대한 제재 종료(Termination of Iran, North Korea, and Syria Nonproliferation Act Measures Against ROK."
+      "[서울=뉴시스]고재은 기자 = 크리스 라이트 미국 에너지부 장관이 6일(현지 시간) 미국이 이란과 핵 합의에 도달하지 못할 수도 있다고 말했다.",
+      "라이트 장관은 이날 ABC 방송 인터뷰에서 핵 협정 체결 가능성에 대해 \"핵 합의(nuclear agreement)가 없을 수도 있다\"고 밝혔다.",
+      "그는 \"단순히 이란의 핵 개발 능력을 파괴하는 것일 수도 있다\"며 \"합의는 이란의 차기 지도부(administration)를 기다려야 할지도 모른다."
     ],
     "chips": [
       "#뉴스"
+    ]
+  },
+  {
+    "id": "nf24cb2f8",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "18분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260907002200087",
+    "title": "美 봉쇄 에너지난 속 쿠바 장악해 가는 '차이나 머니'",
+    "summary": [
+      "(멕시코시티=연합뉴스) 송광호 특파원 = 사상 최악의 전력난에 시달리고 있는 쿠바에서도 중국 자본의 힘은 확인할 수 있다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "ncf470642",
+    "category": "경제",
+    "source": "아시아경제",
+    "time": "20분 전",
+    "url": "https://view.asiae.co.kr/article/2026090703241267379",
+    "title": "美 에너지장관 \"다른 나라도 호르무즈 통과 노력 동참할 것\"",
+    "summary": [
+      "크리스 라이트 미국 에너지부 장관은 6일(현지시간) 호르무즈 해협의 원유 수송을 보호하기 위해 중동 지역 밖의 동맹국과 우방국도 조속히 군사적 지원에 나서야 한다고 촉구했다.",
+      "라이트 장관은 이날 CNN과 폭스뉴스 등 방송 인터뷰에서 \"많은 선박이 해협을 통과하고 있으며 이를 위해서는 미군의 지원이 필요하다\"며 \"이란이 여전히 문제를 일으키고 있지만 미 해군은 그 싸움에서 이기고 있다\"고 말했다.",
+      "호르무즈 해협에서 미군의 선박 지원 작전이 '뉴노."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nafc212a8",
+    "category": "경제",
+    "source": "연합뉴스",
+    "time": "28분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260907002100009",
+    "title": "아르헨 전 경제장관 \"인플레 낮추는 것보다 경제 회복이 중요\"",
+    "summary": [
+      "(부에노스아이레스=연합뉴스) 김선정 통신원 = 도밍고 카발로 아르헨티나 전 경제장관이 하비에르 밀레이 정부에 대해 \"인플레이션을 낮추는 것보다 ..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nadc52fac",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "44분 전",
+    "url": "https://www.chosun.com/sports/sports_general/2026/09/07/B56S72XBMVBQ5DSS2EF2OZPYTY/",
+    "title": "아침 첫발 찌릿한 이유는?… 굳은 발바닥 감각 깨우는 3분 운동",
+    "summary": [
+      "아침 첫발 찌릿한 이유는?… 굳은 발바닥 감각 깨우는 3분 운동."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n0000b250",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "44분 전",
+    "url": "https://www.chosun.com/international/japan/2026/09/07/VSZGL4XMNRDU3JG5QNBBS6EA6U/",
+    "title": "부활한 도쿄 노면 전차를 타면서 찾은 ‘느린 행복’",
+    "summary": [
+      "부활한 도쿄 노면 전차를 타면서 찾은 ‘느린 행복’."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "ne5eeaff0",
+    "category": "IT",
+    "source": "조선일보",
+    "time": "44분 전",
+    "url": "https://www.chosun.com/national/2026/09/07/BTP32PIZHJEUNCKH2YX2IOHHZE/",
+    "title": "[굿모닝 멤버십] “한국 반도체의 황금기는 최소 10년 갑니다”",
+    "summary": [
+      "[굿모닝 멤버십] “한국 반도체의 황금기는 최소 10년 갑니다”."
+    ],
+    "chips": [
+      "#반도체"
+    ]
+  },
+  {
+    "id": "n1d8f9142",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "44분 전",
+    "url": "https://www.chosun.com/medical/2026/09/07/T6EJC4ITPRFWFNE6QOI3VM5E7E/",
+    "title": "왜 나이가 들면 잔소리 한마디에도 밤을 설칠까?",
+    "summary": [
+      "왜 나이가 들면 잔소리 한마디에도 밤을 설칠까?."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nb7a91ffe",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "44분 전",
+    "url": "https://www.donga.com/news/Inter/article/all/20260907/134616185/1",
+    "title": "젤렌스키 “美특사들과 매우 실질적인 논의…영·프·독도 참여”",
+    "summary": [
+      "볼로디미르 젤렌스키 우크라이나 대통령이 6일(현지 시간) 도널드 트럼프 미국 대통령 특사들과 우크라이나에서 처음으로 회담했다.젤렌스키 대통령은 미국의 추가 지원이 필요한 핵심 분야를 확인했다며 회담이 “매우 실질적”이었다고 평가했다.우크라이나 국영통신 우크린포름에 따르면 젤렌스키 대통령은 이날 오후부터 약 3시간 동안 스티브 윗코프·재러드 쿠슈너가 이끄는 미국 특사단과 수도 키이우의 대통령 관저인 마린스키궁에서 우크라이나 단기 지원 방안 등을."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n2cbc4709",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "47분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260907001900079",
+    "title": "네타냐후, 美 압박에 서안 불법 정착촌 전격 철거 지시",
+    "summary": [
+      "(카이로=연합뉴스) 김상훈 특파원 = 베냐민 네타냐후 이스라엘 총리가 미국의 강력한 압박 속에 요르단강 서안 내 불법 유대인 정착촌(outpos..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n1af4448a",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "59분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260907000700071",
+    "title": "美장관 \"다른 나라도 호르무즈 올 것…군사자산 조속지원 기대\"",
+    "summary": [
+      "(워싱턴=연합뉴스) 이유미 특파원 = 크리스 라이트 미국 에너지부 장관은 6일(현지시간) 호르무즈 해협에서 동맹국과 우방국의 조속한 역할 확대를..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n1c04f1fc",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "1시간 전",
+    "url": "https://www.donga.com/news/It/article/all/20260907/134616175/1",
+    "title": "어린시절 뚱뚱한 아이…80%는 “성인돼서도 비만”",
+    "summary": [
+      "소아·청소년 비만은 단순히 많이 먹고 덜 움직여서 생기는 문제가 아니다.",
+      "식욕과 포만감을 조절하는 호르몬 체계, 에너지를 저장하고 소비하는 대사 방식 자체가 개인마다 다르게 작동하는 만성질환이다.",
+      "7일 대한비만학회의 ‘2025년 비만 팩트시트’에 따르면, 부모가 모두 비만일 경우 자녀의 비만 위험은 최대 5.9배, 딸은 최대 7배까지 높아지는 것으로 나타났다."
+    ],
+    "chips": [
+      "#환경"
+    ]
+  },
+  {
+    "id": "n30e9ec5e",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "1시간 전",
+    "url": "https://www.donga.com/news/Inter/article/all/20260907/134616172/1",
+    "title": "美국무, 한국 기업 ‘비확산법’ 위반 제재 조기 종료…7개월 만",
+    "summary": [
+      "도널드 트럼프 미국 행정부가 ‘이란·북한·시리아 비확산법(INKSNA)’ 위반 혐의로 한국 기업 JS리서치에 부과했던 제재를 7개월여 만에 조기 종료하기로 했다.미국 연방 관보에는 지난 4일(현지 시간) 미 국무부의 ‘한국 기업의 비확산법 위반에 대한 제재 종료(Termination of Iran, North Korea, and Syria Nonproliferation Act Measures Against ROK Entity)’ 제하의 공고문이."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n5f45f532",
+    "category": "경제",
+    "source": "연합뉴스(경제)",
+    "time": "2시간 전",
+    "url": "https://www.yna.co.kr/view/AKR20260907001200071",
+    "title": "트럼프 \"美-캐나다 달러 불균형\"…관세 이어 환율 건드리나",
+    "summary": [
+      "(워싱턴=연합뉴스) 홍정규 특파원 = 도널드 트럼프 미국 대통령이 미-캐나다 달러 환율을 문제 삼으면서 양국 간 '관세 전쟁'의 확전 가능성이 ..."
+    ],
+    "chips": [
+      "#환율",
+      "#정치"
     ]
   },
   {
     "id": "n8c91dde6",
     "category": "사회",
     "source": "한국경제",
-    "time": "31분 전",
+    "time": "2시간 전",
     "url": "https://www.hankyung.com/article/202609077140i",
     "title": "李대통령, 프랑스 니스 도착…3박 5일 국빈 방문 시작",
     "summary": [
@@ -418,72 +559,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "na6b935b8",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "33분 전",
-    "url": "https://www.newsis.com/view/NISX20260904_0003776636",
-    "title": "어린시절 뚱뚱한 아이…80%는 \"성인돼서도 비만\"",
-    "summary": [
-      "[서울=뉴시스] 류난영 기자 = 소아·청소년 비만은 단순히 많이 먹고 덜 움직여서 생기는 문제가 아니다.",
-      "식욕과 포만감을 조절하는 호르몬 체계, 에너지를 저장하고 소비하는 대사 방식 자체가 개인마다 다르게 작동하는 만성질환이다.",
-      "7일 대한비만학회의 '2025년 비만 팩트시트'에 따르면, 부모가 모두 비만일 경우 자녀의 비만 위험은 최대 5.9배, 딸은 최대 7배까지 높아지는 것으로 나타났다."
-    ],
-    "chips": [
-      "#환경"
-    ]
-  },
-  {
-    "id": "nc138ec7c",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "34분 전",
-    "url": "https://www.newsis.com/view/NISX20260906_0003778170",
-    "title": "\"관리 좀 해라, 남편 밖에서 눈 돌아간다\"…시어머니 외모 잔소리에 며느리 '눈물'",
-    "summary": [
-      "[서울=뉴시스]허준희 인턴 기자 = 시어머니가 자신의 외모를 지적한다는 한 여성의 사연이 온라인에서 화제가 되고 있다.",
-      "지난 2일 온라인 커뮤니티에는 '며느리는 꾸며야 한다는 시어머니'라는 제목의 글이 올라왔다.",
-      "결혼 18년 차라고 밝힌 작성자 A씨는 \"시어머니는 저를 보면 늘 외모 얘기부터 하신다\"고 토로했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n353c5b91",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "34분 전",
-    "url": "https://www.newsis.com/view/NISX20260904_0003775889",
-    "title": "'음악 승려' 간호 야쿠시지, 첫 내한…일렉 비트 위에 새긴 반야심경",
-    "summary": [
-      "[서울=뉴시스]이재훈 기자 = 불교 경전과 전자음악을 결합해 세계적인 반향을 일으킨 일본의 '음악 승려' 간호 야쿠시지(Kanho Yakushiji·칸호 야쿠시지)가 처음으로 국내 무대에 오른다.",
-      "7일 공연기획사 재즈브릿지컴퍼니와 라이브유니크에 따르면, 야쿠시지가 오는 10월30일 오후 7시 서울 신촌 예스(YES)24 원더로크홀에서 첫 내한공연 '서클 오브 하모니(Circle of Harmony)'를 연다.",
-      "야쿠시지는 일본 에히메현 이마바리에."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n6c54b8f4",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "35분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260906050351109",
-    "title": "트럼프 특사, 키이우서 젤렌스키와 종전 논의…영·프·독 참여(종합)",
-    "summary": [
-      "(로마=연합뉴스) 민경락 특파원 = 러시아·우크라이나 종전 협상을 중재하는 미국 도널드 트럼프 대통령 특사가 6일(현지시간) 블라디미르 푸틴 러..."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
     "id": "nd47a488a",
     "category": "사회",
     "source": "동아일보",
-    "time": "54분 전",
+    "time": "3시간 전",
     "url": "https://www.donga.com/news/Politics/article/all/20260907/134616102/1",
     "title": "이 대통령, 프랑스 도착…‘뤼미에르 서밋’ 등 3박5일 일정",
     "summary": [
@@ -495,101 +574,26 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nb82b0170",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "58분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260905036351085",
-    "title": "베네치아서 베일벗은 '가능한 사랑'…거장이 빚어낸 인간의 품위(종합)",
+    "id": "nc4268ad8",
+    "category": "스포츠",
+    "source": "아시아경제",
+    "time": "3시간 전",
+    "url": "https://view.asiae.co.kr/article/2026090700390059627",
+    "title": "시리즈 없이 두 번 1000만, 놀런이 처음이다",
     "summary": [
-      "(베네치아=연합뉴스) 김지연 특파원 = 해고 노동자 호석(설경구)의 아내 미옥(전도연)은 호석의 전 동료 장례식장에서 해고 노동자 문제를 다루는..."
+      "영화 '오디세이'가 개봉 33일 만에 1000만 관객을 돌파했다.",
+      "크리스토퍼 놀런 감독은 '인터스텔라'에 이어 두 번째, 그것도 시리즈가 아닌 개별 작품으로 이 성과를 냈다.",
+      "7일 영화진흥위원회 영화관입장권 통합전산망에 따르면 '오디세이'는 이날 25만9735명을 동원해 누적 관객 1002만7990명을 기록했다."
     ],
     "chips": [
       "#뉴스"
-    ]
-  },
-  {
-    "id": "n32f43d82",
-    "category": "경제",
-    "source": "동아일보",
-    "time": "1시간 전",
-    "url": "https://www.donga.com/news/Economy/article/all/20260906/134614849/2",
-    "title": "환율 1345원까지 뚝뚝… 기업 달러예금 역대최대",
-    "summary": [
-      "프리랜서로 영상 촬영을 하는 김찬희 씨(31)는 7월 초 원-달러 환율이 1500원 선을 뚫고 하락(원화 가치는 상승)하자 원화를 달러로 환전해 모았다.",
-      "‘환율이 언제 오를지 모르니 일단 사두자’는 생각에서였다.",
-      "하지만 최근 환율이 1340원대까지 내려와 미리 사둔 달러값이 떨어지니 억울하다."
-    ],
-    "chips": [
-      "#환율"
-    ]
-  },
-  {
-    "id": "n48dbafa2",
-    "category": "경제",
-    "source": "동아일보",
-    "time": "1시간 전",
-    "url": "https://www.donga.com/news/Economy/article/all/20260906/134614834/2",
-    "title": "폭염 덮친 밥상물가… 추석 차례상 비용 다시 30만원대로 올라",
-    "summary": [
-      "추석이 25일로 다가온 가운데 올여름 폭염 등의 영향으로 농축수산물 가격이 오르면서 올해 차례상 비용이 지난해보다 소폭 상승한 것으로 조사됐다.",
-      "전통시장 차림 비용도 30만 원을 넘어섰고, 대형마트 기준으로는 40만 원에 육박했다.",
-      "한우 가격까지 두 자릿수 상승세를 보이면서 명절 장바구니 부담이 더 커질 전망이다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nb608a1c9",
-    "category": "부동산",
-    "source": "동아일보",
-    "time": "1시간 전",
-    "url": "https://www.donga.com/news/Economy/article/all/20260906/134614770/2",
-    "title": "서울 아파트 전세 재계약 90%가 보증금 올라… ‘1억 이상’ 17%",
-    "summary": [
-      "올 7월 서울에서 계약갱신요구권(갱신권)을 쓰지 않은 아파트 전세 재계약 10건 중 9건의 보증금이 직전 계약보다 오른 것으로 나타났다.",
-      "평균 인상액은 4700만 원에 육박했다.",
-      "서울 전셋값 오름세가 이어지면서 세입자의 보증금 부담이 커진 것으로 풀이된다."
-    ],
-    "chips": [
-      "#부동산",
-      "#전세"
-    ]
-  },
-  {
-    "id": "n771a7117",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "1시간 전",
-    "url": "https://www.yna.co.kr/view/AKR20260907000400087",
-    "title": "볼리비아 군기지서 폭발 사고…3명 사망·14명 실종",
-    "summary": [
-      "(멕시코시티=연합뉴스) 송광호 특파원 = 볼리비아의 한 군사기지에서 발생한 폭발 사고로 인한 사망자가 3명으로 늘었다고 현지 일간 엘데베르와 A..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nc8c9673b",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "1시간 전",
-    "url": "https://www.yna.co.kr/view/AKR20260906007200001",
-    "title": "李대통령, 프랑스 도착…내일 영화·영상 정상회의 참석",
-    "summary": [
-      "(니스=연합뉴스) 임형섭 고동욱 기자 = 이재명 대통령이 6일(현지시간) 국제 영화·영상 정상회의인 '뤼미에르 서밋'이 열리는 프랑스에 도착했다..."
-    ],
-    "chips": [
-      "#정치"
     ]
   },
   {
     "id": "na0ab6d5b",
     "category": "경제",
     "source": "한국경제",
-    "time": "1시간 전",
+    "time": "3시간 전",
     "url": "https://www.hankyung.com/article/2026090168517",
     "title": "[오늘의 운세] 2026년 9월 7일 오행별 행운의 컬러",
     "summary": [
@@ -603,7 +607,7 @@ window.NEWS_DB = [
     "id": "n6b40d8e2",
     "category": "경제",
     "source": "한국경제",
-    "time": "1시간 전",
+    "time": "3시간 전",
     "url": "https://www.hankyung.com/article/2026083124137",
     "title": "[오늘의 운세] 2026년 9월 7일 별자리 운세",
     "summary": [
@@ -611,20 +615,6 @@ window.NEWS_DB = [
     ],
     "chips": [
       "#뉴스"
-    ]
-  },
-  {
-    "id": "n4ddebf9a",
-    "category": "경제",
-    "source": "ZDNet Korea",
-    "time": "2시간 전",
-    "url": "https://zdnet.co.kr/view/?no=20260906230958",
-    "title": "최윤범이 키운 자원순환 사업…한국 희토류 공급망 대안으로",
-    "summary": [
-      "[지디넷코리아]희토류 자원이 부족한 한국이 비철금속 제련 기술과 폐자원을 활용하는 도시광산 사업을 결합해 핵심광물 공급망의 돌파구를 마련해야 한다는 국책은행 분석이 나왔다.6일 업계에 따르면 한국산업은행 KDB 미래전략연구소는 지난 2일 발간한 ‘글로벌 희토류 공급망 재편 동향’ 보고서에서 특정 국가의 수출 통제가 강화되는 상황에서 제련 기술과 도시광산이 한국의 희토류 공급망 경쟁력을 높일 수 있다고 분석했다.도시광산은 폐가전과 폐자석 등 사용."
-    ],
-    "chips": [
-      "#수출"
     ]
   }
 ];
@@ -634,8 +624,8 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2330건",
-    "trend": "+255%"
+    "mentions": "2850건",
+    "trend": "+335%"
   },
   {
     "rank": 2,
@@ -645,7 +635,7 @@ window.KEYWORD_TOP = [
   },
   {
     "rank": 3,
-    "tag": "KBO",
+    "tag": "반도체",
     "mentions": "1550건",
     "trend": "+135%"
   }
