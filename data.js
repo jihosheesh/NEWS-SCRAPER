@@ -1,11 +1,26 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-09-08 11:53:41
+// 마지막 업데이트: 2026-09-08 15:37:32
 window.NEWS_DB = [
+  {
+    "id": "ndace9e55",
+    "category": "IT",
+    "source": "서울경제",
+    "time": "1시간 전",
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1TZEhjNDFaeTUtSzNWaGFQb3FEQ09LQXJYRF95ZmF6SnZwMzRJOWttUkJia0tLSjlySS1oNnVFQWdkbEdCZ0lqMFlNQmwwSHg4bVHSAVNBVV95cUxQVGNxOThLMHdybFZiZThzalhtY2NTdUN0b1hDN01kdUREWTNPa3F3c3BQUUtUT2doc3N6N3FsQ1ZSWHBfVHJtb3RWUmV6Nkw5VDZ1MA?oc=5",
+    "title": "퀄컴, AWS와 AI칩 협력…엔비디아에 도전장",
+    "summary": [
+      "퀄컴, AWS와 AI칩 협력…엔비디아에 도전장 서울경제."
+    ],
+    "chips": [
+      "#AI",
+      "#엔비디아"
+    ]
+  },
   {
     "id": "n3dbe3e16",
     "category": "IT",
     "source": "비즈니스포스트",
-    "time": "9시간 전",
+    "time": "13시간 전",
     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5aUDVJektKcF80N3FRR0g5V1k2dWgzelM0SGdldjVabnprTVJRR1JhbWw1YndRckxnS3hGcG1PMmcyM0NwVlkxdmViZTJhUmNibDFBeHVjWV8zazg1U3RpVzMwNjdVQjFNaVNsbmFhZkFLbjA?oc=5",
     "title": "한국 정부 '모두의 AI' 프로젝트에 외신 평가 긍정적, 반도체 수요에 중장기적 '호재'",
     "summary": [
@@ -20,7 +35,7 @@ window.NEWS_DB = [
     "id": "n5581eb79",
     "category": "IT",
     "source": "테크M",
-    "time": "11시간 전",
+    "time": "15시간 전",
     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5hZG1qUjNCLTlBWFJmT1NlaDVfdkY3QUlkSTRXNV9CSDAtMEZCSmszcVFwc1dVSXA1WFNqbzVuZGxIU1R6a0MxN3phbzdFNGw0ay0xVTZ3NER3cE1WTDdTS2hKTW1Jd9IBakFVX3lxTE95d0NadktfZ205RFVBS0xQcGR5Qk1YOUlFSkI3bnZtVXM1aHJ1OVluckFyQmFwRkh1Qm9rakd3RnFqNVRERFYwZ3pFYkYydlhqdjFFUGlPbEpkRVNFeHEtVzBBWkFPY0xaWnc?oc=5",
     "title": "[글로벌] 엔비디아론 부족하다...메타, 자체 AI칩 '아이리스' 생산 돌입",
     "summary": [
@@ -35,7 +50,7 @@ window.NEWS_DB = [
     "id": "neacdc6ed",
     "category": "IT",
     "source": "이코노미트리뷴",
-    "time": "23시간 전",
+    "time": "1일 전",
     "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBMWFpsLTZHVjNzRHQxdmNadnE2T19nNXZiUTlOYWc1TVZlN09UY2g3VzhpenFnNTJDbHFzV1ppX2RCYmZGQVRRZm5OQy1iSi1YLWVPRjNIeE9qMWFHOE1peDVNZ0tmTVRtUzBWNFJwbEFlZFJ0Qldr?oc=5",
     "title": "삼성전자 ‘4나노’ vs SK하이닉스 ‘1c’…HBM4E 경쟁 본격화",
     "summary": [
@@ -74,36 +89,6 @@ window.NEWS_DB = [
     ],
     "chips": [
       "#반도체"
-    ]
-  },
-  {
-    "id": "n5dc32b2c",
-    "category": "IT",
-    "source": "조선일보",
-    "time": "1일 전",
-    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQM2U3VFBTSS0ybHBfa0FQZjV5VW1qV21lcG1QTjl3R2lMOTRsbm9ncEg1NFppZHBOTXlFZWVNMVNHN3p5R0U5R0hjaWplMld0ZEFnZDg5WW5qUjNkMV9ZWktDQ0Y3Rnl2WF9DaHBfems4aG96VlI3dEliN2xZZUZKZUx1ckU1UzhzY1d6N0x2OA?oc=5",
-    "title": "AI 업계의 중앙은행이 되어 가는 엔비디아",
-    "summary": [
-      "AI 업계의 중앙은행이 되어 가는 엔비디아 조선일보."
-    ],
-    "chips": [
-      "#AI",
-      "#엔비디아"
-    ]
-  },
-  {
-    "id": "n2b62fa28",
-    "category": "사회",
-    "source": "서울복지신문",
-    "time": "6일 전",
-    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1CM2lWaFN1ekxUU19leEpTSzhuYUZScTE4U2RnamZuWE5LXzE5ZEtRa3V4Qi1hYWFXTFlVQ0ZVWnFMM3NNNzBWckh3ZWM2SnNMT0ZuNXJGRUhMQmdIbGQ0Wks1SzfSAWhBVV95cUxPUEw5OWNsSDJEOFFJcXpaMlMtTHlNbi1heWQ4NFJ1X0dBdHpGMGREaXQzWE5PWHNpdGZyVTIxTkZ0VEh6bzBWOHdDbFdkQzBqT2ZmbWl6RkNkR0dvRnh1V0Z4ODBJSUJSLQ?oc=5",
-    "title": "강남구, ‘장애인일자리’ 채용정보 한번에",
-    "summary": [
-      "강남구, ‘장애인일자리’ 채용정보 한번에 서울복지신문."
-    ],
-    "chips": [
-      "#채용",
-      "#고용"
     ]
   },
   {
@@ -151,14 +136,29 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n244b0da4",
+    "category": "사회",
+    "source": "경북매일",
+    "time": "13일 전",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBYUEFCOVNDZG1rQ3VxRlNlRFJQSDF1aVRMZmxFS09FNWRndks2eEVEVEx1RkQteERzdTJ0WVhXY2JBNUIxVVdBb1NtaU5HS3lRUWxfNFRPQ25YZw?oc=5",
+    "title": "경주시시설관리공단-경주시취업지원센터, 지역 일자리 활성화 ‘맞손’",
+    "summary": [
+      "경주시시설관리공단-경주시취업지원센터, 지역 일자리 활성화 ‘맞손’ 경북매일."
+    ],
+    "chips": [
+      "#취업",
+      "#고용"
+    ]
+  },
+  {
     "id": "ndc5c8acf",
     "category": "사회",
-    "source": "복지뉴스",
+    "source": "bokjinews.com",
     "time": "18일 전",
     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1HdzFWTmNINFVObFVXanpkWFU0VHk2c0ZMRDlDYmE2LUx3NXFJZHp0V3lkRkhsamxDTWFKZEo2d05iV0pIOUplQkxKeFY2Q1J1QnhHczRpc1pOTzVqMnFJVm43elQxMUlK?oc=5",
     "title": "실업급여 구직활동 ‘취업활동 마일리지’로 바뀐다…9월 실업급여 반복수급자 대상 시범운영",
     "summary": [
-      "실업급여 구직활동 ‘취업활동 마일리지’로 바뀐다…9월 실업급여 반복수급자 대상 시범운영 복지뉴스."
+      "실업급여 구직활동 ‘취업활동 마일리지’로 바뀐다…9월 실업급여 반복수급자 대상 시범운영 bokjinews.com."
     ],
     "chips": [
       "#취업",
@@ -271,12 +271,12 @@ window.NEWS_DB = [
   {
     "id": "n08b2b275",
     "category": "부동산",
-    "source": "karnews.or.kr",
+    "source": "한국부동산뉴스",
     "time": "147일 전",
     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBZNmg3TVp4ZWZCV1ZzTE14bXV5UkN4MExnMmZJdkpfNUsyUGltRWlJVWVfUzJoQktRUlcwMTdrUUtuWk9pR2MxaFlhNGpOU0xGZjM3eDUwdlNmRWQtYkFaenAyekhVRGRRY0pJ?oc=5",
     "title": "대출 규제에 몰린 '15억 이하'…비강남 집값·분양가 동반 상승",
     "summary": [
-      "대출 규제에 몰린 '15억 이하'…비강남 집값·분양가 동반 상승 karnews.or.kr."
+      "대출 규제에 몰린 '15억 이하'…비강남 집값·분양가 동반 상승 한국부동산뉴스."
     ],
     "chips": [
       "#부동산",
@@ -312,328 +312,327 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n2797a5f3",
-    "category": "경제",
+    "id": "n256a5e90",
+    "category": "스포츠",
     "source": "테크M",
     "time": "방금 전",
-    "url": "https://www.techm.kr/news/articleView.html?idxno=155024",
-    "title": "[카드뉴스] 신발 커뮤니티가 10조원 기업으로.. 무신사는 어떻게 '판'을 키웠나",
+    "url": "https://www.techm.kr/news/articleView.html?idxno=155030",
+    "title": "[e스포츠人] 8강 오른 이제동 \"저그전 혈 뚫렸다...우승 향해 직진\"",
     "summary": [
-      "신발을 좋아하던 고등학생이 만든 작은 온라인 커뮤니티가 25년 만에 연매출 1조원을 넘어 기업가치 10조원을 바라보는 패션 기업으로 성장했습니다.",
-      "커뮤니티에서 시작해 콘텐츠와 쇼핑을 연결하고, 무신사 스탠다드와 29CM, 오프라인 매장과 뷰티까지 끊임없이 판을 넓혀왔는데요.",
-      "이제는 코스피 상장을 준비하며 국내를 넘어 일본과 동남아 등 해외 시장까지 본격적으로 공략하고 있습니다.무신사가 그리는 다음 그림은 단순한 패션 플랫폼이 아니라 K패션과 K."
+      "'폭군' 이제동이 날카로운 컨트롤과 과감한 상황 판단을 앞세워 8강 무대에 안착했습니다.이제동은 8일 서울 강남구 대치동 프릭업 스튜디오에서 열린 2026 구글 ASL 시즌2 16강 B조 경기에서 김경모와 김명운을 연달아 제압하며 최종전을 뚫어냈습니다.첫 경기 패배를 딛고 일어선 이제동은 특유의 저그전 감각을 완전히 되찾은 모습이었습니다.",
+      "그동안 ASL 공식 무대 저그전에서 다소 아쉬움을 남겼던 만큼, 이번 승리는 남다른 의미를 지녔습니다.이제."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n7975f878",
+    "id": "n9c426eef",
     "category": "IT",
     "source": "테크M",
     "time": "방금 전",
-    "url": "https://www.techm.kr/news/articleView.html?idxno=155023",
-    "title": "인텔-ASML, 하이 NA EUV 업계 도입 확대 '맞손'",
+    "url": "https://www.techm.kr/news/articleView.html?idxno=155028",
+    "title": "[ASL 통신] \"전성기시절 센스와 컨트롤 나왔다\"...이제동, 저그전 극복하고 8강행",
     "summary": [
-      "인텔 파운드리와 ASML이 차세대 반도체 제조 기술인 하이 NA(고개구율) 극자외선(EUV) 리소그래피의 업계 도입 확대를 위해 협력을 이어간다.",
-      "기존 6인치 마스크를 활용한 기술 적용을 지원하는 동시에, 향후 적용 규모 확대를 위한 대형 마스크 생태계 구축도 추진한다.인텔 파운드리와 ASML은 미국 캘리포니아 몬터레이에서 열리는 'SPIE 포토마스크 테크놀로지 + 차세대 극자외선 공정' 콘퍼런스에서 하이 NA EUV 리소그래피 기술의 양산 적."
+      "'폭군' 이제동이 멋진 센스로 저그전 불리한 빌드를 극복하는 모습을 보여줬습니다.8일 서울 강남구 대치동에 위치한 프릭업 스튜디오에서 펼쳐진 2026 구글 ASL 시즌2 16강 B조 경기에서 이제동이 저그만 두번 잡아내며 8강 진출에 성공했습니다.빌드 싸움에서 우위 점한 이제동, 최종전 진출B조 16강 경기에서 이제동과 김경모는 각각 김명운과 신상문에게 패하면서 패자조로 내려왔습니다.",
+      "이제동은 김명운과 저그전 경기에서 이미 빌드를 한번 보여준."
     ],
     "chips": [
-      "#반도체"
+      "#뉴스"
     ]
   },
   {
-    "id": "nf16d6e7e",
-    "category": "IT",
+    "id": "n8c28aa8f",
+    "category": "스포츠",
     "source": "테크M",
     "time": "방금 전",
-    "url": "https://www.techm.kr/news/articleView.html?idxno=155021",
-    "title": "삼성전자·TSMC·ASML, 12인치 포토마스크 도입 '맞손'",
+    "url": "https://www.techm.kr/news/articleView.html?idxno=155029",
+    "title": "ASL 후원 이어 플랫폼 연동까지...SOOP-구글, 전방위 협력 확대",
     "summary": [
-      "삼성전자 TSMC ASML이 12인치 포토마스크 상용화를 위해 손을 잡았다.",
-      "TSMC는 반도체 위탁생산(파운드리)에 삼성전자는 D램에 12인치 포토마스크를 적용할 전망이다.",
-      "ASML은 인텔에 이어 TSMC와 삼성전자를 우군으로 확보했다.8일 삼성전자 TSMC ASML은 '대형 마스크 컨소시엄'을 구성한다고 밝혔다.대형 마스크 컨소시엄은 현재 반도체 노광 설비에 들어가는 포토마스크를 6인치에서 12인치로 전환하는 것이 목적이다."
+      "구글과 SOOP이 e스포츠 리그 후원에 이어 플랫폼 서비스 연동까지 협력 범위를 본격적으로 넓혀가고 있습니다.SOOP은 구글 플레이의 이용자 리워드 프로그램인 '구글 플레이 포인트'를 플랫폼 내 유료 재화로 교환할 수 있는 연동 서비스를 정식 도입했다고 지난 7일 공지했습니다.이번 협력은 최근 구글이 SOOP의 대표 e스포츠 리그인 ASL의 메인 스폰서로 참여한 데 이어 플랫폼 혜택 분야까지 손을 맞잡았다는 점에서 눈길을 끕니다."
     ],
     "chips": [
-      "#반도체",
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n9ac8aad5",
+    "category": "스포츠",
+    "source": "테크M",
+    "time": "방금 전",
+    "url": "https://www.techm.kr/news/articleView.html?idxno=155027",
+    "title": "[e스포츠人] 두 시즌 연속 8강 신상문 \"운 아닌 실력 증명해 기뻐\"",
+    "summary": [
+      "신상문이 날카로운 판짜기와 뒷심을 발휘하며 두 시즌 연속 8강 무대를 밟았습니다.신상문은 8일 서울 강남구 대치동 프릭업 스튜디오에서 열린 2026 구글 ASL 시즌2 16강 B조 경기에서 김경모와 김명운을 연달아 꺾고 조 1위로 8강 진출에 성공했습니다.지난 시즌 시드 획득이 운이 아니었음을 증명한 신상문은 한층 노련해진 경기 운영을 선보이며 팬들의 시선을 사로잡았는데요.",
+      "지난 시즌 획득한 시드를 두고 주변에서 운이 따랐다는 반응이 많았던 만."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nd79e9a4d",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "2분 전",
+    "url": "https://www.newsis.com/view/NISX20260909_0003781654",
+    "title": "푸틴, 트럼프와 1시간 통화…\"유럽 공격 계획 없다\"",
+    "summary": [
+      "[서울=뉴시스] 이재우 기자 = 블라디미르 푸틴 러시아 대통령이 8일(현지시간) 도널드 트럼프 미국 대통령과 통화했다.",
+      "타스통신에 따르면 유리 우샤코프 크렘린궁 외교정책보좌관은 브리핑에서 \"푸틴 대통령과 트럼프 대통령의 통화는 정확히 1시간 동안 이어졌다\"며 \"통화는 긍정적인 분위기에서 진행됐으며 건설적이고 매우 솔직한 대화였다\"고 전했다.",
+      "이어 \"두 정상은 미국 협상 대표단의 방문을 긍정적으로 평가했으며 이 채널을 통한 협의는 계속될 것\"이라."
+    ],
+    "chips": [
+      "#정책",
+      "#정치"
+    ]
+  },
+  {
+    "id": "n85771eb3",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "4분 전",
+    "url": "https://www.chosun.com/economy/tech_it/2026/09/09/4SDGCOW4LFA4PGSFGSGLSDDPRM/",
+    "title": "접는 아이폰 공개 이틀 전… 中, 신형 폰으로 선공",
+    "summary": [
+      "접는 아이폰 공개 이틀 전… 中, 신형 폰으로 선공."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n31154aab",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "4분 전",
+    "url": "https://www.chosun.com/economy/int_economy/2026/09/09/PEN2DWPFZZB6DFHD2TFUE7STM4/",
+    "title": "美·캐나다 관세 전쟁 격화… 트럼프 ‘봄바디어’ 콕 집어 공격",
+    "summary": [
+      "美·캐나다 관세 전쟁 격화… 트럼프 ‘봄바디어’ 콕 집어 공격."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nf53ad4a5",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "4분 전",
+    "url": "https://www.chosun.com/economy/industry-company/2026/09/09/3DCNVINSNBBUHLCKIV46AE37R4/",
+    "title": "아시아나와 합병 후 ‘서열 갈등’… 대한항공 조종사노조 파업 위기",
+    "summary": [
+      "아시아나와 합병 후 ‘서열 갈등’… 대한항공 조종사노조 파업 위기."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "ne2283d24",
+    "category": "IT",
+    "source": "조선일보",
+    "time": "4분 전",
+    "url": "https://www.chosun.com/economy/tech_it/2026/09/09/CTPAW4KTFNE4TH2B2OW5F25U5U/",
+    "title": "K모바일 게임, 中 제치고 매출 1~4위 휩쓸어",
+    "summary": [
+      "중국 게임에 밀려 모바일 게임 매출 상위권에서 입지가 줄었던 토종 게임들이 다시 순위를 끌어올리고 있다.",
+      "구글플레이 마켓 일간 게임 매출 1~4위를 국산 게임이 3일 연속 차지했고, 상위 10위 안에 진입한 국산 게임도 3개월 전 4개에서 7개로 늘었다.",
+      "다중접속역할수행게임(MMORPG) 신작 ‘제우스: 오만의 신’이 흥행한 데다 ‘솔: 인챈트’가 상위권을."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "na9614063",
+    "category": "IT",
+    "source": "동아일보",
+    "time": "7분 전",
+    "url": "https://www.donga.com/news/Economy/article/all/20260908/134629802/2",
+    "title": "삼성 독주, 애플-화웨이까지 ‘韓美中 폴더블 삼국지’",
+    "summary": [
+      "애플이 9일(현지 시간) 첫 폴더블 아이폰 공개를 앞둔 가운데 중국의 화웨이와 샤오미가 나란히 폴더블폰 신제품을 공개했다.",
+      "스마트폰 업계의 ‘공룡’인 애플이 폴더블폰 시장에 뛰어들기 전에 중국이 먼저 최신 기술을 공개하며 선공에 나선 셈이다.",
+      "폴더블폰 시장을 선점하고 있는 삼성전자는 글로벌 주요 도시에 ‘갤럭시 Z 폴드8’ 시리즈 광고 캠페인을 벌이며 1위 자리 수성에 나섰다."
+    ],
+    "chips": [
       "#삼성전자"
     ]
   },
   {
-    "id": "nfb19df7c",
+    "id": "n62ec7636",
     "category": "IT",
-    "source": "테크M",
-    "time": "방금 전",
-    "url": "https://www.techm.kr/news/articleView.html?idxno=155009",
-    "title": "세계 3대 주류 품평회 휩쓸었다...CJ제일제당 '자리', 글로벌 무대서 '눈도장'",
+    "source": "동아일보",
+    "time": "7분 전",
+    "url": "https://www.donga.com/news/Economy/article/all/20260908/134629819/2",
+    "title": "2차 국민성장펀드 30일 출시… 6000억원 규모 선착순 판매",
     "summary": [
-      "CJ제일제당이 '한국의 맛'을 담은 프리미엄 증류주로 글로벌 영토 확장에 나섰습니다.국내 전통주 원액을 발굴해 현대적으로 재해석한 K-증류식 소주 브랜드 '자리'가 정식 글로벌 출시를 앞두고 세계 무대에서 연이어 호평받아 주목됩니다.",
-      "CJ제일제당은 세계 3대 주류 품평회로 꼽히는 '2026 IWSC'와 'ISC 2026'에서 '자리 문배술 24', '자리 문배술 41', '자리 가무치 24' 등 '자리' 제품 3종이 모두 수상의 영예를 안았다고."
+      "반도체, 이차전지 등 첨단전략산업 기업에 투자하는 2차 국민 참여형 국민성장펀드(국민 참여 성장펀드)가 이달 30일 선보인다.",
+      "9일 금융위원회는 일반 국민을 대상으로 6000억 원 규모의 국민 참여 성장펀드 자금을 모집한다고 밝혔다.",
+      "이 펀드는 시중은행 10곳과 증권사 14곳의 영업점과 온라인에서 가입할 수 있다."
     ],
     "chips": [
-      "#뉴스"
+      "#반도체",
+      "#채용"
     ]
   },
   {
-    "id": "n8be31415",
-    "category": "사회",
+    "id": "n5a529cc5",
+    "category": "IT",
     "source": "동아일보",
-    "time": "3분 전",
-    "url": "https://www.donga.com/news/Politics/article/all/20260908/134630430/1",
-    "title": "與강경파 “檢수사권 부활 우려”…공소청 직제안 전면 재검토 촉구",
+    "time": "7분 전",
+    "url": "https://www.donga.com/news/Economy/article/all/20260908/134629821/2",
+    "title": "기아 하반기 채용, 완성차 업계 최초 ‘AI활용 역량’ 평가",
     "summary": [
-      "다음달 2일 검찰청 폐지와 맞물려 공소청이 출범할 예정인 가운데 이번엔 공소청 조직과 기능 등을 규정하는 직제개편안(시행령)이 쟁점으로 부상했다.",
-      "더불어민주당 내 강경파가 중심이 돼 “검찰 수사권 부활 우려가 있다”며 전면 재검토를 촉구하고 나선 것.국회 법제사법위원회 소속 민주당 김용민 의원은 8일 기자회견을 열고 “어렵게 이뤄낸 개혁의 성과를 원점으로 되돌리려는 검찰의 불순한 시도가 진행되는 것은 아닌지 의심스럽다”며 이같이 요구했다."
+      "기아가 올해 하반기(7∼12월) 채용에서 신입·경력 인재를 대규모로 선발한다.",
+      "국내 완성차 업계 최초로 인공지능(AI) 활용 역량을 보는 절차도 도입했다.",
+      "기아는 15일부터 이 같은 집중 채용 지원 접수에 나선다."
+    ],
+    "chips": [
+      "#AI",
+      "#채용",
+      "#교육"
+    ]
+  },
+  {
+    "id": "n176d8904",
+    "category": "경제",
+    "source": "동아일보",
+    "time": "7분 전",
+    "url": "https://www.donga.com/news/Economy/article/all/20260908/134629907/2",
+    "title": "엔-달러 환율 장중 152엔대 7개월來 최저… ‘엔캐리 청산’ 우려",
+    "summary": [
+      "엔-달러 환율이 장중 152엔대로 내리며 7개월 만에 가장 낮은 수준으로 하락했다.",
+      "엔화 가치가 오르니 일본 기업과 경쟁하는 한국의 수출기업에는 기회가 될 수 있지만, 엔화 가치가 급격하게 오르면 글로벌 금융시장에는 부담이 될 수 있다는 우려가 나온다.",
+      "8일 도쿄 외환시장에서 엔-달러 환율은 오전 11시 20분경 달러당 152.88엔까지 내리며 2월 17일 이후 약 7개월 만에 장중 최저치로 하락했다."
+    ],
+    "chips": [
+      "#환율",
+      "#수출"
+    ]
+  },
+  {
+    "id": "n4ab56fa9",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "11분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260909000900001",
+    "title": "마크롱 \"호르무즈 평화해결 협력\"…李대통령에 '다국적임무' 언급",
+    "summary": [
+      "(파리=연합뉴스) 임형섭 고동욱 기자 = 에마뉘엘 마크롱 프랑스 대통령은 8일(현지시간) 이재명 대통령과의 정상회담을 마친 뒤 \"(한국과 프랑스..."
     ],
     "chips": [
       "#정치"
     ]
   },
   {
-    "id": "n0d453593",
-    "category": "스포츠",
-    "source": "뉴시스",
-    "time": "6분 전",
-    "url": "https://www.newsis.com/view/NISX20260908_0003781578",
-    "title": "롯데 박건우 헬멧 강타…NC 불펜 김진호, 공 4개 만에 헤드샷 퇴장",
-    "summary": [
-      "[서울=뉴시스]문채현 기자 = 프로야구 NC 다이노스 김진호가 올 시즌 15번째 헤드샷 퇴장을 당했다.",
-      "김진호는 8일 창원NC파크에서 열린 2026 신한 쏠 KBO리그 롯데 자이언츠와의 홈 경기에 6회 등판해 롯데 박건우의 헬멧을 맞혔다.",
-      "그는 팀이 3-5로 밀리던 6회초 마운드에 올랐고, 첫 상대였던 조세진에게 우전 안타를 내준 뒤 박건우를 상대했다."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
-    "id": "n069f1d29",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "7분 전",
-    "url": "https://www.chosun.com/sports/baseball/2026/09/08/GEZDKNJRMI2WCMJSGE4TCYJVHA/",
-    "title": "'10G 연속 무승' 류현진 드디어 승리 보인다! 두산전 6이닝 1실점 호투…72일 만의 QS [오!쎈 대전]",
-    "summary": [
-      "[OSEN=대전, 조은혜 기자] 프로야구 한화 이글스 류현진이 시즌 9승 요건을 갖추고 마운드를 내려갔다.류현진은 8일 대전 한화생명 볼파크에서 열린 2026 신한 SOL KBO리그 두산 베어스와의 홈경기에서 선발 등판해 6이닝 3피안타(1피홈런) 1볼넷 3탈삼진 1실점으로 호투했다.",
-      "6월 28일 인천 SSG전 이후 8경기 만의 퀄리티스타트 달성."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
-    "id": "n2686e980",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "7분 전",
-    "url": "https://www.chosun.com/entertainments/broadcast/2026/09/08/GUZWMNRUGFSTIZBVG43GEZDGME/",
-    "title": "\"리센느 보느라 잠 못 자\" 고준희도 빠졌다..수산시장서 '야호~'",
-    "summary": [
-      "영상 시청 후 작성된 리뷰 기사입니다.[OSEN=최지연 기자] 배우 고준희가 리센느를 향한 팬심을 고백했다.",
-      "8일 유튜브 채널 '고준희GO'에는 '배불러서 못 먹겠어..",
-      "제철 활새우 40마리 도전하는 고준희의 새우 먹방'이라는 제목의 영상이 게재됐다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "naa5ec2f2",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "8분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260908165900063",
-    "title": "'74명 사상' 안전공업 참사 반년…손주환 대표 등 6명 구속심사",
-    "summary": [
-      "(대전=연합뉴스) 이주형 기자 = 화재 참사로 74명의 사상자가 발생한 대전 안전공업의 손주환 대표를 비롯해 임직원 6명이 화재 참사 반년 만에..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n49a20a72",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "8분 전",
-    "url": "https://www.chosun.com/sports/baseball/2026/09/08/GI3WEYTBG42TSMBUGNQTSMRYME/",
-    "title": "'와 한화 100억 투자 웃는다' 커리어하이 터졌다…데뷔 첫 30홈런→국내 선수 시즌 1호 기록까지 달성",
-    "summary": [
-      "[대전=스포츠조선 이종서 기자] 한화 이글스의 화끈한 투자.",
-      "강백호는 8일 대전 한화생명볼파크에서 열린 두산 베어스와의 홈 경기에 4번타자 겸 지명타자로 선발 출전했다.",
-      "2-0으로 앞선 3회말 2사에 문현빈이 안타를 치고 나갔다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n674a70bf",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "9분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260908166000055",
-    "title": "익산 양계장서 불…인명 피해 없어",
-    "summary": [
-      "(익산=연합뉴스) 김문경 기자 = 8일 오후 7시 22분께 전북 익산시 왕궁면의 한 양계장에서 불이 났다는 신고가 119에 접수됐다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n882d37a4",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "18분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260908164300084",
-    "title": "네팔韓구호대, 실종자가족 요청지역 도보·드론수색…성과는 없어",
-    "summary": [
-      "(바타르·카트만두=연합뉴스) 박진형 손현규 특파원 = 네팔 대홍수 현장에서 수색·구조 활동을 벌이는 대한민국 해외긴급구호대(KDRT)가 8일(현..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "ne58eb231",
-    "category": "스포츠",
-    "source": "연합뉴스",
-    "time": "18분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260908160051007",
-    "title": "AG 남자 농구 대표팀, 부상 안영준 대신 문정현 발탁(종합)",
-    "summary": [
-      "(서울=연합뉴스) 최송아 기자 = 한국 남자 농구 대표팀이 부상으로 2026 아이치·나고야 아시안게임 출전이 불발된 포워드 안영준(SK) 대신 ..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n042e2f50",
-    "category": "스포츠",
-    "source": "뉴시스",
-    "time": "18분 전",
-    "url": "https://www.newsis.com/view/NISX20260908_0003781572",
-    "title": "KIA 김도영, 아홉수 끝에 시즌 40호포…국내 타자 8년 만의 대기록",
-    "summary": [
-      "[서울=뉴시스]문채현 기자 = 프로야구 KIA 타이거즈 김도영이 긴 아홉수를 떨치고 국내 타자로서 8년 만에 단일 시즌 40홈런 고지를 밟았다.",
-      "김도영은 8일 대구 삼성라이온즈파크에서 열린 2026 신한 쏠 KBO리그 삼성 라이온즈와의 원정 경기에 3번 타자 3루수로 선발 출전해 6회 솔로포를 날렸다.",
-      "팀이 1-4로 밀리던 6회초 선두타자로 나선 김도영은 삼성 불펜 미야모리 사토시의 초구 시속 149㎞ 직구를 때려 좌측 담장을 넘기는 비거리 1."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
-    "id": "n598afffd",
+    "id": "n0c449336",
     "category": "사회",
     "source": "뉴시스",
-    "time": "19분 전",
-    "url": "https://www.newsis.com/view/NISX20260908_0003781577",
-    "title": "부산 자원순환 관련 시설 불 2시간여 만에 완진…인명피해 없어(종합)",
+    "time": "12분 전",
+    "url": "https://www.newsis.com/view/NISX20260908_0003780949",
+    "title": "\"치료비 많이 드나요?\"…빵 봉지에 쥐 담아온 초등생들에 수의사가 건넨 말",
     "summary": [
-      "[부산=뉴시스]원동화 기자 = 부산의 한 자원순환 관련 시설에서 난 불이 2시간여 만에 진화됐다.",
-      "8일 부산소방재난본부에 따르면 이날 오후 4시15분께 부산 사하구의 한 자연순환 관련 시설에서 불이 났다.",
-      "이 불로 다행히 인명피해는 없었다."
+      "[서울=뉴시스]서이현 인턴 기자 = 초등학생 세 명이 비닐봉지에 담긴 야생 생쥐를 치료해 달라며 2만원을 들고 동물병원을 찾아온 사연이 전해졌다.",
+      "지난 5일 김포 동행동물병원 유튜브 채널에 따르면 영상 게시일로부터 며칠 전 어린이 3명이 작은 빵 비닐봉지를 들고 병원 앞을 맴돌았다.",
+      "아이들은 승강기를 탔다 내리기를 거듭하며 병원 안으로 섣불리 들어오지 못했다."
     ],
     "chips": [
-      "#뉴스"
+      "#의료"
     ]
   },
   {
-    "id": "n63d02e01",
+    "id": "ne545476b",
     "category": "사회",
-    "source": "뉴시스",
-    "time": "19분 전",
-    "url": "https://www.newsis.com/view/NISX20260908_0003781530",
-    "title": "납품업체와 짜고 수천만원 횡령한 거제시 공무원 징역 2년 선고",
+    "source": "연합뉴스",
+    "time": "13분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260909000800079",
+    "title": "이란 혁명수비대 \"호르무즈서 美 최신형 무인 잠수함 나포\"",
     "summary": [
-      "[거제=뉴시스] 신정철 기자 = 지인이 운영하는 납품업체와 짜고 단가를 부풀려 예산을 집행하고, 공금을 횡령한 경남 거제시 공무원이 1심에서 실형을 선고받았다.",
-      "창원지방법원 통영지원 형사2단독(부장판사 이은숙)은 8일, 업무상 횡령과 업무상 배임, 허위공문서작성, 등 혐의로 기소된 경남 거제시 7급 공무원 A 씨(40대)에게 징역 2년을 선고했다.",
-      "또 공범으로 함께 기소된 A 씨의 친구이자 사무용품 납품업자 B 씨(40대)에게는 징역 2년에 집."
+      "(카이로=연합뉴스) 김상훈 특파원 = 이란 이슬람혁명수비대(IRGC) 해군이 8일(현지시간) 호르무즈 해협에서 미군의 최신형 무인 잠수함을 나포..."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n3c94e084",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "19분 전",
-    "url": "https://www.chosun.com/sports/baseball/2026/09/08/HPOI2CAVH5HQJHNG7KUFILUA7I/",
-    "title": "김도영, 마침내 40홈런… KIA 출범 후 최초",
-    "summary": [
-      "김도영, 마침내 40홈런… KIA 출범 후 최초."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n75c15729",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "21분 전",
-    "url": "https://www.donga.com/news/Society/article/all/20260908/134630383/1",
-    "title": "檢, ‘실종 신고 허위종결’ 제주경찰청 등 압수수색…윗선 정조준",
-    "summary": [
-      "검찰이 제주 실종 신고 허위 종결 사건을 넘겨받은 지 일주일 만에 경찰에 대한 강제수사에 착수했다.제주지검은 8일 경찰청과 제주경찰청 형사과, 제주서부경찰서 서장실과 형사과, 실종팀, 당직실 등을 압수수색했다고 밝혔다.",
-      "9시간 넘게 진행된 압수수색에서 검찰은 경찰의 실종 시스템 프로세스를 점검하고 확인하기 위한 자료를 확보했다.",
-      "검찰은 서부서에 대해선 실종 신고를 허위 종결한 혐의로 구속된 부모 경장(34)의 지휘·감독·결재 라인에 있는 상급자."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n9ce2e3fb",
+    "id": "ned697f3b",
     "category": "사회",
     "source": "아시아경제",
-    "time": "24분 전",
-    "url": "https://view.asiae.co.kr/article/2026090819020857625",
-    "title": "구미시, 반도체 인재 매칭…기업·청년 한자리",
+    "time": "15분 전",
+    "url": "https://view.asiae.co.kr/article/2026090900215144706",
+    "title": "李대통령 \"호르무즈 긴밀 공조\"…마크롱 \"중동서 협력할 수 있어\"",
     "summary": [
-      "경북 구미시에서 반도체 기업과 지역 인재를 연결하는 대규모 매칭의 장이 마련됐다.구미시는 8일 구미컨벤션센터에서 도내 반도체 기업과 대학·특성화고, 유관기관 관계자 및 학생 등 200여 명이 참석한 가운데 '경상북도 반도체 인재 플랫폼-매칭 포럼'을 개최했다.",
-      "이번 포럼은 지역 반도체 기업의 인력난을 해소하고 우수 인재의 지역 정착을 지원하기 위해 마련됐다.",
-      "기업과 교육기관이 직접 만나 채용과 인턴십, 산학협력 등 실질적인 인재 연계 방안을 논."
+      "호르무즈 해협 파병 여부를 둘러싼 국내 관심이 높아진 가운데 이재명 대통령과 에마뉘엘 마크롱 프랑스 대통령이 호르무즈 해협의 항행 자유와 역내 안정 회복을 위한 양국 공조를 강화하기로 했다.",
+      "이 대통령이 국제사회의 호르무즈 안정 노력에 대한 한국의 '기여 의지'를 재확인한 데 이어 마크롱 대통령은 영국을 포함한 협력과 '다국적 임무'까지 거론해 앞으로 한국이 어떤 방식으로 참여할지 주목된다.",
+      "다만 두 정상은 구체적인 참여 방식에 대해서는 언급하."
     ],
     "chips": [
-      "#반도체",
-      "#채용",
-      "#교육"
+      "#정치"
     ]
   },
   {
-    "id": "n199c1de3",
+    "id": "nfcaac088",
     "category": "사회",
-    "source": "아시아경제",
-    "time": "37분 전",
-    "url": "https://view.asiae.co.kr/article/2026090819444700045",
-    "title": "OECD, 국제 학업성취도 평과 결과 발표…韓 학생들 읽기 능력 급락",
+    "source": "뉴시스",
+    "time": "17분 전",
+    "url": "https://www.newsis.com/view/NISX20260908_0003781642",
+    "title": "마크롱 \"호르무즈 다국적 임무 평화적인 것…北, 러 침략 전쟁 서슴없이 지원\"",
     "summary": [
-      "우리나라 15세 학생의 '읽기 능력'이 3년 새 큰 폭으로 하락한 것으로 나타났다.",
-      "디지털·SNS 사용 증가에 읽기 능력 전반적 하락8일 경제협력개발기구(OECD)가 발표한 '국제 학업성취도 평가(PISA) 2025' 결과에 따르면 한국의 읽기 영역 점수는 평균 501점으로, 직전 조사인 2022년 515점보다 14점 하락했다.",
-      "다만 읽기 능력 저하는 한국뿐 아니라 전 세계적인 현상이다."
+      "[파리·서울=뉴시스] 김지은 조재완 기자 = 에마뉘엘 마크롱 프랑스 대통령은 8일(현지시간) 이재명 대통령과 정상회담을 마치고 \"호르무즈 해협의 다국적 임무는 평화적인 것으로서 관련 동의가 이어지는 대로 협력하겠다\"고 밝혔다.",
+      "마크롱 대통령은 이날 프랑스 대통령 관저인 엘리제궁에 열린 이 대통령과 정상회담을 마친 뒤 공동언론발표를 통해 \"중동에서의 협력, 항행의 자유는 무엇보다도 평화롭게 해결책을 찾아야 하겠다\"며 이같이 말했다."
     ],
     "chips": [
-      "#교육"
+      "#정치"
     ]
   },
   {
-    "id": "n6b7b8944",
+    "id": "nab4911ed",
     "category": "사회",
-    "source": "동아일보",
-    "time": "39분 전",
-    "url": "https://www.donga.com/news/Society/article/all/20260908/134630418/1",
-    "title": "‘룸살롱 접대’ 지귀연 사건, 연수원 동기 판사가 맡자 재배당",
+    "source": "뉴시스",
+    "time": "25분 전",
+    "url": "https://www.newsis.com/view/NISX20260908_0003781651",
+    "title": "네팔·티베트 대홍수·산사태 1401명 사망…실종자 5845명",
     "summary": [
-      "룸살롱 접대 의혹으로 기소된 지귀연 서울북부지법 부장판사 사건이 다른 재판부로 재배당됐다.",
-      "처음 사건이 배당된 재판부의 판사가 사법연수원 동기라는 점을 이유로 직접 재배당을 요구하면서다.",
-      "서울중앙지법은 8일 지 부장판사의 청탁금지법 위반 사건을 형사4단독에서 형사10단독으로 재배당했다."
+      "[서울=뉴시스] 이재우 기자 = 네팔과 중국 시짱(西藏·티베트)자치구에서 발생한 홍수·산사태로 인한 사망자가 최소 1401명으로 늘었다.",
+      "네팔 재난위험경감·관리청(NDRRMA)은 8일 오후 6시 기준 이번 홍수로 숨진 이들이 1358명으로 집계됐다고 발표했다.",
+      "실종자는 외국인 587명을 포함해 5326명 수준이다."
     ],
     "chips": [
       "#뉴스"
+    ]
+  },
+  {
+    "id": "n1d8e9c2b",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "25분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260909000500079",
+    "title": "이스라엘, 英 정착촌 제재에 '선거 개입' 반발…영사관 폐쇄 맞불",
+    "summary": [
+      "(카이로=연합뉴스) 김상훈 특파원 = 기드온 사르 이스라엘 외무장관은 8일(현지시간) 이스라엘 정착촌에 대한 영국의 새로운 제재를 다가오는 총선..."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "na03575e1",
+    "category": "경제",
+    "source": "아시아경제",
+    "time": "28분 전",
+    "url": "https://view.asiae.co.kr/article/2026090900083613346",
+    "title": "캐나다, 美 제품에 최대 50% 보복관세 발효",
+    "summary": [
+      "캐나다가 약 200억달러 규모의 미국산 제품에 최고 50%의 보복관세를 부과하기 시작했다.",
+      "지난달 양국의 무역협상이 결렬된 데 이어 도널드 트럼프 미국 대통령이 캐나다 항공기 제조업체 봉바르디에의 미국 내 판매 금지를 위협하면서 미국과 캐나다의 무역 갈등이 격화하고 있다.",
+      "8일(현지시간) 캐나다 정부에 따르면 이날 오전 0시1분부터 276억캐나다달러(약 200억달러) 규모의 미국산 제품에 15%, 25%, 50%의 보복관세가 발효됐다."
+    ],
+    "chips": [
+      "#수출",
+      "#정치"
     ]
   }
 ];
@@ -643,20 +642,20 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2590건",
-    "trend": "+295%"
+    "mentions": "2200건",
+    "trend": "+235%"
   },
   {
     "rank": 2,
-    "tag": "반도체",
-    "mentions": "1810건",
-    "trend": "+175%"
+    "tag": "정치",
+    "mentions": "1680건",
+    "trend": "+155%"
   },
   {
     "rank": 3,
-    "tag": "KBO",
-    "mentions": "1680건",
-    "trend": "+155%"
+    "tag": "반도체",
+    "mentions": "1550건",
+    "trend": "+135%"
   }
 ];
 // ====AUTO-GENERATED-END====
