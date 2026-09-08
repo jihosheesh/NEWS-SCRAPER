@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-09-07 23:09:17
+// 마지막 업데이트: 2026-09-08 01:58:41
 window.NEWS_DB = [
   {
     "id": "neacdc6ed",
     "category": "IT",
     "source": "이코노미트리뷴",
-    "time": "10시간 전",
+    "time": "13시간 전",
     "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBMWFpsLTZHVjNzRHQxdmNadnE2T19nNXZiUTlOYWc1TVZlN09UY2g3VzhpenFnNTJDbHFzV1ppX2RCYmZGQVRRZm5OQy1iSi1YLWVPRjNIeE9qMWFHOE1peDVNZ0tmTVRtUzBWNFJwbEFlZFJ0Qldr?oc=5",
     "title": "삼성전자 ‘4나노’ vs SK하이닉스 ‘1c’…HBM4E 경쟁 본격화",
     "summary": [
@@ -21,7 +21,7 @@ window.NEWS_DB = [
     "id": "n63b002bf",
     "category": "IT",
     "source": "ezyeconomy.com",
-    "time": "14시간 전",
+    "time": "17시간 전",
     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9uT29TdVFTQjZBZnBVekY2OGVwTTRDUGw2TWs4YnhJeUtuVzBGRmpPMWlieUZUUVdSa2k5cC1pYm5mQ29BN21yTEJISy01UFNIcU55clRneld6REJHRFJyWXpqMFlzLW55VjBLbnRn?oc=5",
     "title": "[창간기획] ② HBM4부터 진짜 승부다…삼성전자, '잃어버린 HBM' 되찾나",
     "summary": [
@@ -36,7 +36,7 @@ window.NEWS_DB = [
     "id": "nfa1aa70d",
     "category": "IT",
     "source": "standingout.kr",
-    "time": "16시간 전",
+    "time": "18시간 전",
     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBHWnVOUFVzSmw1TThOVEE2a2c2WWhtQkVuN2FrTWpWRTJXbWZJTlFwSkVkbW9MOUU4bHpLTXdWb3NPa0JUdUFGcVlKZ1VKWVVVQ0tqVnBDWXBsRldjTi1ORjl3ekxzd3pGaHVJ?oc=5",
     "title": "[친절한 경제] 엔비디아 7509조, 삼성 1682조…K반도체의 진짜 위치",
     "summary": [
@@ -51,7 +51,7 @@ window.NEWS_DB = [
     "id": "nda07dc9e",
     "category": "IT",
     "source": "지디넷코리아",
-    "time": "17시간 전",
+    "time": "20시간 전",
     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5rZ2s0N1NyUk8yM21MdENmeTVXcTVBc091MmdGV2hOeDFJRm14YnpmMUpPZ2UwZVJuSjVkUlprRHZsdnJXbnBGZ25VR0E2dWE4REp3bnNn?oc=5",
     "title": "삼성 파운드리, HBM4 확대 총력…4나노 캐파 절반이 '베이스 다이'",
     "summary": [
@@ -62,14 +62,14 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n8349c535",
+    "id": "n5dc32b2c",
     "category": "IT",
-    "source": "v.daum.net",
-    "time": "19시간 전",
-    "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFAwaW8yaXJNb0Q2WVJRUHZDX0tEYXdRYXRRbmlSN1BHbFpRMkJUY3o5Z0szeG51NDFPMnRnNHVyMTdrT2tpYmc?oc=5",
+    "source": "조선일보",
+    "time": "21시간 전",
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQM2U3VFBTSS0ybHBfa0FQZjV5VW1qV21lcG1QTjl3R2lMOTRsbm9ncEg1NFppZHBOTXlFZWVNMVNHN3p5R0U5R0hjaWplMld0ZEFnZDg5WW5qUjNkMV9ZWktDQ0Y3Rnl2WF9DaHBfems4aG96VlI3dEliN2xZZUZKZUx1ckU1UzhzY1d6N0x2OA?oc=5",
     "title": "AI 업계의 중앙은행이 되어 가는 엔비디아",
     "summary": [
-      "AI 업계의 중앙은행이 되어 가는 엔비디아 v.daum.net."
+      "AI 업계의 중앙은행이 되어 가는 엔비디아 조선일보."
     ],
     "chips": [
       "#AI",
@@ -125,12 +125,12 @@ window.NEWS_DB = [
   {
     "id": "na429764b",
     "category": "IT",
-    "source": "서울Pn",
+    "source": "go.seoul.co.kr",
     "time": "6일 전",
     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9ZSzB6eVR0WW1HWHg4TF9QakZXeHhoQTBDX1JsVW92N2lBc24wZkhsaHBnbWpTTHlMZlN1ZWJMcF9wNlF2OUR0TUhBNDVkajdadnFiZnI2bWFxMkdXbWk1cWdEQmdmdHRKelE?oc=5",
     "title": "관악구, ‘관악S밸리’에서 유니콘 꿈 키울 스타트업 20곳 모집",
     "summary": [
-      "관악구, ‘관악S밸리’에서 유니콘 꿈 키울 스타트업 20곳 모집 서울Pn."
+      "관악구, ‘관악S밸리’에서 유니콘 꿈 키울 스타트업 20곳 모집 go.seoul.co.kr."
     ],
     "chips": [
       "#스타트업",
@@ -141,7 +141,7 @@ window.NEWS_DB = [
     "id": "n2c0f41aa",
     "category": "IT",
     "source": "연합뉴스",
-    "time": "6일 전",
+    "time": "7일 전",
     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBSVEdqRzlmS1Y1dU1BV2dEamdfeGZHV1pVVnNmZnllZTZFX2ZlNXpQSEkzUGFHRFpSN2djQVRpbGVvM1FDQVVZU3Q0ckVYQzR4dy1BUkREV2x0ZWfSAWBBVV95cUxPMUVfaGpjN0VCUi1uUWtyRHFxZjFRbS0wcGJPc1hlVEs0c0I2QkltU2xRWFI4M1lHajczY29Vdmthb0lRazFMck5YQTB3X01zQWlTN09xMHVUbjQ4N0hLTkY?oc=5",
     "title": "\"관악S밸리에서 유니콘의 꿈을\"…관악구, 입주사 최대 20곳 모집",
     "summary": [
@@ -241,21 +241,6 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n452a9976",
-    "category": "IT",
-    "source": "v.daum.net",
-    "time": "69일 전",
-    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB0bkpVaks0UEJVLXk0NVNhVHVJWnJWR2dUVWJwdnlOd1BvZ09WSHRvcTNjTUhEbnZwRDJtSHAzblZLS1BvS095MjFRdEpDS1ZRMHlnNQ?oc=5",
-    "title": "야구팬들 염장 지른 ‘그 판정’…‘AI 심판’은 어떻게 돈이 됐나 [권준영의 머니볼]",
-    "summary": [
-      "야구팬들 염장 지른 ‘그 판정’…‘AI 심판’은 어떻게 돈이 됐나 [권준영의 머니볼] v.daum.net."
-    ],
-    "chips": [
-      "#AI",
-      "#KBO"
-    ]
-  },
-  {
     "id": "n244b01bd",
     "category": "경제",
     "source": "스트레이트뉴스",
@@ -302,333 +287,350 @@ window.NEWS_DB = [
   {
     "id": "n783ebe44",
     "category": "스포츠",
-    "source": "테크M",
+    "source": "techm.kr",
     "time": "159일 전",
     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4zeE1CWFFHZzZrMjhfLXJoWERMeW9jVzI5eF91RWV1NUxXelFvT1U5YWpyRjZaQ1NqclNTR1hoRWEwYl9qQmc4WTh5Q29TSWROU3ptQ1ZmXy1rajBVczZ1T1A0RXZ0UdIBakFVX3lxTE4tUUs3ak9IVFI3ZEtUQmg5NUpZbWRwdUN5OEFTU2JqaWN4WWJzMVJVc0pLU1U0UzVZTkRKMlRZSUIyNmhPVjVWMzBTVGxocHc2VUdVZl9rRWdUaXVxTjFSdUpzTzFPdEZHdnc?oc=5",
     "title": "'야구·축구·골프'로 갈라진 국내 OTT...스포츠 팬덤 경쟁 격화",
     "summary": [
-      "'야구·축구·골프'로 갈라진 국내 OTT...스포츠 팬덤 경쟁 격화 테크M."
+      "'야구·축구·골프'로 갈라진 국내 OTT...스포츠 팬덤 경쟁 격화 techm.kr."
     ],
     "chips": [
       "#KBO"
     ]
   },
   {
-    "id": "n02e319cd",
-    "category": "경제",
-    "source": "아시아경제",
-    "time": "방금 전",
-    "url": "https://view.asiae.co.kr/article/2026090808081122092",
-    "title": "[클릭 e종목]\"글로벌텍스프리, 사상 최대 국내 실적…이제 6000억 日시장 정조준\"",
-    "summary": [
-      "글로벌텍스프리가 국내 외국인 관광객 증가에 따른 실적 개선세를 이어가는 가운데 일본을 비롯한 해외 택스리펀드 사업 확대에 속도를 낸다.",
-      "특히 오는 11월 일본에서 사후 환급 제도가 전면 시행되면서 새로운 시장이 열릴 것으로 예상돼 해외 사업이 중장기 성장 동력으로 자리 잡을 수 있다는 분석이 나온다.",
-      "8일 SK증권에 따르면 글로벌텍스프리는 올해 2분기 연결 기준 매출액 469억원, 영업이익 90억원을 기록했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nb9382b48",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "1분 전",
-    "url": "https://www.newsis.com/view/NISX20260908_0003780039",
-    "title": "인천 앞바다서 선체 인양하던 작업자 사망",
-    "summary": [
-      "[인천=뉴시스] 전예준 기자 = 인천 앞바다에서 선체를 인양하던 작업자가 심정지 상태로 병원으로 옮겨졌으나 숨졌다.",
-      "8일 인천소방본부에 따르면 전날 오전 8시50분께 인천 앞바다에 잠수해 작업 중이던 60대 남성이 의식을 잃었다.",
-      "해경에 의해 구조된 A씨는 심정지 상태로 119구급대에 인계돼 응급처치를 받으며 병원으로 이송됐지만 숨졌다."
-    ],
-    "chips": [
-      "#의료"
-    ]
-  },
-  {
-    "id": "nc3ebcaa9",
+    "id": "n4a365471",
     "category": "스포츠",
-    "source": "동아일보",
-    "time": "2분 전",
-    "url": "https://www.donga.com/news/Entertainment/article/all/20260908/134624139/1",
-    "title": "이종범 “이정후 결혼 계획은 아직, 엄마 같은 여자 만나길”",
+    "source": "v.daum.net",
+    "time": "183일 전",
+    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1ZbDRsNzJDT3JrUU5UZ1dGREM0RndpdFlCUlFsbHhTbXNaWUtzTFpDeV9lRkw0ZnViblc3Qlh2Y055by1WWVVPZVpUR3Jpd2s?oc=5",
+    "title": "\"장보기만으로 부족\"…이커머스, 야구·축구 스포츠 중계도 나서",
     "summary": [
-      "전 야구선수 이종범이 미국프로야구 메이저리그(MLB) 샌프란시스코 자이언츠에서 뛰는 아들 이정후의 결혼에 대한 생각을 밝혔다.7일 방송된 tvN STORY 예능 프로그램 ‘남겨서 뭐하게’에는 이종범과 이동국이 게스트로 출연했다.이날 이영자는 “요즘 친구들은 이정후 선수 아빠로 안다”면서 “‘이정후 아빠’로 불릴 때 기분이 어떠냐”고 물었다.이종범은 “우리 아버지가 생각이 나더라.",
-      "아버지가 ‘이종범 아버지’로 사셨다.",
-      "광주에서 어디 가면 밥도 공."
+      "\"장보기만으로 부족\"…이커머스, 야구·축구 스포츠 중계도 나서 v.daum.net."
     ],
     "chips": [
       "#KBO"
     ]
   },
   {
-    "id": "n116fdfe0",
-    "category": "스포츠",
-    "source": "아시아경제",
-    "time": "2분 전",
-    "url": "https://view.asiae.co.kr/article/2026090808065515622",
-    "title": "일본 무대 접수 이상희 \"이번엔 신한동해오픈 우승 도전\"",
-    "summary": [
-      "이상희가 한·일 정상급 선수들이 출전하는 제42회 신한동해오픈에 출전한다.",
-      "10일부터 13일까지 나흘간 인천 송도에 있는 잭 니클라우스 골프클럽 코리아에서 열린다.",
-      "신한동해오픈은 1981년 고(故) 이희건 신한은행 명예회장을 주축으로 재일교포 골프인들이 창설한 대회다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n7b0c2579",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "2분 전",
-    "url": "https://www.donga.com/news/Culture/article/all/20260908/134624134/1",
-    "title": "객석 누비는 고양이들 돌아온다…뮤지컬 ‘캣츠’ 내한 공연",
-    "summary": [
-      "뮤지컬 ‘캣츠’가 3년 만에 한국을 찾는다.",
-      "공연 제작사 에스앤코는 ‘캣츠’가 오는 12월 18일부터 내년 1월 3일까지 대구 계명아트센터에서 내한 공연한다고 7일 밝혔다.",
-      "‘캣츠’는 1981년 런던 초연 이래 54개 국가, 300여 개 도시, 23개 언어로 공연돼 7700만명이 관람한 스테디셀러 뮤지컬이다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n8fc464cc",
-    "category": "경제",
-    "source": "아시아경제",
-    "time": "2분 전",
-    "url": "https://view.asiae.co.kr/article/2026090808061803060",
-    "title": "117대 1 경쟁 뚫은 80명 혁신 소상공인 맞붙는다",
-    "summary": [
-      "소상공인시장진흥공단은 서울 마포구 SVC 서울에서 '2026년 혁신 소상공인 파이널 오디션'을 개최한다고 8일 밝혔다.",
-      "7일부터 10일까지 열리는 이번 파이널 오디션은 지역의 자원과 혁신적인 아이디어를 바탕으로 성장 가능성을 갖춘 로컬기업과 강한 소상공인 등 혁신소상공인 TOP11을 선발하기 위해 마련됐다.",
-      "소진공은 지난 3월부터 혁신 소상공인 모집을 시작해 서류평가와 권역별 오디션을 거쳐 최종 파이널 오디션에 진출할 80개사(로컬 20개사,."
-    ],
-    "chips": [
-      "#채용"
-    ]
-  },
-  {
-    "id": "ne87f5d4c",
-    "category": "부동산",
-    "source": "아시아경제",
-    "time": "2분 전",
-    "url": "https://view.asiae.co.kr/article/2026090808012068237",
-    "title": "뒷마당 팠더니 은괴 18.5㎏ '잭팟'…1000년 넘은 바이킹 유물 발견",
-    "summary": [
-      "새 테라스를 만들려고 정원을 파던 덴마크의 한 집주인이 무게 18.5㎏짜리 바이킹 시대 은 보물을 캐냈다.",
-      "지난 4일(현지시간) 미국 CNN 방송에 따르면 지난봄 덴마크 북부 레빌의 한 주택 정원에서 보물이 나왔다.",
-      "익명을 요구한 집주인은 \"새 타일 테라스를 만들려고 잔디와 돌, 자갈을 걷어내는 몇 시간짜리 힘든 정원 일이어야 했는데 인생 최대의 놀라움이 됐다\"고 말했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nacac5772",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "4분 전",
-    "url": "https://www.donga.com/news/Society/article/all/20260908/134624125/1",
-    "title": "강풍에 난항…부산 침몰 예인선 6일째 밤샘 수색도 빈손",
-    "summary": [
-      "부산 앞바다에서 전복·침몰한 예인선 티엔에스캐처호(286톤) 실종 선원 6명(내국인 5명·인도네시아인 1명)을 찾기 위한 밤샘 수색이 6일째 이어졌지만 추가 실종자 및 유류품이 발견되지 않았다.",
-      "수색구역인 부산 및 울산 앞바다에 풍랑주의보가 해제됐음에도 여전히 강풍이 불어 해경은 수색에 난항을 겪는 것으로 전해졌다.8일 부산해양경찰서에 따르면 해경은 실종 선원을 찾기 위해 함선 7척(해경 4, 군 2, 관 1)을 동원해 가로 31㎞, 세로 70."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nc3c01e83",
-    "category": "스포츠",
-    "source": "동아일보",
-    "time": "4분 전",
-    "url": "https://www.donga.com/news/Sports/article/all/20260908/134624122/1",
-    "title": "3달째 이어진 류현진의 ‘무승’…이제는 한화 타선이 달라졌다",
-    "summary": [
-      "류현진(한화 이글스)이 석 달째 이어지고 있는 ‘무승’의 사슬을 끊고 후반기 첫 승을 거둘 수 있을까.",
-      "긴 침체에 빠졌던 한화 타선이 최근 확연한 반등세를 보이는 가운데 류현진의 개인 연패 탈출 도전에도 힘이 실릴 전망이다.류현진은 8일 대전 한화생명볼파크에서 열리는 2026 신한 쏠 KBO리그 두산 베어스와의 홈 경기에 선발 등판한다.10전 11기 시즌 9승 도전이다.",
-      "지난 6월11일 KIA 타이거즈와의 홈 경기에서 6이닝 1실점 호투를 펼치."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
-    "id": "nb5883346",
+    "id": "ndfe38f55",
     "category": "IT",
-    "source": "연합뉴스(경제)",
-    "time": "4분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260908016300008",
-    "title": "[마켓뷰] '7천피' 탈환 vs 차익실현…코스피 상승세 이어가나",
+    "source": "테크M",
+    "time": "방금 전",
+    "url": "https://www.techm.kr/news/articleView.html?idxno=154999",
+    "title": "'전략 전문가' 차상훈, 아이즈엔터 CSO로 합류...AI·콘텐츠 결합 사업 힘 싣는다",
     "summary": [
-      "(서울=연합뉴스) 임은진 기자 = 8일 코스피는 오픈AI발 반도체 훈풍과 차익 실현 물량 출회 등의 영향을 받으며 업종별 차별화 장세를 보일 것..."
+      "아이즈엔터테인먼트가 콘텐츠·플랫폼 분야의 전문가로 꼽히는 차상훈 전 카카오엔터테인먼트 부사장을 영입하며 사업 외형 확장에 속도를 내고 있다.",
+      "신규 서비스 출시를 앞두고 전사 전략 수립과 실행 역량을 강화하는 한편, 콘텐츠와 인공지능(AI)을 결합한 새로운 사업 기회 발굴에도 적극적으로 나서는 모습이다.",
+      "아이즈엔터테인먼트는 차상훈 전 카카오엔터테인먼트 부사장을 신임 최고전략책임자(CSO)로 영입했다고 8일 밝혔다."
     ],
     "chips": [
       "#AI",
-      "#반도체"
+      "#카카오"
     ]
   },
   {
-    "id": "nb0f2f437",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "4분 전",
-    "url": "https://www.newsis.com/view/NISX20260908_0003780016",
-    "title": "소재원, 고영욱에 \"똥 같은 글 배설…2차 가해 지속\"",
+    "id": "n8dec80e4",
+    "category": "IT",
+    "source": "테크M",
+    "time": "방금 전",
+    "url": "https://www.techm.kr/news/articleView.html?idxno=154998",
+    "title": "[테크M 이슈] 컴투스, AI 게임 시대 '서비스'로 답하다...'하이브 액실'로 개발·운영 생태계 확장",
     "summary": [
-      "[서울=뉴시스]이재훈 기자 = 영화 '소원' '터널'의 원작자 소재원이 최근 소셜 미디어를 통해 연예계 동료들을 잇달아 공격한 혼성그룹 '룰라' 출신 고영욱을 향해 직격탄을 날렸다.",
-      "소재원은 7일 자신의 소셜 미디어에 \"미성년자를 상대로 성범죄를 저지른 자가 어찌 당당하게 누군가를 비판하느냐\"며 \"하루가 멀다 하고 똥 같은 글을 배설하며 피해자와 가족, 대중에게 2차 가해를 지속하고 있다\"고 적었다.",
-      "이어 \"글 똥에 공감하거나 동정하는 악마는."
+      "컴투스가 AI를 활용해 게임 개발 뿐만 아니라 서비스 환경까지 바꾸는 흐름을 본격화하고 있다.",
+      "오픈AI와 함께 국내에서 처음 개최한 해커톤 대회인 '오픈AI 게임 빌더스 서울'에서 자연어 입력만으로도 게임을 구현할 수 있는 AI 개발 도구의 실효성을 증명하며 진입장벽이 낮아지면서다.",
+      "이에 컴투스는 자체 게임 백엔드 플랫폼 '하이브'를 기반으로 AI 개발 게임이 실제 상용화 서비스로 이어질 수 있도록 지원한다는 전략이다."
+    ],
+    "chips": [
+      "#AI",
+      "#환경"
+    ]
+  },
+  {
+    "id": "neb69905a",
+    "category": "IT",
+    "source": "테크M",
+    "time": "방금 전",
+    "url": "https://www.techm.kr/news/articleView.html?idxno=154997",
+    "title": "유니클로와 매출 '어깨 나란히'…무신사, '10조 IPO' 청신호 켜졌다",
+    "summary": [
+      "국내 최대 패션 플랫폼 무신사가 기업가치 10조원을 향한 기업공개(IPO) 레이스에 들어갔다.",
+      "불과 몇 년 전만 해도 10조원은 성장 기대를 상당 부분 반영해야 가능한 몸값으로 여겨졌지만 분위기가 달라졌다.",
+      "연매출 1조원을 훌쩍 넘어서며 국내 유니클로와 비슷한 외형을 갖춘 데다 자체 브랜드와 오프라인, 해외 사업에서도 성장세가 이어지고 있다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n6137869c",
+    "id": "n6b86e298",
     "category": "경제",
-    "source": "조선일보",
-    "time": "5분 전",
-    "url": "https://www.chosun.com/entertainments/broadcast/2026/09/08/GAYDCOLCGNRGCYRTMU2DMYLCGY/",
-    "title": "곽튜브, 1500만원 '플렉스'했는데..\"주식 -14%, 때려박았다\"",
+    "source": "테크M",
+    "time": "방금 전",
+    "url": "https://www.techm.kr/news/articleView.html?idxno=154996",
+    "title": "[크립토 브리핑] 비트코인 1억700만원대 '숨고르기'…美 ETF엔 3주간 5조원 몰렸다",
     "summary": [
-      "<방송 시청 후 작성된 리뷰 기사입니다.>[OSEN=김수형 기자] 여행 크리에이터 곽튜브가 1500만원짜리 퍼스트클래스를 타고 초호화 여행을 즐기던 중 뜻밖의 주식 투자 근황을 공개했다.7일 곽튜브의 유튜브 채널에는 '세계에서 최고로 비싼 퍼스트클래스 비행 후기'라는 제목의 영상이 공개됐다.이날 곽튜브는 일본 도쿄에서 아부다비로 향하는 퍼스트클래스에 탑승했."
+      "비트코인이 1억700만원대에서 약세를 보이고 있다.",
+      "미국 소비자물가지수(CPI)와 연방공개시장위원회(FOMC)를 앞두고 관망세가 짙어진 가운데 미국 비트코인 현물 상장지수펀드(ETF)에는 최근 3주간 5조원 넘는 자금이 몰리며 기관 수요는 되살아나는 모습이다.8일 오전 8시10분 가상자산 거래소 빗썸에서 비트코인은 24시간 전보다 0.10% 내린 1억774만원에 거래됐다.",
+      "글로벌 시장에서는 코인마켓캡 기준 7만8950달러선으로 8만달러를 밑돌았."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n0ac531ed",
+    "id": "n8e163c86",
     "category": "사회",
     "source": "뉴시스",
-    "time": "5분 전",
-    "url": "https://www.newsis.com/view/NISX20260908_0003780034",
-    "title": "비관, 자조 넘쳐나는 중국 소셜 미디어",
+    "time": "방금 전",
+    "url": "https://www.newsis.com/view/NISX20260908_0003780572",
+    "title": "거래소, ACGA·글로벌 기관투자자 대상 지배구조 라운드테이블",
     "summary": [
-      "[서울=뉴시스] 강영진 기자 = 인터넷에서 “긍정적 에너지”를 고양하려는 중국 당국의 노력이 실패한 듯하다고 미 뉴욕타임스(NYT)가 7일(현지시각) 보도했다.",
-      "최근 중국 인기 동영상 사이트 빌리빌리(Bilibili)에서 화제가 된 동영상 중 노숙자로 살아남는 방법을 다룬 내용이 있다.",
-      "이 동영상은 “보급품”이 계속 보충되는 쓰레기통 근처에서 자고, 습기를 막기 위해 판지를 사용하며, 감시 카메라를 피하라고 조언했다."
+      "[서울=뉴시스] 강수윤 기자 = 한국거래소는 8일 서울 사무소에서 아시아기업지배구조협회(ACGA) 및 글로벌 기관투자자를 대상으로 라운드테이블 회의를 열었다고 밝혔다.",
+      "ACGA는 1999년 홍콩에 설립된 비영리 단체로, 아시아·태평양 지역의 기업 지배구조 및 ESG(환경·사회·지배구조) 연구와 국가별 지배구조 순위 발표 등을 진행하고 있다.",
+      "이날 회의에는 블랙록, JP모건 자산운용, 피델리티 인베스트먼트, 노르웨이 중앙은행 투자관리청(NBIM)."
     ],
     "chips": [
-      "#뉴스"
+      "#환경"
     ]
   },
   {
-    "id": "nb448c6b9",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "8분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260908015500051",
-    "title": "지붕에 특수페인트 발라 실내온도 줄여…하얀지붕 사업",
+    "id": "nef5a09bd",
+    "category": "IT",
+    "source": "뉴시스",
+    "time": "방금 전",
+    "url": "https://www.newsis.com/view/NISX20260908_0003780597",
+    "title": "부산시, 산하 출연기관장 7명 임명…\"전문성·젊은 리더십 발탁\"",
     "summary": [
-      "(부산=연합뉴스) 김선호 기자 = 부산시는 폭염에 취약한 지역 36곳에 '하얀지붕 설치 지원 사업'을 추진한다고 8일 밝혔다."
+      "[부산=뉴시스]원동화 기자 = 부산시는 공석인 산하 공공기관 12곳 가운데 시의회 인사청문회 대상이 아닌 7개 출연기관장을 임명한다고 8일 밝혔다.",
+      "이번 인사는 '부산시 출자·출연 기관의 장 및 임원의 임기에 관한 조례'에 따라 지난 시정과 임기가 종료된 기관을 대상으로 진행됐다.",
+      "신임 기관장들은 10일 오전 부산시청 의전실에서 임명장을 받은 뒤 2년 임기를 시작한다."
     ],
     "chips": [
-      "#뉴스"
+      "#네이버"
     ]
   },
   {
-    "id": "nf7bb3db8",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "8분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260907150600030",
-    "title": "삼양 \"리센느가 먹은 '짜르르', 유튜브 공개 후 주말 매출 두배\"",
-    "summary": [
-      "(서울=연합뉴스) 홍국기 기자 = 걸그룹 리센느(RESCENE)가 유튜브 콘텐츠에서 삼양식품의 짜장라면을 먹는 모습이 공개된 이후 제품 판매가 ..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "na1d604fc",
+    "id": "n4bf884c2",
     "category": "사회",
     "source": "뉴시스",
-    "time": "8분 전",
-    "url": "https://www.newsis.com/view/NISX20260908_0003780026",
-    "title": "[오늘의 주요일정]전남광주통합특별시(9월 8일 화요일)",
+    "time": "방금 전",
+    "url": "https://www.newsis.com/view/NISX20260908_0003780600",
+    "title": "'가덕도 신공항' 절차 가시화…예비대상자 대우건설, 6%대 급등",
     "summary": [
-      "[전남광주=뉴시스] ▲오전 7시30분 세아앰엔이스노동조합, 부당노동행위 항거, 여수시 세아앰엔에스 정문 ▲오전 7시30분 영암 송전선로반대위, 송전선로 반대, 한전본사 앞 ▲오전 7시30분 전국공공서비스노조 광주전남지부, 교섭권 보장 요구 출근길 홍보, 전남광주특별시 무안청사 ▲오전 7시40분 한전MCS 검침노조, 인력증원촉구, 한전MCS 앞 ▲오전 7시40분 민주노총 공공연대노조 영광지부, 통신공사 노조 고용승계 촉구, 한빛원전 앞 공터 ▲오."
+      "[서울=뉴시스] 김진아 기자 = 대우건설 주가가 8일 가덕도 신공항 수의계약에 대한 기대감에 6%대 급등하고 있다.",
+      "한국거래소에 따르면 대우건설은 이날 오전 10시51분 기준 전장 대비 12.7% 오른 2만750원에 거래되고 있다.",
+      "가덕도 신공항 수의계약 관련 절차가 가시화되면서 수의계약 예비대상자인 대우건설에 대해 매수세가 급격히 몰리고 있는 것으로 풀이된다."
     ],
     "chips": [
-      "#고용"
+      "#뉴스"
     ]
   },
   {
-    "id": "nff0ac39d",
-    "category": "경제",
-    "source": "조선일보",
-    "time": "9분 전",
-    "url": "https://www.chosun.com/economy/economy_general/2026/09/08/GQ3TAMZZGM4WCNZVGU3GMNZTGY/",
-    "title": "한국 경제 2분기 0.6% 성장… 실질 GNI 3.1% 증가",
+    "id": "nf8c540f8",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "1분 전",
+    "url": "https://www.donga.com/news/Culture/article/all/20260908/134625440/2",
+    "title": "아이유, 10일 싱글 ‘이 별로부터’ 발표…정규 6집 선공개곡",
     "summary": [
-      "올해 2분기 우리나라 실질 국내총생산(GDP)이 전기 대비 0.6%(잠정치) 성장했다고 한국은행이 8일 밝혔다.",
-      "이는 한국은행이 7월 발표한 속보치와 동일하며, 전망치인 0.2%를 상회하는 수준이다.",
-      "2월 말 시작된 중동 전쟁으로 인한 국제 유가 상승 속에서 반도체 수출이 한국 경제를 견인한 것이다."
+      "가수 아이유가 오는 10일 새 디지털 싱글 ‘이 별로부터’를 발표한다.",
+      "이번 디지털 싱글은 향후 발매될 정규 6집의 수록곡을 선공개하는 것이다.",
+      "8일 소속사 이담(EDAM)엔터테인먼트에 따르면, 오는 10일 발매되는 아이유의 새 싱글 ‘이 별로부터’에는 동명의 타이틀곡 ‘이 별로부터’와 또 다른 타이틀곡 ‘디어 마이 크레이지 솔메이트(Dear my crazy soulmate)’ 등 총 2곡이 수록된다.두 곡 모두 아이유가 직접 작사에 참여했다."
     ],
     "chips": [
-      "#반도체",
-      "#한은",
-      "#수출",
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nc51c104e",
+    "category": "부동산",
+    "source": "아시아경제",
+    "time": "1분 전",
+    "url": "https://view.asiae.co.kr/article/2026090719173830527",
+    "title": "미분양 리스크 덜고 용적률 상향까지…알짜 '도심공공복합사업'에 몰린 건설사",
+    "summary": [
+      "도심공공주택복합사업이 건설사들의 알짜 먹거리로 떠오르고 있다.",
+      "정부가 주택 공급 속도를 높이기 위해 관련 사업 용적률을 1.4배 늘리고 절차를 단축하는 등 인센티브를 확대한 영향이다.",
+      "공급 속도가 민간 정비사업에 비해 빠르고 미분양으로 인한 공사비 회수 리스크가 적어 1군 건설사와 중견사들까지 잇따라 수주에 뛰어드는 모양새다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n699fcd8f",
+    "category": "사회",
+    "source": "아시아경제",
+    "time": "2분 전",
+    "url": "https://view.asiae.co.kr/article/2026090810555149872",
+    "title": "靑 \"연임 논란은 유감, 李대통령 좀 더 분명하게 밝힐 것\"",
+    "summary": [
+      "이재명 대통령이 연임 개헌에 대한 입장을 직접 밝히고, 지지율 하락 추세를 멈추기 위해 통합 메시지를 내는 방안도 고민 중이라고 홍익표 청와대 정무수석이 8일 밝혔다.",
+      "홍 수석은 이날 유튜브 방송 '김어준의 겸손은힘들다 뉴스공장'에서 이 대통령의 연임개헌 논란에 대해 \"대통령이 직접 말할 수 있는 자리를 빌려 좀 더 분명하게 밝힐 것\"이라고 했다.",
+      "홍 수석은 \"분명히 얘기했는데도 자꾸 논란이 커지고 있는 것은 좀 유감\"이라며 \"대통령께서는 '내."
+    ],
+    "chips": [
       "#정치"
     ]
   },
   {
-    "id": "nf1b5e214",
+    "id": "nddd274fa",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "3분 전",
+    "url": "https://www.newsis.com/view/NISX20260908_0003780588",
+    "title": "KIOST \"경남 고수온은 뉴노멀, 대응체계 재설계해야\"",
+    "summary": [
+      "[부산=뉴시스] 이아름 기자 = 올여름에도 경남 앞바다에서 고수온 피해가 잇따르면서 고수온을 '뉴노멀'로 보고 양식 대응체계를 재설계해야 한다는 제언이 나왔다.",
+      "8일 한국해양과학기술원(KIOST)이 경남도로부터 받은 자료에 따르면 지난 2일 기준 통영시·거제시·남해군·하동군 등 4개 시군 244개 어가에서 양식어류 558만7000여 마리가 폐사했다.",
+      "피해액은 63억4000여만원으로 집계됐다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n6f0380f9",
+    "category": "경제",
+    "source": "아시아경제",
+    "time": "3분 전",
+    "url": "https://view.asiae.co.kr/article/2026090709471370218",
+    "title": "[여행 한 장]숲과 자연을 만나는 '고요하고 겸허한' 자세",
+    "summary": [
+      "인도 동북부 카지랑가 국립공원은 외뿔코뿔소의 최대 서식지입니다.",
+      "유네스코 세계자연유산인 숲과 초원에서 코끼리를 타고 코뿔소를 보러 갑니다.",
+      "코끼리는 야생코뿔소를 가까이 만나는 조용하고 특별한 도우미입니다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n3f0e8251",
+    "category": "경제",
+    "source": "아시아경제",
+    "time": "4분 전",
+    "url": "https://view.asiae.co.kr/article/2026090810534088179",
+    "title": "대미투자 1호 가스·후속 원전 8기 유력…관건은 '경제·사업성'",
+    "summary": [
+      "대미 투자 첫 사업으로 220억달러(30조원) 규모의 미국 텍사스주 엔시날 가스복합화력발전소 건설이 유력하게 검토되면서 국내 절차가 막바지 단계에 접어들고 있다.",
+      "후속 사업으로는 미국 내 대형 원전 최대 8기를 건설하는 방안도 논의되고 있다.",
+      "1호 사업의 윤곽이 드러났다고 해서 실제 투자가 곧바로 집행되는 것은 아니다."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n013f6049",
     "category": "사회",
     "source": "연합뉴스",
-    "time": "9분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260908009900011",
-    "title": "[전국 주요 신문 톱뉴스](8일 조간)",
+    "time": "5분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260907151451001",
+    "title": "김민석, 노량진수산시장 찾아 \"회식 활성화 방안 찾아보겠다\"",
     "summary": [
-      "[전국 주요 신문 톱뉴스](8일 조간)."
+      "(서울=연합뉴스) 오규진 최주성 기자 = 더불어민주당 김민석 대표가 이달 말 추석 연휴를 앞두고 8일 서울 동작구 노량진수산시장을 찾았다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "nca0593ef",
-    "category": "경제",
-    "source": "연합뉴스(경제)",
-    "time": "9분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260908014500002",
-    "title": "2분기 명목 GDP 성장률 47년 만에 최고…실질 GDP는 0.6%↑",
+    "id": "nd560c78f",
+    "category": "스포츠",
+    "source": "동아일보",
+    "time": "6분 전",
+    "url": "https://www.donga.com/news/Sports/article/all/20260908/134625429/1",
+    "title": "‘4년 연속 꼴찌 유력’ 키움, 역대급 ‘거북이 군단’…43년 묵은 기록 깨나",
     "summary": [
-      "(서울=연합뉴스) 한지훈 기자 = 올해 2분기 한국 경제는 수출과 민간 소비가 함께 늘면서 견조한 성장세를 지속했다."
-    ],
-    "chips": [
-      "#수출"
-    ]
-  },
-  {
-    "id": "n73a1f22c",
-    "category": "부동산",
-    "source": "연합뉴스(경제)",
-    "time": "9분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260907121600008",
-    "title": "공사채 시장 최대 발행주체 부상한 LH…\"수급 좌우 전망\"",
-    "summary": [
-      "(서울=연합뉴스) 강수지 기자 = 정부의 공공기관 중장기 재무관리계획이 발표된 가운데 한국토지주택공사(LH)가 향후 공사채 시장의 수급을 좌우할..."
+      "4년 연속 최하위 위기에 놓인 키움 히어로즈가 또 하나의 불명예 기록을 눈앞에 두고 있다.",
+      "127경기를 치르는 동안 도루가 단 17개에 그치며 43년간 깨지지 않았던 역대 최소 팀 도루 기록마저 갈아치울 기세다.키움은 2026시즌 7일까지 10개 구단 중 가장 많은 127경기를 치렀는데 팀 도루는 단 17개로 압도적 꼴찌다.팀 도루 1위인 NC 다이노스(134개)의 10분의 1 수준이고, 경기당 도루가 0.13개로 8경기를 치러야 도루 하나를."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n872f26ae",
+    "id": "n03865f71",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "6분 전",
+    "url": "https://www.donga.com/news/Society/article/all/20260908/134625426/1",
+    "title": "해운대 주차 차량에 2.8㎏ 돌덩이 낙하…두달째 용의자 오리무중",
+    "summary": [
+      "부산 해운대해수욕장 인근 주차장에 세워진 승용차 위로 무게 2.8㎏가량의 돌덩이가 떨어져 경찰이 수사에 나섰지만, 두 달 가까이 용의자를 특정하지 못하고 있다.8일 부산 해운대경찰서에 따르면 지난 7월10일께 해운대구 해운대해수욕장 인근 한 주차장에 주차돼 있던 승용차 위로 둥근 형태의 돌덩이가 떨어졌다.경찰에 따르면 해당 돌은 가로 19㎝, 세로 12㎝, 무게 2.8㎏가량으로, 차량 천장을 뚫고 내부에서 발견됐다.사고 당시 차량 안에는 사람이."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n5c72aacb",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "6분 전",
+    "url": "https://www.donga.com/news/Culture/article/all/20260908/134625363/2",
+    "title": "이종범, ‘연예인 며느리’ 가능성 묻자 “그건 아내에게 물어봐야”",
+    "summary": [
+      "이종범이 ‘남겨서 뭐하게’에서 아들 이정후의 결혼에 대한 생각을 밝혔다.",
+      "원하는 며느리상으로 “정후 엄마처럼 뒷바라지하고 인내하며 이해해주는 사람”을 꼽았다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n27801d83",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "7분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260908063300057",
+    "title": "울산 수능 지원자 1만1천246명…작년보다 377명 줄어",
+    "summary": [
+      "(울산=연합뉴스) 김용태 기자 = 울산시교육청은 2027학년도 대학수학능력시험 응시 원서를 접수한 결과 지원자 수가 지난해보다 377명(3.2%..."
+    ],
+    "chips": [
+      "#교육"
+    ]
+  },
+  {
+    "id": "n5f4a7e93",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "7분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260908065500001",
+    "title": "홍익표 \"연임 논란 커져 유감…李대통령, 분명한 의사 밝힐 것\"",
+    "summary": [
+      "(서울=연합뉴스) 황윤기 기자 = 홍익표 청와대 정무수석은 이재명 대통령의 연임 가능성을 두고 정치권에서 벌어지는 논란에 관해 8일 \"분명히 얘..."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n6c4ac68b",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "8분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260908065600053",
+    "title": "대구 중학생 30명, 미국 NASA 간다…우주과학 현장 체험",
+    "summary": [
+      "(대구=연합뉴스) 윤관식 기자 = 대구 달성교육재단은 미국에서 '2026 달성 청소년 해외 우주과학 캠프'를 진행한다고 8일 밝혔다."
+    ],
+    "chips": [
+      "#교육"
+    ]
+  },
+  {
+    "id": "nb8f4482b",
     "category": "경제",
     "source": "연합뉴스(경제)",
-    "time": "9분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260908011200005",
-    "title": "'2026년 젊은 건축가상'에 나종원·김민호·신성진·손경민",
+    "time": "8분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260908067200003",
+    "title": "코오롱글로벌, 오픈이노베이션으로 혁신기술 6건 실증 추진",
     "summary": [
-      "(서울=연합뉴스) 김기훈 기자 = 문화체육관광부는 '2026년 젊은 건축가상' 수상자로 나종원 오브 아키텍처 공동대표, 김민호 코드아키텍츠건축사..."
+      "(서울=연합뉴스) 임기창 기자 = 코오롱글로벌은 올해 오픈이노베이션을 통해 외부 혁신기술 6건에 대한 실증과 개념검증을 진행한다고 8일 밝혔다...."
     ],
     "chips": [
       "#뉴스"
@@ -641,20 +643,20 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2590건",
-    "trend": "+295%"
+    "mentions": "2460건",
+    "trend": "+275%"
   },
   {
     "rank": 2,
     "tag": "반도체",
-    "mentions": "1810건",
-    "trend": "+175%"
+    "mentions": "1550건",
+    "trend": "+135%"
   },
   {
     "rank": 3,
-    "tag": "채용",
-    "mentions": "1550건",
-    "trend": "+135%"
+    "tag": "AI",
+    "mentions": "1420건",
+    "trend": "+115%"
   }
 ];
 // ====AUTO-GENERATED-END====
