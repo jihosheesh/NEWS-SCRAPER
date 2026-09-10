@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-09-09 23:39:19
+// 마지막 업데이트: 2026-09-10 02:00:09
 window.NEWS_DB = [
   {
     "id": "n82b957e6",
     "category": "IT",
     "source": "뉴스투데이",
-    "time": "10시간 전",
+    "time": "12시간 전",
     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9hUHdXSFQ0cTRtR3o0SjFGSUJ6aXVJNHZ5Sm1XMWJsbjVrdzFGOXpHWkhmRDgtU1RBU0ZLRTdWbXF0b0hFdFZoell3SUI5WFdoNVlaM2dZWnUyQ2FQM0E?oc=5",
     "title": "[마켓인사이드] 마이크론·삼성·SK하이닉스의 ‘서로 다른 미국 전략’",
     "summary": [
@@ -19,7 +19,7 @@ window.NEWS_DB = [
     "id": "ncb9ee20d",
     "category": "IT",
     "source": "비즈니스포스트",
-    "time": "20시간 전",
+    "time": "22시간 전",
     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9DN2lsZlgtRWg5YzZWeW9RSUVNaTc5QzRPTGdZWWhsVTdISVlxSVItNHlMTHN2VmJjeGkxWVN0N3Y2cjBReWIzZE1KcnhWQWNld1Z5U0NvRUlrbndqdzU3VzFFTzVnN19QYUxYRm9EMHdZazQ?oc=5",
     "title": "엔비디아 구형 AI 반도체 출시 6년 지나도 가치 유지, 빅테크 데이터센터 투자 확대 청신호",
     "summary": [
@@ -35,7 +35,7 @@ window.NEWS_DB = [
     "id": "naa8d782c",
     "category": "IT",
     "source": "mstoday.co.kr",
-    "time": "1일 전",
+    "time": "2일 전",
     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1PWGMxWXRaU053U2xpVFFSa3BKZDlEcWRYVDktT1pGSDl5aE94UEJLOV85MjY2c0U1bUtEQmd6SHhiV1lpM05teUVkdEk5U0RwWFVMSlVlQ0NRUnhfR3I2Yk5IZXlGMWxUSWd0Tg?oc=5",
     "title": "엔비디아까지 뛰어든 자율주행…한국은 아직 '실증' 단계",
     "summary": [
@@ -91,21 +91,6 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n82f6eb16",
-    "category": "IT",
-    "source": "twig24.com",
-    "time": "8일 전",
-    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1lU0dXYjRYbDhsQmRTdzE1UkZ4SldmQlJDS2dOaHRQWlZ0UzNZTlBwaUJlTlhiaU03aDJxQkpURlZ1NmZvMVRFODZqdGIxNFZGTy13SnpwajMzSzd3ckc1Vm1wQQ?oc=5",
-    "title": "관악구, ‘관악S밸리’에서 유니콘 꿈 키울 스타트업 20곳 모집",
-    "summary": [
-      "관악구, ‘관악S밸리’에서 유니콘 꿈 키울 스타트업 20곳 모집 twig24.com."
-    ],
-    "chips": [
-      "#스타트업",
-      "#채용"
-    ]
-  },
-  {
     "id": "n2c0f41aa",
     "category": "IT",
     "source": "연합뉴스",
@@ -121,10 +106,24 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "na9bf3191",
+    "category": "IT",
+    "source": "thekorea.kr",
+    "time": "8일 전",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4yMmtYQl8xRHVocVdkZUVXLTlRb2JoTXpkSF84VEIwUWFLX1o4NjROUEZCQmtIa0QtT0FCRXpwWEdrWHRmQjlPWXNva0R1cEZMVXRKaFRLdDRfZVk1MlRKM21kMHRIaEdfbDJxLW5UWnE?oc=5",
+    "title": "관악S밸리 벤처 영토 확장 창업 둥지 트는 미래 유니콘 > 뉴스",
+    "summary": [
+      "관악S밸리 벤처 영토 확장 창업 둥지 트는 미래 유니콘 > 뉴스 thekorea.kr."
+    ],
+    "chips": [
+      "#스타트업"
+    ]
+  },
+  {
     "id": "n244b0da4",
     "category": "사회",
     "source": "경북매일",
-    "time": "14일 전",
+    "time": "15일 전",
     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBYUEFCOVNDZG1rQ3VxRlNlRFJQSDF1aVRMZmxFS09FNWRndks2eEVEVEx1RkQteERzdTJ0WVhXY2JBNUIxVVdBb1NtaU5HS3lRUWxfNFRPQ25YZw?oc=5",
     "title": "경주시시설관리공단-경주시취업지원센터, 지역 일자리 활성화 ‘맞손’",
     "summary": [
@@ -138,12 +137,12 @@ window.NEWS_DB = [
   {
     "id": "ndc5c8acf",
     "category": "사회",
-    "source": "복지뉴스",
+    "source": "bokjinews.com",
     "time": "19일 전",
     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1HdzFWTmNINFVObFVXanpkWFU0VHk2c0ZMRDlDYmE2LUx3NXFJZHp0V3lkRkhsamxDTWFKZEo2d05iV0pIOUplQkxKeFY2Q1J1QnhHczRpc1pOTzVqMnFJVm43elQxMUlK?oc=5",
     "title": "실업급여 구직활동 ‘취업활동 마일리지’로 바뀐다…9월 실업급여 반복수급자 대상 시범운영",
     "summary": [
-      "실업급여 구직활동 ‘취업활동 마일리지’로 바뀐다…9월 실업급여 반복수급자 대상 시범운영 복지뉴스."
+      "실업급여 구직활동 ‘취업활동 마일리지’로 바뀐다…9월 실업급여 반복수급자 대상 시범운영 bokjinews.com."
     ],
     "chips": [
       "#취업",
@@ -153,7 +152,7 @@ window.NEWS_DB = [
   {
     "id": "n94761311",
     "category": "경제",
-    "source": "뉴닉",
+    "source": "newneek.co",
     "time": "20일 전",
     "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE80a0hHQmI1RHZQZmR1RmJLcmJfb0tNZ3lZcUFJODZWZEY1dklFVW4yV3lDeE1qQXpQb3RxSk5haWtzZW80TnR5X1ZlMlBETERrYURF?oc=5",
     "title": "권민수 한국은행 부총재가 취임하며 환율·성장·물가를 균형 있게 고려해 금리를 결정하겠다고 밝혔어요. ⚖️",
@@ -167,14 +166,28 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n9623a72b",
+    "category": "스포츠",
+    "source": "Nate News",
+    "time": "27일 전",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1VWFlLQnJmRU9nMzY0WDNmaWFVOWktSFltNzMzV0dYcFhDQjEzcjJxUlVoYVpQczVSNWR6VHdMcDV3aHBYWi1vcWFIb3Jad2kzQWRYZ0VnbWQzS0NEVHR6Mg?oc=5",
+    "title": "평일에도 뜨거운 KBO리그",
+    "summary": [
+      "평일에도 뜨거운 KBO리그 Nate News."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
     "id": "n062f98b4",
     "category": "부동산",
-    "source": "arunews.com",
+    "source": "한국주택경제신문",
     "time": "40일 전",
     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9Sdmd3SUl0dmRQSWdTck5DVjJ5WXYxTTFmRnBBbEkwa09VclpLd0VsVWFTV2pPRm9sQm1sQmZDb3EyN2lwTVBvZ185RUVycVFnOEdYcHVrcVFnYTdwaGZfUDh2WkFWYndi?oc=5",
     "title": "서울 아파트값 0.25% 상승… 똘똘한 ‘역세권·대단지’가 집값 견인",
     "summary": [
-      "서울 아파트값 0.25% 상승… 똘똘한 ‘역세권·대단지’가 집값 견인 arunews.com."
+      "서울 아파트값 0.25% 상승… 똘똘한 ‘역세권·대단지’가 집값 견인 한국주택경제신문."
     ],
     "chips": [
       "#부동산"
@@ -210,17 +223,17 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n5ace0115",
-    "category": "스포츠",
-    "source": "nate sports",
-    "time": "83일 전",
-    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5seTRoTHExRUtJQWp4UHlpNUh1c3lPaW1qcWVJWDg0a0dQUFdCYW5NVjFjWlVEWl9xbkRGUUtiWnYxTFpXZTNVSktDSlIzVzlTd3FXS1E0RzFGWnhG?oc=5",
-    "title": "과연, 국민 스포츠…KBO리그, 월드컵 기간에도 끄떡없다",
+    "id": "n375acff5",
+    "category": "부동산",
+    "source": "서울경제",
+    "time": "64일 전",
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBrQk9VUDdKZURsckttb2Q1RGwwbHZGbUctRmtkclluZnlKdnBpZ2RUdjcwUlNnMUJEYVZfZFI2eW9GU2NSdlJncWFUYjNJSWlXQXfSAVNBVV95cUxNcWtGaU5FdWpkMUppODh1OXNmeHpuQnlXbTNJTFAzNGtVV0ItaHJTcUNjREZwTXZLZFp0OFdrNUpsOGJkUTRXV2xySDliWkRITU4tVQ?oc=5",
+    "title": "집값 상승·개발 호재에 7월 아파트 분양 전망 큰폭 상승",
     "summary": [
-      "과연, 국민 스포츠…KBO리그, 월드컵 기간에도 끄떡없다 nate sports."
+      "집값 상승·개발 호재에 7월 아파트 분양 전망 큰폭 상승 서울경제."
     ],
     "chips": [
-      "#KBO"
+      "#부동산"
     ]
   },
   {
@@ -253,6 +266,21 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "nb9bdfdfb",
+    "category": "스포츠",
+    "source": "푸드투데이",
+    "time": "103일 전",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9BVmpLTU1zOFZsU1RWVmVOSXppaWhDWFBBRkF4akI3WHBIcXIyX2pXa3JaeXplMm9vbmE4cU1PclhFTXVZdURxQ0RCYTF3aFNsbmRKcTZ5VE9na0cwakQ2XzNuWlJ5QQ?oc=5",
+    "title": "‘손흥민 월드콘.KBO몽쉘’ 축구.야구팬 다 잡자...롯데웰푸드, 스포츠마케팅 총력",
+    "summary": [
+      "‘손흥민 월드콘.KBO몽쉘’ 축구.야구팬 다 잡자...롯데웰푸드, 스포츠마케팅 총력 푸드투데이."
+    ],
+    "chips": [
+      "#손흥민",
+      "#KBO"
+    ]
+  },
+  {
     "id": "nba668fc0",
     "category": "IT",
     "source": "한국방송뉴스",
@@ -264,21 +292,6 @@ window.NEWS_DB = [
     ],
     "chips": [
       "#스타트업"
-    ]
-  },
-  {
-    "id": "n08b2b275",
-    "category": "부동산",
-    "source": "한국부동산뉴스",
-    "time": "148일 전",
-    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBZNmg3TVp4ZWZCV1ZzTE14bXV5UkN4MExnMmZJdkpfNUsyUGltRWlJVWVfUzJoQktRUlcwMTdrUUtuWk9pR2MxaFlhNGpOU0xGZjM3eDUwdlNmRWQtYkFaenAyekhVRGRRY0pJ?oc=5",
-    "title": "대출 규제에 몰린 '15억 이하'…비강남 집값·분양가 동반 상승",
-    "summary": [
-      "대출 규제에 몰린 '15억 이하'…비강남 집값·분양가 동반 상승 한국부동산뉴스."
-    ],
-    "chips": [
-      "#부동산",
-      "#정책"
     ]
   },
   {
@@ -296,342 +309,322 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n80dc1407",
-    "category": "스포츠",
-    "source": "joongang.co.kr",
-    "time": "183일 전",
-    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1kSmhBTDdKY1NsbWktSU80SFYtRWN3VGpnQjRNeEpaNF9LZVo0ZS1wb19tbkZxQUJMOU1NYjVTdVpPLW9aMW9hN0ZRQXVWY3hjQl81MG1R?oc=5",
-    "title": "축구는 손흥민, 야구는 이정후…대표팀 주장의 품격",
+    "id": "n44977c1c",
+    "category": "경제",
+    "source": "테크M",
+    "time": "방금 전",
+    "url": "https://www.techm.kr/news/articleView.html?idxno=155095",
+    "title": "'예금 3% 시대' 다시 왔다…두 달 새 62조원 몰린 은행 정기예금",
     "summary": [
-      "축구는 손흥민, 야구는 이정후…대표팀 주장의 품격 joongang.co.kr."
+      "시중은행의 정기예금 금리가 다시 오르고 있다.",
+      "한국은행의 연이은 기준금리 인상과 시장금리 상승을 반영해 은행들이 수신금리를 끌어올리면서 5대 은행 모두 대표 정기예금 금리가 연 3%대로 올라섰다.",
+      "증시 등으로 이동했던 시중자금 일부도 안정적인 이자를 받을 수 있는 은행 예금으로 돌아오는 모습이다.10일 금융권에 따르면 하나은행은 이날부터 대표 상품인 '하나의 정기예금' 1년 만기 금리를 기존 연 3.2%에서 연 3.3%로 0.1%포인트 올렸다."
     ],
     "chips": [
-      "#손흥민",
-      "#KBO"
+      "#금리",
+      "#한은"
     ]
   },
   {
-    "id": "n641f84be",
+    "id": "n9d39405a",
     "category": "부동산",
-    "source": "뉴시스",
+    "source": "테크M",
     "time": "방금 전",
-    "url": "https://www.newsis.com/view/NISX20260909_0003782590",
-    "title": "\"주식 투자로 3년 내내 10% 이상 벌었다면 내 집 마련은 선택, 하지만…\"",
+    "url": "https://www.techm.kr/news/articleView.html?idxno=155094",
+    "title": "'관리비 얼마 나왔지?' 밤에도 바로 확인…야놀자 기술, 아파트로 들어왔다",
     "summary": [
-      "[서울=뉴시스]김성은 인턴 기자 = 주식 투자로 안정적인 수익을 낼 수 있다면 반드시 내 집 마련에 나설 필요는 없지만, 충동적인 투자 성향이라면 오히려 부동산이 더 적합할 수 있다는 분석이 나왔다.",
-      "구독자 수 183만명을 보유한 유튜브 채널 '부읽남TV'는 8일 주식 투자와 부동산을 둘러싼 개인별 투자 전략을 다룬 영상을 공개했다.",
-      "채널에 출연한 박원갑 KB국민은행 수석부동산전문위원은 \"지금 집은 필수가 아니라 선택일 수 있다\"며 \"집값이 오."
+      "야놀자가 여행·숙박 현장에서 활용해온 실시간 고객 소통 기술의 적용 영역을 아파트로 넓힌다.",
+      "관리사무소 운영시간이 끝난 뒤에도 입주민이 민원을 접수하거나 관리비를 조회하고 방문차량 관련 안내를 받을 수 있도록 한다.",
+      "여행 산업을 중심으로 축적한 기업간거래(B2B) 솔루션 기술을 주거 등 일상 영역으로 확장하는 행보다.10일 야놀자그룹에 따르면 엔터프라이즈 솔루션 기술 개발 법인 야놀자넥스트는 실시간 소통 솔루션 '텔라(Tella)'를 주거 플랫."
     ],
     "chips": [
       "#부동산"
     ]
   },
   {
-    "id": "n71895dec",
+    "id": "n0d80f0ed",
     "category": "IT",
     "source": "테크M",
     "time": "방금 전",
-    "url": "https://www.techm.kr/news/articleView.html?idxno=155082",
-    "title": "애플 역량 총동원 '아이폰 듀오'...기존 폴더블과 뭐가 달랐나",
+    "url": "https://www.techm.kr/news/articleView.html?idxno=155093",
+    "title": "청라 이전 앞둔 하나금융, 인천과 접점 넓힌다…발달장애 예술가와 통학로 새단장",
     "summary": [
-      "애플이 첫 폴더블폰 '아이폰 듀오'에 하드웨어와 소프트웨어를 함께 설계하는 자사 역량을 집약했다.",
-      "접고 펼치는 동작에 맞춰 화면과 조작 체계가 함께 바뀌고, 기기를 세워두면 영상통화 기기나 탁상시계로 활용할 수 있다.",
-      "화면 아래에 숨긴 카메라와 반사를 줄이는 나노 텍스처 마감으로 대화면의 몰입감을 높이고, 애플펜슬 지원도 예고했다.애플은 9일(현지시간) 미국 캘리포니아 쿠퍼티노에서 아이폰 듀오를 공개했다."
+      "하나금융그룹이 그룹 헤드쿼터의 인천 청라 이전을 앞두고 지역사회와의 접점을 넓히고 있다.",
+      "취약계층과 소상공인 지원부터 아동 대상 프로그램까지 사회공헌 활동을 확대하는 가운데 이번에는 발달장애인 예술가와 손잡고 초등학교 통학로를 예술 공간으로 바꿨다.10일 금융권에 따르면 하나금융은 지난 9일 인천 서구 봉수초등학교에서 통학로 벽화 조성 봉사활동을 진행했다.",
+      "하나금융이 운영하는 발달장애인 미술 공모전 '하나 아트버스' 수상 작가와 그룹 임직원 등."
+    ],
+    "chips": [
+      "#교육"
+    ]
+  },
+  {
+    "id": "n4d864aba",
+    "category": "IT",
+    "source": "테크M",
+    "time": "방금 전",
+    "url": "https://www.techm.kr/news/articleView.html?idxno=155091",
+    "title": "'시장 장보기도 배달로'…쿠팡, 청량리 성공모델 전국으로 넓힌다",
+    "summary": [
+      "쿠팡과 쿠팡이츠가 전통시장의 '디지털 전환' 지원을 전국으로 확대한다.",
+      "온라인 판매 경험이 부족한 상인에게 배달앱 입점부터 상품 사진 촬영, 마케팅 전략까지 지원하고 시장 대표 먹거리는 밀키트로 상품화한다.",
+      "앞서 서울 청량리시장에서 비슷한 지원을 받은 상인들의 쿠팡이츠 매출이 두 자릿수 증가한 만큼 검증된 지원 모델을 지역 전통시장으로 확산한다는 구상이다.10일 쿠팡에 따르면 쿠팡과 쿠팡이츠는 충북 청주 육거리종합시장을 시작으로 '전통시장 디지."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n4e2c6759",
-    "category": "IT",
-    "source": "테크M",
-    "time": "방금 전",
-    "url": "https://www.techm.kr/news/articleView.html?idxno=155080",
-    "title": "\"아이폰 한 대가 최고 509만원\"...애플 폴더블 '듀오', 시작부터 '귀족폰'으로",
-    "summary": [
-      "애플의 첫 폴더블폰 '아이폰 듀오'가 국내에서 329만원부터 판매된다.",
-      "함께 공개된 아이폰 18 프로은 시작 가격이 199만원, 프로 맥스 모델은 219만원으로 책정됐다.애플은 9일(현지시간) 신제품 공개 행사를 열고 아이폰 듀오와 아이폰 18 프로·프로 맥스 등을 발표했다.",
-      "국내 시작 가격은 아이폰 듀오 329만원, 아이폰 18 프로 199만원, 아이폰 18 프로 맥스 219만원이다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n47757235",
-    "category": "IT",
-    "source": "테크M",
-    "time": "방금 전",
-    "url": "https://www.techm.kr/news/articleView.html?idxno=155079",
-    "title": "아이폰 접고 '터너스 시대' 펼친 애플…새 비전은 '퍼스널 인텔리전스 허브'",
-    "summary": [
-      "\"여러분의 지능형 개인 허브가 되기에 아이폰보다 더 잘 설계된 제품은 세상에 없습니다.\"존 터너스 애플 최고경영자(CEO)가 취임 후 첫 신제품 공개 무대에서 아이폰을 중심으로 한 인공지능(AI) 비전을 제시했다.",
-      "사용자의 일상과 개인적 맥락을 이해하는 AI를 아이폰에 결합하고, 이를 애플워치와 에어팟, 앱과 서비스 등으로 연결하겠다는 구상이다.터너스 CEO는 9일(현지시간) 미국 캘리포니아주 쿠퍼티노 애플파크에서 열린 신제품 공개 행사를 이끌."
-    ],
-    "chips": [
-      "#AI"
-    ]
-  },
-  {
-    "id": "nc97246b7",
-    "category": "IT",
-    "source": "테크M",
-    "time": "방금 전",
-    "url": "https://www.techm.kr/news/articleView.html?idxno=155078",
-    "title": "애플 첫 폴더블폰 '아이폰 듀오' 공개...한국 1차 출시국 포함",
-    "summary": [
-      "애플이 첫 폴더블 스마트폰 '아이폰 듀오'를 공개했다.",
-      "펼치면 7.6인치 대화면으로 두 앱을 동시에 사용할 수 있고, 접으면 5.4인치 외부 화면으로 조작할 수 있다.",
-      "아이폰 최초로 애플펜슬도 지원한다.애플은 9일(현지시간) 아이폰 듀오를 공개하고 폴더블폰 시장 진출을 알렸다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n433eb263",
-    "category": "스포츠",
-    "source": "머니투데이",
-    "time": "방금 전",
-    "url": "https://www.mt.co.kr/sports/2026/09/10/2026091007013826786",
-    "title": "\"이강인 너무 잘하자 리버풀 거칠어졌다\" 스페인 현지 분노... 반 다이크 태클에 '신발까지 벗겨졌다'",
-    "summary": [
-      "한국 축구대표팀 '에이스' 이강인(25·아틀레티코 마드리드)을 향한 리버풀(잉글랜드)의 거친 플레이에 스페인 현지 매체도 비판의 목소리를 높였다.",
-      "아틀레티코 마드리드는 10일(한국시간) 영국 리버풀의 안필드에서 열린 리버풀과 2026~2027시즌 유럽축구연맹(UEFA) 챔피언스리그(UCL) 리그 페이즈 1라운드에서 1-2 역전패를 당했다.",
-      "이날 이강인은 3-4-2-1 포메이션의 2선에 배치돼 최전방 공격수 훌리안 알바레스를 지원했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n75dd9842",
-    "category": "스포츠",
-    "source": "아시아경제",
+    "id": "n74ab4a4a",
+    "category": "사회",
+    "source": "뉴시스",
     "time": "1분 전",
-    "url": "https://view.asiae.co.kr/article/2026091008354529095",
-    "title": "제니에 \"제발 손절해라\" 속출…\"아디다스 사지마세요\" 불매 확산하는 이유",
+    "url": "https://www.newsis.com/view/NISX20260910_0003784064",
+    "title": "전북교육청, 2027년 방과후지원실장 103명 공개 선발",
     "summary": [
-      "글로벌 스포츠 브랜드 아디다스가 가자지구 무력 충돌 당시 부상을 입고 다리를 절단한 전직 이스라엘 군인을 현지 광고 모델로 내세웠다가 국제적 불매운동(보이콧)에 직면했다.",
-      "문제는 이 같은 여파가 최근 아디다스와 손잡고 첫 공동 디자인 컬렉션을 전 세계에 선보인 K팝 그룹 블랙핑크 제니에게까지 번지고 있다는 점이다.",
-      "사회공헌 취지 퇴색시킨 '이스라엘군 모델' 기용 파문논란의 발단은 아디다스가 추진해 온 사회공헌 사업인 '싱글 슈 서비스'의 이스라."
+      "[전주=뉴시스] 윤난슬 기자 = 전북특별자치도교육청은 안정적인 방과후학교 운영을 위해 '2027년도 방과후지원실장(임기제 교육연구사)' 103명을 공개 선발한다고 10일 밝혔다.",
+      "선발 인원은 초등교사 100명과 특수(초등)교사 3명이다.",
+      "지원 자격은 교육경력 7년 이상의 현직 정규 교사로, 최종 선발자는 2년간 각급 학교의 방과후학교 운영을 총괄하게 된다."
     ],
     "chips": [
-      "#뉴스"
+      "#정책",
+      "#교육"
     ]
   },
   {
-    "id": "n09905320",
+    "id": "n2043be40",
     "category": "사회",
     "source": "뉴시스",
     "time": "2분 전",
-    "url": "https://www.newsis.com/view/NISX20260910_0003783588",
-    "title": "흥국證 \"SK, 올해 영업익 18.3조 예상…목표가 84만원 유지\"",
+    "url": "https://www.newsis.com/view/NISX20260910_0003784057",
+    "title": "\"반려동물 유기 방지\"…이재관 의원, 제도개선 간담회",
     "summary": [
-      "[서울=뉴시스] 김진아 기자 = 흥국증권은 10일 SK에 대해 주력 자회사인 SK스퀘어의 증익에 힘입어 올해 큰 폭의 실적 턴어라운드를 기록할 것으로 내다봤다.",
-      "목표주가는 기존과 같이 84만원을, 투자의견 역시 '매수'를 유지했다.",
-      "박종렬 흥국증권 연구원은 \"SK스퀘어가 연결 영업이익 증익을 주도하는 가운데, SK이노베이션과 SK텔레콤, SK에코플랜트가 가세하면서 올해 본격적인 실적 턴어라운드의 원년이 될 것\"이라며 \"주주환원 확대 실행력을 통."
+      "[천안=뉴시스]최영민 기자 = 더불어민주당 이재관 국회의원(천안을)이 지난 9일 국회 의원회관 제7간담회실에서 '반려동물 유기 방지를 위한 간담회'를 개최했다고 10일 밝혔다.",
+      "이 의원에 따르면 이번 간담회는 서삼석, 윤준병, 송옥주, 신장식 의원 등이 공동 주최하고 농림축산식품부가 주관했다.",
+      "이번 간담회는 반려동물이 유기된 이후 구조·보호하는 사후 대응을 넘어, 유기 발생 자체를 사전에 줄일 수 있는 방안을 모색하기 위해 마련됐다."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "neaf4a2ab",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "2분 전",
+    "url": "https://www.newsis.com/view/NISX20260910_0003784045",
+    "title": "병든 노모 방치해 사망, 시신은 암매장…연금은 타먹었다",
+    "summary": [
+      "[김천=뉴시스] 박홍식 기자 = 고령의 노모를 수발하다가 힘들다는 이유로 어머니를 방치해 숨지게 하고 시신을 암매장한 아들이 재판에 넘겨졌다.",
+      "대구지검 김천지청 형사1부(부장검사 임지수)는 A(60대)씨를 존속유기치사·시체유기 혐의로 구속 기소했다고 10일 밝혔다.",
+      "A씨는 지난해 4월15일 경북 구미시 자신의 주거지에서 모친(80대)의 건강상태가 악화됐음에도 방치해 사망에 이르게 하고 사흘 뒤 시신을 인근 야산에 암매장한 혐의를 받고 있다."
+    ],
+    "chips": [
+      "#의료"
+    ]
+  },
+  {
+    "id": "n68fb56ac",
+    "category": "IT",
+    "source": "조선일보",
+    "time": "2분 전",
+    "url": "https://www.chosun.com/economy/tech_it/2026/09/10/V7ZN7UF3RJHMBGOOPIQW7QYJRU/",
+    "title": "신제품 나오면 구형값 내리던 애플, 이번엔 100달러 올려",
+    "summary": [
+      "신제품 나오면 구형값 내리던 애플, 이번엔 100달러 올려."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n3dffe841",
+    "id": "n1752200d",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "2분 전",
+    "url": "https://www.newsis.com/view/NISX20260910_0003784063",
+    "title": "한국만화영상진흥원, 만화 비평지 '지금, 만화' 30호 발간",
+    "summary": [
+      "[부천=뉴시스] 김지현 기자 = 한국만화영상진흥원은 국내 유일 만화 비평 전문지 '지금, 만화' 30호를 발간했다고 10일 밝혔다.",
+      "'지금, 만화'는 2018년 창간 이후 매년 4호씩 발간되며 국내 유일 만화비평지로 자리 잡았다.",
+      "이번 30호는 '퓨전 장르'를 주제로 서로 다른 장르의 결합과 새로운 문법을 다각도로 다룬다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nf9f969f4",
+    "category": "IT",
+    "source": "아시아경제",
+    "time": "3분 전",
+    "url": "https://view.asiae.co.kr/article/2026091010563760621",
+    "title": "N번방 모방 '자경단' 총책 김녹완, 대법 무기징역 확정",
+    "summary": [
+      "성폭력 범죄집단인 '자경단'에서 총책 역할을 한 김녹완에게 무기징역이 확정됐다.",
+      "대법원 2부(주심 권영준 대법관)는 10일 청소년성보호법상 성착취물 제작, 강간 등 상해 등 혐의로 기소된 김녹완에게 이같이 선고한 원심 판결을 확정했다.",
+      "전자장치 부착 30년과 아동·청소년 및 장애인 관련기관 취업제한 10년, 신상공개 및 고지 10년 명령도 유지했다."
+    ],
+    "chips": [
+      "#취업"
+    ]
+  },
+  {
+    "id": "n937fa746",
     "category": "경제",
     "source": "아시아경제",
-    "time": "3분 전",
-    "url": "https://view.asiae.co.kr/article/2026091008360854071",
-    "title": "롯데정밀화학, 美 아모지와 그린암모니아 청정에너지 사업 협력",
+    "time": "4분 전",
+    "url": "https://view.asiae.co.kr/article/2026090915033804823",
+    "title": "[머니버스]트렌드 비즈니스의 트렌드",
     "summary": [
-      "롯데정밀화학이 미국 암모니아 기반 수소 생산·발전 기업 아모지(Amogy)와 그린암모니아를 활용한 청정에너지 사업 확대에 나선다.",
-      "롯데정밀화학은 9일 아모지와 암모니아 기반 청정에너지 사업 협력을 위한 업무협약(MOU)을 체결했다고 10일 밝혔다.",
-      "협약식에는 신유열 롯데지주 미래성장실장도 참석했다."
+      "바람은 온라인 서점에서 먼저 불어온다.",
+      "가을로 접어드는 요즘, 온라인 서점에는 내년을 내다보는 책이 보인다.",
+      "'트렌드 코리아 2027' '2027 트렌드 노트' 등이다."
     ],
     "chips": [
-      "#전기차"
+      "#뉴스"
     ]
   },
   {
-    "id": "n806076b3",
+    "id": "nc0a72b5a",
     "category": "사회",
     "source": "아시아경제",
-    "time": "3분 전",
-    "url": "https://view.asiae.co.kr/article/2026091008354016797",
-    "title": "메타케어, 두타스테리드 0.2mg 탈모치료제 출시",
+    "time": "5분 전",
+    "url": "https://view.asiae.co.kr/article/2026091010545546111",
+    "title": "'K공기청정 기술' 인도 철도시장 진출…\"실증 거쳐 해외진출 확대\"",
     "summary": [
-      "메타케어가 저용량 두타스테리드 제품을 앞세워 탈모치료제 시장에 본격 진출한다.",
-      "모회사 메타랩스가 보유한 의료·데이터 사업과 연계해 탈모 치료 전 과정을 아우르는 사업 생태계 구축에도 나선다는 전략이다.",
-      "메타케어는 시어스제약과 두타스테리드 0.2mg 탈모치료제 위탁생산 계약을 체결하고 제품 생산과 유통 준비를 거쳐 판매에 나설 예정이라고 10일 밝혔다."
+      "국산 소형 공기청정 기술이 인도 철도시장에 진출한다.",
+      "해당 기술은 미세먼지 문제가 심각한 현지 실정을 반영해 공기청정 성능을 오래 유지하면서, 기존 열차 공조장치에 구조 변경 없이 설치할 수 있도록 개발된다.",
+      "한국기계연구원(기계연)은 친환경 에너지연구본부 도시환경연구실 김상복·박인용 책임연구원과 김영훈 선임연구원 연구팀이 기계연 가족기업 ㈜티에이치엔과 공동으로 인도 현지 열차에 적용할 수 있는 '소형 전기집진 공기청정 모듈' 개발에 착수했다고."
     ],
     "chips": [
-      "#의료"
+      "#환경"
     ]
   },
   {
-    "id": "ncc6e46e0",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "4분 전",
-    "url": "https://www.donga.com/news/Society/article/all/20260910/134640283/1",
-    "title": "신안군 50대 어부, 해상 작업 중 어구에 끼여 숨져",
-    "summary": [
-      "전남광주시 신안군 자은도 인근 해상에서 작업 중이던 50대 남성이 어구 사이에 끼여 숨지는 사고가 발생했다.10일 목포해양경찰서 등에 따르면 전날 오전 6시 55분쯤 전남광주 신안군 자은도 해상에서 작업 중이던 50대 A 씨가 어구 사이에 끼였다.“A 씨가 작업 중 의식을 잃었다”는 동료 선원의 신고를 받고 출동한 해경과 소방 당국은 심정지 상태인 A 씨에게 심폐소생술(CPR)을 실시하며 인근 병원으로 이송했으나 숨졌다.해경은 정확한 사고 경위."
-    ],
-    "chips": [
-      "#의료"
-    ]
-  },
-  {
-    "id": "n1d09e674",
+    "id": "nacffa55d",
     "category": "경제",
     "source": "연합뉴스(경제)",
-    "time": "4분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260910026100002",
-    "title": "구윤철 \"1인당 국민소득 4만달러 달성 가능성 더 커져\"",
-    "summary": [
-      "(세종=연합뉴스) 이대희 기자 = 구윤철 부총리 겸 재정경제부 장관은 10일 \"금년도 1인당 국민총소득(GNI) 4만달러 가능성이 더욱 확대됐다..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n13dedb29",
-    "category": "사회",
-    "source": "동아일보",
     "time": "5분 전",
-    "url": "https://www.donga.com/news/Society/article/all/20260910/134640273/1",
-    "title": "10억 자산가 행세해 혼인신고…아내·아들 상대 사기행각 벌인 50대",
+    "url": "https://www.yna.co.kr/view/AKR20260910064000061",
+    "title": "연 1만8천% '상품권 사채'로 30대 비극 내몬 일당, 1심서 실형",
     "summary": [
-      "재력가인 것처럼 속여 결혼한 뒤 아내와 의붓 아들을 상대로 억대 사기행각을 벌인 50대가 실형을 선고받고 법정 구속됐다.",
-      "이 남성은 다른 사기사건으로 수사와 재판을 받고 있는 중에 이 같은 범행을 저지른 것으로 드러났다.",
-      "전주지법 형사5단독(문주희 부장판사)은 사기와 컴퓨터등사용사기 등 혐의로 불구속 기소된 A 씨(54)에게 징역 2년 6개월을 선고하고 법정 구속했다고 10일 밝혔다.A 씨는 지난 2022년 10월부터 2024년 2월까지 B 씨."
+      "(수원=연합뉴스) 권준우 기자 = 소액 급전을 대출해주고 상환 시점에 더 큰 금액의 상품권으로 돌려받는 이른바 '상품권 예약판매' 수법으로 연 ..."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "na33b24a5",
+    "id": "n51a347f7",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "5분 전",
+    "url": "https://www.chosun.com/politics/assembly/2026/09/10/7ECVXQ4UDFAYPJCDBZK7X5YKXE/",
+    "title": "김승원 “한동훈, 녹취록 악의적 왜곡” 韓 “자폭성 입장” 재반박",
+    "summary": [
+      "김승원 “한동훈, 녹취록 악의적 왜곡” 韓 “자폭성 입장” 재반박."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n13d3193b",
     "category": "경제",
-    "source": "아시아경제",
+    "source": "연합뉴스(경제)",
     "time": "5분 전",
-    "url": "https://view.asiae.co.kr/article/2026091008335436347",
-    "title": "제주 국영목장 흔적 담긴 1633년 수의서…국립중앙도서관으로",
+    "url": "https://www.yna.co.kr/view/AKR20260910068200051",
+    "title": "해진공, 유럽 물류거점 확보 지원 강화…폴란드서 설명회",
     "summary": [
-      "창덕여자고등학교 휴게실에서 우연히 발견된 조선시대 희귀 고문헌 66책이 국립중앙도서관에 기증됐다.",
-      "국립중앙도서관은 창덕여고로부터 '동국문헌록', '신편집성마의방우의방' 등 고문헌 59종 66책을 기증받았다고 10일 밝혔다.",
-      "기증식은 전날 창덕여고 도서관에서 열렸다."
-    ],
-    "chips": [
-      "#교육"
-    ]
-  },
-  {
-    "id": "n9cc2afe1",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "6분 전",
-    "url": "https://www.newsis.com/view/NISX20260910_0003783509",
-    "title": "인천시, 생활임금 시간급 1만2630원 확정…5.1% 인상",
-    "summary": [
-      "[인천=뉴시스] 함상환 기자 = 인천시는 생활임금위원회 심의를 거쳐 2027년도 생활임금을 시간급 1만2630원으로 최종 결정했다고 10일 밝혔다.",
-      "이번에 확정된 금액은 올해 생활임금인 1만2010원보다 620원(5.1%) 인상된 수준이고 정부가 고시한 내년도 최저임금 1만700원과 비교하면 1930원(18%) 높은 금액이다.",
-      "저임금 노동자들의 안정적인 생활을 뒷받침하는 데 초점을 맞췄다."
+      "(부산=연합뉴스) 박창수 기자 = 한국해양진흥공사가 우리 물류기업의 유럽 거점 확보 지원을 강화한다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n8b7435e0",
-    "category": "스포츠",
-    "source": "머니투데이",
-    "time": "6분 전",
-    "url": "https://www.mt.co.kr/sports/2026/09/10/2026090915400244664",
-    "title": "\"정신 차려라\" 20세 韓 국가대표가 벌써 감독한테 '이런 소리를' 들으면 어쩌나, 사령탑 \"화가 났다\" 이례적 공개 쓴소리라니",
-    "summary": [
-      "공개적인 자리에서 좀처럼 선수를 향해 쓴소리를 하지 않는 김원형 두산 베어스 감독이 이례적으로 입을 열었다.",
-      "바로 국가대표 내야수 박준순(20)의 이야기다.",
-      "김 감독은 9일 서울 잠실야구장에서 펼쳐진 SSG 랜더스와 2026 신한 SOL KBO 리그 정규시즌 홈 경기를 앞두고 취재진과 인터뷰에서 박준순을 경기 도중 조기에 교체한 배경에 관해 설명했다."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
-    "id": "n14aade40",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "6분 전",
-    "url": "https://www.newsis.com/view/NISX20260910_0003783501",
-    "title": "[인천소식]시, 추석 연휴 공영주차장 642곳 무료 개방 등",
-    "summary": [
-      "[인천=뉴시스] 함상환 기자 = 인천시는 명절인 추석을 맞아 고향을 찾는 방문객들의 주차 편의를 돕고 도심 주차난을 해소하기 위해 공영주차장 및 공공기관 부설주자장 등 총 642개소를 연휴기간 무료개방 한다고 10일 밝혔다.",
-      "무료 개방 기간은 연휴 시작일인 24~27일이다.",
-      "시 직영 공영주차장 24개소는 연휴 앞뒤로 하루씩을 더해 총 6일간 추가로 확대 운영하고 관련 세부 내용은 인천시설공단 홈페이지를 통해 안내하고 있다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n5f58f2d2",
-    "category": "IT",
-    "source": "머니투데이",
-    "time": "7분 전",
-    "url": "https://www.mt.co.kr/stock/2026/09/10/2026091008281153955",
-    "title": "\"테스, 수주잔고 폭발적 성장…투자의견 '매수'·목표가 21만원\"-IBK",
-    "summary": [
-      "IBK투자증권은 10일 테스의 가파르게 성장하고 있는 수주잔고가 앞으로 주가 상승의 원동력이 될 것이라고 전망했다.",
-      "이에 투자의견 '매수'와 목표주가 21만원을 제시하고 커버리지를 시작했다.",
-      "강민구 IBK투자증권 연구원은 \"반도체 업계가 1000단 이상의 로드맵을 제시한 만큼 앞으로 고단화 트랜드에 따른 테스의 장비 수요도 지속 확대될 것으로 전망한다\"고 말했다."
-    ],
-    "chips": [
-      "#반도체"
-    ]
-  },
-  {
-    "id": "n9867c63e",
-    "category": "스포츠",
-    "source": "머니투데이",
-    "time": "8분 전",
-    "url": "https://www.mt.co.kr/sports/2026/09/10/2026090815461093979",
-    "title": "\"드래프트 끝나고 내 자신에게 화났다\" 프로 탈락 후 남은 후회, 174㎝ 이수인, 광주여대서 다시 날기 시작했다 [인터뷰]",
-    "summary": [
-      "키 174㎝ 아웃사이드히터 이수인(19·광주여대)에게 지난해 한국배구연맹(KOVO) 신인드래프트는 아직도 아쉬움으로 남아 있다.",
-      "프로에 가지 못했다는 결과 자체보다 그 과정에서 스스로에게 남긴 후회가 더 컸다.",
-      "이수인은 최근 광주여대에서 스타뉴스와 만나 \"사실 고등학교 3학년 때 운동을 그렇게 열심히 하지는 않았다."
-    ],
-    "chips": [
-      "#교육"
-    ]
-  },
-  {
-    "id": "nfbf0f6b7",
-    "category": "스포츠",
-    "source": "동아일보",
-    "time": "8분 전",
-    "url": "https://www.donga.com/news/Sports/article/all/20260910/134640245/1",
-    "title": "‘이강인 59분’ 아틀레티코, UCL서 리버풀에 1-2 패…PSG는 대승",
-    "summary": [
-      "한국 남자 축구 대표팀 핵심 자원인 이강인(25)의 소속팀인 스페인 프로축구 프리메라리가 아틀레티코 마드리드가 ‘꿈의 무대’ 유럽축구연맹(UEFA) 챔피언스리그(UCL) 첫 경기에서 잉글랜드 프로축구 프리미어리그(EPL) 리버풀에 무릎을 꿇었다.아틀레티코는 10일(한국 시간) 영국 리버풀의 안필드에서 열린 리버풀과의 2026~2027시즌 UCL 리그 페이즈 1라운드에서 1-2 역전패를 당했다.UCL에서 다소 불안한 출발을 보인 아틀레티코는 지난."
-    ],
-    "chips": [
-      "#EPL"
-    ]
-  },
-  {
-    "id": "ncbec485f",
+    "id": "n900a3bed",
     "category": "사회",
     "source": "연합뉴스",
-    "time": "9분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260910023500065",
-    "title": "인천시 내년도 생활임금 1만2천630원…올해보다 5.1%↑",
+    "time": "6분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260910071300030",
+    "title": "무신사 뷰티, 홍대에 첫 단독 매장 개점…1만2천개 상품 선봬",
     "summary": [
-      "(인천=연합뉴스) 홍현기 기자 = 인천시는 내년도 생활임금을 시급 1만2천630원으로 결정했다고 10일 밝혔다."
+      "(서울=연합뉴스) 이상서 기자 = 무신사 뷰티는 11일 첫 단독 오프라인 매장인 '무신사 뷰티 홍대'를 개점한다고 10일 밝혔다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n2fb315b2",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "6분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260910069500009",
+    "title": "트럼프, 1기 때 사이 틀어진 옛 개인 변호사 코언 사면 검토",
+    "summary": [
+      "(서울=연합뉴스) 임화섭 기자 = 도널드 트럼프 미국 대통령이 1기 임기 때 사이가 틀어졌던 옛 개인 변호사 마이클 코언을 사면해주는 방안을 검..."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n701181c0",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "6분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260910063300051",
+    "title": "예인선 실종자 행방은…해경, 침몰 선체 수중수색·인양 검토",
+    "summary": [
+      "(부산=연합뉴스) 이영재 기자 = 지난 2일 부산 앞바다에서 발생한 예인선 티엔에스캐처호 전복 사고 실종자 1명의 시신이 경북 포항 해변에서 발..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n6409f732",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "6분 전",
+    "url": "https://www.donga.com/news/Society/article/all/20260910/134641570/1",
+    "title": "성착취 집단 ‘자경단’ 총책 김녹완, 대법에서 무기징역 확정",
+    "summary": [
+      "역대 최대 규모 텔레그램 성착취방인 ‘목사방’ 총책 김녹완(34)이 무기징역을 확정받았다.",
+      "대법원 2부(주심 권영준 대법관)는 10일 김녹완의 아동·청소년의 성보호에 관한 법률 위반(성착취물제작 등, 강간 등 상해, 강간 등 치상), 범죄단체조직 등 혐의 상고심에서 무기징역을 선고한 원심을 확정했다.",
+      "신상공개 및 고지, 아동·청소년·장애인 관련 기관 취업 제한 각 10년, 전자장치 부착 30년 등 명령도 확정했다.김녹완은 2020년 초 ‘N번방."
+    ],
+    "chips": [
+      "#취업"
+    ]
+  },
+  {
+    "id": "n7e2ca64f",
+    "category": "경제",
+    "source": "아시아경제",
+    "time": "7분 전",
+    "url": "https://view.asiae.co.kr/article/2026091010520218937",
+    "title": "美, 장기국채 바이백 3배 확대에 금리 되레 상승 (종합)",
+    "summary": [
+      "미국 재무부가 9일(현지시간) 장기 국채 바이백(환매입) 규모를 지금보다 3배 확대한다고 밝혔으나 장기채 금리는 오히려 상승했다.",
+      "장기물 금리 급등에 바이백 확대에 나선 것인데 시장 기대치에는 못 미쳤다는 평가가 나온다.",
+      "이날 진행한 10년물 국채 입찰도 19년 만에 최고 수준의 낙찰금리를 기록하며 마감했다."
+    ],
+    "chips": [
+      "#금리"
+    ]
+  },
+  {
+    "id": "n2d7f2f68",
+    "category": "경제",
+    "source": "연합뉴스(경제)",
+    "time": "8분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260910068900004",
+    "title": "'1천억원대 탈세' 이상운 효성 부회장, 기소 13년만에 집유 확정",
+    "summary": [
+      "(서울=연합뉴스) 이영섭 기자 = 1천억원대 탈세 등 기업 비리 혐의에 관여한 혐의로 기소된 이상운 효성그룹 부회장이 재상고 끝에 대법원에서 징..."
     ],
     "chips": [
       "#뉴스"
@@ -644,20 +637,20 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2330건",
-    "trend": "+255%"
+    "mentions": "2200건",
+    "trend": "+235%"
   },
   {
     "rank": 2,
-    "tag": "반도체",
-    "mentions": "1420건",
-    "trend": "+115%"
+    "tag": "취업",
+    "mentions": "1550건",
+    "trend": "+135%"
   },
   {
     "rank": 3,
-    "tag": "부동산",
-    "mentions": "1420건",
-    "trend": "+115%"
+    "tag": "금리",
+    "mentions": "1550건",
+    "trend": "+135%"
   }
 ];
 // ====AUTO-GENERATED-END====
