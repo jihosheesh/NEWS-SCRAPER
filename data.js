@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-09-11 14:41:47
+// 마지막 업데이트: 2026-09-11 17:59:37
 window.NEWS_DB = [
   {
     "id": "n47c28e0a",
     "category": "IT",
     "source": "머니투데이",
-    "time": "7시간 전",
+    "time": "10시간 전",
     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1SZzFadXdoRVF5OGN6OGgzMFJ3ZGJSNjBGQkN0bDh1MExvQmgzWm15anVDWU5sbnZkOURkZ0ZOSEJ3dGVrOHR0bkEyU25tR3oyRUczbnhmM2lrRnFlb0piMXg3dFEyQ1N4ZW5sVTZ30gFuQVVfeXFMTVJnMVp1d2hFUXk4Y3o4aDMwUndkYlI2MEZCQ3RsOHUwTG9CaDNabXlqdUNZTmxudmQ5RGRnRk5IQnd0ZWs4dHRuQTJTbm1HejJFRzNueGYzaWtGcWVvSmIxeDd0UTJDU3hlbmxVNnc?oc=5",
     "title": "상장 첫날 \"주가 182% 폭등\"...중국판 엔비디아 노리는 '이 회사' - 머니투데이",
     "summary": [
@@ -19,7 +19,7 @@ window.NEWS_DB = [
     "id": "n9d47766e",
     "category": "IT",
     "source": "중기이코노미",
-    "time": "8시간 전",
+    "time": "12시간 전",
     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAzWUNnendiZE13cjNBcDhhWDZLdUtlQnFwcjBzMzhGSDNOT3g2S0RCM0FfTThkTTBQVHhkMmljbWNUMkpGRHBJYXN3SnVlbjhsa1YzYUR5Q05XQU5vU1pwanRqa0VRTDJITEE?oc=5",
     "title": "삼성전자 HBM4 매출 3배 급증, 점유율은 40% 육박 전망",
     "summary": [
@@ -34,7 +34,7 @@ window.NEWS_DB = [
     "id": "n890c5331",
     "category": "IT",
     "source": "연합뉴스",
-    "time": "15시간 전",
+    "time": "19시간 전",
     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBtZUF1bm9zeVdNRUVPNTZXOUpJdGdWYUluSHFXU3BOa1NBek9lN3R2alBKYThEcE5faXBUem1QZkQ3bVhaMWt3dUYtMU9PNXJlNEdfUnlja1VjcXPSAWBBVV95cUxPRUQ2UHJnNlI2VW9RWmJWV3Y4Zlh1aWZSUkg3d3FKQjUyWlAzNHdqTEhrY09KV3AzSVVkdkFlQkNrY1A1SVBNOGxPQ0dJY01xQm00VUtKVTcyYWYxUWFBT2s?oc=5",
     "title": "젠슨 황 \"다음 AI 거대 시장은 사이버 보안\"",
     "summary": [
@@ -134,6 +134,21 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n0a9cd638",
+    "category": "IT",
+    "source": "gtimes.co.kr",
+    "time": "10일 전",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1vMUcxenZqYlQ3Sjd6U1NrUjdDaW1KZFdOUm5GdjFoaUNNaWN1Ri1laTlfel9Md25PNXFHYzIxWFhrSzlXcndKSzhhY2JmYmkzTy0yMEpTTTlrUDhfTmZJcFZsSm00bElSdlE?oc=5",
+    "title": "관악S밸리 신규 입주기업 모집… “미래 유니콘 기업 육성”",
+    "summary": [
+      "관악S밸리 신규 입주기업 모집… “미래 유니콘 기업 육성” gtimes.co.kr."
+    ],
+    "chips": [
+      "#스타트업",
+      "#채용"
+    ]
+  },
+  {
     "id": "n82f6eb16",
     "category": "IT",
     "source": "twig24.com",
@@ -166,12 +181,12 @@ window.NEWS_DB = [
   {
     "id": "ndc5c8acf",
     "category": "사회",
-    "source": "복지뉴스",
+    "source": "bokjinews.com",
     "time": "21일 전",
     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1HdzFWTmNINFVObFVXanpkWFU0VHk2c0ZMRDlDYmE2LUx3NXFJZHp0V3lkRkhsamxDTWFKZEo2d05iV0pIOUplQkxKeFY2Q1J1QnhHczRpc1pOTzVqMnFJVm43elQxMUlK?oc=5",
     "title": "실업급여 구직활동 ‘취업활동 마일리지’로 바뀐다…9월 실업급여 반복수급자 대상 시범운영",
     "summary": [
-      "실업급여 구직활동 ‘취업활동 마일리지’로 바뀐다…9월 실업급여 반복수급자 대상 시범운영 복지뉴스."
+      "실업급여 구직활동 ‘취업활동 마일리지’로 바뀐다…9월 실업급여 반복수급자 대상 시범운영 bokjinews.com."
     ],
     "chips": [
       "#취업",
@@ -179,30 +194,28 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n94761311",
+    "id": "n0fbb40c3",
     "category": "경제",
-    "source": "뉴닉",
-    "time": "22일 전",
-    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE80a0hHQmI1RHZQZmR1RmJLcmJfb0tNZ3lZcUFJODZWZEY1dklFVW4yV3lDeE1qQXpQb3RxSk5haWtzZW80TnR5X1ZlMlBETERrYURF?oc=5",
-    "title": "권민수 한국은행 부총재가 취임하며 환율·성장·물가를 균형 있게 고려해 금리를 결정하겠다고 밝혔어요. ⚖️",
+    "source": "산경투데이",
+    "time": "39일 전",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBQRWVKOE84WWtLMk9yNUZ3a1MxY280b0xBYUg5RFRtNXkza2g5ZVZtMWtkdTRYTGZYZWlsd3gyczFIbGFnR0FRN2lXOC1wXzdhS0dCRlFPVFNybFRVajhUY3NWM1pOb2lQcTA3LWZNMl_SAXRBVV95cUxORWtoV1l1S0x4bTBWZU4xdjloeFlpZjVoNzhISlI1eHNSaWZfTTFBV1pCa05YX2ZqeHFjcElCbl9odEJSeXNpaGpCMkJQTElQQm4xX2Jib2tVUEQzMkgtTmhNU0xnMlhmakR3WF9VbjVpWmNYWQ?oc=5",
+    "title": "증시 충격에 흔들린 8월 금리 전망…채권시장 ‘동결 가능성’ 무게",
     "summary": [
-      "권민수 한국은행 부총재가 취임하며 환율·성장·물가를 균형 있게 고려해 금리를 결정하겠다고 밝혔어요."
+      "증시 충격에 흔들린 8월 금리 전망…채권시장 ‘동결 가능성’ 무게 산경투데이."
     ],
     "chips": [
-      "#금리",
-      "#한은",
-      "#환율"
+      "#금리"
     ]
   },
   {
     "id": "n1a764c5a",
     "category": "부동산",
-    "source": "뉴스핌",
+    "source": "newspim.com",
     "time": "50일 전",
     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5jaXQ1a1BmNlN6TVZWV29ucG5jajY3WlJIb2FQNEVPMnJXRWdYVHhxWnFnb3R6MG8tX3lsTTFxNFdFVjlzNmtMaFZVV0UtUUN1VWc4VEVScy1iWFIt?oc=5",
     "title": "집값·전셋값 뛰는데 청약 경쟁률은 '뚝'…수도권 주택시장 엇박자",
     "summary": [
-      "집값·전셋값 뛰는데 청약 경쟁률은 '뚝'…수도권 주택시장 엇박자 뉴스핌."
+      "집값·전셋값 뛰는데 청약 경쟁률은 '뚝'…수도권 주택시장 엇박자 newspim.com."
     ],
     "chips": [
       "#부동산"
@@ -211,12 +224,12 @@ window.NEWS_DB = [
   {
     "id": "n5ace0115",
     "category": "스포츠",
-    "source": "네이트",
+    "source": "sports.news.nate.com",
     "time": "85일 전",
     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5seTRoTHExRUtJQWp4UHlpNUh1c3lPaW1qcWVJWDg0a0dQUFdCYW5NVjFjWlVEWl9xbkRGUUtiWnYxTFpXZTNVSktDSlIzVzlTd3FXS1E0RzFGWnhG?oc=5",
     "title": "과연, 국민 스포츠…KBO리그, 월드컵 기간에도 끄떡없다",
     "summary": [
-      "과연, 국민 스포츠…KBO리그, 월드컵 기간에도 끄떡없다 네이트."
+      "과연, 국민 스포츠…KBO리그, 월드컵 기간에도 끄떡없다 sports.news.nate.com."
     ],
     "chips": [
       "#KBO"
@@ -269,12 +282,12 @@ window.NEWS_DB = [
   {
     "id": "n783ebe44",
     "category": "스포츠",
-    "source": "techm.kr",
+    "source": "테크M",
     "time": "163일 전",
     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4zeE1CWFFHZzZrMjhfLXJoWERMeW9jVzI5eF91RWV1NUxXelFvT1U5YWpyRjZaQ1NqclNTR1hoRWEwYl9qQmc4WTh5Q29TSWROU3ptQ1ZmXy1rajBVczZ1T1A0RXZ0UdIBakFVX3lxTE4tUUs3ak9IVFI3ZEtUQmg5NUpZbWRwdUN5OEFTU2JqaWN4WWJzMVJVc0pLU1U0UzVZTkRKMlRZSUIyNmhPVjVWMzBTVGxocHc2VUdVZl9rRWdUaXVxTjFSdUpzTzFPdEZHdnc?oc=5",
     "title": "'야구·축구·골프'로 갈라진 국내 OTT...스포츠 팬덤 경쟁 격화",
     "summary": [
-      "'야구·축구·골프'로 갈라진 국내 OTT...스포츠 팬덤 경쟁 격화 techm.kr."
+      "'야구·축구·골프'로 갈라진 국내 OTT...스포츠 팬덤 경쟁 격화 테크M."
     ],
     "chips": [
       "#KBO"
@@ -283,12 +296,12 @@ window.NEWS_DB = [
   {
     "id": "n80dc1407",
     "category": "스포츠",
-    "source": "joongang.co.kr",
+    "source": "중앙일보",
     "time": "185일 전",
     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1kSmhBTDdKY1NsbWktSU80SFYtRWN3VGpnQjRNeEpaNF9LZVo0ZS1wb19tbkZxQUJMOU1NYjVTdVpPLW9aMW9hN0ZRQXVWY3hjQl81MG1R?oc=5",
     "title": "축구는 손흥민, 야구는 이정후…대표팀 주장의 품격",
     "summary": [
-      "축구는 손흥민, 야구는 이정후…대표팀 주장의 품격 joongang.co.kr."
+      "축구는 손흥민, 야구는 이정후…대표팀 주장의 품격 중앙일보."
     ],
     "chips": [
       "#손흥민",
@@ -358,276 +371,260 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n0ce286e8",
+    "id": "n4cdf26b8",
     "category": "사회",
-    "source": "조선일보",
-    "time": "6분 전",
-    "url": "https://www.chosun.com/opinion/specialist_column/2026/09/11/LSH6RG563FGWVOTS7ROSV7F7BA/",
-    "title": "[박진배의 공간과 스타일] [357] 사람을 잇는 정원",
+    "source": "뉴시스",
+    "time": "16분 전",
+    "url": "https://www.newsis.com/view/NISX20260912_0003786624",
+    "title": "美 CIA, 9·11 이전 수 차례 백악관에 “알카에다 테러 가능성” 보고",
     "summary": [
-      "[박진배의 공간과 스타일] [357] 사람을 잇는 정원."
+      "[서울=뉴시스] 구자룡 기자 = 미국 최악의 테러인 9·11 25주년을 맞은 11일 중앙정보국(CIA)은 수 년전부터 백악관에 알 카에다의 테러 가능성에 대한 보고를 올렸다는 문서를 공개했다.",
+      "공개 문서는 오사마 빈 라덴과 알카에다에 대해 테러 공격 직전까지 파악했던 내용을 상세히 담은 것으로 이전에는 공개된 적 없는 대통령 정보 보고서 69건이다.",
+      "CIA는 이날 빌 클린턴 대통령과 조지 W."
     ],
     "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n5c6486e2",
-    "category": "부동산",
-    "source": "동아일보",
-    "time": "11분 전",
-    "url": "https://www.donga.com/news/Opinion/article/all/20260911/134653751/2",
-    "title": "[사설]임기 1/4 시점 30%대 지지율… 李 귀 더 열고 몸 더 낮춰야",
-    "summary": [
-      "한국갤럽이 11일 발표한 여론조사 결과 이재명 대통령의 직무 수행에 대해 ‘잘하고 있다’는 응답이 38%, ‘잘못하고 있다’는 응답이 51%로 나왔다.",
-      "이 대통령 국정 지지율은 8월 들어 50% 아래로 떨어지면서 하락 추세를 이어왔고 이번에 전주보다 2%포인트 하락했다.",
-      "갤럽 조사에서 30%대로 떨어진 것은 이 대통령 취임 후 처음이다."
-    ],
-    "chips": [
-      "#부동산",
-      "#정책",
       "#정치"
     ]
   },
   {
-    "id": "nac6e639c",
-    "category": "부동산",
-    "source": "연합뉴스(경제)",
-    "time": "13분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260911162351003",
-    "title": "서울 유일 신규택지 '삐걱'…염창공원 설명회, 주민 반발로 무산(종합)",
+    "id": "na6f7b943",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "24분 전",
+    "url": "https://www.chosun.com/sports/baseball/2026/09/12/HBSTEOJWG5STSNJQGA2DEYLGGI/",
+    "title": "“50홈런 못 쳐도 좋은 타자로 남고 싶다” 디아즈의 진심…아내가 준 네잎클로버와 구자욱의 한마디 [오!쎈 대구]",
     "summary": [
-      "(서울=연합뉴스) 오진송 기자 = 정부의 8·13 주택 공급 대책에서 서울 내 유일한 신규 공공택지로 발표된 강서구 염창근린공원 훼손지 개발을 ..."
+      "[OSEN=대구, 손찬익 기자] “지난해처럼 50홈런을 치지 못하더라도 계속 좋은 타자로 남을 수 있었으면 좋겠다”.프로야구 삼성 라이온즈 외국인 타자 르윈 디아즈가 모처럼 활짝 웃었다.",
+      "최근 마음고생이 적지 않았던 그에게는 단순히 홈런 두 방을 터뜨린 것 이상의 의미가 있는 하루였다.디아즈는 지난 11일 대구삼성라이온즈파크에서 열린 키움 히어로즈와의 홈경."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
+    "id": "n335df1c2",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "26분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260911099451009",
+    "title": "\"이란-걸프국, 호르무즈 통항 위해 14일 첫 장관급 회동\"(종합)",
+    "summary": [
+      "(요하네스버그·서울=연합뉴스) 나확진 특파원 강훈상 기자 = 이란과 걸프지역 국가들이 호르무즈 통항에 대한 해결책을 논의하기 위해 14일(현지시..."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n09c62079",
+    "id": "n0d2566ba",
+    "category": "경제",
+    "source": "뉴시스",
+    "time": "29분 전",
+    "url": "https://www.newsis.com/view/NISX20260911_0003785972",
+    "title": "\"숫자에 매몰되면 실패\"…5000만원으로 17억 만든 공무원 출신 투자자의 기업 분석 방법",
+    "summary": [
+      "[서울=뉴시스]이지우 인턴 기자 = 5000만원으로 미국 주식 투자를 시작해 4년 만에 17억원까지 자산을 불린 투자자가 기업 공부에 관심을 가져야 한다고 강조했다.",
+      "지난 8일 KBS 경제한방에 출연한 공무원 출신 전업 투자자 파돌댁 작가는 시장의 변화를 예측해 대응하기보다 기업의 사업 모델과 실적, 성장 가능성을 꾸준히 분석하는 것이 중요하다고 말했다.",
+      "작가는 과거 11년 동안 공무원으로 근무한 이력이 있다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n73e0ca7f",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "29분 전",
+    "url": "https://www.chosun.com/sports/volleyball/2026/09/12/MNQTIODCGY3TCMJVGRSDSMRWMM/",
+    "title": "“한국, 대체 어떤 팀이야?” 결승 길목서 만난 日 초긴장…‘득점 2위’ 허수봉에 ‘수호신’ 박경민까지",
+    "summary": [
+      "[OSEN=손찬익 기자] 한국과 일본 남자 배구가 아시아 정상으로 향하는 길목에서 만난다.",
+      "일본 현지에서도 숙명의 한일전을 앞두고 한국의 전력을 집중 조명하며 경계심을 드러냈다.일본 스포츠 매체 ‘스포츠호치’는 지난 11일 “일본의 준결승 상대 한국은 어떤 팀인가.",
+      "역대 맞대결은 65승 64패."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n4b5252a9",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "37분 전",
+    "url": "https://www.donga.com/news/Culture/article/all/20260912/134654354/1",
+    "title": "기타리스트 박규희 “스승과 무대에 서는 게 믿기지 않아요”",
+    "summary": [
+      "“선생님은 저에게 늘 동경의 대상이었다.",
+      "어렸을 때부터 선생님을 팬으로서도 좋아했었고 그렇기 때문에 비엔나에 갔었다.",
+      "기타리스트로서 동등한 무대에 서는 게 저에게는 큰 의미가 있고 믿기지 않고 설레는 마음입니다.”한국 클래식 기타의 역사를 써온 기타리스트 박규희가 11일 대구 범어대성당 드망즈홀에서 열린 ‘알바로 피에리’ 리사이틀에 특별 출연해 스승과 공연의 의미를 이같이 밝혔다.박규희는 이날 뉴시스와 인터뷰에서 “처음 선생님의 연주를 들었을."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nb8199d88",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "38분 전",
+    "url": "https://www.donga.com/news/Inter/article/all/20260912/134654350/1",
+    "title": "다이애나 ‘복수 드레스’ 12월 소더비 경매에…예상 최고가 약 4억원",
+    "summary": [
+      "영국 다이애나 왕세자비의 ‘복수 드레스’가 경매에 나온다고 BBC 방송이 11일 보도했다.",
+      "다이애나는 1994년 6월 별거 중이던 남편 찰스 왕세자(현 찰스 3세 국왕)가 결혼 생활 중 간통을 저질렀다고 시인한 지 몇 시간 후 런던의 한 파티에서 어깨끈이 없는 검은색 실크 이브닝드레스를 입었다.",
+      "경매회사 소더비는 이 드레스가 12월 9일 경매에 부쳐질 때 최대 22만 파운드(약 3억 9800만원)에 낙찰될 것으로 예상하고 있다고 BBC는 전했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n77948ca2",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "40분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260911149552099",
+    "title": "호르무즈 이어 홍해 비상…\"후티, 바브엘만데브 해협 통제권 확보\"(종합2보)",
+    "summary": [
+      "(요하네스버그=연합뉴스) 나확진 특파원 = 예멘의 친이란 후티 반군이 홍해 입구 바브엘만데브 해협 일대를 빠르게 장악하면서 호르무즈 해협에 이어..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n1671e2a0",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "44분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260912002300091",
+    "title": "틱톡, 'SNS 청소년보호 동참' 메타광고 게재 거부…\"정치적 내용\"",
+    "summary": [
+      "(샌프란시스코=연합뉴스) 권영전 특파원 = 동영상 플랫폼 틱톡이 청소년 보호 사회관계망서비스(SNS) 합의에 동참하라는 내용의 경쟁사 메타의 광..."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n0c0b2503",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "46분 전",
+    "url": "https://www.chosun.com/entertainments/broadcast/2026/09/12/GEZWGMJWMEYWEMDEME3TKYLGMQ/",
+    "title": "'27kg 감량' 다나, 잠적 중 4년만 근황 공개…\"잘 지내고 있어요\" [Oh!쎈 이슈]",
+    "summary": [
+      "[OSEN=장우영 기자] 그룹 천상지희 더 그레이스 출신 가수 다나의 근황이 공개됐다.다나는 12일 소셜 미디어 스토리를 통해 “놀라셨나요.",
+      "갑자기 들어와보고 싶었어요.",
+      "이 계정은 정말 오랜만이네요."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n0033d913",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "48분 전",
+    "url": "https://www.chosun.com/sports/baseball/2026/09/12/GQ4GKNJYGVQWIMRUGVRGINBXGI/",
+    "title": "'실책 또 실책' 허무한 2실점→공격적 투구로 KK 3회 깔끔정리...또 연패 삭제한 197승 대투수 \"내 힘으로 어수선한 흐름 끊고 싶었다\"",
+    "summary": [
+      "[OSEN=광주, 이선호 기자] \"내 힘으로 흐름을 끊으려 했다\".",
+      "KIA 타이거즈 좌완 베테랑 양현종(38)이 통산 200승 대기록에 3승을 남겼다.",
+      "11일 광주-기아 챔피언스필드에서 열린 2026 신한 SOL KBO리그 SSG 랜더스와의 팀간 15차전에 선발등판해 5⅓이닝 4피안타 2볼넷 7탈삼진 비자책 2실점의 호투를 했다."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
+    "id": "ne24f0882",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "48분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260912002000009",
+    "title": "'남미 트럼프' 밀레이, 블랙호크 도입하며 친미 안보 굳건히",
+    "summary": [
+      "(부에노스아이레스=연합뉴스) 김선정 통신원 = '남미 트럼프' 하비에르 밀레이 아르헨티나 대통령이 미국의 블랙호크를 도입하면서 친미 안보 협력을..."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "nfc79e78a",
+    "category": "사회",
+    "source": "연합뉴스(경제)",
+    "time": "1시간 전",
+    "url": "https://www.yna.co.kr/view/AKR20260912001400071",
+    "title": "트럼프 투표 호소한 날 경윳값 사상최고…장바구니 민심 직격탄",
+    "summary": [
+      "(워싱턴=연합뉴스) 홍정규 특파원 = 도널드 트럼프 미국 대통령과 공화당이 전당대회를 열어 다진 '중간선거 필승' 결의에 경유 가격 급등이라는 ..."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n053f8159",
     "category": "경제",
     "source": "동아일보",
-    "time": "14분 전",
-    "url": "https://www.donga.com/news/Opinion/article/all/20260911/134653755/2",
-    "title": "[사설]중동 이중병목에 에브리싱 랠리까지… 복합위기 대비를",
+    "time": "1시간 전",
+    "url": "https://www.donga.com/news/Economy/article/all/20260912/134654327/1",
+    "title": "“비트코인, 3년 뒤 5억 간다”…파격 전망 나온 이유",
     "summary": [
-      "예멘의 친이란 무장단체 후티 반군이 홍해 입구의 전략 요충지인 모카 항구와 하니시 제도를 장악하면서 중동발 안보·경제 위기감이 한층 커지고 있다.",
-      "미국-이란 전쟁으로 호르무즈 해협의 통항이 사실상 막힌 상황에서 우회 수송로인 홍해 관문마저 위협받는 ‘이중 병목’ 위기가 현실화한 것이다.",
-      "여기에 국제유가가 배럴당 100달러를 다시 넘어섰을 뿐만 아니라 각종 원자재 가격이 일제히 치솟는 이례적인 ‘에브리싱 랠리’까지 펼쳐지고 있다."
+      "비트코인이 3년여 후에는 40만달러(약 5억3800만원)까지 오를 수 있다는 전망이 나왔다.",
+      "다음 반감기가 약 1년 7개월 앞으로 다가온 가운데 향후 1~2년간 상승 흐름이 이어질 수 있다는 분석에서다.11일(현지 시간) 디크립트에 따르면 브라이언 암스트롱 코인베이스 최고경영자(CEO)는 CNBC와 인터뷰에서 “비트코인이 2030년 40만달러를 돌파하는 것은 여전히 합리적인 목표”라고 밝혔다.",
+      "현재 가격대(7만7000달러)와 비교하면 3년여 만."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "nc81b624a",
-    "category": "IT",
-    "source": "뉴시스",
-    "time": "16분 전",
-    "url": "https://www.newsis.com/view/NISX20260911_0003786613",
-    "title": "'반도체 호황' 삼전닉스 계약학과 지원 19.4%↑…경쟁률 역대 최고",
+    "id": "nf8fad87a",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "1시간 전",
+    "url": "https://www.donga.com/news/Sports/article/all/20260912/134653676/2",
+    "title": "‘투포환’ 박시훈 “亞게임 기록이 내 최고기록”",
     "summary": [
-      "[서울=뉴시스] 고홍주 기자 = 2027학년도 대입 수시모집에서 삼성전자와 SK하이닉스 취업과 연계된 5개 대학 반도체 계약학과 지원자가 전년 대비 19.4% 늘어난 것으로 집계됐다.",
-      "지원자 수와 경쟁률 모두 학과 개설 이후 역대 최고치다.",
-      "11일 종로학원에 따르면 연세대·고려대·성균관대·서강대·한양대의 반도체 계약학과 수시 지원자는 총 5992명이다."
+      "한국 육상 포환던지기 기대주 박시훈(19)의 별명은 ‘토르’다.",
+      "키 190cm, 몸무게 137kg의 거구인 박시훈이 무거운 포환을 힘차게 던지는 모습을 보고 있으면 망치를 휘두르며 괴력을 발휘하는 마블스튜디오 영화 속 ‘천둥의 신’ 토르가 떠오른다.",
+      "최근 경북 구미시민운동장에서 본보와 만난 박시훈은 “중학생 때부터 토르로 불렸다."
     ],
     "chips": [
-      "#반도체",
-      "#삼성전자",
-      "#SK하이닉스",
       "#채용"
     ]
   },
   {
-    "id": "n254bb917",
-    "category": "부동산",
-    "source": "동아일보",
-    "time": "17분 전",
-    "url": "https://www.donga.com/news/Opinion/article/all/20260911/134653753/2",
-    "title": "[사설]철거민 특공, 꼼수 절세… 아연실색할 장관 후보들의 재테크",
+    "id": "na3f6c43c",
+    "category": "경제",
+    "source": "한국경제",
+    "time": "2시간 전",
+    "url": "https://www.hankyung.com/article/202609119935i",
+    "title": "[반론보도] 「중대재해 '볼모'로 정년연장 요구한 HL만도 노조」 등 4건 관련",
     "summary": [
-      "강신철 국방부 장관 후보자는 2008년 3월 강원도 화천 부대에서 복무하던 중 1997년 증여를 받은 본인 소유 서울 구로구 천왕동 집으로 주민등록을 옮겼다.",
-      "같은 날 제주도에 살던 강 후보자 부친도 이 집으로 전입했다가 사흘 뒤 인근 주택으로 세대 분가했다.",
-      "이들은 이후 각각 철거민 자격을 얻어 서울 서초구 아파트를 특별공급으로 분양받았다."
-    ],
-    "chips": [
-      "#부동산"
-    ]
-  },
-  {
-    "id": "n5a492915",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "21분 전",
-    "url": "https://www.donga.com/news/Economy/article/all/20260911/134654096/1",
-    "title": "GC녹십자, 코로나19 mRNA 백신 임상 2상 시험계획 승인…“국산 백신 자급화에 한 발짝”",
-    "summary": [
-      "GC녹십자는 식품의약품안전처(식약처)로부터 코로나19 mRNA(메신저 리보핵산) 백신 후보물질 ‘GC4006A’의 국내 임상 2상 시험계획(IND)을 승인받았다고 11일 밝혔다.이번 임상 2상은 만 19세~85세의 건강한 성인 및 고령자를 대상으로 활성대조군과 직접 비교를 통해 GC4006A의 최적 임상 용량 및 면역원성 평가에 중점을 두고 진행된다.",
-      "연내 첫 환자 투약을 시작해 임상에 본격적으로 착수하고 내년 임상 3상 IND를 제출한다는 계."
-    ],
-    "chips": [
-      "#의료"
-    ]
-  },
-  {
-    "id": "n0e7accbe",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "23분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260911150251109",
-    "title": "3천㎞ 밖 러시아 가스시설 때린 우크라에 마냥 못 웃는 유럽(종합)",
-    "summary": [
-      "(로마=연합뉴스) 민경락 특파원 = 우크라이나가 국경에서 3천㎞ 떨어진 러시아 가스시설 공격에 성공했지만 유럽 지역의 가스 가격이 급등하면서 유..."
+      "[반론보도] 「중대재해 '볼모'로 정년연장 요구한 HL만도 노조」 등 4건 관련."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "nf062252e",
+    "id": "n371e8e26",
     "category": "경제",
     "source": "한국경제",
-    "time": "31분 전",
-    "url": "https://www.hankyung.com/article/202609119853i",
-    "title": "美 근원 CPI 예상 웃돌아…금리인상 확률 90% 육박",
+    "time": "2시간 전",
+    "url": "https://www.hankyung.com/article/2026083130677",
+    "title": "[오늘의 운세] 9월 12일 띠별 운세",
     "summary": [
-      "美 근원 CPI 예상 웃돌아…금리인상 확률 90% 육박."
-    ],
-    "chips": [
-      "#금리"
-    ]
-  },
-  {
-    "id": "n01ff12c9",
-    "category": "경제",
-    "source": "뉴시스",
-    "time": "31분 전",
-    "url": "https://www.newsis.com/view/NISX20260911_0003786612",
-    "title": "美 9·11 25주년 추도식 뉴욕·워싱턴 등서 열려…희생자 약 3000명 이름 불러",
-    "summary": [
-      "[서울=뉴시스] 구자룡 기자 = 미국 역사상 가장 참혹한 테러였던 9·11 뉴욕 세계무역센터(WTC) 빌딩 등에 대한 항공기 충돌 테러 25년을 맞아 뉴욕과 워싱턴 등에서 추모식이 열렸다.",
-      "이날 뉴욕 맨해튼의 WTC 테러 현장의 그라운드 제로에서는 WTC, 워싱턴 펜타곤 그리고 펜실베이니아주 생크스빌 등에서 발생한 테러 공격으로 희생된 약 3000여명의 이름을 낭독하는 행사가 진행됐다.",
-      "뉴욕 추모식은 오전 8시 46분에 시작됐으며 아메리칸 항공."
-    ],
-    "chips": [
-      "#수출"
-    ]
-  },
-  {
-    "id": "naf8b3bef",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "34분 전",
-    "url": "https://www.newsis.com/view/NISX20260911_0003786609",
-    "title": "집게차 작업 도중 철제 구조물에 충돌…40대 심정지",
-    "summary": [
-      "[전남광주=뉴시스]이영주 기자 = 11일 오후 7시35분께 전남광주 북구 월출동 한 공사현장 내 도로에서 노동자 A(49)씨가 H형 철제 구조물에 치였다.",
-      "이 사고로 심정지 상태를 겪은 A씨가 이송돼 치료 중이다.",
-      "사고 당시 A씨는 집게차를 조작하고 있었던 것으로 파악됐다."
+      "[오늘의 운세] 9월 12일 띠별 운세."
     ],
     "chips": [
       "#뉴스"
-    ]
-  },
-  {
-    "id": "ncc546e07",
-    "category": "경제",
-    "source": "한국경제",
-    "time": "36분 전",
-    "url": "https://www.hankyung.com/article/2026091199201",
-    "title": "美 8월 근원 CPI 예상치 웃돌아…금리 인상 가능성 커졌다",
-    "summary": [
-      "美 8월 근원 CPI 예상치 웃돌아…금리 인상 가능성 커졌다."
-    ],
-    "chips": [
-      "#금리"
-    ]
-  },
-  {
-    "id": "n27233203",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "38분 전",
-    "url": "https://www.newsis.com/view/NISX20260911_0003785933",
-    "title": "문지애·전종환 \"명절에 같이 있는 게 스트레스\"",
-    "summary": [
-      "[서울=뉴시스]박재민 인턴 기자 = 아나운서 문지애와 MBC 기자 출신 남편 전종환이 명절에 가족과 오랜 시간 함께 있는 것이 스트레스라고 털어놨다.",
-      "문지애는 10일 유튜브 채널 '생활명품 문지애'에서 남편 전종환과 함께 명절 때 스트레스를 받는 원인에 대해 이야기했다.",
-      "전종환은 \"결혼한 지 15년 됐다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "na67cb084",
-    "category": "경제",
-    "source": "한국경제",
-    "time": "38분 전",
-    "url": "https://www.hankyung.com/article/2026091199217",
-    "title": "뉴욕증시, 유가 하락에 상승 출발…CPI 발표 후 금리인상 가능성↑",
-    "summary": [
-      "뉴욕증시, 유가 하락에 상승 출발…CPI 발표 후 금리인상 가능성↑."
-    ],
-    "chips": [
-      "#금리"
-    ]
-  },
-  {
-    "id": "n665bde07",
-    "category": "경제",
-    "source": "연합뉴스",
-    "time": "38분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260911166552072",
-    "title": "美 8월 근원소비자물가 상승률 예상 웃돌아…금리인상 관측 커져(종합)",
-    "summary": [
-      "(뉴욕=연합뉴스) 김연숙 특파원 = 미국의 소비자물가 상승세가 여전히 견조한 것으로 나타났다."
-    ],
-    "chips": [
-      "#금리"
-    ]
-  },
-  {
-    "id": "n2317652e",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "39분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260911170200051",
-    "title": "부산대 등 부산 국립대, 높은 입학 경쟁률…사립대는 편차",
-    "summary": [
-      "(부산=연합뉴스) 민영규 기자 = 정부가 내년부터 지방 국립대학교의 등록금을 전액 지원하기로 함에 따라 부산지역 국립대가 수시모집에서 높은 경쟁..."
-    ],
-    "chips": [
-      "#채용",
-      "#교육"
-    ]
-  },
-  {
-    "id": "ncdcb8ea1",
-    "category": "경제",
-    "source": "한국경제",
-    "time": "49분 전",
-    "url": "https://www.hankyung.com/article/2026091199161",
-    "title": "美 물가 우려에 10년물 금리 年 5% 돌파",
-    "summary": [
-      "美 물가 우려에 10년물 금리 年 5% 돌파."
-    ],
-    "chips": [
-      "#금리"
-    ]
-  },
-  {
-    "id": "nd5b6a00d",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "1시간 전",
-    "url": "https://www.chosun.com/sports/baseball/2026/09/11/GD3P5QYDO5H4FO72CE4MUS3ZZA/",
-    "title": "가울야구 불씨 살렸다 ... NC, 한화 잡고 3연승 질주",
-    "summary": [
-      "가울야구 불씨 살렸다 ... NC, 한화 잡고 3연승 질주."
-    ],
-    "chips": [
-      "#KBO"
     ]
   }
 ];
@@ -637,18 +634,18 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2200건",
-    "trend": "+235%"
+    "mentions": "2720건",
+    "trend": "+315%"
   },
   {
     "rank": 2,
-    "tag": "금리",
-    "mentions": "1940건",
-    "trend": "+195%"
+    "tag": "채용",
+    "mentions": "1550건",
+    "trend": "+135%"
   },
   {
     "rank": 3,
-    "tag": "반도체",
+    "tag": "KBO",
     "mentions": "1550건",
     "trend": "+135%"
   }
