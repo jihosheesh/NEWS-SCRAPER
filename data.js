@@ -1,15 +1,15 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-09-12 09:45:41
+// 마지막 업데이트: 2026-09-12 13:13:54
 window.NEWS_DB = [
   {
     "id": "n71f86699",
     "category": "IT",
     "source": "ebn.co.kr",
-    "time": "4시간 전",
+    "time": "8시간 전",
     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE01TDRiLVYzSTc4cFkxUVhvU1NkMVJXRkxTNk91eVJGWEx5Z3lMeEd3N3lqQnBCZF95UzhSNFo2b0xkc3FMZFhuWVB5NldpYXEtMDA5Mm1CZlZMVHBHeHpobnlpZXFiYXps?oc=5",
-    "title": "AI 메모리 '투톱 시대' 열리나...삼성전자·SK하이닉스 재평가 확산",
+    "title": "AI 메모리 '투톱 시대' 열리나…삼성전자·SK하이닉스 재평가 확산",
     "summary": [
-      "AI 메모리 '투톱 시대' 열리나...삼성전자·SK하이닉스 재평가 확산 ebn.co.kr."
+      "AI 메모리 '투톱 시대' 열리나…삼성전자·SK하이닉스 재평가 확산 ebn.co.kr."
     ],
     "chips": [
       "#AI",
@@ -64,7 +64,7 @@ window.NEWS_DB = [
     "id": "n76b3a7e9",
     "category": "사회",
     "source": "공뉴스",
-    "time": "1일 전",
+    "time": "2일 전",
     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1EQWl1ejNtb0k2MERHcmdsNkprRktneUZGeTVfQjZaMXlRazJOeWtReGdHcDhhUk0yYmZBNHlYSUpxQ1Zwd1hHR3JzY1ZyaDBRVzhLVE1RdTlvRG0weUVRUFZ2MDN1VXhfY2hCaA?oc=5",
     "title": "김천 구인구직 현장에 93명 참여…“8명은 당날 바로 취업”",
     "summary": [
@@ -93,12 +93,12 @@ window.NEWS_DB = [
   {
     "id": "n1b86d5ce",
     "category": "부동산",
-    "source": "arunews.com",
+    "source": "한국주택경제신문",
     "time": "2일 전",
     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1OZzh5T2VHNnBWYWlYeDRuaHBfRDBreHNNdlhfNXVwRy0tWVE4Q0VHSDRuUjc0VVQ3WnFLMk1kTHc4QlpGb3VvN3N4T3dRRnZQd3o1akRjZFl0NGhxNEpDeTlKS0xxV0Yx?oc=5",
     "title": "강남 꺾이고 강북 뛰었다…역세권·중저가 대단지가 집값 견인",
     "summary": [
-      "강남 꺾이고 강북 뛰었다…역세권·중저가 대단지가 집값 견인 arunews.com."
+      "강남 꺾이고 강북 뛰었다…역세권·중저가 대단지가 집값 견인 한국주택경제신문."
     ],
     "chips": [
       "#부동산"
@@ -123,12 +123,12 @@ window.NEWS_DB = [
   {
     "id": "nda07dc9e",
     "category": "IT",
-    "source": "zdnet.co.kr",
+    "source": "지디넷코리아",
     "time": "5일 전",
     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5rZ2s0N1NyUk8yM21MdENmeTVXcTVBc091MmdGV2hOeDFJRm14YnpmMUpPZ2UwZVJuSjVkUlprRHZsdnJXbnBGZ25VR0E2dWE4REp3bnNn?oc=5",
     "title": "삼성 파운드리, HBM4 확대 총력…4나노 캐파 절반이 '베이스 다이'",
     "summary": [
-      "삼성 파운드리, HBM4 확대 총력…4나노 캐파 절반이 '베이스 다이' zdnet.co.kr."
+      "삼성 파운드리, HBM4 확대 총력…4나노 캐파 절반이 '베이스 다이' 지디넷코리아."
     ],
     "chips": [
       "#반도체"
@@ -167,12 +167,12 @@ window.NEWS_DB = [
   {
     "id": "ndc5c8acf",
     "category": "사회",
-    "source": "복지뉴스",
+    "source": "bokjinews.com",
     "time": "22일 전",
     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1HdzFWTmNINFVObFVXanpkWFU0VHk2c0ZMRDlDYmE2LUx3NXFJZHp0V3lkRkhsamxDTWFKZEo2d05iV0pIOUplQkxKeFY2Q1J1QnhHczRpc1pOTzVqMnFJVm43elQxMUlK?oc=5",
     "title": "실업급여 구직활동 ‘취업활동 마일리지’로 바뀐다…9월 실업급여 반복수급자 대상 시범운영",
     "summary": [
-      "실업급여 구직활동 ‘취업활동 마일리지’로 바뀐다…9월 실업급여 반복수급자 대상 시범운영 복지뉴스."
+      "실업급여 구직활동 ‘취업활동 마일리지’로 바뀐다…9월 실업급여 반복수급자 대상 시범운영 bokjinews.com."
     ],
     "chips": [
       "#취업",
@@ -180,33 +180,17 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n94761311",
+    "id": "n0fbb40c3",
     "category": "경제",
-    "source": "뉴닉",
-    "time": "23일 전",
-    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE80a0hHQmI1RHZQZmR1RmJLcmJfb0tNZ3lZcUFJODZWZEY1dklFVW4yV3lDeE1qQXpQb3RxSk5haWtzZW80TnR5X1ZlMlBETERrYURF?oc=5",
-    "title": "권민수 한국은행 부총재가 취임하며 환율·성장·물가를 균형 있게 고려해 금리를 결정하겠다고 밝혔어요. ⚖️",
+    "source": "산경투데이",
+    "time": "40일 전",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBQRWVKOE84WWtLMk9yNUZ3a1MxY280b0xBYUg5RFRtNXkza2g5ZVZtMWtkdTRYTGZYZWlsd3gyczFIbGFnR0FRN2lXOC1wXzdhS0dCRlFPVFNybFRVajhUY3NWM1pOb2lQcTA3LWZNMl_SAXRBVV95cUxORWtoV1l1S0x4bTBWZU4xdjloeFlpZjVoNzhISlI1eHNSaWZfTTFBV1pCa05YX2ZqeHFjcElCbl9odEJSeXNpaGpCMkJQTElQQm4xX2Jib2tVUEQzMkgtTmhNU0xnMlhmakR3WF9VbjVpWmNYWQ?oc=5",
+    "title": "증시 충격에 흔들린 8월 금리 전망…채권시장 ‘동결 가능성’ 무게",
     "summary": [
-      "권민수 한국은행 부총재가 취임하며 환율·성장·물가를 균형 있게 고려해 금리를 결정하겠다고 밝혔어요."
+      "증시 충격에 흔들린 8월 금리 전망…채권시장 ‘동결 가능성’ 무게 산경투데이."
     ],
     "chips": [
-      "#금리",
-      "#한은",
-      "#환율"
-    ]
-  },
-  {
-    "id": "n08d5a9a0",
-    "category": "경제",
-    "source": "서울경제",
-    "time": "25일 전",
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1yLVhPcXhnVjVKbXByY1ZkVzFIc2ROaF9RWHdBTEtfcDU0djBMUXlELTV4QlQzbjZMYzdPSUxmN19jX0dkUnVHS2ZsTUEwbU44UFHSAVNBVV95cUxOUlM0RDJ2Tlp1SHlOQVZ0UENCVmlBYlk5dE8wZFJ5Tkc0bWhUQXI2WXJQcFBkYWIzU195TXp6dHB5OUxJX3dzTnRXYjVfQkktNXJzOA?oc=5",
-    "title": "원화 강세에 한은 셈법 복잡…원·달러 환율 하락 마감 [김혜란의 FX]",
-    "summary": [
-      "원화 강세에 한은 셈법 복잡…원·달러 환율 하락 마감 [김혜란의 FX] 서울경제."
-    ],
-    "chips": [
-      "#환율"
+      "#금리"
     ]
   },
   {
@@ -221,6 +205,20 @@ window.NEWS_DB = [
     ],
     "chips": [
       "#부동산"
+    ]
+  },
+  {
+    "id": "n244b01bd",
+    "category": "경제",
+    "source": "스트레이트뉴스",
+    "time": "88일 전",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBCMWo2YXNZMEh0aUhtSDk2czAteEZBVVM4MFVGSmNlREM2bEdPX3NaNFMyMDhNWXp1bllqd1NEbkE5elZZYlhRRnRTNm1OdFFmVmlmQ2o2LTdLZXE3TUw5Mm5uU014MFN5ZFkxXzBPbWxCS3fSAXdBVV95cUxQR1pwdFp0SFJzTkVyR3RtbjVBVm03aGxUS2JURUN6eE1iVDlKazYwZmh5bUxRdU1hQXc3dUIxWXFYRG1XZlA1cHB1S3NVR0pYUExPbEtQMFBxeWp0NnFweW5hM0xOMUNmM2o1cENPdjFqb0Q4SWJkaw?oc=5",
+    "title": "미·이란 종전 합의에 금리 전망 변화?…한은 7월 인상론 여전",
+    "summary": [
+      "미·이란 종전 합의에 금리 전망 변화?…한은 7월 인상론 여전 스트레이트뉴스."
+    ],
+    "chips": [
+      "#금리"
     ]
   },
   {
@@ -256,12 +254,12 @@ window.NEWS_DB = [
   {
     "id": "n08b2b275",
     "category": "부동산",
-    "source": "karnews.or.kr",
+    "source": "한국부동산뉴스",
     "time": "151일 전",
     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBZNmg3TVp4ZWZCV1ZzTE14bXV5UkN4MExnMmZJdkpfNUsyUGltRWlJVWVfUzJoQktRUlcwMTdrUUtuWk9pR2MxaFlhNGpOU0xGZjM3eDUwdlNmRWQtYkFaenAyekhVRGRRY0pJ?oc=5",
     "title": "대출 규제에 몰린 '15억 이하'…비강남 집값·분양가 동반 상승",
     "summary": [
-      "대출 규제에 몰린 '15억 이하'…비강남 집값·분양가 동반 상승 karnews.or.kr."
+      "대출 규제에 몰린 '15억 이하'…비강남 집값·분양가 동반 상승 한국부동산뉴스."
     ],
     "chips": [
       "#부동산",
@@ -330,300 +328,306 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nf5f0da33",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "4분 전",
-    "url": "https://www.newsis.com/view/NISX20260912_0003786926",
-    "title": "與 \"주진우, '김승원 아들' 허위 주장 사과 거부하면 법적 조치\"",
-    "summary": [
-      "[서울=뉴시스] 이창환 기자 = 더불어민주당은 12일 김승원 법무부 장관 후보자 아들의 근태 불량 의혹을 제기한 주진우 국민의힘 의원을 향해 \"사과가 없다면 법적 조치가 뒤따른다\"고 했다.",
-      "조계원 민주당 대변인은 이날 서면 브리핑을 내고 \"주진우 의원이 발표한 자료의 정체가 탄로났다.",
-      "발달장애인 주간활동서비스 이용자의 활동기록지였다\"며 이같이 말했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "na4eb8903",
-    "category": "스포츠",
-    "source": "뉴시스",
-    "time": "5분 전",
-    "url": "https://www.newsis.com/view/NISX20260912_0003786879",
-    "title": "'클리말라 멀티골' K리그1 선두 서울, 전북 원정서 2-1 극장승",
-    "summary": [
-      "[서울=뉴시스] 하근수 기자 = 프로축구 K리그1 선두 FC서울이 전북 현대 원정에서 클리말라의 맹활약에 힘입어 극적인 승리를 거뒀다.",
-      "서울은 12일 전주월드컵경기장에서 열린 전북과의 하나은행 K리그1 2026 29라운드 원정 경기에서 2-1로 이겼다.",
-      "이날 승리로 1위 서울(승점 62)은 2위 울산 HD(승점 47)를 승점 15 차로 따돌렸다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n2f4dde84",
+    "id": "n339aecc4",
     "category": "사회",
     "source": "연합뉴스",
-    "time": "5분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260912039800104",
-    "title": "시진핑·푸틴 또 집결…브릭스 정상회의 인도서 개막",
-    "summary": [
-      "(자카르타=연합뉴스) 손현규 특파원 = 중국과 러시아가 주도하는 비(非)서방 신흥경제국 모임인 브릭스(BRICS) 정상회의가 12일(현지시간) ..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nfea38b75",
-    "category": "스포츠",
-    "source": "연합뉴스",
-    "time": "6분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260912041600007",
-    "title": "K리그1 선두 서울, 전북에 2-1 극장승…클리말라 멀티골",
-    "summary": [
-      "(전주=연합뉴스) 안홍석 기자 = 프로축구 K리그1 선두 FC서울이 3위 전북 현대에 극적인 승리를 거두고 조기 우승 시계를 앞당겼다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nd289d5f8",
-    "category": "스포츠",
-    "source": "뉴시스",
-    "time": "6분 전",
-    "url": "https://www.newsis.com/view/NISX20260912_0003786693",
-    "title": "\"팔 안에서 바늘을 계속\"…도핑 검사 후 멍투성이 된 테니스 선수",
-    "summary": [
-      "[서울=뉴시스]장인혜 인턴 기자 = US오픈에서 도핑 검사를 받은 이탈리아 테니스 선수 루크레치아 스테파니니가 검사 과정에 문제를 제기한 후, WTA 125 바랑키야 대회까지 기권했다.",
-      "11일(현지 시간) 스페인 매체 마르카에 따르면, 스테파니니는 최근 자신의 사회관계망서비스(SNS)에 도핑 검사 후 멍이 가득 번진 팔 사진을 공개했다.",
-      "스테파니니는 지난 2일 US오픈에서 도핑 검사를 받았다고 설명했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n9753d8c8",
-    "category": "스포츠",
-    "source": "동아일보",
     "time": "10분 전",
-    "url": "https://www.donga.com/news/Culture/article/all/20260912/134655259/1",
-    "title": "이창동 신작 ‘가능한 사랑’ 베니스 영화제 국제영화비평가연맹상 수상",
+    "url": "https://www.yna.co.kr/view/AKR20260912050400054",
+    "title": "숙박업소서 피운 번개탄에 불 번져…투숙객 8명 대피 소동",
     "summary": [
-      "이창동 감독의 신작 ‘가능한 사랑’이 제83회 베니스국제영화제에서 국제영화비평가연맹상을 수상했다.12일 국제영화비평가연맹(FIPRESCI)에 따르면 제83회 베니스국제영화제 경쟁부문 국제비평가연맹상 수상작으로 ‘가능한 사랑’이 선정됐다.국제영화비평가연맹은 ‘가능한 사랑’에 대해 “착취, 계급, 환멸, 사랑, 욕망, 그리고 이야기의 소유와 윤리를 탐구하는 미묘한 권력 게임들이 다층적이고 완벽한 속도로 전개되는 영화”라고 평가했다.국제영화비평가연맹."
+      "(담양=연합뉴스) 민현기 기자 = 12일 오후 3시 53분께 전남광주 담양군 담양읍 한 숙박업소 6층에서 불이 났다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n7c525d04",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "11분 전",
-    "url": "https://www.donga.com/news/Society/article/all/20260912/134655249/2",
-    "title": "수시 원서접수 오류로 1시간 연장…“형평성 훼손” 지적도",
+    "id": "nf3ab4cfc",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "13분 전",
+    "url": "https://www.chosun.com/sports/football/2026/09/12/MQYGKOJWHAZTCNRSMIYDINJTGQ/",
+    "title": "'3분 만에 1골 1도움' 이동경, '韓 최초' 2년 연속 10-10 새 역사...울산, 인천 2-1 제압",
     "summary": [
-      "2027학년도 대입 수시모집 원서접수 시스템이 마감 직전 오류가 발생해 접수 시간이 1시간 연장됐다.",
-      "일각에선 마감 시간이 연장되면서 일부 대학의 경쟁률을 확인한 뒤 지원한 사례가 있을 수 있다는 의혹을 제기해 형평성 훼손 논란이 일었다.",
-      "12일 한국대학교육협의회(이하 대교협)는 전날 오후 5시 50분경 수시 원서 접수 대행사 두 곳 중 한 곳인 유웨이어플라이 서버가 다운됐다."
+      "[OSEN=정승우 기자] 이동경(29, 울산 HD)이 3분 사이 1골 1도움을 몰아치며 K리그 역사를 새로 썼다.",
+      "한국 선수 최초로 두 시즌 연속 '10골-10도움'을 달성했고, 울산에는 1,840일 만의 인천전 홈 승리를 안겼다.울산은 12일 울산문수축구경기장에서 열린 인천 유나이티드와 하나은행 K리그1 2026 29라운드 홈 경기에서 2-1로 승리했다."
     ],
     "chips": [
-      "#채용",
-      "#교육"
+      "#뉴스"
     ]
   },
   {
-    "id": "n86e89dae",
+    "id": "n192c048b",
     "category": "스포츠",
     "source": "뉴시스",
-    "time": "12분 전",
-    "url": "https://www.newsis.com/view/NISX20260912_0003786919",
-    "title": "MLB 탬파베이, 휴스턴전 끝내기 승리로 가장 먼저 PS 진출",
+    "time": "14분 전",
+    "url": "https://www.newsis.com/view/NISX20260912_0003786959",
+    "title": "남자배구, 일본에 0-3 완패…아시아선수권 결승행 실패",
     "summary": [
-      "[서울=뉴시스]박윤서 기자 = 메이저리그(MLB) 탬파베이 레이스가 가장 먼저 가을 야구 진출권을 획득했다.",
-      "탬파베이는 12일(한국 시간) 미국 플로리다주 세인트피터즈버그 트로피카나필드에서 벌어진 2026 MLB 휴스턴 애스트로스와 홈 경기에서 3-1로 승리했다.",
-      "1-1로 맞선 9회말 탬파베이 주니오르 카미네로가 끝내기 2점 홈런을 쏘아 올리며 승부에 마침표를 찍었다."
+      "[서울=뉴시스]박윤서 기자 = 한국 남자 배구 대표팀(세계랭킹 24위)이 일본(6위)에 완패를 당하며 2026 아시아선수권대회 결승 진출이 불발됐다.",
+      "이사나예 라미레스 감독이 이끄는 한국은 12일 일본 후쿠오카현 기타큐슈시립 종합체육관에서 열린 대회 준결승에서 일본에 세트 점수 0-3(13-25 11-25 14-25)으로 패배했다.",
+      "조별리그를 2승 1패(승점 7)로 마치며 C조 2위로 8강에 오른 한국은 중국을 세트 점수 3-1로 격파하면서 2."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n4240d588",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "14분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260912035351001",
+    "title": "김민석 \"지분나누기 없다\"…혁신당 \"우당을 가상의 적으로 규정\"(종합)",
+    "summary": [
+      "(서울=연합뉴스) 최평천 기자 = 더불어민주당 김민석 대표는 12일 \"우리 당은 진보 정당과 개인, 중도적 개인, 보수적이면서 합리적이고 유능한..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n2fc3ab79",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "14분 전",
+    "url": "https://www.chosun.com/international/asia/2026/09/12/K6T36EGWTZDOFDITUFTMQJ5WWE/",
+    "title": "브릭스 “중동 확전 자제, 일방 관세 반대”…美 주도 질서에 견제구",
+    "summary": [
+      "브릭스 “중동 확전 자제, 일방 관세 반대”…美 주도 질서에 견제구."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n2f7061ff",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "14분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260912050100084",
+    "title": "푸틴 \"유엔 안보리에 글로벌 사우스 대표 늘려야\"",
+    "summary": [
+      "(카트만두=연합뉴스) 박진형 특파원 = 블라디미르 푸틴 러시아 대통령은 12일(현지시간) 세계 세력 균형이 글로벌 사우스(주로 남반구에 위치한 ..."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n059a480d",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "15분 전",
+    "url": "https://www.chosun.com/entertainments/broadcast/2026/09/12/GEYTGZDCHEYGKMJSGVRTOMRRGU/",
+    "title": "가수 송창식, 독특한 체조법 공개 “피겨 황제 김연아도 이만큼 못했을 것”('데이앤나잇')",
+    "summary": [
+      "[OSEN=오세진 기자] ‘김주하의 데이앤나잇’ 가수 송창식이 자신의 단순한 운동법을 공개했다.12일 방영한 MBN ‘김주하의 데이앤나잇’에서는 가수 송창식, 정미조가 출연했다.",
+      "송창식은 오랫동안 가수 생활을 하면서 독특한 소쇄한 느낌으로도 유명했다.",
+      "이에 대해 송창식은 “난 아침에 일어나서 화장실에서 책 읽고, 운동하고, 연습실 가서 기타 연습하고, 아무."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "naddf4038",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "17분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260912044651009",
+    "title": "트럼프 \"이란 전쟁, 11월 중간선거 직후 끝나고 유가도 급락\"(종합)",
+    "summary": [
+      "(서울·베를린=연합뉴스) 고일환 기자 김계연 특파원 = 도널드 트럼프 미국 대통령은 이란과의 전쟁이 11월 미국 중간선거 직후 끝날 것으로 본다..."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "nc56ea638",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "17분 전",
+    "url": "https://www.newsis.com/view/NISX20260912_0003786981",
+    "title": "경남 농·어민 \"CPTPP 가입 추진 철회해야\"…차량·해상 시위",
+    "summary": [
+      "[창원=뉴시스] 김기진 기자 = 경남지역 농어민과 시민사회단체 등 300여명은 12일 통영에서 차량 시위와 해상 시위를 벌이며 정부의 포괄적·점진적 환태평양경제동반자협정(CPTPP) 가입 추진 철회를 촉구하고 나섰다.",
+      "CPTPP 가입 저지 경남운동본부는 이날 통영시 정량동 이순신공원에서 'CPTPP 가입 저지·농어업 식량주권 사수 제1차 경남도민대회'를 열었다.",
+      "이에 앞서 농민들은 트럭 50대를 몰고 고성군농업기술센터에서 이순신공원까지 차량 시."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nb0c28725",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "20분 전",
+    "url": "https://www.chosun.com/sports/baseball/2026/09/12/MQ3DSYRUGBSTKYRZMVQTAMZTMI/",
+    "title": "오스틴 vs 강민호, 힘대결, '2홈런 3타점' 38호 LG 홈런 역사 새로쓴 오스틴 판정승, '멱살 잡고' 4연패 탈출[대구리뷰]",
+    "summary": [
+      "[대구=스포츠조선 정현석 기자]오스틴 딘이 '멱살 잡고' 팀을 5연패 직전에서 건져냈다.",
+      "LG 트윈스가 12일 대구 라이온즈파크에서 열린 삼성 라이온즈전에서 4대3 역전승으로 4연패에서 탈출했다.",
+      "주포 구자욱이 담증세로 경기 직전 빠진 홈팀 삼성은 김지찬(중견수)-이재현(유격수)-최형우(지명타자)-르윈 디아즈(1루수)-류지혁(2루수)-강민호(포수)-김성윤(."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n52092ed6",
+    "category": "경제",
+    "source": "아시아경제",
+    "time": "23분 전",
+    "url": "https://view.asiae.co.kr/article/2026091219465045474",
+    "title": "‘25조원 전남광주특별시 금고’ 조례 통과…평가기준 변경 논란",
+    "summary": [
+      "전남광주통합특별시의 연간 25조원대 자금을 관리할 금고 운영기관의 평가기준이 달라진다.",
+      "금융기관의 점포와 현금자동입출금기(ATM)가 통합시 전역에 얼마나 고르게 분포했는지 평가에 반영하는 내용이다.",
+      "금고 선정을 눈앞에 두고 기준을 바꿨다는 반론도 나왔지만, 조례안은 시의회 문턱을 넘었다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n31028389",
+    "category": "스포츠",
+    "source": "뉴시스",
+    "time": "34분 전",
+    "url": "https://www.newsis.com/view/NISX20260912_0003786971",
+    "title": "'흥행 열기' 프로야구, 역대 최소 626경기 만에 1100만 관중 달성",
+    "summary": [
+      "[서울=뉴시스]박윤서 기자 = 뜨거운 열기를 이어가고 있는 프로야구가 1100만 관중을 넘어섰다.",
+      "한국야구위원회(KBO)는 12일 전국 4개 구장에서 열린 2026 신한 쏠 KBO리그 경기에 총 8만942명이 입장해 2년 연속 1100만 관중을 달성했다고 밝혔다.",
+      "이날 잠실구장(NC 다이노스-두산 베어스)에 2만3096명, 대구 삼성라이온즈파크(LG 트윈스-삼성 라이온즈)에 2만4000명, 수원 KT위즈파크(KIA 타이거즈-KT 위즈)에 1만8."
     ],
     "chips": [
       "#KBO"
     ]
   },
   {
-    "id": "n1a3cc6cf",
-    "category": "스포츠",
-    "source": "연합뉴스",
-    "time": "15분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260912041200007",
-    "title": "[프로축구 전주전적] 서울 2-1 전북",
+    "id": "ndcd7aec7",
+    "category": "경제",
+    "source": "아시아경제",
+    "time": "35분 전",
+    "url": "https://view.asiae.co.kr/article/2026091221380927595",
+    "title": "브릭스 정상들 \"국제법 위반한 일방 제재 반대\"…중동 염두",
     "summary": [
-      "[프로축구 전주전적] 서울 2-1 전북."
+      "브릭스(BRICS) 회원국 정상들이 중동 지역에서 분쟁을 자제해야 한다며 국제법을 위반한 일방적인 제재에 반대한다고 밝혔다.",
+      "브릭스는 중국과 러시아가 주도하는 비(非)서방 신흥경제국 모임이다.",
+      "12일(현지시간) 러시아 리아노보스티 통신 등 따르면 나렌드라 모디 인도 총리는 이날 브릭스 회원국들이 인도 수도 뉴델리에 있는 바라트 만다팜 국제 컨벤션센터에서 열린 제18차 정상회의에서 공동 성명을 채택했다고 밝혔다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "na62c0358",
+    "id": "n37439537",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "39분 전",
+    "url": "https://www.newsis.com/view/NISX20260912_0003786978",
+    "title": "'청년의날' 기념…함안 청년 소도(SODO) 페스타",
+    "summary": [
+      "[함안=뉴시스] 김기진 기자 = 경남 함안군은 12일 아라길광장에서 개최한 청년의 날(9월19일) 기념 ‘2026 함안청년 소도(SODO)페스타’를 성황리에 마무리했다고 밝혔다.",
+      "이번 행사는 함안군이 주최하고 풍물패청음이 행사를 진행했으며, 함안 청년과 지역주민이 함께 어우러져 청년문화의 매력을 공유하고 지역사회에 활력을 불어넣는 축제의 장으로 운영됐다.",
+      "행사장은 ▲‘낭만스테이지’ 공연 구역 ▲‘능히 해낼 너라서’ 놀이 구역 ▲‘든든한 소도(S."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n4133ac2b",
+    "category": "경제",
+    "source": "아시아경제",
+    "time": "52분 전",
+    "url": "https://view.asiae.co.kr/article/2026091221214223860",
+    "title": "대형 인형 앞세운 1000명 도심 행진…춘천인형극제 개막",
+    "summary": [
+      "대형 인형과 500명의 목소리가 춘천 도심에서 하나의 울림으로 만났다.",
+      "강원도 춘천시는 제38회 춘천인형극제 공식 개막 행사인 '춘천인형극제×온세대합창페스티벌 퍼펫카니발'이 12일 운교사거리와 시청 광장 일원에서 열렸다고 밝혔다.",
+      "행사에는 시민과 인형극인, 합창단원 등 1만7000여 명이 참여했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n4a3c4ffe",
     "category": "사회",
     "source": "동아일보",
-    "time": "15분 전",
-    "url": "https://www.donga.com/news/Society/article/all/20260912/134655242/1",
-    "title": "‘이태원 주점 폭행 사망’ 30대 남성 구속…“도망 염려”",
+    "time": "58분 전",
+    "url": "https://www.donga.com/news/Society/article/all/20260912/134655396/1",
+    "title": "1241회 로또 1등 7, 13, 16, 23, 24, 43…보너스 9",
     "summary": [
-      "서울 이태원 주점에서 50대 남성을 폭행해 숨지게 한 혐의를 받는 30대 남성이 구속됐다.서울서부지법 김지원 영장전담 판사는 12일 오후 상해치사 혐의를 받는 이모씨에 대한 구속 전 피의자 심문(영장실질심사)을 진행한 뒤 구속영장을 발부했다.",
-      "김 판사는 “도망할 염려가 있다”며 구속 사유를 밝혔다.이씨는 지난 9일 서울 용산구 이태원동의 한 주점에서 50대 남성 B씨를 폭행해 숨지게 한 혐의를 받는다.",
-      "경찰에 따르면 피해자는 폭행을 당한 뒤 주."
+      "12일 제1241회 동행복권 로또 추첨 결과 7, 13, 16, 23, 24, 43이 1등 당첨 번호로 결정됐다.",
+      "2등 보너스 번호는 9다.6개 번호를 모두 맞춘 1등 당첨자는 18명이다.",
+      "각각 16억2839만1980원을 받는다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "ne5274dd4",
+    "id": "ncc42fb5a",
     "category": "스포츠",
-    "source": "연합뉴스",
-    "time": "17분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260912041000007",
-    "title": "[프로축구 울산전적] 울산 2-1 인천",
-    "summary": [
-      "[프로축구 울산전적] 울산 2-1 인천."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nd7b7f7a5",
-    "category": "경제",
-    "source": "한국경제",
-    "time": "45분 전",
-    "url": "https://www.hankyung.com/article/202609119493g",
-    "title": "중국에 따라잡힐 판인데…1년 전 울린 경고음 또 '반복' [김대영의 노무스쿨]",
-    "summary": [
-      "중국에 따라잡힐 판인데…1년 전 울린 경고음 또 '반복' [김대영의 노무스쿨]."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n812d2c7c",
-    "category": "경제",
-    "source": "한국경제",
-    "time": "45분 전",
-    "url": "https://www.hankyung.com/article/202609119880i",
-    "title": "565억 시장이 956억으로…무알코올 맥주 '쩐의 전쟁' [권용훈의 트렌드워치]",
-    "summary": [
-      "565억 시장이 956억으로…무알코올 맥주 '쩐의 전쟁' [권용훈의 트렌드워치]."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n1388268c",
-    "category": "스포츠",
-    "source": "테크M",
-    "time": "45분 전",
-    "url": "https://www.techm.kr/news/articleView.html?idxno=155163",
-    "title": "[LCK 브리핑] \"3대1로 끝낸다\" 한화생명-T1 한목소리...젠지 유상욱 감독 \"T1 결승행 무게\"",
-    "summary": [
-      "2026 LCK 최강자를 가리는 마지막 결전의 무대를 앞두고 세팀 사령탑과 핵심 선수들이 뜨거운 기 싸움을 벌였습니다.결승전에 직행해 13일 맞대결할 상대를 기다리는 젠지를 비롯해, 12일 결승 진출전에서 외나무다리 승부를 펼치는 한화생명e스포츠와 T1이 각오 및 경기 예상을 전해왔습니다.",
-      "젠지 유상욱 감독 \"T1 진출 확률 높아\"...변수 창출과 과감함 경계가장 먼저 결승 무대에 선착한 젠지의 유상욱 감독은 결승 상대를 전망해 달라는 질문에."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "ne403651f",
-    "category": "스포츠",
-    "source": "테크M",
-    "time": "45분 전",
-    "url": "https://www.techm.kr/news/articleView.html?idxno=155161",
-    "title": "[LCK 브리핑] 왕좌 수성 노리는 젠지...한화생명-T1, 결승 길목 격돌",
-    "summary": [
-      "리그오브레전드 챔피언스 코리아(LCK)가 서울 송파구 올림픽공원 KSPO돔에서 2026시즌 최강자를 가리기 위한 마지막 혈투에 돌입합니다.12일부터 13일까지 이틀간 KSPO돔에서 2026 우리은행 LCK 파이널스가 열립니다.",
-      "디펜딩 챔피언 젠지가 결승전에 선착한 가운데, 이날 결승 진출전에서 한화생명e스포츠(한화생명)와 T1이 남은 결승행 티켓 한 장을 두고 맞붙습니다.2년 연속 우승 노리는 젠지...한화생명엔 '천적', T1과는 '호각'지난."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "ncfcc3e39",
-    "category": "경제",
     "source": "동아일보",
-    "time": "53분 전",
-    "url": "https://www.donga.com/news/Politics/article/all/20260912/134655187/2",
-    "title": "李대통령 “유가 전혀 걱정 안해도 돼…계속 안정된다”",
+    "time": "59분 전",
+    "url": "https://www.donga.com/news/Sports/article/all/20260912/134655393/1",
+    "title": "서울, 클리말라 멀티골 ‘극장승’…울산 이동경 2년 연속 ‘10-10’",
     "summary": [
-      "중동 지역의 긴장이 고조되면서 국제 유가가 다시 배럴당 100달러를 넘긴 가운데 이재명 대통령은 12일 “유가에 관한 한 전혀 걱정하지 않으셔도 된다”고 했다.이 대통령은 이날 X(엑스·옛 트위터)에 “걱정 마시라.",
-      "휘발유, 경유 등 정제유 가격은 계속 안정된다”며 이 같이 올렸다.",
-      "이 대통령은 “원유특사 파견 등 원유외교 강화로 원유수입처를 다변화하고 장거리 원유수송비를 보조하는 등의 조치로 70%에 이르던 원유 중동 의존도를 이미 몇달 만에."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n9652b58b",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "1시간 전",
-    "url": "https://www.chosun.com/national/education/2026/09/12/KWEMAWRT25AZRDGQKTLXDG7ZYY/",
-    "title": "수시 접수도 제대로 못해... 연장 논란 휘말린 ‘IT 강국’",
-    "summary": [
-      "수시 접수도 제대로 못해... 연장 논란 휘말린 ‘IT 강국’."
+      "프로축구 K리그1 선두 FC서울이 전북 현대 원정에서 클리말라의 맹활약에 힘입어 극적인 승리를 거뒀다.서울은 12일 전주월드컵경기장에서 열린 전북과의 하나은행 K리그1 2026 29라운드 원정 경기에서 2-1로 이겼다.이날 승리로 1위 서울(승점 62)은 2위 울산 HD(승점 47)를 승점 15 차로 따돌렸다.직전 라운드 울산(0-1 패)에 덜미를 잡혀 7경기 무패(5승 2무)를 마친 서울이 까다로운 전북 원정을 잡고 다시 승전고를 울렸다.올."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "nb779c248",
+    "id": "ned32e5eb",
+    "category": "IT",
+    "source": "ZDNet Korea",
+    "time": "1시간 전",
+    "url": "https://zdnet.co.kr/view/?no=20260912211002",
+    "title": "CGTN: BRICS가 글로벌 사우스 발전에 새로운 기회를 창출하는 방식",
+    "summary": [
+      "[지디넷코리아]CGTN은 중국의 4대 글로벌 이니셔티브가 BRICS 협력과 어떻게 연계돼 글로벌 사우스에 새로운 발전 기회를 창출하고 있는지 살펴보는 기사를 게재했다.",
+      "이 기사는 이러한 이니셔티브가 글로벌 사우스(Global South)가 더 포용적인 발전을 추구하고 국제 문제에서 더 큰 발언권을 확보하는 데 어떻게 기여하고 있는지 조명한다.",
+      "베이징 2026년 9월 12일 /PRNewswire/ -- 태양광 발전소가 외딴 지역사회에 더 청정한."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n7d65ef7b",
     "category": "경제",
     "source": "한국경제",
     "time": "1시간 전",
-    "url": "https://www.hankyung.com/article/2026091203567",
-    "title": "국제유가 폭등하는데…李 \"전혀 걱정하지 않으셔도 돼\"",
+    "url": "https://www.hankyung.com/article/202609119248g",
+    "title": "\"외국인이 왜 이렇게 많지?\"…조용하던 '이 도시'에 무슨 일이 [신용현의 트래블랩]",
     "summary": [
-      "국제유가 폭등하는데…李 \"전혀 걱정하지 않으셔도 돼\"."
+      "\"외국인이 왜 이렇게 많지?\"…조용하던 '이 도시'에 무슨 일이 [신용현의 트래블랩]."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n0051d93e",
-    "category": "경제",
+    "id": "n13ca488e",
+    "category": "스포츠",
     "source": "한국경제",
     "time": "1시간 전",
-    "url": "https://www.hankyung.com/article/2026091203527",
-    "title": "순천대 의대 선정 갈등 폭발…민형배 만난 박지원 \"면담 실패\"",
+    "url": "https://www.hankyung.com/article/2026091204577",
+    "title": "2030 여성들 몰리더니…프로야구 1100만 '신기록' 세웠다",
     "summary": [
-      "순천대 의대 선정 갈등 폭발…민형배 만난 박지원 \"면담 실패\"."
+      "2030 여성들 몰리더니…프로야구 1100만 '신기록' 세웠다."
     ],
     "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nd46685bd",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "1시간 전",
-    "url": "https://www.chosun.com/politics/blue_house/2026/09/12/5CGMS642GVGE3JHSYK4SAEVFDQ/",
-    "title": "李대통령 “유가 걱정 전혀 안 해도 돼… 계속 안정될 것”",
-    "summary": [
-      "李대통령 “유가 걱정 전혀 안 해도 돼… 계속 안정될 것”."
-    ],
-    "chips": [
-      "#정치"
+      "#KBO"
     ]
   }
 ];
@@ -638,13 +642,13 @@ window.KEYWORD_TOP = [
   },
   {
     "rank": 2,
-    "tag": "AI",
-    "mentions": "1420건",
-    "trend": "+115%"
+    "tag": "KBO",
+    "mentions": "1550건",
+    "trend": "+135%"
   },
   {
     "rank": 3,
-    "tag": "채용",
+    "tag": "AI",
     "mentions": "1420건",
     "trend": "+115%"
   }
