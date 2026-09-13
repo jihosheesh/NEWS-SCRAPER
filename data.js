@@ -1,5 +1,5 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-09-13 07:06:56
+// 마지막 업데이트: 2026-09-13 12:55:31
 window.NEWS_DB = [
   {
     "id": "n71f86699",
@@ -15,20 +15,6 @@ window.NEWS_DB = [
       "#AI",
       "#삼성전자",
       "#SK하이닉스"
-    ]
-  },
-  {
-    "id": "n47c28e0a",
-    "category": "IT",
-    "source": "머니투데이",
-    "time": "1일 전",
-    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1SZzFadXdoRVF5OGN6OGgzMFJ3ZGJSNjBGQkN0bDh1MExvQmgzWm15anVDWU5sbnZkOURkZ0ZOSEJ3dGVrOHR0bkEyU25tR3oyRUczbnhmM2lrRnFlb0piMXg3dFEyQ1N4ZW5sVTZ30gFuQVVfeXFMTVJnMVp1d2hFUXk4Y3o4aDMwUndkYlI2MEZCQ3RsOHUwTG9CaDNabXlqdUNZTmxudmQ5RGRnRk5IQnd0ZWs4dHRuQTJTbm1HejJFRzNueGYzaWtGcWVvSmIxeDd0UTJDU3hlbmxVNnc?oc=5",
-    "title": "상장 첫날 \"주가 182% 폭등\"...중국판 엔비디아 노리는 '이 회사' - 머니투데이",
-    "summary": [
-      "상장 첫날 \"주가 182% 폭등\"...중국판 엔비디아 노리는 '이 회사' - 머니투데이 머니투데이."
-    ],
-    "chips": [
-      "#엔비디아"
     ]
   },
   {
@@ -64,7 +50,7 @@ window.NEWS_DB = [
     "id": "n76b3a7e9",
     "category": "사회",
     "source": "공뉴스",
-    "time": "2일 전",
+    "time": "3일 전",
     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1EQWl1ejNtb0k2MERHcmdsNkprRktneUZGeTVfQjZaMXlRazJOeWtReGdHcDhhUk0yYmZBNHlYSUpxQ1Zwd1hHR3JzY1ZyaDBRVzhLVE1RdTlvRG0weUVRUFZ2MDN1VXhfY2hCaA?oc=5",
     "title": "김천 구인구직 현장에 93명 참여…“8명은 당날 바로 취업”",
     "summary": [
@@ -73,6 +59,20 @@ window.NEWS_DB = [
     "chips": [
       "#채용",
       "#취업"
+    ]
+  },
+  {
+    "id": "n0aef4017",
+    "category": "IT",
+    "source": "뉴시스",
+    "time": "3일 전",
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9fTzJhYXBFMXRaMWRpWkxQUjdWR3Y4dkxNR0pxX3BOWUQxZURwMTFsR1pnRjRIaGs4WjRCYXVrM3Fmb29NUWxzZ2JlVnZKUUFFWk0xWGlkMzlBT3p2STBvS0FDQ2dqQndxZzNnQ2l6Q1lTTERNNWhTUNIBeEFVX3lxTE9fTzJhYXBFMXRaMWRpWkxQUjdWR3Y4dkxNR0pxX3BOWUQxZURwMTFsR1pnRjRIaGs4WjRCYXVrM3Fmb29NUWxzZ2JlVnZKUUFFWk0xWGlkMzlBT3p2STBvS0FDQ2dqQndxZzNnQ2l6Q1lTTERNNWhTUA?oc=5",
+    "title": "\"美법무, 지난해 엔비디아-그록 '우회 인수' 반독점 조사\"",
+    "summary": [
+      "\"美법무, 지난해 엔비디아-그록 '우회 인수' 반독점 조사\" 뉴시스."
+    ],
+    "chips": [
+      "#엔비디아"
     ]
   },
   {
@@ -135,14 +135,14 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n82f6eb16",
+    "id": "n2c0f41aa",
     "category": "IT",
-    "source": "twig24.com",
-    "time": "11일 전",
-    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1lU0dXYjRYbDhsQmRTdzE1UkZ4SldmQlJDS2dOaHRQWlZ0UzNZTlBwaUJlTlhiaU03aDJxQkpURlZ1NmZvMVRFODZqdGIxNFZGTy13SnpwajMzSzd3ckc1Vm1wQQ?oc=5",
-    "title": "관악구, ‘관악S밸리’에서 유니콘 꿈 키울 스타트업 20곳 모집",
+    "source": "yna.co.kr",
+    "time": "12일 전",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBSVEdqRzlmS1Y1dU1BV2dEamdfeGZHV1pVVnNmZnllZTZFX2ZlNXpQSEkzUGFHRFpSN2djQVRpbGVvM1FDQVVZU3Q0ckVYQzR4dy1BUkREV2x0ZWfSAWBBVV95cUxPMUVfaGpjN0VCUi1uUWtyRHFxZjFRbS0wcGJPc1hlVEs0c0I2QkltU2xRWFI4M1lHajczY29Vdmthb0lRazFMck5YQTB3X01zQWlTN09xMHVUbjQ4N0hLTkY?oc=5",
+    "title": "\"관악S밸리에서 유니콘의 꿈을\"…관악구, 입주사 최대 20곳 모집",
     "summary": [
-      "관악구, ‘관악S밸리’에서 유니콘 꿈 키울 스타트업 20곳 모집 twig24.com."
+      "\"관악S밸리에서 유니콘의 꿈을\"…관악구, 입주사 최대 20곳 모집 yna.co.kr."
     ],
     "chips": [
       "#스타트업",
@@ -150,14 +150,14 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n2c0f41aa",
+    "id": "na429764b",
     "category": "IT",
-    "source": "연합뉴스",
+    "source": "서울Pn",
     "time": "12일 전",
-    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBSVEdqRzlmS1Y1dU1BV2dEamdfeGZHV1pVVnNmZnllZTZFX2ZlNXpQSEkzUGFHRFpSN2djQVRpbGVvM1FDQVVZU3Q0ckVYQzR4dy1BUkREV2x0ZWfSAWBBVV95cUxPMUVfaGpjN0VCUi1uUWtyRHFxZjFRbS0wcGJPc1hlVEs0c0I2QkltU2xRWFI4M1lHajczY29Vdmthb0lRazFMck5YQTB3X01zQWlTN09xMHVUbjQ4N0hLTkY?oc=5",
-    "title": "\"관악S밸리에서 유니콘의 꿈을\"…관악구, 입주사 최대 20곳 모집",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9ZSzB6eVR0WW1HWHg4TF9QakZXeHhoQTBDX1JsVW92N2lBc24wZkhsaHBnbWpTTHlMZlN1ZWJMcF9wNlF2OUR0TUhBNDVkajdadnFiZnI2bWFxMkdXbWk1cWdEQmdmdHRKelE?oc=5",
+    "title": "관악구, ‘관악S밸리’에서 유니콘 꿈 키울 스타트업 20곳 모집",
     "summary": [
-      "\"관악S밸리에서 유니콘의 꿈을\"…관악구, 입주사 최대 20곳 모집 연합뉴스."
+      "관악구, ‘관악S밸리’에서 유니콘 꿈 키울 스타트업 20곳 모집 서울Pn."
     ],
     "chips": [
       "#스타트업",
@@ -181,28 +181,28 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n08d5a9a0",
+    "id": "n0fbb40c3",
     "category": "경제",
-    "source": "서울경제",
-    "time": "26일 전",
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1yLVhPcXhnVjVKbXByY1ZkVzFIc2ROaF9RWHdBTEtfcDU0djBMUXlELTV4QlQzbjZMYzdPSUxmN19jX0dkUnVHS2ZsTUEwbU44UFHSAVNBVV95cUxOUlM0RDJ2Tlp1SHlOQVZ0UENCVmlBYlk5dE8wZFJ5Tkc0bWhUQXI2WXJQcFBkYWIzU195TXp6dHB5OUxJX3dzTnRXYjVfQkktNXJzOA?oc=5",
-    "title": "원화 강세에 한은 셈법 복잡…원·달러 환율 하락 마감 [김혜란의 FX]",
+    "source": "산경투데이",
+    "time": "41일 전",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBQRWVKOE84WWtLMk9yNUZ3a1MxY280b0xBYUg5RFRtNXkza2g5ZVZtMWtkdTRYTGZYZWlsd3gyczFIbGFnR0FRN2lXOC1wXzdhS0dCRlFPVFNybFRVajhUY3NWM1pOb2lQcTA3LWZNMl_SAXRBVV95cUxORWtoV1l1S0x4bTBWZU4xdjloeFlpZjVoNzhISlI1eHNSaWZfTTFBV1pCa05YX2ZqeHFjcElCbl9odEJSeXNpaGpCMkJQTElQQm4xX2Jib2tVUEQzMkgtTmhNU0xnMlhmakR3WF9VbjVpWmNYWQ?oc=5",
+    "title": "증시 충격에 흔들린 8월 금리 전망…채권시장 ‘동결 가능성’ 무게",
     "summary": [
-      "원화 강세에 한은 셈법 복잡…원·달러 환율 하락 마감 [김혜란의 FX] 서울경제."
+      "증시 충격에 흔들린 8월 금리 전망…채권시장 ‘동결 가능성’ 무게 산경투데이."
     ],
     "chips": [
-      "#환율"
+      "#금리"
     ]
   },
   {
     "id": "nac7d261c",
     "category": "사회",
-    "source": "연합뉴스",
+    "source": "yna.co.kr",
     "time": "44일 전",
     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1wZmd4RTNaSTBwNVNxSm0yRGFySTlYN19qVTZfYzRtVzBzVV9nSnR3RXdYaTNiNkZRX3F6aXhFZTA5ekUxNW9VWHIzZHFjYnoyWU0wVDNoU2FJcVE?oc=5",
     "title": "강남구 일자리통합지원센터, 맞춤형 지원으로 취업자 25.7％ 증가",
     "summary": [
-      "강남구 일자리통합지원센터, 맞춤형 지원으로 취업자 25.7％ 증가 연합뉴스."
+      "강남구 일자리통합지원센터, 맞춤형 지원으로 취업자 25.7％ 증가 yna.co.kr."
     ],
     "chips": [
       "#취업",
@@ -238,6 +238,20 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n79d12fb6",
+    "category": "부동산",
+    "source": "Chosunbiz",
+    "time": "107일 전",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQc01fQzQ5RjhjTzMxV0xObHgwUFQ5Z0ozcklaR19VYmhUOXBxVURFZVBjZkxKT2ozQUhsVzViV1JCLXdvVUQ1YWVwYTA5bVB1TjdaYlZHTXFCQUJoRTBsdHNHZXZ5MnJQdVliYzVUUktidVpvNDNzWVJXakYzUFBTMFMxd1Y0NFVrTnhSR1c5WXctLTdFRnhJMtIBrAFBVV95cUxOMk9EaXo0bmRJdnJyRVgyM0REZE1IR1VEVkNzWVNHZW9nR3p3WDRXcXQ0dnpfNk5LRE9SVFVscW45RzlqYTZGTWhWdTlybngycnM5QUliSG1haVFoQW5xT3ZpbFJvWU5hYjNYUGNLTHVyNHgwcDdLZWFsdFhMTHhCNlBodDFsdkFTT0tFX3NXWGZ1M2hCTEpmbTVUVXRzREtvSy1CdkRyWE5sbU5p?oc=5",
+    "title": "매물 줄고 분양가 뛰고… 전국 아파트 매매·전셋값 동반 상승세 지속 - 조선비즈",
+    "summary": [
+      "매물 줄고 분양가 뛰고… 전국 아파트 매매·전셋값 동반 상승세 지속 - 조선비즈 Chosunbiz."
+    ],
+    "chips": [
+      "#부동산"
+    ]
+  },
+  {
     "id": "nb9bdfdfb",
     "category": "스포츠",
     "source": "푸드투데이",
@@ -253,18 +267,17 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n08b2b275",
-    "category": "부동산",
-    "source": "한국부동산뉴스",
-    "time": "152일 전",
-    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBZNmg3TVp4ZWZCV1ZzTE14bXV5UkN4MExnMmZJdkpfNUsyUGltRWlJVWVfUzJoQktRUlcwMTdrUUtuWk9pR2MxaFlhNGpOU0xGZjM3eDUwdlNmRWQtYkFaenAyekhVRGRRY0pJ?oc=5",
-    "title": "대출 규제에 몰린 '15억 이하'…비강남 집값·분양가 동반 상승",
+    "id": "nba668fc0",
+    "category": "IT",
+    "source": "한국방송뉴스",
+    "time": "137일 전",
+    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1XaThhZXFiX3dDT0NrYVFwZ2dhNTgxbHU0WE5Bc21vcGVzR0d2Wkh2Zm5pS2MyZ1JkYlhHb2VfRkhkemdEX1F6Q1RtajJLRzR6dDdHcExQelAyS2N1OUE?oc=5",
+    "title": "1조 8000억 규모 벤처펀드 선정…\"벤처·스타트업에 적시 공급\"",
     "summary": [
-      "대출 규제에 몰린 '15억 이하'…비강남 집값·분양가 동반 상승 한국부동산뉴스."
+      "1조 8000억 규모 벤처펀드 선정…\"벤처·스타트업에 적시 공급\" 한국방송뉴스."
     ],
     "chips": [
-      "#부동산",
-      "#정책"
+      "#스타트업"
     ]
   },
   {
@@ -285,7 +298,7 @@ window.NEWS_DB = [
     "id": "n4a365471",
     "category": "스포츠",
     "source": "v.daum.net",
-    "time": "188일 전",
+    "time": "189일 전",
     "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1ZbDRsNzJDT3JrUU5UZ1dGREM0RndpdFlCUlFsbHhTbXNaWUtzTFpDeV9lRkw0ZnViblc3Qlh2Y055by1WWVVPZVpUR3Jpd2s?oc=5",
     "title": "\"장보기만으로 부족\"…이커머스, 야구·축구 스포츠 중계도 나서",
     "summary": [
@@ -312,10 +325,146 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n9bc78b4c",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "방금 전",
+    "url": "https://www.donga.com/news/Inter/article/all/20260913/134660533/1",
+    "title": "EU, 1분기 실업자 중 23% 2분기에 취업…1분기 취업자 중 1.2% 실직",
+    "summary": [
+      "유럽연합(EU) 27개국에서 1분기와 2분기(4월~6월) 사이에 15~74세의 310만 명이 실업자에서 취업자가 됐다고 통계국 유로스탯이 말했다.1분기 총 실업자의 23.2%가 2분기에 일자리를 찾은 것이다.",
+      "1분기 실업자 중 52.8%는 2분기에도 실업자 처지였으며 320만 명(24.0%)는 경제활동 참가 인구에서 빠져나갔다.한편 1분기에 취업하고 있던 인구 중 250만 명(1.2%)은 2분기에 일자리가 없는 실업자가 되었다."
+    ],
+    "chips": [
+      "#취업",
+      "#고용"
+    ]
+  },
+  {
+    "id": "na0e046c6",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "방금 전",
+    "url": "https://www.donga.com/news/Society/article/all/20260913/134660530/1",
+    "title": "금반지 낀 채 그대로 줄행랑…대낮 금은방 턴 10대들 경찰 추적",
+    "summary": [
+      "10대들이 금은방에서 수백만 원 상당의 금반지를 훔쳐 달아나 경찰이 추적 중이다.전북 전주완산경찰서는 특수절도 혐의로 A 군 등을 추적하고 있다고 13일 밝혔다.이들은 전날 오후 1시께 전주시 완산구 태평동의 한 금은방에서 8돈짜리 금반지를 훔쳐 달아난 혐의를 받는다.A 군 등은 “한번 착용해 보겠다”며 주인에게 반지를 건네받은 뒤 그대로 도주한 것으로 조사됐다.경찰은 주변 폐쇄회로(CC)TV 영상을 분석해 도주 경로를 뒤쫓고 있다.(전주=뉴스."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n6aaec071",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "2분 전",
+    "url": "https://www.chosun.com/sports/baseball/2026/09/13/GNRDIZRUMY4GGOBSMU3DMNZQG4/",
+    "title": "오늘은 민석 베어스다! 민석이 14승, 민석이 홈런 → 천하의 양의지도 인정했다 \"두 민석이 덕분\" [잠실 현장]",
+    "summary": [
+      "[잠실=스포츠조선 한동훈 기자] (김)민석이가 치고 (최)민석이가 막았다.",
+      "두산은 13일 잠실에서 열린 NC와 경기에서 9대2로 승리했다.",
+      "선발투수 최민석이 5이닝 2실점 승리투수가 됐다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n66728a2f",
+    "category": "스포츠",
+    "source": "연합뉴스",
+    "time": "3분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260913059400007",
+    "title": "[아시안게임] '일본 격파' 이정현 \"이제부터 시작…우승 향해 뛰겠다\"",
+    "summary": [
+      "(나고야=연합뉴스) 최송아 기자 = 지난 시즌 한국프로농구 정규리그 최우수선수(MVP) 이정현(소노)이 2026 아이치·나고야 아시안게임 조별리..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "ndf701241",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "4분 전",
+    "url": "https://www.chosun.com/entertainments/broadcast/2026/09/13/MRQTQOBSGFRDKNZUMIYWCZBQGQ/",
+    "title": "“부부 전시 해도 될듯”..김나영, ♥마이큐에 인정 받은 그림 실력 공개 (노필터TV)",
+    "summary": [
+      "[OSEN=박하영 기자] 방송인 김나영이 남편 마이큐로부터 그림 실력을 인정받았다.",
+      "13일 유튜브 채널 ‘김나영의 노필터TV’에는 ‘나영이네 완전체가 케냐로 간 이유는?’이라는 제목의 영상이 게재됐다.이날 김나영은 “저희 가족이 믿기지 않지만 케냐로 교회에서 선교를 가게 됐다.",
+      "사실 이렇게 준비할 게 많은지 몰랐다”라며 두달 반 정도 준비를 했다고 밝혔다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n3f0f5f25",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "7분 전",
+    "url": "https://www.newsis.com/view/NISX20260913_0003787528",
+    "title": "\"추미애의 李 막말 비난, 어느 정권서도 없던 하극상\"…박원석 \"당 기강 필요\"",
+    "summary": [
+      "[서울=뉴시스] 김종민 기자 = 박원석 전 정의당 의원이 이재명 대통령을 향해 날을 세운 추미애 경기도지사의 발언을 두고 \"어느 정권에서도 본 일 없는 하극상\"이라며 강도 높게 일침을 가했다.",
+      "박 전 의원은 13일 자신의 페이스북에 글을 올려 \"'선을 넘었다', '더 이상 법사위원이 아니다' 정도 비판에 그칠 일인가\"라며 이같이 밝혔다.",
+      "그는 \"유시민, 조국, 김어준은 당원이 아니니 그렇다 치고 추미애 지사의 본분을 벗어난 안하무인격 행동을 방."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n31fcb7fa",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "8분 전",
+    "url": "https://www.chosun.com/national/regional/jeju/2026/09/13/EBKKZTA56NFULNR7EG6YR6ZEJU/",
+    "title": "부하 경찰에 갑질·성희롱 의혹, 제주 경찰 간부 감찰",
+    "summary": [
+      "부하 경찰에 갑질·성희롱 의혹, 제주 경찰 간부 감찰."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n8b7e87fb",
+    "category": "스포츠",
+    "source": "연합뉴스",
+    "time": "11분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260913059200007",
+    "title": "하현승 8K 완봉쇼…한국, U-18 아시아야구선수권 8년 만에 정상",
+    "summary": [
+      "(서울=연합뉴스) 장현구 기자 = 우리나라 18세 이하(U-18) 야구대표팀이 아시아청소년선수권대회에서 8년 만에 정상을 탈환했다."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
+    "id": "ncee47676",
+    "category": "스포츠",
+    "source": "뉴시스",
+    "time": "11분 전",
+    "url": "https://www.newsis.com/view/NISX20260913_0003787521",
+    "title": "축구협회, 오는 14일 FIFA 심판강사 초청 심판교육 실시",
+    "summary": [
+      "[서울=뉴시스] 김진엽 기자 = 대한축구협회가 심판 경쟁력 향상을 위해 국제축구연맹(FIFA) 심판강사를 초청해 심판교육을 실시한다고 13일 밝혔다.",
+      "협회는 \"오는 14일부터 17일까지 나흘간 천안 코리아풋볼파크에서 해외강사 초청 심판교육 및 FIFA 오픈코스를 진행한다\"고 설명했다.",
+      "이어 \"2000년부터 2011년까지 국제심판으로 활동했던 수키딘 빈 모드 살레 FIFA 심판강사가 전 과정을 이끌며, K리그1, K리그2, K3리그, K4리그,."
+    ],
+    "chips": [
+      "#교육"
+    ]
+  },
+  {
     "id": "nac53c0c4",
     "category": "IT",
     "source": "테크M",
-    "time": "방금 전",
+    "time": "12분 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=155182",
     "title": "ICT 업계, AI 교육·찾아가는 서비스·해외 봉사 '눈길'",
     "summary": [
@@ -334,7 +483,7 @@ window.NEWS_DB = [
     "id": "na09e5c06",
     "category": "IT",
     "source": "테크M",
-    "time": "방금 전",
+    "time": "13분 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=155181",
     "title": "LG, AX 속도전...LG AI연구원·LGD '쌍끌이'",
     "summary": [
@@ -347,301 +496,133 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n441b40a7",
-    "category": "IT",
-    "source": "테크M",
-    "time": "방금 전",
-    "url": "https://www.techm.kr/news/articleView.html?idxno=155180",
-    "title": "LG전자, 북미 가전·TV 주도권 굳히기 '착착'",
-    "summary": [
-      "LG전자가 가전과 TV 시장 다지기에 나섰다.",
-      "가전은 LG전자 '캐시카우'다.",
-      "TV는 올해 수익 반등에 성공했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nb70066fe",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "1분 전",
-    "url": "https://www.newsis.com/view/NISX20260913_0003787235",
-    "title": "\"계란이 자꾸 사라져\"…배달된 계란 가져간 노인, CCTV '포착'",
-    "summary": [
-      "[서울=뉴시스]허준희 인턴 기자 = 가게에 배달된 계란이 반복해서 사라지던 가운데, CCTV에서 한 여성이 계란 한 판을 가져가는 모습이 포착됐다.",
-      "지난 11일 한 소셜네트워크서비스(SNS)에는 '계란 훔쳐가는 할머니 너무 뻔뻔하네'라는 내용의 글이 올라왔다.",
-      "작성자 A씨는 \"가게 뒷문으로 계란을 배달받고 있는데, 최근 들어 한 판씩 부족하게 들어왔다\"며 \"계란을 배달한 사람은 정확하게 전달했다고 하는데, 배달 이후 계란 한 판이 계속 사라지고."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n6e25c4dd",
+    "id": "n9cbf02f0",
     "category": "경제",
     "source": "아시아경제",
-    "time": "2분 전",
-    "url": "https://view.asiae.co.kr/article/2026091315573341679",
-    "title": "\"항공·숙박비 들어도 더 싸\"…'마운자로' 찾아 일본 가는 한국인들",
+    "time": "14분 전",
+    "url": "https://view.asiae.co.kr/article/2026091319221634648",
+    "title": "장수한우·사과 맛에 빠진 나흘…'장수한우랑사과랑축제' 폐막",
     "summary": [
-      "비만 치료에 대한 관심이 높아지면서 미국 제약사 일라이릴리의 당뇨병 치료제 '마운자로'를 처방받기 위해 일본을 찾는 한국인이 늘고 있다.",
-      "일본 현지에서는 한국인들이 특정 병원을 찾아가는 이른바 '마운자로 원정' 현상까지 나타나고 있는 것으로 전해졌다.",
-      "일본 나고야TV 등 현지 매체는 12일 마운자로를 처방받기 위해 일본을 방문하는 한국인이 최근 잇따르고 있다고 보도했다."
+      "장수의 대표 먹거리와 체험 프로그램을 한자리에서 선보인 '장수한우랑사과랑축제'가 나흘간의 일정을 마치고 13일 막을 내렸다.",
+      "스무 번째를 맞은 올해 축제는 한우와 사과를 비롯해 토마토·오미자 등 장수의 '레드푸드'를 앞세워 먹거리와 공연, 체험을 결합한 가을 축제로 관람객을 맞았다.13일 장수군에 따르면 지난 10일부터 의암공원과 누리파크 일원에서 열린 축제에는 장수한우와 사과를 직접 맛보고 즐길 수 있는 프로그램이 이어졌다."
     ],
     "chips": [
-      "#의료"
+      "#뉴스"
     ]
   },
   {
-    "id": "n34499a77",
+    "id": "n1bdd67a8",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "19분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260913058900108",
+    "title": "튀르키예, \"가족 안전\" 외치며 성소수자 활동가 26명 체포",
+    "summary": [
+      "(이스탄불=연합뉴스) 김동호 특파원 = 튀르키예 당국이 성소수자 단체와 활동가에 대한 집중적인 단속을 벌였다고 아킨 귈레크 튀르키예 법무장관이 ..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n435c5acc",
     "category": "사회",
     "source": "뉴시스",
-    "time": "3분 전",
-    "url": "https://www.newsis.com/view/NISX20260913_0003787354",
-    "title": "용혜인 압박해 자진사퇴 이끌어낸 김민석…김승원 방어에 총력",
+    "time": "20분 전",
+    "url": "https://www.newsis.com/view/NISX20260913_0003787524",
+    "title": "박지원 \"호미로 막을걸 불도저로 막는 민주당…靑 인사 라인 책임\"",
     "summary": [
-      "[서울=뉴시스]정금민 신재현 한은진 기자 = 더불어민주당이 비례대표 국회의원 겸직 논란에 휩싸인 용혜인 성평등가족부 장관 후보자의 자진사퇴로 일단 부담을 덜게 됐다.",
-      "김민석 민주당 대표가 당대표 비서실장인 김태선 의원을 통해 용 후보자에게 사퇴가 필요하다는 의견을 전달해 사퇴를 이끌어 낸 것은 그만큼 민심이 심상치 않다고 판단한 것이다.",
-      "민주당은 오는 15일 인사청문회를 앞둔 김승원 법무부 장관 후보자 방어에 역량을 집중하는 모습이다."
+      "[서울=뉴시스] 김종민 기자 = 박지원 더불어민주당 의원이 용혜인 성평등가족부 장관 후보 사퇴와 관련, \"왜 호미로 막을 걸 불도저로 막는 민주당이 되었는가\"라고 탄식했다.",
+      "박지원 의원은 13일 페이스북을 통해 이같이 말하며, \"물론 저도 젊은 30대 여성 진보정치인의 입각에 희망을 갖고 옹호했지만, 그간 진행 상항을 보고 정치인은 이유여하를 막론코 국민이 반대하면 물러가야 한다고 권했다\"고 밝혔다.",
+      "박 의원은 \"만시지탄이지만 용혜인 의원의 결."
     ],
     "chips": [
       "#정치"
     ]
   },
   {
-    "id": "n2323a8cf",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "3분 전",
-    "url": "https://www.newsis.com/view/NISX20260913_0003787352",
-    "title": "\"낮엔 전시·체험, 밤엔 공연\"…여수세계섬박람회 주말 '활기'",
-    "summary": [
-      "[여수=뉴시스] 김석훈 기자 = 전남광주 여수시 돌산읍 진모지구에 마련된 2026여수세계섬박람회 주행사장이 첫 주말을 맞아 공연과 체험을 즐기려는 관람객들로 활기를 띠었다.",
-      "13일 여수섬박람회조직위원회에 따르면 토요일인 전날 오후 7시 열린무대 잔디밭과 계단식 객석에 자리 잡은 가족과 연인은 가수 김용빈과 천록담, 최재명의 공연을 보며 박수와 환호로 화답했다.",
-      "5일 개막한 섬박람회는 전시·체험 프로그램에 이어 해질녘 바다 분위기를 활용한 저녁."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n70f962fb",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "5분 전",
-    "url": "https://www.newsis.com/view/NISX20260911_0003786048",
-    "title": "\"업무 역량강화\"…전국 116개 치과 스탭 교육",
-    "summary": [
-      "[서울=뉴시스]송종호 기자 = 얼라인테크놀로지 코리아가 치과에서 근무하는 치위생사, 진료·상담 스탭을 대상으로 업무 역량 강화를 위한 교육을 진행했다.",
-      "얼라인테크놀로지 코리아는 지난 6일 서울드래곤시티 호텔 31층 르시엘에서 투명 치과 교정장치 인비절라인을 다루는 치위생사, 진료·상담 스탭 등을 대상으로 '인비절라인 프로페셔널 프로그램 포 스탭(Invisalign Professional Program for Staff)’ 실전(Intermedi."
-    ],
-    "chips": [
-      "#교육"
-    ]
-  },
-  {
-    "id": "nb634ab6b",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "7분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260913038500009",
-    "title": "트럼프 압박에 국제 개발은행 기후 대응 예산 삭감",
-    "summary": [
-      "(서울=연합뉴스) 이신영 기자 = 도널드 트럼프 미국 행정부가 국제 개발은행에 기후변화 대응 예산을 삭감하도록 압박하고 있다고 파이낸셜타임스(F..."
-    ],
-    "chips": [
-      "#환경"
-    ]
-  },
-  {
-    "id": "na2571ec2",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "7분 전",
-    "url": "https://www.chosun.com/sports/baseball/2026/09/13/GVQWCNZZGJQTQMRVGU3WCNBTGE/",
-    "title": "역전승 36회, 연장전 승률 1위 → 선두 질주…계약 마지막 해, 결과로 증명하는 강철매직 [SC포커스]",
-    "summary": [
-      "[스포츠조선 김영록 기자] 9월 8승3패, 어느덧 자연스럽게 1위 탈환.",
-      "KT 위즈의 기세가 9월에도 수그러들지 않는다.",
-      "KT는 12일 KIA 타이거즈전에서도 6대2로 승리, 정조대왕 유니폼 발표 이후 5연승과 더불어 선두를 질주했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n4eb591a6",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "9분 전",
-    "url": "https://www.chosun.com/sports/world-football/2026/09/13/GRQWCYTDGY3WMMJSMQ2TCMZXGU/",
-    "title": "'막장이다!' 로베르토 데 제르비 감독, 마티스 텔 향한 분노…내부 분열 우려→\"아무 문제 없다\" 다급히 해명",
-    "summary": [
-      "[스포츠조선 김가을 기자]막장, 그 자체다.",
-      "토트넘(잉글랜드)이 스스로 무너지고 있다.",
-      "로베르토 데 제르비 감독이 이끄는 토트넘은 13일(이하 한국시각) 영국 런던의 토트넘 홋스퍼 스타디움에서 열린 에버턴과의 2026~2027시즌 잉글랜드 프리미어리그(EPL) 홈경기에서 0대0으로 비겼다."
-    ],
-    "chips": [
-      "#EPL"
-    ]
-  },
-  {
-    "id": "n2b5ac18c",
-    "category": "IT",
-    "source": "아시아경제",
-    "time": "10분 전",
-    "url": "https://view.asiae.co.kr/article/2026091315505817056",
-    "title": "\"챗GPT 말 듣고 걱정돼 왔다\"했더니…\"의사가 괜히 있냐\" 핀잔",
-    "summary": [
-      "몸에 이상을 느껴 인공지능(AI) 챗GPT에 증상을 물어본 뒤 병원을 찾은 직장인이 AI를 참고했다는 이유로 담당 의사에게 핀잔을 들었다는 소식이 전해져 갑론을박이 이어지고 있다.",
-      "최근 한 온라인 커뮤니티에는 '챗GPT 보고 병원 갔더니 의사가 화내네요'라는 제목의 글이 올라왔다.",
-      "작성자 A씨는 며칠 전부터 가슴이 답답하고 숨이 잘 쉬어지지 않는 느낌을 받았다고 했다."
-    ],
-    "chips": [
-      "#AI",
-      "#의료"
-    ]
-  },
-  {
-    "id": "n08b4ec85",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "10분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260913038200704",
-    "title": "[쇼츠] 250km 밖 표적 쾅!…튀르키예 무인기 초음속 미사일 명중",
-    "summary": [
-      "(서울=연합뉴스) 11일(현지시간) 로이터 통신과 튀르키예 아나돌루 통신 등 외신에 따르면 이날 튀르키예 마르마라주 코를루 비행훈련 및 시험센터..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n0dac8505",
+    "id": "n7d6f64bb",
     "category": "사회",
     "source": "동아일보",
-    "time": "13분 전",
-    "url": "https://www.donga.com/news/Culture/article/all/20260913/134657445/1",
-    "title": "日, 사도광산 추도식…3년째 ‘조선인 강제노동’ 언급 안해",
+    "time": "21분 전",
+    "url": "https://www.donga.com/news/Entertainment/article/all/20260913/134660513/1",
+    "title": "류화영 결혼식 공개, 남편과 입맞춤…“연인에서 부부로, 잘 살게요”",
     "summary": [
-      "일본 정부가 12일 니가타현 사도에서 제2차 세계대전 당시 전쟁 물자를 생산했던 사도광산의 희생자를 추모하기 위한 추도식을 개최했다.",
-      "다만 당시 조선인 노동자들이 강제노역에 동원된 사실은 추도식이 열리기 시작된 2024년 이후 3년째 언급하지 않았다.교도통신 등에 따르면 이날 일본 정부 대표로 참석한 하마모토 유키야(濱本幸也) 외무성 국제문화교류심의관(국장급)은 추도사에서 “한반도 출신 노동자들이 전쟁 중 갱내라는 위험하고 가혹한 환경 속에서."
+      "티아라 출신 배우 류화영(33)이 결혼식을 공개했다.류화영은 12일 인스타그램에 “연인에서 부부로, 오늘 우리의 이름 앞에 ‘부부’라는 두 글자가 조용히 내려앉았습니다”라는 글을 올렸다.류화영은 “서로를 바라보던 마음이 이제는 같은 방향의 삶이 되어 한곳을 바라보며 걷게 되는 날들이 설렙니다, 앞으로의 모든 날을 기쁨도 설렘도 때로는 흔들림까지도 함께 품으며 천천히, 단단하게 걸어가겠습니다, 우리 잘 살아가 볼게요”라고 했다.류화영은 지난 12."
     ],
     "chips": [
-      "#환경"
+      "#뉴스"
     ]
   },
   {
-    "id": "n242bb75f",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "16분 전",
-    "url": "https://www.donga.com/news/Economy/article/all/20260913/134657130/1",
-    "title": "20대 취업자, 외환위기 이후 최대 감소…고용률 5년만에 60%대 아래",
-    "summary": [
-      "올해 들어 20대 취업자가 약 30년 전 외환위기 사태 이후 가장 큰 폭으로 감소했다.",
-      "20대 인구가 줄어드는 속도보다 일자리가 더 빠르게 감소하면서 고용률도 5년 만에 60% 아래로 떨어졌다.",
-      "기업들이 신입 공채를 줄이고 경력직 채용을 늘리면서 사회에 발을 내딛는 ‘첫 일자리’의 문이 갈수록 좁아지고 있다.13일 국가통계포털(KOSIS)에 따르면 올해 1∼8월 20대 취업자는 월평균 327만9000명으로 지난해 같은 기간보다 19만3000명."
-    ],
-    "chips": [
-      "#채용",
-      "#취업",
-      "#고용"
-    ]
-  },
-  {
-    "id": "n7d7cb41f",
+    "id": "n7ffc9fc6",
     "category": "사회",
     "source": "연합뉴스",
-    "time": "16분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260913037900054",
-    "title": "매일 100원씩 모은 '100원회'…학생 22명에 장학금 550만원 전달",
+    "time": "22분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260913053551504",
+    "title": "'신군부 5인' 마지막 생존자 정호용 사망…5·18사죄는 없었다(종합)",
     "summary": [
-      "(전남광주=연합뉴스) 정회성 기자 = 전남광주를 중심으로 매일 100원씩 회원들이 모은 돈으로 나눔을 실천하는 '100원회'는 13일 장학금 5..."
+      "(서울·수원=연합뉴스) 김효정 김지원 기자 = 신군부 '핵심 5인' 가운데 유일한 생존자이자 5·18 광주 민주화운동 진압에 관여한 혐의로 유죄..."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "nc5396ecb",
-    "category": "경제",
-    "source": "머니투데이",
-    "time": "16분 전",
-    "url": "https://www.mt.co.kr/society/2026/09/13/2026091315054388031",
-    "title": "\"추석 연휴 짧다, 하루 더?\"...28일 '임시공휴일', 깜짝 발표 가능성은",
-    "summary": [
-      "추석 연휴를 열흘 앞두고 연휴 직후인 28일 월요일의 임시공휴일 지정 여부에 관심이 쏠리고 있다.",
-      "올해 추석 연휴는 24일 목요일부터 26일 토요일까지 사흘이다.",
-      "27일 일요일을 포함해도 나흘에 불과하다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n1c3c500f",
+    "id": "ne4071f8f",
     "category": "스포츠",
     "source": "조선일보",
-    "time": "16분 전",
-    "url": "https://www.chosun.com/sports/world-baseball/2026/09/13/MJRWIOLFMYZGKNBXGEYWEMJVGU/",
-    "title": "잘라도 잘라도 다시 돌아온다! ‘前 삼성 외인’ 수아레즈, 5번째 DFA→또 볼티모어와 계약",
+    "time": "22분 전",
+    "url": "https://www.chosun.com/national/regional/2026/09/13/XELOX5OLRRDV7NKU3ROL3HFVY4/",
+    "title": "추미애 “경기도 산후조리비 지원 종료, 불가피한 선택”",
     "summary": [
-      "[OSEN=손찬익 기자] 한 시즌에만 무려 다섯 차례나 방출대기(DFA) 통보를 받았다.",
-      "그래도 인연은 끊어지지 않았다.",
-      "과거 KBO리그 삼성 라이온즈에서 뛰었던 베테랑 우완 앨버트 수아레즈(36)가 다시 볼티모어 오리올스로 돌아왔다.메이저리그 이적 소식을 다루는 ‘MLB 트레이드 루머스’는 13일(이하 한국시간) “수아레즈가 볼티모어와 마이너리그 계약을."
+      "추미애 “경기도 산후조리비 지원 종료, 불가피한 선택”."
     ],
     "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "ne1760528",
+    "category": "스포츠",
+    "source": "동아일보",
+    "time": "22분 전",
+    "url": "https://www.donga.com/news/Sports/article/all/20260913/134660510/1",
+    "title": "‘KT 우승 주장’ 황재균, 눈물의 은퇴식…타석 등장에 환호성 폭발",
+    "summary": [
+      "프로야구 KT 위즈의 창단 첫 통합우승을 이끌었던 ‘우승 주장’ 황재균이 눈물을 흘리며 선수로서 마지막을 기념했다.황재균은 13일 수원 KT위즈파크에서 열린 2026 신한 쏠 KBO리그 KT와 롯데 자이언츠의 경기를 마친 뒤 은퇴식을 치렀다.앞서 황재균은 지난달 8일 롯데전을 통해 은퇴식을 치를 예정이었으나, 해당 경기가 폭염으로 취소되며 이날로 행사를 연기했다.2006년 현대 유니콘스 유니폼을 입고 프로에 데뷔한 황재균은 지난 시즌까지 20년."
+    ],
+    "chips": [
+      "#스타트업",
       "#KBO"
     ]
   },
   {
-    "id": "na28f429d",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "20분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260913038100007",
-    "title": "[KPGA 최종순위] 신한동해오픈",
+    "id": "n30aa93ad",
+    "category": "경제",
+    "source": "한국경제",
+    "time": "55분 전",
+    "url": "https://www.hankyung.com/article/202609119094H",
+    "title": "이소은, 가수 그만두고 美 변호사 되더니…또 '놀라운 근황' [김수영의 크레딧&]",
     "summary": [
-      "◇한국프로골프(KPGA) 투어 제42회 신한동해오픈 최종 순위."
+      "이소은, 가수 그만두고 美 변호사 되더니…또 '놀라운 근황' [김수영의 크레딧&]."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n35eb6e75",
-    "category": "IT",
-    "source": "동아일보",
-    "time": "20분 전",
-    "url": "https://www.donga.com/news/Economy/article/all/20260913/134657465/1",
-    "title": "샌디스크, 韓 엔지니어 채용…D램 이어 낸드까지 인재 쟁탈전",
-    "summary": [
-      "미국 반도체 기업 샌디스크가 국내 엔지니어 대상으로 채용에 나섰다.",
-      "D램에 이어 낸드 분야에서도 한국 반도체 인재를 영입하기 위한 글로벌 기업들의 경쟁이 치열해지고 있다는 해석이 나온다.샌디스크는 13일 현재 글로벌 비즈니스 네트워킹 플랫폼 ‘링크드인’을 통해 한국 반도체 인재 채용을 진행하고 있다.",
-      "모집 분야는 낸드 디자인 엔지니어, 낸드 시스템 아키텍처(설계), 고속 IO(입출력) 디자인 엔지니어 등 10개다."
-    ],
-    "chips": [
-      "#반도체",
-      "#채용"
-    ]
-  },
-  {
-    "id": "n673acc6d",
+    "id": "n973452d9",
     "category": "경제",
-    "source": "동아일보",
-    "time": "22분 전",
-    "url": "https://www.donga.com/news/Culture/article/all/20260913/134657094/1",
-    "title": "신안선 자단목서 700년 전 해양 물류 기록 발견…14세기 무역선 가능성",
+    "source": "한국경제",
+    "time": "1시간 전",
+    "url": "https://www.hankyung.com/article/2026091315567",
+    "title": "'신군부 핵심 5인' 마지막 생존자, 정호용 전 국방장관 사망",
     "summary": [
-      "신안선에서 발굴된 자단목(紫檀木)에 화물의 소유와 관리 등 700년 전 물류 관련 기록이 남아있다는 연구가 나왔다.",
-      "자단목에 새겨진 일본 무사 가문의 문양과 가나, 인명, 화압(花押·수결 또는 서명) 등을 분석한 결과 사찰과 상인, 무사 등 여러 화주(貨主)가 한 배를 함께 이용했을 가능성도 제기됐다.정순일 고려대 역사교육학과 교수는 16일 전남광주 목포시 국립해양유산연구소에서 열리는 ‘2026 해양실크로드 국제학술대회’에서 ‘신안선 자단목과."
+      "'신군부 핵심 5인' 마지막 생존자, 정호용 전 국방장관 사망."
     ],
     "chips": [
-      "#수출",
-      "#교육"
+      "#뉴스"
     ]
   }
 ];
@@ -651,20 +632,20 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "1940건",
-    "trend": "+195%"
+    "mentions": "2460건",
+    "trend": "+275%"
   },
   {
     "rank": 2,
-    "tag": "AI",
+    "tag": "KBO",
     "mentions": "1680건",
     "trend": "+155%"
   },
   {
     "rank": 3,
-    "tag": "채용",
-    "mentions": "1680건",
-    "trend": "+155%"
+    "tag": "AI",
+    "mentions": "1550건",
+    "trend": "+135%"
   }
 ];
 // ====AUTO-GENERATED-END====
