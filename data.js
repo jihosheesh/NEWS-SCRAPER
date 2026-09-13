@@ -1,5 +1,5 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-09-13 16:45:00
+// 마지막 업데이트: 2026-09-13 19:05:02
 window.NEWS_DB = [
   {
     "id": "n71f86699",
@@ -78,12 +78,12 @@ window.NEWS_DB = [
   {
     "id": "n1b86d5ce",
     "category": "부동산",
-    "source": "arunews.com",
+    "source": "한국주택경제신문",
     "time": "3일 전",
     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1OZzh5T2VHNnBWYWlYeDRuaHBfRDBreHNNdlhfNXVwRy0tWVE4Q0VHSDRuUjc0VVQ3WnFLMk1kTHc4QlpGb3VvN3N4T3dRRnZQd3o1akRjZFl0NGhxNEpDeTlKS0xxV0Yx?oc=5",
     "title": "강남 꺾이고 강북 뛰었다…역세권·중저가 대단지가 집값 견인",
     "summary": [
-      "강남 꺾이고 강북 뛰었다…역세권·중저가 대단지가 집값 견인 arunews.com."
+      "강남 꺾이고 강북 뛰었다…역세권·중저가 대단지가 집값 견인 한국주택경제신문."
     ],
     "chips": [
       "#부동산"
@@ -92,12 +92,12 @@ window.NEWS_DB = [
   {
     "id": "n77099016",
     "category": "IT",
-    "source": "sateconomy.co.kr",
+    "source": "토요경제",
     "time": "4일 전",
     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBMakQ1SGpzTE1JMnR4RThJOHVTTFdTZm9pOG90cEFybUNzVUVVN3FWOEFXUkpuTzViUVNCLThzcDJSTm41TFpaRmtGbV94S0J4QzktOHlza043d1lNaWdDVtIBb0FVX3lxTE5qTXd2bTBCblpQdzlkamhtT3UteGVXUE0tOUtvMWZzWWZYOGtZejUzN1NpNFZ6N0hMZk1EZ194VmRLbzY2X2YyMGJTMkJxN0pIQ19GdS1nS1lvOENuMUFjRzJtRjBlYXg5cXZfUkwtaw?oc=5",
     "title": "오픈AI, 삼성과 차세대칩 공동 연구…한국 반도체 ′HBM 넘어 파운드리′ 기회",
     "summary": [
-      "오픈AI, 삼성과 차세대칩 공동 연구…한국 반도체 ′HBM 넘어 파운드리′ 기회 sateconomy.co.kr."
+      "오픈AI, 삼성과 차세대칩 공동 연구…한국 반도체 ′HBM 넘어 파운드리′ 기회 토요경제."
     ],
     "chips": [
       "#AI",
@@ -135,21 +135,6 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n82f6eb16",
-    "category": "IT",
-    "source": "twig24.com",
-    "time": "12일 전",
-    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1lU0dXYjRYbDhsQmRTdzE1UkZ4SldmQlJDS2dOaHRQWlZ0UzNZTlBwaUJlTlhiaU03aDJxQkpURlZ1NmZvMVRFODZqdGIxNFZGTy13SnpwajMzSzd3ckc1Vm1wQQ?oc=5",
-    "title": "관악구, ‘관악S밸리’에서 유니콘 꿈 키울 스타트업 20곳 모집",
-    "summary": [
-      "관악구, ‘관악S밸리’에서 유니콘 꿈 키울 스타트업 20곳 모집 twig24.com."
-    ],
-    "chips": [
-      "#스타트업",
-      "#채용"
-    ]
-  },
-  {
     "id": "n2c0f41aa",
     "category": "IT",
     "source": "연합뉴스",
@@ -158,6 +143,21 @@ window.NEWS_DB = [
     "title": "\"관악S밸리에서 유니콘의 꿈을\"…관악구, 입주사 최대 20곳 모집",
     "summary": [
       "\"관악S밸리에서 유니콘의 꿈을\"…관악구, 입주사 최대 20곳 모집 연합뉴스."
+    ],
+    "chips": [
+      "#스타트업",
+      "#채용"
+    ]
+  },
+  {
+    "id": "na429764b",
+    "category": "IT",
+    "source": "서울Pn",
+    "time": "12일 전",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9ZSzB6eVR0WW1HWHg4TF9QakZXeHhoQTBDX1JsVW92N2lBc24wZkhsaHBnbWpTTHlMZlN1ZWJMcF9wNlF2OUR0TUhBNDVkajdadnFiZnI2bWFxMkdXbWk1cWdEQmdmdHRKelE?oc=5",
+    "title": "관악구, ‘관악S밸리’에서 유니콘 꿈 키울 스타트업 20곳 모집",
+    "summary": [
+      "관악구, ‘관악S밸리’에서 유니콘 꿈 키울 스타트업 20곳 모집 서울Pn."
     ],
     "chips": [
       "#스타트업",
@@ -251,6 +251,20 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "nba668fc0",
+    "category": "IT",
+    "source": "한국방송뉴스",
+    "time": "137일 전",
+    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1XaThhZXFiX3dDT0NrYVFwZ2dhNTgxbHU0WE5Bc21vcGVzR0d2Wkh2Zm5pS2MyZ1JkYlhHb2VfRkhkemdEX1F6Q1RtajJLRzR6dDdHcExQelAyS2N1OUE?oc=5",
+    "title": "1조 8000억 규모 벤처펀드 선정…\"벤처·스타트업에 적시 공급\"",
+    "summary": [
+      "1조 8000억 규모 벤처펀드 선정…\"벤처·스타트업에 적시 공급\" 한국방송뉴스."
+    ],
+    "chips": [
+      "#스타트업"
+    ]
+  },
+  {
     "id": "n08b2b275",
     "category": "부동산",
     "source": "한국부동산뉴스",
@@ -294,41 +308,222 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nbe63ccdf",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "3분 전",
-    "url": "https://www.chosun.com/sports/sports_general/2026/09/14/GQYTIMDCMJRGENBRGZQTQYJZGQ/",
-    "title": "‘한국의 가장 확실한 AG 금메달!’ 안세영도 라이벌이 있을까? “모든 선수가 라이벌” 겸손함까지 [아시안게임]",
+    "id": "n0c9ddd26",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "4분 전",
+    "url": "https://www.newsis.com/view/NISX20260913_0003787541",
+    "title": "대구·경북 가끔 구름 많고 큰 일교차…아침 13도·한낮 30도",
     "summary": [
-      "[OSEN=서정환 기자] ‘세계 1위’ 안세영(24, 삼성생명)의 금메달은 걱정이 없다.",
-      "일말의 방심조차 없기 때문이다.",
-      "2026 아이치-나고야 아시안게임에 출전하는 배드민턴대표팀은 오는 17일 일본으로 출국한다."
+      "[대구=뉴시스] 이상제 기자 = 14일 대구·경북은 가끔 구름이 많은 가운데 일교차가 클 것으로 예상된다.",
+      "대구지방기상청은 이날 \"당분간 내륙을 중심으로 낮과 밤의 기온차가 10~15도로 크겠다\"고 예보했다.",
+      "아침 최저기온은 13~20도(평년 14~20도), 낮 최고기온은 25~30도(평년 24~28도)로 예측된다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "nfa5ed445",
+    "id": "n3bb6c218",
+    "category": "경제",
+    "source": "동아일보",
+    "time": "13분 전",
+    "url": "https://www.donga.com/news/Inter/article/all/20260914/134661180/1",
+    "title": "트럼프, 젤렌스키에 “러 정유시설 공격 멈춰라”…유가 급등에 제동",
+    "summary": [
+      "도널드 트럼프 미국 대통령이 볼로디미르 젤렌스키 우크라이나 대통령에게 러시아 정유시설에 대한 공격을 중단하라고 요구했다.",
+      "러시아와 우크라이나 간 공방 격화로 석유제품 공급 차질이 커지면서 국제유가와 미국의 물가를 끌어올리고 있다는 이유에서다.13일(현지시간) AFP통신에 따르면 트럼프 대통령은 이날 아일랜드를 방문한 자리에서 기자들에게 “젤렌스키 대통령이 해야 할 일이 하나 있다”며 “러시아의 경유 공급을 파괴하는 것을 멈춰야 한다”고 말했다."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n8d123ab1",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "20분 전",
+    "url": "https://www.chosun.com/international/international_general/2026/09/14/KEHF5AVFEBBQFHZO2D2JYAV7YI/",
+    "title": "트럼프는 “캐나다와 곧 합의”…캐나다는 EU ‘준회원’ 카드",
+    "summary": [
+      "트럼프는 “캐나다와 곧 합의”…캐나다는 EU ‘준회원’ 카드."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "na924f875",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "28분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260914002300071",
+    "title": "아일랜드 방문한 트럼프 \"아일랜드 위스키 관세 철회하겠다\"",
+    "summary": [
+      "(워싱턴=연합뉴스) 박성민 특파원 = 도널드 트럼프 미국 대통령은 13일(현지시간) 미국으로 수입되는 아일랜드 위스키에 부과해온 관세를 철회하겠..."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n3f1a33d1",
     "category": "스포츠",
     "source": "조선일보",
-    "time": "4분 전",
-    "url": "https://www.chosun.com/sports/baseball/2026/09/14/G42DINZYGNRGGYRRHA3DQYZRGI/",
-    "title": "日 감독마저 하현승 앞에 고개 숙였다! ‘3이닝 노히트→7이닝 1안타 완봉’ 두 번 당하고 “韓 투수가 훌륭했다”",
+    "time": "35분 전",
+    "url": "https://www.chosun.com/sports/baseball/2026/09/14/MFRGEODCMJSDONBZGVSWGMTEGA/",
+    "title": "신생팀 맞아? 창단 첫해 ‘7만 관중’ 대박→퓨처스 최다 7310명 신기록…가을야구까지 해냈다",
     "summary": [
-      "[OSEN=손찬익 기자] “일본 선수들이 어떻다기보다 역시 상대 투수가 훌륭했다”.일본 18세 이하(U-18) 야구대표팀의 오카다 다쓰오 감독도 한국의 좌완 에이스 하현승(부산고)의 위력을 인정했다.",
-      "슈퍼라운드에 이어 결승에서도 하현승을 넘지 못한 일본은 아시아 정상 문턱에서 고개를 숙였다.일본 야구 전문 매체 ‘풀카운트’는 지난 13일 대만 타이베이돔에서."
+      "[OSEN=손찬익 기자] 창단 첫해부터 일을 냈다.",
+      "울산웨일즈가 홈 최종전에서 퓨처스리그 역대 최다 관중 신기록을 세우며 챔피언결정전 준결승 진출까지 확정했다.울산웨일즈는 지난 13일 울산 문수야구장에서 열린 KT 위즈와의 홈경기에서 6-0 완승을 거뒀다.",
+      "이날 승리로 퓨처스 챔피언결정전 준결승 진출을 확정, 창단 첫해부터 포스트시즌 무대를 밟게 됐다.승리."
     ],
     "chips": [
       "#KBO"
     ]
   },
   {
+    "id": "ned269f16",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "34분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260914002000108",
+    "title": "코소보 의회, 쿠르티 총리 주도 새 내각 승인",
+    "summary": [
+      "(이스탄불=연합뉴스) 김동호 특파원 = 발칸반도 소국 코소보의 의회가 13일(현지시간) 알빈 쿠르티를 총리로 하는 새 내각 출범을 승인했다고 A..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n4d3d203a",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "41분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260914002200098",
+    "title": "스웨덴 총선서 중도좌파 연합 51.3% 득표 관측…극우돌풍 '주춤'",
+    "summary": [
+      "(브뤼셀=연합뉴스) 현윤경 특파원 = 13일(현지시간) 실시된 스웨덴 총선에서 중도좌파 정당들로 구성된 야권 연합이 과반 득표를 한 것으로 예측..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "ncf97fd13",
+    "category": "경제",
+    "source": "뉴시스",
+    "time": "44분 전",
+    "url": "https://www.newsis.com/view/NISX20260914_0003787553",
+    "title": "트럼프 \"미국 기준금리, 세계에서 가장 낮아야\"",
+    "summary": [
+      "[서울=뉴시스] 문예성 기자 = 도널드 트럼프 미국 대통령이 연방준비제도(Fed·연준)의 통화정책 회의를 앞두고 미국의 기준금리가 세계에서 가장 낮아야 한다고 주장했다.",
+      "13일(현지 시간) 주요 외신에 따르면 트럼프 대통령은 이날 아일랜드 오픈 골프대회에서 기자들과 만나 “어떤 나라도 미국보다 낮은 금리를 적용받아서는 안된다”고 밝혔다.",
+      "트럼프 대통령은 연준이 15∼16일 연방공개시장위원회(FOMC)에서 기준금리를 인상할 것으로 예상하느냐는 질."
+    ],
+    "chips": [
+      "#금리",
+      "#정책",
+      "#정치"
+    ]
+  },
+  {
+    "id": "n4176325a",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "45분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260914001900072",
+    "title": "美 공화 의원, 탑승 비행기 호수에 비상착륙하자 헤엄쳐 탈출",
+    "summary": [
+      "(뉴욕=연합뉴스) 임수정 특파원 = 미국 위스콘신주 주지사 선거에 출마한 공화당 후보 톰 티파니(68) 연방 하원의원이 탑승한 소형 비행기가 호..."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "nd9a5402a",
+    "category": "IT",
+    "source": "아시아경제",
+    "time": "1시간 전",
+    "url": "https://view.asiae.co.kr/article/2026091403024944695",
+    "title": "트럼프, AI 속도조절론 일축…\"중국 앞선 상태 유지해야\"",
+    "summary": [
+      "인공지능(AI)이 인간의 통제를 벗어날 수 있다는 우려로 업계에서 '속도조절론'이 확산하고 있지만 도널드 트럼프 미국 대통령은 중국과의 경쟁을 이유로 AI 개발 가속 기조를 유지하겠다는 입장을 밝혔다.",
+      "미·중 모두 상대가 개발 속도를 늦추지 않을 것을 우려해 규제에 선뜻 나서기 어려운 '죄수의 딜레마'에 빠진 가운데 오는 24일 열리는 미·중 정상회담에서 관련 논의가 이뤄질지 주목된다.",
+      "아일랜드를 방문 중인 트럼프 대통령은 13일(현지시간) 자."
+    ],
+    "chips": [
+      "#AI",
+      "#정책",
+      "#정치"
+    ]
+  },
+  {
+    "id": "n50ee1af6",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "1시간 전",
+    "url": "https://www.chosun.com/national/2026/09/14/QQDKXRHFLBB3ZJKGTYOBVEUIBQ/",
+    "title": "[굿모닝 멤버십] 한국 직장인의 업무 몰입도는 왜 세계 꼴찌 수준으로 추락했나",
+    "summary": [
+      "[굿모닝 멤버십] 한국 직장인의 업무 몰입도는 왜 세계 꼴찌 수준으로 추락했나."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n380745dc",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "1시간 전",
+    "url": "https://www.chosun.com/sports/sports_general/2026/09/14/6M4V2PP3TREYPMTNFE5RMW7P2I/",
+    "title": "“무릎 아파서 안 움직였는데…” 굳은 움직임을 풀어주는 3분 운동",
+    "summary": [
+      "“무릎 아파서 안 움직였는데…” 굳은 움직임을 풀어주는 3분 운동."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n9e1becfa",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "1시간 전",
+    "url": "https://www.donga.com/news/Inter/article/all/20260914/134661161/1",
+    "title": "이란·UAE 정상급 접촉…“갈등 접고 미래 함께 만들자”",
+    "summary": [
+      "이란과 아랍에미리트(UAE)가 양국 간 갈등을 뒤로하고 미래를 위한 협력에 나서기로 했다.13일(현지 시간) 인도 NDTV 등에 따르면 마수드 페제시키안 이란 대통령은 전날 인도 뉴델리에서 셰이크 칼리드 빈 무함마드 빈 자이드 알 나흐얀 아부다비 왕세자와 회담한 뒤 이같이 밝혔다.두 사람의 회동은 인도에서 열린 브릭스(BRICS) 정상회의를 계기로 이뤄졌다.페제시키안 대통령은 회담이 건설적이었다고 평가하면서 양측이 “과거의 장을 넘기고 미래를."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n81dbf237",
+    "category": "사회",
+    "source": "아시아경제",
+    "time": "1시간 전",
+    "url": "https://view.asiae.co.kr/article/2026091402173236662",
+    "title": "[르포]\"어떻게 버텼나요\"…예술로 '먹고사는 법' 묻는 청년들",
+    "summary": [
+      "\"혼자 사업을 시작해도 괜찮을까요.\" \"처음엔 몇 명이서 하셨어요.\" \"그런데…어떻게 버티셨어요?\" 혼자 사업을 시작해도 괜찮은지, 몇 명이서 회사를 시작했는지, 프로덕션과 사업 사이의 간극은 어떻게 좁혀야 하는지.",
+      "질문이 이어지다 결국 '어떻게 버텼는지'로 향했다.",
+      "10일 오후 서울 종로구 홍익대학교 대학로 아트센터에서 열린 '2026 예술 일자리 박람회'."
+    ],
+    "chips": [
+      "#고용",
+      "#교육"
+    ]
+  },
+  {
     "id": "ncf88042d",
     "category": "사회",
     "source": "동아일보",
-    "time": "10분 전",
+    "time": "2시간 전",
     "url": "https://www.donga.com/news/Economy/article/all/20260914/134661138/1",
     "title": "“최고의 테킬라의 차별화된 판매방식”…日 도쿄 ‘클라세 아줄’ 부티크 가보니",
     "summary": [
@@ -341,39 +536,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n4e3fbb6c",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "14분 전",
-    "url": "https://www.chosun.com/sports/volleyball/2026/09/14/MFSTAZTEHE2DSOBQGY3DAMTEMI/",
-    "title": "韓 3-0 완파하더니 이란까지 3-0! 일본 男배구 아시아 2연패…마침내 LA 올림픽 직행 티켓 따냈다",
-    "summary": [
-      "[OSEN=손찬익 기자] 일본 남자 배구대표팀이 아시아 정상에 오르며 2028 LA 올림픽 출전권까지 거머쥐었다.일본 스포츠 매체 ‘닛칸스포츠’는 지난 13일 일본 후쿠오카현 기타큐슈 시립 종합체육관에서 열린 2026 아시아남자배구선수권대회 결승에서 세계랭킹 6위 일본이 18위 이란을 세트 스코어 3-0으로 꺾고 우승을 차지했다고 전했다.이로써 일본은 2개."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n96707e27",
-    "category": "IT",
-    "source": "연합뉴스",
-    "time": "15분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260914001300072",
-    "title": "오바마 \"AI 통제 못하면 위험\"…민주당에 대응 촉구",
-    "summary": [
-      "(뉴욕=연합뉴스) 임수정 특파원 = 최근 인공지능(AI) 전문가들 사이에서 '속도조절론'이 잇따라 나오는 가운데 버락 오바마 전 미국 대통령도 ..."
-    ],
-    "chips": [
-      "#AI",
-      "#정치"
-    ]
-  },
-  {
     "id": "na6a7158f",
     "category": "사회",
     "source": "연합뉴스(경제)",
-    "time": "35분 전",
+    "time": "2시간 전",
     "url": "https://www.yna.co.kr/view/AKR20260913061851071",
     "title": "트럼프 \"美, 연준 공식과 상관 없이 세계 최저금리 적용받아야\"(종합)",
     "summary": [
@@ -388,7 +554,7 @@ window.NEWS_DB = [
     "id": "nb76fa31a",
     "category": "사회",
     "source": "뉴시스",
-    "time": "39분 전",
+    "time": "3시간 전",
     "url": "https://www.newsis.com/view/NISX20260914_0003787550",
     "title": "트럼프 \"이란전쟁, 美중간선거 직후 끝날 것\"",
     "summary": [
@@ -401,55 +567,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n9d8db30b",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "43분 전",
-    "url": "https://www.newsis.com/view/NISX20260911_0003786183",
-    "title": "큰 일교차에 면역력도 뚝…감기만 조심하면 끝?",
-    "summary": [
-      "[서울=뉴시스]황재희 기자 = 최근 가을로 접어들며 일교차가 크게 벌어지면서 면역력 관리가 중요해졌다.",
-      "14일 JW중외제약 홈페이지에 따르면, 환절기에는 신체가 날씨의 변화에 적응하기 위해 더 많은 에너지를 사용하게 되는데, 이때 면역력이 떨어지면 감기나 알레르기성 비염 등 호흡기 관련 질환이 발생할 수 있다.",
-      "환절기에 대표적으로 나타나는 질병은 감기다."
-    ],
-    "chips": [
-      "#의료"
-    ]
-  },
-  {
-    "id": "n429ab0e7",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "58분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260913060751098",
-    "title": "트럼프 \"젤렌스키, 러시아 경유 시설 공격 멈춰라\"(종합)",
-    "summary": [
-      "(브뤼셀=연합뉴스) 현윤경 특파원 = 중간선거를 앞두고 경유 가격 급등이라는 대형 악재를 만난 도널드 트럼프 미국 대통령이 러시아 경유 시설을 ..."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n7506406c",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "1시간 전",
-    "url": "https://www.newsis.com/view/NISX20260913_0003787546",
-    "title": "트럼프, 젤렌스키에 \"러 정유시설 공격 중단하라\"",
-    "summary": [
-      "[서울=뉴시스] 문예성 기자 = 미국 중간선거를 앞두고 경유 가격이 급등하는 가운데 도널드 트럼프 미국 대통령이 볼로디미르 젤렌스키 우크라이나 대통령에게 러시아 연료 기반시설에 대한 공격을 중단하라고 촉구했다.",
-      "13일(현지 시간) 우크라이나 매체 키이우인디펜던트 등에 따르면 아일랜드를 방문 중인 트럼프 대통령은 이날 “젤렌스키 대통령이 해야 할 일이 하나 있다”며 “러시아의 디젤 연료 시설을 파괴하는 일을 중단해야 한다”고 밝혔다."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
     "id": "n1a26e1d3",
     "category": "경제",
     "source": "동아일보",
-    "time": "1시간 전",
+    "time": "3시간 전",
     "url": "https://www.donga.com/news/Economy/article/all/20260913/134659279/2",
     "title": "오늘부터 퇴근 후에도 ‘실시간 주식거래’ 가능",
     "summary": [
@@ -462,75 +583,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n994cf924",
-    "category": "IT",
-    "source": "동아일보",
-    "time": "1시간 전",
-    "url": "https://www.donga.com/news/Economy/article/all/20260913/134659294/2",
-    "title": "[알립니다]제13회 ‘마이클 포터상’ 주인공을 찾습니다",
-    "summary": [
-      "동아일보와 채널A, 산업정책연구원(IPS)은 경쟁력을 높이고 ESG(환경, 사회, 지배구조) 경영을 내재화하며 공유가치창출(CSV) 활동을 선도해 온 기업 및 기관을 대상으로 ‘제13회 마이클 포터상’ 수상 기업을 공모합니다.",
-      "마이클 포터 미국 하버드대 석좌교수가 제시한 ‘경쟁전략’ ‘산업구조’ ‘가치사슬’ 등 다양한 이론을 아우르는 포괄적인 평가 체계를 바탕으로 기업과 기관의 지속 가능한 경쟁력을 평가합니다.",
-      "올해는 경쟁력 부문에 ‘AX(AI."
-    ],
-    "chips": [
-      "#AI",
-      "#정책",
-      "#환경"
-    ]
-  },
-  {
-    "id": "ncb1a0517",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "1시간 전",
-    "url": "https://www.donga.com/news/Economy/article/all/20260913/134657141/1",
-    "title": "5대 은행장 모두 연말 임기 끝나… ‘금융권 인사 태풍 오나’ 촉각",
-    "summary": [
-      "국내 5대 은행(KB국민, 신한, 하나, 우리, NH농협은행) 수장들의 임기가 올해 말 일제히 끝나면서 금융권 전체적으로 인사 지각 변동이 일지 주목된다.",
-      "은행 외에도 5대 금융지주에서 계열사 최고경영자(CEO)들이 대거 연내 임기 만료를 앞두고 있어 올 하반기 인사 태풍이 예고되고 있다.",
-      "최근 KB금융그룹 회장이 예상을 깨고 교체되면서 금융권에 세대교체 바람이 번질 수 있다는 전망이 나온다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "ndd1aa23d",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "1시간 전",
-    "url": "https://www.yna.co.kr/view/AKR20260914000300099",
-    "title": "이란 대통령, 전쟁발발후 처음으로 UAE 아부다비 왕세자와 회담",
-    "summary": [
-      "(요하네스버그=연합뉴스) 나확진 특파원 = 마수드 페제시키안 이란 대통령이 지난 2월말 이스라엘·미국과 이란의 전쟁 발발 이후 처음으로 아랍에미..."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "ncfde9225",
-    "category": "경제",
-    "source": "뉴시스",
-    "time": "1시간 전",
-    "url": "https://www.newsis.com/view/NISX20260911_0003785262",
-    "title": "\"돈 찍던 미국 형님? 이젠 옛말\"…흔들리는 글로벌 금융시장, 고금리 늪 빠진 이유",
-    "summary": [
-      "[서울=뉴시스]서이현 인턴 기자 = 전 세계 금융시장을 짓누르는 고금리 기조가 단순한 통화정책이 아닌 재정적자 폭증과 국채 수급 왜곡에 따른 구조적 문제라는 분석이 나왔다.",
-      "10일 방송된 MBC라디오 '손에잡히는경제'에 출연한 김명실 iM증권 연구위원에 따르면 최근 시장 변동성의 뇌관으로 지목된 엔 캐리 트레이드 청산 우려는 일본의 기준금리 인상과 엔화 가치 반등에서 비롯됐다.",
-      "싼값에 엔화를 빌려 전 세계 자산에 묻어두던 뭉칫돈이 빠져나가면서."
-    ],
-    "chips": [
-      "#금리",
-      "#정책"
-    ]
-  },
-  {
     "id": "nbdf9da6e",
     "category": "사회",
     "source": "연합뉴스(경제)",
-    "time": "1시간 전",
+    "time": "4시간 전",
     "url": "https://www.yna.co.kr/view/AKR20260913061800071",
     "title": "트럼프 \"중간선거 직후 이란 전쟁 끝날 것…어쩌면 그 전에\"",
     "summary": [
@@ -544,7 +600,7 @@ window.NEWS_DB = [
     "id": "n4c51407e",
     "category": "경제",
     "source": "한국경제",
-    "time": "1시간 전",
+    "time": "4시간 전",
     "url": "https://www.hankyung.com/article/2026090772137",
     "title": "[오늘의 운세] 2026년 9월 14일 별자리 운세",
     "summary": [
@@ -558,69 +614,11 @@ window.NEWS_DB = [
     "id": "n77e02800",
     "category": "경제",
     "source": "한국경제",
-    "time": "1시간 전",
+    "time": "4시간 전",
     "url": "https://www.hankyung.com/article/2026090772837",
     "title": "[오늘의 운세] 2026년 9월 14일 오행별 행운의 컬러",
     "summary": [
       "[오늘의 운세] 2026년 9월 14일 오행별 행운의 컬러."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n934653a4",
-    "category": "경제",
-    "source": "연합뉴스(경제)",
-    "time": "1시간 전",
-    "url": "https://www.yna.co.kr/view/AKR20260913015900003",
-    "title": "\"최고가격제 시행 6개월, 국내 석유수급 안정 지속\"",
-    "summary": [
-      "(서울=연합뉴스) 조성흠 기자 = 대한석유협회(KPA)는 석유 최고가격제 시행 6개월이 지난 현재 호르무즈 해협 봉쇄와 중동 전쟁 장기화에도 국..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nb986bd4a",
-    "category": "경제",
-    "source": "한국경제",
-    "time": "2시간 전",
-    "url": "https://www.hankyung.com/article/2026091316077",
-    "title": "동대문 길거리서 칼부림 80대…10여분 만에 현장서 체포",
-    "summary": [
-      "동대문 길거리서 칼부림 80대…10여분 만에 현장서 체포."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n23619ffa",
-    "category": "경제",
-    "source": "한국경제",
-    "time": "2시간 전",
-    "url": "https://www.hankyung.com/article/2026091315847",
-    "title": "같이 밥만 먹어줬을 뿐인데…\"1시간에 4만원 벌었어요\"",
-    "summary": [
-      "같이 밥만 먹어줬을 뿐인데…\"1시간에 4만원 벌었어요\"."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nced8d611",
-    "category": "IT",
-    "source": "ZDNet Korea",
-    "time": "3시간 전",
-    "url": "https://zdnet.co.kr/view/?no=20260913222231",
-    "title": "\"OLED TV 출하량, 2028년 760만대 기록 후 하락\"",
-    "summary": [
-      "[지디넷코리아]전 세계 유기발광다이오드(OLED) TV 출하량이 2028년 760만대를 기록하고 2029년과 2030년 2년 연속 하락할 것이란 전망이 나왔다.",
-      "액정표시장치(LCD) TV 출하량은 같은 기간 조금씩 늘어날 것으로 기대됐다.",
-      "시장조사업체 시그마인텔이 최근 제시한 연도별 OLED TV 출하량 전망치는 ▲2024년 610만대 ▲2025년 660만대 ▲2026년 690만대 ▲2027년 720만대 ▲2028년 760만대 ▲2029년 73."
     ],
     "chips": [
       "#뉴스"
@@ -633,20 +631,20 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2330건",
-    "trend": "+255%"
+    "mentions": "2200건",
+    "trend": "+235%"
   },
   {
     "rank": 2,
     "tag": "정치",
-    "mentions": "1810건",
-    "trend": "+175%"
+    "mentions": "2070건",
+    "trend": "+215%"
   },
   {
     "rank": 3,
     "tag": "AI",
-    "mentions": "1680건",
-    "trend": "+155%"
+    "mentions": "1550건",
+    "trend": "+135%"
   }
 ];
 // ====AUTO-GENERATED-END====
