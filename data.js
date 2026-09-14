@@ -1,26 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-09-14 15:24:20
+// 마지막 업데이트: 2026-09-14 20:01:23
 window.NEWS_DB = [
-  {
-    "id": "n689e4e53",
-    "category": "IT",
-    "source": "관악FM",
-    "time": "10시간 전",
-    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5XRXA4X1ZRU1VLLXU1VDN6a0JmdmxDbW5BdXRua0hVQzNpSXAtbjF6bFRkMkE3amdpMDVsWm0wcEtnTFAzR0xQZTBpVQ?oc=5",
-    "title": "“관악S밸리에서 미래 유니콘의 꿈을!” 관악구, 2026년 제3차 신규 입주기업 최대 20개사 모집",
-    "summary": [
-      "“관악S밸리에서 미래 유니콘의 꿈을!” 관악구, 2026년 제3차 신규 입주기업 최대 20개사 모집 관악FM."
-    ],
-    "chips": [
-      "#스타트업",
-      "#채용"
-    ]
-  },
   {
     "id": "n45cd626d",
     "category": "IT",
     "source": "이투데이",
-    "time": "15시간 전",
+    "time": "19시간 전",
     "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5zWFBZak9hcFY5RTc3dWFwNEdBN1JZX0FkR0NsU1BqdjRwUWV3OHpBdlJlaUl0VUFrU19Tb3Qwa1lQazhBcUpESnB3cDhEWFRIX2pnbg?oc=5",
     "title": "[특징주] 삼성전자·SK하이닉스, 중동·금리 부담에 동반 약세…4%대↓",
     "summary": [
@@ -36,7 +21,7 @@ window.NEWS_DB = [
     "id": "n7a5e9682",
     "category": "IT",
     "source": "스마트비즈",
-    "time": "16시간 전",
+    "time": "21시간 전",
     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBoREpuTnFJSnEzU0lZUHVSLUtpV1pSX201LTVweDVfbGhoRHYyWURaLU40cmlJUE5XMlhxeTRWZXYyMVhIUlJOMGk1N0RwajF4bTJqUnM2TF9vR01tQ3l1aWJ3LVhob1dpS0FrUg?oc=5",
     "title": "삼성전자·SK하이닉스, 다시 주도주 시험대···증권가는 여전히 “비중 확대”",
     "summary": [
@@ -51,7 +36,7 @@ window.NEWS_DB = [
     "id": "ndb567b17",
     "category": "IT",
     "source": "dailycar.co.kr",
-    "time": "18시간 전",
+    "time": "22시간 전",
     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9jSllBblZPQm04MjMxYWs3Wmg1WlM1UHhkQTdzbmhJdWlXb2VmdjhiOWJKTmJNelhSRy1hb25BOVNVY3ZXY1FQM3RGUnNhOWIzM1ppYnJfZW84U25DSk96QlRKX2hpeDU1aWpOT1VlZE9DR0NhNFE?oc=5",
     "title": "AI 서버값 인상, 엔비디아도 예외 아니었다!",
     "summary": [
@@ -79,20 +64,6 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n39f5a061",
-    "category": "IT",
-    "source": "머니투데이",
-    "time": "3일 전",
-    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1DSnBhbzhjcVRUX2xobktNd2JwOENZZ1g0WlZ1UExXLV83Y3prdG1WaEt3MzJ1cjBfUkwzcTlNWGFLQkM2aU1rcWRYb1ZKWUFNV0FYM3VnNDRKbzNkS1hrTmtPbERIR0My0gFuQVVfeXFMTVJnMVp1d2hFUXk4Y3o4aDMwUndkYlI2MEZCQ3RsOHUwTG9CaDNabXlqdUNZTmxudmQ5RGRnRk5IQnd0ZWs4dHRuQTJTbm1HejJFRzNueGYzaWtGcWVvSmIxeDd0UTJDU3hlbmxVNnc?oc=5",
-    "title": "상장 첫날 \"주가 182% 폭등\"...중국판 엔비디아 노리는 '이 회사' - 머니투데이",
-    "summary": [
-      "상장 첫날 \"주가 182% 폭등\"...중국판 엔비디아 노리는 '이 회사' - 머니투데이 머니투데이."
-    ],
-    "chips": [
-      "#엔비디아"
-    ]
-  },
-  {
     "id": "n76b3a7e9",
     "category": "사회",
     "source": "공뉴스",
@@ -105,6 +76,20 @@ window.NEWS_DB = [
     "chips": [
       "#채용",
       "#취업"
+    ]
+  },
+  {
+    "id": "n0aef4017",
+    "category": "IT",
+    "source": "뉴시스",
+    "time": "4일 전",
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9fTzJhYXBFMXRaMWRpWkxQUjdWR3Y4dkxNR0pxX3BOWUQxZURwMTFsR1pnRjRIaGs4WjRCYXVrM3Fmb29NUWxzZ2JlVnZKUUFFWk0xWGlkMzlBT3p2STBvS0FDQ2dqQndxZzNnQ2l6Q1lTTERNNWhTUNIBeEFVX3lxTE9fTzJhYXBFMXRaMWRpWkxQUjdWR3Y4dkxNR0pxX3BOWUQxZURwMTFsR1pnRjRIaGs4WjRCYXVrM3Fmb29NUWxzZ2JlVnZKUUFFWk0xWGlkMzlBT3p2STBvS0FDQ2dqQndxZzNnQ2l6Q1lTTERNNWhTUA?oc=5",
+    "title": "\"美법무, 지난해 엔비디아-그록 '우회 인수' 반독점 조사\"",
+    "summary": [
+      "\"美법무, 지난해 엔비디아-그록 '우회 인수' 반독점 조사\" 뉴시스."
+    ],
+    "chips": [
+      "#엔비디아"
     ]
   },
   {
@@ -155,12 +140,27 @@ window.NEWS_DB = [
   {
     "id": "n2c0f41aa",
     "category": "IT",
-    "source": "연합뉴스",
+    "source": "yna.co.kr",
     "time": "13일 전",
     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBSVEdqRzlmS1Y1dU1BV2dEamdfeGZHV1pVVnNmZnllZTZFX2ZlNXpQSEkzUGFHRFpSN2djQVRpbGVvM1FDQVVZU3Q0ckVYQzR4dy1BUkREV2x0ZWfSAWBBVV95cUxPMUVfaGpjN0VCUi1uUWtyRHFxZjFRbS0wcGJPc1hlVEs0c0I2QkltU2xRWFI4M1lHajczY29Vdmthb0lRazFMck5YQTB3X01zQWlTN09xMHVUbjQ4N0hLTkY?oc=5",
     "title": "\"관악S밸리에서 유니콘의 꿈을\"…관악구, 입주사 최대 20곳 모집",
     "summary": [
-      "\"관악S밸리에서 유니콘의 꿈을\"…관악구, 입주사 최대 20곳 모집 연합뉴스."
+      "\"관악S밸리에서 유니콘의 꿈을\"…관악구, 입주사 최대 20곳 모집 yna.co.kr."
+    ],
+    "chips": [
+      "#스타트업",
+      "#채용"
+    ]
+  },
+  {
+    "id": "na429764b",
+    "category": "IT",
+    "source": "go.seoul.co.kr",
+    "time": "13일 전",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9ZSzB6eVR0WW1HWHg4TF9QakZXeHhoQTBDX1JsVW92N2lBc24wZkhsaHBnbWpTTHlMZlN1ZWJMcF9wNlF2OUR0TUhBNDVkajdadnFiZnI2bWFxMkdXbWk1cWdEQmdmdHRKelE?oc=5",
+    "title": "관악구, ‘관악S밸리’에서 유니콘 꿈 키울 스타트업 20곳 모집",
+    "summary": [
+      "관악구, ‘관악S밸리’에서 유니콘 꿈 키울 스타트업 20곳 모집 go.seoul.co.kr."
     ],
     "chips": [
       "#스타트업",
@@ -170,12 +170,12 @@ window.NEWS_DB = [
   {
     "id": "n0fbb40c3",
     "category": "경제",
-    "source": "sankyungtoday.com",
+    "source": "산경투데이",
     "time": "42일 전",
     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBQRWVKOE84WWtLMk9yNUZ3a1MxY280b0xBYUg5RFRtNXkza2g5ZVZtMWtkdTRYTGZYZWlsd3gyczFIbGFnR0FRN2lXOC1wXzdhS0dCRlFPVFNybFRVajhUY3NWM1pOb2lQcTA3LWZNMl_SAXRBVV95cUxORWtoV1l1S0x4bTBWZU4xdjloeFlpZjVoNzhISlI1eHNSaWZfTTFBV1pCa05YX2ZqeHFjcElCbl9odEJSeXNpaGpCMkJQTElQQm4xX2Jib2tVUEQzMkgtTmhNU0xnMlhmakR3WF9VbjVpWmNYWQ?oc=5",
     "title": "증시 충격에 흔들린 8월 금리 전망…채권시장 ‘동결 가능성’ 무게",
     "summary": [
-      "증시 충격에 흔들린 8월 금리 전망…채권시장 ‘동결 가능성’ 무게 sankyungtoday.com."
+      "증시 충격에 흔들린 8월 금리 전망…채권시장 ‘동결 가능성’ 무게 산경투데이."
     ],
     "chips": [
       "#금리"
@@ -184,12 +184,12 @@ window.NEWS_DB = [
   {
     "id": "nac7d261c",
     "category": "사회",
-    "source": "연합뉴스",
+    "source": "yna.co.kr",
     "time": "45일 전",
     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1wZmd4RTNaSTBwNVNxSm0yRGFySTlYN19qVTZfYzRtVzBzVV9nSnR3RXdYaTNiNkZRX3F6aXhFZTA5ekUxNW9VWHIzZHFjYnoyWU0wVDNoU2FJcVE?oc=5",
     "title": "강남구 일자리통합지원센터, 맞춤형 지원으로 취업자 25.7％ 증가",
     "summary": [
-      "강남구 일자리통합지원센터, 맞춤형 지원으로 취업자 25.7％ 증가 연합뉴스."
+      "강남구 일자리통합지원센터, 맞춤형 지원으로 취업자 25.7％ 증가 yna.co.kr."
     ],
     "chips": [
       "#취업",
@@ -284,12 +284,12 @@ window.NEWS_DB = [
   {
     "id": "n783ebe44",
     "category": "스포츠",
-    "source": "techm.kr",
+    "source": "테크M",
     "time": "166일 전",
     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4zeE1CWFFHZzZrMjhfLXJoWERMeW9jVzI5eF91RWV1NUxXelFvT1U5YWpyRjZaQ1NqclNTR1hoRWEwYl9qQmc4WTh5Q29TSWROU3ptQ1ZmXy1rajBVczZ1T1A0RXZ0UdIBakFVX3lxTE4tUUs3ak9IVFI3ZEtUQmg5NUpZbWRwdUN5OEFTU2JqaWN4WWJzMVJVc0pLU1U0UzVZTkRKMlRZSUIyNmhPVjVWMzBTVGxocHc2VUdVZl9rRWdUaXVxTjFSdUpzTzFPdEZHdnc?oc=5",
     "title": "'야구·축구·골프'로 갈라진 국내 OTT...스포츠 팬덤 경쟁 격화",
     "summary": [
-      "'야구·축구·골프'로 갈라진 국내 OTT...스포츠 팬덤 경쟁 격화 techm.kr."
+      "'야구·축구·골프'로 갈라진 국내 OTT...스포츠 팬덤 경쟁 격화 테크M."
     ],
     "chips": [
       "#KBO"
@@ -310,10 +310,310 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "nbc49293d",
+    "category": "IT",
+    "source": "머니투데이",
+    "time": "1분 전",
+    "url": "https://www.mt.co.kr/tech/2026/09/15/2026090713073654924",
+    "title": "극소량 시료로 실험결과 확인…바이오 분석장비 국산화 숙원 푼다",
+    "summary": [
+      "[스타트UP스토리]박상열 이노시스랩 대표 [이 기사에 나온 스타트업에 대한 보다 다양한 기업정보는 유니콘팩토리 빅데이터 플랫폼 '데이터랩'에서 볼 수 있습니다.] \"실험이 제대로 진행되고 있는지를 알려주는 이런 장비는 세계 어디에도 없습니다.\" 대전 유성구 한국표준과학연구원(KRISS·표준연) 창업공작소 202호.",
+      "30여년간 표준연에서 바이오 측정표준을 연구하며 기관장, 본부장을 두루 지낸 박상열 이노시스랩 대표가 자체 개발한 바이오 연구장비."
+    ],
+    "chips": [
+      "#스타트업"
+    ]
+  },
+  {
+    "id": "na5e618b0",
+    "category": "사회",
+    "source": "머니투데이",
+    "time": "1분 전",
+    "url": "https://www.mt.co.kr/society/2026/09/15/2026091422444719147",
+    "title": "알바 얼굴에 뜨거운 커피 '확'…\"카페 앞 자판기 설치\" 보복 예고도",
+    "summary": [
+      "경기 남양주시 한 카페에서 아르바이트생에게 뜨거운 커피를 던져 화상을 입힌 남성이 경찰에 붙잡혔다.",
+      "이 남성은 사건 후에도 피해 직원을 탓하며 \"카페 앞에 커피 자판기를 설치하겠다\"고 말한 것으로 알려졌다.",
+      "14일 JTBC '사건반장'에 따르면 지난달 17일 오전 10시쯤 남양주시 한 카페에 남성 손님 A씨가 찾아와 음료 3잔을 주문했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n5bedf564",
+    "category": "경제",
+    "source": "머니투데이",
+    "time": "1분 전",
+    "url": "https://www.mt.co.kr/economy/2026/09/15/2026091117495010968",
+    "title": "[우보세]월급쟁이는 봉인가요",
+    "summary": [
+      "[우리가 보는 세상] 뉴스현장에는 희로애락이 있습니다.",
+      "그 가운데 기사로 쓰기에 쉽지 않은 것도 있고, 곰곰이 생각해봐야 할 일도 많습니다.",
+      "'우리가 보는 세상'(우보세)은 머니투데이 시니어 기자들이 속보 기사에서 자칫 놓치기 쉬운 '뉴스 속의 뉴스' '뉴스 속의 스토리'를 전하는 코너입니다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "ne7fbabf8",
+    "category": "스포츠",
+    "source": "아시아경제",
+    "time": "1분 전",
+    "url": "https://view.asiae.co.kr/article/2026091422532793611",
+    "title": "신상진 시장의 일침…\"중수청장보다 91만 성남 부시장이 더 급하다\"",
+    "summary": [
+      "\"경기도와 직접 관련도 없는 중수청장 지명을 문제 삼기 전에 성남시 부시장 인사부터 해야 합니다.",
+      "내년 1월까지 인사를 미루는 게 말이 됩니까.",
+      "91만 성남시민의 안전은 누가 책임집니까.\" 신상진 성남시장이 장기간 이어지고 있는 부시장 공석 사태를 두고 추미애 경기도지사를 강하게 비판했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "ndc764c5d",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "1분 전",
+    "url": "https://www.newsis.com/view/NISX20260914_0003788991",
+    "title": "김승원 오늘 '증인 0명' 청문회…'식약처 로비' 등 검증 난항 예고",
+    "summary": [
+      "[서울=뉴시스] 오정우 기자 = 김승원 법무부 장관 후보자에 대한 인사청문회가 15일 열린다.",
+      "최대 뇌관으로 꼽히는 '식약처(식품의약품안전처) 로비'와 정모 부장판사와의 유착 등 각종 의혹 관련 증인 채택이 이뤄지지 않으면서 검증에 난항이 예상된다.",
+      "국회 법제사법위원회는 이날 오전 10시 서울 여의도 국회 본관 법사위 전체회의장에서 김 후보자에 대한 인사청문회를 진행한다."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "nbe3707df",
+    "category": "스포츠",
+    "source": "뉴시스",
+    "time": "1분 전",
+    "url": "https://www.newsis.com/view/NISX20260914_0003789269",
+    "title": "[오늘의 주요일정]국회(9월15일 화요일)",
+    "summary": [
+      "[서울=뉴시스] ◇국회의장 11:00 미르지요예프 우즈베키스탄 대통령 면담(국회 접견실) 14:00 베르디무하메도프 투르크메니스탄 대통령 면담(국회 접견실) 17:30 춘천 2026 세계태권도품새선수권대회 개막식(춘천 송암스포츠타운 에어돔) ◇위원회 10:00 법제사법위원회 전체회의(본관 406호) 10:00 정무위원회 전체회의(본관 604호) 10:00 재정경제기획위원회 전체회의(본관 430호) 10:00 과학기술정보방송통신위원회 전체회의(본."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "ne8a6f736",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "1분 전",
+    "url": "https://www.newsis.com/view/NISX20260914_0003789265",
+    "title": "[오늘의 주요일정]정치(9월15일 화요일)",
+    "summary": [
+      "[서울=뉴시스] ◇청와대【대통령】 10:00 '베르디무하메도프' 투르크메니스탄 대통령 국빈 방한 공식환영식(청와대 대정원) 10:15 방명록 서명 및 기념촬영(청와대 본관) 10:20 소인수 회담(청와대 본관) 10:40 확대 회담(청와대 본관) 11:40 협정·양해각서 체결식(청와대 본관) 12:15 국빈 오찬(청와대 본관) 16:00 '토카예프' 카자흐스탄 대통령 국빈 방한 공식환영식(청와대 대정원) 16:15 방명록 서명 및 기념촬영(청와."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "na2afbe48",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "1분 전",
+    "url": "https://www.newsis.com/view/NISX20260914_0003789203",
+    "title": "[단독]'1등급 장애'까지 정해놓고도…정작 원서접수 매뉴얼은 허술",
+    "summary": [
+      "[세종=뉴시스]용윤신 기자 = 2027학년도 대입 수시모집 원서접수 시스템 장애로 원서 작성과 결제 등에 차질이 빚어진 가운데, 한국대학교육협의회(대교협) 장애대응 매뉴얼은 이 같은 원서접수 서비스 장애를 가장 높은 수준인 '상(1등급)'으로 분류하고도 구체적인 후속 대응 기준은 충분히 마련하지 않은 것으로 나타났다.",
+      "1등급 장애에 대한 조치로 '대학별 원서접수 일정 연기 고려'를 명시했지만, 수험생에게 장애와 접수 연장 사실을 언제·어떤 방식."
+    ],
+    "chips": [
+      "#채용",
+      "#교육"
+    ]
+  },
+  {
+    "id": "na3a31d45",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "7분 전",
+    "url": "https://www.donga.com/news/Inter/article/all/20260915/134668865/1",
+    "title": "핀란드, 佛 ‘유럽 핵 우산’ 구상 10번째 합류…에스토니아 “논의 중”",
+    "summary": [
+      "핀란드가 14일(현지 시간) 프랑스가 주도하는 유럽 핵 억지 협력 구상에 합류하기로 했다.폴리티코 유럽에 따르면 알렉산데르 스투브 핀란드 대통령은 이날 소셜미디어 엑스(X·옛 트위터)를 통해 “핀란드가 프랑스의 전방 억지력 구상(forward deterrence initiative)에 참여하면서 새로운 진전을 이뤘다”고 밝혔다.스투브 대통령은 “이 구상은 무엇보다 유럽 안보를 강화하는 데 목적이 있다”며 “유럽이 자체 방어에 더 큰 책임을 지고."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "nd2f7c7a2",
+    "category": "경제",
+    "source": "머니투데이",
+    "time": "11분 전",
+    "url": "https://www.mt.co.kr/society/2026/09/15/2026091422583023935",
+    "title": "외국인 '쿵' 쓰러지자...달려온 러닝 크루, 신속 응급처치[오따뉴]",
+    "summary": [
+      "우리가 사는 세상은 아직 따뜻합니다.",
+      "[오따뉴 : 오늘의 따뜻한 뉴스]를 통해 그 온기와 감동을 만나보세요.",
+      "'쿵' 운동장에서 달리다 쓰러진 30대 외국인이 러닝클럽 회원들의 신속한 대처로 소중한 생명을 구했다."
+    ],
+    "chips": [
+      "#교육"
+    ]
+  },
+  {
+    "id": "nda456715",
+    "category": "경제",
+    "source": "연합뉴스",
+    "time": "12분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260915005100099",
+    "title": "송유관 피격에…\"사우디, 호르무즈 통한 원유 수출 확대 모색\"",
+    "summary": [
+      "(요하네스버그=연합뉴스) 나확진 특파원 = 사우디아라비아가 이란 전쟁 발발 이후 핵심 원유 수송로로 이용해온 '동서 송유관'이 공격받아 가동이 ..."
+    ],
+    "chips": [
+      "#수출"
+    ]
+  },
+  {
+    "id": "naee4903b",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "21분 전",
+    "url": "https://www.chosun.com/sports/baseball/2026/09/15/MMZGINJQHAYWIZJWMNRTMZLEMI/",
+    "title": "'9연패→5연승→3연패' 롤러코스터 타는 한화…이제는 '문노' 없는 시간, 어떻게 풀어나갈까",
+    "summary": [
+      "[OSEN=조은혜 기자] 프로야구 한화 이글스가 주축 타자 문현빈과 노시환이 없는 기간을 슬기롭게 버틸 수 있을까.김경문 감독이 이끄는 한화는 15일 대전 한화생명 볼파크에서 2026 신한 SOL KBO리그 KT 위즈와의 홈경기를 치른다.",
+      "3연패에 빠지며 시즌 전적 54승68패3무로 7위에 자리한 한화는 경기가 없던 14일 아이치-나고야 아시안게임 국가대표."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
+    "id": "ne2ac4623",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "24분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260915005400079",
+    "title": "혁명수비대 \"호르무즈서 초대형 유조선 기뢰 충돌…불길 휩싸여\"",
+    "summary": [
+      "(카이로=연합뉴스) 김상훈 특파원 = 이란 이슬람혁명수비대(IRGC) 해군은 호르무즈 해협 남단 통제 구역을 통과하려던 초대형 유조선이 기뢰와 ..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "ne717a9db",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "31분 전",
+    "url": "https://www.donga.com/news/Culture/article/all/20260915/134668166/2",
+    "title": "“화분-찻잔-나무토막, 소리 나는 모든 것이 악기죠”",
+    "summary": [
+      "《화분과 찻잔, 나무토막과 신문지, 심지어 선인장까지.미국 4인조 타악 앙상블 ‘소 퍼커션(Sō Percussion)’에게 세상은 온통 악기다.",
+      "1999년 결성된 팀은 드럼과 마림바 같은 전통 타악기뿐 아니라 일상에 쓰는 물건들을 무대에 올려 타악의 범위를 넓혀 왔다.스티브 라이시, 데이비드 랭 등 여러 유명 현대음악 작곡가들과 작업해 왔던 소 퍼커션은 2024년 작곡가 캐럴라인 쇼와 함께 앨범 ‘렉탱글스 앤드 서컴스탠스(Rectangles a."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nb28214eb",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "31분 전",
+    "url": "https://www.donga.com/news/Culture/article/all/20260915/134668164/2",
+    "title": "권순익 ‘산에 비친 산…’ 展",
+    "summary": [
+      "서울 용산구에 있는 화이트스톤 갤러리 서울이 추상 미술가 권순익 작가(67)의 개인전 ‘산에 비친 산, 물에 비친 물’을 선보이고 있다.지난달 29일 개막한 전시는 작가의 대표 연작 ‘무아(無我)’와 ‘적·연(積·硏)’을 중심으로 최근 새롭게 시도한 조형적 변화를 조명한다.",
+      "전시 제목인 ‘산에 비친 산, 물에 비친 물’에는 대상을 특정 의미로 설명하거나 재현하기보다, 존재 자체를 있는 그대로 바라보려는 작가의 태도를 담았다.권 작가의 핵심적인."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n9f168f24",
+    "category": "스포츠",
+    "source": "동아일보",
+    "time": "31분 전",
+    "url": "https://www.donga.com/news/Culture/article/all/20260915/134668169/2",
+    "title": "“달빛 지르밟고… 별빛 물든 국가유산, 밤 나들이 어때요”",
+    "summary": [
+      "12일 오후 경기 양주시에 있는 ‘양주관아지’.",
+      "조선 관아 터인 이곳의 정문인 외삼문 2층에서 둥둥 북소리가 울리자 관원 복장을 한 이들이 나타나 시작을 알렸다.",
+      "어스름한 어둠 속으로 화려한 미디어아트가 눈길을 끌었고, 관객들은 가상현실(VR)로 둘러보거나 대모산성 발굴 체험에 나섰다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n014bef7c",
+    "category": "IT",
+    "source": "연합뉴스",
+    "time": "34분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260915005000091",
+    "title": "\"AI속도조절 얘기하더니…앤트로픽, 예정대로 올해 상장 전망\"",
+    "summary": [
+      "(샌프란시스코=연합뉴스) 권영전 특파원 = 인공지능(AI)의 위험성을 경고하며 업계의 속도조절론을 주도하고 있는 앤트로픽이 기업공개(IPO)는 ..."
+    ],
+    "chips": [
+      "#AI"
+    ]
+  },
+  {
+    "id": "n0bc4e48f",
+    "category": "IT",
+    "source": "조선일보",
+    "time": "44분 전",
+    "url": "https://www.chosun.com/international/us/2026/09/15/5PFZAPH7SBEG7INUF72XPW37TQ/",
+    "title": "트럼프, ‘AI 속도조절론’ 연일 반박… “정신나간 음모이자 사기극”",
+    "summary": [
+      "트럼프, ‘AI 속도조절론’ 연일 반박… “정신나간 음모이자 사기극”."
+    ],
+    "chips": [
+      "#AI"
+    ]
+  },
+  {
+    "id": "n7cd4b0d4",
+    "category": "사회",
+    "source": "아시아경제",
+    "time": "47분 전",
+    "url": "https://view.asiae.co.kr/article/2026091504134041670",
+    "title": "트럼프 \"러·우, 에너지 시설 공격 중단 합의\"",
+    "summary": [
+      "도널드 트럼프 미국 대통령은 14일(현지시간) 러시아와 우크라이나가 상대국의 에너지 시설을 공격하지 않기로 합의했다고 주장했다.",
+      "최근 사상 최고 수준으로 치솟은 경유 가격의 책임을 이란 전쟁이 아닌 우크라이나 전쟁에 돌리는 한편, 이란과의 협상 가능성도 열어뒀다.",
+      "트럼프 대통령은 이날 사회관계망서비스(SNS) 트루스소셜에 \"우크라이나가 러시아의 에너지 시설을 공격하지 않기로 동의했으며 러시아도 똑같이 하기로 했다\"고 밝혔다."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n42eff4c2",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "1시간 전",
+    "url": "https://www.chosun.com/international/international_general/2026/09/15/I4DQIFDAOFCV5GM733HU6SK4X4/",
+    "title": "‘트럼프 쇼’ 시청률 완패…NFL 시청자가 10배 더 많았다",
+    "summary": [
+      "‘트럼프 쇼’ 시청률 완패…NFL 시청자가 10배 더 많았다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
     "id": "nba2cff09",
     "category": "IT",
     "source": "테크M",
-    "time": "방금 전",
+    "time": "1시간 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=155225",
     "title": "게임·영화·웹툰 창작자 한자리에...지스타 'G-CON' 외연 넓힌다",
     "summary": [
@@ -324,318 +624,6 @@ window.NEWS_DB = [
     "chips": [
       "#AI"
     ]
-  },
-  {
-    "id": "n493058dd",
-    "category": "IT",
-    "source": "테크M",
-    "time": "방금 전",
-    "url": "https://www.techm.kr/news/articleView.html?idxno=155224",
-    "title": "최휘영 문체부 장관, 'TGS 26' 찾는다...日 한가운데서 K게임 격려",
-    "summary": [
-      "최휘영 문화체육관광부 장관이 일본 도쿄에서 열리는 '도쿄게임쇼 26(TGS 26)' 현장을 찾아 국내 게임업계를 격려한다.",
-      "14일 게임업계에 따르면 최휘영 장관은 오는 20일 일본 치바현 마쿠하리 멧세에서 열리는 TGS 26을 방문하는 것으로 가닥을 잡고 세부 일정을 조율하고 있다.",
-      "최휘영 장관은 국내 주요 게임사들의 부스를 둘러보고 한국콘텐츠진흥원이 마련한 한국공동관도 찾아 참가 기업들을 격려할 것으로 알려졌다.최휘영 장관의 이번 방문은 일본."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n387e0deb",
-    "category": "경제",
-    "source": "테크M",
-    "time": "방금 전",
-    "url": "https://www.techm.kr/news/articleView.html?idxno=155223",
-    "title": "삼성SDS, 뉴스위크 '신뢰받는 SW기업' 글로벌 1위...'가전' 부문엔 삼성전자",
-    "summary": [
-      "미국 시사주간지 뉴스위크가 선정하는 '세계에서 가장 신뢰받는 소프트웨어 기업' 1위에 삼성SDS가 선정됐다.",
-      "SDS가 최상위권에 이름을 올린 것은 올해로 3년째다.10일(현지시간) 뉴스위크에 따르면 '세계에서 가장 신뢰할 수 있는 기업 2026' 평가에서 삼성SDS가 '소프트웨어 및 통신' 부문 글로벌 1위를 기록했다.뉴스위크는 글로벌 조사기관 스태티스타와 함께 20개국 23개 산업군의 매출액 5억달러(약 6731억원) 이상 글로벌 상장기업을."
-    ],
-    "chips": [
-      "#삼성전자"
-    ]
-  },
-  {
-    "id": "n7368d2ce",
-    "category": "IT",
-    "source": "테크M",
-    "time": "방금 전",
-    "url": "https://www.techm.kr/news/articleView.html?idxno=155222",
-    "title": "[카드뉴스] 게임하고, 음악 듣고, AI로 만들고...4만3000명이 즐긴 'GXG'는 달랐다",
-    "summary": [
-      "게임축제에서 즐길 수 있는 건 이제 게임만이 아닙니다.",
-      "판교역 광장에서 열린 ‘GXG 2026’에는 이틀간 약 4만3000명이 몰렸는데요.",
-      "인디게임을 직접 플레이하는 것부터 게임에서 영감을 받은 음악과 공연, AI를 활용한 사운드 제작, 코스프레까지 즐기는 방식도 한층 다양해졌습니다."
-    ],
-    "chips": [
-      "#AI"
-    ]
-  },
-  {
-    "id": "naa8e507a",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "4분 전",
-    "url": "https://www.newsis.com/view/NISX20260914_0003788708",
-    "title": "\"한국 인식 달라졌다\"…日카페 점주 감동 준 한국인 관광객의 '600엔'",
-    "summary": [
-      "[서울=뉴시스]이지우 인턴 기자 = 일본의 한 카페를 찾은 한국인 관광객들이 점주가 무료로 다시 만들어준 음료값을 감사 메모와 함께 남기고 떠나 훈훈함을 자아냈다.",
-      "13일 KNN은 일본 홋카이도 하코다테의 한 카페에 방문한 한국인 관광객들의 사연을 보도했다.",
-      "지난해 2월 해당 카페에 한국인 관광객 다섯 명이 방문했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n32d0c461",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "4분 전",
-    "url": "https://www.newsis.com/view/NISX20260914_0003787727",
-    "title": "\"어차피 아기 안 가질 거잖아\"…아픈 친구에게 자궁 적출 권한 17년 지기",
-    "summary": [
-      "[서울=뉴시스]장인혜 인턴 기자 = 자궁 관련 조직검사를 앞둔 20살 여성이 17년 지기 친구에게 자궁을 뜯어내라는 말을 듣고 충격을 받았다며 온라인에 사연을 털어놨다.",
-      "지난 9일 온라인 커뮤니티에 '자궁 적출하라는 친구 발언, 제가 예민한 걸까요?'라는 제목의 글이 올라왔다.",
-      "올해 20살이 됐다는 작성자 A씨는 \"어린 시절부터 건강이 좋지 않아 엑스레이와 CT, MRI를 비롯해 조영제 검사, 고용량 스테로이드 치료, 혈관 검사, 심전도 검사."
-    ],
-    "chips": [
-      "#고용",
-      "#의료"
-    ]
-  },
-  {
-    "id": "n38e9e089",
-    "category": "경제",
-    "source": "아시아경제",
-    "time": "9분 전",
-    "url": "https://view.asiae.co.kr/article/2026091500143413364",
-    "title": "美 10년물 결국 5% 돌파…글로벌 증시 '빨간불'",
-    "summary": [
-      "세계 금융시장의 기준금리 역할을 하는 미국 10년 만기 국채 금리가 결국 5%를 돌파했다.",
-      "이란 전쟁에 따른 국제유가 급등으로 인플레이션 우려가 커진 데다 미국 정부의 막대한 재정적자와 인공지능(AI) 투자를 위한 기업들의 자금 수요가 맞물리며 국채 매도세가 거세졌기 때문이다.",
-      "주식과 채권시장 모두를 뒤흔들 수 있는 '5% 시대'가 다시 열린 것이다."
-    ],
-    "chips": [
-      "#AI",
-      "#금리"
-    ]
-  },
-  {
-    "id": "n3dd7adf6",
-    "category": "경제",
-    "source": "뉴시스",
-    "time": "14분 전",
-    "url": "https://www.newsis.com/view/NISX20260914_0003788018",
-    "title": "\"주식 차트 몰입은 싸구려 도파민\"…'진짜 부자 가짜부자' 저자가 말하는 경제적 자유의 본질",
-    "summary": [
-      "[서울=뉴시스]이준형 인턴 기자 = 돈을 벌기 위해 시간과 건강을 희생하는 삶은 '가짜 부자'의 삶에 불과하며, 진정한 경제적 자유는 삶의 주도권을 쥐는 데서 나온다는 전문가의 지적이 나왔다.",
-      "13일 유튜브 채널 '최재천의 아마존'에는 '진짜 부자 가짜 부자'의 저자인 사경인 회계사가 출연해 생물학자 최재천 서울대 명예교수와 대담을 나눴다.",
-      "해당 영상에서 사 회계사는 현대인이 착각하기 쉬운 '경제적 자유'와 '진짜 부자'의 조건, 그리고 숫자에."
-    ],
-    "chips": [
-      "#의료"
-    ]
-  },
-  {
-    "id": "n1a469810",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "14분 전",
-    "url": "https://www.chosun.com/sports/baseball/2026/09/15/MJSTANDCGQ3TSMJYGY2GKMDFMI/",
-    "title": "'AG 공백 대비' 중요 선수였건만…'2연패' 삼성 결단, 김영웅 충격 2군행…끝이 안 보이는 슬럼프",
-    "summary": [
-      "[OSEN=조형래 기자] 아시안게임 차출을 대비해 공백을 채울 중요 선수라고 생각했는데, 2군으로 향했다.",
-      "삼성 라이온즈 내야수 김영웅에게 닥친 2026년의 암흑은 끝이 보이지 않고 있다.KBO는 14일 야구가 없는 월요일 등록선수 현황을 공개했다.",
-      "말소된 선수는 무려 24명."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
-    "id": "n04772161",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "14분 전",
-    "url": "https://www.chosun.com/opinion/palmyeonbong/2026/09/15/K3IYB5KVEJAM5PB3KQ74CUUTEA/",
-    "title": "[팔면봉] 김민석, “노무현 전 대통령 탄핵 시기 전조와 비슷한 상황”. 외",
-    "summary": [
-      "[팔면봉] 김민석, “노무현 전 대통령 탄핵 시기 전조와 비슷한 상황”. 외."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "ndaa36332",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "14분 전",
-    "url": "https://www.chosun.com/opinion/editorial/2026/09/15/QN3765P7QJEN7KFAL4EZKZJVGI/",
-    "title": "[사설] 대법관 제청권 위기 부른 김민기 판사의 입장이 궁금하다",
-    "summary": [
-      "[사설] 대법관 제청권 위기 부른 김민기 판사의 입장이 궁금하다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nf6590b23",
-    "category": "경제",
-    "source": "뉴시스",
-    "time": "16분 전",
-    "url": "https://www.newsis.com/view/NISX20260914_0003789288",
-    "title": "美 10년물 국채금리 '심리적 저항선' 5% 돌파…2023년 10월 이후 처음",
-    "summary": [
-      "[서울=뉴시스]고재은 기자 = 미국 10년 만기 국채금리가 14일(현지 시간) 2023년 이후 처음으로 심리적 저항선인 5%를 돌파했다.",
-      "CNBC 등에 따르면 미 10년물 국채금리는 이날 오전 거래에서 0.02%포인트(2bp) 이상 오른 5%를 기록했다.",
-      "2023년 10월 이후 최고치다."
-    ],
-    "chips": [
-      "#금리"
-    ]
-  },
-  {
-    "id": "n9a0d5c1d",
-    "category": "경제",
-    "source": "조선일보",
-    "time": "22분 전",
-    "url": "https://www.chosun.com/economy/int_economy/2026/09/15/E74JRUMJKZG43CIZZBOMMDIUZA/",
-    "title": "미국 10년물 국채 금리 5% 돌파…3년 만에 처음",
-    "summary": [
-      "미국 10년물 국채 금리 5% 돌파…3년 만에 처음."
-    ],
-    "chips": [
-      "#금리"
-    ]
-  },
-  {
-    "id": "nad468748",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "24분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260914145000017",
-    "title": "[사이테크+] \"마비 환자 뇌신호 해독해 아바타 말·몸짓으로 의사 표현한다\"",
-    "summary": [
-      "(서울=연합뉴스) 이주영 기자 = 뇌졸중이나 근위축성 측삭경화증(ALS) 같은 질환으로 발성 기관과 신체가 마비된 사람의 뇌 표면에 이식한 뇌전..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n5fab95fe",
-    "category": "사회",
-    "source": "연합뉴스(경제)",
-    "time": "24분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260914104500017",
-    "title": "우주위험 대응 빨라진다…기본계획 주기 10년→5년",
-    "summary": [
-      "(서울=연합뉴스) 신선미 기자 = 정부의 우주위험대비 기본계획 수립 주기가 10년에서 5년으로 줄어든다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "ndca8e443",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "24분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260915000100011",
-    "title": "[알림] 연합뉴스 콘텐츠 저작권 고지",
-    "summary": [
-      "연합뉴스가 제공하는 기사, 사진, 그래픽, 영상 등 모든 콘텐츠는 관련 법의 보호를 받습니다.",
-      "연합뉴스 콘텐츠를 사전허가 없이 전재·방송하거나 ..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nf8d11241",
-    "category": "사회",
-    "source": "아시아경제",
-    "time": "24분 전",
-    "url": "https://view.asiae.co.kr/article/2026091416104804857",
-    "title": "우주위험 대응계획 10년→5년…위성 충돌 위험 커지자 주기 단축",
-    "summary": [
-      "저궤도 위성 증가와 민간 우주활동 확대로 우주 공간의 충돌 위험이 커지면서 정부가 우주위험 대응 정책을 짜는 주기를 기존 10년에서 5년으로 절반으로 줄인다.",
-      "우주항공청은 '우주위험대비 기본계획'의 수립 주기를 10년에서 5년으로 단축하는 내용의 우주개발 진흥법 일부개정법률이 15일 공포·시행됐다고 밝혔다.",
-      "우주위험대비 기본계획은 인공우주물체의 추락·충돌과 태양활동에 따른 우주환경 변화 등 우주에서 발생할 수 있는 위험에 대응하기 위한 정부 계."
-    ],
-    "chips": [
-      "#정책",
-      "#환경"
-    ]
-  },
-  {
-    "id": "n7ef3d85e",
-    "category": "사회",
-    "source": "아시아경제",
-    "time": "24분 전",
-    "url": "https://view.asiae.co.kr/article/2026091410594513674",
-    "title": "韓, 2030년대 핵융합 전력 실증 속도…美·英과 기술·규제 협력 확대",
-    "summary": [
-      "정부가 2030년대 핵융합 전력 실증을 목표로 미국·영국 등 핵융합 선도국과 기술뿐 아니라 규제와 산업 분야까지 협력을 확대한다.",
-      "연구개발 중심이던 국제협력을 핵융합 상용화에 필요한 규제·산업 생태계 구축으로 넓히겠다는 전략이다.",
-      "과학기술정보통신부는 구혁채 제1차관이 14일(현지시간) 영국 런던에서 열린 '글로벌 핵융합 정책 서밋(Global Fusion Policy Summit)'에 참석해 핵융합 분야 국제협력 확대 방안을 논의했다고 밝혔다."
-    ],
-    "chips": [
-      "#정책"
-    ]
-  },
-  {
-    "id": "n588bc817",
-    "category": "경제",
-    "source": "동아일보",
-    "time": "30분 전",
-    "url": "https://www.donga.com/news/Inter/article/all/20260914/134668615/2",
-    "title": "[속보]美 10년만기 국채금리 5% 터치…2023년 10월 이후 처음",
-    "summary": [
-      "미국 10년 만기 국채금리가 14일(현지 시간) 장중 5%대를 터치했다.",
-      "중동 지역 긴장 고조에 따른 국제유가 상승과 인플레이션 우려가 커지면서 글로벌 채권 시장에서 미국 국채 매도세가 이어진 영향이다.파이낸셜타임스(FT)과 월스트리트저널(WSJ) 등에 따르면 이날 오전 뉴욕증시 거래에서 미국 10년 만기 국채금리는 장중 5%대에 도달했다.",
-      "10년 만기 미 국채금리가 5%를 넘어선 것은 2023년 이후 처음이며, 2007년 이후로는 두 번째다."
-    ],
-    "chips": [
-      "#금리"
-    ]
-  },
-  {
-    "id": "n67f29998",
-    "category": "IT",
-    "source": "아시아경제",
-    "time": "30분 전",
-    "url": "https://view.asiae.co.kr/article/2026091423531905019",
-    "title": "[뉴욕증시]10년물 5% 돌파…나스닥 1%대 하락",
-    "summary": [
-      "미국 10년 만기 국채 금리가 5%를 돌파하고 인공지능(AI) 관련주가 급락하면서 14일(현지시간) 미국 뉴욕증시의 3대 지수는 일제히 하락 중이다.",
-      "국제유가도 다시 급등하면서 연방준비제도(Fed)의 금리 인상 가능성이 커지자 투자심리가 크게 위축된 것으로 풀이된다.",
-      "뉴욕증권거래소(NYSE)에서 오전 10시 43분 현재 다우지수는 전 거래일보다 264.51포인트(0.50%) 떨어진 5만2308.788에 거래 중이다."
-    ],
-    "chips": [
-      "#AI",
-      "#금리"
-    ]
-  },
-  {
-    "id": "n8218d4ba",
-    "category": "IT",
-    "source": "연합뉴스",
-    "time": "34분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260914175900072",
-    "title": "AI 개발 제동론에 반도체주 급락…엔비디아·브로드컴 동반 하락",
-    "summary": [
-      "(뉴욕=연합뉴스) 임수정 특파원 = 인공지능(AI) 기술의 개발 속도를 늦춰야 한다는 이른바 'AI 속도조절론'이 부각되면서 14일(현지시간) ..."
-    ],
-    "chips": [
-      "#AI",
-      "#반도체",
-      "#엔비디아"
-    ]
   }
 ];
 
@@ -643,21 +631,21 @@ window.NEWS_DB = [
 window.KEYWORD_TOP = [
   {
     "rank": 1,
-    "tag": "금리",
-    "mentions": "2070건",
-    "trend": "+215%"
-  },
-  {
-    "rank": 2,
-    "tag": "AI",
+    "tag": "뉴스",
     "mentions": "1940건",
     "trend": "+195%"
   },
   {
-    "rank": 3,
-    "tag": "뉴스",
+    "rank": 2,
+    "tag": "AI",
     "mentions": "1680건",
     "trend": "+155%"
+  },
+  {
+    "rank": 3,
+    "tag": "정치",
+    "mentions": "1550건",
+    "trend": "+135%"
   }
 ];
 // ====AUTO-GENERATED-END====
