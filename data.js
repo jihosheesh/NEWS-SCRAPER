@@ -1,11 +1,25 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-09-15 13:58:08
+// 마지막 업데이트: 2026-09-15 17:54:23
 window.NEWS_DB = [
+  {
+    "id": "n93c2ed2f",
+    "category": "IT",
+    "source": "경북매일",
+    "time": "8시간 전",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5xWGQzcWdTT2JoUFptNVhrN2RETlFyQi1BcU9meDlrYmlYenE1U0J2VmgyRk05SnJjMXFsNXRyNzZ6ZUJjLUNZdmFRVU9HcEVsNS1qdGdIOGxsZw?oc=5",
+    "title": "대구경북 스타트업 한자리에…추경호 시장 “지역서 유니콘 키운다”",
+    "summary": [
+      "대구경북 스타트업 한자리에…추경호 시장 “지역서 유니콘 키운다” 경북매일."
+    ],
+    "chips": [
+      "#스타트업"
+    ]
+  },
   {
     "id": "n1421f6e5",
     "category": "IT",
     "source": "비즈니스포스트",
-    "time": "8시간 전",
+    "time": "12시간 전",
     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE55LWtJWjlvOTN3NFI4N3VWeXZNRW4wdmxtNnRhbm9YQ3F1R19FdlJfM05KY2RUWExzSEJwQU9pelpQNU9WX3M1RFJ3eUlteXVVc3lzREVRUHBBNjdFTnRsdVlOMjFJWGVMZDB2TUh5NEQxQ3M?oc=5",
     "title": "AI 반도체 시장에 '저용량 HBM' 확산 조짐, 삼성전자 SK하이닉스 중장기 실적에 변수",
     "summary": [
@@ -22,7 +36,7 @@ window.NEWS_DB = [
     "id": "n0c0cab84",
     "category": "IT",
     "source": "지디넷코리아",
-    "time": "9시간 전",
+    "time": "12시간 전",
     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9Od0NZQmplSXVCZzdWLVdMWVAzdWxTMlItenMtelQyWlk0NXhVNkpYcmgxYm14YWZ5QkgxRnZrZ0ZPOU5RQkFfbF9NRkdfbHBCVHI4aVRB?oc=5",
     "title": "삼성전자, 커스텀 HBM서 '핵심 칩' 공급망 변화…내부·TSMC '투트랙' 추진",
     "summary": [
@@ -37,7 +51,7 @@ window.NEWS_DB = [
     "id": "ncd5724e1",
     "category": "IT",
     "source": "글로벌경제신문",
-    "time": "15시간 전",
+    "time": "19시간 전",
     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1UWVE4RVdDYWdLRTk0bFYzRGJGcVM3UTYzNlZKcGQ2dGZFb1UwdkptUHBYOGc3ZnhIQ25ad25CdE5aaWlRYWZ0ZXlkdzlCaFVYcWRxSEM3X1B6MHNzcGtab1lSVURzUjFiOGx6c3p5djbSAXBBVV95cUxNVFlROEVXQ2FnS0U5NGxWM0RiRnFTN1E2MzZWSnBkNnRmRW9VMHZKbVBwWDhnN2Z4SENuWnduQnROWmlpUWFmdGV5ZHc5QmhVWHFkcUhDN19QejBzc3BrWm9ZUlVEc1IxYjhsenN6eXY2?oc=5",
     "title": "반도체 종목, 'AI 개발 제동론'에 급락... 엔비디아, AMD 등 크게 하락",
     "summary": [
@@ -54,7 +68,7 @@ window.NEWS_DB = [
     "id": "n105bb730",
     "category": "IT",
     "source": "MBC 뉴스",
-    "time": "16시간 전",
+    "time": "20시간 전",
     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1KQlpTMm9NQ3pROHVvTk0xaFdyS1VSNjJBMUJRTmdrWXVtNEplSElWeTJCNzFuelZITXVkOE55amR3ZDdyR3JzS1g3UWd6UmVPZ1hnaW8yeFVpWlg4ejZJS2llMUlOb2pYVXlMalAxemxfSHhK0gF0QVVfeXFMTWE4V0tuMXJuOTQyQUpjSUNucFRrdXhINmRNTGZKc3RnMmZ1RDVYOU1yRTNNd2QyYWxicVFTV3hxMVdwd2taYXdUX1BEZFN4dGkteG1YZ0hIRUNLa0NDY1h3OFlKaEFXaHlocGtwU1FpVnFuLWo?oc=5",
     "title": "'AI 개발 제동론'에 엔비디아 등 미 반도체주 동반 급락",
     "summary": [
@@ -67,17 +81,17 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nf2483f94",
+    "id": "n7a5e9682",
     "category": "IT",
-    "source": "Chosunbiz",
+    "source": "스마트비즈",
     "time": "1일 전",
-    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQTUtyYVZ3b2xLY2dNbFlvUXhLTEkzdkR2di1qUS1YeVBtQ21wMHRvOFB0TF9BWXNtNENWWDQ1aHJrZmZnS3VZTTZsR0UwSlJPa1oyVXJMRTFVZlp2N0M1ME9meklWNDdRMEFVclVNemRjM3UwcjRyOEdfazJlNWRPeE5n0gGWAUFVX3lxTE1IQ3pwd3pqSzByTkZYNWNITHRHNUpWc1JTMXY3ZVI1M0lUXzdONlNTeWpycGdSMnpsUVRwNk4xeG1NM3Vobm1SNGZQakgzM1VlNG9LZnVlYUdFNEJvNU5lS2VCOEZlSzlKMW1jR2VqbUF5eGdiQk9wUVRYXy14VklWcUk5ejFWWFVIUUJ0bjNCencwMHIxdw?oc=5",
-    "title": "HBM 이어 3D 적층 D램도… SK하이닉스, TSMC와 ‘로직 결합’ 확대하나 - 조선비즈",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBoREpuTnFJSnEzU0lZUHVSLUtpV1pSX201LTVweDVfbGhoRHYyWURaLU40cmlJUE5XMlhxeTRWZXYyMVhIUlJOMGk1N0RwajF4bTJqUnM2TF9vR01tQ3l1aWJ3LVhob1dpS0FrUg?oc=5",
+    "title": "삼성전자·SK하이닉스, 다시 주도주 시험대···증권가는 여전히 “비중 확대”",
     "summary": [
-      "HBM 이어 3D 적층 D램도… SK하이닉스, TSMC와 ‘로직 결합’ 확대하나 - 조선비즈 Chosunbiz."
+      "삼성전자·SK하이닉스, 다시 주도주 시험대···증권가는 여전히 “비중 확대” 스마트비즈."
     ],
     "chips": [
-      "#반도체",
+      "#삼성전자",
       "#SK하이닉스"
     ]
   },
@@ -100,12 +114,12 @@ window.NEWS_DB = [
   {
     "id": "n76b3a7e9",
     "category": "사회",
-    "source": "bzeronews.com",
+    "source": "공뉴스",
     "time": "5일 전",
     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1EQWl1ejNtb0k2MERHcmdsNkprRktneUZGeTVfQjZaMXlRazJOeWtReGdHcDhhUk0yYmZBNHlYSUpxQ1Zwd1hHR3JzY1ZyaDBRVzhLVE1RdTlvRG0weUVRUFZ2MDN1VXhfY2hCaA?oc=5",
     "title": "김천 구인구직 현장에 93명 참여…“8명은 당날 바로 취업”",
     "summary": [
-      "김천 구인구직 현장에 93명 참여…“8명은 당날 바로 취업” bzeronews.com."
+      "김천 구인구직 현장에 93명 참여…“8명은 당날 바로 취업” 공뉴스."
     ],
     "chips": [
       "#채용",
@@ -157,14 +171,14 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "na429764b",
+    "id": "n0a9cd638",
     "category": "IT",
-    "source": "서울Pn",
+    "source": "관악신문",
     "time": "14일 전",
-    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9ZSzB6eVR0WW1HWHg4TF9QakZXeHhoQTBDX1JsVW92N2lBc24wZkhsaHBnbWpTTHlMZlN1ZWJMcF9wNlF2OUR0TUhBNDVkajdadnFiZnI2bWFxMkdXbWk1cWdEQmdmdHRKelE?oc=5",
-    "title": "관악구, ‘관악S밸리’에서 유니콘 꿈 키울 스타트업 20곳 모집",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1vMUcxenZqYlQ3Sjd6U1NrUjdDaW1KZFdOUm5GdjFoaUNNaWN1Ri1laTlfel9Md25PNXFHYzIxWFhrSzlXcndKSzhhY2JmYmkzTy0yMEpTTTlrUDhfTmZJcFZsSm00bElSdlE?oc=5",
+    "title": "관악S밸리 신규 입주기업 모집… “미래 유니콘 기업 육성”",
     "summary": [
-      "관악구, ‘관악S밸리’에서 유니콘 꿈 키울 스타트업 20곳 모집 서울Pn."
+      "관악S밸리 신규 입주기업 모집… “미래 유니콘 기업 육성” 관악신문."
     ],
     "chips": [
       "#스타트업",
@@ -201,20 +215,6 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n1a764c5a",
-    "category": "부동산",
-    "source": "뉴스핌",
-    "time": "54일 전",
-    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5jaXQ1a1BmNlN6TVZWV29ucG5jajY3WlJIb2FQNEVPMnJXRWdYVHhxWnFnb3R6MG8tX3lsTTFxNFdFVjlzNmtMaFZVV0UtUUN1VWc4VEVScy1iWFIt?oc=5",
-    "title": "집값·전셋값 뛰는데 청약 경쟁률은 '뚝'…수도권 주택시장 엇박자",
-    "summary": [
-      "집값·전셋값 뛰는데 청약 경쟁률은 '뚝'…수도권 주택시장 엇박자 뉴스핌."
-    ],
-    "chips": [
-      "#부동산"
-    ]
-  },
-  {
     "id": "n9007875e",
     "category": "경제",
     "source": "자유일보",
@@ -226,20 +226,6 @@ window.NEWS_DB = [
     ],
     "chips": [
       "#금리"
-    ]
-  },
-  {
-    "id": "neb121d70",
-    "category": "IT",
-    "source": "중기이코노미",
-    "time": "83일 전",
-    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1MWjVoQmtnbHU3a2JjMkdrWHo3c2xGZTdXVG0wMkVJa3hWdXdEbjFtOW5TckxVWHRmVnhaUnZRVWVDT0xpamVRYWUxN3ppRXlnSGp3QU9PZ1JjeE5BcHVGTTFCaF9CSDktQ3c?oc=5",
-    "title": "중소벤처기업부, 2030년 글로벌 유니콘 50개사 육성",
-    "summary": [
-      "중소벤처기업부, 2030년 글로벌 유니콘 50개사 육성 중기이코노미."
-    ],
-    "chips": [
-      "#스타트업"
     ]
   },
   {
@@ -257,17 +243,33 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n79d12fb6",
+    "id": "n5a1617c5",
     "category": "부동산",
-    "source": "Chosunbiz",
-    "time": "109일 전",
-    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQc01fQzQ5RjhjTzMxV0xObHgwUFQ5Z0ozcklaR19VYmhUOXBxVURFZVBjZkxKT2ozQUhsVzViV1JCLXdvVUQ1YWVwYTA5bVB1TjdaYlZHTXFCQUJoRTBsdHNHZXZ5MnJQdVliYzVUUktidVpvNDNzWVJXakYzUFBTMFMxd1Y0NFVrTnhSR1c5WXctLTdFRnhJMtIBrAFBVV95cUxOMk9EaXo0bmRJdnJyRVgyM0REZE1IR1VEVkNzWVNHZW9nR3p3WDRXcXQ0dnpfNk5LRE9SVFVscW45RzlqYTZGTWhWdTlybngycnM5QUliSG1haVFoQW5xT3ZpbFJvWU5hYjNYUGNLTHVyNHgwcDdLZWFsdFhMTHhCNlBodDFsdkFTT0tFX3NXWGZ1M2hCTEpmbTVUVXRzREtvSy1CdkRyWE5sbU5p?oc=5",
-    "title": "매물 줄고 분양가 뛰고… 전국 아파트 매매·전셋값 동반 상승세 지속 - 조선비즈",
+    "source": "헤럴드경제",
+    "time": "126일 전",
+    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1TS2Q2aDJMQXUtYUMtcmZTZkUtNXVycDVXUTFSYk1oeTg4TXNFTXQxN3RtcGVlRUJxMWlMWXk0c05lRFFvemxzYk0wa1hsZXMwbm1hVWtn?oc=5",
+    "title": "집값 상승, 전세품귀에…서울, 분양전망 1달 만에 기준치 회복 [부동산360]",
     "summary": [
-      "매물 줄고 분양가 뛰고… 전국 아파트 매매·전셋값 동반 상승세 지속 - 조선비즈 Chosunbiz."
+      "집값 상승, 전세품귀에…서울, 분양전망 1달 만에 기준치 회복 [부동산360] 헤럴드경제."
     ],
     "chips": [
-      "#부동산"
+      "#부동산",
+      "#전세"
+    ]
+  },
+  {
+    "id": "n08b2b275",
+    "category": "부동산",
+    "source": "한국부동산뉴스",
+    "time": "154일 전",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBZNmg3TVp4ZWZCV1ZzTE14bXV5UkN4MExnMmZJdkpfNUsyUGltRWlJVWVfUzJoQktRUlcwMTdrUUtuWk9pR2MxaFlhNGpOU0xGZjM3eDUwdlNmRWQtYkFaenAyekhVRGRRY0pJ?oc=5",
+    "title": "대출 규제에 몰린 '15억 이하'…비강남 집값·분양가 동반 상승",
+    "summary": [
+      "대출 규제에 몰린 '15억 이하'…비강남 집값·분양가 동반 상승 한국부동산뉴스."
+    ],
+    "chips": [
+      "#부동산",
+      "#정책"
     ]
   },
   {
@@ -330,10 +332,207 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "nc2f68817",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "4분 전",
+    "url": "https://www.newsis.com/view/NISX20260916_0003791023",
+    "title": "미군, 호르무즈서 \"무인수상정 나포하려던 이란 선박 2척 파괴\"",
+    "summary": [
+      "[서울=뉴시스] 김예진 기자 = 미군은 이란 인근 해역에서 무인수상정을 나포하려던 이란 소형 선박 2척을 공격해 파괴했다고 15일(현지 시간) 밝혔다.",
+      "호르무즈 해협에서 일어난 것으로 보인다.",
+      "AP통신에 따르면 미 중부사령부(CENTCOM) 대변인인 팀 호킨스 대령은 \"이란 소형 선박들이 최근 미국의 무인 수상정을 장악하려 했으나, 중부사령부가 강력하게 대응하면서 성공하지 못했다\"고 밝혔다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n45857639",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "13분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260915179751098",
+    "title": "'철로 곳곳 장애물' 네덜란드 출근길 철도망 마비…\"파괴공작\"(종합)",
+    "summary": [
+      "(브뤼셀=연합뉴스) 현윤경 특파원 = 15일(현지시간) 네덜란드 중부와 북부 일대의 철도망이 고의적인 사보타주(파괴공작)로 마비되다시피 했다고 ..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n7e7b54cf",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "14분 전",
+    "url": "https://www.chosun.com/sports/football/2026/09/16/MJQTKZDGGMYTGZJVHAZTMZBVGE/",
+    "title": "\"축구판 주름잡는 'K리그 女전사'들의 향연\" 30개팀→430명 역대 최대 규모 '해피엔딩'…'2026 퀸컵' 충북청주, 새 챔피언 등극",
+    "summary": [
+      "[스포츠조선 김성원 기자]'골때녀(골 때리는 그녀들)' 출연으로 이미 화제가 된 황희찬(샬케)의 누나 황희정(부천)을 필두로 박진섭(저장)과 어정원(포항)의 누나 박이슬(전북), 어원영(부산)도 가세했다.",
+      "축구는 남성의 전유물이 아니다.",
+      "대학교수, 엔터테인먼트 회사 CEO, 경찰, 군인, 교도관, 골프선수, 간호사, 바리스타, 제빵사 등 대한민국 아마추어."
+    ],
+    "chips": [
+      "#교육"
+    ]
+  },
+  {
+    "id": "n9371d1a0",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "20분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260916003200085",
+    "title": "미·영·네덜란드, 이란연계 스파이웨어 경고…\"표적 추적\"",
+    "summary": [
+      "(런던=연합뉴스) 김지연 특파원 = 영국과 미국, 네덜란드가 15일(현지시간) 이란 연계 스파이웨어 공격을 경고하고 나섰다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n6be7c88d",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "24분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260916003500108",
+    "title": "튀르키예서 성소수자 탄압 항의 시위대 수십명 연행",
+    "summary": [
+      "(이스탄불=연합뉴스) 김동호 특파원 = 튀르키예에서 성소수자에 대한 탄압에 항의한다며 거리로 나선 시위대 수십명이 연행됐다고 AFP 통신 등이 ..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nb91b98ed",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "27분 전",
+    "url": "https://www.chosun.com/sports/baseball/2026/09/16/HFSTOOBWGFSTCZTFGYZWIM3EGM/",
+    "title": "하현승에 박살 난 '日 스몰야구'…충격에 빠진 열도, \"육성 시스템 재점검해야 한다\"",
+    "summary": [
+      "[스포츠조선 이종서 기자] 한국에 당한 패배가 그렇게 원통했을까.",
+      "일본 야구에 자성의 목소리가 이어지고 있다.",
+      "일본 '산케이스포츠'는 15일 '아시아 야구 왕좌를 두고 다퉈온 한국과 일본의 명암이 극명하게 엇갈렸다'고 전했다."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
+    "id": "n3c73ec22",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "29분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260916002952004",
+    "title": "[3보] 서울 시내버스 노사협상 타결…임금 3.2% 인상 합의",
+    "summary": [
+      "(서울=연합뉴스) 김동규 김준태 기자 = 서울 시내버스 노사의 임금·단체협약(임단협) 협상이 16일 새벽 타결됐다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "ndf914f1f",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "31분 전",
+    "url": "https://www.donga.com/news/Society/article/all/20260916/134677280/1",
+    "title": "교통대란 피했다…서울 시내버스 노사 협상 극적 타결",
+    "summary": [
+      "서울시는 시내버스 노사 간 임금 협상 합의와 파업 철회에 따라 16일 첫차부터 평상시와 같이 시내버스 전 노선을 정상 운행한다고 밝혔다.",
+      "15일 오후 2시부터 16일 오전 1시50분까지 진행된 서울지방노동위원회의 2차 조정에서 노사 양측은 2026년 임금 3.2% 인상 등 타협안을 도출했다.",
+      "이에 따라 파업에 대비해 서울시가 준비했던 비상 수송 대책은 해제됐다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n1444ad1c",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "34분 전",
+    "url": "https://www.chosun.com/sports/baseball/2026/09/16/GY3WMY3GGY4WKNDGG44TKOLEMY/",
+    "title": "강백호-한지윤 홈런 아니었다면 비참했다…한화 무기력한 완패, 아무리 문노 없다지만",
+    "summary": [
+      "[OSEN=대전, 조은혜 기자] 프로야구 한화 이글스가 선두 KT 위즈의 7연패 제물이 됐다.김경문 감독이 이끄는 한화는 15일 대전 한화생명 볼파크에서 열린 2026 신한 SOL KBO리그 KT 위즈와의 홈경기에서 3-13 대패를 당했다.",
+      "4연패 빠진 한화는 시즌 전적 54승69패3무가 됐다.선발 왕옌청의 제구가 흔들리며 한화는 시작부터 쉽지 않은 경기를."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
+    "id": "n427792c4",
+    "category": "사회",
+    "source": "아시아경제",
+    "time": "36분 전",
+    "url": "https://view.asiae.co.kr/article/2026091602180815018",
+    "title": "서울 버스 파업 극적 철회…노사 '임금 3.2% 인상' 합의(종합)",
+    "summary": [
+      "서울 시내버스 노사의 임금협상이 파업 2시간을 앞두고 극적 타결했다.",
+      "서울시 내 7000여대 버스는 첫차부터 정상 운행한다.전국자동차노동조합연맹 서울시버스노동조합은 16일 새벽 찬반투표를 거쳐 서울지방노동위원회 조정안을 수용하기로 했다.",
+      "전날 오후 2시부터 조정회의를 시작해 약 12시간 만에 지노위가 제시한 조정안에 합의한 것이다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n8e53c88a",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "36분 전",
+    "url": "https://www.chosun.com/national/national_general/2026/09/16/XVRH53H3FRAI5HWMWD5HMSEY4Q/",
+    "title": "서울 시내버스 노사 협상 타결... 출근길 교통 대란 피했다",
+    "summary": [
+      "서울 시내버스 노사 협상 타결... 출근길 교통 대란 피했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n4a3aa141",
+    "category": "IT",
+    "source": "뉴시스",
+    "time": "44분 전",
+    "url": "https://www.newsis.com/view/NISX20260915_0003790388",
+    "title": "\"징그럽고 밥맛 떨어져”…배달앱 AI 음식 사진에 소비자들 '불쾌'",
+    "summary": [
+      "[서울=뉴시스]김혜경 기자, 이수진 인턴기자 = 최근 배달앱에서 인공지능(AI)으로 생성한 것으로 보이는 음식 사진을 메뉴 이미지로 사용하는 식당이 늘면서 소비자들의 불만이 이어지고 있다.",
+      "지난 14일 사회관계망서비스(SNS)에는 배달앱에 올린 한 부리또 사진이 올라왔다.",
+      "사진을 올린 누리꾼 A씨는 \"배달 요리집들이 AI 이미지를 쓰는 건 너무한 것 아니냐\"고 지적했다."
+    ],
+    "chips": [
+      "#AI"
+    ]
+  },
+  {
+    "id": "nfb718b59",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "44분 전",
+    "url": "https://www.newsis.com/view/NISX20260915_0003789890",
+    "title": "\"이유식도 외부 음식\"…15개월 아기 밥 먹이려다 막국수집서 '당황'",
+    "summary": [
+      "[서울=뉴시스]김혜경 기자, 박지우 인턴기자 = 아기가 먹을 이유식까지 외부 음식으로 규정해 반입을 금지한 식당을 두고 온라인에서 갑론을박이 벌어지고 있다.",
+      "최근 한 온라인 커뮤니티에는 강원 고성의 한 막국수 식당을 방문했다가 15개월 아기에게 먹일 이유식을 반입했다는 이유로 제지당했다는 사연이 올라왔다.",
+      "작성자 A씨는 \"15개월 아기와 함께 막국수 식당을 방문했다\"며 \"막국수는 양념이 돼 있어 아기가 먹기 어려운 상황이었다\"고 당시 상황을 설."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
     "id": "nf61def0f",
     "category": "IT",
     "source": "테크M",
-    "time": "방금 전",
+    "time": "43분 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=155262",
     "title": "레드펜소프트, '엑스스캔 서버 런타임' 나라장터에서 바로 쓴다",
     "summary": [
@@ -349,7 +548,7 @@ window.NEWS_DB = [
     "id": "nbf1f5702",
     "category": "IT",
     "source": "테크M",
-    "time": "방금 전",
+    "time": "44분 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=155261",
     "title": "유락, '디파스 아크'로 N2SF 시장 공략...기밀·민감·공개 등급 자동 분류",
     "summary": [
@@ -364,7 +563,7 @@ window.NEWS_DB = [
     "id": "n938c24ee",
     "category": "IT",
     "source": "테크M",
-    "time": "방금 전",
+    "time": "44분 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=155260",
     "title": "삼성SDS, 앤트로픽 클로드 원스톱 도입 체계 강화...'셀렉트 티어 파트너' 국내 첫 획득",
     "summary": [
@@ -376,254 +575,62 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "ne9272960",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "10분 전",
-    "url": "https://www.chosun.com/entertainments/broadcast/2026/09/15/MNRTSYJUMMZGIMBZHE4GKZJTGU/",
-    "title": "유재석, '가짜 정보' 입수한 유연석에 호통 \"어디서 썩은 정보를!\" ('틈만나면')",
-    "summary": [
-      "[OSEN=최지연 기자] 방송인 유재석이 배우 유연석을 혼냈다.",
-      "15일 방송된 SBS 예능 ‘틈만나면,’에는 동갑내기 절친 유승호, 영케이가 게스트로 출연한 가운데 이들의 방문을 몰랐던 유재석과 유연석의 모습이 담겨 웃음을 안겼다.이날 게스트 등장 전 유재석과 유연석은 곧 만날 이들을 추측했다.",
-      "유재석은 “느낌으로는 영화 개봉을 앞둔 (유)해진이 형일 것."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n66576774",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "11분 전",
-    "url": "https://www.newsis.com/view/NISX20260915_0003790984",
-    "title": "\"美조지아주서 구금됐던 한국인 300여명, 트럼프 정부 법적 대응\"",
-    "summary": [
-      "[서울=뉴시스] 김예진 기자 = 지난해 미국 조지아주에서 현지 이민 당국에 체포·구금됐던 300여명의 한국인 노동자들이 도널드 트럼프 행정부를 상대로 법적 대응에 나선다고 CNN이 15일(현지 시간) 보도했다.",
-      "보도에 따르면 이들 노동자를 대리하는 변호사는 미국 국토안보부(DHS), ICE, 세관국경보호국(CBP), 연방수사국(FBI), 법무부, 노동부 등 9개 연방기관을 상대로 행정상 청구를 제기하기 시작했다고 밝혔다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nd13ace99",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "13분 전",
-    "url": "https://www.chosun.com/sports/baseball/2026/09/15/G4ZDAYLFMZSTQZBUG5STSNLCMM/",
-    "title": "“오늘은 무조건 이긴다” 끝까지 포기하지 않은 삼성…8회 2사 후 5득점 대폭발, 이것이 라이온즈의 힘이다 [오!쎈 대구]",
-    "summary": [
-      "[OSEN=대구, 손찬익 기자] “오늘은 꼭 승리하겠다는 강한 집중력을 보여준 경기였다”.프로야구 삼성 라이온즈 박진만 감독이 짜릿한 역전승을 일군 선수들에게 아낌없는 박수를 보냈다.삼성은 15일 대구삼성라이온즈파크에서 열린 롯데 자이언츠와의 홈경기에서 7-3으로 승리하며 연패에서 벗어났다.승부는 8회에 갈렸다.",
-      "2-3으로 뒤진 삼성은 2사 만루에서 르윈."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
-    "id": "nc62cc833",
-    "category": "스포츠",
-    "source": "연합뉴스",
-    "time": "13분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260915184100007",
-    "title": "[아시안게임] '1차전 완승' 이민성 감독 \"실점 아쉬워…개선 계기\"",
-    "summary": [
-      "(나고야=연합뉴스) 최송아 기자 = 2026 아이치·나고야 아시안게임 첫 경기를 승리로 장식한 23세 이하(U-23) 축구 대표팀의 이민성 감독..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nf11e3273",
-    "category": "사회",
-    "source": "한국경제",
-    "time": "13분 전",
-    "url": "https://www.hankyung.com/article/2026091569147",
-    "title": "경기교육청, '주호민 아들 사건' 특수교사 지원…교권보호전담관 배치",
-    "summary": [
-      "경기교육청, '주호민 아들 사건' 특수교사 지원…교권보호전담관 배치."
-    ],
-    "chips": [
-      "#교육"
-    ]
-  },
-  {
-    "id": "n43907360",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "15분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260915183000004",
-    "title": "심정지 O형 환자에 A형 혈액수혈 사고…검찰, 재수사 요청",
-    "summary": [
-      "(서울=연합뉴스) 이의진 기자 = 경찰이 O형 응급 환자에게 착오로 A형 혈액을 수혈한 대학병원 의료진이 고소당한 사건을 지난달 불송치 처분한 ..."
-    ],
-    "chips": [
-      "#교육",
-      "#의료"
-    ]
-  },
-  {
-    "id": "n8705c54a",
-    "category": "스포츠",
-    "source": "뉴시스",
-    "time": "16분 전",
-    "url": "https://www.newsis.com/view/NISX20260915_0003790887",
-    "title": "[KBO 내일의 선발투수]9월16일(수)",
-    "summary": [
-      "[서울=뉴시스] [KBO]내일의 선발투수<2026년 9월16일(수)> ▲잠실(오후 6시30분) 삼성 (크리스 페덱) - (웨스 벤자민) 두산 ▲사직(오후 6시30분) SSG (페드로 아빌라) - (제레미 비슬리) 롯데 ▲창원(오후 6시30분) LG (박시원) - (마이크 클레빈저) NC ▲대전(오후 6시30분) KT (배제성) - (류현진) 한화."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
-    "id": "n5d43bb97",
-    "category": "스포츠",
-    "source": "뉴시스",
-    "time": "19분 전",
-    "url": "https://www.newsis.com/view/NISX20260915_0003790977",
-    "title": "'홈런 4방 폭발' 선두 KT, 한화 완파하고 7연승…삼성, 롯데 꺾고 2연패 탈출(종합)",
-    "summary": [
-      "[서울=뉴시스]김희준 기자 = 프로야구 선두 KT 위즈가 한화 이글스에 대승을 거두며 연승 행진을 이어갔다.",
-      "KT는 15일 대전 한화생명볼파크에서 벌어진 2026 신한 쏠 KBO리그 한화와의 경기에서 뜨거운 타선을 앞세워 13-3으로 승리했다.",
-      "7연승을 달리며 상승세를 이어간 KT는 시즌 76승(3무 46패)째를 수확하며 선두 자리를 굳게 지켰다."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
-    "id": "n2eaf7ada",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "21분 전",
-    "url": "https://www.newsis.com/view/NISX20260915_0003790994",
-    "title": "서울 시내버스 노사 협상 난항…\"자정까지 대기\"",
-    "summary": [
-      "[서울=뉴시스] 박대로 기자 = 서울 시내버스 노사 협상이 난항을 거듭하고 있다.",
-      "한때 협상이 최종 결렬됐다는 소동이 일기도 했다.",
-      "전국자동차노동조합연맹 서울시버스노동조합과 사측인 서울시버스운송사업조합은 15일 오후 2시부터 영등포구 서울지방노동위원회에서 2차 조정회의를 열고 있지만 8시간째 합의하지 못하고 있다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "na7ec5434",
-    "category": "부동산",
-    "source": "연합뉴스",
-    "time": "23분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260915096152001",
-    "title": "국힘 \"전형적 투기\"·與 \"흠 없다\"…이형일 '비거주 1주택' 공방(종합2보)",
-    "summary": [
-      "(서울=연합뉴스) 박재하 기자 = 여야는 15일 이형일 경제부총리 겸 재정경제부 장관 후보자 인사청문회에서 이 후보자의 '비거주 1주택' 논란을..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n85d3d885",
-    "category": "경제",
-    "source": "한국경제",
-    "time": "23분 전",
-    "url": "https://www.hankyung.com/article/2026091566387",
-    "title": "왕자도 어쩔 수 없는 영국 등굣길…결국 학교 옮겼다",
-    "summary": [
-      "왕자도 어쩔 수 없는 영국 등굣길…결국 학교 옮겼다."
-    ],
-    "chips": [
-      "#교육"
-    ]
-  },
-  {
-    "id": "nded59187",
+    "id": "n33cc8eac",
     "category": "사회",
     "source": "아시아경제",
-    "time": "24분 전",
-    "url": "https://view.asiae.co.kr/article/2026091522332866043",
-    "title": "서울 시내버스 첫 차부터 파업… 버스노조 \"자정까지 대기\"",
+    "time": "51분 전",
+    "url": "https://view.asiae.co.kr/article/2026091602025811240",
+    "title": "서울 시내버스 파업 극적 철회…16일 출근길 정상 운행(상보)",
     "summary": [
-      "서울 시내버스 노동조합이 오는 16일 새벽 첫차부터 운행을 중단하는 파업에 돌입한다.",
-      "다만 노조는 법정 조정 기간이 끝나는 자정까지 사측의 추가 제안을 기다린다는 방침이다.",
-      "서울 시내버스 노사는 이날 오후 2시부터 영등포구 서울지방노동위원회에서 노동쟁의 사건 중재를 위한 2차 조정 회의를 열었다."
+      "서울 시내버스 노사의 임금·단체협상이 파업 2시간을 앞두고 극적 타결했다.",
+      "서울시 내 7000여대 버스는 첫차부터 정상 운행한다.",
+      "전국자동차노동조합연맹 서울시버스노동조합은 16일 새벽 찬반투표를 거쳐 서울지방노동위원회 조정안을 수용하기로 했다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "nc1617dcd",
+    "id": "n48d98bc1",
+    "category": "경제",
+    "source": "한국경제",
+    "time": "59분 전",
+    "url": "https://www.hankyung.com/article/202609166974i",
+    "title": "서울 시내버스 노사 협상 '극적 타결'…출근길 대란 피했다",
+    "summary": [
+      "서울 시내버스 노사 협상 '극적 타결'…출근길 대란 피했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n25154143",
+    "category": "경제",
+    "source": "한국경제",
+    "time": "1시간 전",
+    "url": "https://www.hankyung.com/article/2026091566471",
+    "title": "美 10년물 국채금리 '마의 5%' 뚫렸다",
+    "summary": [
+      "美 10년물 국채금리 '마의 5%' 뚫렸다."
+    ],
+    "chips": [
+      "#금리"
+    ]
+  },
+  {
+    "id": "n60d6f80a",
     "category": "사회",
-    "source": "연합뉴스",
-    "time": "27분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260915155751104",
-    "title": "'네팔·중국 대홍수' 사망·실종자 7천명 넘어…신원 확인 난항(종합)",
+    "source": "아시아경제",
+    "time": "1시간 전",
+    "url": "https://view.asiae.co.kr/article/2026091601182503195",
+    "title": "조지아 구금 한국인 300여명, 트럼프 행정부 상대 법적 대응 착수",
     "summary": [
-      "(카트만두·자카르타=연합뉴스) 박진형 손현규 특파원 = 지난달 말 네팔과 중국 국경의 히말라야 산악지대에서 발생한 대규모 홍수로 숨지거나 실종된..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n6c635366",
-    "category": "IT",
-    "source": "동아일보",
-    "time": "30분 전",
-    "url": "https://www.donga.com/news/Inter/article/all/20260915/134676635/1",
-    "title": "‘조지아 구금’ 한국인 근로자 300여명, 美정부에 법적 대응",
-    "summary": [
-      "지난해 9월 미국 조지아주 엘라벨의 현대차그룹-LG에너지솔루션 합작 배터리 공장(HL-GA) 건설 현장에서 이민 당국에 체포돼 구금됐던 한국인 근로자들이 미국 정부를 상대로 법적 대응에 나섰다.15일(현지 시간) CNN에 따르면 당시 미 이민세관단속국(ICE)의 단속 과정에서 체포 및 구금됐던 한국인 근로자 300여 명은 국토안보부, ICE, 법무부, 관세국경보호국 등 9개 연방기관을 대상으로 행정 청구를 제기하기 시작했다."
+      "지난해 미국 조지아주의 현대차그룹-LG에너지솔루션 합작 배터리 공장 건설 현장에서 이민 당국에 체포·구금됐던 한국인 노동자 300여명이 도널드 트럼프 행정부를 상대로 손해배상을 요구하는 법적 절차에 착수했다.",
+      "15일(현지시간) CNN에 따르면 이들을 대리하는 조지아주 한인 변호사는 미 국토안보부(DHS)와 이민세관단속국(ICE), 관세국경보호국(CBP), 연방수사국(FBI), 법무부 등 9개 연방 기관을 상대로 행정 청구(Administrati."
     ],
     "chips": [
       "#전기차"
-    ]
-  },
-  {
-    "id": "nb9d00f1b",
-    "category": "경제",
-    "source": "한국경제",
-    "time": "30분 전",
-    "url": "https://www.hankyung.com/article/2026091569107",
-    "title": "[속보] 서울버스노조 \"최종조정 결렬됐지만 자정까지 협상 노력\"",
-    "summary": [
-      "[속보] 서울버스노조 \"최종조정 결렬됐지만 자정까지 협상 노력\"."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n0a89be35",
-    "category": "경제",
-    "source": "아시아경제",
-    "time": "38분 전",
-    "url": "https://view.asiae.co.kr/article/2026091522191359122",
-    "title": "[속보]서울 시내버스 내일 첫 차부터 파업… 노사조정 결렬",
-    "summary": [
-      "[속보]서울 시내버스 내일 첫 차부터 파업… 노사조정 결렬."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n30e21ee3",
-    "category": "스포츠",
-    "source": "동아일보",
-    "time": "40분 전",
-    "url": "https://www.donga.com/news/Sports/article/all/20260915/134676778/1",
-    "title": "‘홈런 4방 폭발’ 선두 KT, 한화 13-3으로 완파하고 7연승 질주",
-    "summary": [
-      "프로야구 선두 KT 위즈가 한화 이글스에 대승을 거두며 연승 행진을 이어갔다.",
-      "KT는 15일 대전 한화생명볼파크에서 벌어진 2026 신한 쏠 KBO리그 한화와의 경기에서 뜨거운 타선을 앞세워 13-3으로 승리했다.",
-      "7연승을 달리며 상승세를 이어간 KT는 시즌 76승(3무 46패)째를 수확하며 선두 자리를 굳게 지켰다."
-    ],
-    "chips": [
-      "#KBO"
     ]
   }
 ];
@@ -633,20 +640,20 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2200건",
-    "trend": "+235%"
+    "mentions": "2460건",
+    "trend": "+275%"
   },
   {
     "rank": 2,
     "tag": "AI",
-    "mentions": "1810건",
-    "trend": "+175%"
+    "mentions": "1940건",
+    "trend": "+195%"
   },
   {
     "rank": 3,
     "tag": "KBO",
-    "mentions": "1810건",
-    "trend": "+175%"
+    "mentions": "1550건",
+    "trend": "+135%"
   }
 ];
 // ====AUTO-GENERATED-END====
