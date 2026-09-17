@@ -1,25 +1,25 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-09-17 13:54:52
+// 마지막 업데이트: 2026-09-17 17:50:51
 window.NEWS_DB = [
   {
-    "id": "nb9359bb2",
-    "category": "IT",
-    "source": "chosun.com",
+    "id": "n424c142e",
+    "category": "경제",
+    "source": "한국경제",
     "time": "4시간 전",
-    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNTG1yeHRZYWZDMm9Td2FFODVYSjJ5NldFbHdsVjVQQVd6YlRFSll3bldYZVFUSmFyTC1Cems3OUhTZFpYalo4VGZvSnRwTXJTektLTzMzTzhRaTdxUlgyZzhKek1GY3FJNHN4LWRZTHVGVFVXeGJ3MmpBV3pBbzlvTGRUSQ?oc=5",
-    "title": "美 제재로 망할뻔한 화웨이 \"중국판 엔비디아 목표\"",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1paUhXZW5CSHVCRWV5R1FLTExvNDJDTTRCak1IVGtEQXRfS2h1SGc1MHNoa1RoVlY3ZDhQV2tycWZNTTZLSmhpWjBmOFlXT3dKcE9wekRGREdJdw?oc=5",
+    "title": "\"한동안 코스피 잠잠하더니\"…개미들 다시 '초긴장 모드' [분석+]",
     "summary": [
-      "美 제재로 망할뻔한 화웨이 \"중국판 엔비디아 목표\" chosun.com."
+      "\"한동안 코스피 잠잠하더니\"…개미들 다시 '초긴장 모드' [분석+] 한국경제."
     ],
     "chips": [
-      "#엔비디아"
+      "#뉴스"
     ]
   },
   {
     "id": "nd0f85b04",
     "category": "경제",
     "source": "서울경제",
-    "time": "5시간 전",
+    "time": "9시간 전",
     "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE0tUURrTXl6dkRyNFUwOXU1MS03Mlc0SmVqR0lzWHQwUVVBM1oxUjhVWjlxSW9Yc1RhaGVtTVl3YkQ4cGVFR0VNTjJYaw?oc=5",
     "title": "연준의 반란! 금리 전격 인상... 주식 다 팔아야 할까?",
     "summary": [
@@ -34,7 +34,7 @@ window.NEWS_DB = [
     "id": "n232b5adc",
     "category": "IT",
     "source": "비즈니스포스트",
-    "time": "6시간 전",
+    "time": "10시간 전",
     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE52RjZFZnRSQWhKZGVOMWxVV0FFaUNVT3EwNGlQVlNfY1NaUXBWSnNoZXNXemZPeUUyX2M1VGhndkppZDFieU51aHNRLUw4Qk5teWFEUHdkNWt0c1c2OFREM0RyYTdKbV8taHVPVVo2b0g2TFE?oc=5",
     "title": "중국 화웨이 AI 서버용 반도체 2종 내년 출시 예정, \"미국 수출 통제로 연결 능력에 주력\"",
     "summary": [
@@ -49,8 +49,8 @@ window.NEWS_DB = [
   {
     "id": "n46ae0b88",
     "category": "사회",
-    "source": "vietnam.vn",
-    "time": "9시간 전",
+    "source": "Vietnam.vn",
+    "time": "13시간 전",
     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQaEJDaHU4Y1RySkZPaEdRaUFSOERZSFBRQWhlVmdSWjloMVJQWGdxWEk3N2hxVk51RW5rNzkwQXlCWHh4S0dNY1NmVVVoUkt3WmdfYUFYZHlGS1NfRVo0SDVlSjdGMnA0d09TUlBMRk5mcV9IZGIwN0hLUjRCSkZYZi03V0JZeXJLa1FEVA?oc=5",
     "title": "취업 박람회를 통해 수천 개의 일자리 기회를 얻을 수 있습니다.",
     "summary": [
@@ -65,7 +65,7 @@ window.NEWS_DB = [
     "id": "n44603f81",
     "category": "사회",
     "source": "더쎈뉴스",
-    "time": "10시간 전",
+    "time": "14시간 전",
     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9NS1NvNHNvaW44cHVrTXFUaVJYSFg1V0otQTBCRmlvemxGejQ4MlNjZWd2c0xIS2JqeFFyYTRqM0FHa2lDbDJQYTFJRDNqejhHNC1xU1c5bjVvbGNELUs1TEowUW1yRzRB?oc=5",
     "title": "대구 북구청, 취업 문 활짝 열었다… ‘2026 구인·구직 만남의 날’ 열기 후끈",
     "summary": [
@@ -79,12 +79,12 @@ window.NEWS_DB = [
   {
     "id": "na399e708",
     "category": "IT",
-    "source": "mt.co.kr",
-    "time": "12시간 전",
+    "source": "머니투데이",
+    "time": "16시간 전",
     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1RR2JPMlk1NEViNXpSY2ZxSnpSSHZIZU5wMkVpbzdvMEg4SjhNY2l4TEp3XzJ2ODg5QmZjejBSdkIyNnNIQ3ZlTkRUNmozbThpX3doNy1uZlhhcDh2eUptZ3FhbUhfTW9W0gFuQVVfeXFMTVRiaEtmM1RGeTdZcHdBSllCaTc4OU9CdExUWFNPNmVnTzlUNHFacE43ZE5uNXZNOUJCQUVlZ3dWamR5b1JqLTFUOHhpMEU0RlJqVXVDUmdLRGFGZVdRWllPdWNmNFQzZnVoNGU2X3c?oc=5",
     "title": "\"삼성전자가 투자했다\"…네덜란드 AI 반도체 스타트업은 어디? - 머니투데이",
     "summary": [
-      "\"삼성전자가 투자했다\"…네덜란드 AI 반도체 스타트업은 어디? - 머니투데이 mt.co.kr."
+      "\"삼성전자가 투자했다\"…네덜란드 AI 반도체 스타트업은 어디? - 머니투데이 머니투데이."
     ],
     "chips": [
       "#AI",
@@ -94,29 +94,15 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n1545a56d",
-    "category": "IT",
-    "source": "스마트비즈",
-    "time": "15시간 전",
-    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9oLWZHazFTQ3pERjd4UWJfa1lzcmVvV2dqNUpkY3hhaWJMTThPdG84d3Fxcmo0WldvbzhsZ19oU081UTd5cFB2bXlTNkN4OXhfRXMzT183czV2ZmhObDJYTzRoSldrbnJiVDFTUw?oc=5",
-    "title": "삼성전자, 25만원 넘었지만···증권가 목표가는 27만~60만원 '극과 극'",
-    "summary": [
-      "삼성전자, 25만원 넘었지만···증권가 목표가는 27만~60만원 '극과 극' 스마트비즈."
-    ],
-    "chips": [
-      "#삼성전자"
-    ]
-  },
-  {
     "id": "nfd541720",
     "category": "경제",
-    "source": "chosun.com",
-    "time": "16시간 전",
+    "source": "조선일보",
+    "time": "20시간 전",
     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPX19hUk9LSUdFUFZxd1QxNVFVNXJOa3pzZ1F0WXkxQWlFc09IM25Pd1lPcE1DSk5RcnFRZ25WeUlycW1IWDdUYjF5TUFRREpLRUlJNlB5cEhVUjZ6amMzR0ZaOFhPQjk1ZDRVS1A5dm5BMVdfbm9wYU80ODE0bXAydHdZTGJEMVdy?oc=5",
     "title": "美 기준금리 4% 시대... 대출·투자 어떻게 하나",
     "summary": [
       "美 기준금리 4% 시대...",
-      "대출·투자 어떻게 하나 chosun.com."
+      "대출·투자 어떻게 하나 조선일보."
     ],
     "chips": [
       "#금리"
@@ -166,6 +152,37 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "nf2483f94",
+    "category": "IT",
+    "source": "Chosunbiz",
+    "time": "2일 전",
+    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQTUtyYVZ3b2xLY2dNbFlvUXhLTEkzdkR2di1qUS1YeVBtQ21wMHRvOFB0TF9BWXNtNENWWDQ1aHJrZmZnS3VZTTZsR0UwSlJPa1oyVXJMRTFVZlp2N0M1ME9meklWNDdRMEFVclVNemRjM3UwcjRyOEdfazJlNWRPeE5n0gGWAUFVX3lxTE1IQ3pwd3pqSzByTkZYNWNITHRHNUpWc1JTMXY3ZVI1M0lUXzdONlNTeWpycGdSMnpsUVRwNk4xeG1NM3Vobm1SNGZQakgzM1VlNG9LZnVlYUdFNEJvNU5lS2VCOEZlSzlKMW1jR2VqbUF5eGdiQk9wUVRYXy14VklWcUk5ejFWWFVIUUJ0bjNCencwMHIxdw?oc=5",
+    "title": "HBM 이어 3D 적층 D램도… SK하이닉스, TSMC와 ‘로직 결합’ 확대하나 - 조선비즈",
+    "summary": [
+      "HBM 이어 3D 적층 D램도… SK하이닉스, TSMC와 ‘로직 결합’ 확대하나 - 조선비즈 Chosunbiz."
+    ],
+    "chips": [
+      "#반도체",
+      "#SK하이닉스"
+    ]
+  },
+  {
+    "id": "n105bb730",
+    "category": "IT",
+    "source": "MBC 뉴스",
+    "time": "2일 전",
+    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1KQlpTMm9NQ3pROHVvTk0xaFdyS1VSNjJBMUJRTmdrWXVtNEplSElWeTJCNzFuelZITXVkOE55amR3ZDdyR3JzS1g3UWd6UmVPZ1hnaW8yeFVpWlg4ejZJS2llMUlOb2pYVXlMalAxemxfSHhK0gF0QVVfeXFMTWE4V0tuMXJuOTQyQUpjSUNucFRrdXhINmRNTGZKc3RnMmZ1RDVYOU1yRTNNd2QyYWxicVFTV3hxMVdwd2taYXdUX1BEZFN4dGkteG1YZ0hIRUNLa0NDY1h3OFlKaEFXaHlocGtwU1FpVnFuLWo?oc=5",
+    "title": "'AI 개발 제동론'에 엔비디아 등 미 반도체주 동반 급락",
+    "summary": [
+      "'AI 개발 제동론'에 엔비디아 등 미 반도체주 동반 급락 MBC 뉴스."
+    ],
+    "chips": [
+      "#AI",
+      "#반도체",
+      "#엔비디아"
+    ]
+  },
+  {
     "id": "n689e4e53",
     "category": "IT",
     "source": "관악FM",
@@ -212,30 +229,16 @@ window.NEWS_DB = [
   {
     "id": "n2c0f41aa",
     "category": "IT",
-    "source": "yna.co.kr",
+    "source": "연합뉴스",
     "time": "16일 전",
     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBSVEdqRzlmS1Y1dU1BV2dEamdfeGZHV1pVVnNmZnllZTZFX2ZlNXpQSEkzUGFHRFpSN2djQVRpbGVvM1FDQVVZU3Q0ckVYQzR4dy1BUkREV2x0ZWfSAWBBVV95cUxPMUVfaGpjN0VCUi1uUWtyRHFxZjFRbS0wcGJPc1hlVEs0c0I2QkltU2xRWFI4M1lHajczY29Vdmthb0lRazFMck5YQTB3X01zQWlTN09xMHVUbjQ4N0hLTkY?oc=5",
     "title": "\"관악S밸리에서 유니콘의 꿈을\"…관악구, 입주사 최대 20곳 모집",
     "summary": [
-      "\"관악S밸리에서 유니콘의 꿈을\"…관악구, 입주사 최대 20곳 모집 yna.co.kr."
+      "\"관악S밸리에서 유니콘의 꿈을\"…관악구, 입주사 최대 20곳 모집 연합뉴스."
     ],
     "chips": [
       "#스타트업",
       "#채용"
-    ]
-  },
-  {
-    "id": "n657e0140",
-    "category": "경제",
-    "source": "연합뉴스TV",
-    "time": "21일 전",
-    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1rdGZhcGJlUmFqWjByaGFpZG1TZHEtUnpFbjM5NF9QdzlWOXliTW0tX0ZYa0pEQXdHbUt3S3pPYVNzUGJJZEtqZHotSHZDVTVFTTlNaW1UZUstNjFGTEt2Rk1hWmZ5MjA?oc=5",
-    "title": "7,000선 넘보던 코스피…금리 인상에 상승폭 축소",
-    "summary": [
-      "7,000선 넘보던 코스피…금리 인상에 상승폭 축소 연합뉴스TV."
-    ],
-    "chips": [
-      "#금리"
     ]
   },
   {
@@ -285,12 +288,12 @@ window.NEWS_DB = [
   {
     "id": "n01f4c085",
     "category": "스포츠",
-    "source": "newsis.com",
+    "source": "뉴시스",
     "time": "178일 전",
     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1XV3RRSy1sd3NMSFhfNzNwVUxDR3FBU29KbG1hSmJKS0pnLXlmS3k1M21nMVQ2RXR1bXNuc2JTMFV1ZVlYMm10Qy1HeXZaeGRRcWVkWUNlWUU4bEtWcnZmMtIBeEFVX3lxTE1qV0k5TEJ1d0taUTFrUXQ1SDRJQUZscnYwOWdqV2dSSTJvRXlCbjNjazI4alZnOHRLelFHRkdPOGVNVUZPaHdVU1J4ZmQwR0o2aWNiYjlqLTVvZFpIZ0QwX3MyQnZOZktzeHRSNjlpMmlNT0I5OXd5Tg?oc=5",
     "title": "야구·축구 시즌 돌아왔다…식품업계, 팬심 자극 스포츠 마케팅 활발",
     "summary": [
-      "야구·축구 시즌 돌아왔다…식품업계, 팬심 자극 스포츠 마케팅 활발 newsis.com."
+      "야구·축구 시즌 돌아왔다…식품업계, 팬심 자극 스포츠 마케팅 활발 뉴시스."
     ],
     "chips": [
       "#KBO"
@@ -375,258 +378,267 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n8db34951",
+    "id": "nd45ecf6e",
     "category": "사회",
     "source": "뉴시스",
-    "time": "2분 전",
-    "url": "https://www.newsis.com/view/NISX20260917_0003794710",
-    "title": "대전 특수영상영화제 개막…대상 '군체'·연기상 박지훈",
+    "time": "8분 전",
+    "url": "https://www.newsis.com/view/NISX20260918_0003794733",
+    "title": "\"트럼프, 시진핑 美도착 직접 맞이하기로…공항서 성대한 환영식\"",
     "summary": [
-      "[대전=뉴시스]곽상훈 기자 = 17일 개막된 대전특수영상영화제에서 '올해의 특수영상 어워즈' 기술상 부문 수상작으로 '군체'가 선정됐다.",
-      "특수영상 연기상은 박지훈이 대상을 받았다.",
-      "기술상 부문에서는 영화 '군체'가 대상을 받는 등 모두 7개 작품이 수상작으로 선정됐으며 특수영상 연기상 부문은 '박지훈'이 대상을 받는 등 모두 5명이 수상자로 선정됐다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "na6ef09a7",
-    "category": "경제",
-    "source": "뉴시스",
-    "time": "2분 전",
-    "url": "https://www.newsis.com/view/NISX20260917_0003794709",
-    "title": "뉴욕증시, 금리인상 하루만에 반등 출발…S&P 1.1%↑",
-    "summary": [
-      "[서울=뉴시스] 김승민 기자 = 뉴욕증시가 미국 국채 수익률, 국제 유가 하락 등에 힘입어 기준금리 인상 하루 만에 반등 출발했다.",
-      "뉴욕증권거래소(NYSE)에 따르면 17일(현지 시간) 오전 9시31분 기준 다우존스산업평균지수는 전장 대비 364.34포인트(0.74%) 오른 5만1844.47을 기록하고 있다.",
-      "스탠더드앤드푸어스(S&P)500지수는 전장보다 82.51포인트(1.10%) 높은 7634.53에, 기술주 중심의 나스닥지수는 387.82."
-    ],
-    "chips": [
-      "#금리"
-    ]
-  },
-  {
-    "id": "nacb3a72f",
-    "category": "경제",
-    "source": "머니투데이",
-    "time": "4분 전",
-    "url": "https://www.mt.co.kr/living/2026/09/17/2026091722480173431",
-    "title": "트리밍버드, 유나 효과에 스웨이드 점퍼 관심 고조",
-    "summary": [
-      "9월 첫주 판매율 전주 대비 200% 증가, 3040 오피스·데일리룩 수요 견인 하고하우스가 전개하는 트리밍버드는 ITZY 유나와 함께 선보인 2026 가을·겨울 캠페인 착장 제품이 판매 호조를 보이고 있다.",
-      "트리밍버드는 지난 8월 유나를 브랜드 첫 모델로 발탁하고 The Hidden YUNA 캠페인을 공개했다.",
-      "클래식한 디자인에 유나의 트렌디한 이미지를 결합해 3040 여성 고객을 겨냥했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n106b629b",
-    "category": "경제",
-    "source": "머니투데이",
-    "time": "6분 전",
-    "url": "https://www.mt.co.kr/living/2026/09/17/2026091722454114160",
-    "title": "바이레도, 성수 팝업에 3일간 4300명 몰렸다",
-    "summary": [
-      "20일까지 퓨쳐 메모리즈 운영, 향·빛·움직임으로 미래의 기억 표현 푸치코리아가 전개하는 바이레도는 지난 10일 서울 성수동에서 오 드 퍼퓸 퓨쳐 메모리즈 출시를 기념한 팝업 오픈 행사를 진행했다.",
-      "행사에는 이수혁과 임시완, 전소미, 더보이즈 주연, 김소현, 이종원, 트와이스 나연, 제로베이스원 성한빈, 프로듀서 그루비룸 등이 참석했다.",
-      "지난 11일 일반 관람을 시작한 팝업에는 첫 주 금요일부터 일요일까지 3일간 약 4300명이 방문하며 신제품."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "ne0bda549",
-    "category": "스포츠",
-    "source": "머니투데이",
-    "time": "7분 전",
-    "url": "https://www.mt.co.kr/sports/2026/09/17/2026091721151375633",
-    "title": "\"한국보다 7골 더 넣었다\" 무자비한 북한 女축구, 미얀마 8-0 대파 '2경기 18골 실화?'.. 조 1위 걸고 '남북전'",
-    "summary": [
-      "북한 여자축구 대표팀이 압도적인 공격력을 선보이며 2026 아이치·나고야 아시안게임 8강 진출을 조기 확정했다.",
-      "같은 조에서 나란히 2연승을 달린 남한과 북한은 조 1위를 놓고 맞대결을 펼친다.",
-      "북한은 17일 일본 오사카 나가이 스타디움에서 열린 대회 여자축구 조별리그 F조 2차전에서 미얀마를 8-0으로 완파했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n2e8da3a9",
-    "category": "경제",
-    "source": "머니투데이",
-    "time": "9분 전",
-    "url": "https://www.mt.co.kr/living/2026/09/17/2026091722440062951",
-    "title": "휠라, 우즈와 첫 스페셜 에디션 흥행",
-    "summary": [
-      "에어플로우 경량 다운 1시간 만에 완판, 21일 하레핀 공개 미스토코리아(대표 김지헌)가 전개하는 휠라는 아티스트이자 브랜드 모델인 우즈와 함께한 첫 스페셜 에디션 FILA+WOODZ를 선보였다.",
-      "이번 에디션은 에어플로우 경량 다운과 하레핀 등 2종으로 구성됐다.",
-      "실버와 그레이 컬러를 바탕으로 우즈의 로고를 적용해 기존 제품과 차별화했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nd4274945",
-    "category": "스포츠",
-    "source": "뉴시스",
-    "time": "10분 전",
-    "url": "https://www.newsis.com/view/NISX20260917_0003794704",
-    "title": "여자 축구, 방글라데시 6-0 대파…2연승·8강 확정(종합)[나고야AG]",
-    "summary": [
-      "[나고야·서울=뉴시스]안경남 김진엽 기자 = 한국 여자 축구 대표팀이 방글라데시를 상대로 대승을 거두면서 2026 아이치·나고야 아시안게임 조별리그 2연승을 기록했다.",
-      "신상우 감독이 이끄는 여자 축구 대표팀은 17일 오후 4시 일본 오사카 나가이 스타디움에서 열린 대회 조별리그 F조 2차전에서 방글라데시를 6-0으로 제압했다.",
-      "지난 14일 미얀마와의 첫 경기에서 5-0 대승을 거뒀던 신상우호는 이날도 크게 이기면서 무실점 대승을 이어갔다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "ne7ce97b3",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "11분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260917201400001",
-    "title": "李대통령, 김승원 임명안 고민…내일 회견서 입장 밝히나",
-    "summary": [
-      "(서울=연합뉴스) 임형섭 기자 = 이재명 대통령이 17일 김승원 법무부 장관 후보자에 대한 임명안 재가를 두고 고민을 이어가고 있다."
+      "[서울=뉴시스] 김승민 기자 = 도널드 트럼프 미국 대통령이 오는 24일 예정된 미중 정상회담에서 시진핑 중국 국가주석의 미국 입국을 직접 맞이할 계획이라는 보도가 나왔다.",
+      "17일(현지 시간) 사우스차이나모닝포스트(SCMP), AFP통신 등에 따르면 익명의 미국 당국자는 \"시 주석은 다음주 수요일(23일) 오후 4시(미국 동부시간, 한국 시간 24일 오전 5시) 도착할 예정이며, 트럼프 대통령이 메릴랜드주 앤드루스합동기지에서 열리는 환영식에 참."
     ],
     "chips": [
       "#정치"
     ]
   },
   {
-    "id": "nc1ef4474",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "12분 전",
-    "url": "https://www.chosun.com/sports/world-baseball/2026/08/29/GFQWKOBUMI3GGNDEMRTDMYTDG4/",
-    "title": "\"한국 오면 30승도 하겠는데\" 야신도 탐냈던 그 투수, 37세에도 '161km' 괴력이라니…오타니라서 승부욕 불탔다",
-    "summary": [
-      "[OSEN=이상학 객원기자] 지난 2015년 6월20일 창원 마산구장의 원정 감독실에서 김성근 당시 한화 이글스 감독의 시선은 TV에 고정돼 있었다.",
-      "TV에는 메이저리그 경기가 재방송 중이었고, 김성근 감독은 깡마른 백인 좌완 투수를 보곤 “볼 참 좋다”며 연신 감탄을 금치 못했다.",
-      "당시 시카고 화이트삭스 소속 크리스 세일(37·애틀랜타 브레이브스)이었다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n92a64aec",
+    "id": "nf0fb5e91",
     "category": "사회",
-    "source": "조선일보",
-    "time": "14분 전",
-    "url": "https://www.chosun.com/entertainments/broadcast/2026/09/17/GI3WKMBWGY4TOY3CG4ZDINRXMI/",
-    "title": "기안84, 르세라핌 카즈하에 '삭발' 공약 \"네가 오라는데 안 가면 사람 아냐\"",
+    "source": "뉴시스",
+    "time": "10분 전",
+    "url": "https://www.newsis.com/view/NISX20260917_0003793977",
+    "title": "빈 컵인데도 \"내리세요\" 버럭…버스 기사 대응 두고 누리꾼들 '시끌'",
     "summary": [
-      "[OSEN=최지연 기자] 작가 겸 방송인 기안84가 르세라핌 카즈하에게 약속했다.",
-      "17일 유튜브 채널 '인생84'에는 '우리집 놀러 온 카즈하'라는 제목의 영상이 게재됐다.",
-      "이날 기안84는 집으로 카즈하를 초대해 밥을 함께 먹고 대화를 나누며 시간을 보냈다."
+      "[서울=뉴시스]김혜경 기자, 정승혜 인턴기자 = 내용물이 전혀 들어 있지 않은 빈 플라스틱 컵을 들고 시내버스에 탔다가 기사로부터 하차 요구를 받았다는 사연이 전해졌다.",
+      "지난 16일 사회관계망서비스(SNS)에는 시내버스를 이용하다 기사와 마찰을 빚었다는 한 누리꾼의 글이 올라왔다.",
+      "작성자 A씨는 \"버스를 탔는데 기사분이 버럭 소리를 지르며 ‘음료 들고 못 탄다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "nc9457177",
-    "category": "경제",
-    "source": "뉴시스",
-    "time": "20분 전",
-    "url": "https://www.newsis.com/view/NISX20260917_0003794708",
-    "title": "[속보]뉴욕증시 일제 상승 출발…S&P 1.1% 나스닥 1.5%↑",
-    "summary": [],
+    "id": "n266ae088",
+    "category": "IT",
+    "source": "연합뉴스",
+    "time": "19분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260918001800091",
+    "title": "젠슨황·저커버그·머스크, 트럼프 설득해 AI규제기구 무산",
+    "summary": [
+      "(샌프란시스코=연합뉴스) 권영전 특파원 = 인공지능(AI) 속도조절론이 대두된 상황에서 엔비디아·메타·스페이스X 등 거대 기술기업 수장들이 도널..."
+    ],
     "chips": [
-      "#뉴스"
+      "#AI",
+      "#엔비디아",
+      "#정책"
     ]
   },
   {
-    "id": "n72702e32",
+    "id": "n7dc9a94c",
     "category": "사회",
     "source": "연합뉴스",
-    "time": "20분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260917201100052",
-    "title": "창원시 마산합포구 빌라에서 화재…1명 화상·8명 연기 흡입",
+    "time": "21분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260917201951082",
+    "title": "폴란드 \"러, 국경 4㎞ 앞 우크라 서부 또 공습\"(종합)",
     "summary": [
-      "(창원=연합뉴스) 이정훈 기자 = 17일 오후 8시 20분께 경남 창원시 마산합포구 완월동에 있는 5층짜리 빌라 2층에서 불이 났다."
+      "(베를린=연합뉴스) 김계연 특파원 = 러시아군이 17일(현지시간) 폴란드와 국경 근처 우크라이나 서부를 또 공습했다고 폴란드 당국이 주장했다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "nd696c78c",
+    "id": "n8aa739e7",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "23분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260918001100071",
+    "title": "美전문가 \"한미 외교장관 회담 계기 대미투자 합의 발표 가능성\"",
+    "summary": [
+      "(워싱턴=연합뉴스) 홍정규 특파원 = 한미 외교장관 회담을 계기로 한국의 대미투자와 관련한 합의가 발표될 수 있다는 관측이 17일(현지시간) 제..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n1b1ea989",
     "category": "IT",
     "source": "조선일보",
-    "time": "22분 전",
-    "url": "https://www.chosun.com/entertainments/broadcast/2026/09/17/MFTGCMRQMVRGCMZZMQ2TIODEHA/",
-    "title": "황신혜, AI와 다정한 대화 “네가 말해주니까 설레”('황신혜의 Cine style’)('황신혜의 Cine style')",
+    "time": "24분 전",
+    "url": "https://www.chosun.com/international/international_general/2026/09/18/MVRDOMZSMEZTONLGGVRWCMBSGA/",
+    "title": "찰스 3세, 젠슨 황 등 불러… AI, 인류 존립에 위험 경고",
     "summary": [
-      "[OSEN=오세진 기자] '황신혜의 Cine style' 배우 황신혜가 이탈리아 밀라노에서 3일 여정을 끝마치고 토스카나로 떠났다.17일 배우 황신혜의 유튜브 채널에서는 '[시네투어] 밀라노를 떠나 토스카나 시골 마을로 EP.2(밀라노 찐 피자 맛집부터 낭만 가득 토스카나 민박 이탈리아 여행, 모데나, 토스카나 아그리투리스모, 브이로그)'라는 제목의 영상이."
+      "찰스 3세 영국 국왕이 젠슨 황 엔비디아 최고경영자(CEO) 등 AI(인공지능) 업계 관계자들이 참석한 회의에서 AI의 위험성을 경고했다.",
+      "로이터통신과 BBC 등에 따르면 찰스 3세는 17일(현지 시각) 스코틀랜드 덤프리스하우스에서 AI 업계 관계자들과 만나 회의를 진행했다.",
+      "회의에는 황 CEO, 딥마인드 공동 창업자인 데미스 허사비스 구글 최고과학자, 새."
+    ],
+    "chips": [
+      "#AI",
+      "#엔비디아"
+    ]
+  },
+  {
+    "id": "n050ff476",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "30분 전",
+    "url": "https://www.newsis.com/view/NISX20260917_0003793555",
+    "title": "멜라니아는 쏙 빼고?…트럼프, '애착 담요' 女보좌관과 아일랜드 동행",
+    "summary": [
+      "[서울=뉴시스]김혜경 기자, 진민아 인턴기자 = 도널드 트럼프 미국 대통령의 '애착 담요'라는 별층까지 얻은 최측근 여성 보좌관 나탈리 하프가 트럼프 대통령의 아일랜드 방문에 동행하면서 두 사람의 가까운 업무 관계가 다시 주목받고 있다.",
+      "이번 일정에는 멜라니아 트럼프 여사는 함께하지 않았다.",
+      "지난 14일(현지 시간) 미국 온라인 매체 데일리비스트 등에 따르면 하프는 지난 12~13일 트럼프 대통령의 이틀간 아일랜드 방문에 동행해 여러 일정에서."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n44adb15b",
+    "category": "IT",
+    "source": "연합뉴스",
+    "time": "31분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260917202351085",
+    "title": "찰스 3세 'AI 위험성' 경고…젠슨 황 \"SNS같은 규제 안돼\"(종합)",
+    "summary": [
+      "(런던=연합뉴스) 김지연 특파원 = 찰스 3세 영국 국왕이 17일(현지시간) 글로벌 인공지능(AI)의 급격한 발달에 따른 인류 존립의 위험성을 ..."
+    ],
+    "chips": [
+      "#AI",
+      "#정책"
+    ]
+  },
+  {
+    "id": "nce3d26e6",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "38분 전",
+    "url": "https://www.newsis.com/view/NISX20260917_0003793557",
+    "title": "\"北 해외 공관원 탈북, 매달 발생\"…리일규가 전한 북한 외교관 탈북 루트",
+    "summary": [
+      "[서울=뉴시스]이준형 인턴 기자 = 지난 2023년 탈북한 리일규 전 쿠바 주재 북한대사관 참사가 북한 해외 공관원들의 연쇄 탈북 현상에 대해 증언했다.",
+      "16일 유튜브 채널 '평양남자김정국'에 출연한 리 전 참사는 \"북한 외무성은 매달 말 대사관 총화를 진행하며, 거의 매달 외교관이나 해외 파견 인원의 탈북을 의미하는 '행불 사고' 통지를 전 공관에 내보낸다\"고 밝혔다.",
+      "리 전 참사는 해외 현장에서 체감한 탈북 현황을 상세히 전했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "na6b64cb9",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "44분 전",
+    "url": "https://www.chosun.com/international/international_general/2026/09/18/GU4GEYZXGM2WEMBZMYZWEZRXG4/",
+    "title": "스웨덴 좌파연합 총선 3석 차로 승리… 접전 끝에 이겨",
+    "summary": [
+      "스웨덴 총선에서 야권 좌파 연합이 집권 우파 연합을 3석 차로 앞서며 승리했다.",
+      "울프 크리스테르손 총리는 선거 결과가 나온 직후 사임했다.",
+      "AFP통신 등에 따르면 지난 13일(현지 시각) 치러진 스웨덴 총선은 17일 개표가 진행됐다."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n590193b3",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "1시간 전",
+    "url": "https://www.chosun.com/international/international_general/2026/09/18/GFTDAMLBMNQTIMDFMUYDCMRXME/",
+    "title": "“트럼프, 23일 美 도착하는 시진핑 공항서 직접 맞이하겠다”",
+    "summary": [
+      "도널드 트럼프 미국 대통령이 23일(현지 시각) 미국에 도착하는 시진핑 중국 국가주석을 공항에서 직접 맞이할 예정이다.",
+      "트럼프 대통령은 시 주석을 만나 미중 정상회담을 진행한다.",
+      "AFP통신은 17일 시 주석이 미 동부 시간으로 23일 오후 4시쯤 워싱턴DC 인근 앤드루스 합동 기지에 도착할 예정이라고 전했다."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "nfce1eb9f",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "1시간 전",
+    "url": "https://www.chosun.com/sports/baseball/2026/09/18/HBSDONDBGM2GCMJRHBSDKM3GMQ/",
+    "title": "‘김서현 대참사’ 한화 울리고 군 입대, AG 국대까지 울렸다…안타-2루타-2타점 폭발, 1R 포수 심상치 않다",
+    "summary": [
+      "[OSEN=고척, 이후광 기자] 김서현과 한화 이글스를 울리고 군으로 향한 포수 기대주가 아시안게임 대표팀까지 울렸다.",
+      "상무 소속 이율예는 17일 서울 고척스카이돔에서 열린 2026 아이치-나고야 아시안게임 대표팀과 연습경기에 3번 포수로 선발 출전해 4타수 2안타 2타점 1득점 맹활약했다.",
+      "포수임에도 박한결, 이승현과 함께 클린업트리오에 배치된 이율예."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n19b497db",
+    "category": "스포츠",
+    "source": "동아일보",
+    "time": "1시간 전",
+    "url": "https://www.donga.com/news/Sports/article/all/20260918/134693150/1",
+    "title": "“저 선수 때문에 피클볼 봤다”…SNS 달군 모델급 선수 정체(영상)",
+    "summary": [
+      "48초짜리 경기 영상 한 편이 피클볼 코트를 넘어 온라인 전체를 들썩이게 만들었다.17일(현지 시간) 미국 매체 토털 프로 스포츠에 따르면 8개월 만에 코트로 복귀한 한 여성 선수가 빼어난 외모로 시선을 사로잡으며 SNS에서 ‘정체불명 인물 찾기’ 열풍이 일었다.",
+      "화제의 주인공은 호주 출신 프로 피클볼 선수 클레오 본(25)이었다.",
+      "팬들이 신원을 밝혀낸 결과, 그는 과거 호주오픈 주니어 대회까지 출전했던 엘리트 테니스 선수 출신으로 밝혀지며 관."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nf05f8da8",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "1시간 전",
+    "url": "https://www.donga.com/news/Society/article/all/20260918/134693122/1",
+    "title": "“술 안 마시면 술값 빼줘야” vs “참가비인데 뭘 빼주냐”…더치페이 기준 ‘세대 차’",
+    "summary": [
+      "회식이나 술자리에서 술을 마시지 않은 사람도 술값을 똑같이 나눠 내야 하는지를 둘러싸고 온라인에서 논쟁이 벌어지고 있다.최근 소셜 미디어(SNS)와 온라인 커뮤니티에서는 술자리 비용을 인원수로 나누는 ‘1/n’ 계산에 이의를 제기하는 목소리가 커졌다.술값을 빼줘야 한다는 쪽은 애초에 술자리에 참석하게 된 경위를 문제 삼았다.",
+      "한 네티즌은 “안 먹는 애 굳이 데려온 거면 술 먹는 애들끼리 내야 한다”며 “술 안 마시는 사람은 술자리를 찾아가는 게."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "na577bb4a",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "1시간 전",
+    "url": "https://www.donga.com/news/Culture/article/all/20260918/134693114/1",
+    "title": "‘갈수록 여신 닮아가’ 신세경…마른 몸매 유지 비결은 “두부·곤약밥”",
+    "summary": [
+      "배우 신세경이 가녀린 어깨선과 군살 없이 슬림한 실루엣을 드러낸 가운데, 과거 공개했던 식단 관리법에도 관심이 쏠리고 있다.신세경은 16일 자신의 SNS에 별도의 글 없이 화보 촬영 현장에서 찍은 사진들을 올렸다.",
+      "사진 속 신세경은 어깨가 드러나는 골드빛 드레스를 입고 우아한 자태를 뽐냈다.",
+      "긴 웨이브 헤어와 차분한 메이크업이 어우러지면서 특유의 단아한 분위기를 자아냈다.특히 드레스 위로 드러난 가녀린 어깨와 날씬한 팔 라인이 눈길을 끌었다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nfcff83be",
+    "category": "스포츠",
+    "source": "동아일보",
+    "time": "1시간 전",
+    "url": "https://www.donga.com/news/Culture/article/all/20260918/134693111/1",
+    "title": "아이유, 기꺼이 멈춰 선 ‘이 별’…철인의 왕관 대신 ‘다정한 연대’",
+    "summary": [
+      "18일 데뷔 18주년을 맞이한 톱 가수 겸 배우 아이유(IU·이지은)의 발걸음이 잠시 멈췄다.",
+      "고질적인 귀 질환인 ‘이관개방증’ 악화로 이번 주말 예정됐던 고양종합운동장 주경기장 콘서트를 앞서 잠정 연기했다.",
+      "이로써 올림픽주경기장, 서울월드컵경기장에 이어 국내 3대 스타디움을 모두 섭렵하는 최초의 ‘그랜드 슬램’ 달성은 다음으로 미뤄졌다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nfe04ef9a",
+    "category": "IT",
+    "source": "한국경제",
+    "time": "1시간 전",
+    "url": "https://www.hankyung.com/article/202609182447i",
+    "title": "오픈웨이트AI 모델 주의보…암호화폐 해킹 1년새 440%급증",
+    "summary": [
+      "오픈웨이트AI 모델 주의보…암호화폐 해킹 1년새 440%급증."
     ],
     "chips": [
       "#AI"
-    ]
-  },
-  {
-    "id": "na09c0db8",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "23분 전",
-    "url": "https://www.chosun.com/entertainments/broadcast/2026/09/17/GY4GMNJXGY4DMYRRGFSDQYTDGY/",
-    "title": "3개월 공백→의미심장SNS 그 후...국가비 “기절초풍, 눈 돌아감” 무슨 일?",
-    "summary": [
-      "[OSEN=김수형 기자] 유튜버 국가비가 개인적인 사정으로 활동을 쉬었다고 고백한 이후, 딸 줄리와 함께한 밝은 가족 일상을 공개했다.17일 국가비의 유튜브 채널에는 ‘런던 토박이 줄리, 한국 키즈카페 가더니 기절초풍한 이유!! (ft.",
-      "첫돈까스)’라는 제목의 영상이 공개됐다.이번 영상에는 영국에서 생활해온 국가비의 딸 줄리가 한국에서 처음으로 키즈카페를."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n19855ee8",
-    "category": "스포츠",
-    "source": "연합뉴스",
-    "time": "27분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260917184051007",
-    "title": "[아시안게임] 한국 여자축구, 방글라데시 6-0 제압…2연승·8강 확정(종합)",
-    "summary": [
-      "(나고야=연합뉴스) 최송아 기자 = 한국 여자 축구 대표팀이 방글라데시를 완파하고 2026 아이치·나고야 아시안게임 조별리그 2연승으로 8강 진..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n4b0fbd98",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "28분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260917200200079",
-    "title": "\"후티 좀 말려달라…中, 사우디 SOS에 이란 '막후 압박'\"",
-    "summary": [
-      "(카이로=연합뉴스) 김상훈 특파원 = 예멘의 친이란 반군 후티의 공세로 홍해 항로의 위기가 고조되자, 사우디아라비아의 요청을 받은 중국이 이란을..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "na48f7604",
-    "category": "경제",
-    "source": "한국경제",
-    "time": "38분 전",
-    "url": "https://www.hankyung.com/article/2026091723967",
-    "title": "\"성인 60명 중 1명 HIV 감염\"…남태평양 섬나라, 국가 비상사태 선포",
-    "summary": [
-      "\"성인 60명 중 1명 HIV 감염\"…남태평양 섬나라, 국가 비상사태 선포."
-    ],
-    "chips": [
-      "#뉴스"
     ]
   }
 ];
@@ -636,20 +648,20 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2980건",
-    "trend": "+355%"
+    "mentions": "2460건",
+    "trend": "+275%"
   },
   {
     "rank": 2,
     "tag": "AI",
-    "mentions": "1550건",
-    "trend": "+135%"
+    "mentions": "2070건",
+    "trend": "+215%"
   },
   {
     "rank": 3,
-    "tag": "금리",
-    "mentions": "1420건",
-    "trend": "+115%"
+    "tag": "반도체",
+    "mentions": "1680건",
+    "trend": "+155%"
   }
 ];
 // ====AUTO-GENERATED-END====
