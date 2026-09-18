@@ -1,26 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-09-18 16:47:44
+// 마지막 업데이트: 2026-09-18 19:17:36
 window.NEWS_DB = [
-  {
-    "id": "n7106d083",
-    "category": "사회",
-    "source": "Vietnam.vn",
-    "time": "6시간 전",
-    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOVGMzN3d0M2lSaHZkTEJ0T3pUQlBsdk9MUHhGekxERjU1dFNMZ1N5T0VXcU1HZE8xR0JYVmh4NThHQjlMMk4yNFVqTUl0RWdTLS1udmV3MlNzR0RfZUU1VWliNDQ5Z3hEXzZvbTRiRmpZRlMtbUR6MGc2REkwc0F6RFF6YmlySW5GcjBGZVQ1d2VJNzVvMEJ0Sl9DRnVodVdmLUp4ZjNzekhLdjhuWjVveA?oc=5",
-    "title": "지난 9개월 동안 동탑 고용서비스센터는 3만 명이 넘는 구직자들에게 일자리를 연결해 주었습니다.",
-    "summary": [
-      "지난 9개월 동안 동탑 고용서비스센터는 3만 명이 넘는 구직자들에게 일자리를 연결해 주었습니다."
-    ],
-    "chips": [
-      "#취업",
-      "#고용"
-    ]
-  },
   {
     "id": "nb9359bb2",
     "category": "IT",
     "source": "조선일보",
-    "time": "9시간 전",
+    "time": "11시간 전",
     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNTG1yeHRZYWZDMm9Td2FFODVYSjJ5NldFbHdsVjVQQVd6YlRFSll3bldYZVFUSmFyTC1Cems3OUhTZFpYalo4VGZvSnRwTXJTektLTzMzTzhRaTdxUlgyZzhKek1GY3FJNHN4LWRZTHVGVFVXeGJ3MmpBV3pBbzlvTGRUSQ?oc=5",
     "title": "美 제재로 망할뻔한 화웨이 \"중국판 엔비디아 목표\"",
     "summary": [
@@ -34,7 +19,7 @@ window.NEWS_DB = [
     "id": "ned7984ff",
     "category": "IT",
     "source": "공감신문",
-    "time": "13시간 전",
+    "time": "16시간 전",
     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE93b2hwVV9oNEdJcGNzX3p3emNidEJGZjNJaTQ1WmY4cl85MkJFQUFFU1Juc05tVFZuY3YzWnM0b0x3Z2ZyQWNFa1ltQVo2ZXE5Y3kyZXk4ZnVyTXdibWhNVjdOQkVnSU44?oc=5",
     "title": "삼성전자 16일 HBM 다이 TSMC에 개방",
     "summary": [
@@ -57,6 +42,21 @@ window.NEWS_DB = [
     ],
     "chips": [
       "#뉴스"
+    ]
+  },
+  {
+    "id": "n46ae0b88",
+    "category": "사회",
+    "source": "Vietnam.vn",
+    "time": "1일 전",
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQaEJDaHU4Y1RySkZPaEdRaUFSOERZSFBRQWhlVmdSWjloMVJQWGdxWEk3N2hxVk51RW5rNzkwQXlCWHh4S0dNY1NmVVVoUkt3WmdfYUFYZHlGS1NfRVo0SDVlSjdGMnA0d09TUlBMRk5mcV9IZGIwN0hLUjRCSkZYZi03V0JZeXJLa1FEVA?oc=5",
+    "title": "취업 박람회를 통해 수천 개의 일자리 기회를 얻을 수 있습니다.",
+    "summary": [
+      "취업 박람회를 통해 수천 개의 일자리 기회를 얻을 수 있습니다."
+    ],
+    "chips": [
+      "#취업",
+      "#고용"
     ]
   },
   {
@@ -166,6 +166,21 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n689e4e53",
+    "category": "IT",
+    "source": "관악FM",
+    "time": "4일 전",
+    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5XRXA4X1ZRU1VLLXU1VDN6a0JmdmxDbW5BdXRua0hVQzNpSXAtbjF6bFRkMkE3amdpMDVsWm0wcEtnTFAzR0xQZTBpVQ?oc=5",
+    "title": "“관악S밸리에서 미래 유니콘의 꿈을!” 관악구, 2026년 제3차 신규 입주기업 최대 20개사 모집",
+    "summary": [
+      "“관악S밸리에서 미래 유니콘의 꿈을!” 관악구, 2026년 제3차 신규 입주기업 최대 20개사 모집 관악FM."
+    ],
+    "chips": [
+      "#스타트업",
+      "#채용"
+    ]
+  },
+  {
     "id": "n76b3a7e9",
     "category": "사회",
     "source": "공뉴스",
@@ -224,17 +239,18 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n1a764c5a",
+    "id": "n917184b9",
     "category": "부동산",
-    "source": "뉴스핌",
-    "time": "57일 전",
-    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5jaXQ1a1BmNlN6TVZWV29ucG5jajY3WlJIb2FQNEVPMnJXRWdYVHhxWnFnb3R6MG8tX3lsTTFxNFdFVjlzNmtMaFZVV0UtUUN1VWc4VEVScy1iWFIt?oc=5",
-    "title": "집값·전셋값 뛰는데 청약 경쟁률은 '뚝'…수도권 주택시장 엇박자",
+    "source": "한국경제",
+    "time": "88일 전",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1PMWgycmJDUlh3Smlkb254TmVGMXFZX3JvTThsLUVHNHY2ZDloYVVjZHdPakFSQ0YwSVpBMXBMZHNqcndpVUV6RkJiaVk2NlFJV19fWkl0bXduZw?oc=5",
+    "title": "\"전세값 보다 싸요\"…동탄 집값 22억 찍자 우르르 몰린 동네 [현장+]",
     "summary": [
-      "집값·전셋값 뛰는데 청약 경쟁률은 '뚝'…수도권 주택시장 엇박자 뉴스핌."
+      "\"전세값 보다 싸요\"…동탄 집값 22억 찍자 우르르 몰린 동네 [현장+] 한국경제."
     ],
     "chips": [
-      "#부동산"
+      "#부동산",
+      "#전세"
     ]
   },
   {
@@ -267,20 +283,6 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nba668fc0",
-    "category": "IT",
-    "source": "한국방송뉴스",
-    "time": "142일 전",
-    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1XaThhZXFiX3dDT0NrYVFwZ2dhNTgxbHU0WE5Bc21vcGVzR0d2Wkh2Zm5pS2MyZ1JkYlhHb2VfRkhkemdEX1F6Q1RtajJLRzR6dDdHcExQelAyS2N1OUE?oc=5",
-    "title": "1조 8000억 규모 벤처펀드 선정…\"벤처·스타트업에 적시 공급\"",
-    "summary": [
-      "1조 8000억 규모 벤처펀드 선정…\"벤처·스타트업에 적시 공급\" 한국방송뉴스."
-    ],
-    "chips": [
-      "#스타트업"
-    ]
-  },
-  {
     "id": "n01f4c085",
     "category": "스포츠",
     "source": "뉴시스",
@@ -309,10 +311,114 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n124f8a43",
+    "category": "IT",
+    "source": "연합뉴스",
+    "time": "5분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260919004500091",
+    "title": "美잠룡 뉴섬 주지사 'AI 킬스위치' 행정명령…트럼프와 각세우기",
+    "summary": [
+      "(샌프란시스코=연합뉴스) 권영전 특파원 = 미국 민주당 차기 대선주자로 꼽히는 개빈 뉴섬 캘리포니아 주지사가 인공지능(AI) 시스템의 비상정지장..."
+    ],
+    "chips": [
+      "#AI"
+    ]
+  },
+  {
+    "id": "n23616ead",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "9분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260919003800004",
+    "title": "'조 단위 담합' 석유화학업체 임원 2명 구속…6명은 영장 기각",
+    "summary": [
+      "(서울=연합뉴스) 황재하 기자 = 석유화학제품 담합 혐의를 받는 국내 석유화학업체 전·현직 경영진 8명에 대해 검찰이 구속영장을 청구해 2명이 ..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n372b7392",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "17분 전",
+    "url": "https://www.newsis.com/view/NISX20260909_0003783195",
+    "title": "차 못 들어가는 산속 140m 송전탑, 어떻게 세울까[짤막영상]",
+    "summary": [
+      "[서울=뉴시스] 강세훈 기자, 서윤주 인턴기자 = 차량도 접근하기 어려운 험준한 산속에 높이 140m에 달하는 거대한 철탑을 세우는 공사가 한창이다.",
+      "무거운 자재를 산 정상까지 옮기고 철탑을 조립하기 위해 ‘삭도’와 전용 크레인 등 산악 송전공사에 특화된 장비가 동원되고 있다.",
+      "현대건설은 최근 공식 유튜브 채널을 통해 '멀리서만 보던 송전탑, 실제로 보면? 역대급 규모의 전력망 프로젝트'라는 제목의 영상을 공개하고, 송전선로를 구축하는 과정을."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n90f35212",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "20분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260919004300075",
+    "title": "74년 전 실종된 6·25 '쌕쌕이' 美전투기…양양 앞바다서 발견",
+    "summary": [
+      "(로스앤젤레스=연합뉴스) 김경윤 특파원 = 6·25 전쟁 당시 양양 앞바다에 추락한 것으로 추정되는 미군 전투기 잔해가 70여년 만에 발견됐다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "ncab4be11",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "29분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260919005300079",
+    "title": "\"일상이 멈췄다\" 후티 공포에 휩싸인 '모카커피의 고향'",
+    "summary": [
+      "(카이로=연합뉴스) 김상훈 특파원 = 달콤 쌉싸름한 모카커피의 어원인 예멘의 유서 깊은 홍해 항구 도시 모카."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "ncd4b4260",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "42분 전",
+    "url": "https://www.chosun.com/sports/basketball/2026/09/19/MVSGCNZWGQ2TEMTBHAYTINZRMM/",
+    "title": "\"오늘 림이 1.3배는 커보였다\"는 이현중, 26득점에도 웃지 않았다...한-일전 결승 각오 \"아직 안끝났다, 결승에도 찬스가 나면 쏘겠다!\"",
+    "summary": [
+      "[나고야=스포츠조선 박찬준 기자]\"아직 안끝났다.\" 이현중은 냉정했다.",
+      "대한민국 남자농구가 12년 만에 아시안게임 결승에 진출했다.",
+      "한국은 18일 일본 나고야 아이치 인터내셔널 아레나에서 열린 2026년 아이치-나고야 아시안게임 남자농구 4강전에서 이란을 77-51로 완파했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n9fba39ff",
+    "category": "스포츠",
+    "source": "뉴시스",
+    "time": "42분 전",
+    "url": "https://www.newsis.com/view/NISX20260918_0003795753",
+    "title": "'지금 불륜이 문제가 아닙니다' 조여정, 토론토 홀려…수년째 45㎏ 유지 비결",
+    "summary": [
+      "[서울=뉴시스]서이현 인턴 기자 = 배우 조여정이 토론토국제영화제 참석 사진을 공개하며 여전한 미모와 몸매를 과시했다.",
+      "조여정은 16일 자신의 인스타그램에 \"토론토국제영화제\"라는 글과 함께 여러 장의 사진을 올렸다.",
+      "공개된 사진에는 이창동 감독의 신작 '가능한 사랑'으로 제51회 토론토국제영화제에 참석한 그의 모습이 담겼다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
     "id": "n8e8a111c",
     "category": "IT",
     "source": "테크M",
-    "time": "방금 전",
+    "time": "48분 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=155403",
     "title": "[카드뉴스] 넷마블이 일본서 꺼낸 '3장의 카드'…TGS 신작에 숨은 공략법",
     "summary": [
@@ -325,10 +431,25 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n0b75d717",
+    "category": "IT",
+    "source": "뉴시스",
+    "time": "52분 전",
+    "url": "https://www.newsis.com/view/NISX20260919_0003796408",
+    "title": "美 민주당 잠룡 뉴섬, AI '킬 스위치' 추진…\"미룰 수 없어\"",
+    "summary": [
+      "[서울=뉴시스] 이재은 기자 = 2028년 미국 대선 민주당 후보군으로 거론되는 개빈 뉴섬 캘리포니아 주지사가 인공지능(AI) 시스템을 비상시에 강제로 중단할 수 있는 이른바 ‘킬 스위치’ 도입을 추진했다.",
+      "뉴섬 주지사는 18일(현지 시간) X(옛 트위터)를 통해 \"AI 기업에 대한 독립적인 감독과 안전성 검사를 강화하고, 첨단 AI 모델에 비상 정지 장치를 마련하는 방안을 검토하도록 하는 행정명령에 서명했다\"고 밝혔다."
+    ],
+    "chips": [
+      "#AI"
+    ]
+  },
+  {
     "id": "nbe0fcabd",
     "category": "사회",
     "source": "테크M",
-    "time": "방금 전",
+    "time": "1시간 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=155402",
     "title": "힘빠진 동행노조, 이태원 집회 강행...노노 갈등 '국면 전환' 비판 확대",
     "summary": [
@@ -342,10 +463,57 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n0d74dcf7",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "1시간 전",
+    "url": "https://www.chosun.com/sports/world-football/2026/09/19/GVRDIMJRGJTDEMDFMI2DMMRSME/",
+    "title": "[오피셜]'충격, 나이키와 작별이라니' 레알 마드리드 에이스 킬리안 음바페, 나이키→스위스 '온(On)'으로 갈아탔다..'티에리 앙리가 영향을 줬다'",
+    "summary": [
+      "[스포츠조선 노주환 기자]프랑스 축구 스타 킬리안 음바페(레알 마드리드)가 개인 용품 후원사를 교체했다.",
+      "그동안 자신과 함께 했던 나이키를 대신해 스위스 스포츠 용품 브랜드 '온(On)'과 손잡았다.",
+      "음바페는 19일 자신의 SNS를 통해 '온'의 새로운 글로벌 앰버서더로 활동하게 됐다고 공식 발표했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n4812920d",
+    "category": "부동산",
+    "source": "뉴시스",
+    "time": "1시간 전",
+    "url": "https://www.newsis.com/view/NISX20260918_0003796009",
+    "title": "내주 '더샵분당하이스트' 등 전국 4591가구 분양[분양브리핑]",
+    "summary": [
+      "[서울=뉴시스]정유선 기자 = 9월 넷째 주 전국 8개 단지 총 4591가구가 분양을 시작한다.",
+      "일반분양 물량은 3137가구다.",
+      "19일 부동산114에 따르면 경기 성남시 정자동 '더샵분당하이스트', 경기 평택시 고덕동 '힐스테이트고덕엘리스트(A12·A65BL)' 등에서 청약을 진행한다."
+    ],
+    "chips": [
+      "#부동산"
+    ]
+  },
+  {
+    "id": "n4a70b22d",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "1시간 전",
+    "url": "https://www.donga.com/news/Society/article/all/20260919/134700083/1",
+    "title": "전쟁 틈타 ‘석유화학제품 담합’ 의혹 경영진 2명 구속…6명은 기각",
+    "summary": [
+      "미국·이스라엘과 이란 간 전쟁을 틈타 15조원 규모의 석유화학제품 가격을 담합한 혐의를 받는 경영진 8명 중 2명이 구속됐다.",
+      "장영수 전 PKC 대표 등 6명은 구속을 피했다.19일 법조계에 따르면 서울중앙지법 이지영 영장전담 부장판사는 전날 오전 9시20분부터 공정거래법 위반 혐의를 받는 장영수 전 PKC 대표 등 8명에 대한 구속 전 피의자 심문(영장실질심사)을 진행한 뒤 배모씨와 황모씨 2명에 대해 구속영장을 발부했다.이 부장판사는 “증거."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
     "id": "n24745d29",
     "category": "경제",
     "source": "테크M",
-    "time": "방금 전",
+    "time": "1시간 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=155401",
     "title": "신세계I&C, 2년간 자사주 약 84만주 소각...최저 배당금 400원으로 상향",
     "summary": [
@@ -358,156 +526,45 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n68ba6fd8",
+    "id": "n3fb67f45",
     "category": "사회",
-    "source": "조선일보",
-    "time": "5분 전",
-    "url": "https://www.chosun.com/sports/sports_general/2026/09/19/MZTGENRYGU3DIOLBMU4TGMLDHE/",
-    "title": "'임진왜란' 도요토미를 환영 행사에 세워놓고 태극기는 제지하고...韓 \"정치 개입 분명히 대응\" 선언 2시간 뒤 日 공항 논란",
+    "source": "동아일보",
+    "time": "2시간 전",
+    "url": "https://www.donga.com/news/Society/article/all/20260919/134700053/1",
+    "title": "[오늘날씨]아침 최저 15도·낮 최고 30도…동해안·제주도 중심 비",
     "summary": [
-      "[OSEN=정승우 기자] \"정치적인 문제가 스포츠에 개입한다면 선수단의 뜻을 분명하게 전달하겠다.\"이상현 2026 아이치·나고야 아시안게임 대한민국 선수단장이 일본을 향해 분명한 메시지를 던졌다.",
-      "공교롭게도 이 발언이 나온 지 불과 약 2시간 뒤, 나고야에 도착한 한국 선수단은 대형 태극기를 들고 이동하지 못하도록 제지당했다.두 사건 사이에 직접적인 연관성."
+      "토요일인 19일은 동해안을 제외한 전국 대부분 지역에서 낮과 밤의 기온차가 10~15도로 커 건강 관리에 주의가 필요하다.",
+      "강원, 경상권 등 동해안과 제주도를 중심으로는 비 소식이 있다.기상청은 “새벽부터 아침 사이 경북동해안·북동산지, 오전까지 강원동해안·산지와 제주도산지·중산간, 새벽부터 낮 사이 울산에 비가 내리는 곳이 있겠다”고 예보했다.또한 새벽부터 낮 사이 부산·경남동부내륙, 오전에 경북북부동해안·북동산지, 낮에 강원남부동해안·산지에."
     ],
     "chips": [
-      "#정치"
+      "#의료"
     ]
   },
   {
-    "id": "n94cbf284",
+    "id": "n057c1367",
     "category": "사회",
-    "source": "연합뉴스",
-    "time": "6분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260919002200082",
-    "title": "폴란드 '탄도미사일 방어 연합' 합류…우크라 등 11개국",
+    "source": "동아일보",
+    "time": "2시간 전",
+    "url": "https://www.donga.com/news/Society/article/all/20260919/134700050/1",
+    "title": "“돈 받고 군사기밀 중국에 넘겼는데 고작 징역 4년?”…네티즌 ‘분통’",
     "summary": [
-      "(베를린=연합뉴스) 김계연 특파원 = 폴란드가 우크라이나와 유럽 국가들이 결성한 '탄도미사일 방어 연합'에 합류했다고 도날트 투스크 폴란드 총리..."
+      "중국인에게 군사기밀을 넘기고 금품을 챙긴 현역 육군 병장이 대법원에서 실형을 최종 확정받았다.",
+      "그러나 대중들의 분노는 좀처럼 가라앉지 않고 있는 모양새다.18일 대법원 2부(주심 박영재 대법관)는 최근 일반이적 및 군기누설 등의 혐의로 기소된 전 육군 병장 A씨에게 징역 4년과 벌금 2000만원, 추징금 1907만원을 선고한 원심을 확정했다고 밝혔다.",
+      "A씨는 복무 중이던 지난 2024년 8월부터 이듬해 3월까지 중국 측 인사의 지시를 받아 한·."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n3b1e7346",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "6분 전",
-    "url": "https://www.chosun.com/sports/baseball/2026/09/19/MRSGKZJUGMZDOOLEMJRWGYLBMU/",
-    "title": "봤는가, 130m 초대형 홈런 터졌다…멀티 출루→멀티 안타, '2군행' 삼성 젊은 영웅이 살아난다",
-    "summary": [
-      "[OSEN=한용섭 기자] 프로야구 삼성 라이온즈 김영웅이 비거리 130m 초대형 홈런포를 터뜨렸다.",
-      "김영웅은 18일 익산구장에서 열린 2026 퓨처스리그 KT 위즈와 경기에 3번 3루수로 선발 출장해 4타수 2안타 4타점 1득점으로 활약했다.",
-      "삼성은 이날 5안타에 그치며 4-8로 패배했는데, 김영웅 혼자서 팀의 4타점을 책임졌다."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
-    "id": "n1cb2ebb3",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "7분 전",
-    "url": "https://www.chosun.com/sports/world-football/2026/09/19/GQ4GGM3EMQYDMZTEGU3TMZLBMU/",
-    "title": "'정말, 떠나고 싶은 거다' 아틀레티코 탈출 실패한 아르헨티나 국대 훌리안 알바레즈, 에이전트 교체 승부수 띄웠다..'이달고 작별→파스토레 사단 합류 협상'",
-    "summary": [
-      "[스포츠조선 노주환 기자]이번 여름 이적 시장에서 아틀레티코 마드리드 탈출에 실패한 아르헨티나 국가대표 공격수 훌리안 알바레즈가 에이전트 교체로 새로운 돌파구를 찾고 있다고 한다.",
-      "대리인이 일처리를 제대로 못해 이적이 무산됐다고 보는 것이다.",
-      "축구계에선 선수들이 자신이 원하는 이적이 성사되지 않았을 때 에이전트를 교체하곤 한다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "ne2d0bba5",
+    "id": "nb76ae200",
     "category": "사회",
     "source": "동아일보",
-    "time": "7분 전",
-    "url": "https://www.donga.com/news/Politics/article/all/20260919/134699732/2",
-    "title": "李 “연임할 생각 전혀 없다, 헌법상 불가능”",
+    "time": "2시간 전",
+    "url": "https://www.donga.com/news/Inter/article/all/20260919/134700047/1",
+    "title": "사우디 송유관 피격 여파…아람코, 유럽에 10월 원유 공급 중단",
     "summary": [
-      "이재명 대통령은 18일 “저는 연임할 생각 전혀 없다”고 밝혔다.",
-      "또 “조작 기소 특검의 권한 중 기존 기소 사건의 이송 및 처분에 관한 조항을 삭제하고 진상 규명에만 집중해 달라”며 특검법에서 ‘공소취소권’ 조항을 빼 달라고 더불어민주당에 요구했다.",
-      "이 대통령은 이날 청와대 영빈관에서 열린 기자회견에서 “헌법 개정을 통한 저의 연임은 헌법상 불가능하다”며 “저 역시 연임을 생각해 본 적조차 없음을 수차례 걸쳐 밝혔다”고 말했다."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "nd354b9b6",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "7분 전",
-    "url": "https://www.donga.com/news/Politics/article/all/20260919/134699721/2",
-    "title": "‘김현지 감찰’ 선그은 최길수 특감후보자 “靑수석급 이상만 대상”",
-    "summary": [
-      "최길수 특별감찰관 후보자가 18일 국회 법제사법위원회 주최로 열린 인사청문회에서 “어떠한 외압에도 흔들리지 않고 성역을 두지 않겠다”고 밝혔다.",
-      "국민의힘은 특별감찰관이 김현지 대통령제1부속실장의 ‘인사 개입’ 의혹에 대한 감찰에 착수해야 한다며 공세를 폈고, 최 후보자는 “수석비서관 이상이 감찰 대상”이라며 김 실장은 감찰 대상이 아니라고 답했다.",
-      "더불어민주당은 “윤석열 정권의 수석비서관들도 감찰해야 한다”고 반격했다."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n818e3d4d",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "7분 전",
-    "url": "https://www.donga.com/news/Economy/article/all/20260919/134699723/2",
-    "title": "추석연휴 고속道 기름값 리터당 100원씩 내린다",
-    "summary": [
-      "추석 연휴 기간인 이달 24∼27일 전국 고속도로 휴게소 주유소의 기름값을 L당 100원씩 내린다.",
-      "이달 말 종료 예정이던 유류세 인하 조치는 11월 말까지 연장된다.",
-      "다음 달 16일까지 적용되는 석유 최고가격은 동결됐다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nad3313d0",
-    "category": "부동산",
-    "source": "동아일보",
-    "time": "7분 전",
-    "url": "https://www.donga.com/news/Politics/article/all/20260919/134699715/2",
-    "title": "“집값 안정, 이 정부는 할것… 강남 내리고 외곽 오르는 평탄화 중”",
-    "summary": [
-      "이재명 대통령이 18일 청와대 영빈관에서 열린 기자회견에서 “대한민국의 부동산 투기 공화국 탈출은 이 정부의 가장 중심 과제이며, 다들 하려고 하다 안 됐지만 제가 분명히 말씀드릴 수 있는 것은 ‘이 정부는 합니다’라는 점”이라고 했다.",
-      "이 대통령은 “잃어버린 30년을 피할 수 있도록 부동산 시장을 반드시 안정시키겠다”며 “건축 허가를 포함한 택지 개발 또는 재건축, 재개발, 도시 정비 등 공급을 최대한 신속하게 늘려 나갈 것”이라고 했다."
-    ],
-    "chips": [
-      "#부동산",
-      "#재건축",
-      "#정치"
-    ]
-  },
-  {
-    "id": "n3df5102c",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "17분 전",
-    "url": "https://www.newsis.com/view/NISX20260918_0003795859",
-    "title": "김지영, 산후 13㎏ 감량 운동법 공개…\"출산 3일차부터 '이것'\"",
-    "summary": [
-      "[서울=뉴시스]김드보라 인턴 기자 = '하트시그널4'에서 큰 인기를 얻은 인플루언서 김지영이 출산 후 13㎏을 감량한 근황과 함께 출산 후 실천한 운동법을 공개했다.",
-      "지난 7월 첫딸을 출산한 김지영은 17일 자신의 소셜미디어(SNS)에 몸에 밀착되는 운동복을 입은 사진을 공개하며 \"오늘도 운동을 한다\", \"다이어트 성공해서 다 공유해보겠다\"는 글을 적었다.",
-      "이어 다이어트 방법을 묻는 메시지가 쏟아지고 있다며 \"아직 58㎏이다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "ncade177e",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "24분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260919002000098",
-    "title": "스웨덴 야권 지도자, 초박빙 총선 승리 후 정부 구성 착수",
-    "summary": [
-      "(브뤼셀=연합뉴스) 현윤경 특파원 = 스웨덴 총선에서 치열한 접전 끝에 좌파 진영의 진땀승을 이끈 마그달레나 안데르손 전 총리에게 정부 구성권이..."
+      "사우디아라비아 국영 석유회사 사우디 아람코가 홍해로 향하는 주요 송유관이 공격받은 여파로 유럽 고객들에게 10월 원유 공급을 중단하겠다고 통보한 것으로 알려졌다.러시아 관영 리아노보스티 통신에 따르면 18일(현지 시간) 블룸버그 통신은 소식통을 인용해 아람코가 유럽의 최소 2개 정유소에 다음 달 원유를 공급하지 않을 것이라고 통보했다고 보도했다.유럽 국가들은 그동안 사우디와 매달 일정량의 원유를 공급받는 고정 계약을 맺고 원유를 수입해왔다."
     ],
     "chips": [
       "#뉴스"
@@ -517,7 +574,7 @@ window.NEWS_DB = [
     "id": "n10002ed2",
     "category": "IT",
     "source": "테크M",
-    "time": "30분 전",
+    "time": "3시간 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=155394",
     "title": "[글로벌] 화웨이 AI칩, 없어서 못 판다?…100만개 연결해 엔비디아 추격",
     "summary": [
@@ -533,74 +590,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nebb51658",
-    "category": "IT",
-    "source": "뉴시스",
-    "time": "44분 전",
-    "url": "https://www.newsis.com/view/NISX20260918_0003795413",
-    "title": "\"10월 코스피 7000선 돌파 가능\"…삼성전자·SK하이닉스 '주목'",
-    "summary": [
-      "[서울=뉴시스]허준희 인턴 기자 = 미국 증시가 강세를 보인 가운데 코스피도 10월부터 상승세를 이어갈 수 있다는 전망이 나왔다.",
-      "18일 구독자 308만명을 보유한 '삼프로TV 3PROTV'에 박병창 MP파트너스 대표는 삼성전자와 SK하이닉스의 주가 상승을 중심으로 코스피가 7000포인트에 안착하고 7500포인트까지 추가 상승할 가능성을 제시했다.",
-      "박 대표는 최근 미국 증시에 대해 긍정적으로 평가했다."
-    ],
-    "chips": [
-      "#반도체",
-      "#삼성전자",
-      "#SK하이닉스"
-    ]
-  },
-  {
-    "id": "n085da0d8",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "45분 전",
-    "url": "https://www.newsis.com/view/NISX20260918_0003795095",
-    "title": "손담비 \"오운완! 하기 싫을 때 하는 게 진짜\"…그녀의 운동 철학",
-    "summary": [
-      "[서울=뉴시스]이지우 인턴 기자 = 가수 손담비가 꾸준한 운동으로 몸 관리에 열중하는 근황을 공개했다.",
-      "17일 손담비는 소셜미디어(SNS)에 일상 사진을 올렸다.",
-      "손담비는 \"운동은 하고 싶을 때보다 하기 싫을 때 하는 게 진짜\"라며 나태해지지 않고 꾸준히 운동하려는 의지를 드러냈다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n41b889aa",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "45분 전",
-    "url": "https://www.newsis.com/view/NISX20260919_0003796402",
-    "title": "사우디 송유관 피격 여파…아람코, 유럽에 10월 원유 공급 중단",
-    "summary": [
-      "[서울=뉴시스] 이재은 기자 = 사우디아라비아 국영 석유회사 사우디 아람코가 홍해로 향하는 주요 송유관이 공격받은 여파로 유럽 고객들에게 10월 원유 공급을 중단하겠다고 통보한 것으로 알려졌다.",
-      "러시아 관영 리아노보스티 통신에 따르면 18일(현지 시간) 블룸버그 통신은 소식통을 인용해 아람코가 유럽의 최소 2개 정유소에 다음 달 원유를 공급하지 않을 것이라고 통보했다고 보도했다.",
-      "유럽 국가들은 그동안 사우디와 매달 일정량의 원유를 공급받는 고정."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n5d7ee081",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "47분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260919001100071",
-    "title": "美민주 \"오늘 선거하면 다수당\"…중간선거 상하원 탈환 자신감",
-    "summary": [
-      "(워싱턴=연합뉴스) 이유미 특파원 = 미국 민주당 지도부가 11월 미국 중간선거에서 민주당이 연방 상·하원 다수당 탈환 가능성이 높다고 18일(..."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
     "id": "na1f786e7",
     "category": "경제",
     "source": "한국경제",
-    "time": "1시간 전",
+    "time": "3시간 전",
     "url": "https://www.hankyung.com/article/2026091847811",
     "title": "96세 버핏, 벅셔 회장직서 물러나",
     "summary": [
@@ -611,28 +604,28 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nb08defc9",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "1시간 전",
-    "url": "https://www.yna.co.kr/view/AKR20260919001000079",
-    "title": "IAEA \"러시아 쿠르스크 원전 냉각탑 드론 피격\"",
+    "id": "n530ed567",
+    "category": "경제",
+    "source": "한국경제",
+    "time": "4시간 전",
+    "url": "https://www.hankyung.com/article/2026090772217",
+    "title": "[오늘의 운세] 2026년 9월 19일 별자리 운세",
     "summary": [
-      "(카이로=연합뉴스) 김상훈 특파원 = 국제원자력기구(IAEA)는 러시아 쿠르스크 원자력 발전소의 원자로 냉각탑이 드론(무인기) 공격을 받았다는 ..."
+      "[오늘의 운세] 2026년 9월 19일 별자리 운세."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "ne2ac10ca",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "1시간 전",
-    "url": "https://www.chosun.com/sports/sports_special/2026/09/19/GG5DU3BD2VASBKN6LDSUG7672U/",
-    "title": "아시안게임서 딴 메달만 269개… ‘효자 종목’ 사격의 매력",
+    "id": "nb6c2bc75",
+    "category": "경제",
+    "source": "한국경제",
+    "time": "4시간 전",
+    "url": "https://www.hankyung.com/article/2026090776317",
+    "title": "[오늘의 운세] 오늘 뭐 먹지?…9월 19일 띠별 추천 점심메뉴",
     "summary": [
-      "아시안게임서 딴 메달만 269개… ‘효자 종목’ 사격의 매력."
+      "[오늘의 운세] 오늘 뭐 먹지?…9월 19일 띠별 추천 점심메뉴."
     ],
     "chips": [
       "#뉴스"
@@ -645,20 +638,20 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2460건",
-    "trend": "+275%"
+    "mentions": "2850건",
+    "trend": "+335%"
   },
   {
     "rank": 2,
     "tag": "반도체",
-    "mentions": "1810건",
-    "trend": "+175%"
+    "mentions": "1680건",
+    "trend": "+155%"
   },
   {
     "rank": 3,
-    "tag": "정치",
-    "mentions": "1680건",
-    "trend": "+155%"
+    "tag": "AI",
+    "mentions": "1550건",
+    "trend": "+135%"
   }
 ];
 // ====AUTO-GENERATED-END====
