@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-09-17 23:14:46
+// 마지막 업데이트: 2026-09-18 02:05:25
 window.NEWS_DB = [
   {
     "id": "n3b9f88af",
     "category": "IT",
     "source": "핀포인트뉴스",
-    "time": "1시간 전",
+    "time": "3시간 전",
     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9nYUxfYklEOWlZUWNreHlrd0RhQTE5VmpoRUE0SVdtdU5wTW5UTHNRbVBlbEtDSVJwR3Bmbi1WajRDSmxGT2RFYWpSbzFCbmNUdFFTd2dSUlNEczFaWTVDQUtWbGcxcm05dHdnamUyV3oyeDTSAXdBVV95cUxNOEFCNDZ3Uk5TRVc5UmFqaGhIVW1JX25JZjVQZmY3cjVCY1RuX2piXzhyd3VfSloxWkU5Nk93bW04UTNxRWttbEkzNzlYTnMwYlVZX2hMU3lwS2YyNDVscFNMUGNvbEFYRDl3UlpqeWhkQmVLQVZ6bw?oc=5",
     "title": "“내년엔 칩 2배 판다”…젠슨 황, 엔비디아 AI 반도체 자신감 왜?",
     "summary": [
@@ -21,7 +21,7 @@ window.NEWS_DB = [
     "id": "nf474abc4",
     "category": "IT",
     "source": "조선일보",
-    "time": "7시간 전",
+    "time": "10시간 전",
     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxObjYtQzRIYXI2aW5LLUJ0TzRPYnBleWZMMllCbHpmaklGZEpwUWU3STJ0M3dnOXhWeXoxdm9QWi01a29KcHc5YkxjakJCcEpXOGgyUzVmZVAxbTY4cnhLWnV4RkNIVXNUSUlGZ3ZJaGJGNGNDeHQwaG1EVlBfSXZEc3lUWQ?oc=5",
     "title": "벼랑 끝서 돌아온 화웨이 \"중국판 엔비디아 목표\"",
     "summary": [
@@ -35,7 +35,7 @@ window.NEWS_DB = [
     "id": "n424c142e",
     "category": "경제",
     "source": "한국경제",
-    "time": "10시간 전",
+    "time": "13시간 전",
     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1paUhXZW5CSHVCRWV5R1FLTExvNDJDTTRCak1IVGtEQXRfS2h1SGc1MHNoa1RoVlY3ZDhQV2tycWZNTTZLSmhpWjBmOFlXT3dKcE9wekRGREdJdw?oc=5",
     "title": "\"한동안 코스피 잠잠하더니\"…개미들 다시 '초긴장 모드' [분석+]",
     "summary": [
@@ -49,7 +49,7 @@ window.NEWS_DB = [
     "id": "n46ae0b88",
     "category": "사회",
     "source": "Vietnam.vn",
-    "time": "18시간 전",
+    "time": "21시간 전",
     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQaEJDaHU4Y1RySkZPaEdRaUFSOERZSFBRQWhlVmdSWjloMVJQWGdxWEk3N2hxVk51RW5rNzkwQXlCWHh4S0dNY1NmVVVoUkt3WmdfYUFYZHlGS1NfRVo0SDVlSjdGMnA0d09TUlBMRk5mcV9IZGIwN0hLUjRCSkZYZi03V0JZeXJLa1FEVA?oc=5",
     "title": "취업 박람회를 통해 수천 개의 일자리 기회를 얻을 수 있습니다.",
     "summary": [
@@ -64,7 +64,7 @@ window.NEWS_DB = [
     "id": "n44603f81",
     "category": "사회",
     "source": "더쎈뉴스",
-    "time": "19시간 전",
+    "time": "22시간 전",
     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9NS1NvNHNvaW44cHVrTXFUaVJYSFg1V0otQTBCRmlvemxGejQ4MlNjZWd2c0xIS2JqeFFyYTRqM0FHa2lDbDJQYTFJRDNqejhHNC1xU1c5bjVvbGNELUs1TEowUW1yRzRB?oc=5",
     "title": "대구 북구청, 취업 문 활짝 열었다… ‘2026 구인·구직 만남의 날’ 열기 후끈",
     "summary": [
@@ -73,23 +73,6 @@ window.NEWS_DB = [
     "chips": [
       "#채용",
       "#취업"
-    ]
-  },
-  {
-    "id": "na399e708",
-    "category": "IT",
-    "source": "머니투데이",
-    "time": "21시간 전",
-    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1RR2JPMlk1NEViNXpSY2ZxSnpSSHZIZU5wMkVpbzdvMEg4SjhNY2l4TEp3XzJ2ODg5QmZjejBSdkIyNnNIQ3ZlTkRUNmozbThpX3doNy1uZlhhcDh2eUptZ3FhbUhfTW9W0gFuQVVfeXFMTVRiaEtmM1RGeTdZcHdBSllCaTc4OU9CdExUWFNPNmVnTzlUNHFacE43ZE5uNXZNOUJCQUVlZ3dWamR5b1JqLTFUOHhpMEU0RlJqVXVDUmdLRGFGZVdRWllPdWNmNFQzZnVoNGU2X3c?oc=5",
-    "title": "\"삼성전자가 투자했다\"…네덜란드 AI 반도체 스타트업은 어디? - 머니투데이",
-    "summary": [
-      "\"삼성전자가 투자했다\"…네덜란드 AI 반도체 스타트업은 어디? - 머니투데이 머니투데이."
-    ],
-    "chips": [
-      "#AI",
-      "#반도체",
-      "#삼성전자",
-      "#스타트업"
     ]
   },
   {
@@ -110,15 +93,32 @@ window.NEWS_DB = [
   {
     "id": "n60a8c211",
     "category": "IT",
-    "source": "아이뉴스24",
+    "source": "inews24.com",
     "time": "1일 전",
     "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9TREwtcTRfNUc5VlNjZjZZZkNaY0FfV0dsQ3dqZm5RMGxPY0xIR0xCa3pQUEJlMHBRUmJHR0l2YUlhRHFBa1lvV1hRWQ?oc=5",
     "title": "삼성도 TSMC와 손잡나…‘맞춤형 HBM’이 허문 반도체 경계",
     "summary": [
-      "삼성도 TSMC와 손잡나…‘맞춤형 HBM’이 허문 반도체 경계 아이뉴스24."
+      "삼성도 TSMC와 손잡나…‘맞춤형 HBM’이 허문 반도체 경계 inews24.com."
     ],
     "chips": [
       "#반도체"
+    ]
+  },
+  {
+    "id": "n0ad4bf68",
+    "category": "IT",
+    "source": "비즈니스포스트",
+    "time": "1일 전",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE50c2ppU2ZVZjcxWUwxT3Z6RTE1dFRMSHRuZHpWYmhGUGpJZ1JqV2JNM1Z0b2cxZno4cHlrVkVwNG10dlZLV21ubDJkLThyWDNmaHphbmZVc0NoSXZwNHFyN2gzNFpMNjBxWk56UGozbGt0bWs?oc=5",
+    "title": "엔비디아 AI반도체 '베라 루빈' AI 추론 작업에도 우위, 삼성전자 SK하이닉스 메모리반도체에 긍정적",
+    "summary": [
+      "엔비디아 AI반도체 '베라 루빈' AI 추론 작업에도 우위, 삼성전자 SK하이닉스 메모리반도체에 긍정적 비즈니스포스트."
+    ],
+    "chips": [
+      "#AI",
+      "#반도체",
+      "#엔비디아",
+      "#삼성전자"
     ]
   },
   {
@@ -154,7 +154,7 @@ window.NEWS_DB = [
     "id": "nf2483f94",
     "category": "IT",
     "source": "Chosunbiz",
-    "time": "2일 전",
+    "time": "3일 전",
     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQTUtyYVZ3b2xLY2dNbFlvUXhLTEkzdkR2di1qUS1YeVBtQ21wMHRvOFB0TF9BWXNtNENWWDQ1aHJrZmZnS3VZTTZsR0UwSlJPa1oyVXJMRTFVZlp2N0M1ME9meklWNDdRMEFVclVNemRjM3UwcjRyOEdfazJlNWRPeE5n0gGWAUFVX3lxTE1IQ3pwd3pqSzByTkZYNWNITHRHNUpWc1JTMXY3ZVI1M0lUXzdONlNTeWpycGdSMnpsUVRwNk4xeG1NM3Vobm1SNGZQakgzM1VlNG9LZnVlYUdFNEJvNU5lS2VCOEZlSzlKMW1jR2VqbUF5eGdiQk9wUVRYXy14VklWcUk5ejFWWFVIUUJ0bjNCencwMHIxdw?oc=5",
     "title": "HBM 이어 3D 적층 D램도… SK하이닉스, TSMC와 ‘로직 결합’ 확대하나 - 조선비즈",
     "summary": [
@@ -183,12 +183,12 @@ window.NEWS_DB = [
   {
     "id": "n76b3a7e9",
     "category": "사회",
-    "source": "공뉴스",
+    "source": "bzeronews.com",
     "time": "7일 전",
     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1EQWl1ejNtb0k2MERHcmdsNkprRktneUZGeTVfQjZaMXlRazJOeWtReGdHcDhhUk0yYmZBNHlYSUpxQ1Zwd1hHR3JzY1ZyaDBRVzhLVE1RdTlvRG0weUVRUFZ2MDN1VXhfY2hCaA?oc=5",
     "title": "김천 구인구직 현장에 93명 참여…“8명은 당날 바로 취업”",
     "summary": [
-      "김천 구인구직 현장에 93명 참여…“8명은 당날 바로 취업” 공뉴스."
+      "김천 구인구직 현장에 93명 참여…“8명은 당날 바로 취업” bzeronews.com."
     ],
     "chips": [
       "#채용",
@@ -270,12 +270,12 @@ window.NEWS_DB = [
   {
     "id": "n08b2b275",
     "category": "부동산",
-    "source": "karnews.or.kr",
+    "source": "한국부동산뉴스",
     "time": "156일 전",
     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBZNmg3TVp4ZWZCV1ZzTE14bXV5UkN4MExnMmZJdkpfNUsyUGltRWlJVWVfUzJoQktRUlcwMTdrUUtuWk9pR2MxaFlhNGpOU0xGZjM3eDUwdlNmRWQtYkFaenAyekhVRGRRY0pJ?oc=5",
     "title": "대출 규제에 몰린 '15억 이하'…비강남 집값·분양가 동반 상승",
     "summary": [
-      "대출 규제에 몰린 '15억 이하'…비강남 집값·분양가 동반 상승 karnews.or.kr."
+      "대출 규제에 몰린 '15억 이하'…비강남 집값·분양가 동반 상승 한국부동산뉴스."
     ],
     "chips": [
       "#부동산",
@@ -311,322 +311,316 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nbd2c67de",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "1분 전",
-    "url": "https://www.donga.com/news/Society/article/all/20260918/134693450/1",
-    "title": "전국 대체로 흐림, 제주·남부 강한 비…낮 최고 29도",
+    "id": "n8378abf8",
+    "category": "경제",
+    "source": "테크M",
+    "time": "방금 전",
+    "url": "https://www.techm.kr/news/articleView.html?idxno=155382",
+    "title": "엔화 스테이블코인 JPYC, 업비트 상장 첫날 3배 급등…외화코인 시장 확대",
     "summary": [
-      "18일 전국이 대체로 흐린 가운데 제주도와 남부지방은 강한 비가 내릴 것으로 예상된다.",
-      "서울·인천 등 서쪽지역을 중심으로는 낮 최고기온이 29도까지 오르겠다.기상청은 “전국이 대체로 흐리겠으며, 제주도와 전남권, 경남권을 중심으로 강한 비가 내리는 곳이 있겠다”고 예보했다.이날 제주도와 전남남해안, 경북동해안·북동산지, 부산·울산·경남에는 비가 내리겠고, 오전부터는 그 밖의 전남권과 전북남동부에도 비가 내리겠다.",
-      "비는 오후 6시에 대부분 그치겠."
+      "엔화에 가치를 연동한 스테이블코인 JPYC가 국내 가상자산거래소에 처음 상장되면서 거래 첫날부터 가격이 크게 출렁였다.",
+      "1JPYC가 1엔에 연동되도록 설계된 자산이지만 업비트 상장 직후 국내 수요가 몰리면서 글로벌 시세의 3배를 웃도는 가격에 거래됐다.",
+      "엔화 스테이블코인의 국내 유통이 본격화되면서 향후 결제와 송금, 외환 시장에 미칠 영향에도 관심이 쏠린다.18일 가상자산업계에 따르면 업비트는 전날 오후 6시부터 JPYC의 원화·비트코인·USD."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n94242f46",
-    "category": "부동산",
-    "source": "동아일보",
-    "time": "2분 전",
-    "url": "https://www.donga.com/news/Economy/article/all/20260918/134693445/1",
-    "title": "서울 아파트값 1년 새 15% 상승… 초소형·동남권 주도",
+    "id": "nb521ee39",
+    "category": "IT",
+    "source": "테크M",
+    "time": "방금 전",
+    "url": "https://www.techm.kr/news/articleView.html?idxno=155380",
+    "title": "\"900원대 컵커피 대박 치더니\"...남양유업, 99원 스틱커피로 '가성비 라인업' 굳힌다",
     "summary": [
-      "서울 아파트 실거래가격이 전년 동월 대비 15%가량 오르며 상승세를 지속하고 있다.",
-      "서초·강남 등 동남권과 초소형 아파트가 매매가 상승을 견인한 가운데, 최근 들어 거래량은 다소 주춤하는 양상이다.17일 서울시가 한국부동산원이 공표한 서울 아파트 실거래가격 지수 동향과 거래량 통계를 분석한 자료에 따르면 7월 서울 아파트 매매 실거래가격지수는 전월 대비 1.93% 상승했다.",
-      "지난해 7월과 비교하면 14.56% 급등해 1년 만에 15%에 가까운."
+      "남양유업이 컵커피에 이어 스틱커피까지 파격적인 가격대의 제품을 잇달아 선보이며 서민 장바구니 부담 낮추기에 팔을 걷어붙였습니다.남양유업은 스틱당 최저 99원 수준의 실속형 스틱커피 '프렌치카페 데일리 아메리카노' 마일드와 아라비카 2종을 출시했다고 18일 밝혔습니다.이번 신제품은 하루에도 서너 잔씩 습관처럼 커피를 마시는 현대인들의 경제적 부담을 덜어주기 위해 기획됐습니다.",
+      "마일드 제품 기준 스틱 하나당 99원 꼴로, 100원도 채 되지 않는."
     ],
     "chips": [
-      "#부동산"
+      "#뉴스"
     ]
   },
   {
-    "id": "n82480aa5",
-    "category": "IT",
-    "source": "아시아경제",
-    "time": "3분 전",
-    "url": "https://view.asiae.co.kr/article/2026091808103728270",
-    "title": "티로보틱스, 美 수주 확대에 현지 생산거점 구축 추진",
+    "id": "n8693e3c1",
+    "category": "경제",
+    "source": "테크M",
+    "time": "방금 전",
+    "url": "https://www.techm.kr/news/articleView.html?idxno=155378",
+    "title": "반값 한우에 연휴 래플, 외식 쿠폰까지...이커머스가 차린 '풍성한 추석 밥상'",
     "summary": [
-      "티로보틱스가 미국 현지 생산거점 확보에 나선다.",
-      "18일 티로보틱스에 따르면 현재 미국 내 복수 지역을 대상으로 생산공장 부지 및 임대 가능성을 검토 중이다.",
-      "기존 실리콘밸리와 텍사스 법인에 현지 생산거점을 추가해 고객사 납기 및 기술지원 대응력을 강화한다는 계획이다."
+      "추석 명절을 앞두고 이커머스 업계가 대대적인 프로모션에 돌입하며 명절 대목 잡기에 나섰습니다.",
+      "최근 치솟은 물가로 명절 준비에 부담을 느끼는 소비자들을 겨냥해, 각 플랫폼이 강점을 지닌 카테고리를 앞세워 맞춤형 할인 혜택을 쏟아내는 모습입니다.18일 업계에 따르면 쿠팡은 밥상 물가 안정을 위한 신선식품을, 무신사는 가을 패션과 연휴 쇼핑을, 11번가는 비대면 선물과 외식 수요를 흡수할 모바일 쿠폰을 전면에 배치했습니다.쿠팡, 25톤 한우 '반값."
     ],
     "chips": [
-      "#정책",
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nec15fd37",
+    "category": "사회",
+    "source": "테크M",
+    "time": "방금 전",
+    "url": "https://www.techm.kr/news/articleView.html?idxno=155379",
+    "title": "코웨이, 청정·탈취 성능 높인 '노블 공기청정기 플러스' 출시",
+    "summary": [
+      "코웨이가 공기 순환과 탈취 성능을 강화한 프리미엄 공기청정기 신제품 '노블 공기청정기 플러스'를 선보였다.",
+      "공간 구조와 생활환경에 따라 공기 흐름을 조절하고, 반려동물 냄새와 생활 악취까지 세밀하게 관리할 수 있도록 기능을 확대한 것이 특징이다.18일 코웨이에 따르면 이번 신제품은 70㎡형과 57㎡형 두 가지로 출시된다.",
+      "2021년 선보인 노블 공기청정기의 디자인을 계승하면서 청정 성능과 공기질 감지 기능을 한층 강화했다.상단에는 높낮이를 조절."
+    ],
+    "chips": [
       "#환경"
     ]
   },
   {
-    "id": "nf04f7024",
+    "id": "n59be5f58",
     "category": "사회",
     "source": "아시아경제",
-    "time": "4분 전",
-    "url": "https://view.asiae.co.kr/article/2026091808095404437",
-    "title": "동두천시, 인구감소 대응 4대 전략 마련…53개 사업 추진",
+    "time": "1분 전",
+    "url": "https://view.asiae.co.kr/article/2026091811040591573",
+    "title": "[속보] 이 대통령 \"조작기소 의혹, 신속히 특검 통해 국민께 진상 밝혀 보여드려야\"",
     "summary": [
-      "경기 동두천시(시장 박형덕)가 인구 감소와 지방소멸 위기에 대응하기 위해 정주여건 개선과 생활인구 유입 확대를 중심으로 한 53개 사업을 추진한다.",
-      "동두천시는 지난 16일 시청 상황실에서 박형덕 시장과 간부 공무원들이 참석한 가운데 '인구감소대응 기본계획 수립 용역' 최종보고회를 열었다고 18일 밝혔다.",
-      "이번 용역은 오는 10월 인구감소지역 재지정에 대비해 지역 맞춤형 대응 전략을 세우고, 지방소멸대응기금 투자계획과 연계한 지속 가능한 발전 방."
+      "[속보] 이 대통령 \"조작기소 의혹, 신속히 특검 통해 국민께 진상 밝혀 보여드려야\"."
     ],
     "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n7c743eef",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "5분 전",
-    "url": "https://www.newsis.com/view/NISX20260918_0003794846",
-    "title": "조국, 박지원에 역공 \"과거 '문모닝' 하더니 이젠 '조모닝'하나\"",
-    "summary": [
-      "[서울=뉴시스] 김종민 기자 = 조국 조국혁신당 혁신정책연구원장이 연일 자신을 향해 비판적 발언을 이어가는 박지원 더불어민주당 의원을 향해 과거 문재인 전 대통령을 공격했던 행태를 언급하며 정면으로 반박했다.",
-      "조 원장은 18일 사회관계망서비스(SNS)를 통해 \"'정치9단' 박지원 의원님은 제가 교수 시절부터 인연을 맺고 많은 배움을 얻는 원로이십니다.",
-      "그런데 박 의원님께서 과거 \"문(文)모닝\" 하셨던 것처럼 근래는 \"조(曺)모닝\"을 하십니다\"라."
-    ],
-    "chips": [
-      "#정책",
       "#정치"
     ]
   },
   {
-    "id": "ne298f552",
+    "id": "n6cfad2a4",
     "category": "사회",
     "source": "뉴시스",
-    "time": "5분 전",
-    "url": "https://www.newsis.com/view/NISX20260918_0003794781",
-    "title": "LA 방송 헬기 추락한 교통사고, 버스충돌한 SUV운전자 \"살인죄\"기소",
+    "time": "1분 전",
+    "url": "https://www.newsis.com/view/NISX20260918_0003795281",
+    "title": "'방산 소부장 특화단지 지정' 대전, 방산AX클러스터 탄력",
     "summary": [
-      "[로스앤젤레스= AP/ 뉴시스] 차미례 기자 = 미국 NBC 방송 지역 뉴스 헬리콥터가 15일 로스앤젤레스의 한 주택가에서 버스와 SUV차량 충돌 현장을 보도하다가 추락해 화염에 휩싸여 3명이 사망한 사건과 관련해서 검찰이 SUV 운전자 여성을 살인 혐의로 기소했다고 17일(현지시간) 발표했다.",
-      "용의자 베일리 린 리오스(36)는 2004년 형 포드 밴을 몰고 15일 과속으로 시내 중심가의 복잡한 도로를 역주행 하다가 차량 한 대와 충돌한 뒤 다."
+      "[대전=뉴시스]곽상훈 기자 = 대전시가 방산 분야 소부장 특화단지로 지정됨에 따라 '방산AX 클러스터' 조성 사업이 탄력을 받게 됐다.",
+      "대전시는 18일 시정 브리핑을 열고 소부장 특화단지 지정과 관련해 그동안 축적해 온 국방 연구개발 역량을 산업화로 연결해 대한민국 방산 핵심부품 공급망의 중심지로 도약하는 중요한 전환점이 될 전망이라고 밝혔다.",
+      "시는 2022년 드론 특화 방산클러스터로 선정된 이래 시험과 실증, 사업화가 가능한 방산 AX종합지원."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "na3e6c52f",
+    "id": "na18b53b2",
+    "category": "사회",
+    "source": "아시아경제",
+    "time": "1분 전",
+    "url": "https://view.asiae.co.kr/article/2026091811033876006",
+    "title": "가평군, 서울경마공원 유치 선제 대응…후보지 2곳 현장 점검",
+    "summary": [
+      "경기 가평군이 과천시에 있는 서울경마공원의 이전 가능성에 대비해 민간 추진단과 함께 후보 부지 점검에 나섰다.",
+      "가평군은 지난 17일 서태원 군수와 민간 추진단 관계자 등이 가평역과 상천역 인근 후보지 2곳을 찾아 입지 여건을 점검했다고 18일 밝혔다.",
+      "정부의 과천 경마장 부지 활용 계획에 따라 서울경마공원 이전 논의가 본격화할 가능성에 선제적으로 대응하기 위한 것이다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nfbf06177",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "1분 전",
+    "url": "https://www.newsis.com/view/NISX20260918_0003795337",
+    "title": "유럽·미주·대양주 신흥시장 잡는다…관광공사, 방한상품 개발",
+    "summary": [
+      "[서울=뉴시스]김정환 관광전문 기자 = 유럽·미주·대양주 신흥시장을 겨냥한 방한 관광상품 개발과 국내 인바운드 여행업계의 해외 판로 개척이 확대된다.",
+      "한국관광공사(사장 박성혁)는 11일부터 18일까지 7박8일간 이들 시장의 유력 여행사 바이어 20명을 초청해 기업 간 거래(B2B) 상담과 지역 특화 팸투어를 진행했다.",
+      "이번 행사는 자체 해외 마케팅망을 갖추기 어려운 국내 인바운드 전담 여행사(DMC)가 새로운 해외 거래처를 확보하고, 현지 수요."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n7a8c2c11",
     "category": "IT",
     "source": "아시아경제",
+    "time": "2분 전",
+    "url": "https://view.asiae.co.kr/article/2026091810062170009",
+    "title": "네이버클라우드 \"국방 AI 가속화 협력…군 통제권 갖고 민간기술로 전력화\"",
+    "summary": [
+      "네이버(NAVER)가 국방 인공지능(AI) 전환을 위한 소버린 AI 전략을 공개하고 민관이 협력해 국방 AI 가속화에 나서겠다고 밝혔다.",
+      "네이버클라우드는 18일 서울 신라호텔에서 국방부, 합동참모본부, 각 군 관계자 등 550명을 대상으로 '국방 AI 전략 세미나(Defense AI Day)'를 열고, 군이 데이터와 모델을 직접 통제하면서 민간 기술을 빠르게 전력으로 전환할 수 있도록 지원하는 국방 소버린 AI 전략을 공개했다."
+    ],
+    "chips": [
+      "#AI",
+      "#네이버"
+    ]
+  },
+  {
+    "id": "n459fb379",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "2분 전",
+    "url": "https://www.newsis.com/view/NISX20260918_0003795356",
+    "title": "[속보]李대통령 \"나름 인사시스템으로 노력했지만 부족…재점검해보려 해\"",
+    "summary": [],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "ne2ac8ca3",
+    "category": "IT",
+    "source": "아시아경제",
+    "time": "2분 전",
+    "url": "https://view.asiae.co.kr/article/2026091811022766769",
+    "title": "플랫폼으로 이동한 성매매…성인사이트 광고 5만건 중 18%는 SNS로 연결",
+    "summary": [
+      "성매매 시장이 과거 집결지와 업소 중심에서 온라인 플랫폼과 사회관계망서비스(SNS), 메신저를 거쳐 인공지능(AI)·알고리즘이 결합된 형태로 빠르게 옮겨가면서 기존 성매매 대응 정책도 변화해야 한다는 지적이 나온다.",
+      "18일 성평등가족부와 한국여성인권진흥원은 오전 10시 서울 중구 한국여성인권진흥원에서 '변화하는 성매매 지형, 정책의 다음 과제'를 주제로 정책 토론회를 열었다.",
+      "이번 토론회에서는 2004년 성매매처벌법·성매매방지법 시행 이후 정책."
+    ],
+    "chips": [
+      "#AI",
+      "#정책"
+    ]
+  },
+  {
+    "id": "nf39ba750",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "3분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260918071100009",
+    "title": "\"찰스 영국왕, 다이애나 사망 때 복권 당첨된 것처럼 기뻐해\"",
+    "summary": [
+      "(서울=연합뉴스) 이신영 기자 = 찰스 3세 영국 국왕이 고(故) 다이애나 왕세자빈 사망 소식을 듣고 복권에 당첨된 것처럼 기뻐했다는 주장이 제..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n639bb487",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "3분 전",
+    "url": "https://www.newsis.com/view/NISX20260918_0003795258",
+    "title": "[영월소식]공공서체 '영월체', 골든핀 디자인 어워드 최종후보 등",
+    "summary": [
+      "[영월=뉴시스]홍춘봉 기자 = 강원 영월군의 공공서체 '영월체(Yeongwol Typeface)'가 대만 2026 골든 핀 디자인 어워드에서 '올해의 베스트 디자인' 최종 후보에 올랐다.",
+      "이번 심사에서 '골든 핀 디자인 마크'를 받은 474개 작품 중 105개만이 최종 후보로 선발됐다.",
+      "특히 영월체는 주최 측이 별도로 조명한 주요 작품 13개에 이름을 올렸으며, 이 중 한국 작품으로는 영월체가 유일하다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n8deccdf4",
+    "category": "사회",
+    "source": "연합뉴스",
     "time": "4분 전",
-    "url": "https://view.asiae.co.kr/article/2026090819561621008",
-    "title": "[125년 노벨상 시대를 담다]⑤다음 노벨상이 탄생할 미래 과학의 전선",
+    "url": "https://www.yna.co.kr/view/AKR20260918072800001",
+    "title": "李대통령 \"헌법개정 통한 연임 불가능…연임할 생각 전혀 없어\"",
     "summary": [
-      "편집자주1901년 첫 시상 이후 125년.",
-      "과학은 한 명의 천재가 발견하던 시대에서 수천 명과 인공지능(AI)이 함께 연구하는 시대로 변했다.",
-      "아시아경제는 노벨상 125년을 통해 과학적 발견의 주체와 방식이 어떻게 달라졌는지, 그리고 노벨상은 이러한 변화를 얼마나 담아내고 있는지를 7회에 걸쳐 살펴본다."
+      "(서울=연합뉴스) 임형섭 기자 = 이재명 대통령은 18일 \"헌법 개정을 통한 저의 연임은 헌법상 불가능하다\"며 \"다시 한번 확고하게 말씀 드린다..."
     ],
     "chips": [
-      "#AI"
+      "#정치"
     ]
   },
   {
-    "id": "n19705425",
+    "id": "n38565adb",
     "category": "IT",
-    "source": "뉴시스",
-    "time": "5분 전",
-    "url": "https://www.newsis.com/view/NISX20260918_0003794841",
-    "title": "AP위성, 태국 GISTDA 대표단 부천AIT센터 방문",
-    "summary": [
-      "[서울=뉴시스] 김경택 기자 = AP위성은 태국 지리정보우주기술개발청(GISTDA) 대표단이 회사 AIT센터를 방문했다고 18일 밝혔다.",
-      "회사 측에 따르면 이번 방문은 지식과 경험을 공유하고, 상호 도움이 되는 협력 기회를 발굴해 장기적인 협력관계 구축 가능성을 모색하기 위해 마련됐다.",
-      "AP위성은 주요 사업을 비롯해 한국의 우주개발 사업에 참여하며 축적해 온 기술 역량과 경험을 소개하고, 대표단과 함께 AIT센터의 위성 조립·통합·시험 시설을."
-    ],
+    "source": "연합뉴스",
+    "time": "4분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260918073000051",
+    "title": "[부산소식] 동의대·카자흐스탄 코스타나이주립대, AI 연구실 설립",
+    "summary": [],
     "chips": [
       "#AI"
     ]
   },
   {
-    "id": "n0aa4113e",
+    "id": "nde92b53b",
     "category": "사회",
     "source": "연합뉴스",
+    "time": "4분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260918073300001",
+    "title": "[속보] 李대통령 \"인사 시스템 재점검…최선 다하겠다\"",
+    "summary": [],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n5d6ab53f",
+    "category": "IT",
+    "source": "동아일보",
     "time": "5분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260918018100051",
-    "title": "부산 영도 수리조선 '깡깡이 아지매' 물품, 예비문화유산 선정",
+    "url": "https://www.donga.com/news/Economy/article/all/20260918/134694371/1",
+    "title": "추석 연휴 고속도로 주유소 기름값 L당 100원 내린다",
     "summary": [
-      "(부산=연합뉴스) 김선호 기자 = 부산시는 국가유산청에서 개최한 제3회 예비문화유산 발굴 공모전에서 부산 영도 깡깡이 아지매 작업복과 작업도구가..."
+      "추석 연휴 기간인 24~27일 전국 고속도로 주유소의 기름값이 L당 100원씩 인하된다.",
+      "이 기간 재생에너지 공급이 풍부한 낮 시간대에는 전기차 충전요금도 깎아준다.",
+      "정부는 정부세종청사에서 18일 구윤철 부총리 겸 재정경제부 장관 주재로 비상경제본부 회의 겸 경제관계장관회의를 열고 유류세 운용방안 및 추석 고속도로 주유소 유류가격 및 전기차 충전요금 할인방안 등을 논의했다."
     ],
     "chips": [
-      "#뉴스"
+      "#전기차",
+      "#환경"
     ]
   },
   {
-    "id": "nb117c5b6",
-    "category": "사회",
-    "source": "아시아경제",
-    "time": "5분 전",
-    "url": "https://view.asiae.co.kr/article/2026091715205888627",
-    "title": "\"실사용 근거도 보자\"…콜린알포 51만명 RWE 재조명",
-    "summary": [
-      "실제 진료 데이터로 약효를 평가하는 실사용근거(RWE)가 의약품 평가의 새 기준으로 떠오르고 있다.",
-      "통제된 조건에서 진행하는 임상시험(RCT)만으로는 확인하기 어려운 장기 복용 결과를 보여줄 수 있어서다.",
-      "임상재평가가 진행 중인 콜린알포세레이트(일명 '콜린제제')도 RCT 결과와 함께 RWE를 검토해야 한다는 목소리가 나온다."
-    ],
-    "chips": [
-      "#의료"
-    ]
-  },
-  {
-    "id": "n47a68c6a",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "7분 전",
-    "url": "https://www.newsis.com/view/NISX20260918_0003794810",
-    "title": "성묘객 몰려 혼잡…서울→부산 7시간[주말·휴일 고속도로]",
-    "summary": [
-      "[서울=뉴시스] 홍찬선 기자 = 9월 세 번째 주말(38주차) 고속도로 교통량은 추석을 앞두고 벌초, 성묘객이 늘어나며 평소보다 증가할 것으로 전망됐다.",
-      "18일 한국도로공사에 따르면 주말 전국 교통량은 토요일(19일) 615만대, 일요일(20일) 530만대로, 수도권을 빠져나가는 차량은 토요일 47만대, 수도권으로 들어오는 차량은 일요일 47만대로 예상했다.",
-      "예상 소요시간은 토요일 서울에서 ▲대전까지 3시간50분 ▲부산까지 7시간 ▲강릉까지 3."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n3d464f84",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "7분 전",
-    "url": "https://www.chosun.com/entertainments/enter_general/2026/09/18/GFRTOMDEGUYTCMZWGA4TGZJRMY/",
-    "title": "지누션→빅뱅 키운 YG 페리, 美 국무부도 포기한 실종…'그알' 나섰다[종합]",
-    "summary": [
-      "[스포츠조선 백지은 기자] 래퍼 겸 프로듀서 페리는 어디에 있을까.",
-      "YG엔터테인먼트(이하 YG) 래퍼 겸 프로듀서 페리의 실종사건에 SBS '그것이 알고싶다(이하 그알)'가 나선다.",
-      "'그알' 측은 17일 공식 SNS에 \"1990년대 중반부터 국내에서 음악 활동을 이어오다가 2010년 미국 로스앤젤레스에서 마지막으로 목격된 이후 행방불명된 것으로 알려진 페리."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n8414c38b",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "7분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260918018000051",
-    "title": "바다와 도서관이 만나는 독서축제…다대포서 바다도서관",
-    "summary": [
-      "(부산=연합뉴스) 김선호 기자 = 부산시는 19일부터 다음 달 11일까지 매주 토·일요일 오후 3∼9시까지 사하구 다대포해변공원 일원에서 '20..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n67f2c678",
-    "category": "경제",
-    "source": "연합뉴스(경제)",
-    "time": "7분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260918018900008",
-    "title": "[마켓뷰] 美증시 긴축 소화하며 반등…코스피도 이어받을까",
-    "summary": [
-      "(서울=연합뉴스) 김유아 기자 = 미국 뉴욕증시가 간밤 미 연준의 매파적 기준금리 인상 여파를 소화하며 반등한 가운데 코스피가 18일 미국발 훈..."
-    ],
-    "chips": [
-      "#금리"
-    ]
-  },
-  {
-    "id": "n795f9dd3",
-    "category": "사회",
-    "source": "연합뉴스",
+    "id": "n9183392a",
+    "category": "스포츠",
+    "source": "동아일보",
     "time": "8분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260918020300063",
-    "title": "대전 유성구 숙박시설서 불…10명 대피·5명 구조",
+    "url": "https://www.donga.com/news/Society/article/all/20260918/134694546/1",
+    "title": "‘수원 마약 좀비’ 30대 남성, 구속 송치…“해외서 필로폰 투약”",
     "summary": [
-      "(대전=연합뉴스) 이주형 기자 = 18일 오전 3시 9분께 대전 유성구 봉명동 한 숙박업소 5층에서 불이 났다."
+      "해외에서 필로폰을 투약한 혐의를 받는 ‘수원 마약 영상’ 속 30대 남성이 구속 상태로 검찰에 넘겨졌다.경기 수원권선경찰서는 마약류 관리에 관한 법률 위반 혐의로 A 씨를 구속 송치했다고 18일 밝혔다.A 씨는 올해 초 해외에서 필로폰을 투약한 혐의를 받고 있다.",
+      "지난 7월까지는 주거지에 필로폰을 보관한 것으로 나타났다.그는 또 지인인 30대 남성 B 씨로부터 향정신성의약품을 건네받아 투약한 혐의도 받는다.경찰은 B 씨 역시 향정신성의약품을 불."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n3562683e",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "10분 전",
-    "url": "https://www.chosun.com/economy/economy_general/2026/09/18/R5IHMJY4FRBRPBMG6YO6GP6REU/",
-    "title": "유류세 인하 11월 말까지 두 달 연장",
-    "summary": [
-      "유류세 인하 11월 말까지 두 달 연장."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n34dac48b",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "11분 전",
-    "url": "https://www.chosun.com/international/international_general/2026/09/18/UZ2KW6D2VZEUZOGO5C3WUV42QU/",
-    "title": "자기 이름 못 단다고 철거하나…트럼프 손에 들린 ‘케네디센터 철거안’",
-    "summary": [
-      "자기 이름 못 단다고 철거하나…트럼프 손에 들린 ‘케네디센터 철거안’."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nc4c3e031",
+    "id": "n6277082e",
     "category": "경제",
     "source": "연합뉴스(경제)",
-    "time": "14분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260917170600017",
-    "title": "[가보니] 약 챙기고 안부 묻고…국가유공자 찾아간 약사들",
+    "time": "9분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260918070300008",
+    "title": "이억원 \"증시 장기 수급기반 확충…변동완화장치 세밀히 정비\"",
     "summary": [
-      "(서울=연합뉴스) 신선미 기자 = \"뭘 이렇게 많이 가져왔어요.",
-      "미안하게 매번 받기만 하고….\"."
+      "(서울=연합뉴스) 김유아 김유향 기자 = 이억원 금융위원장은 18일 \"국내 증시에 장기적인 수급 기반을 확충하고, 시장 비상 상황에서의 변동성 ..."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n89fee421",
+    "id": "n926e78a8",
     "category": "사회",
     "source": "동아일보",
-    "time": "16분 전",
-    "url": "https://www.donga.com/news/Society/article/all/20260918/134693430/1",
-    "title": "“제 코는 무슨 죄인가요?”…향수·담배 냄새에 ‘후각 테러’ 호소",
+    "time": "9분 전",
+    "url": "https://www.donga.com/news/Society/article/all/20260918/134694540/1",
+    "title": "충북전교조 “교사 폭행 초등생 부모, 담임 등 아동학대 고소 적반하장”",
     "summary": [
-      "향수나 바디미스트, 옷에 밴 담배 냄새 등 타인의 강한 냄새 때문에 지하철과 버스, 식당 같은 공공장소에서 불편을 호소하는 사람들이 늘고 있다.최근 사회관계망서비스(SNS)에서는 공공장소에서 강한 향수 냄새를 두고 “머리가 아프다”, “토할 것 같다”는 불만이 잇따르면서 이른바 ‘후각 에티켓’을 둘러싼 논쟁이 이어지고 있다.실제 한 대학생은 “음식을 먹는 건지 향수를 먹는 건지 모를 정도로 냄새가 역해 식사를 망쳤다”라며 “식사 공간에서까지 진."
+      "전국교직원노동조합 충북지부는 18일 교사 여러명에게 폭력을 휘두른 초등학생의 부모가 되레 담임과 교감 등을 아동학대로 경찰에 고소한 사건과 관련 아동학대처벌법 개정을 촉구했다.",
+      "전교조 충북지부는 이날 성명을 내고 “아동복지법, 아동학대처벌법을 악용한 정서적 아동학대 고소가 적반하장으로 난무하는 현실에 깊은 유감을 표한다”며 “정당한 생활지도와 교육활동에도 보호자의 불만 제기로 신고가 이뤄지고 경찰 수사와 검찰 송치로 이어지는 현행 아동학대 관계."
     ],
     "chips": [
       "#교육"
     ]
   },
   {
-    "id": "n6da1704a",
+    "id": "nc75ed61e",
     "category": "사회",
     "source": "동아일보",
-    "time": "19분 전",
-    "url": "https://www.donga.com/news/Entertainment/article/all/20260918/134693424/1",
-    "title": "‘봉준호 페르소나’ 변희봉, 오늘 3주기",
+    "time": "9분 전",
+    "url": "https://www.donga.com/news/Politics/article/all/20260918/134694543/1",
+    "title": "[속보]李 “연임할 생각 전혀 없다…개헌 통한 연임 불가능”",
     "summary": [
-      "한국 영화와 방송계에 굵직한 족적을 남긴 원로 배우 변희봉(1942~2023·변인철)이 세상을 떠난 지 18일로 3년이 흘렀다.고인은 완치 판정을 받았던 췌장암이 재발해 투병하던 끝에 지난 2023년 9월18일 향년 81세로 별세했다.변희봉은 1960년대 동향 선배인 연극계의 대부 차범석(1926~2006)과 인연으로 극단 ‘산하’에서 연극을 하게 됐다.",
-      "1966년 MBC 성우 공채 2기로 연예계에 발을 들인 고인은 연극 무대와 안방극장을 오가."
+      "이재명 대통령이 18일 “저는 연임할 생각이 전혀 없다”고 말했다.",
+      "9일 “저의 임기는 헌법상 명확하게 제한돼 있다”라고 말한 데 이어 연임 개헌 논란에 분명하게 선을 그은 것이다.이 대통령은 이날 오전 청와대 영빈관에서 “연임하지 않겠다고 약속하라는 (야권의) 요구는 마치 제가 연임을 구상하다 포기하는 프레임을 만들려는 정치공세라고 생각했다”면서도 “그럼에도 이 기회에 다시 한번 확고하게 말씀드린다”며 이같이 말했다.이 대통령은 “헌법 개정을."
     ],
     "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n75357687",
-    "category": "경제",
-    "source": "한국경제",
-    "time": "43분 전",
-    "url": "https://www.hankyung.com/article/202609182565H",
-    "title": "이동욱 사칭범에 속은 여성…\"배우자로 점 찍어…3500만원 보내\"",
-    "summary": [
-      "이동욱 사칭범에 속은 여성…\"배우자로 점 찍어…3500만원 보내\"."
-    ],
-    "chips": [
-      "#뉴스"
+      "#정치"
     ]
   }
 ];
@@ -636,20 +630,20 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2720건",
-    "trend": "+315%"
+    "mentions": "2330건",
+    "trend": "+255%"
   },
   {
     "rank": 2,
-    "tag": "반도체",
+    "tag": "AI",
     "mentions": "1550건",
     "trend": "+135%"
   },
   {
     "rank": 3,
-    "tag": "AI",
-    "mentions": "1420건",
-    "trend": "+115%"
+    "tag": "반도체",
+    "mentions": "1550건",
+    "trend": "+135%"
   }
 ];
 // ====AUTO-GENERATED-END====
