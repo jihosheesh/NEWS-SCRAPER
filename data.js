@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-09-20 17:06:58
+// 마지막 업데이트: 2026-09-20 19:57:00
 window.NEWS_DB = [
   {
     "id": "n5bd6dfc2",
     "category": "IT",
     "source": "비즈니스포스트",
-    "time": "20시간 전",
+    "time": "22시간 전",
     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBfRTJwanRjQ0pfd3JJa2pScHVRRVp3clY1a1lUcm1Jb2owU3dxZVdLbFREVmJrVjRnLTh4R2l3OWdCUXg1VXhBanRrR1g1Tko4QWpvZ2U5WWxXUURKWHRNbk1kS1k1MHdHZmlJWlVpUG1IbUE?oc=5",
     "title": "앤트로픽 내년부터 메모리 직접 구매 확대, 삼성전자·SK하이닉스 가격 협상력 더 높아진다",
     "summary": [
@@ -36,12 +36,12 @@ window.NEWS_DB = [
   {
     "id": "nf474abc4",
     "category": "IT",
-    "source": "chosun.com",
+    "source": "조선일보",
     "time": "2일 전",
     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxObjYtQzRIYXI2aW5LLUJ0TzRPYnBleWZMMllCbHpmaklGZEpwUWU3STJ0M3dnOXhWeXoxdm9QWi01a29KcHc5YkxjakJCcEpXOGgyUzVmZVAxbTY4cnhLWnV4RkNIVXNUSUlGZ3ZJaGJGNGNDeHQwaG1EVlBfSXZEc3lUWQ?oc=5",
     "title": "벼랑 끝서 돌아온 화웨이 \"중국판 엔비디아 목표\"",
     "summary": [
-      "벼랑 끝서 돌아온 화웨이 \"중국판 엔비디아 목표\" chosun.com."
+      "벼랑 끝서 돌아온 화웨이 \"중국판 엔비디아 목표\" 조선일보."
     ],
     "chips": [
       "#엔비디아"
@@ -50,13 +50,13 @@ window.NEWS_DB = [
   {
     "id": "nd0f85b04",
     "category": "경제",
-    "source": "서울경제",
+    "source": "sedaily.com",
     "time": "3일 전",
     "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE0tUURrTXl6dkRyNFUwOXU1MS03Mlc0SmVqR0lzWHQwUVVBM1oxUjhVWjlxSW9Yc1RhaGVtTVl3YkQ4cGVFR0VNTjJYaw?oc=5",
     "title": "연준의 반란! 금리 전격 인상... 주식 다 팔아야 할까?",
     "summary": [
       "연준의 반란! 금리 전격 인상...",
-      "주식 다 팔아야 할까? 서울경제."
+      "주식 다 팔아야 할까? sedaily.com."
     ],
     "chips": [
       "#금리"
@@ -65,7 +65,7 @@ window.NEWS_DB = [
   {
     "id": "n46ae0b88",
     "category": "사회",
-    "source": "vietnam.vn",
+    "source": "Vietnam.vn",
     "time": "3일 전",
     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQaEJDaHU4Y1RySkZPaEdRaUFSOERZSFBRQWhlVmdSWjloMVJQWGdxWEk3N2hxVk51RW5rNzkwQXlCWHh4S0dNY1NmVVVoUkt3WmdfYUFYZHlGS1NfRVo0SDVlSjdGMnA0d09TUlBMRk5mcV9IZGIwN0hLUjRCSkZYZi03V0JZeXJLa1FEVA?oc=5",
     "title": "취업 박람회를 통해 수천 개의 일자리 기회를 얻을 수 있습니다.",
@@ -95,12 +95,12 @@ window.NEWS_DB = [
   {
     "id": "na399e708",
     "category": "IT",
-    "source": "머니투데이",
+    "source": "mt.co.kr",
     "time": "3일 전",
     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1RR2JPMlk1NEViNXpSY2ZxSnpSSHZIZU5wMkVpbzdvMEg4SjhNY2l4TEp3XzJ2ODg5QmZjejBSdkIyNnNIQ3ZlTkRUNmozbThpX3doNy1uZlhhcDh2eUptZ3FhbUhfTW9W0gFuQVVfeXFMTVRiaEtmM1RGeTdZcHdBSllCaTc4OU9CdExUWFNPNmVnTzlUNHFacE43ZE5uNXZNOUJCQUVlZ3dWamR5b1JqLTFUOHhpMEU0RlJqVXVDUmdLRGFGZVdRWllPdWNmNFQzZnVoNGU2X3c?oc=5",
     "title": "\"삼성전자가 투자했다\"…네덜란드 AI 반도체 스타트업은 어디? - 머니투데이",
     "summary": [
-      "\"삼성전자가 투자했다\"…네덜란드 AI 반도체 스타트업은 어디? - 머니투데이 머니투데이."
+      "\"삼성전자가 투자했다\"…네덜란드 AI 반도체 스타트업은 어디? - 머니투데이 mt.co.kr."
     ],
     "chips": [
       "#AI",
@@ -112,13 +112,13 @@ window.NEWS_DB = [
   {
     "id": "nfd541720",
     "category": "경제",
-    "source": "chosun.com",
+    "source": "조선일보",
     "time": "3일 전",
     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPX19hUk9LSUdFUFZxd1QxNVFVNXJOa3pzZ1F0WXkxQWlFc09IM25Pd1lPcE1DSk5RcnFRZ25WeUlycW1IWDdUYjF5TUFRREpLRUlJNlB5cEhVUjZ6amMzR0ZaOFhPQjk1ZDRVS1A5dm5BMVdfbm9wYU80ODE0bXAydHdZTGJEMVdy?oc=5",
     "title": "美 기준금리 4% 시대... 대출·투자 어떻게 하나",
     "summary": [
       "美 기준금리 4% 시대...",
-      "대출·투자 어떻게 하나 chosun.com."
+      "대출·투자 어떻게 하나 조선일보."
     ],
     "chips": [
       "#금리"
@@ -217,12 +217,12 @@ window.NEWS_DB = [
   {
     "id": "n657e0140",
     "category": "경제",
-    "source": "연합뉴스TV",
+    "source": "yonhapnewstv.co.kr",
     "time": "24일 전",
     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1rdGZhcGJlUmFqWjByaGFpZG1TZHEtUnpFbjM5NF9QdzlWOXliTW0tX0ZYa0pEQXdHbUt3S3pPYVNzUGJJZEtqZHotSHZDVTVFTTlNaW1UZUstNjFGTEt2Rk1hWmZ5MjA?oc=5",
     "title": "7,000선 넘보던 코스피…금리 인상에 상승폭 축소",
     "summary": [
-      "7,000선 넘보던 코스피…금리 인상에 상승폭 축소 연합뉴스TV."
+      "7,000선 넘보던 코스피…금리 인상에 상승폭 축소 yonhapnewstv.co.kr."
     ],
     "chips": [
       "#금리"
@@ -258,6 +258,20 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n79d12fb6",
+    "category": "부동산",
+    "source": "Chosunbiz",
+    "time": "114일 전",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQc01fQzQ5RjhjTzMxV0xObHgwUFQ5Z0ozcklaR19VYmhUOXBxVURFZVBjZkxKT2ozQUhsVzViV1JCLXdvVUQ1YWVwYTA5bVB1TjdaYlZHTXFCQUJoRTBsdHNHZXZ5MnJQdVliYzVUUktidVpvNDNzWVJXakYzUFBTMFMxd1Y0NFVrTnhSR1c5WXctLTdFRnhJMtIBrAFBVV95cUxOMk9EaXo0bmRJdnJyRVgyM0REZE1IR1VEVkNzWVNHZW9nR3p3WDRXcXQ0dnpfNk5LRE9SVFVscW45RzlqYTZGTWhWdTlybngycnM5QUliSG1haVFoQW5xT3ZpbFJvWU5hYjNYUGNLTHVyNHgwcDdLZWFsdFhMTHhCNlBodDFsdkFTT0tFX3NXWGZ1M2hCTEpmbTVUVXRzREtvSy1CdkRyWE5sbU5p?oc=5",
+    "title": "매물 줄고 분양가 뛰고… 전국 아파트 매매·전셋값 동반 상승세 지속 - 조선비즈",
+    "summary": [
+      "매물 줄고 분양가 뛰고… 전국 아파트 매매·전셋값 동반 상승세 지속 - 조선비즈 Chosunbiz."
+    ],
+    "chips": [
+      "#부동산"
+    ]
+  },
+  {
     "id": "nb9bdfdfb",
     "category": "스포츠",
     "source": "푸드투데이",
@@ -270,21 +284,6 @@ window.NEWS_DB = [
     "chips": [
       "#손흥민",
       "#KBO"
-    ]
-  },
-  {
-    "id": "n5a1617c5",
-    "category": "부동산",
-    "source": "헤럴드경제",
-    "time": "131일 전",
-    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1TS2Q2aDJMQXUtYUMtcmZTZkUtNXVycDVXUTFSYk1oeTg4TXNFTXQxN3RtcGVlRUJxMWlMWXk0c05lRFFvemxzYk0wa1hsZXMwbm1hVWtn?oc=5",
-    "title": "집값 상승, 전세품귀에…서울, 분양전망 1달 만에 기준치 회복 [부동산360]",
-    "summary": [
-      "집값 상승, 전세품귀에…서울, 분양전망 1달 만에 기준치 회복 [부동산360] 헤럴드경제."
-    ],
-    "chips": [
-      "#부동산",
-      "#전세"
     ]
   },
   {
@@ -334,10 +333,254 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "nf5bab4b8",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "2분 전",
+    "url": "https://www.chosun.com/sports/world-football/2026/09/21/GM4TQMDBMM3DGZJRMEZWCYJWGY/",
+    "title": "\"두 번째 골은 이강인의 발끝에서 시작됐다!\" 스페인 현지 극찬...첫 마드리드 더비 89분→과감한 슈팅+정확한 드리블 '평점 7'",
+    "summary": [
+      "[OSEN=정승우 기자] 공격 포인트는 없었지만 현지 평가는 좋았다.",
+      "이강인(25, 아틀레티코 마드리드)이 생애 첫 마드리드 더비에서 과감한 슈팅과 정확한 볼 운반으로 공격을 이끌었다는 평가를 받았다.",
+      "특히 결승골이 된 두 번째 득점의 출발점으로도 주목받았다.스페인 '엘데스마르케'는 21일(이하 한국시간) 아틀레티코 마드리드 선수들의 레알 마드리드전 활약을."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "ndf478005",
+    "category": "경제",
+    "source": "뉴시스",
+    "time": "4분 전",
+    "url": "https://www.newsis.com/view/NISX20260921_0003797398",
+    "title": "FOMC 매파 위원 \"美인플레, 유가상승 빼고 봐도 여전히 심각\"",
+    "summary": [
+      "[서울=뉴시스] 김승민 기자 = 미국 연방공개시장위원회(FOMC) 위원 중 매파 인사로 꼽히는 닐 카시카리 미니애폴리스 연방준비은행 총재가 미국 인플레이션은 유가 위기와 무관하게 과도한 수준이라고 말했다.",
+      "카시카리 총재는 20일(현지 시간) 폭스뉴스 '선데이 모닝 퓨처스'에 출연해 \"변동성이 매우 큰 에너지를 제외하고 식품도 뺀다고 해도, 경제의 방향성을 볼 때 인플레이션이 여전히 너무 높다\"며 \"연방준비제도(Fed)의 역할은 인플레이션을 목표."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nb15692dd",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "7분 전",
+    "url": "https://www.chosun.com/sports/sports_general/2026/09/21/GQYDCY3DMRRDMODFGM3TCZDCGQ/",
+    "title": "\"살을 깎는 고통을 겪었다\" 철심까지 빼고 대표팀 복귀한 '될놈될' 전웅태, 3번째 금메달은 '행운'이 아닌 '노력'이 만들었다",
+    "summary": [
+      "[안조=스포츠조선 박찬준 기자]대역전 드라마였다.",
+      "한국 남자 근대5종이 단체전 금메달을 거머쥐었다.",
+      "한국은 20일 일본 아이치현 안조 스포츠파크에서 열린 2026년 아이치-나고야 아시안게임 남자 근대5종 결승에서 '에이스' 전웅태(강원도체육회)의 막판 스퍼트를 앞세워 금메달을 획득했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nbe4be7a0",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "16분 전",
+    "url": "https://www.chosun.com/sports/baseball/2026/09/21/GBSDGMLEMM4DOMZUMYYTSNRVMM/",
+    "title": "'1순위' 하현승 KBO 입성의 날 밝았다…\"8년 뒤에 다시 만나자\" 韓 평정한 뒤 친구들 기다리는 美로 향한다",
+    "summary": [
+      "[OSEN=부산, 조형래 기자] “8년 뒤 미국에서 다시 만나자.”2027 신인드래프트 전체 1순위가 확실시 되는 하현승(부산고) 9월 초, 대만에서 열린 제14회 U-18 아시아청소년선수권대회의 영웅이었다.",
+      "조별라운드부터 6전 전승 우승을 차지했는데, 하현승은 가장 중요한 조별라운드 대만전과 슈퍼라운드 일본전, 그리고 결승전 일본전 3경기에 등판해 모두."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
+    "id": "n7d0fe359",
+    "category": "스포츠",
+    "source": "동아일보",
+    "time": "26분 전",
+    "url": "https://www.donga.com/news/Sports/article/all/20260921/134706898/2",
+    "title": "[오늘의 아시안게임]2026년 9월 21일",
+    "summary": [
+      "▽ 농구 여자 조별리그 C조 2차전 △한국-몽골(13시)▽ 배드민턴 남자 단체 1회전 △한국-홍콩(15시)▽ 축구 여자 조별리그 F조 3차전 △한국-북한(16시)▽ 수영 △남자 배영 50m △여자 배영 50m △남자 자유형 50m △여자 자유형 200m △남자 평영 100m △여자 개인혼영 200m △남자 계영 800m 결선(17시)▽ 야구 조별리그 B조 1차전 △한국-대만(18시 30분)▽ 3대3농구 여자 조별리그 D조 1차전 △한국-태국(1."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
+    "id": "nb41a3dac",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "26분 전",
+    "url": "https://www.donga.com/news/Culture/article/all/20260921/134706349/2",
+    "title": "‘타짜’ 마지막 승부… ‘쪼는 맛’이 아쉽네",
+    "summary": [
+      "온라인 카지노 사업으로 승승장구하던 장태영(변요한).",
+      "출장차 방문한 베트남에서 살인청부업자에게 습격을 당해 모든 것을 잃는다.",
+      "가까스로 목숨을 건진 그는 현지에서 전설적인 포커 플레이어 곽동욱(조우진)을 만나고, 혹독한 수련을 거친 뒤 한국으로 돌아와 자신을 함정에 빠뜨린 인물을 찾아 나선다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n310d5220",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "26분 전",
+    "url": "https://www.donga.com/news/Politics/article/all/20260921/134707094/2",
+    "title": "커지는 인사 책임론… 추가의혹 김승원도 낙마",
+    "summary": [
+      "김승원 법무부 장관 후보자(사진)가 19일 “국민 눈높이에 미치지 못했음을 무겁게 받아들인다”며 돌연 사퇴했다.",
+      "김 의원은 “정부에 부담을 더해서는 안 된다고 생각했다”고 밝혔지만, 사퇴에 앞서 김 의원에 대한 추가 의혹이 담긴 탄원서가 청와대에 전달된 것으로 알려졌다.",
+      "국민의힘은 “자진 사퇴가 아닌 도주”라며 총공세에 나섰다."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n1d246aa2",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "26분 전",
+    "url": "https://www.donga.com/news/Culture/article/all/20260921/134706355/2",
+    "title": "바람-돌-해녀… 제주의 모든 게 작품이 된다",
+    "summary": [
+      "이탈리아어 ‘비엔날레’의 원래 의미는 ‘격년’이다.",
+      "이 단어는 이탈리아 ‘베니스 비엔날레’가 세계적인 성공을 거두면서 ‘2년마다 개최되는 대규모 국제 예술제’를 칭하는 뜻으로 정착했다.",
+      "한국은 1995년 제1회 광주비엔날레가 약 160만 명에 이르는 관객이 몰리며 관심을 모은 뒤 전국에서 수십 개 지방자치단체가 뒤따르며 ‘비엔날레 최다 보유국’이 됐다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n7e153783",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "26분 전",
+    "url": "https://www.newsis.com/view/NISX20260920_0003797262",
+    "title": "[오늘의 주요일정]제주(9월21일 월요일)",
+    "summary": [
+      "[제주=뉴시스] ▲오전 8시30분, 제주도 주간 정책회의, 제주도청 탐라홀 ▲오전 10시, 안심제주 실천 및 안전문화 확산 결의대회, 함덕 서우봉오름 일원 ▲오전 10시, 제454회 제주도의회(정례회) 예산결산특별위원회 회의, 제주도의회 대회의실 ▲오전 10시, 제주시 아동학대 의심 신고접수 사건 자체사례회의, 제주시청 주민복지과 회의실 ▲오전 11시, 의원외교포럼 창립총회, 제주도의회 도민카페 ▲오전 11시, 동부하수처리장 증설사업 준공식,."
+    ],
+    "chips": [
+      "#정책"
+    ]
+  },
+  {
+    "id": "n1faf1c8b",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "36분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260921002900072",
+    "title": "트럼프, 내일 뉴욕시장 관저 방문…맘다니와 세번째 회동",
+    "summary": [
+      "(뉴욕=연합뉴스) 김연숙 특파원 = 도널드 트럼프 미국 대통령과 조란 맘다니 뉴욕 시장이 오는 21일(현지시간) 뉴욕에서 회동한다."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n1104232d",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "55분 전",
+    "url": "https://www.chosun.com/sports/basketball/2026/09/21/MY2GENBUGJQTSOBXGFQTGYRTMM/",
+    "title": "\"이현중, 하치무라와 비견\" \"이승현의 버스 노쇼 분노\". 일본 뚫은 한국농구 AG 금메달. 日 매체 \"이현중이 일본 꿈을 산산조각냈다\"",
+    "summary": [
+      "[스포츠조선 류동혁 기자] 이현중에 대해서는 감탄했고, 이승현의 일침에 대해서는 비중있게 다뤘다.",
+      "대한민국 남자농구가 20일 일본 나고야 아이치 인터내셔널 아레나에서 열린 2026년 아이치-나고야 아시안게임 남자농구 결승전에서 일본을 67-57로 물리쳤다.",
+      "에이스 이현중이 27득점, 18리바운드를 기록했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nd29334f0",
+    "category": "IT",
+    "source": "뉴시스",
+    "time": "56분 전",
+    "url": "https://www.newsis.com/view/NISX20260921_0003797391",
+    "title": "AI 끄려다 전력망'금융까지 흔들린다…美 '킬스위치' 딜레마",
+    "summary": [
+      "[서울=뉴시스]박영환 기자 = 미국에서 통제를 벗어난 인공지능(AI)을 강제로 멈추는 '킬스위치'(비상정지 장치) 도입이 추진되는 가운데, AI를 차단하는 과정에서 기업 업무뿐 아니라 전력망과 금융 시스템에도 차질이 생길 수 있다는 전문가 지적이 나왔다.",
+      "19일(현지시간) CNBC에 따르면 미 의회와 캘리포니아주에서는 위험한 AI의 작동을 제한하거나 중단하는 방안이 논의되고 있다.",
+      "다만 보안업계와 AI 연구자들은 정지 장치를 구현하는 데 기술·."
+    ],
+    "chips": [
+      "#AI"
+    ]
+  },
+  {
+    "id": "n3cee798a",
+    "category": "경제",
+    "source": "뉴시스",
+    "time": "56분 전",
+    "url": "https://www.newsis.com/view/NISX20260920_0003797126",
+    "title": "금리 인상 악재에도 굳건한 증시…\"10월 반등 기회 온다\"",
+    "summary": [
+      "[서울=뉴시스]서이현 인턴 기자 = 미국 기준금리 인상이라는 시장의 압박 속에서도 국내 증시가 예상보다 잘 버텨낸 가운데, 다가오는 10월에는 반도체 중심의 반등 기회가 찾아올 것이라는 전망이 나왔다.",
+      "20일 유튜브 채널 삼프로TV에 출연한 박병창 MP파트너스 대표는 최근 연방공개시장위원회(FOMC)의 금리 인상 결정 직후 펼쳐진 시장 상황을 진단하며 이같이 밝혔다.",
+      "박 대표는 \"지금의 매크로 환경은 시장이 충분히 하락을 여기서 더 해도 미국."
+    ],
+    "chips": [
+      "#반도체",
+      "#금리",
+      "#환경"
+    ]
+  },
+  {
+    "id": "n458db565",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "1시간 전",
+    "url": "https://www.yna.co.kr/view/AKR20260921002500009",
+    "title": "집도 차도 아닌 생필품 사려고 빚낸 아르헨티나 국민",
+    "summary": [
+      "(부에노스아이레스=연합뉴스) 김선정 통신원= 아르헨티나인 10명 중 6명이 최근 6개월간 대출을 받거나 빚을 진 것으로 조사됐다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "ne597d09d",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "1시간 전",
+    "url": "https://www.yna.co.kr/view/AKR20260921002600087",
+    "title": "베네수엘라 석유개방 가속화…로드리게스는 광폭 행보",
+    "summary": [
+      "(멕시코시티=연합뉴스) 송광호 특파원 = 최근 미국과 대규모 석유 개발권 계약을 체결한 베네수엘라가 유럽과 중동에도 '에너지 문호'를 개방하며 ..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "ne89373e5",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "1시간 전",
+    "url": "https://www.yna.co.kr/view/AKR20260921002300072",
+    "title": "차기 유엔총장 후보군에 속속 반대표…강대국 선호 새후보 등판?",
+    "summary": [
+      "(뉴욕=연합뉴스) 김연숙 특파원 = 차기 유엔 사무총장 선출을 위한 유엔 안전보장이사회(안보리) 비공개 예비투표(straw poll)가 3차까지..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
     "id": "n48555b47",
     "category": "사회",
     "source": "테크M",
-    "time": "방금 전",
+    "time": "2시간 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=155418",
     "title": "[TGS 26] \"韓 대표 게임쇼 '지스타' 활성화 고민할 것\"...'게임人' 최휘영 장관이 도쿄게임쇼 찾은 이유",
     "summary": [
@@ -350,183 +593,16 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n577bd7d6",
+    "id": "n0aa7fcff",
     "category": "스포츠",
-    "source": "조선일보",
-    "time": "5분 전",
-    "url": "https://www.chosun.com/sports/world-football/2026/09/21/MI4TCMZSGU3DONLEMQYTSNBWGU/",
-    "title": "피치 롤러 다리 깔린 아찔 사고…그러고도 경기 뛴 손흥민 옛 동료 \"스토크 원정이 낫네\"",
+    "source": "아시아경제",
+    "time": "2시간 전",
+    "url": "https://view.asiae.co.kr/article/2026092101582493591",
+    "title": "이강인, 음바페와 적으로 재회…첫 마드리드 더비서 승리",
     "summary": [
-      "[스포츠조선 박상경 기자] 자칫 끔찍한 사고로 연결될 수 있었던 장면이었다.",
-      "박지성, 손흥민과 한때 호흡을 맞췄던 안드로스 타운센드가 태국에서 봉변을 당했다고 데일리메일 등 영국 매체들이 20일(한국시각) 전했다.",
-      "태국 프리미어리그 PT 쁘라추압에서 뛰고 있는 타운센드는 빠따니 원정 경기 하프타임 때 몸을 풀다가 피치 롤러에 다리를 끼이는 사고를 당했다."
-    ],
-    "chips": [
-      "#손흥민",
-      "#EPL"
-    ]
-  },
-  {
-    "id": "nf4d0af3c",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "6분 전",
-    "url": "https://www.newsis.com/view/NISX20260917_0003793311",
-    "title": "종이 한 장 차 비접촉 사고…\"불법 유턴 해놓고 몰랐다\" 뼛속까지 억울한 배달기사",
-    "summary": [
-      "[서울=뉴시스]서이현 인턴 기자 = 경기 안산에서 불법 유턴 차량을 피하려던 배달기사가 도로에 넘어졌지만, 정작 사고를 낸 차량 운전자는 사고 사실 자체를 몰랐다고 주장했다.",
-      "16일 JTBC '사건반장'에 따르면 지난 5월 26일 경기 안산의 한 도로에서 이 같은 사고가 발생했다.",
-      "오토바이를 타고 2차로를 달리던 50대 배달기사가 신호 없는 횡단보도를 지나 사거리를 통과하던 중, 다른 차량이 차선 두 개를 한 번에 가로지르는 불법 유턴을 시도한."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nc49badbd",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "8분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260921001700071",
-    "title": "백악관서 쫓겨난 美매체들 \"트럼프의 기행\" \"미국인 모두 피해\"",
-    "summary": [
-      "(워싱턴=연합뉴스) 홍정규 특파원 = 도널드 트럼프 미국 대통령의 명령으로 백악관 출입을 금지당한 CNN, MS나우, 폴리티코 등 미국 매체들이..."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n511f8d5a",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "9분 전",
-    "url": "https://www.chosun.com/sports/sports_general/2026/09/21/MEZDGZJRMJSDIYRSMQZDINJSMQ/",
-    "title": "'뉴진스 하니 닮은꼴' 日 배드민턴 다구치 마야 자신감 폭발 \" 우승 목표로 열심히 하겠다\"…'사복 사진 큰 반향→도약이 기대되는 히어로 후보'",
-    "summary": [
-      "[스포츠조선 김가을 기자]일본 배드민턴의 미래 다구치 마야(21)가 아시안게임 각오를 다졌다.",
-      "일본의 '더다이제스트'는 20일 '일본 배드민턴계가 기대하는 다구치가 첫 아시안게임에 모든 것을 쏟아내겠다고 했다'고 보도했다.",
-      "2005년생 다구치는 일본 배드민턴이 주목하는 신예다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n1f3c1870",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "19분 전",
-    "url": "https://www.chosun.com/sports/world-baseball/2026/09/21/GNQTIOBWGMZDMMRQGQYDQNRZGU/",
-    "title": "로버츠가 밝힌 비화 \"너희를 어떻게 이기겠어?\" 다저스가 부러웠던 상대팀 감독의 진심, 무엇을 봤길래",
-    "summary": [
-      "[OSEN=이상학 객원기자] “슈퍼스타들의 공통점은 훈련을 좋아한다는 것이다.”LA 다저스는 지난 2013년부터 최근 14년간 무려 13번이나 내셔널리그(NL) 서부지구 우승을 차지했다.",
-      "그 사이 월드시리즈 우승도 세 번이나 해내며 당대 최고의 팀으로 전성기를 구가하고 있다.",
-      "공격적인 투자와 최고의 전력 구성, 꾸준한 유망주 육성으로 지속 가능한 강팀이 됐."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n905b5de9",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "21분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260921001600082",
-    "title": "독일 극우 AfD, 옛 동독 주의회 선거 또 1위 예측",
-    "summary": [
-      "(베를린=연합뉴스) 김계연 특파원 = 독일 극우 정당 독일대안당(AfD)이 20일(현지시간) 치러진 옛 동독 지역 주의회 선거에서 또 제1당에 ..."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n98ca1913",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "38분 전",
-    "url": "https://www.newsis.com/view/NISX20260921_0003797393",
-    "title": "美태평양사 \"北미사일, 동맹과 긴밀 협의…즉각적 위협은 아냐\"",
-    "summary": [
-      "[서울=뉴시스] 김승민 기자 = 미국 동아시아 작전을 총괄하는 태평양사령부가 북한의 단거리탄도미사일(SRBM) 연속 발사에 대해 \"동맹국 및 파트너국들과 긴밀하게 협의하고 있다\"고 밝혔다.",
-      "태평양사는 20일(현지 시간) 홈페이지에 게시한 3개 문장 길이 입장문을 통해 \"최근 발생한 미사일 발사 상황을 인지하고 있다\"며 이같이 알렸다.",
-      "태평양사는 \"현재까지의 평가에 따르면 이번 상황은 미국인이나 영토, 또는 동맹국에 즉각적 위협을 가하는 것은 아."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n277a3c0d",
-    "category": "경제",
-    "source": "연합뉴스",
-    "time": "41분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260921001300072",
-    "title": "美연준 매파 카시카리 \"인플레, 경제 전반서 여전히 너무 높다\"",
-    "summary": [
-      "(뉴욕=연합뉴스) 김연숙 특파원 = 닐 카시카리 미국 미니애폴리스 연방준비은행(연은) 총재는 20일(현지시간) 미국 경제의 인플레이션이 단순히 ..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n1e0d2f77",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "46분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260921001200087",
-    "title": "쿠바 전력망 32시간 만에 복구됐지만…美는 봉쇄 강화",
-    "summary": [
-      "(멕시코시티=연합뉴스) 송광호 특파원 = 지난 18일(현지시간) 대정전이 발생한 쿠바에서 32시간 만에 전력망이 복구됐다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n74b4801b",
-    "category": "스포츠",
-    "source": "뉴시스",
-    "time": "54분 전",
-    "url": "https://www.newsis.com/view/NISX20260921_0003797394",
-    "title": "12년 만에 남자농구에 金 안긴 마줄스 감독 \"우승, 새로운 시작\"[나고야AG]",
-    "summary": [
-      "[나고야(일본)=뉴시스]박윤서 기자 = 한국 남자 농구 대표팀을 12년 만에 아시안게임 우승으로 이끈 니콜라이스 마줄스(라트비아) 감독이 \"이번 우승은 새로운 시작\"이라고 말했다.",
-      "한국은 20일 일본 나고야 아이치 인터내셔널 아레나에서 열린 일본과 2026 아이치·나고야 아시안게임 결승전에서 67-57로 승리를 거뒀다.",
-      "이로써 한국은 지난 2014년 인천 대회 이후 12년 만이자 통산 5번째(1970·1982·2002·2014년) 아시안게임 우."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n78c3104e",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "1시간 전",
-    "url": "https://www.newsis.com/view/NISX20260918_0003795540",
-    "title": "\"카드 쓰면 소비기회 한번더\"…상생의 '3각협력'[같이의 가치]",
-    "summary": [
-      "[서울=뉴시스]송연주 기자 = 추석을 앞두고 신용카드 소비와 지역화폐를 연계해서 골목상권 소비를 높일 상생 안이 마련됐다.",
-      "지역경제의 실질적인 소비를 촉진하기 위해 동반성장위원회(동반위)와 신용카드사회공헌재단, 서울시가 손잡았다.",
-      "21일 동반위에 따르면 오는 이날부터 10월 18일까지 서울 소상공인 매장에서 신용카드로 결제하면 추첨을 통해 카드사별 최대 5만원의 서울사랑상품권을 지급한다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n15e61450",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "1시간 전",
-    "url": "https://www.chosun.com/sports/sports_special/2026/09/21/5GPGZ4YINVFQLJT4AIZHBOO4VQ/",
-    "title": "몰랐던 종목… 金과 함께 터진 엄마의 눈물",
-    "summary": [
-      "몰랐던 종목… 金과 함께 터진 엄마의 눈물."
+      "이강인이 파리 생제르맹(PSG) 시절 한솥밥을 먹었던 킬리안 음바페와 적으로 재회한 첫 맞대결에서 웃었다.",
+      "이강인이 88분간 활약한 아틀레티코 마드리드가 20일(한국시간) 스페인 마드리드의 리야드 에어 메트로폴리타노에서 열린 2026~2027시즌 스페인 라리가 7라운드에서 레알 마드리드를 2-1로 꺾었다.",
+      "아틀레티코는 리그 3연승을 달리며 레알에 올 시즌 두 번째 패배를 안겼다."
     ],
     "chips": [
       "#뉴스"
@@ -536,7 +612,7 @@ window.NEWS_DB = [
     "id": "n51c1bfb9",
     "category": "경제",
     "source": "한국경제",
-    "time": "1시간 전",
+    "time": "4시간 전",
     "url": "https://www.hankyung.com/article/202609216585H",
     "title": "[ATA포토] 최예나, '어깨 들썩여지는 흥겨운 무대'",
     "summary": [
@@ -550,7 +626,7 @@ window.NEWS_DB = [
     "id": "nf45bf4c6",
     "category": "경제",
     "source": "한국경제",
-    "time": "1시간 전",
+    "time": "4시간 전",
     "url": "https://www.hankyung.com/article/202609216598H",
     "title": "[ATA포토] 에이티즈, '일요일 밤을 뜨겁게 달군 무대'",
     "summary": [
@@ -558,88 +634,6 @@ window.NEWS_DB = [
     ],
     "chips": [
       "#뉴스"
-    ]
-  },
-  {
-    "id": "nb67a9a27",
-    "category": "경제",
-    "source": "한국경제",
-    "time": "1시간 전",
-    "url": "https://www.hankyung.com/article/202609216596H",
-    "title": "[ATA포토] 킥플립, '팬들과 함께하는 즐거운 공연'",
-    "summary": [
-      "[ATA포토] 킥플립, '팬들과 함께하는 즐거운 공연'."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n54caddf8",
-    "category": "경제",
-    "source": "동아일보",
-    "time": "1시간 전",
-    "url": "https://www.donga.com/news/Economy/article/all/20260920/134705390/2",
-    "title": "“주식 대신 예적금” 은행 총수신 올 최고 찍었다",
-    "summary": [
-      "직장인 조재성 씨(43)는 이달 추석(25일)을 앞두고 받은 상여금을 모두 금리가 연 4%대인 지방은행 파킹통장에 넣었다.",
-      "올여름부터 월급 중 일부를 떼어 이 통장에 쌓아두고 있다.",
-      "조 씨는 “증시가 조정 중이어서 돈을 못 넣고 있는데 그렇다고 정기예금에 묶어두기에는 주가가 오를 때 빨리 넣을 수 없으니 불안하다”며 “파킹통장은 매달 몇천 원이라도 꾸준히 이자가 붙으니 안심”이라고 했다."
-    ],
-    "chips": [
-      "#금리"
-    ]
-  },
-  {
-    "id": "nea51b15c",
-    "category": "스포츠",
-    "source": "동아일보",
-    "time": "1시간 전",
-    "url": "https://www.donga.com/news/Economy/article/all/20260920/134705392/2",
-    "title": "6년만에 확 바뀐 ‘투싼’… 더 커지고 안전해졌다",
-    "summary": [
-      "현대자동차의 글로벌 베스트셀러 ‘투싼’이 6년 만에 완전변경 모델로 돌아왔다.",
-      "현대차는 18일 경기 파주시에서 5세대 ‘디 올 뉴 투싼’(사진)을 처음 공개했다.",
-      "신형 투싼은 가족용 스포츠유틸리티차량(SUV)에 초점을 맞춰 차체와 실내 공간을 키웠다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "na526e23c",
-    "category": "부동산",
-    "source": "동아일보",
-    "time": "1시간 전",
-    "url": "https://www.donga.com/news/Economy/article/all/20260920/134705388/2",
-    "title": "서울 아파트 증여 목동-상계가 1, 2위… ‘재건축 쏠림’ 뚜렷",
-    "summary": [
-      "올해 상반기(1∼6월) 서울에서 아파트 증여가 가장 많았던 단지는 양천구 목동신시가지아파트로 나타났다.",
-      "증여가 많았던 아파트 단지 상위 20곳 중 12곳은 강남 3구(강남·서초·송파구)에 있었지만 증여 건수 1·2위는 목동과 노원구 상계동의 재건축 대단지였다.",
-      "20일 국회 국토교통위원회 소속 국민의힘 김종양 의원이 대법원으로부터 제출받은 ‘서울 아파트 증여 최다 단지 상위 20곳’ 자료에 따르면 올해 상반기 서울 아파트 증여 건수는 목동신시가지."
-    ],
-    "chips": [
-      "#부동산",
-      "#재건축",
-      "#정치"
-    ]
-  },
-  {
-    "id": "n7c7b2089",
-    "category": "경제",
-    "source": "동아일보",
-    "time": "1시간 전",
-    "url": "https://www.donga.com/news/Economy/article/all/20260920/134705328/2",
-    "title": "환율 다시 1385원 넘어서… 고유가 겹쳐 수입물가 상승 비상",
-    "summary": [
-      "원-달러 환율이 15거래일 만에 1380원대까지 올라서며 1400원대 진입을 다시 눈앞에 뒀다.",
-      "미국 연방준비제도(연준·Fed)가 3년 2개월 만에 기준금리 인상을 단행하면서 달러 가치가 오른 영향으로 풀이된다.",
-      "환율의 오름세(원화 가치는 하락)가 수입 물가를 끌어올리고 내년도 경영계획을 마련하는 기업들의 불확실성을 가중한다는 우려가 나온다.20일 한국은행 경제통계시스템에 따르면 19일 오전 6시 기준 원-달러 환율 종가는 전일보다 4.0원 오."
-    ],
-    "chips": [
-      "#금리",
-      "#한은",
-      "#환율"
     ]
   }
 ];
@@ -649,8 +643,8 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2590건",
-    "trend": "+295%"
+    "mentions": "2460건",
+    "trend": "+275%"
   },
   {
     "rank": 2,
@@ -660,7 +654,7 @@ window.KEYWORD_TOP = [
   },
   {
     "rank": 3,
-    "tag": "금리",
+    "tag": "반도체",
     "mentions": "1550건",
     "trend": "+135%"
   }
