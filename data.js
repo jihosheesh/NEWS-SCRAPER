@@ -1,17 +1,34 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-09-20 08:02:12
+// 마지막 업데이트: 2026-09-20 13:18:05
 window.NEWS_DB = [
   {
     "id": "n5bd6dfc2",
     "category": "IT",
     "source": "비즈니스포스트",
-    "time": "11시간 전",
+    "time": "16시간 전",
     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBfRTJwanRjQ0pfd3JJa2pScHVRRVp3clY1a1lUcm1Jb2owU3dxZVdLbFREVmJrVjRnLTh4R2l3OWdCUXg1VXhBanRrR1g1Tko4QWpvZ2U5WWxXUURKWHRNbk1kS1k1MHdHZmlJWlVpUG1IbUE?oc=5",
     "title": "앤트로픽 내년부터 메모리 직접 구매 확대, 삼성전자·SK하이닉스 가격 협상력 더 높아진다",
     "summary": [
       "앤트로픽 내년부터 메모리 직접 구매 확대, 삼성전자·SK하이닉스 가격 협상력 더 높아진다 비즈니스포스트."
     ],
     "chips": [
+      "#삼성전자",
+      "#SK하이닉스"
+    ]
+  },
+  {
+    "id": "nc4b0f988",
+    "category": "IT",
+    "source": "쿠키뉴스",
+    "time": "1일 전",
+    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1ndEt2XzRmR0dVX25WSTV3VkhNa0tiQmNqcm15Q0ltY2RXWmV1MWlPN0hHV01FVy03dVNURG5VVExLaFhONXNqdkZ5dU9wVVN5R3VmbktOZkdKaVMwZzhlNHZGOA?oc=5",
+    "title": "‘HBM 올인’ SK하이닉스 vs ‘전방위 방어’ 삼성전자… AI 반도체 ‘승전 공식’",
+    "summary": [
+      "‘HBM 올인’ SK하이닉스 vs ‘전방위 방어’ 삼성전자… AI 반도체 ‘승전 공식’ 쿠키뉴스."
+    ],
+    "chips": [
+      "#AI",
+      "#반도체",
       "#삼성전자",
       "#SK하이닉스"
     ]
@@ -34,7 +51,7 @@ window.NEWS_DB = [
     "id": "nd0f85b04",
     "category": "경제",
     "source": "서울경제",
-    "time": "2일 전",
+    "time": "3일 전",
     "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE0tUURrTXl6dkRyNFUwOXU1MS03Mlc0SmVqR0lzWHQwUVVBM1oxUjhVWjlxSW9Yc1RhaGVtTVl3YkQ4cGVFR0VNTjJYaw?oc=5",
     "title": "연준의 반란! 금리 전격 인상... 주식 다 팔아야 할까?",
     "summary": [
@@ -76,6 +93,23 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "na399e708",
+    "category": "IT",
+    "source": "머니투데이",
+    "time": "3일 전",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1RR2JPMlk1NEViNXpSY2ZxSnpSSHZIZU5wMkVpbzdvMEg4SjhNY2l4TEp3XzJ2ODg5QmZjejBSdkIyNnNIQ3ZlTkRUNmozbThpX3doNy1uZlhhcDh2eUptZ3FhbUhfTW9W0gFuQVVfeXFMTVRiaEtmM1RGeTdZcHdBSllCaTc4OU9CdExUWFNPNmVnTzlUNHFacE43ZE5uNXZNOUJCQUVlZ3dWamR5b1JqLTFUOHhpMEU0RlJqVXVDUmdLRGFGZVdRWllPdWNmNFQzZnVoNGU2X3c?oc=5",
+    "title": "\"삼성전자가 투자했다\"…네덜란드 AI 반도체 스타트업은 어디? - 머니투데이",
+    "summary": [
+      "\"삼성전자가 투자했다\"…네덜란드 AI 반도체 스타트업은 어디? - 머니투데이 머니투데이."
+    ],
+    "chips": [
+      "#AI",
+      "#반도체",
+      "#삼성전자",
+      "#스타트업"
+    ]
+  },
+  {
     "id": "nfd541720",
     "category": "경제",
     "source": "조선일보",
@@ -88,20 +122,6 @@ window.NEWS_DB = [
     ],
     "chips": [
       "#금리"
-    ]
-  },
-  {
-    "id": "n60a8c211",
-    "category": "IT",
-    "source": "아이뉴스24",
-    "time": "4일 전",
-    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9TREwtcTRfNUc5VlNjZjZZZkNaY0FfV0dsQ3dqZm5RMGxPY0xIR0xCa3pQUEJlMHBRUmJHR0l2YUlhRHFBa1lvV1hRWQ?oc=5",
-    "title": "삼성도 TSMC와 손잡나…‘맞춤형 HBM’이 허문 반도체 경계",
-    "summary": [
-      "삼성도 TSMC와 손잡나…‘맞춤형 HBM’이 허문 반도체 경계 아이뉴스24."
-    ],
-    "chips": [
-      "#반도체"
     ]
   },
   {
@@ -124,12 +144,12 @@ window.NEWS_DB = [
   {
     "id": "n93c2ed2f",
     "category": "IT",
-    "source": "경북매일",
-    "time": "4일 전",
+    "source": "kbmaeil.com",
+    "time": "5일 전",
     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5xWGQzcWdTT2JoUFptNVhrN2RETlFyQi1BcU9meDlrYmlYenE1U0J2VmgyRk05SnJjMXFsNXRyNzZ6ZUJjLUNZdmFRVU9HcEVsNS1qdGdIOGxsZw?oc=5",
     "title": "대구경북 스타트업 한자리에…추경호 시장 “지역서 유니콘 키운다”",
     "summary": [
-      "대구경북 스타트업 한자리에…추경호 시장 “지역서 유니콘 키운다” 경북매일."
+      "대구경북 스타트업 한자리에…추경호 시장 “지역서 유니콘 키운다” kbmaeil.com."
     ],
     "chips": [
       "#스타트업"
@@ -148,22 +168,6 @@ window.NEWS_DB = [
     "chips": [
       "#반도체",
       "#삼성전자"
-    ]
-  },
-  {
-    "id": "n105bb730",
-    "category": "IT",
-    "source": "MBC 뉴스",
-    "time": "5일 전",
-    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1KQlpTMm9NQ3pROHVvTk0xaFdyS1VSNjJBMUJRTmdrWXVtNEplSElWeTJCNzFuelZITXVkOE55amR3ZDdyR3JzS1g3UWd6UmVPZ1hnaW8yeFVpWlg4ejZJS2llMUlOb2pYVXlMalAxemxfSHhK0gF0QVVfeXFMTWE4V0tuMXJuOTQyQUpjSUNucFRrdXhINmRNTGZKc3RnMmZ1RDVYOU1yRTNNd2QyYWxicVFTV3hxMVdwd2taYXdUX1BEZFN4dGkteG1YZ0hIRUNLa0NDY1h3OFlKaEFXaHlocGtwU1FpVnFuLWo?oc=5",
-    "title": "'AI 개발 제동론'에 엔비디아 등 미 반도체주 동반 급락",
-    "summary": [
-      "'AI 개발 제동론'에 엔비디아 등 미 반도체주 동반 급락 MBC 뉴스."
-    ],
-    "chips": [
-      "#AI",
-      "#반도체",
-      "#엔비디아"
     ]
   },
   {
@@ -256,12 +260,12 @@ window.NEWS_DB = [
   {
     "id": "nb9bdfdfb",
     "category": "스포츠",
-    "source": "foodtoday.or.kr",
+    "source": "푸드투데이",
     "time": "114일 전",
     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9BVmpLTU1zOFZsU1RWVmVOSXppaWhDWFBBRkF4akI3WHBIcXIyX2pXa3JaeXplMm9vbmE4cU1PclhFTXVZdURxQ0RCYTF3aFNsbmRKcTZ5VE9na0cwakQ2XzNuWlJ5QQ?oc=5",
     "title": "‘손흥민 월드콘.KBO몽쉘’ 축구.야구팬 다 잡자...롯데웰푸드, 스포츠마케팅 총력",
     "summary": [
-      "‘손흥민 월드콘.KBO몽쉘’ 축구.야구팬 다 잡자...롯데웰푸드, 스포츠마케팅 총력 foodtoday.or.kr."
+      "‘손흥민 월드콘.KBO몽쉘’ 축구.야구팬 다 잡자...롯데웰푸드, 스포츠마케팅 총력 푸드투데이."
     ],
     "chips": [
       "#손흥민",
@@ -271,12 +275,12 @@ window.NEWS_DB = [
   {
     "id": "n5a1617c5",
     "category": "부동산",
-    "source": "헤럴드경제",
+    "source": "biz.heraldcorp.com",
     "time": "131일 전",
     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1TS2Q2aDJMQXUtYUMtcmZTZkUtNXVycDVXUTFSYk1oeTg4TXNFTXQxN3RtcGVlRUJxMWlMWXk0c05lRFFvemxzYk0wa1hsZXMwbm1hVWtn?oc=5",
     "title": "집값 상승, 전세품귀에…서울, 분양전망 1달 만에 기준치 회복 [부동산360]",
     "summary": [
-      "집값 상승, 전세품귀에…서울, 분양전망 1달 만에 기준치 회복 [부동산360] 헤럴드경제."
+      "집값 상승, 전세품귀에…서울, 분양전망 1달 만에 기준치 회복 [부동산360] biz.heraldcorp.com."
     ],
     "chips": [
       "#부동산",
@@ -313,10 +317,152 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n44eaf409",
+    "category": "사회",
+    "source": "테크M",
+    "time": "방금 전",
+    "url": "https://www.techm.kr/news/articleView.html?idxno=155420",
+    "title": "쿠팡, 인천 화재 주민 2만8000명에 45억 지원…'지역 회복'까지 챙긴다",
+    "summary": [
+      "쿠팡풀필먼트서비스(CFS)가 지난 7월 발생한 인천 물류센터 화재와 관련해 45억원 규모의 추가 지원책을 내놨다.",
+      "화재 직후 의료비와 청소비 등 개별 피해 지원에 나선 데 이어 이번에는 인근 주민 약 2만8000명에게 생활지원금을 일괄 지급하고 학교·복지시설·소방공무원까지 지원 대상을 넓혔다.",
+      "화재 수습을 넘어 지역사회 일상 회복까지 책임지겠다는 취지다.20일 업계에 따르면 CFS는 인천 서해구 석남1동과 신현동 일부 지역 주민에게 1인당 5만."
+    ],
+    "chips": [
+      "#교육",
+      "#의료"
+    ]
+  },
+  {
+    "id": "n48555b47",
+    "category": "사회",
+    "source": "테크M",
+    "time": "방금 전",
+    "url": "https://www.techm.kr/news/articleView.html?idxno=155418",
+    "title": "[TGS 26] \"韓 대표 게임쇼 '지스타' 활성화 고민할 것\"...'게임人' 최휘영 장관이 도쿄게임쇼 찾은 이유",
+    "summary": [
+      "최휘영 문화체육관광부 장관이 일본 최대 게임쇼로 꼽히는 '도쿄게임쇼(TGS) 26' 현장을 찾아 국내 게임사들의 글로벌 경쟁력을 직접 확인했다.",
+      "과거 게임사에 몸담았던 이력을 보유하고 있는 최휘영 장관은 이재정 국회 문화체육관광위원회 위원장을 비롯해 이정문 더불어민주당 의원, 조은희 국민의힘 의원 등과 함께 현장을 둘러보며 국내 게임의 해외 영향력과 업계 애로사항 등을 직접 점검했다.",
+      "최휘영 장관은 20일 일본 도쿄 치바현 마쿠하리 멧세에서 열."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n5710756d",
+    "category": "IT",
+    "source": "테크M",
+    "time": "방금 전",
+    "url": "https://www.techm.kr/news/articleView.html?idxno=155415",
+    "title": "[TGS 26] 스위치2로 플랫폼 넓히는 '스텔라 블레이드'...김형태 \"플랫폼보다 게임 경험이 우선이죠\"",
+    "summary": [
+      "김형태 스텔라 블레이드 총괄 디렉터가 닌텐도 스위치2로 플랫폼을 확장하며 이용자 접점을 확대한다.",
+      "기존 플레이어들이 경험했던 게임성을 유지하면서 스위치2에 맞는 플레이 경험을 구현하는데 집중해 새로운 재미를 제공한다는 전략이다.",
+      "김형태 디렉터는 일본 도쿄 치바현 마쿠하리 멧세에서 열리고 있는 '도쿄게임쇼(TGS) 26' 현장에서 기자들과 만나 \"스텔라 블레이드를 다른 플랫폼에서 즐길때 쾌적하게 플레이할 수 있도록 집중했다\"며 \"누워서나 밖에서도."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "necaa506d",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "3분 전",
+    "url": "https://www.newsis.com/view/NISX20260920_0003797228",
+    "title": "\"5억원 복권 1등 당첨됐는데\"…태국 마트 직원, 일 멈추지 않는다",
+    "summary": [
+      "[서울=뉴시스]김성은 인턴 기자 = 태국의 한 미니마트 직원이 복권 1등에 당첨돼 1200만 바트(약 5억원)의 거액을 받게 됐지만, 다음 날에도 평소처럼 직장에 출근해 화제다.",
+      "17일(현지 시간) 태국 데일리뉴스에 따르면 롭부리주 타웅 지역의 미니마트에서 일하는 솜퐁 푸사꾼(46)은 전날인 16일 태국 정부 복권 추첨에서 1등에 당첨됐다.",
+      "그가 구매한 복권 2장의 번호는 730640으로, 총 1200만 바트의 당첨금을 받게 됐다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n39d07956",
+    "category": "스포츠",
+    "source": "뉴시스",
+    "time": "3분 전",
+    "url": "https://www.newsis.com/view/NISX20260920_0003797356",
+    "title": "'한일전 승리→우승' 이정현 \"압박감 느꼈지만…정말 짜릿해\"[나고야AG]",
+    "summary": [
+      "[나고야(일본)·서울=뉴시스] 박윤서 김진엽 기자 = 한국 남자 농구 대표팀에 12년 만의 아시안게임 우승을 안긴 '에이스' 이정현(소노)이 한일전 승리에 기쁨을 감추지 않았다.",
+      "니콜라이스 마줄스(라트비아) 감독이 이끄는 남자 농구 대표팀은 20일 오후 7시40분 일본 나고야 아이치 인터내셔널 아레나에서 열린 일본과 2026 아이치·나고야 아시안게임 결승전에서 67-57 승리를 맛봤다.",
+      "이로써 한국은 지난 2014년 인천 대회 이후 12년 만이."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n5e90924e",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "7분 전",
+    "url": "https://www.newsis.com/view/NISX20260920_0003797352",
+    "title": "트럼프, \"나의 '개선문' 역시 군사시설…드론, 저격수, 탄약 숨겨질 것\"",
+    "summary": [
+      "[워싱턴=AP/뉴시스] 김재영 기자 = 도널드 트럼프 미 대통령은 20일 수도 워싱턴 내 링컨 메모리얼과 인근 알링턴 국립묘지 사이에 세우고자 하는 거대한 아치(홍예)가 탄약을 저장하고 나아가 드론 및 저격수를 배치할 수 있는 '최상급의 군사 시설'이 될 것이라고 말했다.",
+      "이 발언으로 백악관과 수도 워싱턴을 멋있게 꾸미고자 하는 자신의 여러 제안이 방위 목적으로도 사용될 수 있다는 트럼프의 그간 주장이 또한번 부상하게 되었다."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n5c0d4b6a",
+    "category": "스포츠",
+    "source": "뉴시스",
+    "time": "10분 전",
+    "url": "https://www.newsis.com/view/NISX20260920_0003797312",
+    "title": "근대5종 성승민, 한국 1호 金…남자농구, 日꺾고 12년 만에 우승[나고야AG]",
+    "summary": [
+      "[안조(일본)·나고야(일본)·서울=뉴시스] 안경남 박윤서 김진엽 김희준 하근수 문채현 기자 = 여자 한국 근대5종 간판 성승민(한국체대)이 2026 아이치·나고야 아시안게임에서 대한민국 선수단 1호 금메달리스트가 됐다.",
+      "성승민은 20일 일본 아이치현 안조 스포츠파크에서 열린 대회 근대5종 여자 개인전 결승에서 합계 1492점으로 금메달을 차지했다.",
+      "근대5종은 한 선수가 펜싱과 수영, 장애물 경기, 레이저 런(육상+사격)을 모두 치르는 종목이다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n65e7a7cd",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "11분 전",
+    "url": "https://www.chosun.com/national/regional/2026/09/20/N6E74KA2MJE6HKGJFYAARA5VJU/",
+    "title": "김민석 “계약 파기” 추미애 “방만 운영”… DMZ영화제 예산 놓고 또 충돌",
+    "summary": [
+      "김민석 “계약 파기” 추미애 “방만 운영”… DMZ영화제 예산 놓고 또 충돌."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n1d00182e",
+    "category": "스포츠",
+    "source": "아시아경제",
+    "time": "15분 전",
+    "url": "https://view.asiae.co.kr/article/2026092022023332760",
+    "title": "'훈련 버스 노쇼' 남자농구, AG 12년 만에 금메달…이현중 '더블더블'",
+    "summary": [
+      "한국 남자농구가 12년 만에 아시안게임 금메달을 획득했다.",
+      "니콜라이스 마줄스 감독이 이끄는 한국은 20일 일본 나고야의 아이치 인터내셔널 아레나에서 열린 2026 아이치·나고야 아시안게임 남자 농구 결승전에서 개최국 일본을 67-57로 제압했다.",
+      "한국은 2014년 인천 대회 이후 12년 만에 우승이자 아시안게임 통산 5번째 금메달(1970·1982·2002·2014·2026년)이다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
     "id": "nfb9c1b4c",
     "category": "스포츠",
     "source": "테크M",
-    "time": "방금 전",
+    "time": "17분 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=155417",
     "title": "SKT·KT·LG유플러스 \"달리기·음악·공연...고객 행사 '우리가 최고'\"",
     "summary": [
@@ -329,296 +475,160 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "ne46c973e",
-    "category": "IT",
-    "source": "테크M",
-    "time": "방금 전",
-    "url": "https://www.techm.kr/news/articleView.html?idxno=155416",
-    "title": "SK \"사회 문제 해결도 AI로\"...'사회적 가치 페스타' 참가",
-    "summary": [
-      "최태원 SK 회장이 사회적 문제 해결에 인공지능(AI) 활용을 제시한다.",
-      "최 회장이 제안해 만든 사회적 가치(SV) 생태계 플랫폼 'SOVAC(Social Value Connect)'이 올해도 '대한민국 SV 페스타'에 공동 주관사로 참여한다.20일 SK는 SOVAC가 오는 21일과 22일 서울 강남구 코엑스에서 열리는 '제3회 대한민국 SV 페스타'를 공동 주관한다고 밝혔다.SOVAC 올해 의제는 '로컬-지역의 미래'다."
-    ],
-    "chips": [
-      "#AI"
-    ]
-  },
-  {
-    "id": "n20ebe8e2",
-    "category": "IT",
-    "source": "테크M",
-    "time": "방금 전",
-    "url": "https://www.techm.kr/news/articleView.html?idxno=155414",
-    "title": "에버랜드 '블러드시티 제로' 짜릿함의 비밀은?",
-    "summary": [
-      "삼성전자가 완제품 '기술/인재 초격차'를 강화한다.",
-      "인재 확보와 신사업 확장에 나섰다.20일 삼성전자는 지난 18일(현지시각) 미국 마운틴뷰 삼성리서치아메리카(SRA)에서 '2026 테크 포럼'을 개최했다고 밝혔다.삼성전자 경영진과 글로벌 기업 개발자 등 80여명이 참석했다.",
-      "이 행사는 글로벌 인재와 삼성전자 전략과 기술을 공유하는 자리다."
-    ],
-    "chips": [
-      "#AI",
-      "#삼성전자"
-    ]
-  },
-  {
-    "id": "n84256b62",
-    "category": "IT",
-    "source": "테크M",
-    "time": "방금 전",
-    "url": "https://www.techm.kr/news/articleView.html?idxno=155413",
-    "title": "LG, AI '원LG' 행보 강화...구광모 대표 \"미래 경쟁력 핵심\"",
-    "summary": [
-      "LG가 인공지능(AI) 행보를 가속했다.",
-      "LG는 구광모 LG 대표가 AI를 강조하고 있다.",
-      "구 대표는 지난 16일 LG 사장단 회의에서 \"AI는 더 이상 선택적으로 대응할 수 있는 영역이 아니라 미래 경쟁력을 좌우하는 핵심 축\"이라고 평가했다.20일 LG는 AI 인재 양성과 사업을 강화한다고 밝혔다.LG는 그룹 전체가 AI 주도권을 잡기 위해 뛰고 있다."
-    ],
-    "chips": [
-      "#AI"
-    ]
-  },
-  {
-    "id": "n88e60db3",
-    "category": "경제",
-    "source": "머니투데이",
-    "time": "2분 전",
-    "url": "https://www.mt.co.kr/politics/2026/09/20/2026092016582618368",
-    "title": "[속보]軍 \"북한, 원산서 탄도미사일 발사…450km 비행\"",
-    "summary": [
-      "[the300] 20일 합동참모본부 언론공지...."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n9fa1a647",
+    "id": "nadc53f8a",
     "category": "스포츠",
-    "source": "머니투데이",
-    "time": "2분 전",
-    "url": "https://www.mt.co.kr/sports/2026/09/20/2026092016225699761",
-    "title": "韓 AG 금메달 1·2호 모두 근대5종서 나왔다! 전웅태·서창완·이종현 男 단체전 2연패 [아이치 나고야 AG]",
+    "source": "연합뉴스",
+    "time": "19분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260920053951007",
+    "title": "[아시안게임] 이현중 '더블더블' 韓농구, 일본 꺾고 12년 만에 정상 탈환(종합2보)",
     "summary": [
-      "한국 남자 근대5종 대표팀이 2026 아이치·나고야 아시안게임 한국 선수단의 두 번째 금메달을 합작했다.",
-      "전웅태(31·강원도체육회), 서창완(29·전남도청), 이종현(28·대전광역시청)은 20일 일본 아이치현 안조 스포츠파크에서 열린 대회 근대5종 남자 단체전에서 정상에 올랐다.",
-      "이날 앞서 여자 개인전에서 우승한 성승민(23·한국체대)에 이어 한국 선수단의 대회 2호 금메달도 근대5종에서 나왔다."
+      "(나고야=연합뉴스) 최송아 오명언 기자 = 한국 남자농구가 개최국 일본을 꺾고 12년 만에 아시안게임 금메달을 목에 걸었다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n0d2e4f75",
+    "id": "n94e7e645",
+    "category": "스포츠",
+    "source": "연합뉴스",
+    "time": "20분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260920054400007",
+    "title": "[아시안게임] 어머니 이어 AG 농구 금메달…이현중, NBA 꿈 계속된다",
+    "summary": [
+      "(나고야=연합뉴스) 최송아 기자 = 한국 농구 '최고의 재능'으로 평가받는 이현중이 생애 첫 아시안게임에서 어머니의 대를 이어 금메달을 목에 걸..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n688bc5c7",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "25분 전",
+    "url": "https://www.chosun.com/sports/sports_special/2026/09/20/P7DUPMRGEVCVLJMGX34H3Z4LJI/",
+    "title": "金 따고 병역 부담 던 이현중, NBA 도전 ‘날개’",
+    "summary": [
+      "金 따고 병역 부담 던 이현중, NBA 도전 ‘날개’."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n6c7d56fb",
     "category": "사회",
     "source": "연합뉴스",
-    "time": "3분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260920039500053",
-    "title": "[대구소식] \"제보 기다립니다\"…시의회, 행정사무 감사 준비",
-    "summary": [],
+    "time": "26분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260920054200109",
+    "title": "멜로니 \"이탈리아 학교서 부르카·니캅 착용 금지 추진\"",
+    "summary": [
+      "(로마=연합뉴스) 민경락 특파원 = 조르자 멜로니 이탈리아 총리는 20일(현지시간) 이탈리아 학교에서 외국인 학생 수 상한을 정하고 부르카 등 ..."
+    ],
     "chips": [
-      "#뉴스"
+      "#교육"
     ]
   },
   {
-    "id": "n33af85cb",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "3분 전",
-    "url": "https://www.newsis.com/view/NISX20260920_0003797198",
-    "title": "박세리, 타운하우스 이사 후 초호화 집들이…최고급 한우 플렉스",
+    "id": "ndf02032a",
+    "category": "스포츠",
+    "source": "동아일보",
+    "time": "27분 전",
+    "url": "https://www.donga.com/news/Sports/article/all/20260920/134706590/1",
+    "title": "아빠도 엄마도 아들도 AG 금메달…유기상 가족, 한국 최초 기록 달성 [데이터 비키니]",
     "summary": [
-      "[서울=뉴시스] 이종희 기자 = 박세리가 새로 이사한 타운하우스를 공개한다.",
-      "19일 방송된 MBC '전지적 참견 시점' 방송 말미에서 박세리의 다음 회 출연을 예고했다.",
-      "공개된 예고편에서 박세리는 최근 이사한 타운하우스에 등장했다."
+      "‘눈꽃 슈터’ 유기상(25·LG)이 한국 스포츠 역사상 첫 기록을 남겼습니다.한국 농구 대표팀이 2026 아이치-나고야 아시안게임 정상을 차지하면서 유기상도 금메달을 목에 걸었습니다.유기상의 아버지인 유영동 NH농협은행 정구부 감독(52)은 2022 부산 대회 3관왕을 포함해 아시안게임 금메달을 총 5개 차지했습니다.어머니 박영아 씨(54)도 1994 히로시마 대회 정구 여자 단체전 우승 멤버 출신입니다.",
+      "아버지와 어머니에 이어 아들까지 아시안."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n1e3881db",
+    "id": "n3a9dc728",
     "category": "스포츠",
+    "source": "연합뉴스",
+    "time": "31분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260920047551007",
+    "title": "[아시안게임] 첫날 근대5종·테크볼·남자농구서 '금빛 낭보'…3위로 출발(종합)",
+    "summary": [
+      "(나고야=연합뉴스) 김경윤 기자 = 대한민국 대표팀이 2026 아이치·나고야 아시안게임 메달 레이스 첫날 금메달 4개와 은메달 3개, 동메달 7..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "na31da2e3",
+    "category": "경제",
     "source": "아시아경제",
-    "time": "4분 전",
-    "url": "https://view.asiae.co.kr/article/2026092016574770923",
-    "title": "생업 포기한 이준석, 한국 최초 AG 테크볼 금메달 '새 역사'",
+    "time": "31분 전",
+    "url": "https://view.asiae.co.kr/article/2026092021422863364",
+    "title": "추경호 대구시장 \"1000억 규모 대구로페이 발행 전통시장 살리겠다\"",
     "summary": [
-      "테크볼 국가대표 이준석이 금메달을 따냈다.",
-      "이준석은 20일 일본 나고야 히가시 스포츠센터에서 열린 2026 아이치·나고야 아시안게임 테크볼 남자 단식 결승에서 알리 잘릴 메즈헤르 알레야위(이라크)를 세트 스코어 2-0(12-11 12-5)으로 꺾었다.",
-      "한국 테크볼 사상 처음으로 금메달을 수확했다."
+      "추경호 대구시장은 지난 19일 관문시장에 이어 20일 와룡시장과 서문시장을 차례로 방문했다.",
+      "최근 물가 상승과 소비 부진으로 자영업자와 전통시장 상인들이 체감하는 경기 어려움이 커지는 가운데, 추석 명절을 앞둔 전통시장 현장의 목소리를 직접 듣기 위해서다.",
+      "이날 추 시장은 각 시장의 온누리상품권 환급행사 운영 현황을 살피고, 시민들의 전통시장 이용에 불편이 없는지 확인하고 추석 성수품 가격과 물가 동향을 점검하며 명절을 앞둔 시민들의 장바구니."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n09185125",
+    "id": "n62b772fc",
     "category": "사회",
-    "source": "연합뉴스",
-    "time": "4분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260920039300504",
-    "title": "[속보] 軍 \"北발사 단거리 탄도미사일 1발, 약 450km 비행\"",
-    "summary": [],
+    "source": "동아일보",
+    "time": "33분 전",
+    "url": "https://www.donga.com/news/Society/article/all/20260920/134703512/1",
+    "title": "안성 나눔장터 덮친 1t 트럭…자원봉사하던 모자 참변",
+    "summary": [
+      "경기 안성시의 한 나눔장터 행사장에 1t 트럭이 돌진해 자원봉사 중이던 40대 여성과 중학생 아들이 숨지고 5명이 다쳤다.",
+      "경찰은 사고 트럭 운전자인 60대 김모 씨가 ‘급발진’을 주장함에 따라 사고 차량을 정밀 감정해 정확한 원인을 확인할 방침이다.20일 경기 안성경찰서 등에 따르면 전날 오전 11시 18분경 안성시 공도읍 공도도서관 앞 공도10호어린이공원에서 ‘2026 나눔의 녹색장터’를 준비하던 행사장으로 1t 트럭이 돌진했다."
+    ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "nfa9cedf1",
-    "category": "스포츠",
-    "source": "뉴시스",
-    "time": "4분 전",
-    "url": "https://www.newsis.com/view/NISX20260920_0003797224",
-    "title": "'이재원 투런포' LG, 7연승 내달리며 선두권 추격…손주영, 30세이브",
+    "id": "n670c4278",
+    "category": "IT",
+    "source": "동아일보",
+    "time": "41분 전",
+    "url": "https://www.donga.com/news/Inter/article/all/20260920/134706566/1",
+    "title": "“시속 100㎞ 달리며 쿨쿨”…美 고속도로서 주행보조 켜고 잠든 테슬라 적발",
     "summary": [
-      "[서울=뉴시스]문채현 기자 = 프로야구 LG 트윈스가 시즌 막판 7연승을 내달리며 선두권을 위협했다.",
-      "마무리로 변신한 손주영은 시즌 30세이브를 달성했다.",
-      "LG는 20일 서울 잠실구장에서 열린 2026 신한 쏠 KBO리그 홈 경기에서 한화 이글스를 4-3으로 힘겹게 꺾었다."
+      "미국의 한 고속도로에서 주행 보조 기능을 켜둔 채 잠에 빠져 시속 100㎞에 달하는 속도로 차를 몰던 테슬라 운전자가 경찰 단속에 걸려 뭇매를 맞고 있다.19일(현지시간) 뉴욕포스트 등 현지 언론에 따르면 캘리포니아주 고속도로순찰대(CHP)는 솔라노 카운티 인근 고속도로에서 테슬라 차량을 몰던 남성을 현장에서 단속했다.",
+      "당시 차량은 시속 60마일(약 96㎞)로 달리는 중이었으며, 테슬라의 주행 보조 프로그램인 ‘완전 자율주행(FSD)’이 켜져."
     ],
     "chips": [
-      "#KBO"
+      "#뉴스"
     ]
   },
   {
-    "id": "n8ec6a2b1",
+    "id": "n97eed8b3",
     "category": "사회",
-    "source": "뉴시스",
-    "time": "4분 전",
-    "url": "https://www.newsis.com/view/NISX20260920_0003797247",
-    "title": "[속보]합참 \"北, 단거리탄도미사일 1발 발사…약 450㎞ 비행\"",
+    "source": "동아일보",
+    "time": "42분 전",
+    "url": "https://www.donga.com/news/Entertainment/article/all/20260920/134706562/1",
+    "title": "‘식스센스’ 비비, 8살 연상 고경표에 “반말하면 막 대할까 봐 겁나”",
     "summary": [
-      "후속기사가 이어집니다 ◎공감언론 뉴시스 okdol99@newsis.com."
+      "비비가 고경표에게 쉽게 말을 놓지 못하며 솔직한 심정을 털어놔 눈길을 끌었다.20일 공개된 tvN 예능 프로그램 ‘식스센스: B사이드’는 ‘미에 진심인 사장님’ 특집으로 꾸며졌EK.",
+      "유재석, 송은이, 고경표, 비비가 출연했으며, 게스트로는 채정안과 이지혜가 함께했다.이날 먼저 도착한 고경표와 비비는 유재석과 송은이를 기다리며 먼저 인사를 나눴다.고경표는 비비에게 “우리 말 편하게 할까?”라며 반말을 제안했고, 비비는 “오빠 말 편하게 하세요”라."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n2e66bea0",
-    "category": "스포츠",
-    "source": "머니투데이",
-    "time": "7분 전",
-    "url": "https://www.mt.co.kr/sports/2026/09/20/2026092016434746509",
-    "title": "\"탁구대 위에서 축구를?\" 이준석, 신생 '테크볼' 초대 챔피언 찼다... 한국 3호 金 [아이치 나고야 AG]",
-    "summary": [
-      "한국 테크볼 국가대표 이준석(27)이 아시안게임 사상 첫 테크볼 금메달리스트로 역사에 이름을 새겼다.",
-      "이준석은 20일 일본 나고야 히가시 스포츠센터에서 열린 2026 아이치·나고야 아시안게임 테크볼 남자 단식 결승에서 알리 잘릴 메즈헤르 알레야위(이라크)를 세트 스코어 2-0(12-11 12-5)으로 완파하고 우승을 차지했다.",
-      "이번 대회 신설 종목인 테크볼은 탁구의 각도, 축구·족구의 볼 컨트롤, 세팍타크로의 공중기가 결합된 스포츠다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n2cc5d65c",
-    "category": "스포츠",
-    "source": "머니투데이",
-    "time": "7분 전",
-    "url": "https://www.mt.co.kr/sports/2026/09/20/2026092016300245096",
-    "title": "아시안게임 한국 2호 금메달도 '근대5종'…남자 단체전 2연패",
-    "summary": [
-      "한국 남자 근대5종 대표팀이 단체전 정상에 오르며 '2026 아이치·나고야 아시안게임' 대한민국 선수단의 두 번째 금메달을 따냈다.",
-      "전웅태(강원도체육회), 서창완(전남도청), 이종현(대전광역시청)은 20일 일본 아이치현 안조 스포츠파크에서 열린 대회 근대5종 남자 결승에서 개인전 성적을 합산한 단체전 1위를 차지했다.",
-      "근대5종은 한 선수가 펜싱과 각종 구조물을 넘는 장애물 경기, 수영, 레이저런(육상+사격)을 모두 치르는 종목이다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n2c65f8f8",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "7분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260920039000704",
-    "title": "[쇼츠] 리야드 석유탱크 쾅!…사우디 수도 첫 공습경보",
-    "summary": [
-      "(서울=연합뉴스) 예멘의 친이란 반군 후티의 공격으로 사우디아라비아의 수도 리야드에서 석유탱크에 불이 나고 항공편 결항이 속출하는 등 혼란이 빚..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nb54462b7",
-    "category": "경제",
-    "source": "한국경제",
-    "time": "8분 전",
-    "url": "https://www.hankyung.com/article/2026092062017",
-    "title": "김승원 '성추행 등 의혹 탄원서'에…한동훈 \"제보자 색출할건가\"",
-    "summary": [
-      "김승원 '성추행 등 의혹 탄원서'에…한동훈 \"제보자 색출할건가\"."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "na7bf23a3",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "8분 전",
-    "url": "https://www.newsis.com/view/NISX20260920_0003797242",
-    "title": "국힘 \"北 도발 강력 규탄…李정부 대화 구걸·굴종적 기조로 막을 수 없어\"",
-    "summary": [
-      "[서울=뉴시스] 전상우 기자 = 국민의힘은 20일 북한이 동해상으로 탄도미사일 발사한 것에 대해 \"북한의 무모한 도발을 강력히 규탄한다\"고 밝혔다.",
-      "북한이 탄도미사일을 발사한 것은 지난 12일 이후 8일 만이다.",
-      "최보윤 수석대변인은 이날 오후 논평을 내고 \"최근 북한은 잇따른 미사일 발사와 무기 섞어쏘기 훈련 등 도발 수위를 끌어올리며 우리 국민의 안전을 노골적으로 위협하고 있다\"며 \"계속되는 도발로 북한이 얻을 수 있는 것은 아무것도 없으며."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n3b0db5a7",
-    "category": "경제",
-    "source": "한국경제",
-    "time": "8분 전",
-    "url": "https://www.hankyung.com/article/2026092062167",
-    "title": "월요일 아침 선선 낮에는 더워…낮 최고 30도 [날씨]",
-    "summary": [
-      "월요일 아침 선선 낮에는 더워…낮 최고 30도 [날씨]."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n90c3e5e2",
+    "id": "nd5ee24b2",
     "category": "스포츠",
     "source": "한국경제",
-    "time": "9분 전",
-    "url": "https://www.hankyung.com/article/202609206163i",
-    "title": "'아이언 걸' 김민선, 하나금융 우승으로 '커리어 하이' 시동",
+    "time": "45분 전",
+    "url": "https://www.hankyung.com/article/2026092065367",
+    "title": "[속보] 한국 남자농구, 개최국 일본 꺾고 12년 만에 아시안게임 금메달",
     "summary": [
-      "'아이언 걸' 김민선, 하나금융 우승으로 '커리어 하이' 시동."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "neecb8b28",
-    "category": "경제",
-    "source": "한국경제",
-    "time": "9분 전",
-    "url": "https://www.hankyung.com/article/202609206209i",
-    "title": "[2026 청춘 커피 페스티벌 포토] 뜨거워진 가을… 축제 달군 코지캣 목소리",
-    "summary": [
-      "[2026 청춘 커피 페스티벌 포토] 뜨거워진 가을… 축제 달군 코지캣 목소리."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n301169a6",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "11분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260920032751504",
-    "title": "北, 또 탄도미사일…美주도 훈련에 '반응행동' 위협한지 이틀만(종합)",
-    "summary": [
-      "(서울=연합뉴스) 김효정 기자 = 북한이 미국 주도의 아태지역 훈련에 반발해 '반응행동'을 하겠다고 위협한 지 이틀 만인 20일 오후 탄도미사일..."
+      "[속보] 한국 남자농구, 개최국 일본 꺾고 12년 만에 아시안게임 금메달."
     ],
     "chips": [
       "#뉴스"
@@ -636,13 +646,13 @@ window.KEYWORD_TOP = [
   },
   {
     "rank": 2,
-    "tag": "AI",
+    "tag": "삼성전자",
     "mentions": "1550건",
     "trend": "+135%"
   },
   {
     "rank": 3,
-    "tag": "삼성전자",
+    "tag": "반도체",
     "mentions": "1420건",
     "trend": "+115%"
   }
