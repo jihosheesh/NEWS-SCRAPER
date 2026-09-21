@@ -1,18 +1,32 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-09-21 11:23:13
+// 마지막 업데이트: 2026-09-21 17:22:46
 window.NEWS_DB = [
   {
-    "id": "n71131b1f",
+    "id": "nc9fcf019",
     "category": "IT",
-    "source": "코인리더스",
-    "time": "7시간 전",
-    "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBqam1tUDdjcEtBWHpBS2FIVC1IUmVvUU9uMFM4SEdlRlRXV1RSdUpsNmJZYmt4ejNOdjEyMUFGR0dkSnFNOW5jRTl3?oc=5",
-    "title": "\"엔비디아(NVDA) 쉬어가자\" 뜬다...개미들, AI 코인으로 대이동",
+    "source": "중앙이코노미뉴스",
+    "time": "1시간 전",
+    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1YLVVVNXI1NDRRampNUlhDZDBSVVFJYlJjZ25IVkUyMGVrS0JvWmVWeXh0UllReVpCaGJrRkR1Zm1tUEtTb0pXVXBVTlVpaFgwcnVaeGlpVEkzNHFSeE9TZEdtYjV3SHFET3Nwbk1wbm1FZw?oc=5",
+    "title": "AMD, 엔비디아·브로드컴·마이크론 이어 美 반도체 네 번째 ‘1조달러’ 돌파",
     "summary": [
-      "\"엔비디아(NVDA) 쉬어가자\" 뜬다...개미들, AI 코인으로 대이동 코인리더스."
+      "AMD, 엔비디아·브로드컴·마이크론 이어 美 반도체 네 번째 ‘1조달러’ 돌파 중앙이코노미뉴스."
     ],
     "chips": [
-      "#AI",
+      "#반도체",
+      "#엔비디아"
+    ]
+  },
+  {
+    "id": "ndd245465",
+    "category": "IT",
+    "source": "coinreaders.com",
+    "time": "6시간 전",
+    "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9wTGJnNy1vMHhUVGdLY0RCcDZMaUw4VTAzdEwzcFRQMG5wR1ZoYWhUTVZkNnF1SGx4cDdZSkhLMnFfUEZyd0lxTy1R?oc=5",
+    "title": "엔비디아(NVDA), 최고가 번번이 '좌절'...209달러까지 다시 밀리나",
+    "summary": [
+      "엔비디아(NVDA), 최고가 번번이 '좌절'...209달러까지 다시 밀리나 coinreaders.com."
+    ],
+    "chips": [
       "#엔비디아"
     ]
   },
@@ -20,7 +34,7 @@ window.NEWS_DB = [
     "id": "n3bf091c2",
     "category": "스포츠",
     "source": "한국경제",
-    "time": "9시간 전",
+    "time": "15시간 전",
     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9nY3BENG1heVF4amFVRDZ5M0Q3V09uYWZTRmZEZlcxZTJzc08zU2RBM3BRSEh6aTZPVDR2blc0YjZrNUhnMHNDUVN0M0pKMTBDVWxlUWhtZ1Zudw?oc=5",
     "title": "\"손흥민 533만원·페이커 1100만원\"…해외선 없어서 못 산다",
     "summary": [
@@ -34,7 +48,7 @@ window.NEWS_DB = [
     "id": "n81b9e6f1",
     "category": "스포츠",
     "source": "뉴시안",
-    "time": "10시간 전",
+    "time": "16시간 전",
     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE53WWdzQXFKWVdnNWM4UmM4SHhSNU9DbUdGeGpVUEhjMktEOUhIU2JmdmdKOTk5MGdVNWxLa2pIQ0cwNmFGQjllZkRmYmpDQTJLZHptOTFpRHhQd1d4ZkVKMXN1bkp1M3E2aFBfWHRR0gFuQVVfeXFMTndZZ3NBcUpZV2c1YzhSYzhIeFI1T0NtR0Z4alVQSGMyS0Q5SEhTYmZ2Z0o5OTkwZ1U1bEtrakhDRzA2YUZCOWVmRGZiakNBMktkem05MWlEeFB3V3hmRUoxc3VuSnUzcTZoUF9YdFE?oc=5",
     "title": "KBO 굿즈 매출 3배로… K-스포츠 굿즈, 소장템 부상",
     "summary": [
@@ -48,7 +62,7 @@ window.NEWS_DB = [
     "id": "n4139c6ff",
     "category": "스포츠",
     "source": "글로벌E",
-    "time": "12시간 전",
+    "time": "18시간 전",
     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9UMUQzU240aDJOWVlQZkZZUFNmdm9SMmNIWGRMdS1nNGhYUm9PN2hnWHNWUDQ4azdDZ3FWRnJRcFZ1dERjaDUzZnF5MEsxeXU3cWZ1UWJRUDk2Q25UUVpKQ1MzQjlKaDBCZm5EWGtTc9IBb0FVX3lxTE9UMUQzU240aDJOWVlQZkZZUFNmdm9SMmNIWGRMdS1nNGhYUm9PN2hnWHNWUDQ4azdDZ3FWRnJRcFZ1dERjaDUzZnF5MEsxeXU3cWZ1UWJRUDk2Q25UUVpKQ1MzQjlKaDBCZm5EWGtTcw?oc=5",
     "title": "이베이, K-스포츠 굿즈 역직구 급증···KBO 매출 전년 대비 2.9배↑",
     "summary": [
@@ -76,33 +90,18 @@ window.NEWS_DB = [
   {
     "id": "nc4b0f988",
     "category": "IT",
-    "source": "kukinews.com",
+    "source": "쿠키뉴스",
     "time": "2일 전",
     "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1ndEt2XzRmR0dVX25WSTV3VkhNa0tiQmNqcm15Q0ltY2RXWmV1MWlPN0hHV01FVy03dVNURG5VVExLaFhONXNqdkZ5dU9wVVN5R3VmbktOZkdKaVMwZzhlNHZGOA?oc=5",
     "title": "‘HBM 올인’ SK하이닉스 vs ‘전방위 방어’ 삼성전자… AI 반도체 ‘승전 공식’",
     "summary": [
-      "‘HBM 올인’ SK하이닉스 vs ‘전방위 방어’ 삼성전자… AI 반도체 ‘승전 공식’ kukinews.com."
+      "‘HBM 올인’ SK하이닉스 vs ‘전방위 방어’ 삼성전자… AI 반도체 ‘승전 공식’ 쿠키뉴스."
     ],
     "chips": [
       "#AI",
       "#반도체",
       "#삼성전자",
       "#SK하이닉스"
-    ]
-  },
-  {
-    "id": "nbfc8d9ae",
-    "category": "IT",
-    "source": "조선일보",
-    "time": "3일 전",
-    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQUUFoVzF6dk01WVAxSEM1QjV0a1hMRDk3ZXRQR1NfMlNtVDZ6dl82ZzR5dVlDdWNpeHJDa1NIOVo0Nm8yMWZGRXdidE9OUVZZc1EyRWRlYlBUNWFMenpGZ0NMTzExczJSUjlyZjFDRUdQRk5aaHVmdlMwNmItVzNfRlR4Zw?oc=5",
-    "title": "AI 투자 과잉론에도...젠슨 황 \"내년 엔비디아 칩 판매량 2배\"",
-    "summary": [
-      "AI 투자 과잉론에도...젠슨 황 \"내년 엔비디아 칩 판매량 2배\" 조선일보."
-    ],
-    "chips": [
-      "#AI",
-      "#엔비디아"
     ]
   },
   {
@@ -184,12 +183,12 @@ window.NEWS_DB = [
   {
     "id": "n0c0cab84",
     "category": "IT",
-    "source": "zdnet.co.kr",
+    "source": "지디넷코리아",
     "time": "6일 전",
     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9Od0NZQmplSXVCZzdWLVdMWVAzdWxTMlItenMtelQyWlk0NXhVNkpYcmgxYm14YWZ5QkgxRnZrZ0ZPOU5RQkFfbF9NRkdfbHBCVHI4aVRB?oc=5",
     "title": "삼성전자, 커스텀 HBM서 '핵심 칩' 공급망 변화…내부·TSMC '투트랙' 추진",
     "summary": [
-      "삼성전자, 커스텀 HBM서 '핵심 칩' 공급망 변화…내부·TSMC '투트랙' 추진 zdnet.co.kr."
+      "삼성전자, 커스텀 HBM서 '핵심 칩' 공급망 변화…내부·TSMC '투트랙' 추진 지디넷코리아."
     ],
     "chips": [
       "#반도체",
@@ -214,15 +213,30 @@ window.NEWS_DB = [
   {
     "id": "n1b86d5ce",
     "category": "부동산",
-    "source": "한국주택경제신문",
+    "source": "arunews.com",
     "time": "11일 전",
     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1OZzh5T2VHNnBWYWlYeDRuaHBfRDBreHNNdlhfNXVwRy0tWVE4Q0VHSDRuUjc0VVQ3WnFLMk1kTHc4QlpGb3VvN3N4T3dRRnZQd3o1akRjZFl0NGhxNEpDeTlKS0xxV0Yx?oc=5",
     "title": "강남 꺾이고 강북 뛰었다…역세권·중저가 대단지가 집값 견인",
     "summary": [
-      "강남 꺾이고 강북 뛰었다…역세권·중저가 대단지가 집값 견인 한국주택경제신문."
+      "강남 꺾이고 강북 뛰었다…역세권·중저가 대단지가 집값 견인 arunews.com."
     ],
     "chips": [
       "#부동산"
+    ]
+  },
+  {
+    "id": "n2b62fa28",
+    "category": "사회",
+    "source": "서울복지신문",
+    "time": "19일 전",
+    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1CM2lWaFN1ekxUU19leEpTSzhuYUZScTE4U2RnamZuWE5LXzE5ZEtRa3V4Qi1hYWFXTFlVQ0ZVWnFMM3NNNzBWckh3ZWM2SnNMT0ZuNXJGRUhMQmdIbGQ0Wks1SzfSAWhBVV95cUxPUEw5OWNsSDJEOFFJcXpaMlMtTHlNbi1heWQ4NFJ1X0dBdHpGMGREaXQzWE5PWHNpdGZyVTIxTkZ0VEh6bzBWOHdDbFdkQzBqT2ZmbWl6RkNkR0dvRnh1V0Z4ODBJSUJSLQ?oc=5",
+    "title": "강남구, ‘장애인일자리’ 채용정보 한번에",
+    "summary": [
+      "강남구, ‘장애인일자리’ 채용정보 한번에 서울복지신문."
+    ],
+    "chips": [
+      "#채용",
+      "#고용"
     ]
   },
   {
@@ -255,36 +269,6 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nac7d261c",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "52일 전",
-    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1wZmd4RTNaSTBwNVNxSm0yRGFySTlYN19qVTZfYzRtVzBzVV9nSnR3RXdYaTNiNkZRX3F6aXhFZTA5ekUxNW9VWHIzZHFjYnoyWU0wVDNoU2FJcVE?oc=5",
-    "title": "강남구 일자리통합지원센터, 맞춤형 지원으로 취업자 25.7％ 증가",
-    "summary": [
-      "강남구 일자리통합지원센터, 맞춤형 지원으로 취업자 25.7％ 증가 연합뉴스."
-    ],
-    "chips": [
-      "#취업",
-      "#고용"
-    ]
-  },
-  {
-    "id": "n917184b9",
-    "category": "부동산",
-    "source": "한국경제",
-    "time": "91일 전",
-    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1PMWgycmJDUlh3Smlkb254TmVGMXFZX3JvTThsLUVHNHY2ZDloYVVjZHdPakFSQ0YwSVpBMXBMZHNqcndpVUV6RkJiaVk2NlFJV19fWkl0bXduZw?oc=5",
-    "title": "\"전세값 보다 싸요\"…동탄 집값 22억 찍자 우르르 몰린 동네 [현장+]",
-    "summary": [
-      "\"전세값 보다 싸요\"…동탄 집값 22억 찍자 우르르 몰린 동네 [현장+] 한국경제."
-    ],
-    "chips": [
-      "#부동산",
-      "#전세"
-    ]
-  },
-  {
     "id": "nabfa15b0",
     "category": "경제",
     "source": "YTN",
@@ -314,10 +298,86 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n08b2b275",
+    "category": "부동산",
+    "source": "한국부동산뉴스",
+    "time": "160일 전",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBZNmg3TVp4ZWZCV1ZzTE14bXV5UkN4MExnMmZJdkpfNUsyUGltRWlJVWVfUzJoQktRUlcwMTdrUUtuWk9pR2MxaFlhNGpOU0xGZjM3eDUwdlNmRWQtYkFaenAyekhVRGRRY0pJ?oc=5",
+    "title": "대출 규제에 몰린 '15억 이하'…비강남 집값·분양가 동반 상승",
+    "summary": [
+      "대출 규제에 몰린 '15억 이하'…비강남 집값·분양가 동반 상승 한국부동산뉴스."
+    ],
+    "chips": [
+      "#부동산",
+      "#정책"
+    ]
+  },
+  {
+    "id": "n4c828789",
+    "category": "스포츠",
+    "source": "머니투데이",
+    "time": "방금 전",
+    "url": "https://www.mt.co.kr/sports/2026/09/22/2026092118103054821",
+    "title": "AG 파행에 日 내부서도 큰 우려 \"올림픽·월드컵 유치에 차질→외교적 결례급\" [아이치 나고야 AG]",
+    "summary": [
+      "아이치·나고야 아시안게임이 부실한 숙소 환경과 국가(國歌) 오송출, 선수단 이동 수단 차질 등 잇단 운영 미숙으로 파행을 빚자, 일본 내부에서도 \"국제적 신뢰가 추락해 향후 올림픽이나 축구 월드컵 등 메가 이벤트 유치에 심각한 악영향을 미칠 것\"이라는 자성의 목소리가 쏟아지고 있다.",
+      "일본 스포츠 매체 '도쿄스포츠'는 21일 \"아이치·나고야 아시안게임에서 트러블이 다발하고 있는 사태에 대해 향후 일본이 올림픽이나 축구 월드컵 등 세계적 이벤트를."
+    ],
+    "chips": [
+      "#환경"
+    ]
+  },
+  {
+    "id": "n71b8936b",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "11분 전",
+    "url": "https://www.newsis.com/view/NISX20260922_0003799290",
+    "title": "한미일 외교장관 \"北 대화 재개 촉구…비핵화 의지 재확인\"",
+    "summary": [
+      "[워싱턴=뉴시스] 이윤희 특파원 = 한미일 외교장관들이 21일(현지 시간) 미국 뉴욕에서 만나 북한의 완전한 비핵화 의지를 재확인하는 한편, 북한의 대화 재개를 촉구했다.",
+      "조현 외교부 장관과 마코 루비오 미 국무장관, 모테기 도시미쓰 일본 외무대신은 이날 미국 뉴욕에서 유엔 총회를 계기로 한미일 3국 외교장관회의를 개최했다.",
+      "국무부가 공개한 영상에 따르면 3국 장관들은 회의 전 기념촬영에 나섰고 별다른 공개 발언 없이 비공개 회의에 들어갔다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "naa45c334",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "17분 전",
+    "url": "https://www.chosun.com/sports/baseball/2026/09/22/GZQTIMJTG5RWMMDGHFSDEYJSGU/",
+    "title": "라밤바에 묻힌 '꺼삐딴' → 최고의 명장면. 롯데 박근서 父의 진심 \"넌 선원이 아니야, '캡틴'이야\"",
+    "summary": [
+      "[스포츠조선 한동훈 기자] 라밤바가 너무 흥겨워서 '꺼삐딴(캡틴, captain)'을 놓쳤다.",
+      "롯데 자이언츠 1라운더 박근서 아버지가 전하고 싶었던 진짜 메시지는 라밤바가 아닌 꺼삐딴이었다.",
+      "21일 서울 송파 롯데호텔에서 거행된 2027 KBO 신인드래프트 최고의 명장면은 단연 라밤바였다."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
+    "id": "n29049faa",
+    "category": "IT",
+    "source": "연합뉴스",
+    "time": "17분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260922003000098",
+    "title": "데이터센터 에너지·물 얼마나 쓰나…EU, 등급제 추진",
+    "summary": [
+      "(브뤼셀=연합뉴스) 현윤경 특파원 = 유럽연합(EU)이 유럽 내 데이터센터의 에너지·물 소비량을 등급화하는 방안을 추진한다고 21일(현지시간) ..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
     "id": "nfb372faf",
     "category": "IT",
     "source": "테크M",
-    "time": "방금 전",
+    "time": "18분 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=155454",
     "title": "리벨리온 NPU, SKT AI 서비스 4곳으로 확대...\"가능성에서 검증으로\"",
     "summary": [
@@ -330,10 +390,39 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n5fb032fe",
+    "category": "스포츠",
+    "source": "동아일보",
+    "time": "20분 전",
+    "url": "https://www.donga.com/news/Sports/article/all/20260922/134715611/1",
+    "title": "‘차세대 에이스’ 최민석, 홍콩전 선발 등판…국가대표 데뷔 무대",
+    "summary": [
+      "2026 아이치·나고야 아시안게임 첫 승리를 따낸 한국 야구대표팀이 홍콩과 2차전에 ‘막내’ 우완 최민석(20·두산 베어스)을 선발 투수로 내세운다.최민석(두산 베어스)이 홍콩을 상대로 선발 등판해 2026 아이치·나고야 아시안게임 슈퍼라운드 조기 진출에 앞장선다.류지현 감독이 이끄는 야구대표팀은 22일 오후 6시 30분 일본 아이치현 도요하시 시민구장에서 대회 야구 조별리그 B조 홍콩과 2차전에 최민석을 선발 투수로 내세운다.21일 첫 경기에."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
+    "id": "ndd8c918d",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "20분 전",
+    "url": "https://www.donga.com/news/Society/article/all/20260922/134715606/1",
+    "title": "“심장이 빠르고 쿵하는 느낌”…부정맥 경고신호?",
+    "summary": [
+      "심장이 갑자기 빠르게 뛰거나 ‘쿵’ 하고 내려앉는 느낌, 맥박이 한 번씩 건너뛰는 듯한 증상이 반복된다면 대수롭지 않게 넘길 수 있지만 부정맥의 경고 신호일 수 있다.",
+      "피로, 수면 부족, 과도한 카페인 섭취 등으로 일시적으로 심장이 두근거릴 수도 있지만, 이러한 증상이 자주 반복되거나 어지럼증과 실신 등이 동반된다면 가볍게 넘겨서는 안되며, 정확한 검사가 필요하다.22일 의료계에 따르면 부정맥은 심장이 정상적인 리듬을 벗어나 너무 빠르게 뛰거나."
+    ],
+    "chips": [
+      "#의료"
+    ]
+  },
+  {
     "id": "nb4d029f7",
     "category": "IT",
     "source": "테크M",
-    "time": "방금 전",
+    "time": "22분 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=155453",
     "title": "안랩, '인도섹 2026' 전시 참가...해외 매출 확대 잰걸음",
     "summary": [
@@ -346,10 +435,58 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "nb413efe2",
+    "category": "사회",
+    "source": "머니투데이",
+    "time": "22분 전",
+    "url": "https://www.mt.co.kr/opinion/2026/09/22/2026092110021614915",
+    "title": "일본 정보 재무장이 주는 함의[MT시평/배정석]",
+    "summary": [
+      "지난 7월 31일 일본이 '국가정보국'을 공식적으로 출범시켰다.",
+      "이는 단순한 정부 조직 신설이 아니라, 전후 일본의 정보체계 역사에서 커다란 전환점을 의미한다.",
+      "일본은 전통적으로 정보활동 역량이 강한 국가였다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n6cfb5983",
+    "category": "경제",
+    "source": "머니투데이",
+    "time": "22분 전",
+    "url": "https://www.mt.co.kr/opinion/2026/09/22/2026092009120250964",
+    "title": "사유의 계절, 종이책의 기억[투데이 窓/남수영]",
+    "summary": [
+      "문학작품 표지 포장한 편의점 빵 인기 지식 탐색 쉬운 디지털 읽기 대세지만 책장 덮고 생각하는 여유의 공간 필요 가을이 깊어지면 서점과 언론에는 어김없이 독서에 관한 이야기가 늘어난다.",
+      "그런데 요즘 풍경은 사뭇 낯설다.",
+      "책을 온전히 독파하는 사람보다 책의 분위기를 즐기는 방식들이 회자된다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nf1596d6f",
+    "category": "스포츠",
+    "source": "머니투데이",
+    "time": "22분 전",
+    "url": "https://www.mt.co.kr/opinion/2026/09/22/2026092110124270332",
+    "title": "'항공안전'은 일반적 교통안전이 아니다 [청계광장/황호원]",
+    "summary": [
+      "항공안전은 단순한 운항문제 넘어 설계·제작·시험까지 전문성 필요 항공안전기술원 통폐합 재고해야 축구, 야구, 농구 경기는 구기 종목이라는 공통점이 있다.",
+      "그렇다고 효율성을 위하여 세 종목의 선수를 하나의 팀으로 합치지는 않는다.",
+      "경기 규칙도, 훈련 방법도, 필요한 역량도 제각기 다르기 때문이다."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
     "id": "nc1d436ce",
     "category": "IT",
     "source": "테크M",
-    "time": "방금 전",
+    "time": "22분 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=155451",
     "title": "[글로벌] 오픈AI·앤트로픽 몰려간다...싱가포르, '아시아 AI 허브'로 부상",
     "summary": [
@@ -362,267 +499,135 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n92bbf284",
-    "category": "IT",
-    "source": "테크M",
-    "time": "방금 전",
-    "url": "https://www.techm.kr/news/articleView.html?idxno=155452",
-    "title": "[테크M 이슈] 라인게임즈 '창세기전' IP 통했다...'서풍의 광시곡 리마스터' 흥행 본격화",
-    "summary": [
-      "라인게임즈가 주력 IP인 '창세기전'을 앞세워 IP 사업 확대 성과를 이어가고 있다.",
-      "직접 서비스하는 모바일 타이틀의 안정적인 흥행에 더해 외부 개발사와의 라이선스 협업을 통해 선보인 패키지 게임까지 초반 흥행에 성공하면서 창세기전 IP의 확장 가능성을 입증하고 있다.21일 게임업계에 따르면 라인게임즈의 창세기전 IP를 활용한 게임들이 모바일과 PC·콘솔 등 플랫폼을 넘나들며 이용자들의 관심을 받고 있다.'서풍의 광시곡 리마스터' 흥행 가도창세."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n3b8156e9",
-    "category": "스포츠",
-    "source": "동아일보",
-    "time": "1분 전",
-    "url": "https://www.donga.com/news/Sports/article/all/20260921/134714592/1",
-    "title": "‘3년의 기다림’ 에이스 곽빈, 대만 철통 봉쇄…6이닝 10K 노히트",
-    "summary": [
-      "두 번째 아시안게임 만에 처음으로 등판 기회를 잡은 야구대표팀 ‘에이스’ 곽빈(두산 베어스)이 150㎞대 빠른 공을 던져 대만 타선을 꽁꽁 묶었다.곽빈은 21일 일본 아이치현 오카자키 중앙종합공원 야구장에서 열린 대만과 2026 아이치·나고야 아시안게임 B조 조별리그 첫 경기에서 선발 투수로 등판, 6이닝 동안 90구를 던져 무피안타 2볼넷 10탈삼진 무실점으로 호투했다.곽빈에게 이번 대회는 두 번째 아시안게임이다.3년 전 항저우 대회에서 금메."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
-    "id": "nd127ea16",
-    "category": "스포츠",
-    "source": "뉴시스",
-    "time": "4분 전",
-    "url": "https://www.newsis.com/view/NISX20260921_0003799196",
-    "title": "여자 축구, 남북전서 1-1 무승부…조 2위로 '8강행' [뉴시스Pic]",
-    "summary": [
-      "[서울=뉴시스]최동준 하근수 황준선 기자 = 2026 아이치·나고야 아시안게임 금메달에 도전하는 한국 여자 축구대표팀이 일본에서 열린 남북전에서 무승부에 그쳤다.",
-      "신상우 감독이 이끄는 한국은 21일 일본 시즈오카 후쿠로이시의 시즈오카 에코파 스타디움에서 열린 북한과의 대회 여자 축구 조별리그 F조 최종 3차전에서 1-1로 비겼다.",
-      "이로써 같은 승점 7(2승 1무)의 한국(12득점 1실점·골 득실 11)은 골 득실에서 북한(19득점 1실점·골 득."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n885f893a",
-    "category": "스포츠",
-    "source": "뉴시스",
-    "time": "5분 전",
-    "url": "https://www.newsis.com/view/NISX20260921_0003799157",
-    "title": "'역시 에이스!' 곽빈, 완벽한 투구로 대만 제압…6이닝 10K 무실점[나고야AG]",
-    "summary": [
-      "[서울=뉴시스]문채현 기자 = 한국 야구 간판 곽빈(두산 베어스)이 기대를 충족시키는 완벽한 투구로 에이스 노릇을 톡톡히 했다.",
-      "곽빈은 21일 일본 아이치현 오카자키시의 오카자키 중앙종합공원 야구장에서 열린 2026 아이치·나고야 아시안게임 조별리그 B조 대만과의 첫 경기에 선발 등판해 6이닝 무피안타 무실점을 기록했다.",
-      "이날 6회까지 공 90개를 던진 그는 볼넷 2개를 내주고 삼진 10개를 잡아내며 대만 타선을 제압했다."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
-    "id": "n73c26d40",
-    "category": "스포츠",
-    "source": "연합뉴스",
-    "time": "6분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260921178200052",
-    "title": "거제 칠천도서 SUV 편의점 돌진…70대 운전자 \"페달 착각\"",
-    "summary": [
-      "(거제=연합뉴스) 정종호 기자 = 21일 오후 6시 46분께 경남 거제시 하청면 칠천도의 한 주차장에서 스포츠유틸리티차(SUV)가 인근 편의점으..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n04f14222",
+    "id": "n949ca602",
     "category": "사회",
     "source": "연합뉴스",
-    "time": "6분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260921178000009",
-    "title": "\"美, 비밀 협정 체결해 제3국으로 2만5천명 이상 추방\"",
+    "time": "29분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260921182451082",
+    "title": "위기의 독일 총리 \"연정 유지해줘 감사\"…좌파당엔 공세(종합)",
     "summary": [
-      "(서울=연합뉴스) 오수진 기자 = 도널드 트럼프 미 행정부의 반(反)이민 정책에 따라 제3국으로 추방된 불법체류자 숫자가 2만5천명 이상인 것으..."
-    ],
-    "chips": [
-      "#정책"
-    ]
-  },
-  {
-    "id": "n173380ab",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "7분 전",
-    "url": "https://www.chosun.com/sports/sports_general/2026/09/21/MIZDQNJZGQZTIZJWMFQTGY3FGE/",
-    "title": "\"2연패 놓쳤다!\" 황금세대 남자계영 800m 아쉬운 동메달...中, 日 이어 3위[아이치-나고야아시안게임]",
-    "summary": [
-      "[스포츠조선 전영지 기자]항저우아시안게임에서 K-수영의 힘을 보여준 황금세대가 2026년 아이치-나고야아시안게임 계영 800m에서 아쉽게 2연패를 놓쳤다.",
-      "한중일의 한치 양보없는 수영 삼국지, 최종 승자는 중국이었다.",
-      "대한민국 남자 계영대표팀은 21일 오후 일본 도쿄 아쿠아틱스 센터에서 펼쳐진 대회 남자계영 800m에서 7분06초76의 기록으로 중국(7분0."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n88803005",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "8분 전",
-    "url": "https://www.newsis.com/view/NISX20260921_0003799188",
-    "title": "'유서대필 무죄' 강기훈, 추가배상 확정…\"檢·감정인 면죄부 허탈\"",
-    "summary": [
-      "[서울=뉴시스]김정현 기자 = 1991년 '유서대필 조작 사건'의 피해자 강기훈씨가 자신을 기소한 검사들에게 책임을 묻기 위해 제기한 손해배상 소송이 재상고심을 거쳐 마무리됐다.",
-      "국가의 배상액은 늘었지만, 강씨가 끝까지 다툰 개별 수사 담당 검사들의 배상 책임은 인정되지 않았다.",
-      "21일 법조계에 따르면 대법원 1부(주심 천대엽 대법관)는 지난 10일 강씨와 가족들이 국가를 상대로 낸 손해배상 청구 소송의 재상고심에서 심리불속행 기각으로 국가의."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n9e65e562",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "8분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260921178100007",
-    "title": "[아시안게임] 2연패 놓친 계영 800ｍ 아쉬움…막내 김준우 덕분에 되찾은 미소",
-    "summary": [
-      "(도쿄=연합뉴스) 이대호 기자 = 2회 연속 아시안게임 금메달을 정조준했던 한국 남자 계영 800ｍ 대표팀의 공동취재구역(믹스트존) 분위기는 무..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n746d7de6",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "10분 전",
-    "url": "https://www.donga.com/news/Society/article/all/20260921/134711312/1",
-    "title": "법원 “軍 정치중립 저버려”…여인형 1심 징역 18년-이진우 15년",
-    "summary": [
-      "“군의 정치적 중립성을 저버리고 특정 세력의 정치적 이익을 위해 군 세력을 사용했다.”21일 서울중앙지법 형사합의26부(부장판사 이현경)는 12‧3 계엄에 가담한 혐의(내란 중요임무 종사 등)를 받는 여인형 전 방첩사령관, 이진우 전 수방사령관, 문상호 전 국군정보사령관, 박안수 전 육군참모총장(계엄사령관), 곽종근 전 특수전사령관 등 군 장성 5명에 대해 모두 유죄를 선고하며 이같이 지적했다."
+      "(베를린=연합뉴스) 김계연 특파원 = 주의회 선거에서 잇따라 참패한 프리드리히 메르츠 독일 총리가 21일(현지시간) 연립정부 파트너 사회민주당(..."
     ],
     "chips": [
       "#정치"
     ]
   },
   {
-    "id": "n3c4e6c00",
-    "category": "사회",
+    "id": "ne4c4a3e2",
+    "category": "경제",
     "source": "조선일보",
-    "time": "11분 전",
-    "url": "https://www.chosun.com/national/court_law/2026/09/21/USOUQCUZFBHIZAGAWWOXZ4QVJU/",
-    "title": "4년 만에 나온 헌재 합헌 결정에...법원 “심리 지연 이유 따져야”",
+    "time": "31분 전",
+    "url": "https://www.chosun.com/international/international_general/2026/09/22/GNQTIM3CGEYDEYRUMM4GEOLEHE/",
+    "title": "폭스바겐, 유럽 우량주 지수서 퇴출… 노키아·엔지 편입",
     "summary": [
-      "4년 만에 나온 헌재 합헌 결정에...법원 “심리 지연 이유 따져야”."
+      "유럽 최대 완성차 기업인 폭스바겐의 주식이 유럽 우량주 50개 종목을 모은 유로스톡스50 주가지수에서 퇴출됐다.",
+      "유로뉴스에 따르면 지수 운영사 스톡스는 21일(현지 시각) 거래부터 폭스바겐을 유로스톡스50(EURO STOXX 50)에서 제외했다.",
+      "유로스톡스50은 유로존(유로화를 사용하는 국가들)의 시가총액 상위 50개 기업으로 구성된 대표적인 주가 지수다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "ndcc9dc54",
+    "id": "n69211e5d",
     "category": "사회",
     "source": "뉴시스",
-    "time": "13분 전",
-    "url": "https://www.newsis.com/view/NISX20260921_0003799190",
-    "title": "김건희 '매관매직' 수사한 이정훈 부장검사 사의",
+    "time": "33분 전",
+    "url": "https://www.newsis.com/view/NISX20260922_0003799284",
+    "title": "경유 대란에 다급해진 트럼프…\"우크라전 끝나야\"",
     "summary": [
-      "[서울=뉴시스]이윤석 기자 = 김건희 특검에서 김 여사가 공직·이권 청탁을 대가로 각종 금품을 수수했다는 이른바 '매관매직' 의혹을 수사한 이정훈(사법연수원 38기) 서울서부지검 식품의약범죄조사부장이 사의를 표했다.",
-      "21일 법조계에 따르면 이 부장검사는 이날 검찰 내부망(이프로스)에 \"여기까지 올 수 있었던 것은 좋은 인연들을 만났기 때문\"이라며 \"인연을 맺은 모든 검찰 가족 여러분들께 진심으로 감사하다\"며 사직 의사를 밝혔다."
+      "[서울=뉴시스] 신효령 기자 = 도널드 트럼프 미국 대통령이 우크라이나의 공격으로 러시아 정유시설이 잇따라 피격됐다며 전쟁을 끝내야 한다고 촉구했다.",
+      "미국 경윳값이 사상 최고 수준으로 치솟자 우크라이나 전쟁에 따른 공급 차질을 부각한 것으로 보인다.",
+      "21일(현지시간) AP통신과 파이낸셜타임스(FT) 등에 따르면 트럼프 대통령은 이날 소셜미디어 트루스소셜에 \"러시아는 우크라이나와의 전쟁으로 불행하게도 경유 산업에 대한 통제력을 잃었다\"고 밝혔다."
     ],
     "chips": [
-      "#뉴스"
+      "#정치"
     ]
   },
   {
-    "id": "ne6d47e57",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "20분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260921172100005",
-    "title": "고음악 예술가집단 아트하우스17 \"연주자가 먼저 감동해야\"",
-    "summary": [
-      "(서울=연합뉴스) 조윤희 기자 = \"음악이라는 것은 마치 병에 담긴 감정의 메시지가 과거로부터 자연스럽게 흘러온 것과 같아요."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nf0f0b276",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "25분 전",
-    "url": "https://www.donga.com/news/Society/article/all/20260921/134713133/1",
-    "title": "비급여 진료비 4년새 40% 늘어 22조원 육박",
-    "summary": [
-      "건강보험이 지원되지 않는 비급여 항목 진료비가 4년 새 40% 늘어 22조 원에 육박한 것으로 나타났다.",
-      "21일 국회입법조사처에 따르면 2024년 비급여 진료비는 21조8000억 원으로 2020년 15조6000억 원 대비 39.7% 늘었다.",
-      "환자 진료비 총액 중 비급여 본인부담금이 차지하는 비중인 ‘비급여 본인부담률’ 역시 2024년 15.8%를 나타내며 3년간 상승세를 이어갔다.정부는 과잉 진료 우려가 큰 비급여 의료비를 줄이기 위해 올해 2."
-    ],
-    "chips": [
-      "#정치",
-      "#의료"
-    ]
-  },
-  {
-    "id": "n5ae9ddd9",
+    "id": "n8a7f8f54",
     "category": "스포츠",
-    "source": "동아일보",
-    "time": "32분 전",
-    "url": "https://www.donga.com/news/Sports/article/all/20260921/134711375/1",
-    "title": "韓 女축구, 北과 조별리그 최종전서 1-1 무승부",
-    "summary": [
-      "한국 여자 축구 대표팀이 2026 아이치-나고야 아시안게임 조별리그 최종전에서 ‘난적’ 북한과 무승부를 기록했다.한국은 21일 일본 시즈오카현 에코파 스타디움에서 열린 북한과의 대회 F조 조별리그 최종전에서 1-1로 비겼다.",
-      "북한(골득실 +18)과 나란히 2승 1무(승점 7)로 조별리그를 마친 한국(골득실 +11)은 골득실에서 밀려 조 2위로 8강에 올랐다.",
-      "한국은 이날 경기에서 비기면서 북한과의 역대 전적이 1승 5무 16패가 됐다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nebeb9337",
-    "category": "사회",
     "source": "조선일보",
     "time": "35분 전",
-    "url": "https://www.chosun.com/culture-life/culture_general/2026/09/21/3IKMLKZ7TFB23KPGOO6BU7NK3M/",
-    "title": "지뢰 찾다 우연히.. ‘국내 最古 화약 무기’ 나주서 발견",
+    "url": "https://www.chosun.com/sports/baseball/2026/09/22/MQ3GEZDDMY4TEMLGGM3DCODGME/",
+    "title": "'형은 10K 노히트 했다' 이제 '다승 1위' 동생의 차례…최민석, 홍콩전 선발 전격 낙점 [나고야 LIVE]",
     "summary": [
-      "지뢰 찾다 우연히.. ‘국내 最古 화약 무기’ 나주서 발견."
+      "[오카자키=스포츠조선 이종서 기자] '국대 베어스'가 이어진다.",
+      "이번에는 '막내'가 나온다.",
+      "류지현 감독이 이끄는 2026 아이치-나고야 아시안게임 대표팀은 22일 일본 아이치현 도요하시 구장에서 홍콩과 조별예선 2차전을 치른다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n59b6bf53",
+    "id": "n8167e8ac",
     "category": "사회",
-    "source": "ZDNet Korea",
-    "time": "39분 전",
-    "url": "https://zdnet.co.kr/view/?no=20260921112341",
-    "title": "과기노조 NST 행정 전문화·성과 배분 체계 \"반대\"",
+    "source": "연합뉴스",
+    "time": "36분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260922001551072",
+    "title": "한미일 \"北 대화 복귀 촉구…대만해협 평화 유지 중요\"",
     "summary": [
-      "[지디넷코리아]전국과학기술노동조합과 출연연 독립노조 연대, 연대노조 등이 14대 과학기술분야 노동조합을 대표해 국가과학기술연구회(NST)의 인력 증원과 성과 분배 방식에 제동을 걸고 나섰다.이들 3개 대표 노동조합은 21일 성명서를 내고, NST의 존재 이유를 증명하라며 연구수당 폐지·실질임금 삭감 중단 등 4개항을 요구했다.성명에 따르면 4개 요구사항 ▲1% 싹쓸이 상영금 제도 즉각 철회 ▲연구수당=임금 인정 및 성과연동제 개편 시도 중단 ▲."
+      "(뉴욕=연합뉴스) 김연숙 특파원 = 한국·미국·일본의 외교수장들은 21일(현지시간) 북한의 완전한 비핵화에 대한 의지를 재확인하면서도 북한의 대..."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "nfcace6f1",
-    "category": "경제",
-    "source": "한국경제",
-    "time": "42분 전",
-    "url": "https://www.hankyung.com/article/2026092191977",
-    "title": "\"계정 하나로 2억 벌었다?\"…8개월간 암표 931건 팔아",
+    "id": "nda5db510",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "39분 전",
+    "url": "https://www.chosun.com/sports/baseball/2026/09/22/G5SGKZLCGY4GCM3BMYZDMMJSGM/",
+    "title": "롯데는 한동희를 어떻게 키워냈나 → 결국은 기술 아닌 마음가짐",
     "summary": [
-      "\"계정 하나로 2억 벌었다?\"…8개월간 암표 931건 팔아."
+      "[스포츠조선 한동훈 기자] 롯데 자이언츠 한동희가 올 시즌 드디어 잠재력을 만개했다.",
+      "얼마나 꾸준하게 보여줄 수 있느냐가 늘 숙제였다.",
+      "파워는 이미 유명했던 선수다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n949e0b84",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "42분 전",
+    "url": "https://www.newsis.com/view/NISX20260922_0003799287",
+    "title": "[속보]한미일 \"美확장억제 약속 확인…대만 안정 유지 중요\"",
+    "summary": [
+      "후속기사가 이어집니다 ◎공감언론 뉴시스 sympathy@newsis.com."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n9d743289",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "46분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260922002000099",
+    "title": "국립국악원, 남아공 '워매드' 무대서 한국 전통예술 선보여",
+    "summary": [
+      "(요하네스버그=연합뉴스) 나확진 특파원 = 국립국악원이 남아프리카공화국 케이프타운에서 열린 국제 문화예술축제 '워매드 케이프타운 2026'에서 ..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n92bbf284",
+    "category": "IT",
+    "source": "테크M",
+    "time": "1시간 전",
+    "url": "https://www.techm.kr/news/articleView.html?idxno=155452",
+    "title": "[테크M 이슈] 라인게임즈 '창세기전' IP 통했다...'서풍의 광시곡 리마스터' 흥행 본격화",
+    "summary": [
+      "라인게임즈가 주력 IP인 '창세기전'을 앞세워 IP 사업 확대 성과를 이어가고 있다.",
+      "직접 서비스하는 모바일 타이틀의 안정적인 흥행에 더해 외부 개발사와의 라이선스 협업을 통해 선보인 패키지 게임까지 초반 흥행에 성공하면서 창세기전 IP의 확장 가능성을 입증하고 있다.21일 게임업계에 따르면 라인게임즈의 창세기전 IP를 활용한 게임들이 모바일과 PC·콘솔 등 플랫폼을 넘나들며 이용자들의 관심을 받고 있다.'서풍의 광시곡 리마스터' 흥행 가도창세."
     ],
     "chips": [
       "#뉴스"
@@ -635,20 +640,20 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2590건",
-    "trend": "+295%"
+    "mentions": "2330건",
+    "trend": "+255%"
   },
   {
     "rank": 2,
-    "tag": "AI",
-    "mentions": "1810건",
-    "trend": "+175%"
+    "tag": "KBO",
+    "mentions": "1550건",
+    "trend": "+135%"
   },
   {
     "rank": 3,
-    "tag": "KBO",
-    "mentions": "1420건",
-    "trend": "+115%"
+    "tag": "AI",
+    "mentions": "1550건",
+    "trend": "+135%"
   }
 ];
 // ====AUTO-GENERATED-END====
