@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-09-22 10:32:26
+// 마지막 업데이트: 2026-09-22 15:14:50
 window.NEWS_DB = [
   {
     "id": "nede90aad",
     "category": "IT",
     "source": "서울경제TV",
-    "time": "1시간 전",
+    "time": "6시간 전",
     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBaUkMtamtCc011dFVaY2N0SnE4OTFKdDV4NllQRTBGdFJPUXVIelZOYzk0d2pHLWtQZk0xbU9GWjRwSUdOa0dMSkdXSngzUWF1Zjh6bEZrQXQtTWlxeVFXS0l2WkI?oc=5",
     "title": "엔비디아 뚫은 LG전자…AI 데이터센터 냉각시장 선점",
     "summary": [
@@ -20,7 +20,7 @@ window.NEWS_DB = [
     "id": "n1ef99b44",
     "category": "부동산",
     "source": "뉴스핌",
-    "time": "1시간 전",
+    "time": "6시간 전",
     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1IV21uRGdUbmQ3dG9fejNFV19PMUdQeEZ4R1FnM1B0NUNGN1NITm8tbU04MWg2MlNkdlJpMzhOeHd2anhpdlJVcmFia2FVcnlrLVl3YUxTVE82YVJD?oc=5",
     "title": "서울 집값 상승세 외곽으로 번졌다…노원 한 달 새 1.68%↑",
     "summary": [
@@ -31,25 +31,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n4f66c0fd",
-    "category": "IT",
-    "source": "테크M",
-    "time": "3시간 전",
-    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5vR1ZtdURYVHNyVThXWHpMbEJYcUdES29zcDhHWVpkekJRM2NVRGNwMzNkVEN2MDVOUXA1Q2h5WkY3V1E0X0pjNW5YT2plakRTTUU5aVJhN1JLc1JaQm9vdW5BTmRnd9IBakFVX3lxTE1mS2JxZE93ZUNYVDJxNDl0Mm9QeFh0cklRMDlFSkNsLUQyMjNNR0g1OTZNZDhLdWNDWkJTVndyTWwzbThscWJNa2lOaGFRVnZUQVRBR2IyWTYtdy1zYTdkTmNOOFdIWU9zUWc?oc=5",
-    "title": "[글로벌] AMD도 '1조달러 클럽'…엔비디아 독주하던 AI칩 시장 달라진다",
-    "summary": [
-      "[글로벌] AMD도 '1조달러 클럽'…엔비디아 독주하던 AI칩 시장 달라진다 테크M."
-    ],
-    "chips": [
-      "#AI",
-      "#엔비디아"
-    ]
-  },
-  {
     "id": "na6d22b09",
     "category": "스포츠",
     "source": "경기일보",
-    "time": "3시간 전",
+    "time": "8시간 전",
     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE11U1hseFNuTzV6YUoyOWxkOURqZjlTV1FEWEo1S09LazhsM2FnNTRLQk4zWjVETkZXLXphOHRxMldQazEzMVhJN2RLV3p5MUphUThhYmZvOE41R1U?oc=5",
     "title": "추석 연휴, 프로야구·축구 현장도 열기 ‘팔팔’",
     "summary": [
@@ -60,10 +45,24 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n08ec2428",
+    "category": "IT",
+    "source": "위키트리",
+    "time": "8시간 전",
+    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9BSjhuZGpGNHJiQnhYNnUwOFZSWGJ6VElhdlF4Q2lCYTJRR21WLTBSd3pZeTBzRjJNQWlOcXdjQzVvMk0zSEZHYlAtWjk4UDhQMHJjb2ZR?oc=5",
+    "title": "엔비디아·브로드컴·마이크론 이어…시총 1조 달러 클럽 합류한 '이곳'",
+    "summary": [
+      "엔비디아·브로드컴·마이크론 이어…시총 1조 달러 클럽 합류한 '이곳' 위키트리."
+    ],
+    "chips": [
+      "#엔비디아"
+    ]
+  },
+  {
     "id": "n601c635b",
     "category": "IT",
     "source": "핀포인트뉴스",
-    "time": "9시간 전",
+    "time": "14시간 전",
     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBMdUhKb2d0TzdLUEtnUHlnWHZjblhqRFVRWU1DZDNHaHZ0X1MzZGo2X2pkS2hRNm1OZE1sdHhET3Q4MFVvdDhKajR5cmZxVENWS0swU3hXYjhRdWl2dGtBNUVlNjZqMUJoMFVHN1ZFTW5HSTjSAXdBVV95cUxNZ1JjUXI3Q2dqSEdIWGFkODJNYVVKZFZHNjlaQUp4M1RjXzZXWFpXSGhmTkxCUER4VlFRUk1GcWpVLTVXZkRiQ2FxTXBhUDQtOVJ1WFEyY3BfMlhlQktDOE1peVI4WmxZMktnSG1xZkxKWnd5S1ZJNA?oc=5",
     "title": "삼성 반도체 '좋은 신호' 쏟아진다…HBM4·D램·파운드리 동반 개선",
     "summary": [
@@ -77,7 +76,7 @@ window.NEWS_DB = [
     "id": "na60b4f10",
     "category": "IT",
     "source": "글로벌이코노믹",
-    "time": "13시간 전",
+    "time": "17시간 전",
     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNX19oSzIxdFJrVHJyVl9hS25rZm1fNENwM0JVWnlETTVNa2pKMEo0T01OSnUxYkNTSUdKNC1ndmpRSVQ1V0lNQW9pV0h1OTc5Q2lzcGZFQ0dIRmNFX2VQUjctS2pXRVVMYzR2TlIyRkRnbW1aQmFIaGpnSl9zbVM1a1lDM2M4YTNh?oc=5",
     "title": "엔비디아 루빈 품는 삼성, HBM4 유리기판 캐리어 조달 2.5배 늘려 AI 반도체 정조준",
     "summary": [
@@ -93,7 +92,7 @@ window.NEWS_DB = [
     "id": "n7375813f",
     "category": "IT",
     "source": "머니투데이",
-    "time": "15시간 전",
+    "time": "20시간 전",
     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5mTVdSUmdiaTEwVmY2ZjlheERoOXpWeHk1Z3JsZEpKRFRZX0s3UHhkWEMyOTA4X0pLSzFGR29tZzVCNDM1bWlkSno2b0EwZ0pRRzhhcFBvVXpMSEx4V3pHbFZmcXIxemJzRXc1adIBckFVX3lxTE1JcW5NQm85WG9PVXRtbEptS1Y0S2dEazhrSTdUbmtlZ294QlBnbDdPM3A0SS1VbTlaMGZHZ3BOM0V2MmQ0YzM1bjRETzJGd0VVMEwzc1o1RnRWSmpacFdXeXZxZVg4cTFfYWM4NEgxb2pvUQ?oc=5",
     "title": "HBM에 웃는 파운드리… 삼성, 4나노 증설 채비 - 머니투데이",
     "summary": [
@@ -208,29 +207,14 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n689e4e53",
-    "category": "IT",
-    "source": "관악FM",
-    "time": "8일 전",
-    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5XRXA4X1ZRU1VLLXU1VDN6a0JmdmxDbW5BdXRua0hVQzNpSXAtbjF6bFRkMkE3amdpMDVsWm0wcEtnTFAzR0xQZTBpVQ?oc=5",
-    "title": "“관악S밸리에서 미래 유니콘의 꿈을!” 관악구, 2026년 제3차 신규 입주기업 최대 20개사 모집",
-    "summary": [
-      "“관악S밸리에서 미래 유니콘의 꿈을!” 관악구, 2026년 제3차 신규 입주기업 최대 20개사 모집 관악FM."
-    ],
-    "chips": [
-      "#스타트업",
-      "#채용"
-    ]
-  },
-  {
     "id": "n1b86d5ce",
     "category": "부동산",
-    "source": "한국주택경제신문",
+    "source": "arunews.com",
     "time": "12일 전",
     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1OZzh5T2VHNnBWYWlYeDRuaHBfRDBreHNNdlhfNXVwRy0tWVE4Q0VHSDRuUjc0VVQ3WnFLMk1kTHc4QlpGb3VvN3N4T3dRRnZQd3o1akRjZFl0NGhxNEpDeTlKS0xxV0Yx?oc=5",
     "title": "강남 꺾이고 강북 뛰었다…역세권·중저가 대단지가 집값 견인",
     "summary": [
-      "강남 꺾이고 강북 뛰었다…역세권·중저가 대단지가 집값 견인 한국주택경제신문."
+      "강남 꺾이고 강북 뛰었다…역세권·중저가 대단지가 집값 견인 arunews.com."
     ],
     "chips": [
       "#부동산"
@@ -293,6 +277,20 @@ window.NEWS_DB = [
     "chips": [
       "#금리",
       "#환율"
+    ]
+  },
+  {
+    "id": "nba668fc0",
+    "category": "IT",
+    "source": "한국방송뉴스",
+    "time": "146일 전",
+    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1XaThhZXFiX3dDT0NrYVFwZ2dhNTgxbHU0WE5Bc21vcGVzR0d2Wkh2Zm5pS2MyZ1JkYlhHb2VfRkhkemdEX1F6Q1RtajJLRzR6dDdHcExQelAyS2N1OUE?oc=5",
+    "title": "1조 8000억 규모 벤처펀드 선정…\"벤처·스타트업에 적시 공급\"",
+    "summary": [
+      "1조 8000억 규모 벤처펀드 선정…\"벤처·스타트업에 적시 공급\" 한국방송뉴스."
+    ],
+    "chips": [
+      "#스타트업"
     ]
   },
   {
@@ -361,277 +359,275 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nee6cb06e",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "3분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260922142851051",
-    "title": "상어 '부캉이' 장기체류 조짐…추석 연휴 후 외해 유도 검토(종합)",
+    "id": "n3e1d901a",
+    "category": "IT",
+    "source": "테크M",
+    "time": "방금 전",
+    "url": "https://www.techm.kr/news/articleView.html?idxno=155499",
+    "title": "[글로벌] AMD도 '1조달러 클럽'…엔비디아 독주하던 AI칩 시장 달라진다",
     "summary": [
-      "(부산=연합뉴스) 이영재 기자 = 부산 동구 북항 친수공원의 인공 수로에 들어온 상어가 '장기 체류' 조짐을 보임에 따라 부산시를 비롯한 유관 ..."
+      "엔비디아가 사실상 독주하던 인공지능(AI) 반도체 시장에 변화가 나타나고 있다.",
+      "엔비디아의 뒤를 쫓던 AMD가 사상 처음 시가총액 1조달러를 넘어섰다.",
+      "AI 데이터센터 투자가 계속될 것이란 기대에 AMD가 개별 칩을 넘어 서버와 네트워크까지 아우르는 AI 시스템 사업으로 영역을 넓힌 점이 맞물린 것으로 보인다.22일 주요 외신 보도에 따르면 AMD 주가는 장중 9.6% 오른 613.31달러까지 치솟으며 사상 최고치를 기록했다."
     ],
     "chips": [
-      "#뉴스"
+      "#AI",
+      "#반도체",
+      "#엔비디아"
     ]
   },
   {
-    "id": "n99c54969",
+    "id": "n9f6f2bfb",
+    "category": "IT",
+    "source": "뉴시스",
+    "time": "4분 전",
+    "url": "https://www.newsis.com/view/NISX20260922_0003799583",
+    "title": "\"1년도 안 돼 38배 뛰었다\"…AI 타고 불붙은 '베니스토큰'",
+    "summary": [
+      "[서울=뉴시스]이지영 기자 = 프라이버시 AI 플랫폼 베니스(Venice)의 자체 코인 '베니스토큰(VVV)'이 인공지능(AI) 열풍을 타고 사상 최고가를 찍었다.",
+      "AI 코인 시장이 빠르게 커지는 가운데 개인정보 보호를 앞세운 서비스가 주목받으면서 매수세가 쏠린 것으로 풀이된다.",
+      "22일(현지시간) 디크립트에 따르면 베니스토큰은 전날 한때 34.51달러에 거래되며 사상 최고가를 경신했다."
+    ],
+    "chips": [
+      "#AI"
+    ]
+  },
+  {
+    "id": "n77e745ab",
+    "category": "IT",
+    "source": "뉴시스",
+    "time": "6분 전",
+    "url": "https://www.newsis.com/view/NISX20260923_0003801146",
+    "title": "[속보]트럼프 \"美, AI 통제하려는 글로벌 사기 완전히 거부\"",
+    "summary": [
+      "후속기사가 이어집니다 ◎공감언론 뉴시스 sympathy@newsis.com."
+    ],
+    "chips": [
+      "#AI"
+    ]
+  },
+  {
+    "id": "ncc39d2b2",
     "category": "사회",
     "source": "뉴시스",
     "time": "7분 전",
-    "url": "https://www.newsis.com/view/NISX20260922_0003800365",
-    "title": "유리, '전국노래자랑'서 손뼉 치며…찐 제주도민 된 근황",
+    "url": "https://www.newsis.com/view/NISX20260922_0003799479",
+    "title": "\"며느리가 시아버지 꾀어\" 괴소문 퍼뜨린 새어머니…법적 처벌 가능할까",
     "summary": [
-      "[서울=뉴시스]박재민 인턴 기자 = 그룹 소녀시대 유리가 KBS 1TV 음악 프로그램 '전국노래자랑' 제주도 공연장에서 포착됐다.",
-      "전국노래자랑 소셜미디어 운영자는 21일 소셜미디어에 \"제주특별자치도 서귀포시 편.",
-      "늘 환영합니다\"라는 글과 함께 영상 하나를 올렸다."
+      "[서울=뉴시스]이지우 인턴 기자 = 새어머니가 아내를 몰래 험담한 사실을 알고 충격을 받았다는 남성의 사연이 전해졌다.",
+      "21일 JTBC '사건반장'은 30대 후반 남성 A씨의 제보를 보도했다.",
+      "A씨의 아버지는 A씨가 중학생일 당시 새어머니와 재혼했다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "nc45ff263",
-    "category": "경제",
-    "source": "연합뉴스(경제)",
-    "time": "8분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260922188400008",
-    "title": "'회생절차' 제이알글로벌리츠, 감사의견 '거절'…상폐 사유 발생",
-    "summary": [
-      "(서울=연합뉴스) 정회인 기자 = 회생절차를 밟고 있는 제이알글로벌리츠[348950]가 외부감사인으로부터 감사의견 '거절'을 받으면서 상장폐지 ..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nf64ae2f7",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "9분 전",
-    "url": "https://www.newsis.com/view/NISX20260922_0003800960",
-    "title": "[AD]현대차, '트랜스로컬 시리즈: 호 추 니엔' 전시 개막",
-    "summary": [
-      "[울산=뉴시스] 현대자동차는 '현대 트랜스로컬 시리즈'의 두번째 전시인 '현대 트랜스로컬 시리즈: 호 추 니엔(Hyundai Translocal Series: Ho Tzu Nyen)' 展이 오는 24일(현지시간)부터 2027년 1월 24일까지 미국 뉴욕 뉴 뮤지엄(New Museum)에서, 10월 22일부터 2027년 2월 21일까지 울산시립미술관에서 순차적으로 개최된다고 22일 밝혔다.",
-      "현대 트랜스로컬 시리즈는 국내외 예술 기관들의 상호 협력."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "ne1cf02d7",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "9분 전",
-    "url": "https://www.donga.com/news/Society/article/all/20260922/134722975/1",
-    "title": "“교실서 콩주머니 던지다 다쳐”…2년 지나 교사 고소한 학부모",
-    "summary": [
-      "초등학생이 교실에서 콩주머니를 던지고 받는 활동을 하다 넘어져 무릎을 다친 사건과 관련해 학부모가 당시 교사를 업무상과실치상 혐의로 고소했다.",
-      "학부모는 미끄러질 위험이 있는 교실에서 안전조치 없이 활동이 진행됐다고 주장했지만, 교사 측은 예측하기 어려운 우연한 사고였다고 반박했다.22일 고소장과 교육계에 따르면 서울의 한 초등학교 학부모 A씨는 지난 6월 자녀의 안전관리를 소홀히 했다며 사고 당시 임시 담임교사 B씨를 경찰에 고소했다."
-    ],
-    "chips": [
-      "#교육"
-    ]
-  },
-  {
-    "id": "n54d9bf6c",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "9분 전",
-    "url": "https://www.donga.com/news/Society/article/all/20260922/134722972/1",
-    "title": "“이러다 죽을 수도”…김창민 감독 폭행사건 목격자 법정 증언",
-    "summary": [
-      "김창민 영화감독 폭행 사망사건 핵심 목격자가 당시 현장에 대해 “이러다 죽을 수도 있겠다고 생각했다”고 법정에서 증언했다.의정부지법 남양주지원 제1형사부(부장판사 김국식)는 22일 살인, 장애인복지법 위반 등 혐의로 구속 기소된 30대 A 씨와 B 씨의 5차 공판을 열었다.이날 재판에는 A 씨와 B 씨의 지인 C 씨가 증인으로 출석했다.",
-      "C 씨는 사건 발생 당시 피고인들과 같은 테이블에서 식사했던 핵심 목격자다.C 씨는 골목에서 새우처럼 웅크린."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "na0fd1433",
-    "category": "스포츠",
-    "source": "뉴시스",
-    "time": "9분 전",
-    "url": "https://www.newsis.com/view/NISX20260922_0003800985",
-    "title": "'차세대 에이스' 최민석, 성공적인 대표팀 데뷔…홍콩전 2이닝 퍼펙트[나고야AG]",
-    "summary": [
-      "[서울=뉴시스]문채현 기자 = 올 시즌 KBO리그 최고의 선발로 떠오른 최민석(두산 베어스)이 태극마크 데뷔 무대에서도 구위를 증명했다.",
-      "최민석은 22일 오후 6시30분 일본 아이치현 도요하시 시민구장에서 열린 홍콩과의 2026 아이치·나고야 아시안게임 B조 조별리그 2차전에 선발 등판해 2이닝 무실점을 기록했다.",
-      "이날 2회까지 공 18개를 던진 최민석은 안타는 물론 볼넷도 하나 내주지 않고 완벽투를 펼쳤다."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
-    "id": "n9af7f306",
+    "id": "n13b0b5e9",
     "category": "스포츠",
     "source": "조선일보",
-    "time": "11분 전",
-    "url": "https://www.chosun.com/sports/sports_general/2026/09/22/GI2WGNBUGUZDOOLDMNRTEYRUHE/",
-    "title": "'어깨부상 투혼' 김우민 1500m 8위 '충격'...막내 김준우 5위 선전-中 괴력의 장잔숴 金 2관왕[아이치-나고야아시안게임]",
+    "time": "7분 전",
+    "url": "https://www.chosun.com/entertainments/broadcast/2026/09/23/MVRGGZTBMVTGIOLFMU2DCYRWGU/",
+    "title": "기성용♥한혜진, 딸 앞에서 막 쓰는 얼굴..그래도 선남선녀 “미혼들 결혼 장려”",
     "summary": [
-      "[스포츠조선 전영지 기자]부상 투혼을 발휘한 '킹우민' 김우민(강원특별자치도청)이 두 번째 아시안게임 첫 개인전에서 8위에 머물렀다.",
-      "김우민은 22일 오후 일본 도쿄 아쿠아틱스센터에서 열린 2026년 아이치-나고야아시안게임 남자 자유형 1500ｍ 결선에서 15분16초52의 기록으로 8위에 올랐다.",
-      "전날 계영 800m에서 동메달을 합작한 '19세 막내' 김준."
+      "[OSEN=임혜영 기자] 축구선수 기성용이 가족사진을 공개했다.기성용은 22일 개인 채널에 “오랜만에♥ day off”라는 글과 함께 여러 장의 사진을 게재했다.기성용, 한혜진, 딸은 네 컷 사진을 촬영 중인 모습이다.",
+      "세 사람은 똑같은 자세를 취하거나 손으로 하트를 만드는 등 사랑을 듬뿍 드러내고 있다.특히 눈길을 끄는 것은 기성용과 한혜진의 우스꽝스러운."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "neea8a790",
+    "id": "ne7a00880",
     "category": "사회",
     "source": "연합뉴스",
-    "time": "12분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260922184200004",
-    "title": "\"대법원장 자기 정치\" vs \"법리적 판단\"…재제청 거부 평가 엇갈려",
-    "summary": [
-      "(서울=연합뉴스) 이영섭 김빛나 기자 = 조희대 대법원장이 22일 청와대의 대법관 후보자 재제청 요구를 거부한 것과 관련해 법원 내부에서도 평가..."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n8e4cc64a",
-    "category": "경제",
-    "source": "아시아경제",
-    "time": "13분 전",
-    "url": "https://view.asiae.co.kr/article/2026092219182336644",
-    "title": "윤정현, AG 남자 플뢰레 개인전 동메달…'펜싱 대표팀 첫 메달'",
-    "summary": [
-      "윤정현(화성시청)이 한국 펜싱 대표팀에 첫 메달을 안겼다.",
-      "국제펜싱연맹(FIE) 랭킹 32위인 윤정현은 22일 일본 아이치현 도코나메의 아이치 스카이 엑스포에서 열린 2026 아이치·나고야 아시안게임 남자 플뢰레 준결승전에서 라이언 초이(홍콩·세계 7위)에게 13-15로 졌다.",
-      "펜싱 남자 플뢰레 개인전에서는 준결승 패자 2명에게 공동 동메달을 준다."
-    ],
+    "time": "7분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260923000300071",
+    "title": "[속보] 트럼프, 유엔총회 연설서 대북 메시지 포함 안 해",
+    "summary": [],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n04681679",
-    "category": "사회",
+    "id": "nd08a3bb4",
+    "category": "IT",
     "source": "연합뉴스",
-    "time": "17분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260922187800004",
-    "title": "대법 전합, 김건희 상고심 29일 심리…한덕수·이상민 사건도",
-    "summary": [
-      "(서울=연합뉴스) 이미령 기자 = 대법원 전원합의체가 오는 29일 김건희 여사의 3대 의혹 사건과 한덕수 전 국무총리, 이상민 전 행정안전부 장..."
-    ],
+    "time": "8분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260923000200071",
+    "title": "[속보] 트럼프 \"미국, AI 통제하려는 음모적 시도 완전히 거부\"",
+    "summary": [],
     "chips": [
-      "#뉴스"
+      "#AI"
     ]
   },
   {
-    "id": "n9a906e18",
-    "category": "부동산",
+    "id": "n5fae5a45",
+    "category": "사회",
     "source": "뉴시스",
-    "time": "18분 전",
-    "url": "https://www.newsis.com/view/NISX20260922_0003801024",
-    "title": "홍지선 국토장관, 첫 행보 부천대장…\"주택공급은 계획보다 실행\"",
+    "time": "9분 전",
+    "url": "https://www.newsis.com/view/NISX20260922_0003799489",
+    "title": "\"한국 맞냐\" 외곽 도로 가로막고 차량 습격한 외국인 남성 2명 '충격'",
     "summary": [
-      "[서울=뉴시스]이종성 기자 = 홍지선 신임 국토교통부 장관이 취임 후 첫 주택공급 현장으로 3기 신도시인 부천대장지구를 찾아 공급 일정과 공사 진행 상황을 점검했다.",
-      "국토부는 홍 장관이 22일 경기 부천대장 공공주택지구를 방문해 택지 조성과 주택공급 추진 현황을 점검했다고 이날 밝혔다.",
-      "이재명 대통령이 이날 홍 장관 임명안을 재가한 뒤 이뤄진 첫 현장 일정이다."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n92f6f5c9",
-    "category": "경제",
-    "source": "연합뉴스(경제)",
-    "time": "19분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260922073652002",
-    "title": "이형일 \"국부펀드 차질 없이 준비…성과는 국민께 돌아가도록\"(종합2보)",
-    "summary": [
-      "(세종=연합뉴스) 안채원 송정은 기자 = 이형일 신임 부총리 겸 재정경제부 장관은 22일 \"한국판 전략형 국부펀드를 차질 없이 준비해나가겠다\"고..."
+      "[서울=뉴시스]장인혜 인턴 기자 = 경기도 이천시의 한 외곽 도로에서 차 한 대가 다른 차를 뒤쫓다가 차를 가로막고 남성 2명이 내려 위협했다는 사연이 전해졌다.",
+      "지난 21일 JTBC '사건반장'에 따르면, 사건은 지난 7월 29일 오후 10시40분께 경기도 이천시의 한 왕복 2차선 도로에서 발생했다.",
+      "당시 운전자 A씨는 갓길에 차를 세워두고 지인과 약 30분간 이야기를 나눈 뒤 출발하려던 상황이었다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "ne2678acc",
+    "id": "n6cbace79",
     "category": "사회",
-    "source": "동아일보",
-    "time": "20분 전",
-    "url": "https://www.donga.com/news/Politics/article/all/20260922/134722898/2",
-    "title": "민주당, 조희대 재제청 거부에 “위헌적 발상·제왕적 사법관”",
+    "source": "조선일보",
+    "time": "9분 전",
+    "url": "https://www.chosun.com/entertainments/broadcast/2026/09/23/GM3TAODGMJRWKYLCGQ4DOMZUMQ/",
+    "title": "눈썹칼로 ‘싹둑’ ..구혜선, 셀프미용 머리 찰떡..“마음에 들어요” 만족",
     "summary": [
-      "더불어민주당은 22일 청와대의 대법관 후보 재제청 요구를 거부한 조희대 대법원장을 향해 “대통령의 헌법적 임명권을 침해하고 본질적으로 국민의 헌법적 권리를 침해하는 도발”이라며 강하게 비판했다.",
-      "또 “국민으로부터 민주적 정통성을 부여받은 대통령의 헌법상 권한을 무력화하고 제청안 수용만을 강요하는 태도는 그 자체로 위헌적 발상이자 제왕적 사법관일 뿐”이라고 지적했다.",
-      "더불어민주당은 이날 오후 여의도 국회 본청 로텐더홀 계단에서 ‘조희대 대법원장."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "ndc8e1871",
-    "category": "사회",
-    "source": "아시아경제",
-    "time": "28분 전",
-    "url": "https://view.asiae.co.kr/article/2026092219034870043",
-    "title": "예멘 반군·정부군 충돌 격화…이틀간 최소 154명 사망·피란민 13만명 육박",
-    "summary": [
-      "예멘 남부 고원지대에서 친이란 후티 반군과 사우디아라비아 주도 연합군의 지원을 받는 예멘 정부군 간의 무력 충돌이 격화하면서 이틀간 최소 154명이 사망하고 대규모 피란민이 발생하는 등 인명 피해가 급증하고 있다.",
-      "22일(현지시간) AFP통신 등 외신에 따르면 타이즈, 알자우프, 마리브, 사다 등 예멘 내 주요 격전지에서 사우디 연합군의 공습과 포격으로 후티 반군 측 118명이 숨졌으며, 예멘 정부군 병력도 36명이 전사했다."
+      "[OSEN=김수형 기자] 기사도 앞선 기사와 겹치지 않게 22일 현재 모습부터 시작하고, 13일 셀프 커트는 뒤에서 짧게 설명하면 돼.배우 구혜선이 직접 자른 헤어스타일에 만족감을 드러냈다.구혜선은 22일 자신의 SNS에 “날씨가 너무 좋아서.",
+      "칼퇴근했어요.ㅎㅎㅎ 자른 머리가 마음에 들어요”라는 글과 함께 여러 장의 사진을 공개했다.사."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n722cdcbb",
+    "id": "nc9188fdb",
     "category": "스포츠",
-    "source": "아시아경제",
-    "time": "30분 전",
-    "url": "https://view.asiae.co.kr/article/2026092219013324527",
-    "title": "남자 혼계영 400m 동메달…2회 연속 아시안게임 메달",
+    "source": "머니투데이",
+    "time": "10분 전",
+    "url": "https://www.mt.co.kr/sports/2026/09/23/2026092223054122288",
+    "title": "\"내가 흔들리면 팀 전체가 흔들린다\" 아파도 버틴 '캡틴' 이기혁... 8강 베트남전엔 \"더 독하게 마음 먹겠다\"",
     "summary": [
-      "한국 수영 대표팀이 22일 동메달 하나를 추가했다.",
-      "수영 경영 경기 사흘째인 이날 남자 혼계영 400m에서 동메달을 수확했다.",
-      "이주호(배영), 최동열(평영), 양재훈(접영), 김영범(자유형)으로 팀을 꾸린 한국은 22일 일본 도쿄 아쿠아틱스 센터에서 열린 2026 아이치·나고야 아시안게임 남자 혼계영 400m 결선에서 3분31초97의 한국신기록을 세우며 중국(3분27초89), 일본(3분28초70)에 이어 3위를 차지했다."
+      "한국 23세 이하(U-23) 축구대표팀 주장 이기혁(강원FC)이 통증에도 끝까지 그라운드를 지켰다.",
+      "자신이 중심을 잡아야 동료들도 흔들리지 않는다는 책임감으로 팀을 이끌었다.",
+      "이민성 감독이 지휘하는 한국은 22일 일본 나고야 미즈호 공원 럭비경기장에서 열린 2026 아이치·나고야 아시안게임 남자축구 조별리그 D조 2차전에서 사우디아라비아를 2-0으로 꺾었다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n14601554",
+    "id": "nd48bbdc1",
     "category": "사회",
-    "source": "동아일보",
-    "time": "33분 전",
-    "url": "https://www.donga.com/news/Politics/article/all/20260922/134721964/1",
-    "title": "한미일 “북한 완전한 비핵화” 외치면서도 대화 열어둬",
+    "source": "연합뉴스",
+    "time": "10분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260922199600087",
+    "title": "허리케인 '폴로' 최고등급으로 격상…멕시코 긴장",
     "summary": [
-      "한미일 외교장관이 21일(현지시간) 공동성명에서 “북한의 완전한 비핵화에 대한 확고한 의지”를 밝히면서도 북한과의 대화 가능성을 열어뒀다.",
-      "공동성명에선 북한이 ‘반사적 대응 조치’를 위협하며 반발한 한미일 3국 연합훈련 ‘프리덤 에지’의 정기 실시와 북-러 군사협력을 규탄하는 문구도 삭제됐다.조현 외교부 장관, 마코 루비오 미 국무장관, 모테기 도시미쓰(茂木敏充) 일본 외상은 이날 미국 뉴욕에서 열린 한미일 외교장관회의 후 이같은 내용의 공동성."
+      "(멕시코시티=연합뉴스) 송광호 특파원 = 태평양 연안에서 발생한 허리케인 '폴로'(Polo)가 최고 등급으로 격상되면서 멕시코 당국과 주민들이 ..."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n91c001cf",
+    "id": "n4478b7f3",
     "category": "사회",
-    "source": "아시아경제",
-    "time": "33분 전",
-    "url": "https://view.asiae.co.kr/article/2026092218581863533",
-    "title": "“인구는 늘고 기반시설은 후퇴”…평택시, 고덕신도시 현안 해결 나섰다",
+    "source": "머니투데이",
+    "time": "12분 전",
+    "url": "https://www.mt.co.kr/world/2026/09/23/2026092223595066436",
+    "title": "[속보]트럼프, 유엔 연설서 \"3선 출마 없다…공화당 지원\"",
     "summary": [
-      "경기 평택시(시장 최원용)가 고덕국제화계획지구의 오랜 현안을 해결하고 지역 주민들의 목소리를 직접 반영하기 위해 '민·관·공 협의체'를 구성하고 본격적인 가동에 나섰다.",
-      "평택시는 22일 시청 도시정책회의실에서 '고덕국제화계획지구 민·관·공 협의체' 첫 회의를 개최했다고 밝혔다.",
-      "이번 협의체는 지난 8월 국회 현안 간담회에서 제기된 '주민 소통 협의기구' 설립 필요성을 반영해 조성된 민관 협력 기구다."
+      "도널드 트럼프 미국 대통령이 22일(현지시간) 미국 뉴욕 유엔 본부에서 열리는 유엔 총회에서 미국 차기 대선에 출마하지 않을 것이라고 밝혔다...."
     ],
     "chips": [
-      "#정책",
       "#정치"
+    ]
+  },
+  {
+    "id": "n870397d5",
+    "category": "스포츠",
+    "source": "머니투데이",
+    "time": "13분 전",
+    "url": "https://www.mt.co.kr/sports/2026/09/23/2026092222242793433",
+    "title": "'왜 이토록 잦은 사망사고가 일어나나' 열도 충격, 간판급 베테랑 스타 투병 끝에 별세 \"은퇴 안 한다고 했는데...\"",
+    "summary": [
+      "일본 경륜 최고 리그에서 활약해 온 베테랑 선수가 경기 도중 발생한 낙차 사고로 끝내 세상을 떠났다.",
+      "일본 매체 '스포니치 아넥스'는 22일 \"모로하시 메구무 선수가 21일 숨을 거뒀다.",
+      "향년 49세\"라며 \"사인은 경추 손상에 의한 다발성 장기부전이다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n59e5227e",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "14분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260921183000017",
+    "title": "[사이테크+] \"43억3천만년 전 지구, 'RNA 세계' 자리 잡을 조건 갖춘 듯\"",
+    "summary": [
+      "(서울=연합뉴스) 이주영 기자 = 지구에 생명이 등장하기 전 유전정보를 저장, 복제하는 RNA 중심의 'RNA 세계'가 존재했다면, 그에 필요한..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n07354bf1",
+    "category": "사회",
+    "source": "머니투데이",
+    "time": "25분 전",
+    "url": "https://www.mt.co.kr/world/2026/09/22/2026092223472622405",
+    "title": "[속보]트럼프 \"중간선거 직후 이란과 합의하게 될 것\"",
+    "summary": [
+      "도널드 트럼프 미국 대통령이 22일(현지시간) \"이란은 위대한 나라로 재건할 수 있도록 합의할지, 아니면 이 나라를 전멸시켜 다시는 사람과 나라를 죽이고 파괴할 기회조차 주지 않을지의 중대한 결정을 앞두고 있다\"며 \"오는 11월 (미국) 중간선거 직후에 합의가 이뤄질 것이라고 믿는다\"고 말했다.",
+      "트럼프 대통령은 이날 뉴욕 유엔본부에서 열린 제81차 유엔총회 일반토의 연설에서 이같이 밝혔다.",
+      "트럼프 대통령은 또 \"이란은 절대로 핵무기를 가질 수."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "nea6cbb53",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "31분 전",
+    "url": "https://www.chosun.com/international/us/2026/09/22/L4KZLXGAE5EJBBTTE7N4FA7FY4/",
+    "title": "트럼프 “이란과 합의할지 소멸시킬지 큰 결정할 것”",
+    "summary": [
+      "트럼프 “이란과 합의할지 소멸시킬지 큰 결정할 것”."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "na042b855",
+    "category": "경제",
+    "source": "아시아경제",
+    "time": "35분 전",
+    "url": "https://view.asiae.co.kr/article/2026092223350115801",
+    "title": "박완수 경남지사, 추석 전 통영·거제 민생 살피기 나서",
+    "summary": [
+      "박완수 경남도지사가 올여름 극한호우로 큰 피해를 본 통영과 거제를 찾아 민생을 살폈다.",
+      "박 도지사는 21일 통영 중앙전통시장을 찾아 시장 상인과 장을 보러 나온 도민들에게 한가위 인사를 건네며 명절 전 시장 분위기를 살피고 현장 목소리에 귀를 기울였다.",
+      "건어물, 활어, 채소, 어패류 점포 등을 차례로 돌며 제수용품을 직접 사면서 장바구니 물가도 점검했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n85d74a37",
+    "category": "IT",
+    "source": "아시아경제",
+    "time": "36분 전",
+    "url": "https://view.asiae.co.kr/article/2026092223092303422",
+    "title": "경남대표단 성과 안고 귀국 … 1000억원 투자유치·제조AI 발전·판로 확대 등",
+    "summary": [
+      "박완수 도지사가 이끈 경남대표단이 3박 4일의 중국 출장에서 1000억원 규모 투자유치와 150명 신규고용, 관광객 유치, 인공지능(AI) 기술을 접목한 제조업 발전 방안, 수출 판로 확대 등의 성과를 갖고 돌아왔다.",
+      "박 도지사와 경남대표단은 지난 17일부터 20일까지 중국 상하이와 쑤저우를 방문했다.",
+      "대표단은 출장 첫날 현지 대형 여행플랫폼인 '통청여행'과 경남관광 활성화를 위한 업무협약을 맺고 경남 관광콘텐츠와 상품 홍보, 여행코스 공동 개."
+    ],
+    "chips": [
+      "#AI",
+      "#수출",
+      "#고용"
     ]
   }
 ];
@@ -641,20 +637,20 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2460건",
-    "trend": "+275%"
+    "mentions": "2330건",
+    "trend": "+255%"
   },
   {
     "rank": 2,
     "tag": "AI",
-    "mentions": "1680건",
-    "trend": "+155%"
+    "mentions": "2200건",
+    "trend": "+235%"
   },
   {
     "rank": 3,
     "tag": "엔비디아",
-    "mentions": "1420건",
-    "trend": "+115%"
+    "mentions": "1550건",
+    "trend": "+135%"
   }
 ];
 // ====AUTO-GENERATED-END====
