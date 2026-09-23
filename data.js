@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-09-23 17:33:38
+// 마지막 업데이트: 2026-09-23 20:49:23
 window.NEWS_DB = [
   {
     "id": "n86f2bb7d",
     "category": "IT",
     "source": "한국경제",
-    "time": "18시간 전",
+    "time": "21시간 전",
     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5DRlpvcWZiUlFnejN6YzRfcFNLQzJoWmR2WXdQVWFuZVo5RThzRUxBaHEzUWtONVJRMGZBZGdGZU9UT2pGWVE2eU1NMXhTZjRFTy13YU1Ca2Fndw?oc=5",
     "title": "\"삼성전자, 전망보다 3분기 실적 밑돌 것…파운드리 주목해야\"-키움",
     "summary": [
@@ -92,12 +92,12 @@ window.NEWS_DB = [
   {
     "id": "n1d5f3493",
     "category": "IT",
-    "source": "mt.co.kr",
+    "source": "머니투데이",
     "time": "2일 전",
     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBkSkNuUlAwYWV5b19sYThEQ0RvUlF6MDd6d3c5YUtvUVJZTjhjaF91Szc5WTFpUFpNeWZEUGMzNkZvRXpZNGROd1NrazdGMEJRR25FS0NxT2N1bGNkTU8wSXBnVzUwblg4UHdYOdIBckFVX3lxTE5wWVdYWENCNGxfSVNPbzh1a2hBdXNQX2ZOSXZGMFEwRVk0bzNqU0RNTDBzTERDWnhxc2RudnU2RFEtUjZ5NEtXOFZiSzE5Y21ocmZZUXNaVjE1NkRfWWJPajgwZDFFWkJzZk5iM1JUYWtiUQ?oc=5",
     "title": "HBM에 웃는 삼성 파운드리…첨단 공정 생산능력 확대 채비 - 머니투데이",
     "summary": [
-      "HBM에 웃는 삼성 파운드리…첨단 공정 생산능력 확대 채비 - 머니투데이 mt.co.kr."
+      "HBM에 웃는 삼성 파운드리…첨단 공정 생산능력 확대 채비 - 머니투데이 머니투데이."
     ],
     "chips": [
       "#반도체"
@@ -118,11 +118,11 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n4139c6ff",
+    "id": "n1ebf737b",
     "category": "스포츠",
     "source": "글로벌E",
     "time": "2일 전",
-    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9UMUQzU240aDJOWVlQZkZZUFNmdm9SMmNIWGRMdS1nNGhYUm9PN2hnWHNWUDQ4azdDZ3FWRnJRcFZ1dERjaDUzZnF5MEsxeXU3cWZ1UWJRUDk2Q25UUVpKQ1MzQjlKaDBCZm5EWGtTc9IBb0FVX3lxTE9UMUQzU240aDJOWVlQZkZZUFNmdm9SMmNIWGRMdS1nNGhYUm9PN2hnWHNWUDQ4azdDZ3FWRnJRcFZ1dERjaDUzZnF5MEsxeXU3cWZ1UWJRUDk2Q25UUVpKQ1MzQjlKaDBCZm5EWGtTcw?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1xdGdqbUJjMXkyZFRRYi1ETklIZmlIQlFHYS1ZemlEaU5IQ0hCQkR1Wm5pYVVJUl9jX2s3Z08ydEpxdFM2elFVdjNFdlhxMlRsUVhQY3JKRVdRWG5WUlpOR2hNemdnbVdrWElv0gFvQVVfeXFMT1QxRDNTbjRoMk5ZWVBmRllQU2Z2b1IyY0hYZEx1LWc0aFhSb083aGdYc1ZQNDhrN0NncVZGclFwVnV0RGNoNTNmcXkwSzF5dTdxZnVRYlFQOTZDblRRWkpDUzNCOUpoMEJmbkRYa1Nz?oc=5",
     "title": "이베이, K-스포츠 굿즈 역직구 급증···KBO 매출 전년 대비 2.9배↑",
     "summary": [
       "이베이, K-스포츠 굿즈 역직구 급증···KBO 매출 전년 대비 2.9배↑ 글로벌E."
@@ -135,7 +135,7 @@ window.NEWS_DB = [
     "id": "n4b5b1b4c",
     "category": "IT",
     "source": "동아일보",
-    "time": "2일 전",
+    "time": "3일 전",
     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1xTjcyQlhoVThkWURTV09wQ2RqQXNZOHNHZVRpWnNtWVdsMkUyQnhqVFNRbTFkeWFUdndZcDNkdGQyTjhLaU5DZnVxT0Y3VER4eXlrWl9ZVnAyX2Y3WWlzX3VRbnA4TEFiNDVwRi1WM08xQWNZeUHSAWZBVV95cUxQSEhpWHowNVFoRXgxcG81ZGJVRzhFbl9MM2wwYXpZd3g4X0NEMm8tdmtocktfUmQ5eF9TTDU4clZFbW5KLUllNkVRQU9PSEd5eHBtZHR1VFRfR2duOUlNSmhSdFhlUkE?oc=5",
     "title": "[단독]‘엔비디아 천하’ AI칩, 국산 상용화 첫발… “의존 낮출 선택지 기대”",
     "summary": [
@@ -211,12 +211,12 @@ window.NEWS_DB = [
   {
     "id": "n93c2ed2f",
     "category": "IT",
-    "source": "경북매일",
+    "source": "kbmaeil.com",
     "time": "8일 전",
     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5xWGQzcWdTT2JoUFptNVhrN2RETlFyQi1BcU9meDlrYmlYenE1U0J2VmgyRk05SnJjMXFsNXRyNzZ6ZUJjLUNZdmFRVU9HcEVsNS1qdGdIOGxsZw?oc=5",
     "title": "대구경북 스타트업 한자리에…추경호 시장 “지역서 유니콘 키운다”",
     "summary": [
-      "대구경북 스타트업 한자리에…추경호 시장 “지역서 유니콘 키운다” 경북매일."
+      "대구경북 스타트업 한자리에…추경호 시장 “지역서 유니콘 키운다” kbmaeil.com."
     ],
     "chips": [
       "#스타트업"
@@ -254,12 +254,12 @@ window.NEWS_DB = [
   {
     "id": "n657e0140",
     "category": "경제",
-    "source": "yonhapnewstv.co.kr",
+    "source": "연합뉴스TV",
     "time": "27일 전",
     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1rdGZhcGJlUmFqWjByaGFpZG1TZHEtUnpFbjM5NF9QdzlWOXliTW0tX0ZYa0pEQXdHbUt3S3pPYVNzUGJJZEtqZHotSHZDVTVFTTlNaW1UZUstNjFGTEt2Rk1hWmZ5MjA?oc=5",
     "title": "7,000선 넘보던 코스피…금리 인상에 상승폭 축소",
     "summary": [
-      "7,000선 넘보던 코스피…금리 인상에 상승폭 축소 yonhapnewstv.co.kr."
+      "7,000선 넘보던 코스피…금리 인상에 상승폭 축소 연합뉴스TV."
     ],
     "chips": [
       "#금리"
@@ -310,116 +310,312 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n0db54e3c",
-    "category": "스포츠",
+    "id": "n12ef6587",
+    "category": "사회",
     "source": "조선일보",
-    "time": "5분 전",
-    "url": "https://www.chosun.com/sports/baseball/2026/09/24/MFSTMY3BMEYWKNZYGM4DAZTCMM/",
-    "title": "태국전에서 '용규놀이'를 보게될 줄이야…제 2의 KK도 당황했다, \"뭘 던져야할 지 모르겠더라고요\" [오카자키 현장]",
+    "time": "7분 전",
+    "url": "https://www.chosun.com/entertainments/broadcast/2026/09/24/GEYGMN3FGU3DKZJWGEZGGMRTHA/",
+    "title": "'출산 D-2주' 고우리, 임신 후 광고 줄줄 이어 \"둘째도 바로 낳을래\"('Go!우리')",
     "summary": [
-      "[오카자키=스포츠조선 이종서 기자] \"다 커트하더라고요.\" 오원석(KT 위즈)은 23일 일본 아이치현 오카자키 구장에서 열린 2026 아이치-나고야 아시안게임 B조 조별예선 3차전 태국과의 경기에 선발 등판해 4이닝 1안타 무4사구 8탈삼진 무실점을 기록했다.",
-      "그러나 첫 타자부터 쉽지 않았다."
+      "[OSEN=오세진 기자] 'Go!우리' 배우 고우리가 임신 후 밀려드는 광고에 기쁨을 감추지 못했다.지난 23일 배우 고우리의 유튜브 채널에서는 \"첫 출산을 앞두고 바로 둘째를 계획 할 수밖에 없는 고우리\"라는 영상이 공개됐다.",
+      "이날 고우리는 만삭의 몸을 이끌고 광고주를 직접 찾았다.",
+      "고우리는 \"유튜브 채널 이름도 가자는 뜻인데, 이렇게 내가 직접 움직이지."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "nb3199712",
-    "category": "경제",
-    "source": "머니투데이",
+    "id": "nf610c896",
+    "category": "IT",
+    "source": "한국경제",
     "time": "8분 전",
-    "url": "https://www.mt.co.kr/world/2026/09/24/2026092402213269018",
-    "title": "美국채 5.1% 또 폭등…\"경기 너무 강해\" 2007년 이후 최고치",
+    "url": "https://www.hankyung.com/article/202609244560i",
+    "title": "탈출한 오픈AI, 막아낸 건 뜻밖의 '중국산 AI'였다",
     "summary": [
-      "글로벌 금리 벤치마크인 미국 10년 만기 국채 금리가 23일(현지시간) 급등하면서 2007년 이후 최고 수준을 기록했다.",
-      "전자거래 플랫폼 트레이드웹에 따르면 미 10년물 국채 금리는 이날 오후 1시15분 현재 5.133%로 전장보다 0.185%포인트 올랐다.",
-      "미 국채 10년물 금리는 이날 오전 5%를 밑돌다가 S&P 글로벌의 9월 미국 구매관리자지수(PMI) 예비치가 2021년 7월 이후 62개월만에 최고치를 기록하면서 경기확장세가 예상보다 강."
+      "탈출한 오픈AI, 막아낸 건 뜻밖의 '중국산 AI'였다."
+    ],
+    "chips": [
+      "#AI"
+    ]
+  },
+  {
+    "id": "n4144557f",
+    "category": "경제",
+    "source": "뉴시스",
+    "time": "11분 전",
+    "url": "https://www.newsis.com/view/NISX20260924_0003802793",
+    "title": "뉴욕증시, 인플레 우려에 하락…美 10년물 금리 5.11% 돌파",
+    "summary": [
+      "[서울=뉴시스]박미선 기자 = 인플레이션 우려로 미국 국채 금리가 2007년 이후 최고 수준으로 치솟으면서 뉴욕증시가 일제히 하락했다.",
+      "국제유가 상승과 예상보다 강한 경제지표가 연방준비제도(Fed·연준)의 추가 금리 인상 전망을 키우며 증시에 부담을 줬다.",
+      "23일(현지 시간) 야후파이낸스에 따르면 이날 다우존스30산업평균지수는 0.68% 하락한 5만1511.59에 거래를 마쳤다."
     ],
     "chips": [
       "#금리"
     ]
   },
   {
-    "id": "n685cde2e",
+    "id": "nb8f342d1",
     "category": "사회",
-    "source": "조선일보",
-    "time": "9분 전",
-    "url": "https://www.chosun.com/jp/sports-jp/2026/09/24/Z2ONJEULDFAH5IRTJV57BKI6JY/",
-    "title": "「1点以上の好守」パク・ミン超美技",
+    "source": "연합뉴스",
+    "time": "13분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260924008600034",
+    "title": "추석 연휴 첫날 낮 최고 30도…강원 늦은 밤 비 소식",
     "summary": [
-      "[OSEN＝蚕室、ハン・ヨンソプ記者] 失点を防ぐスーパーキャッチだった。プロ野球KIAタイガースのパク・ミン（25）が、一軍昇格初日から好守で拍手喝采を浴びた。パク・ミンは23日、ソウル・蚕室球場で行われた斗山戦を前に一軍登録された。10日に軽傷で治療・リハビリ名簿入りしていたが、復帰したものだ。パク・ミンはこの日、昇格するやいなや遊撃手で先発出場した。ハ."
+      "(서울=연합뉴스) 윤민혁 기자 = 추석 연휴 첫날이자 목요일인 24일은 전국이 구름이 많은 가운데 강원 지방에는 늦은 밤부터 비가 시작되겠다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n5dc066ac",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "9분 전",
-    "url": "https://www.chosun.com/sports/baseball/2026/09/24/G5RTGMJWGY2DEYJZGRSDKNDCGY/",
-    "title": "\"1점 이상의 호수비였다\" 1군 콜업→유격수 선발→슈퍼 캐치, 호주 유학 실력 나오네, 하주석 긴장해야겠네",
+    "id": "n7a4c2c82",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "13분 전",
+    "url": "https://www.donga.com/news/Society/article/all/20260924/134730846/1",
+    "title": "“주차장 바닥에 깔린 가래떡을 차 매연으로 건조”…매연향 떡집 ‘논란’",
     "summary": [
-      "[OSEN=잠실, 한용섭 기자] 실점을 막아내는 슈퍼 캐치였다.",
-      "프로야구 KIA 타이거즈 박민(25)이 1군 콜업 첫 날부터 호수비로 박수갈채를 받았다.",
-      "박민은 23일 서울 잠실구장에서 열린 두산과 경기를 앞두고 1군 엔트리에 복귀했다."
+      "한 떡집에서 차량이 오가는 주차장 바닥에 가래떡을 펼쳐놓고 건조하는 모습이 포착돼 논란이 되고 있다.23일 온라인 커뮤니티 보배드림에는 한 떡집이 먼지와 벌레 등에 노출될 수 있는 야외 주차장에서 가래떡을 건조하고 있다는 내용의 글과 사진이 올라왔다.작성자 A 씨는 “떡집에서 떡을 식힐 때 원래 이렇게 식히냐”며 “원래 이곳에서 떡을 사 먹었는데 옆에서 커피를 사려고 주차하다가 두 번 정도 봤다”고 상황을 설명했다.A 씨가 공개한 사진에는 떡집."
     ],
     "chips": [
-      "#KBO"
+      "#뉴스"
     ]
   },
   {
-    "id": "nd336187f",
-    "category": "사회",
-    "source": "아시아경제",
-    "time": "11분 전",
-    "url": "https://view.asiae.co.kr/article/2026092400520806306",
-    "title": "뉴욕서 '30분' 극적 韓美회담 마친 李…멕시코 국빈방문",
+    "id": "ne94d9833",
+    "category": "IT",
+    "source": "뉴시스",
+    "time": "14분 전",
+    "url": "https://www.newsis.com/view/NISX20260924_0003802796",
+    "title": "이재명 대통령, '대한민국 투자 서밋 2026' [뉴시스 Pic]",
     "summary": [
-      "이재명 대통령의 유엔(UN) 총회 순방은 막판에 성사된 한미 정상회담이 백미였다.",
-      "대미 투자 협상이 난항을 거듭하면서 한때 성사 가능성이 낮게 점쳐졌던 회담은 협상 진전을 계기로 극적으로 마련됐고, 교착 상태에 빠져 있었던 안보·대북 현안을 조율하는 계기가 됐다.",
-      "유엔 무대에서 한반도 평화 구상과 국제사회에 대한 한국의 역할을 제시한 이 대통령은 마지막 일정으로 월가 투자자들을 상대로 한국 경제 세일즈에도 나섰다."
+      "[서울=뉴시스]조성봉 김지은 김진아 기자 = 미국 뉴욕을 방문 중인 이재명 대통령이 23일(현지시간) 한미 금융·경제계 주요 인사들이 참석한 '대한민국 투자 서밋 2026'을 주재해 한국 경제 성장 전략을 공유하며 투자 확대와 지속적인 관심을 당부했다.",
+      "이 대통령은 인공지능(AI)·반도체와 함께 우주항공, 바이오 등 미래 첨단산업을 중심으로 대한민국이 만들어갈 새로운 투자 기회를 소개하며 \"이는 양국 기업과 투자자 간의 이해와 신뢰를 높이고,."
+    ],
+    "chips": [
+      "#AI",
+      "#반도체",
+      "#정치"
+    ]
+  },
+  {
+    "id": "n4288b631",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "15분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260924008300055",
+    "title": "전북 가끔 구름 많고 낮 최고 25∼29도",
+    "summary": [
+      "(전주=연합뉴스) 백도인 기자 = 추석 연휴 첫날이자 목요일인 24일 전북은 가끔 구름이 많겠다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n385e4f48",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "15분 전",
+    "url": "https://www.chosun.com/international/international_general/2026/09/24/QOJVPLT6BRBDNKKVX7JVRCX3AY/",
+    "title": "북한군 포로, 20개월만에 한국行... 韓정부 아닌 젤렌스키가 발표",
+    "summary": [
+      "북한군 포로, 20개월만에 한국行... 韓정부 아닌 젤렌스키가 발표."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n60f5c8f5",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "15분 전",
+    "url": "https://www.chosun.com/jp/international-jp/2026/09/24/IBM7WUGCNBBYNHUHUEKIVV3UWY/",
+    "title": "北朝鮮軍捕虜、20カ月後に韓国へ",
+    "summary": [
+      "北朝鮮軍捕虜、20カ月後に韓国へ."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n7e65f7b4",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "16분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260924008100109",
+    "title": "젤렌스키 \"푸틴은 0번 환자…악 퍼뜨릴 공간 차단해야\"",
+    "summary": [
+      "(로마·뉴욕=연합뉴스) 민경락 김연숙 특파원 = 볼로디미르 젤렌스키 우크라이나 대통령은 23일(현지시간) 블라디미르 푸틴 러시아 대통령을 '0번..."
     ],
     "chips": [
       "#정치"
     ]
   },
   {
-    "id": "n1f8ee52d",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "13분 전",
-    "url": "https://www.chosun.com/jp/sports-jp/2026/09/24/LL6O5B67KNB4BC7OHZYLUU675I/",
-    "title": "17歳張本美和、韓国・北朝鮮勢に1日3勝",
+    "id": "nc9e8cc7d",
+    "category": "부동산",
+    "source": "뉴시스",
+    "time": "19분 전",
+    "url": "https://www.newsis.com/view/NISX20260923_0003802000",
+    "title": "전세사기 대책에도 보증금 미반환 사각지대 여전…후순위 임차인 피해 '집중'",
     "summary": [
-      "【OSEN＝ハン・ヨンソプ記者】日本女子卓球の「天才」張本美和（17）が、一日に韓国を2度も泣かせた。北朝鮮まで含めると、南北コリアを相手に一日3試合で3勝を挙げる怪力ぶりを発揮した。張本は23日、卓球競技が行われた愛知県のスカイホール豊田で終日多忙だった。混合ダブルス予選と女子団体戦に相次いで出場しなければならなかったためだ。# 午前10時40分、."
+      "[서울=뉴시스]이연희 기자 = 전세사기 특별법 제정 등 전세사기·깡통전세 피해를 막기 위한 제도 개선이 상당 부분 이뤄졌지만 여전히 보증금을 돌려받지 못하는 세입자들이 적지 않은 것으로 나타났다.",
+      "특히 후순위 임차인이나 임대인 파산·사망 등 기존 제도로 충분히 보호받기 어려운 사각지대가 여전한 것으로 조사됐다.",
+      "24일 주택세입자 법률지원센터 세입자114의 '보증금 미반환 상담사례를 통해 본 주택임대차제도의 문제점' 보고서에 따르면 세입자114가."
+    ],
+    "chips": [
+      "#전세"
+    ]
+  },
+  {
+    "id": "n2431cc56",
+    "category": "경제",
+    "source": "한국경제",
+    "time": "25분 전",
+    "url": "https://www.hankyung.com/article/202609244555i",
+    "title": "美 10년 만기 국채 금리, 2007년 이후 최고치 경신…인플레이션 우려",
+    "summary": [
+      "美 10년 만기 국채 금리, 2007년 이후 최고치 경신…인플레이션 우려."
+    ],
+    "chips": [
+      "#금리"
+    ]
+  },
+  {
+    "id": "nc84ce46c",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "27분 전",
+    "url": "https://www.donga.com/news/Politics/article/all/20260924/134730843/1",
+    "title": "이 대통령, 유엔총회·트럼프 정상회담 마치고 멕시코로…내일 셰인바움 대통령과 정상회담",
+    "summary": [
+      "이재명 대통령이 미국 뉴욕에서 열린 유엔총회 일정을 마치고 23일(현지시간) 오후 두 번째 방문지인 멕시코로 출발했다.21일 뉴욕에 도착한 이 대통령은 세계 최대 다자외교 무대인 유엔총회에서 2년 연속 참석해 우리 정부의 정책과 비전을 알렸다.기조연설을 통해 한국이 인공지능(AI), 기후변화, 에너지안보 등 인류 공동의 도전에 대한 해법을 찾는 데 건설적으로 기여해 나갈 것임을 밝히며, 유엔의 개혁과 건설적 기여국들의 연대도 강조했다.또 우리."
+    ],
+    "chips": [
+      "#AI",
+      "#정책",
+      "#정치",
+      "#환경"
+    ]
+  },
+  {
+    "id": "n6dd24ea6",
+    "category": "사회",
+    "source": "연합뉴스(경제)",
+    "time": "29분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260923141100001",
+    "title": "\"외상값 못받는 중소기업들\"…매출채권보험 사고액 4년새 65%↑",
+    "summary": [
+      "(서울=연합뉴스) 권희원 기자 = 물품·용역 등을 외상으로 공급한 중소기업이 대금을 지급받지 못해 발생한 매출채권보험 사고 금액이 4년간 65%..."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "na43c90ca",
+    "id": "nefbc99e3",
     "category": "사회",
-    "source": "머니투데이",
-    "time": "18분 전",
-    "url": "https://www.mt.co.kr/world/2026/09/24/2026092402024581115",
-    "title": "\"어? 인스타그램에 韓기업 기밀이 왜\"…모간스탠리 이메일 사고 파장",
+    "source": "아시아경제",
+    "time": "34분 전",
+    "url": "https://view.asiae.co.kr/article/2026092404503742544",
+    "title": "[속보] 뉴욕 일정 마친 李대통령, 멕시코로 출발",
     "summary": [
-      "메일 발송 실수 한 번에 아시아 딜 파이프라인 대거 노출 IPO 잠재 후보부터 사모펀드·연기금 기밀 정보까지 유출 이미지 복사본, SNS 타고 일파만파… IB 신뢰도 치명타 글로벌 투자은행(IB) 모간스탠리 직원의 이메일 발송 실수로 한국 기업을 포함해 아시아 지역의 기업공개(IPO) 및 동향과 관련한 100여건의 내부 문건이 유출되는 사고가 발생했다고 블룸버그통신이 23일(현지시간) 보도했다.",
-      "블룸버그가 입수해 복수의 관계자를 통해 진위를 확."
+      "[속보] 뉴욕 일정 마친 李대통령, 멕시코로 출발."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "nc6dda2a1",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "47분 전",
+    "url": "https://www.donga.com/news/Inter/article/all/20260924/134730840/1",
+    "title": "美국무부 “원정출산 가담자 비자 제한…신고해달라”",
+    "summary": [
+      "미국 국무부가 이른바 ‘원정출산(birth tourism)’에 가담하거나 이를 알선한 외국인에 대한 비자 발급을 제한하겠다고 23일(현지 시간) 밝혔다.마코 루비오 국무장관은 이날 성명을 내고 “외국의 상업적 원정출산 조직들이 미국 이민 제도를 악용해 이윤을 위해 미국 시민권을 팔아왔다.",
+      "미국은 외국인이 미국 시민권의 신성함을 훼손하는 것을 용납하지 않을 것”이라며 이같이 발표했다.원정출산 알선 조직의 소유주·운영자·관리자, 허위 진술을 조언하."
     ],
     "chips": [
       "#뉴스"
+    ]
+  },
+  {
+    "id": "n21ffc6c3",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "1시간 전",
+    "url": "https://www.donga.com/news/Inter/article/all/20260924/134730828/1",
+    "title": "젤렌스키 “러시아서 생포한 북한군 2명 최근 한국 보내”",
+    "summary": [
+      "볼로디미르 젤렌스키 우크라이나 대통령이 러시아를 위해 싸우다 우크라이나군에 생포된 북한군 병사 2명을 최근 한국으로 보냈다고 밝혔다.23일(현지 시간) CNN에 따르면 젤렌스키 대통령은 이날 미국 뉴욕 유엔본부에서 열린 제81차 유엔총회 연설에서 이같이 밝혔다.젤렌스키 대통령은 생포 당시 상황도 설명했다.",
+      "그는 “그중 한 명은 자신이 포로로 잡히게 된다는 사실을 깨닫자 스스로 목숨을 끊으려 했다”며 “그는 운명이 자신을 죽도록 내버려두지 않았다."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n15d90d83",
+    "category": "경제",
+    "source": "아시아경제",
+    "time": "1시간 전",
+    "url": "https://view.asiae.co.kr/article/2026092404002838136",
+    "title": "\"제 송편이 만두가 돼서 큰일\"…뉴욕서 추석 맞은 김혜경 여사",
+    "summary": [
+      "유엔총회 참석을 위해 미국 뉴욕을 방문 중인 김혜경 여사가 23일(현지시간) 동포들과 송편을 빚으며 한발 앞서 추석 분위기를 냈다.",
+      "송편 모양이 뜻대로 나오지 않자 \"제 것이 만두가 돼서 큰일났다\"고 웃음을 터뜨린 김 여사는 어린 시절 명절의 추억을 풀어놓는 한편, 세계적으로 높아진 K-푸드의 위상에 대해서도 이야기를 나눴다.",
+      "김 여사는 이날 뉴욕 맨해튼 주뉴욕한국문화원에서 뉴욕가정상담소 관계자들과 함께 추석맞이 송편 빚기 행사에 참석했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n0489ade7",
+    "category": "부동산",
+    "source": "아시아경제",
+    "time": "3시간 전",
+    "url": "https://view.asiae.co.kr/article/2026092402480534625",
+    "title": "李대통령 \"농지전수조사 꼭 필요…저항·반발에도 회피 않겠다\"",
+    "summary": [
+      "이재명 대통령이 농지 투기를 막기 위한 농지전수조사를 예정대로 추진하겠다는 뜻을 재확인했다.",
+      "농지를 취득한 뒤 실제 농사를 짓지 않고 땅값 상승을 기다리거나 불법으로 임대하는 행위에 대해서는 법에 따라 강제매각 등 제재를 해야 한다고 강조했다.",
+      "농지전수조사를 자신이 추진해 온 '부동산개혁'의 연장선으로 규정하며 현장의 반발에도 물러서지 않겠다는 의지를 분명히 한 것이다."
+    ],
+    "chips": [
+      "#부동산",
+      "#정치"
+    ]
+  },
+  {
+    "id": "nff980bad",
+    "category": "IT",
+    "source": "아시아경제",
+    "time": "3시간 전",
+    "url": "https://view.asiae.co.kr/article/2026092402420830407",
+    "title": "월가 큰 손들과 다시 만난 李 \"韓 투자, 나중에 왜 안 했나 할 것\" (종합)",
+    "summary": [
+      "유엔(UN) 총회 참석차 미국 뉴욕을 방문 중인 이재명 대통령은 23일(현지시간) 한국 경제가 글로벌 통상·지정학적 불확실성 속에서도 강한 복원력과 성장 잠재력을 보여주고 있다며 반도체·피지컬 인공지능(AI)·AI데이터센터를 축으로 한 첨단산업 투자를 대폭 확대하겠다고 밝혔다.",
+      "향후 5년 안에 메모리 생산능력을 두 배로 늘리고 미래대응기금을 신설하는 한편 자본·외환시장 개혁을 통해 한국을 글로벌 자본이 자유롭게 투자할 수 있는 시장으로 만들겠다."
+    ],
+    "chips": [
+      "#AI",
+      "#반도체",
+      "#정치"
     ]
   },
   {
     "id": "nbda17d88",
     "category": "IT",
     "source": "테크M",
-    "time": "23분 전",
+    "time": "3시간 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=155544",
     "title": "로봇 AI 추론 7배 빨라졌다...택배 물류센터선 RFM 실증 시작",
     "summary": [
@@ -432,205 +628,6 @@ window.NEWS_DB = [
       "#반도체",
       "#엔비디아"
     ]
-  },
-  {
-    "id": "n61447c3c",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "23분 전",
-    "url": "https://www.donga.com/news/Inter/article/all/20260924/134730801/1",
-    "title": "루비오 美국무 “12월 G20에 푸틴 초청…소통 기회 될것”",
-    "summary": [
-      "도널드 트럼프 미국 행정부가 올해 12월 미국에서 열리는 주요 20개국(G20) 정상회의에 블라디미르 푸틴 러시아 대통령을 초청했다고 밝혔다.",
-      "마코 루비오 미 국무장관은 23일(현지 시간) 미국 뉴욕에서 기자들에게 “우리는 푸틴 대통령을 G20에 초청했다”고 말했다.이어 “이번 기회가 그에게는 (트럼프)대통령뿐만 아니라 다른 세계 지도자들과 소통할 수 있는 기회가 될 것이라 생각한다”며 “그가 이 초청을 수락하기 바란다”고 부연했다.올해 G20."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "nead87cc5",
-    "category": "IT",
-    "source": "머니투데이",
-    "time": "32분 전",
-    "url": "https://www.mt.co.kr/sports/2026/09/24/2026092317100746401",
-    "title": "얼굴은 요정인데 팔뚝은 헐크 \"AI 근육 아냐?\"... 日 팔씨름 女 챔피언, 男 격투기 선수도 이겼다 \"32kg 덤벨 번쩍\"",
-    "summary": [
-      "'팔씨름 여자 세계 챔피언' 타케나카 아야네가 압도적인 완력을 과시했다.",
-      "일본 '이파이트'는 23일 \"타케나카가 32kg 덤벨을 한 손으로 들어 올리는 훈련 영상을 자신의 소셜미디어(SNS)에 공개했다\"고 전했다.",
-      "매체는 \"타케나카는 롱스커트와 검은색 셔츠 등 사복 차림으로 덤벨 컬을 시도했다."
-    ],
-    "chips": [
-      "#AI"
-    ]
-  },
-  {
-    "id": "n339445fd",
-    "category": "사회",
-    "source": "한국경제",
-    "time": "33분 전",
-    "url": "https://www.hankyung.com/article/2026092344401",
-    "title": "李대통령, 월가 큰손들에 '韓 투자' 세일즈",
-    "summary": [
-      "李대통령, 월가 큰손들에 '韓 투자' 세일즈."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "ncd4c403e",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "40분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260924002900071",
-    "title": "트럼프는 레드카펫·시진핑은 국빈 관철…\"성과보다 쇼 집중\"",
-    "summary": [
-      "(워싱턴=연합뉴스) 이유미 특파원 = 도널드 트럼프 미국 대통령이 시진핑 중국 국가주석의 국빈 방문을 맞아 성대한 환영 행사를 준비하고 있지만,..."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n0f254760",
-    "category": "사회",
-    "source": "연합뉴스(경제)",
-    "time": "50분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260924003700001",
-    "title": "李대통령 \"농지전수조사 꼭 필요…회피하지 않겠다\"",
-    "summary": [
-      "(뉴욕=연합뉴스) 임형섭 설승은 기자 = 유엔총회 참석을 위해 미국 뉴욕을 방문한 이재명 대통령은 23일(현지시간) \"농지투기 방지와 제대로 된..."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "nbf8932ef",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "52분 전",
-    "url": "https://www.newsis.com/view/NISX20260924_0003802779",
-    "title": "이 대통령 \"경자유전 헌법에…투기 방지 위해 농지전수조사 꼭 필요\"",
-    "summary": [
-      "[뉴욕=뉴시스] 김지은 기자 = 미국을 방문 중인 이재명 대통령은 23일(현지시간) \"농지투기 방지와 제대로 된 농지활용을 위해 농지전수조사는 꼭 필요하다\"고 밝혔다.",
-      "이 대통령은 이날 오후 X(옛 트위터)에 송미령 농림축산식품부 장관의 농지조사 관련 설명글을 공유하며 \"경자유전과 이를 지키기 위한 정부의 노력은 헌법 즉 국민의 명령\"이라고 적었다.",
-      "이 대통령은 \"저항과 반발 때문에 모든 정부가 회피했지만 저는 회피하지 않겠다\"며 \"농지투기를."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "nbfe55d5a",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "53분 전",
-    "url": "https://www.donga.com/news/Culture/article/all/20260924/134729886/2",
-    "title": "4인 4색 블랙핑크",
-    "summary": [
-      "일반적으로 K팝 아이돌 그룹은 멤버 개개인이 팀 전체의 위상과 맞먹는 지명도와 브랜드를 구축하기란 쉽지 않다.",
-      "하지만 걸그룹 ‘블랙핑크’는 이 통설에서 벗어난 예외적인 존재라는 평가가 나온다.",
-      "네 멤버인 로제와 리사, 제니, 지수는 2023년 말 YG엔터테인먼트와 그룹 활동 계약만 갱신한 뒤 본격적으로 개인 활동에 나섰다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n48a00de7",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "53분 전",
-    "url": "https://www.donga.com/news/Culture/article/all/20260924/134729867/2",
-    "title": "제주 애월 폐건물에 매트릭스가 있다",
-    "summary": [
-      "제주 애월 숲속엔 20년 넘게 방치된 폐건물이 있었다.",
-      "이를 리모델링한 문화 공간이 바로 ‘하우스 오브 레퓨즈(House of Refuge)’다.",
-      "22일 나무가 우거진 숲을 헤치고 이 콘크리트 건물 속으로 들어서자, 눈을 찌를 듯 초고속으로 흐르는 바코드와 숫자가 스크린에 펼쳐졌다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "ndb71f472",
-    "category": "스포츠",
-    "source": "동아일보",
-    "time": "53분 전",
-    "url": "https://www.donga.com/news/Culture/article/all/20260924/134729865/2",
-    "title": "“조선 궁궐이 주는 공간의 온도를 느껴보세요”",
-    "summary": [
-      "“흰 종이 자체가 여백은 아닙니다.",
-      "점 하나를 찍으면 나머지가 여백이 되고, 점을 더하면 둘 사이에 관계와 운동감이 생기죠.” 공간디자인 스튜디오 WGNB의 백종환 대표(47)가 올가을 궁중문화축전에서 창덕궁 전시감독을 맡았다.",
-      "다음 달 7∼11일 열리는 전시 ‘조선 공간 미학: 백(白)의 질서’는 창덕궁 희정당을 공예 전시장으로 탈바꿈시킬 예정이다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n2609d55b",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "1시간 전",
-    "url": "https://www.newsis.com/view/NISX20260924_0003802776",
-    "title": "이란 대통령 \"美 압박에 결코 무릎 안 꿇어…대화·협상은 준비\"(종합)",
-    "summary": [
-      "[서울=뉴시스]박미선 기자 = 마수드 페제시키안 이란 대통령이 유엔총회 연설에서 미국과 이스라엘의 대이란 공격을 강하게 비판하며 \"이란은 결코 고개를 숙이거나 무릎을 꿇지 않을 것\"이라고 밝혔다.",
-      "핵무기 개발 의사는 없다고 강조하면서도 평화적 목적의 핵기술에 대한 제한은 받아들이지 않겠다는 입장도 분명히 했다.",
-      "23일(현지 시간) CNN과 AP통신 등에 따르면 페제시키안 대통령은 이날 미국 뉴욕 유엔본부에서 열린 제81차 유엔총회 연설에서 전날."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n772071ec",
-    "category": "경제",
-    "source": "연합뉴스",
-    "time": "1시간 전",
-    "url": "https://www.yna.co.kr/view/AKR20260924003600072",
-    "title": "美 30년 주택대출금리 7% 돌파…2024년 5월 이후 최고",
-    "summary": [
-      "(뉴욕=연합뉴스) 김연숙 특파원 = 미국 내 30년 만기 고정 주택담보대출 평균 금리가 상승세를 이어가며 7%를 넘어 2년여만에 최고 수준으로 ..."
-    ],
-    "chips": [
-      "#금리"
-    ]
-  },
-  {
-    "id": "nf591783d",
-    "category": "스포츠",
-    "source": "머니투데이",
-    "time": "1시간 전",
-    "url": "https://www.mt.co.kr/sports/2026/09/24/2026092318014151673",
-    "title": "'비키니+노출증 악플' 이겨낸 신지은 \"멋진 의상\" 소신 발언에 日도 '들썩'... 포털 종일 점렴 \"노출 아닌 멋이다\"",
-    "summary": [
-      "한국 비치발리볼 국가대표 신지은(25)이 비인기 종목의 고충과 악플에 대해 털어놓자 이를 일본도 주목했다.",
-      "일본 '도쿄 스포츠'는 23일 \"한국 비치발리볼 국가대표 신지은이 비키니 경기복을 향한 도 넘은 비방과 비인기 종목의 고충을 털어놨다\"고 보도했다.",
-      "신지은을 향한 일본 현지 팬들의 관심도 뜨겁다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n1d22efa4",
-    "category": "IT",
-    "source": "테크M",
-    "time": "1시간 전",
-    "url": "https://www.techm.kr/news/articleView.html?idxno=155538",
-    "title": "'1심 무죄' 김범수...검찰, 2심서 또 징역 15년 구형 'SM 시세 조종 혐의'",
-    "summary": [
-      "검찰이 SM엔터테인먼트 인수 과정에서 시세 조종 혐의를 받고 있는 김범수 카카오 창업자 겸 미래이니셔티브 센터장에게 2심에서 징역 15년을 구형했다.",
-      "김범수 창업자는 1심에서 무죄를 빋은 바 있다.",
-      "김 창업지 측는 검찰 측이 정확한 증거를 제시하고 있지 않다며 혐의를 전면 부인하고 있다."
-    ],
-    "chips": [
-      "#카카오"
-    ]
   }
 ];
 
@@ -638,21 +635,21 @@ window.NEWS_DB = [
 window.KEYWORD_TOP = [
   {
     "rank": 1,
-    "tag": "뉴스",
-    "mentions": "1940건",
-    "trend": "+195%"
+    "tag": "AI",
+    "mentions": "2070건",
+    "trend": "+215%"
   },
   {
     "rank": 2,
-    "tag": "정치",
-    "mentions": "1810건",
-    "trend": "+175%"
+    "tag": "뉴스",
+    "mentions": "2070건",
+    "trend": "+215%"
   },
   {
     "rank": 3,
-    "tag": "AI",
-    "mentions": "1680건",
-    "trend": "+155%"
+    "tag": "반도체",
+    "mentions": "1810건",
+    "trend": "+175%"
   }
 ];
 // ====AUTO-GENERATED-END====
