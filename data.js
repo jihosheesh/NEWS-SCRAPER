@@ -1,11 +1,25 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-09-23 20:49:23
+// 마지막 업데이트: 2026-09-23 23:19:06
 window.NEWS_DB = [
+  {
+    "id": "n8c32d768",
+    "category": "IT",
+    "source": "헤럴드경제",
+    "time": "1시간 전",
+    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE92MjJkNzNDQVFfVTNXMzBzWU9nMzFMVlc2bGhsWkotNzVsekp4cGZ4dEJMQld6X0x5STlrSk1YUXNNWExNX0JZaFFyRzA0b25BQmFsZzZB?oc=5",
+    "title": "“바보야, 문제는 토큰이야”…엔비디아가 찾은 ‘토크노믹스’ 시대 해법은 [비즈360]",
+    "summary": [
+      "“바보야, 문제는 토큰이야”…엔비디아가 찾은 ‘토크노믹스’ 시대 해법은 [비즈360] 헤럴드경제."
+    ],
+    "chips": [
+      "#엔비디아"
+    ]
+  },
   {
     "id": "n86f2bb7d",
     "category": "IT",
     "source": "한국경제",
-    "time": "21시간 전",
+    "time": "1일 전",
     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5DRlpvcWZiUlFnejN6YzRfcFNLQzJoWmR2WXdQVWFuZVo5RThzRUxBaHEzUWtONVJRMGZBZGdGZU9UT2pGWVE2eU1NMXhTZjRFTy13YU1Ca2Fndw?oc=5",
     "title": "\"삼성전자, 전망보다 3분기 실적 밑돌 것…파운드리 주목해야\"-키움",
     "summary": [
@@ -45,20 +59,6 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n378b0b4c",
-    "category": "IT",
-    "source": "mstoday.co.kr",
-    "time": "1일 전",
-    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4wcDhNc2JNQWpNMS05TnRRd2pUeVcyY2swQ0VId215bWhLeElkODl2cVk2M1ZfSlA5OFdJMFd1NXA0YmpZWnFKMk1UM0dXVFZNdHJJeTFab2NtWm9xMFFqNExOVnVKbUh3VFpMTg?oc=5",
-    "title": "AMD 1조달러 돌파…AI 경쟁, GPU 넘어 ‘시스템 전쟁’",
-    "summary": [
-      "AMD 1조달러 돌파…AI 경쟁, GPU 넘어 ‘시스템 전쟁’ mstoday.co.kr."
-    ],
-    "chips": [
-      "#AI"
-    ]
-  },
-  {
     "id": "n79385c31",
     "category": "사회",
     "source": "뉴데일리 대구경북",
@@ -76,12 +76,12 @@ window.NEWS_DB = [
   {
     "id": "na60b4f10",
     "category": "IT",
-    "source": "글로벌이코노믹",
-    "time": "1일 전",
+    "source": "g-enews.com",
+    "time": "2일 전",
     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNX19oSzIxdFJrVHJyVl9hS25rZm1fNENwM0JVWnlETTVNa2pKMEo0T01OSnUxYkNTSUdKNC1ndmpRSVQ1V0lNQW9pV0h1OTc5Q2lzcGZFQ0dIRmNFX2VQUjctS2pXRVVMYzR2TlIyRkRnbW1aQmFIaGpnSl9zbVM1a1lDM2M4YTNh?oc=5",
-    "title": "엔비디아 루빈 품는 삼성, HBM4 유리기판 캐리어 조달 2.5배 늘려 AI 반도체 정조준",
+    "title": "엔비디아 루빈 품는 삼성, HBM4 유리기판 캐리어 조달 2.5배 늘려 AI 반도체 정조준 - g",
     "summary": [
-      "엔비디아 루빈 품는 삼성, HBM4 유리기판 캐리어 조달 2.5배 늘려 AI 반도체 정조준 글로벌이코노믹."
+      "엔비디아 루빈 품는 삼성, HBM4 유리기판 캐리어 조달 2.5배 늘려 AI 반도체 정조준 g-enews.com."
     ],
     "chips": [
       "#AI",
@@ -121,7 +121,7 @@ window.NEWS_DB = [
     "id": "n1ebf737b",
     "category": "스포츠",
     "source": "글로벌E",
-    "time": "2일 전",
+    "time": "3일 전",
     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1xdGdqbUJjMXkyZFRRYi1ETklIZmlIQlFHYS1ZemlEaU5IQ0hCQkR1Wm5pYVVJUl9jX2s3Z08ydEpxdFM2elFVdjNFdlhxMlRsUVhQY3JKRVdRWG5WUlpOR2hNemdnbVdrWElv0gFvQVVfeXFMT1QxRDNTbjRoMk5ZWVBmRllQU2Z2b1IyY0hYZEx1LWc0aFhSb083aGdYc1ZQNDhrN0NncVZGclFwVnV0RGNoNTNmcXkwSzF5dTdxZnVRYlFQOTZDblRRWkpDUzNCOUpoMEJmbkRYa1Nz?oc=5",
     "title": "이베이, K-스포츠 굿즈 역직구 급증···KBO 매출 전년 대비 2.9배↑",
     "summary": [
@@ -197,7 +197,7 @@ window.NEWS_DB = [
     "id": "nfd541720",
     "category": "경제",
     "source": "조선일보",
-    "time": "6일 전",
+    "time": "7일 전",
     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPX19hUk9LSUdFUFZxd1QxNVFVNXJOa3pzZ1F0WXkxQWlFc09IM25Pd1lPcE1DSk5RcnFRZ25WeUlycW1IWDdUYjF5TUFRREpLRUlJNlB5cEhVUjZ6amMzR0ZaOFhPQjk1ZDRVS1A5dm5BMVdfbm9wYU80ODE0bXAydHdZTGJEMVdy?oc=5",
     "title": "美 기준금리 4% 시대... 대출·투자 어떻게 하나",
     "summary": [
@@ -211,12 +211,12 @@ window.NEWS_DB = [
   {
     "id": "n93c2ed2f",
     "category": "IT",
-    "source": "kbmaeil.com",
+    "source": "경북매일",
     "time": "8일 전",
     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5xWGQzcWdTT2JoUFptNVhrN2RETlFyQi1BcU9meDlrYmlYenE1U0J2VmgyRk05SnJjMXFsNXRyNzZ6ZUJjLUNZdmFRVU9HcEVsNS1qdGdIOGxsZw?oc=5",
     "title": "대구경북 스타트업 한자리에…추경호 시장 “지역서 유니콘 키운다”",
     "summary": [
-      "대구경북 스타트업 한자리에…추경호 시장 “지역서 유니콘 키운다” kbmaeil.com."
+      "대구경북 스타트업 한자리에…추경호 시장 “지역서 유니콘 키운다” 경북매일."
     ],
     "chips": [
       "#스타트업"
@@ -310,323 +310,309 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n12ef6587",
+    "id": "n3ec94186",
+    "category": "경제",
+    "source": "뉴시스",
+    "time": "2분 전",
+    "url": "https://www.newsis.com/view/NISX20260924_0003802824",
+    "title": "[속보]美재무 \"미중무역휴전 2개월 더 연장하기로 합의\"",
+    "summary": [
+      "[서울=뉴시스] 신효령 기자 = 후속기사가 이어집니다.",
+      "◎공감언론 뉴시스 snow@newsis.com."
+    ],
+    "chips": [
+      "#수출"
+    ]
+  },
+  {
+    "id": "n5cde2e23",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "4분 전",
+    "url": "https://www.donga.com/news/Society/article/all/20260924/134730952/1",
+    "title": "술 취해 여관 객실 다 열어본 경찰관…항소심 “위력에 해당 유죄”",
+    "summary": [
+      "술에 취해 여관에서 사람을 찾는다며 모든 객실의 문을 열어보고 라이터 불로 화재경보기를 작동시키려 하는 등 업무를 방해한 혐의로 기소된 경찰관이 항소심에서 벌금형을 선고받았다.부산고법 창원재판부 형사1부(박광서 고법판사)는 업무방해, 현주건조물방화미수, 건조물수색 등 3개 혐의로 기소된 50대 경찰관 A 씨에게 벌금 200만 원을 선고했다고 24일 밝혔다.",
+      "앞서 1심에선 A 씨에게 징역 6개월의 선고를 유예했다.A 씨는 지난 2024년 9월 경."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n26e2f98d",
+    "category": "경제",
+    "source": "아시아경제",
+    "time": "4분 전",
+    "url": "https://view.asiae.co.kr/article/2026092307452205483",
+    "title": "추석 지나면 장공공 사업자 결정된다[양낙규의 Defence Club]",
+    "summary": [
+      "내달 장거리 공대공 미사일(장공공) 개발 사업자가 결정된다.",
+      "장공공은 국산 전투기 KF -21에 탑재될 국산 무장 가운데 마지막으로 남은 대형과제다.",
+      "24일 군 관계자에 따르면 이번 사업은 2033년까지 개발비 7535억 원에 2035년부터 후속 양산비 1조 1471억 원이 들어가 전체 사업 규모는 약 1조 9000억 원에 달한다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n7410af44",
     "category": "사회",
     "source": "조선일보",
+    "time": "5분 전",
+    "url": "https://www.chosun.com/entertainments/broadcast/2026/09/24/GBRWMMRYGEZTMMBUGUZTEOBWHE/",
+    "title": "김지석, 이민정 유산 죄책감에 고통…자취 감췄다(‘그래이혼하자’)",
+    "summary": [
+      "[OSEN=강서정 기자] ‘그래, 이혼하자’ 이민정과 김지석의 부부 관계가 끝까지 예측할 수 없는 방향으로 흘러갔다.",
+      "지난 23일 KBS Drama 채널과 GTV 채널에서 방송된 ‘그래, 이혼하자’(연출 주성우, 작가 황지언) 11회에서는 지원호(김지석 분)가 갑작스럽게 사라진 뒤 그의 빈자리를 견디지 못하는 백미영(이민정 분)의 모습이 그려졌다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nba52b4c9",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "5분 전",
+    "url": "https://www.chosun.com/entertainments/broadcast/2026/09/24/GFQTCNTEMNRDSNBYMZSTSN3GMI/",
+    "title": "'공개 열애' 도끼, ♥이하이 생일에 폭주..\"미인 돌고래 태어나줘서 고마워요\"",
+    "summary": [
+      "[OSEN=장우영 기자] 래퍼 도끼가 공개 열애 중인 가수 이하이에 대한 열렬한 사랑을 고백했다.23일 도끼는 유튜브 채널에 ‘도끼 Dok2 – U R MY HI’라는 제목의 영상을 공개했다.영상은 생일을 맞은 이하이를 축하하기 위한 도끼의 헌정곡으로, 평소의 화려하고 강렬한 힙합 스타일에서 벗어나 사랑하는 연인을 향한 진솔하고 깊은 애정을 로맨틱하게 풀어."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n3a377f89",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "5분 전",
+    "url": "https://www.donga.com/news/Society/article/all/20260924/134730947/1",
+    "title": "밥 안 차려줬다고 딸 머리 쇠망치로 때린 父, 징역 5년",
+    "summary": [
+      "자신의 밥을 차려주지 않았다는 이유로 딸의 머리를 쇠망치로 수차례 내리치고 방으로 피신한 딸을 철제 집게로 공격한 아버지가 항소심에서도 징역 5년을 선고받았다.24일 법조계에 따르면 서울고법 형사11-3부(부장판사 강효원)는 최근 A씨의 살인미수 혐의 항소심에서 원심과 같이 징역 5년을 선고했다.",
+      "형 집행 종료 후 5년간 보호관찰도 명령했다.A씨는 지난해 8월 서울 관악구 자택에서 밥을 차려주지 않았다는 이유로 40대 딸 B씨의 머리를 길이 쇠."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nfa4e5582",
+    "category": "경제",
+    "source": "동아일보",
+    "time": "5분 전",
+    "url": "https://www.donga.com/news/Inter/article/all/20260924/134730945/1",
+    "title": "美베선트 “미중 무역 휴전 2개월 연장”…中허리펑과 막판 조율",
+    "summary": [
+      "스콧 베선트 미국 재무장관이 미중 무역 휴전을 내년 1월까지 연장한다고 밝혔다고 AFP통신 등이 23일(현지시간) 보도했다.베선트 장관은 이날 허리펑 중국 국무원 부총리와 회담 후 폭스뉴스에 “11월 10일 종료될 예정이던 미중 간 경제 긴장 완화 조치를 연장하기로 합의했다”며 내년 1월 10일까지 연장할 예정이라고 밝혔다.그는 “이날 회동은 단순히 작은 일들을 이어가는 대신 더 큰 일을 할 수 있는지를 파악하기 위함”이라고 덧붙였다.미중 정상."
+    ],
+    "chips": [
+      "#수출"
+    ]
+  },
+  {
+    "id": "n2b75f567",
+    "category": "사회",
+    "source": "뉴시스",
     "time": "7분 전",
-    "url": "https://www.chosun.com/entertainments/broadcast/2026/09/24/GEYGMN3FGU3DKZJWGEZGGMRTHA/",
-    "title": "'출산 D-2주' 고우리, 임신 후 광고 줄줄 이어 \"둘째도 바로 낳을래\"('Go!우리')",
+    "url": "https://www.newsis.com/view/NISX20260924_0003802823",
+    "title": "서산시의회 동남아 해외연수 추진…28일까지 의견 받아",
     "summary": [
-      "[OSEN=오세진 기자] 'Go!우리' 배우 고우리가 임신 후 밀려드는 광고에 기쁨을 감추지 못했다.지난 23일 배우 고우리의 유튜브 채널에서는 \"첫 출산을 앞두고 바로 둘째를 계획 할 수밖에 없는 고우리\"라는 영상이 공개됐다.",
-      "이날 고우리는 만삭의 몸을 이끌고 광고주를 직접 찾았다.",
-      "고우리는 \"유튜브 채널 이름도 가자는 뜻인데, 이렇게 내가 직접 움직이지."
+      "[서산=뉴시스]김덕진 기자 = 충남 서산시의회가 10월31일부터 5박6일 간 7000만원의 예산을 들여 동남아시아 국가로 공무국외출장길에 오른다.",
+      "24일 시의회는 관련 규정에 따라 지난 16일 누리집에 '공무국외출장 계획서 및 허가검토서'를 올리고 28일까지 주민 의견을 수렴 중이라고 밝혔다.",
+      "이번 연수는 도시재생·지역활성화 및 관광개발, 도시녹지·수자원 관리 등 지속가능한 도시정책 및 주민참여형 지역관리 비교시찰을 위해 추진된다."
+    ],
+    "chips": [
+      "#정책"
+    ]
+  },
+  {
+    "id": "ncaee801c",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "7분 전",
+    "url": "https://www.newsis.com/view/NISX20260924_0003802810",
+    "title": "[미중정상회담]트럼프, 시진핑에 中구금 美시민 석방 문제제기 전망",
+    "summary": [
+      "[서울=뉴시스] 신효령 기자 = 도널드 트럼프 미국 대통령이 시진핑 중국 국가주석과의 정상회담에서 중국에 구금된 미국 시민들의 석방 문제를 제기할 것으로 전망된다.",
+      "구금자 가족들은 트럼프 대통령이 직접 나서주기를 기대하고 있다.",
+      "23일(현지시간) CBS뉴스 등 외신에 따르면 미국 정부가 중국에 '부당하게 구금됐다'고 공식 지정한 시민은 미얀마 문제를 연구하는 학자 민 진과 지진학자 유린 첸이다."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n00f01814",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "7분 전",
+    "url": "https://www.newsis.com/view/NISX20260924_0003802820",
+    "title": "김해국가유산야행, 야간 체류형 문화관광축제로 진행",
+    "summary": [
+      "[김해=뉴시스] 김상우 기자 = 경남 김해시는 10월 열리는 김해국가유산야행을 야간 체류형 문화관광축제로 진행한다고 24일 밝혔다.",
+      "행사는 10월 16일부터 18일까지 3일간, 오후 6시부터 10시까지 수로왕릉·수릉원·대성동고분군 일원에서 열린다.",
+      "올해는 ‘수로의 시간을 걷는 밤’을 주제로, 수로왕릉 중심이던 행사권역을 수릉원과 대성동고분군까지 확대한다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "nf610c896",
-    "category": "IT",
-    "source": "한국경제",
+    "id": "n57af2bdb",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "7분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260921094800053",
+    "title": "봉화의 가을 수놓을 야생화 32만본…백두대간 페스티벌",
+    "summary": [
+      "(봉화=연합뉴스) 김용민 기자 = 국립백두대간수목원은 다음달 1일부터 11일까지 경북 봉화군 국립백두대간수목원에서 2026 백두대간 봉자페스티벌..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n509459aa",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "7분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260923155600030",
+    "title": "\"짧은 연휴에 유류할증료 부담\"…일본·중국 등 단거리 여행 증가",
+    "summary": [
+      "(서울=연합뉴스) 이상서 기자 = 예년보다 부쩍 짧아진 연휴 기간에 국제선 유류할증료 인상 등의 영향으로 이번 추석 해외여행이 일본과 중국 등 ..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n491eb823",
+    "category": "사회",
+    "source": "연합뉴스",
     "time": "8분 전",
-    "url": "https://www.hankyung.com/article/202609244560i",
-    "title": "탈출한 오픈AI, 막아낸 건 뜻밖의 '중국산 AI'였다",
+    "url": "https://www.yna.co.kr/view/AKR20260922198500005",
+    "title": "끝없는 숫자로 빚어낸 빛의 미로…료지 이케다 제주서 신작 공개",
     "summary": [
-      "탈출한 오픈AI, 막아낸 건 뜻밖의 '중국산 AI'였다."
-    ],
-    "chips": [
-      "#AI"
-    ]
-  },
-  {
-    "id": "n4144557f",
-    "category": "경제",
-    "source": "뉴시스",
-    "time": "11분 전",
-    "url": "https://www.newsis.com/view/NISX20260924_0003802793",
-    "title": "뉴욕증시, 인플레 우려에 하락…美 10년물 금리 5.11% 돌파",
-    "summary": [
-      "[서울=뉴시스]박미선 기자 = 인플레이션 우려로 미국 국채 금리가 2007년 이후 최고 수준으로 치솟으면서 뉴욕증시가 일제히 하락했다.",
-      "국제유가 상승과 예상보다 강한 경제지표가 연방준비제도(Fed·연준)의 추가 금리 인상 전망을 키우며 증시에 부담을 줬다.",
-      "23일(현지 시간) 야후파이낸스에 따르면 이날 다우존스30산업평균지수는 0.68% 하락한 5만1511.59에 거래를 마쳤다."
-    ],
-    "chips": [
-      "#금리"
-    ]
-  },
-  {
-    "id": "nb8f342d1",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "13분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260924008600034",
-    "title": "추석 연휴 첫날 낮 최고 30도…강원 늦은 밤 비 소식",
-    "summary": [
-      "(서울=연합뉴스) 윤민혁 기자 = 추석 연휴 첫날이자 목요일인 24일은 전국이 구름이 많은 가운데 강원 지방에는 늦은 밤부터 비가 시작되겠다."
+      "(서울=연합뉴스) 박의래 기자 = 빛으로 쏟아지는 숫자, 신체를 관통하는 전자음, 끝없이 확장되는 데이터의 흐름."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n7a4c2c82",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "13분 전",
-    "url": "https://www.donga.com/news/Society/article/all/20260924/134730846/1",
-    "title": "“주차장 바닥에 깔린 가래떡을 차 매연으로 건조”…매연향 떡집 ‘논란’",
-    "summary": [
-      "한 떡집에서 차량이 오가는 주차장 바닥에 가래떡을 펼쳐놓고 건조하는 모습이 포착돼 논란이 되고 있다.23일 온라인 커뮤니티 보배드림에는 한 떡집이 먼지와 벌레 등에 노출될 수 있는 야외 주차장에서 가래떡을 건조하고 있다는 내용의 글과 사진이 올라왔다.작성자 A 씨는 “떡집에서 떡을 식힐 때 원래 이렇게 식히냐”며 “원래 이곳에서 떡을 사 먹었는데 옆에서 커피를 사려고 주차하다가 두 번 정도 봤다”고 상황을 설명했다.A 씨가 공개한 사진에는 떡집."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "ne94d9833",
-    "category": "IT",
-    "source": "뉴시스",
-    "time": "14분 전",
-    "url": "https://www.newsis.com/view/NISX20260924_0003802796",
-    "title": "이재명 대통령, '대한민국 투자 서밋 2026' [뉴시스 Pic]",
-    "summary": [
-      "[서울=뉴시스]조성봉 김지은 김진아 기자 = 미국 뉴욕을 방문 중인 이재명 대통령이 23일(현지시간) 한미 금융·경제계 주요 인사들이 참석한 '대한민국 투자 서밋 2026'을 주재해 한국 경제 성장 전략을 공유하며 투자 확대와 지속적인 관심을 당부했다.",
-      "이 대통령은 인공지능(AI)·반도체와 함께 우주항공, 바이오 등 미래 첨단산업을 중심으로 대한민국이 만들어갈 새로운 투자 기회를 소개하며 \"이는 양국 기업과 투자자 간의 이해와 신뢰를 높이고,."
-    ],
-    "chips": [
-      "#AI",
-      "#반도체",
-      "#정치"
-    ]
-  },
-  {
-    "id": "n4288b631",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "15분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260924008300055",
-    "title": "전북 가끔 구름 많고 낮 최고 25∼29도",
-    "summary": [
-      "(전주=연합뉴스) 백도인 기자 = 추석 연휴 첫날이자 목요일인 24일 전북은 가끔 구름이 많겠다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n385e4f48",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "15분 전",
-    "url": "https://www.chosun.com/international/international_general/2026/09/24/QOJVPLT6BRBDNKKVX7JVRCX3AY/",
-    "title": "북한군 포로, 20개월만에 한국行... 韓정부 아닌 젤렌스키가 발표",
-    "summary": [
-      "북한군 포로, 20개월만에 한국行... 韓정부 아닌 젤렌스키가 발표."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n60f5c8f5",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "15분 전",
-    "url": "https://www.chosun.com/jp/international-jp/2026/09/24/IBM7WUGCNBBYNHUHUEKIVV3UWY/",
-    "title": "北朝鮮軍捕虜、20カ月後に韓国へ",
-    "summary": [
-      "北朝鮮軍捕虜、20カ月後に韓国へ."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n7e65f7b4",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "16분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260924008100109",
-    "title": "젤렌스키 \"푸틴은 0번 환자…악 퍼뜨릴 공간 차단해야\"",
-    "summary": [
-      "(로마·뉴욕=연합뉴스) 민경락 김연숙 특파원 = 볼로디미르 젤렌스키 우크라이나 대통령은 23일(현지시간) 블라디미르 푸틴 러시아 대통령을 '0번..."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "nc9e8cc7d",
-    "category": "부동산",
-    "source": "뉴시스",
-    "time": "19분 전",
-    "url": "https://www.newsis.com/view/NISX20260923_0003802000",
-    "title": "전세사기 대책에도 보증금 미반환 사각지대 여전…후순위 임차인 피해 '집중'",
-    "summary": [
-      "[서울=뉴시스]이연희 기자 = 전세사기 특별법 제정 등 전세사기·깡통전세 피해를 막기 위한 제도 개선이 상당 부분 이뤄졌지만 여전히 보증금을 돌려받지 못하는 세입자들이 적지 않은 것으로 나타났다.",
-      "특히 후순위 임차인이나 임대인 파산·사망 등 기존 제도로 충분히 보호받기 어려운 사각지대가 여전한 것으로 조사됐다.",
-      "24일 주택세입자 법률지원센터 세입자114의 '보증금 미반환 상담사례를 통해 본 주택임대차제도의 문제점' 보고서에 따르면 세입자114가."
-    ],
-    "chips": [
-      "#전세"
-    ]
-  },
-  {
-    "id": "n2431cc56",
-    "category": "경제",
-    "source": "한국경제",
-    "time": "25분 전",
-    "url": "https://www.hankyung.com/article/202609244555i",
-    "title": "美 10년 만기 국채 금리, 2007년 이후 최고치 경신…인플레이션 우려",
-    "summary": [
-      "美 10년 만기 국채 금리, 2007년 이후 최고치 경신…인플레이션 우려."
-    ],
-    "chips": [
-      "#금리"
-    ]
-  },
-  {
-    "id": "nc84ce46c",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "27분 전",
-    "url": "https://www.donga.com/news/Politics/article/all/20260924/134730843/1",
-    "title": "이 대통령, 유엔총회·트럼프 정상회담 마치고 멕시코로…내일 셰인바움 대통령과 정상회담",
-    "summary": [
-      "이재명 대통령이 미국 뉴욕에서 열린 유엔총회 일정을 마치고 23일(현지시간) 오후 두 번째 방문지인 멕시코로 출발했다.21일 뉴욕에 도착한 이 대통령은 세계 최대 다자외교 무대인 유엔총회에서 2년 연속 참석해 우리 정부의 정책과 비전을 알렸다.기조연설을 통해 한국이 인공지능(AI), 기후변화, 에너지안보 등 인류 공동의 도전에 대한 해법을 찾는 데 건설적으로 기여해 나갈 것임을 밝히며, 유엔의 개혁과 건설적 기여국들의 연대도 강조했다.또 우리."
-    ],
-    "chips": [
-      "#AI",
-      "#정책",
-      "#정치",
-      "#환경"
-    ]
-  },
-  {
-    "id": "n6dd24ea6",
+    "id": "n020c83d3",
     "category": "사회",
     "source": "연합뉴스(경제)",
-    "time": "29분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260923141100001",
-    "title": "\"외상값 못받는 중소기업들\"…매출채권보험 사고액 4년새 65%↑",
+    "time": "8분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260923109200056",
+    "title": "우수관 공사 굴착기 작업 중 사망사고…공사 관계자들 집유",
     "summary": [
-      "(서울=연합뉴스) 권희원 기자 = 물품·용역 등을 외상으로 공급한 중소기업이 대금을 지급받지 못해 발생한 매출채권보험 사고 금액이 4년간 65%..."
+      "(제주=연합뉴스) 전지혜 기자 = 우수관로 공사 현장에서 굴착기 작업 중 발생한 사망사고 관련해 공사 관계자들이 징역형·금고형 집행유예를 선고받..."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "nefbc99e3",
-    "category": "사회",
-    "source": "아시아경제",
-    "time": "34분 전",
-    "url": "https://view.asiae.co.kr/article/2026092404503742544",
-    "title": "[속보] 뉴욕 일정 마친 李대통령, 멕시코로 출발",
+    "id": "n0a1bb797",
+    "category": "부동산",
+    "source": "연합뉴스(경제)",
+    "time": "13분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260923084000003",
+    "title": "\"이렇게 비싸지 않은데\"…집값 과하게 오르는 이유 '담합'",
     "summary": [
-      "[속보] 뉴욕 일정 마친 李대통령, 멕시코로 출발."
+      "(세종=연합뉴스) 오진송 기자 = 최근 5년간 집값 담합 관련 신고가 600건 넘게 접수된 것으로 집계됐다."
     ],
     "chips": [
-      "#정치"
+      "#부동산"
     ]
   },
   {
-    "id": "nc6dda2a1",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "47분 전",
-    "url": "https://www.donga.com/news/Inter/article/all/20260924/134730840/1",
-    "title": "美국무부 “원정출산 가담자 비자 제한…신고해달라”",
+    "id": "nbb2c8b0e",
+    "category": "경제",
+    "source": "한국경제",
+    "time": "17분 전",
+    "url": "https://www.hankyung.com/article/202609244545i",
+    "title": "10년물 5.1% 돌파…금리 주시하는 트럼프 [김현석의 월스트리트나우]",
     "summary": [
-      "미국 국무부가 이른바 ‘원정출산(birth tourism)’에 가담하거나 이를 알선한 외국인에 대한 비자 발급을 제한하겠다고 23일(현지 시간) 밝혔다.마코 루비오 국무장관은 이날 성명을 내고 “외국의 상업적 원정출산 조직들이 미국 이민 제도를 악용해 이윤을 위해 미국 시민권을 팔아왔다.",
-      "미국은 외국인이 미국 시민권의 신성함을 훼손하는 것을 용납하지 않을 것”이라며 이같이 발표했다.원정출산 알선 조직의 소유주·운영자·관리자, 허위 진술을 조언하."
+      "10년물 5.1% 돌파…금리 주시하는 트럼프 [김현석의 월스트리트나우]."
+    ],
+    "chips": [
+      "#금리"
+    ]
+  },
+  {
+    "id": "na4df04e5",
+    "category": "경제",
+    "source": "연합뉴스(경제)",
+    "time": "17분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260923193600002",
+    "title": "저가커피 공세 속에…본사 매출 464% 뛸 때 점주는 10% 늘어",
+    "summary": [
+      "(세종=연합뉴스) 송정은 기자 = 국내 커피 프랜차이즈 시장에서 출점 경쟁이 격화하며 주요 브랜드 가맹점 수가 최근 3년 새 40% 넘게 급증했..."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n21ffc6c3",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "1시간 전",
-    "url": "https://www.donga.com/news/Inter/article/all/20260924/134730828/1",
-    "title": "젤렌스키 “러시아서 생포한 북한군 2명 최근 한국 보내”",
-    "summary": [
-      "볼로디미르 젤렌스키 우크라이나 대통령이 러시아를 위해 싸우다 우크라이나군에 생포된 북한군 병사 2명을 최근 한국으로 보냈다고 밝혔다.23일(현지 시간) CNN에 따르면 젤렌스키 대통령은 이날 미국 뉴욕 유엔본부에서 열린 제81차 유엔총회 연설에서 이같이 밝혔다.젤렌스키 대통령은 생포 당시 상황도 설명했다.",
-      "그는 “그중 한 명은 자신이 포로로 잡히게 된다는 사실을 깨닫자 스스로 목숨을 끊으려 했다”며 “그는 운명이 자신을 죽도록 내버려두지 않았다."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n15d90d83",
+    "id": "n794361d2",
     "category": "경제",
     "source": "아시아경제",
-    "time": "1시간 전",
-    "url": "https://view.asiae.co.kr/article/2026092404002838136",
-    "title": "\"제 송편이 만두가 돼서 큰일\"…뉴욕서 추석 맞은 김혜경 여사",
+    "time": "17분 전",
+    "url": "https://view.asiae.co.kr/article/2026092321160369014",
+    "title": "[인터뷰]윤상현 \"김현지 정진상 '비선 라인' 뭔가 있다\"[시사쇼]",
     "summary": [
-      "유엔총회 참석을 위해 미국 뉴욕을 방문 중인 김혜경 여사가 23일(현지시간) 동포들과 송편을 빚으며 한발 앞서 추석 분위기를 냈다.",
-      "송편 모양이 뜻대로 나오지 않자 \"제 것이 만두가 돼서 큰일났다\"고 웃음을 터뜨린 김 여사는 어린 시절 명절의 추억을 풀어놓는 한편, 세계적으로 높아진 K-푸드의 위상에 대해서도 이야기를 나눴다.",
-      "김 여사는 이날 뉴욕 맨해튼 주뉴욕한국문화원에서 뉴욕가정상담소 관계자들과 함께 추석맞이 송편 빚기 행사에 참석했다."
+      "[인터뷰]윤상현 \"김현지 정진상 '비선 라인' 뭔가 있다\"[시사쇼]."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n0489ade7",
-    "category": "부동산",
-    "source": "아시아경제",
-    "time": "3시간 전",
-    "url": "https://view.asiae.co.kr/article/2026092402480534625",
-    "title": "李대통령 \"농지전수조사 꼭 필요…저항·반발에도 회피 않겠다\"",
+    "id": "n6a010c2a",
+    "category": "경제",
+    "source": "한국경제",
+    "time": "18분 전",
+    "url": "https://www.hankyung.com/article/202609234294i",
+    "title": "올 추석 부모님 선물로 소형 건강가전 어때요?",
     "summary": [
-      "이재명 대통령이 농지 투기를 막기 위한 농지전수조사를 예정대로 추진하겠다는 뜻을 재확인했다.",
-      "농지를 취득한 뒤 실제 농사를 짓지 않고 땅값 상승을 기다리거나 불법으로 임대하는 행위에 대해서는 법에 따라 강제매각 등 제재를 해야 한다고 강조했다.",
-      "농지전수조사를 자신이 추진해 온 '부동산개혁'의 연장선으로 규정하며 현장의 반발에도 물러서지 않겠다는 의지를 분명히 한 것이다."
+      "올 추석 부모님 선물로 소형 건강가전 어때요?."
     ],
     "chips": [
-      "#부동산",
-      "#정치"
+      "#의료"
     ]
   },
   {
-    "id": "nff980bad",
+    "id": "n33a1d56a",
     "category": "IT",
-    "source": "아시아경제",
-    "time": "3시간 전",
-    "url": "https://view.asiae.co.kr/article/2026092402420830407",
-    "title": "월가 큰 손들과 다시 만난 李 \"韓 투자, 나중에 왜 안 했나 할 것\" (종합)",
+    "source": "한국경제",
+    "time": "18분 전",
+    "url": "https://www.hankyung.com/article/202609233801i",
+    "title": "관세·반도체 협상 어떻게 되나…미중 정상회담 투자자 관전 포인트",
     "summary": [
-      "유엔(UN) 총회 참석차 미국 뉴욕을 방문 중인 이재명 대통령은 23일(현지시간) 한국 경제가 글로벌 통상·지정학적 불확실성 속에서도 강한 복원력과 성장 잠재력을 보여주고 있다며 반도체·피지컬 인공지능(AI)·AI데이터센터를 축으로 한 첨단산업 투자를 대폭 확대하겠다고 밝혔다.",
-      "향후 5년 안에 메모리 생산능력을 두 배로 늘리고 미래대응기금을 신설하는 한편 자본·외환시장 개혁을 통해 한국을 글로벌 자본이 자유롭게 투자할 수 있는 시장으로 만들겠다."
+      "관세·반도체 협상 어떻게 되나…미중 정상회담 투자자 관전 포인트."
     ],
     "chips": [
-      "#AI",
-      "#반도체",
-      "#정치"
+      "#반도체"
     ]
   },
   {
-    "id": "nbda17d88",
-    "category": "IT",
-    "source": "테크M",
-    "time": "3시간 전",
-    "url": "https://www.techm.kr/news/articleView.html?idxno=155544",
-    "title": "로봇 AI 추론 7배 빨라졌다...택배 물류센터선 RFM 실증 시작",
+    "id": "na28c3895",
+    "category": "경제",
+    "source": "한국경제",
+    "time": "18분 전",
+    "url": "https://www.hankyung.com/article/202609233719i",
+    "title": "훈풍 부는 가상자산 시장…핵심 이슈와 투자전략 살펴보니",
     "summary": [
-      "로봇용 AI가 기기에서 '속도'를 내기 시작했다.",
-      "모델을 반도체에 맞춰 최적화하자 추론 시간이 최대 7분의 1로 줄었다.",
-      "로봇팔은 같은 작업을 3배 빨리 끝냈다."
+      "훈풍 부는 가상자산 시장…핵심 이슈와 투자전략 살펴보니."
     ],
     "chips": [
-      "#AI",
-      "#반도체",
-      "#엔비디아"
+      "#뉴스"
     ]
   }
 ];
@@ -635,21 +621,21 @@ window.NEWS_DB = [
 window.KEYWORD_TOP = [
   {
     "rank": 1,
-    "tag": "AI",
-    "mentions": "2070건",
-    "trend": "+215%"
+    "tag": "뉴스",
+    "mentions": "2590건",
+    "trend": "+295%"
   },
   {
     "rank": 2,
-    "tag": "뉴스",
-    "mentions": "2070건",
-    "trend": "+215%"
+    "tag": "반도체",
+    "mentions": "1550건",
+    "trend": "+135%"
   },
   {
     "rank": 3,
-    "tag": "반도체",
-    "mentions": "1810건",
-    "trend": "+175%"
+    "tag": "부동산",
+    "mentions": "1420건",
+    "trend": "+115%"
   }
 ];
 // ====AUTO-GENERATED-END====
