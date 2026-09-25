@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-09-24 21:53:13
+// 마지막 업데이트: 2026-09-25 00:08:00
 window.NEWS_DB = [
   {
     "id": "neb593163",
     "category": "IT",
     "source": "핀포인트뉴스",
-    "time": "6시간 전",
+    "time": "8시간 전",
     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBURUREUm5wR2gyYldvSDJBa2NrOExxT0gySjBQY3FvSndOT1htOWNLcmhQMFFGc3FUSEF4cHpMVW50RmtIOWdhdEYwV2lCclRFN0xaYnJDNXEwcHlRUnhXRkNzR05POHBBUW5qbGNrejJGZ0HSAXdBVV95cUxPOEZOQjZfR2g4WVBCd3lPdkFXWk1pSU1hMHlsck1qdWF6QlI0UVpXSFp0eWV0ckpiQmh3YlR6Vm84VmNDR0Rfc1lwSC1TWkc1R2V6WGlxb1kwRHRENGRZak5XRlhsRnlPSGJoczFFcTB5WWtPRkw1cw?oc=5",
     "title": "삼성전자 3분기 영업익 107조 전망…기대 밑돌아도 HBM은 뜬다",
     "summary": [
@@ -17,33 +17,32 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n2505c51b",
+    "category": "IT",
+    "source": "v.daum.net",
+    "time": "1일 전",
+    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5EQnRreThIc0QyTEw2UzJzRXRVcGxCbHltZUJxckVubFFFLVdUbFpUMFkwamIycUtPRXpRemJjNjV1NERSZTUwMFUzSGNVSE0?oc=5",
+    "title": "“바보야, 문제는 토큰이야”…엔비디아가 찾은 ‘토크노믹스’ 시대 해법은 [비즈360]",
+    "summary": [
+      "“바보야, 문제는 토큰이야”…엔비디아가 찾은 ‘토크노믹스’ 시대 해법은 [비즈360] v.daum.net."
+    ],
+    "chips": [
+      "#엔비디아"
+    ]
+  },
+  {
     "id": "n86f2bb7d",
     "category": "IT",
-    "source": "hankyung.com",
-    "time": "1일 전",
+    "source": "한국경제",
+    "time": "2일 전",
     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5DRlpvcWZiUlFnejN6YzRfcFNLQzJoWmR2WXdQVWFuZVo5RThzRUxBaHEzUWtONVJRMGZBZGdGZU9UT2pGWVE2eU1NMXhTZjRFTy13YU1Ca2Fndw?oc=5",
     "title": "\"삼성전자, 전망보다 3분기 실적 밑돌 것…파운드리 주목해야\"-키움",
     "summary": [
-      "\"삼성전자, 전망보다 3분기 실적 밑돌 것…파운드리 주목해야\"-키움 hankyung.com."
+      "\"삼성전자, 전망보다 3분기 실적 밑돌 것…파운드리 주목해야\"-키움 한국경제."
     ],
     "chips": [
       "#반도체",
       "#삼성전자"
-    ]
-  },
-  {
-    "id": "nede90aad",
-    "category": "IT",
-    "source": "서울경제TV",
-    "time": "2일 전",
-    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBaUkMtamtCc011dFVaY2N0SnE4OTFKdDV4NllQRTBGdFJPUXVIelZOYzk0d2pHLWtQZk0xbU9GWjRwSUdOa0dMSkdXSngzUWF1Zjh6bEZrQXQtTWlxeVFXS0l2WkI?oc=5",
-    "title": "엔비디아 뚫은 LG전자…AI 데이터센터 냉각시장 선점",
-    "summary": [
-      "엔비디아 뚫은 LG전자…AI 데이터센터 냉각시장 선점 서울경제TV."
-    ],
-    "chips": [
-      "#AI",
-      "#엔비디아"
     ]
   },
   {
@@ -121,12 +120,12 @@ window.NEWS_DB = [
   {
     "id": "n3bf091c2",
     "category": "스포츠",
-    "source": "hankyung.com",
+    "source": "한국경제",
     "time": "3일 전",
     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9nY3BENG1heVF4amFVRDZ5M0Q3V09uYWZTRmZEZlcxZTJzc08zU2RBM3BRSEh6aTZPVDR2blc0YjZrNUhnMHNDUVN0M0pKMTBDVWxlUWhtZ1Zudw?oc=5",
     "title": "\"손흥민 533만원·페이커 1100만원\"…해외선 없어서 못 산다",
     "summary": [
-      "\"손흥민 533만원·페이커 1100만원\"…해외선 없어서 못 산다 hankyung.com."
+      "\"손흥민 533만원·페이커 1100만원\"…해외선 없어서 못 산다 한국경제."
     ],
     "chips": [
       "#손흥민"
@@ -136,7 +135,7 @@ window.NEWS_DB = [
     "id": "n1ebf737b",
     "category": "스포츠",
     "source": "글로벌E",
-    "time": "3일 전",
+    "time": "4일 전",
     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1xdGdqbUJjMXkyZFRRYi1ETklIZmlIQlFHYS1ZemlEaU5IQ0hCQkR1Wm5pYVVJUl9jX2s3Z08ydEpxdFM2elFVdjNFdlhxMlRsUVhQY3JKRVdRWG5WUlpOR2hNemdnbVdrWElv0gFvQVVfeXFMT1QxRDNTbjRoMk5ZWVBmRllQU2Z2b1IyY0hYZEx1LWc0aFhSb083aGdYc1ZQNDhrN0NncVZGclFwVnV0RGNoNTNmcXkwSzF5dTdxZnVRYlFQOTZDblRRWkpDUzNCOUpoMEJmbkRYa1Nz?oc=5",
     "title": "이베이, K-스포츠 굿즈 역직구 급증···KBO 매출 전년 대비 2.9배↑",
     "summary": [
@@ -266,12 +265,12 @@ window.NEWS_DB = [
   {
     "id": "nabfa15b0",
     "category": "경제",
-    "source": "ytn.co.kr",
+    "source": "YTN",
     "time": "106일 전",
     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE50bVBaMGNlWG1LRkQ2OEh1YUF0cjlWc1EwdS1URDE1ZzJpajQzYmtTdUpGZk9yOWc0V1REZF9fNmVWOU4yVFVhbzhtQzNzMUg3b0ZfVkhVd1dxVGl0OXc?oc=5",
     "title": "\"韓 적정 환율은 얼마일까?\" 환율 vs 금리 vs 증시 상관관계 집중해부",
     "summary": [
-      "\"韓 적정 환율은 얼마일까?\" 환율 vs 금리 vs 증시 상관관계 집중해부 ytn.co.kr."
+      "\"韓 적정 환율은 얼마일까?\" 환율 vs 금리 vs 증시 상관관계 집중해부 YTN."
     ],
     "chips": [
       "#금리",
@@ -281,12 +280,12 @@ window.NEWS_DB = [
   {
     "id": "nba668fc0",
     "category": "IT",
-    "source": "한국방송뉴스",
+    "source": "ikbn.news",
     "time": "148일 전",
     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1XaThhZXFiX3dDT0NrYVFwZ2dhNTgxbHU0WE5Bc21vcGVzR0d2Wkh2Zm5pS2MyZ1JkYlhHb2VfRkhkemdEX1F6Q1RtajJLRzR6dDdHcExQelAyS2N1OUE?oc=5",
     "title": "1조 8000억 규모 벤처펀드 선정…\"벤처·스타트업에 적시 공급\"",
     "summary": [
-      "1조 8000억 규모 벤처펀드 선정…\"벤처·스타트업에 적시 공급\" 한국방송뉴스."
+      "1조 8000억 규모 벤처펀드 선정…\"벤처·스타트업에 적시 공급\" ikbn.news."
     ],
     "chips": [
       "#스타트업"
@@ -295,12 +294,12 @@ window.NEWS_DB = [
   {
     "id": "n08b2b275",
     "category": "부동산",
-    "source": "한국부동산뉴스",
+    "source": "karnews.or.kr",
     "time": "163일 전",
     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBZNmg3TVp4ZWZCV1ZzTE14bXV5UkN4MExnMmZJdkpfNUsyUGltRWlJVWVfUzJoQktRUlcwMTdrUUtuWk9pR2MxaFlhNGpOU0xGZjM3eDUwdlNmRWQtYkFaenAyekhVRGRRY0pJ?oc=5",
     "title": "대출 규제에 몰린 '15억 이하'…비강남 집값·분양가 동반 상승",
     "summary": [
-      "대출 규제에 몰린 '15억 이하'…비강남 집값·분양가 동반 상승 한국부동산뉴스."
+      "대출 규제에 몰린 '15억 이하'…비강남 집값·분양가 동반 상승 karnews.or.kr."
     ],
     "chips": [
       "#부동산",
@@ -308,315 +307,328 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "neae6d995",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "1분 전",
-    "url": "https://www.newsis.com/view/NISX20260924_0003803060",
-    "title": "울산에서 추석 보름달 보기 어려워…낮 최고 울산 27℃",
-    "summary": [
-      "[울산=뉴시스] 유재형 기자 = 울산기상대는 추석 당일인 25일 울산과 부산, 경남지역은 대체로 흐린 날씨를 보여 대부분 지역에서 보름달을 보기는 어려울 것으로 예보했다.",
-      "월출 시각은 울산 오후 5시24분, 부산 오후 5시25분, 창원 오후 5시26분, 진주 오후 5시29분, 거창 오후 5시30분으로 예상했다.",
-      "밤에 0.1㎜ 미만의 빗방울이 떨어지는 곳이 있겠다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n29d63379",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "1분 전",
-    "url": "https://www.newsis.com/view/NISX20260925_0003803267",
-    "title": "부산, 대체로 흐리고 밤부터 비…예상 강수량 5~20㎜",
-    "summary": [
-      "[부산=뉴시스] 이아름 기자 = 25일 부산은 대체로 흐리고 밤부터 비가 내릴 것으로 부산기상청은 예보했다.",
-      "예상 강수량(25~26일)은 5~20㎜다.",
-      "이날 밤에는 구름이 두터워 보름달을 보기 어려울 것으로 전망됐다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n41b13758",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "2분 전",
-    "url": "https://www.newsis.com/view/NISX20260925_0003803269",
-    "title": "추석 전남광주 비소식…26일까지 최대 60㎜",
-    "summary": [
-      "[전남광주=뉴시스]이영주 기자 = 추석 당일 전남광주는 대체로 흐리고 비가 내리겠다.",
-      "25일 광주기상청에 따르면 이날 전남광주는 서해상에서 다가오는 기압골의 영향을 차차 받으면서 비가 예보됐다.",
-      "비는 늦은 오후 전남광주 북서부부터 시작해 밤부터 차차 전역으로 확대될 전망이다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n402b056c",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "4분 전",
-    "url": "https://www.newsis.com/view/NISX20260925_0003803264",
-    "title": "[미중정상회담]'인민대회당 넘겠다' 트럼프, 시진핑에 백악관 연회장 소개",
-    "summary": [
-      "[서울=뉴시스] 김승민 기자 = 도널드 트럼프 미국 대통령이 24일(현지 시간) 열린 미중 정상회담에서 시진핑 중국 국가주석에게 백악관 연회장 건설 현장을 보여줬다.",
-      "트럼프 대통령은 지난 5월 중국 베이징에서 열린 정상회담에서 중국 인민대회당에 깊은 인상을 받았던 것으로 알려졌다.",
-      "미국 언론 보도를 종합하면 트럼프 대통령과 시 주석은 이날 백악관에서 90분 안팎의 정상회담을 한 뒤 오후 1시께 밖으로 나와 최근 공사를 마친 헬기 이착륙장으로 향."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "nb157ccdc",
-    "category": "경제",
-    "source": "한국경제",
-    "time": "5분 전",
-    "url": "https://www.hankyung.com/article/202609255459i",
-    "title": "中 상징 붉은 꽃 장식에 3층 디저트로 '필살기' 선보이는 멜라니아[이상은의 워싱턴나우]",
-    "summary": [
-      "中 상징 붉은 꽃 장식에 3층 디저트로 '필살기' 선보이는 멜라니아[이상은의 워싱턴나우]."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "ndc692798",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "7분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260925011100099",
-    "title": "네타냐후 \"가자지구 집단학살 주장은 세기의 거짓말\"",
-    "summary": [
-      "(요하네스버그=연합뉴스) 나확진 특파원 = 베냐민 네타냐후 이스라엘 총리는 24일(현지시간) \"이스라엘을 집단학살 혐의로 비난하는 것은 세기의 ..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nef5577f1",
-    "category": "경제",
-    "source": "조선일보",
-    "time": "7분 전",
-    "url": "https://www.chosun.com/international/international_general/2026/09/25/G42DGZRZGY4DCYJYMEYGCZRQMI/",
-    "title": "유엔 본부서 한국 등 80개국, 호르무즈 재개방 촉구…이란·후티 규탄도",
-    "summary": [
-      "한국을 포함한 80개 국가가 24일(현지 시각) 호르무즈 해협의 즉각적인 재개방을 촉구하고, 이란과 예멘의 친이란 반군 후티의 무력 도발 및 국제 무역 교란을 규탄하는 공동성명을 냈다.",
-      "바레인의 압둘라티프 빈 라시드 알-자야니 외교장관은 이날 미 뉴욕 유엔본부에서 기자회견을 열고 이 같은 내용의 공동 성명을 낭독했다.",
-      "공동 성명에는 한국과 걸프·아랍 국가,."
-    ],
-    "chips": [
-      "#수출"
-    ]
-  },
-  {
-    "id": "n63fa16fc",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "7분 전",
-    "url": "https://www.chosun.com/jp/international-jp/2026/09/25/J5UA7S5T7RGXDGAB7IS5HIWNNE/",
-    "title": "韓国など80カ国、ホルムズ再開放要求",
-    "summary": [
-      "韓国を含む80カ国が24日（現地時間）、ホルムズ海峡の即時再開放を求め、イランとイエメンの親イラン武装組織フーシ派による武力挑発および国際貿易の混乱を糾弾する共同声明を出した。バーレーンのアブドゥラティフ・ビン・ラシド・アルザヤニ外相は同日、米ニューヨークの国連本部で記者会見を開き、この内容の共同声明を読み上げた。共同声明には韓国と湾岸・アラブ諸国、."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n0553a97b",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "9분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260925011300009",
-    "title": "\"미국·이란, 호르무즈 해협 재개방 위한 단계적 합의 모색\"",
-    "summary": [
-      "(서울=연합뉴스) 임화섭 기자 = 이란이 호르무즈 해협을 재개방하고 그 대가로 미국이 이란 항만에 대한 경제봉쇄를 해제하는 단계적 합의를 양측이..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "ncaa9ca5d",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "18분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260923122300003",
-    "title": "철도서 하루 2.3건 성폭력…가장 많이 발생하는 곳 수원역",
-    "summary": [
-      "(서울=연합뉴스) 김윤구 기자 = 열차 안과 역사 등 철도시설에서 최근 5년 6개월간 하루 평균 2건 넘는 성폭력 범죄가 발생한 것으로 나타났다..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n4bcee0b4",
+    "id": "n2798e5e0",
     "category": "IT",
-    "source": "연합뉴스",
-    "time": "20분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260923139300017",
-    "title": "[AI프리즘] 조선소·공장이 AI 훈련장으로…한국의 피지컬 AI 승부수",
+    "source": "테크M",
+    "time": "방금 전",
+    "url": "https://www.techm.kr/news/articleView.html?idxno=155551",
+    "title": "[연휴에 뭐하지] 한가위 달맞이부터 레이드까지...게임 속으로 들어온 '추석 연휴'",
     "summary": [
-      "(서울=연합뉴스) 권하영 기자 = 글로벌 인공지능(AI) 평가기관이 한국을 AI 경쟁의 '확고한 3위'로 공인한 가운데 이제 한국의 시선은 다음..."
+      "추석 연휴를 맞아 게임업계가 이용자들의 연휴 게임 플레이를 겨냥한 대규모 업데이트에 나섰다.",
+      "새로운 콘텐츠를 추가하는 것은 물론 추석을 소재로 한 이벤트와 풍성한 보상까지 마련하면서 모처럼 찾아온 휴식 기간을 게임과 함께 보낼 수 있는 선택지가 늘었다.특히 올해는 MMORPG부터 모바일 RPG, 레이싱 게임까지 장르별로 각각 다른 즐길거리가 마련됐다.",
+      "긴 연휴를 이용해 새로운 콘텐츠를 몰아서 즐기려는 이용자부터 이동 중 짧게 게임을 즐기려는 이."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n6049b2af",
+    "category": "IT",
+    "source": "테크M",
+    "time": "방금 전",
+    "url": "https://www.techm.kr/news/articleView.html?idxno=155563",
+    "title": "[연휴에 뭐하지] \"벌룬쇼부터 아쿠아리움까지\"...놀거리-볼거리로 무장한 신세계",
+    "summary": [
+      "명절 연휴를 맞아 고향을 찾는 대신 도심에서 여유롭게 휴식을 취하려는 '도심 연휴족'이 크게 늘고 있습니다.",
+      "귀성길 도로 정체와 가사 부담을 피해 시원하고 쾌적한 실내 공간을 찾는 가족 단위 발길이 유통가로 향하는 모습입니다.가장 눈에 띄는 곳은 신세계입니다.",
+      "스타필드와 신세계백화점이 추석을 겨냥해 '문화 바캉스'를 테마로 다채로운 볼거리와 즐길거리를 준비했습니다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n1838333f",
+    "category": "IT",
+    "source": "테크M",
+    "time": "방금 전",
+    "url": "https://www.techm.kr/news/articleView.html?idxno=155542",
+    "title": "[연휴에 뭐보지] \"이번 추석엔 뭐 볼까?\"...웃음도 감동도 풍성한 OTT 콘텐츠 '총출동'",
+    "summary": [
+      "바쁘게 보내던 일상 속 찾아온 추석 연휴에는 가족들과 한자리에 모여 정을 나누기도, 모처럼 나만의 여유를 즐기기도 하는 등 저마다의 방식으로 휴식을 즐긴다.",
+      "다채로운 볼거리로 연휴 기간 새로운 즐거움을 더해보는 건 어떨까.",
+      "가족들과 둘러앉아 웃고 떠들며 즐길 수 있는 예능부터 손에 땀을 쥐게 하는 서바이벌과 액션, 설렘 가득한 연애 예능까지 취향에 따라 골라 보는 풍성한 콘텐츠가 총출동했다.여기에 귀성·귀경길 지루한 이동 시간을 달래줄 오디오."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n137bbaa0",
+    "category": "IT",
+    "source": "테크M",
+    "time": "방금 전",
+    "url": "https://www.techm.kr/news/articleView.html?idxno=155568",
+    "title": "[가봤다] 스마트안경, 제2의 스마트폰 될까...퀄컴 'AI 생태계 체험관'",
+    "summary": [
+      "스마트안경은 제2의 스마트폰이 될 수 있을까.",
+      "스마트안경을 쓰면 스마트폰이 없어도 인공지능(AI) 에이전트는 물론 다양한 애플리케이션(앱)을 활용할 수 있다.",
+      "개방된 시야는 당연하다.24일(현지시각) 퀄컴은 미국 마우이에서 열린 '스냅드래곤 서밋'에서 스냅드래곤 생태계 체험 행사를 진행했다."
     ],
     "chips": [
       "#AI"
     ]
   },
   {
-    "id": "n828706e3",
-    "category": "경제",
-    "source": "한국경제",
-    "time": "20분 전",
-    "url": "https://www.hankyung.com/article/202609255458i",
-    "title": "10년물 5.2% 돌파…美증시 덮친 '고금리 장기화' [뉴욕증시 브리핑]",
+    "id": "n295f06f9",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "1분 전",
+    "url": "https://www.newsis.com/view/NISX20260924_0003803077",
+    "title": "'폐어구 고통' 제주 돌고래 5마리…해양생물 지키기 모색",
     "summary": [
-      "10년물 5.2% 돌파…美증시 덮친 '고금리 장기화' [뉴욕증시 브리핑]."
+      "[제주=뉴시스]오영재 기자 = 제주 해양보호구역과 연안 해양생물을 지키기 위해 민·관이 머리를 맞댄다.",
+      "제주도는 29일 오후 3시30분 제주도의회 대회의실에서 민간단체 등과 함께 '해양보호구역 관리 및 해양생물 보호 방안 정책토론회'를 연다고 25일 밝혔다.",
+      "토론회에는 해양시민과학센터 파란, 제주환경운동연합, 다큐제주, 오션케어 등 관계기관과 민간단체 관계자들이 참여한다."
     ],
     "chips": [
-      "#금리"
-    ]
-  },
-  {
-    "id": "n2cc1d2b9",
-    "category": "IT",
-    "source": "ZDNet Korea",
-    "time": "22분 전",
-    "url": "https://zdnet.co.kr/view/?no=20260925062734",
-    "title": "애플, 퀄컴 칩 의존 낮춰도 통신 특허 계약은 연장",
-    "summary": [
-      "[지디넷코리아]애플이 자체 모뎀 탑재를 늘리며 퀄컴 칩 의존도를 낮추고 있지만 무선통신 특허 관계는 이어간다.",
-      "퀄컴과 글로벌 라이선스 계약을 연장하면서 자체 칩 개발과 별개로 퀄컴의 핵심 무선통신 지식재산권을 계속 활용하게 됐다.24일(현지시간) 모바일월드라이브에 따르면 퀄컴은 애플과 글로벌 라이선스 계약을 갱신했다.",
-      "새 계약은 2027년 4월1일부터 발효된다.존 한 퀄컴 테크놀로지라이선싱 총괄부사장은 “애플과 라이선스 계약을 연장하게 돼 기쁘."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nd6cf280c",
-    "category": "IT",
-    "source": "아시아경제",
-    "time": "23분 전",
-    "url": "https://view.asiae.co.kr/article/2026092216294209379",
-    "title": "\"얼굴·목소리도 믿지 마세요\"…추석 연휴 AI 사기 주의보",
-    "summary": [
-      "인공지능(AI)으로 가족의 목소리를 흉내내거나 개인정보를 활용해 정교하게 사칭하는 명절 사기에 주의가 요구된다.이스트소프트의 보안전문 자회사 이스트시큐리티는 25일 AI 기술을 악용한 명절 사기 신종 유형 4가지를 발표하며 주의를 당부했다.",
-      "이스트시큐리티는 ▲몇초 음성으로 완성되는 딥보이스·딥페이크 영상통화 사기 ▲문법 오류가 사라진 AI 생성 맞춤형 피싱 ▲뱅킹·메신저·SNS를 한번에 터는 '올인원 계정 탈취' ▲잇따른 개인정보 유출 사고와."
-    ],
-    "chips": [
-      "#AI"
-    ]
-  },
-  {
-    "id": "na9dbdfff",
-    "category": "경제",
-    "source": "한국경제",
-    "time": "28분 전",
-    "url": "https://www.hankyung.com/article/202609255402i",
-    "title": "시진핑 \"美中 새 무역합의 도달.. 美, 대만 독립에 반대해야\"[이상은의 워싱턴나우]",
-    "summary": [
-      "시진핑 \"美中 새 무역합의 도달.. 美, 대만 독립에 반대해야\"[이상은의 워싱턴나우]."
-    ],
-    "chips": [
-      "#수출"
-    ]
-  },
-  {
-    "id": "n062716b3",
-    "category": "경제",
-    "source": "한국경제",
-    "time": "28분 전",
-    "url": "https://www.hankyung.com/article/202609255409i",
-    "title": "일본, 이탈리아는 하는데 한국은 왜 못하나…뉴욕 시장 겨냥한 도전",
-    "summary": [
-      "일본, 이탈리아는 하는데 한국은 왜 못하나…뉴욕 시장 겨냥한 도전."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nb5c8a866",
-    "category": "IT",
-    "source": "동아일보",
-    "time": "37분 전",
-    "url": "https://www.donga.com/news/Inter/article/all/20260925/134732241/1",
-    "title": "트럼프 “초지능 논의”…시진핑 “AI 인간이 통제해야”",
-    "summary": [
-      "24일(현지 시간) 시진핑(習近平) 중국 국가주석의 방미 2일차 일정이 시작됐다.",
-      "이날은 공식 국빈 환영식과 함께 정상회담, 영부인들의 미술관 방문, 국빈 만찬 등이 이어진다.시 주석은 이날 오전 10시경 배우자 펑리위안(彭麗媛) 여사와 백악관에 도착했다.",
-      "도널드 트럼프 미국 대통령과 멜라니아 여사가 시 주석 부부를 건물 앞에서 맞이했다."
-    ],
-    "chips": [
-      "#AI",
-      "#정치"
-    ]
-  },
-  {
-    "id": "nd5babe53",
-    "category": "경제",
-    "source": "연합뉴스(경제)",
-    "time": "52분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260923199400002",
-    "title": "소득 다 털어도 빚 갚기 빠듯한 차주 3년 반 만에 반등",
-    "summary": [
-      "(서울=연합뉴스) 한지훈 기자 = 연간 소득 이상의 돈을 대출 원리금 상환에 써야 하는 가계대출 차주의 비중이 3년 반 만에 상승한 것으로 나타..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n73ef391e",
-    "category": "부동산",
-    "source": "연합뉴스(경제)",
-    "time": "55분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260924044300001",
-    "title": "주금공 대위변제 3년새 138%↑…\"전세대출 못 갚는 서민 늘어\"",
-    "summary": [
-      "(서울=연합뉴스) 권희원 기자 = 전세자금 대출을 제때 갚지 못해 한국주택금융공사가 금융기관에 대신 갚아준 대위변제액이 3년간 배 이상 급증한 ..."
-    ],
-    "chips": [
-      "#전세"
-    ]
-  },
-  {
-    "id": "nde5429d4",
-    "category": "IT",
-    "source": "ZDNet Korea",
-    "time": "55분 전",
-    "url": "https://zdnet.co.kr/view/?no=20260925043330",
-    "title": "\"AI 파편화 끝낸다\"… 퀄컴, '모듈러' 품고 스냅드래곤·윈도우 생태계 대통합",
-    "summary": [
-      "[지디넷코리아][마우이(미국)=지디넷코리아 전화평 기자] 퀄컴이 각기 다른 AI 하드웨어로 인해 발생하는 소프트웨어 파편화 문제를 해결하기 위해 '통합 AI 소프트웨어 스택' 구축에 승부수를 던졌다.",
-      "데이터센터부터 로컬 PC, 초저전력 엣지 디바이스까지 아우르는 스냅드래곤 전체 포트폴리오를 하나의 개발 환경으로 묶겠다는 구상이다.퀄컴은 24일(현지시간) 미국 하와이 마우이에서 열린 '스냅드래곤 서밋 2026'에서 최근 인수한 AI 소프트웨어 스."
-    ],
-    "chips": [
-      "#AI",
+      "#정책",
       "#환경"
     ]
   },
   {
-    "id": "n72e40382",
-    "category": "경제",
-    "source": "연합뉴스(경제)",
-    "time": "1시간 전",
-    "url": "https://www.yna.co.kr/view/AKR20260923192900002",
-    "title": "작년 추석 휴게소서 한명당 1만8천원 소비…심야 매출 4배 '쑥'",
+    "id": "n6df5731d",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "3분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260925017700065",
+    "title": "인천서 운행 중인 차량에 불…차량 전소",
     "summary": [
-      "(서울=연합뉴스) 김지연 기자 = 지난해 추석 연휴 기간 고속도로 휴게소에서 1인당 약 1만8천원을 쓴 것으로 나타났다."
+      "(인천=연합뉴스) 최은지 기자 = 25일 오전 3시 11분께 인천시 남동구 논현동 한 공장 부지에서 운행 중이던 르노 차량에 불이 났다."
     ],
     "chips": [
       "#뉴스"
+    ]
+  },
+  {
+    "id": "n54298e47",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "4분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260923001800005",
+    "title": "문예지 창간·시인선 출범…문학으로 새 활로 뚫는 출판사들",
+    "summary": [
+      "(서울=연합뉴스) 김기훈 기자 = 출판계 불황이 지속되는 가운데, 국내 주요 출판사들이 '문학'으로 돌파구를 찾으려는 시도를 이어가고 있다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n41e262a5",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "5분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260925017200004",
+    "title": "추석 당일 오전 고속도로 정체 시작…서울→부산 8시간40분",
+    "summary": [
+      "(서울=연합뉴스) 김채린 기자 = 추석 당일인 25일 오전 귀성·귀경 행렬이 이어지며 고속도로 곳곳에서 정체가 빚어지고 있다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n7ebfc081",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "5분 전",
+    "url": "https://www.newsis.com/view/NISX20260924_0003803067",
+    "title": "내달 2~4일 추자도 참굴비 대축제…체험·공연·판매 풍성",
+    "summary": [
+      "[제주=뉴시스]오영재 기자 = 제주 추자도 명물인 참굴비를 테마로 한 지역 축제가 열린다.",
+      "제주도는 내달 2일부터 4일까지 추자도 일대에서 제18회 추자도 참굴비 대축제가 개최된다고 25일 밝혔다.",
+      "이번 축제는 '섬, 바다, 사람, 다 함께 황금 그물의 섬 추자도로!'를 주제로 열린다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n56ab0be2",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "6분 전",
+    "url": "https://www.newsis.com/view/NISX20260925_0003803296",
+    "title": "이승기 \"31개월 딸, 유치원서 아빠 자랑해…내 앞에선 티 안 내\"",
+    "summary": [
+      "[서울=뉴시스]강주희 기자 = 가수 겸 배우 이승기가 딸바보 면모를 드러냈다.",
+      "이승기는 24일 자신의 유튜브 채널에서 31개월 된 딸의 근황을 전하며 \"지금 너무 잘 뛰고 말도 엄청 잘한다.",
+      "두 살 때부터 완전 터졌다\"고 말했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n14ff4aec",
+    "category": "경제",
+    "source": "연합뉴스",
+    "time": "6분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260923149200061",
+    "title": "경기도, '업추비 부적정 집행' 코리아경기도주식회사 기관경고",
+    "summary": [
+      "(수원=연합뉴스) 최찬흥 기자 = 경기도는 업무추진비를 부적정하게 집행하고 예산 집행기준을 준수하지 않은 산하 공공기관 코리아경기도주식회사에 대..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n1125a7f3",
+    "category": "경제",
+    "source": "연합뉴스(경제)",
+    "time": "6분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260924000900002",
+    "title": "라임·옵티머스 40명 아직도 안 돼…사모펀드 배상 천차만별",
+    "summary": [
+      "(서울=연합뉴스) 배영경 기자 = 대규모 환매중단이 발생했던 라임·옵티머스 펀드 사태가 일어난 지 6년이 넘도록 배상이 완료되지 않은 투자자가 ..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nd8cfa932",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "6분 전",
+    "url": "https://www.newsis.com/view/NISX20260923_0003802483",
+    "title": "전남광주교육청 \"학교서 반도체 실무 가르쳐 지역 취업\"",
+    "summary": [
+      "[전남광주=뉴시스]구용희 기자 = 전남광주 직업계고 학생들이 학교에서 반도체 장비를 다루고 공정을 익힌다.",
+      "전남광주통합특별시교육청은 산업현장에 필요한 기술을 학교에서 가르치고 지역 기업 취업과 정착까지 연결하는 직업교육 개편을 추진한다.",
+      "25일 통합교육청에 따르면 학교별 전략산업 분야를 정해 학과 구성과 교육과정, 실습환경을 개편한다."
+    ],
+    "chips": [
+      "#반도체",
+      "#취업",
+      "#교육",
+      "#환경"
+    ]
+  },
+  {
+    "id": "nab6eeebb",
+    "category": "경제",
+    "source": "연합뉴스(경제)",
+    "time": "7분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260923055000055",
+    "title": "농진원 \"저탄소 인증 농산물 휴대전화로 확인하세요\"",
+    "summary": [
+      "(익산=연합뉴스) 김진방 기자 = 한국농업기술진흥원은 에버원소프트와 함께 저탄소 인증 농산물을 구매하는 소비자가 휴대전화로 인증 여부를 쉽게 확..."
+    ],
+    "chips": [
+      "#환경"
+    ]
+  },
+  {
+    "id": "ne4ed5425",
+    "category": "경제",
+    "source": "연합뉴스(경제)",
+    "time": "7분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260921150100008",
+    "title": "상반기 역대 최대 실적 증권사들…기부는 인색하네",
+    "summary": [
+      "(서울=연합뉴스) 임은진 기자 = 올해 상반기 증시 활황으로 거래가 늘면서 증권사의 순이익이 늘어났지만 기부금은 오히려 줄어든 것으로 나타났다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n1270be6a",
+    "category": "경제",
+    "source": "연합뉴스(경제)",
+    "time": "7분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260923138000030",
+    "title": "[반려동물] 강아지용 한복·송편 인기…품절까지 부른 추석 '명절템'",
+    "summary": [
+      "(서울=연합뉴스) 김세린 기자 = 추석을 반려동물과 함께 보내려는 보호자들이 늘면서 반려동물용 한복과 송편·모둠전 등을 본뜬 명절 간식 판매가 ..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n2b2140b6",
+    "category": "사회",
+    "source": "아시아경제",
+    "time": "7분 전",
+    "url": "https://view.asiae.co.kr/article/2026092400075413522",
+    "title": "가족 건물 20년 전담 관리…대법 \"보증금 지출 증빙 못 했다고 횡령 아냐\"",
+    "summary": [
+      "20년 넘게 가족 소유 건물을 전담 관리하며 독자적으로 자금을 운용한 인물이 임대차보증금의 구체적 사용처를 제대로 입증하지 못했더라도, 곧바로 업무상횡령죄의 '불법영득의사'를 인정할 수는 없다는 대법원 판단이 나왔다.",
+      "25일 법조계에 따르면 대법원 1부(주심 천대엽 대법관)는 최근 업무상횡령 혐의로 기소된 A씨에게 징역 1년에 집행유예 2년을 선고하고 배상명령을 내린 원심판결을 깨고 사건을 서울서부지법으로 돌려보냈다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nf8400b17",
+    "category": "경제",
+    "source": "아시아경제",
+    "time": "7분 전",
+    "url": "https://view.asiae.co.kr/article/2026092317455847072",
+    "title": "인상주의, 신윤복, 전통 공예…'스캔들'을 물들인 色",
+    "summary": [
+      "넷플릭스 시리즈 '스캔들'을 읽는 또 다른 방법은 색이다.",
+      "인물의 감정에 따라 한복 빛깔이 달라진다.",
+      "정교한 설계는 김영진 차이킴 대표에게서 나왔다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n51c3ec57",
+    "category": "사회",
+    "source": "아시아경제",
+    "time": "7분 전",
+    "url": "https://view.asiae.co.kr/article/2026092308023526925",
+    "title": "[콕!건강]아침저녁 쌀쌀한 연휴엔 뇌졸중 주의…고혈압 환자 위험 3~5배",
+    "summary": [
+      "아침저녁 기온 차가 커지는 환절기에는 급격한 기온 변화로 혈압이 오르거나 탈수가 발생할 수 있어 뇌졸중 위험이 높은 사람들은 각별한 주의가 필요하다.",
+      "특히 고령자와 고혈압·당뇨병·이상지질혈증·심방세동 환자, 과거 뇌졸중을 경험한 사람은 갑작스러운 추위나 더위에 장시간 노출되지 않는 것이 중요하다.25일 가톨릭대학교 서울성모병원에 따르면 단기간의 기온 변화는 뇌졸중 발생 위험을 높이는 환경 요인으로 작용한다.",
+      "갑작스러운 추위에 노출되면 교감신경이."
+    ],
+    "chips": [
+      "#교육",
+      "#의료",
+      "#환경"
+    ]
+  },
+  {
+    "id": "n9629dec3",
+    "category": "경제",
+    "source": "아시아경제",
+    "time": "7분 전",
+    "url": "https://view.asiae.co.kr/article/2026092117562532783",
+    "title": "\"그러니까 기사나 하지\" 버스에서 26분간 욕설 퍼부은 70대",
+    "summary": [
+      "버스가 자신을 지나쳐 갔다는 이유로 운전기사에게 욕설을 하고 승객들의 만류에도 소리를 지르며 약 26분간 버스 운행을 방해한 70대 여성이 벌금형을 선고받았다.",
+      "서울북부지법 형사8단독 김천수 판사는 업무방해·모욕 혐의로 기소된 A씨(70)에게 벌금 200만원을 선고했다고 25일 밝혔다.",
+      "A씨는 2024년 11월 서울 강북구 수유역 인근에서 101번 버스를 운행하던 B씨에게 욕설을 퍼부은 혐의로 재판에 넘겨졌다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n8ca0f27f",
+    "category": "스포츠",
+    "source": "동아일보",
+    "time": "7분 전",
+    "url": "https://www.donga.com/news/Sports/article/all/20260925/134732299/1",
+    "title": "15.4% → 4.6%…‘북항이표 고춧가루’ 한 방에 2위 꿈꾸던 LG도 ‘에취’ [어제의 프로야구]",
+    "summary": [
+      "롯데가 또또또또또 이겼다.7연승 신바람을 타고 2위 탈환을 노리던 LG 앞길에 고춧가루를 뿌렸다.",
+      "롯데는 24일 프로야구 잠실 방문경기에서 LG에 6-4 역전승을 거뒀다.그러면서 부산 북항에 상어 ‘북항이’가 등장한 18일 이후 6전 전승 행진을 이어갔다.롯데 선수들도 이 사실을 알고 있다.이날 결승타 주인공 손성빈(24)은 “북항이가 기가 세더라.",
+      "(우리 팀에) 좋은 기운을 준 것 같다."
+    ],
+    "chips": [
+      "#KBO"
     ]
   }
 ];
@@ -626,18 +638,18 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2460건",
-    "trend": "+275%"
+    "mentions": "2850건",
+    "trend": "+335%"
   },
   {
     "rank": 2,
-    "tag": "AI",
-    "mentions": "1810건",
-    "trend": "+175%"
+    "tag": "반도체",
+    "mentions": "1550건",
+    "trend": "+135%"
   },
   {
     "rank": 3,
-    "tag": "반도체",
+    "tag": "취업",
     "mentions": "1420건",
     "trend": "+115%"
   }
