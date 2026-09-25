@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-09-25 00:08:00
+// 마지막 업데이트: 2026-09-25 05:34:48
 window.NEWS_DB = [
   {
     "id": "neb593163",
     "category": "IT",
     "source": "핀포인트뉴스",
-    "time": "8시간 전",
+    "time": "14시간 전",
     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBURUREUm5wR2gyYldvSDJBa2NrOExxT0gySjBQY3FvSndOT1htOWNLcmhQMFFGc3FUSEF4cHpMVW50RmtIOWdhdEYwV2lCclRFN0xaYnJDNXEwcHlRUnhXRkNzR05POHBBUW5qbGNrejJGZ0HSAXdBVV95cUxPOEZOQjZfR2g4WVBCd3lPdkFXWk1pSU1hMHlsck1qdWF6QlI0UVpXSFp0eWV0ckpiQmh3YlR6Vm84VmNDR0Rfc1lwSC1TWkc1R2V6WGlxb1kwRHRENGRZak5XRlhsRnlPSGJoczFFcTB5WWtPRkw1cw?oc=5",
     "title": "삼성전자 3분기 영업익 107조 전망…기대 밑돌아도 HBM은 뜬다",
     "summary": [
@@ -77,7 +77,7 @@ window.NEWS_DB = [
     "id": "n378b0b4c",
     "category": "IT",
     "source": "mstoday.co.kr",
-    "time": "2일 전",
+    "time": "3일 전",
     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4wcDhNc2JNQWpNMS05TnRRd2pUeVcyY2swQ0VId215bWhLeElkODl2cVk2M1ZfSlA5OFdJMFd1NXA0YmpZWnFKMk1UM0dXVFZNdHJJeTFab2NtWm9xMFFqNExOVnVKbUh3VFpMTg?oc=5",
     "title": "AMD 1조달러 돌파…AI 경쟁, GPU 넘어 ‘시스템 전쟁’",
     "summary": [
@@ -121,7 +121,7 @@ window.NEWS_DB = [
     "id": "n3bf091c2",
     "category": "스포츠",
     "source": "한국경제",
-    "time": "3일 전",
+    "time": "4일 전",
     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9nY3BENG1heVF4amFVRDZ5M0Q3V09uYWZTRmZEZlcxZTJzc08zU2RBM3BRSEh6aTZPVDR2blc0YjZrNUhnMHNDUVN0M0pKMTBDVWxlUWhtZ1Zudw?oc=5",
     "title": "\"손흥민 533만원·페이커 1100만원\"…해외선 없어서 못 산다",
     "summary": [
@@ -132,14 +132,14 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n1ebf737b",
+    "id": "n891b0cd6",
     "category": "스포츠",
-    "source": "글로벌E",
+    "source": "뉴시안",
     "time": "4일 전",
-    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1xdGdqbUJjMXkyZFRRYi1ETklIZmlIQlFHYS1ZemlEaU5IQ0hCQkR1Wm5pYVVJUl9jX2s3Z08ydEpxdFM2elFVdjNFdlhxMlRsUVhQY3JKRVdRWG5WUlpOR2hNemdnbVdrWElv0gFvQVVfeXFMT1QxRDNTbjRoMk5ZWVBmRllQU2Z2b1IyY0hYZEx1LWc0aFhSb083aGdYc1ZQNDhrN0NncVZGclFwVnV0RGNoNTNmcXkwSzF5dTdxZnVRYlFQOTZDblRRWkpDUzNCOUpoMEJmbkRYa1Nz?oc=5",
-    "title": "이베이, K-스포츠 굿즈 역직구 급증···KBO 매출 전년 대비 2.9배↑",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8yWDNZR3Y3VjZvc3hFYzZFd0NvWVo0dnFOLThlWm5feUVWZTRYc0l0YzREU0hhd0xoWWF0WHRxUXJYSExvMkdQS2pXQWdhNmdOXzNRYUxrTmxoNnNZUHVlNTQ4Skd6eTktc3fSAW5BVV95cUxOd1lnc0FxSllXZzVjOFJjOEh4UjVPQ21HRnhqVVBIYzJLRDlISFNiZnZnSjk5OTBnVTVsS2tqSENHMDZhRkI5ZWZEZmJqQ0EyS2R6bTkxaUR4UHdXeGZFSjFzdW5KdTNxNmhQX1h0UQ?oc=5",
+    "title": "KBO 굿즈 매출 3배로… K-스포츠 굿즈, 소장템 부상",
     "summary": [
-      "이베이, K-스포츠 굿즈 역직구 급증···KBO 매출 전년 대비 2.9배↑ 글로벌E."
+      "KBO 굿즈 매출 3배로… K-스포츠 굿즈, 소장템 부상 뉴시안."
     ],
     "chips": [
       "#KBO"
@@ -149,7 +149,7 @@ window.NEWS_DB = [
     "id": "n46ae0b88",
     "category": "사회",
     "source": "Vietnam.vn",
-    "time": "7일 전",
+    "time": "8일 전",
     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQaEJDaHU4Y1RySkZPaEdRaUFSOERZSFBRQWhlVmdSWjloMVJQWGdxWEk3N2hxVk51RW5rNzkwQXlCWHh4S0dNY1NmVVVoUkt3WmdfYUFYZHlGS1NfRVo0SDVlSjdGMnA0d09TUlBMRk5mcV9IZGIwN0hLUjRCSkZYZi03V0JZeXJLa1FEVA?oc=5",
     "title": "취업 박람회를 통해 수천 개의 일자리 기회를 얻을 수 있습니다.",
     "summary": [
@@ -178,7 +178,7 @@ window.NEWS_DB = [
     "id": "n1b86d5ce",
     "category": "부동산",
     "source": "한국주택경제신문",
-    "time": "14일 전",
+    "time": "15일 전",
     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1OZzh5T2VHNnBWYWlYeDRuaHBfRDBreHNNdlhfNXVwRy0tWVE4Q0VHSDRuUjc0VVQ3WnFLMk1kTHc4QlpGb3VvN3N4T3dRRnZQd3o1akRjZFl0NGhxNEpDeTlKS0xxV0Yx?oc=5",
     "title": "강남 꺾이고 강북 뛰었다…역세권·중저가 대단지가 집값 견인",
     "summary": [
@@ -206,12 +206,12 @@ window.NEWS_DB = [
   {
     "id": "n657e0140",
     "category": "경제",
-    "source": "연합뉴스TV",
+    "source": "yonhapnewstv.co.kr",
     "time": "28일 전",
     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1rdGZhcGJlUmFqWjByaGFpZG1TZHEtUnpFbjM5NF9QdzlWOXliTW0tX0ZYa0pEQXdHbUt3S3pPYVNzUGJJZEtqZHotSHZDVTVFTTlNaW1UZUstNjFGTEt2Rk1hWmZ5MjA?oc=5",
     "title": "7,000선 넘보던 코스피…금리 인상에 상승폭 축소",
     "summary": [
-      "7,000선 넘보던 코스피…금리 인상에 상승폭 축소 연합뉴스TV."
+      "7,000선 넘보던 코스피…금리 인상에 상승폭 축소 yonhapnewstv.co.kr."
     ],
     "chips": [
       "#금리"
@@ -280,12 +280,12 @@ window.NEWS_DB = [
   {
     "id": "nba668fc0",
     "category": "IT",
-    "source": "ikbn.news",
+    "source": "한국방송뉴스",
     "time": "148일 전",
     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1XaThhZXFiX3dDT0NrYVFwZ2dhNTgxbHU0WE5Bc21vcGVzR0d2Wkh2Zm5pS2MyZ1JkYlhHb2VfRkhkemdEX1F6Q1RtajJLRzR6dDdHcExQelAyS2N1OUE?oc=5",
     "title": "1조 8000억 규모 벤처펀드 선정…\"벤처·스타트업에 적시 공급\"",
     "summary": [
-      "1조 8000억 규모 벤처펀드 선정…\"벤처·스타트업에 적시 공급\" ikbn.news."
+      "1조 8000억 규모 벤처펀드 선정…\"벤처·스타트업에 적시 공급\" 한국방송뉴스."
     ],
     "chips": [
       "#스타트업"
@@ -294,12 +294,12 @@ window.NEWS_DB = [
   {
     "id": "n08b2b275",
     "category": "부동산",
-    "source": "karnews.or.kr",
+    "source": "한국부동산뉴스",
     "time": "163일 전",
     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBZNmg3TVp4ZWZCV1ZzTE14bXV5UkN4MExnMmZJdkpfNUsyUGltRWlJVWVfUzJoQktRUlcwMTdrUUtuWk9pR2MxaFlhNGpOU0xGZjM3eDUwdlNmRWQtYkFaenAyekhVRGRRY0pJ?oc=5",
     "title": "대출 규제에 몰린 '15억 이하'…비강남 집값·분양가 동반 상승",
     "summary": [
-      "대출 규제에 몰린 '15억 이하'…비강남 집값·분양가 동반 상승 karnews.or.kr."
+      "대출 규제에 몰린 '15억 이하'…비강남 집값·분양가 동반 상승 한국부동산뉴스."
     ],
     "chips": [
       "#부동산",
@@ -307,328 +307,328 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n2798e5e0",
+    "id": "n6b531730",
     "category": "IT",
     "source": "테크M",
     "time": "방금 전",
-    "url": "https://www.techm.kr/news/articleView.html?idxno=155551",
-    "title": "[연휴에 뭐하지] 한가위 달맞이부터 레이드까지...게임 속으로 들어온 '추석 연휴'",
+    "url": "https://www.techm.kr/news/articleView.html?idxno=155579",
+    "title": "메타, AI 승부처 '안경'으로 옮긴다…'뮤즈' 앞세워 애플에 도전장",
     "summary": [
-      "추석 연휴를 맞아 게임업계가 이용자들의 연휴 게임 플레이를 겨냥한 대규모 업데이트에 나섰다.",
-      "새로운 콘텐츠를 추가하는 것은 물론 추석을 소재로 한 이벤트와 풍성한 보상까지 마련하면서 모처럼 찾아온 휴식 기간을 게임과 함께 보낼 수 있는 선택지가 늘었다.특히 올해는 MMORPG부터 모바일 RPG, 레이싱 게임까지 장르별로 각각 다른 즐길거리가 마련됐다.",
-      "긴 연휴를 이용해 새로운 콘텐츠를 몰아서 즐기려는 이용자부터 이동 중 짧게 게임을 즐기려는 이."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n6049b2af",
-    "category": "IT",
-    "source": "테크M",
-    "time": "방금 전",
-    "url": "https://www.techm.kr/news/articleView.html?idxno=155563",
-    "title": "[연휴에 뭐하지] \"벌룬쇼부터 아쿠아리움까지\"...놀거리-볼거리로 무장한 신세계",
-    "summary": [
-      "명절 연휴를 맞아 고향을 찾는 대신 도심에서 여유롭게 휴식을 취하려는 '도심 연휴족'이 크게 늘고 있습니다.",
-      "귀성길 도로 정체와 가사 부담을 피해 시원하고 쾌적한 실내 공간을 찾는 가족 단위 발길이 유통가로 향하는 모습입니다.가장 눈에 띄는 곳은 신세계입니다.",
-      "스타필드와 신세계백화점이 추석을 겨냥해 '문화 바캉스'를 테마로 다채로운 볼거리와 즐길거리를 준비했습니다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n1838333f",
-    "category": "IT",
-    "source": "테크M",
-    "time": "방금 전",
-    "url": "https://www.techm.kr/news/articleView.html?idxno=155542",
-    "title": "[연휴에 뭐보지] \"이번 추석엔 뭐 볼까?\"...웃음도 감동도 풍성한 OTT 콘텐츠 '총출동'",
-    "summary": [
-      "바쁘게 보내던 일상 속 찾아온 추석 연휴에는 가족들과 한자리에 모여 정을 나누기도, 모처럼 나만의 여유를 즐기기도 하는 등 저마다의 방식으로 휴식을 즐긴다.",
-      "다채로운 볼거리로 연휴 기간 새로운 즐거움을 더해보는 건 어떨까.",
-      "가족들과 둘러앉아 웃고 떠들며 즐길 수 있는 예능부터 손에 땀을 쥐게 하는 서바이벌과 액션, 설렘 가득한 연애 예능까지 취향에 따라 골라 보는 풍성한 콘텐츠가 총출동했다.여기에 귀성·귀경길 지루한 이동 시간을 달래줄 오디오."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n137bbaa0",
-    "category": "IT",
-    "source": "테크M",
-    "time": "방금 전",
-    "url": "https://www.techm.kr/news/articleView.html?idxno=155568",
-    "title": "[가봤다] 스마트안경, 제2의 스마트폰 될까...퀄컴 'AI 생태계 체험관'",
-    "summary": [
-      "스마트안경은 제2의 스마트폰이 될 수 있을까.",
-      "스마트안경을 쓰면 스마트폰이 없어도 인공지능(AI) 에이전트는 물론 다양한 애플리케이션(앱)을 활용할 수 있다.",
-      "개방된 시야는 당연하다.24일(현지시각) 퀄컴은 미국 마우이에서 열린 '스냅드래곤 서밋'에서 스냅드래곤 생태계 체험 행사를 진행했다."
+      "메타가 인공지능(AI) 경쟁의 무대를 스마트폰에서 안경으로 넓힌다.",
+      "사용자가 보고 듣는 주변 상황을 AI 글래스가 실시간으로 파악하면 개인형 AI 에이전트 'Muse'가 검색과 쇼핑 등 필요한 작업을 수행하는 방식이다.",
+      "오디오 전용 안경부터 디스플레이를 탑재한 제품까지 라인업을 대폭 확대하고 초경량 가상현실(VR) 글래스와 휴대용 AI 기기까지 선보이며 '포스트 스마트폰' 시장 선점에 나섰다.25일 정보기술(IT)업계에 따르면 메타는 최근 열린."
     ],
     "chips": [
       "#AI"
     ]
   },
   {
-    "id": "n295f06f9",
+    "id": "ne5212438",
     "category": "사회",
-    "source": "뉴시스",
-    "time": "1분 전",
-    "url": "https://www.newsis.com/view/NISX20260924_0003803077",
-    "title": "'폐어구 고통' 제주 돌고래 5마리…해양생물 지키기 모색",
+    "source": "테크M",
+    "time": "방금 전",
+    "url": "https://www.techm.kr/news/articleView.html?idxno=155578",
+    "title": "발달장애인 연주에 다문화 어린이 노래…우리銀 '특별한 하모니'",
     "summary": [
-      "[제주=뉴시스]오영재 기자 = 제주 해양보호구역과 연안 해양생물을 지키기 위해 민·관이 머리를 맞댄다.",
-      "제주도는 29일 오후 3시30분 제주도의회 대회의실에서 민간단체 등과 함께 '해양보호구역 관리 및 해양생물 보호 방안 정책토론회'를 연다고 25일 밝혔다.",
-      "토론회에는 해양시민과학센터 파란, 제주환경운동연합, 다큐제주, 오션케어 등 관계기관과 민간단체 관계자들이 참여한다."
+      "우리은행의 발달장애인 오케스트라와 다문화 어린이 합창단이 한 무대에 올랐다.",
+      "서로 다른 배경을 가진 연주자와 어린이들이 음악을 통해 다양성과 포용의 메시지를 전했다.우리은행은 발달장애인 오케스트라 '우리은행 별별하모니아'와 '우리다문화어린이합창단'이 지난 22일 열린 '2026 교육공동체 문화다양성 2차 콘서트'에서 특별 협연을 펼쳤다고 25일 밝혔다.서울특별시교육청이 주관한 이번 행사는 교육 현장에 문화다양성의 가치를 확산하고 서로 다른 배경."
     ],
     "chips": [
-      "#정책",
-      "#환경"
+      "#교육"
     ]
   },
   {
-    "id": "n6df5731d",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "3분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260925017700065",
-    "title": "인천서 운행 중인 차량에 불…차량 전소",
-    "summary": [
-      "(인천=연합뉴스) 최은지 기자 = 25일 오전 3시 11분께 인천시 남동구 논현동 한 공장 부지에서 운행 중이던 르노 차량에 불이 났다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n54298e47",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "4분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260923001800005",
-    "title": "문예지 창간·시인선 출범…문학으로 새 활로 뚫는 출판사들",
-    "summary": [
-      "(서울=연합뉴스) 김기훈 기자 = 출판계 불황이 지속되는 가운데, 국내 주요 출판사들이 '문학'으로 돌파구를 찾으려는 시도를 이어가고 있다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n41e262a5",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "5분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260925017200004",
-    "title": "추석 당일 오전 고속도로 정체 시작…서울→부산 8시간40분",
-    "summary": [
-      "(서울=연합뉴스) 김채린 기자 = 추석 당일인 25일 오전 귀성·귀경 행렬이 이어지며 고속도로 곳곳에서 정체가 빚어지고 있다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n7ebfc081",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "5분 전",
-    "url": "https://www.newsis.com/view/NISX20260924_0003803067",
-    "title": "내달 2~4일 추자도 참굴비 대축제…체험·공연·판매 풍성",
-    "summary": [
-      "[제주=뉴시스]오영재 기자 = 제주 추자도 명물인 참굴비를 테마로 한 지역 축제가 열린다.",
-      "제주도는 내달 2일부터 4일까지 추자도 일대에서 제18회 추자도 참굴비 대축제가 개최된다고 25일 밝혔다.",
-      "이번 축제는 '섬, 바다, 사람, 다 함께 황금 그물의 섬 추자도로!'를 주제로 열린다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n56ab0be2",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "6분 전",
-    "url": "https://www.newsis.com/view/NISX20260925_0003803296",
-    "title": "이승기 \"31개월 딸, 유치원서 아빠 자랑해…내 앞에선 티 안 내\"",
-    "summary": [
-      "[서울=뉴시스]강주희 기자 = 가수 겸 배우 이승기가 딸바보 면모를 드러냈다.",
-      "이승기는 24일 자신의 유튜브 채널에서 31개월 된 딸의 근황을 전하며 \"지금 너무 잘 뛰고 말도 엄청 잘한다.",
-      "두 살 때부터 완전 터졌다\"고 말했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n14ff4aec",
+    "id": "na2ee8f57",
     "category": "경제",
-    "source": "연합뉴스",
-    "time": "6분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260923149200061",
-    "title": "경기도, '업추비 부적정 집행' 코리아경기도주식회사 기관경고",
+    "source": "테크M",
+    "time": "방금 전",
+    "url": "https://www.techm.kr/news/articleView.html?idxno=155577",
+    "title": "[크립토 브리핑] 유가·美 국채금리 뛰어도 버틴 비트코인…1억1500만원대 상승",
     "summary": [
-      "(수원=연합뉴스) 최찬흥 기자 = 경기도는 업무추진비를 부적정하게 집행하고 예산 집행기준을 준수하지 않은 산하 공공기관 코리아경기도주식회사에 대..."
+      "비트코인이 국제유가와 미국 국채금리 급등에도 25일 1억1500만원대에서 상승세를 보이고 있다.",
+      "중동발 공급 불안으로 국제유가가 다시 뛰고 미 장기 국채금리까지 치솟았지만 비트코인은 비교적 견조한 흐름을 이어가는 모습이다.",
+      "주요 알트코인도 일제히 상승한 가운데 미국에서는 연방준비제도(Fed·연준)가 스테이블코인 규제안을 공개하며 제도화 작업에 속도를 내고 있다.25일 오전 9시30분 기준 국내 가상자산 거래소 빗썸에서 비트코인은 24시간 전보다."
     ],
     "chips": [
-      "#뉴스"
+      "#금리",
+      "#정책"
     ]
   },
   {
-    "id": "n1125a7f3",
-    "category": "경제",
-    "source": "연합뉴스(경제)",
-    "time": "6분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260924000900002",
-    "title": "라임·옵티머스 40명 아직도 안 돼…사모펀드 배상 천차만별",
-    "summary": [
-      "(서울=연합뉴스) 배영경 기자 = 대규모 환매중단이 발생했던 라임·옵티머스 펀드 사태가 일어난 지 6년이 넘도록 배상이 완료되지 않은 투자자가 ..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nd8cfa932",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "6분 전",
-    "url": "https://www.newsis.com/view/NISX20260923_0003802483",
-    "title": "전남광주교육청 \"학교서 반도체 실무 가르쳐 지역 취업\"",
-    "summary": [
-      "[전남광주=뉴시스]구용희 기자 = 전남광주 직업계고 학생들이 학교에서 반도체 장비를 다루고 공정을 익힌다.",
-      "전남광주통합특별시교육청은 산업현장에 필요한 기술을 학교에서 가르치고 지역 기업 취업과 정착까지 연결하는 직업교육 개편을 추진한다.",
-      "25일 통합교육청에 따르면 학교별 전략산업 분야를 정해 학과 구성과 교육과정, 실습환경을 개편한다."
-    ],
-    "chips": [
-      "#반도체",
-      "#취업",
-      "#교육",
-      "#환경"
-    ]
-  },
-  {
-    "id": "nab6eeebb",
-    "category": "경제",
-    "source": "연합뉴스(경제)",
-    "time": "7분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260923055000055",
-    "title": "농진원 \"저탄소 인증 농산물 휴대전화로 확인하세요\"",
-    "summary": [
-      "(익산=연합뉴스) 김진방 기자 = 한국농업기술진흥원은 에버원소프트와 함께 저탄소 인증 농산물을 구매하는 소비자가 휴대전화로 인증 여부를 쉽게 확..."
-    ],
-    "chips": [
-      "#환경"
-    ]
-  },
-  {
-    "id": "ne4ed5425",
-    "category": "경제",
-    "source": "연합뉴스(경제)",
-    "time": "7분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260921150100008",
-    "title": "상반기 역대 최대 실적 증권사들…기부는 인색하네",
-    "summary": [
-      "(서울=연합뉴스) 임은진 기자 = 올해 상반기 증시 활황으로 거래가 늘면서 증권사의 순이익이 늘어났지만 기부금은 오히려 줄어든 것으로 나타났다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n1270be6a",
-    "category": "경제",
-    "source": "연합뉴스(경제)",
-    "time": "7분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260923138000030",
-    "title": "[반려동물] 강아지용 한복·송편 인기…품절까지 부른 추석 '명절템'",
-    "summary": [
-      "(서울=연합뉴스) 김세린 기자 = 추석을 반려동물과 함께 보내려는 보호자들이 늘면서 반려동물용 한복과 송편·모둠전 등을 본뜬 명절 간식 판매가 ..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n2b2140b6",
-    "category": "사회",
-    "source": "아시아경제",
-    "time": "7분 전",
-    "url": "https://view.asiae.co.kr/article/2026092400075413522",
-    "title": "가족 건물 20년 전담 관리…대법 \"보증금 지출 증빙 못 했다고 횡령 아냐\"",
-    "summary": [
-      "20년 넘게 가족 소유 건물을 전담 관리하며 독자적으로 자금을 운용한 인물이 임대차보증금의 구체적 사용처를 제대로 입증하지 못했더라도, 곧바로 업무상횡령죄의 '불법영득의사'를 인정할 수는 없다는 대법원 판단이 나왔다.",
-      "25일 법조계에 따르면 대법원 1부(주심 천대엽 대법관)는 최근 업무상횡령 혐의로 기소된 A씨에게 징역 1년에 집행유예 2년을 선고하고 배상명령을 내린 원심판결을 깨고 사건을 서울서부지법으로 돌려보냈다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nf8400b17",
-    "category": "경제",
-    "source": "아시아경제",
-    "time": "7분 전",
-    "url": "https://view.asiae.co.kr/article/2026092317455847072",
-    "title": "인상주의, 신윤복, 전통 공예…'스캔들'을 물들인 色",
-    "summary": [
-      "넷플릭스 시리즈 '스캔들'을 읽는 또 다른 방법은 색이다.",
-      "인물의 감정에 따라 한복 빛깔이 달라진다.",
-      "정교한 설계는 김영진 차이킴 대표에게서 나왔다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n51c3ec57",
-    "category": "사회",
-    "source": "아시아경제",
-    "time": "7분 전",
-    "url": "https://view.asiae.co.kr/article/2026092308023526925",
-    "title": "[콕!건강]아침저녁 쌀쌀한 연휴엔 뇌졸중 주의…고혈압 환자 위험 3~5배",
-    "summary": [
-      "아침저녁 기온 차가 커지는 환절기에는 급격한 기온 변화로 혈압이 오르거나 탈수가 발생할 수 있어 뇌졸중 위험이 높은 사람들은 각별한 주의가 필요하다.",
-      "특히 고령자와 고혈압·당뇨병·이상지질혈증·심방세동 환자, 과거 뇌졸중을 경험한 사람은 갑작스러운 추위나 더위에 장시간 노출되지 않는 것이 중요하다.25일 가톨릭대학교 서울성모병원에 따르면 단기간의 기온 변화는 뇌졸중 발생 위험을 높이는 환경 요인으로 작용한다.",
-      "갑작스러운 추위에 노출되면 교감신경이."
-    ],
-    "chips": [
-      "#교육",
-      "#의료",
-      "#환경"
-    ]
-  },
-  {
-    "id": "n9629dec3",
-    "category": "경제",
-    "source": "아시아경제",
-    "time": "7분 전",
-    "url": "https://view.asiae.co.kr/article/2026092117562532783",
-    "title": "\"그러니까 기사나 하지\" 버스에서 26분간 욕설 퍼부은 70대",
-    "summary": [
-      "버스가 자신을 지나쳐 갔다는 이유로 운전기사에게 욕설을 하고 승객들의 만류에도 소리를 지르며 약 26분간 버스 운행을 방해한 70대 여성이 벌금형을 선고받았다.",
-      "서울북부지법 형사8단독 김천수 판사는 업무방해·모욕 혐의로 기소된 A씨(70)에게 벌금 200만원을 선고했다고 25일 밝혔다.",
-      "A씨는 2024년 11월 서울 강북구 수유역 인근에서 101번 버스를 운행하던 B씨에게 욕설을 퍼부은 혐의로 재판에 넘겨졌다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n8ca0f27f",
+    "id": "nb6fef9fc",
     "category": "스포츠",
-    "source": "동아일보",
-    "time": "7분 전",
-    "url": "https://www.donga.com/news/Sports/article/all/20260925/134732299/1",
-    "title": "15.4% → 4.6%…‘북항이표 고춧가루’ 한 방에 2위 꿈꾸던 LG도 ‘에취’ [어제의 프로야구]",
+    "source": "테크M",
+    "time": "방금 전",
+    "url": "https://www.techm.kr/news/articleView.html?idxno=155576",
+    "title": "'김연아부터 황선우까지'…아시안게임 빛낸 KB금융의 '기다리는 후원'",
     "summary": [
-      "롯데가 또또또또또 이겼다.7연승 신바람을 타고 2위 탈환을 노리던 LG 앞길에 고춧가루를 뿌렸다.",
-      "롯데는 24일 프로야구 잠실 방문경기에서 LG에 6-4 역전승을 거뒀다.그러면서 부산 북항에 상어 ‘북항이’가 등장한 18일 이후 6전 전승 행진을 이어갔다.롯데 선수들도 이 사실을 알고 있다.이날 결승타 주인공 손성빈(24)은 “북항이가 기가 세더라.",
-      "(우리 팀에) 좋은 기운을 준 것 같다."
+      "2026 아이치·나고야 아시안게임이 한창인 가운데 KB금융그룹의 오랜 스포츠 후원이 다시 주목받고 있다.",
+      "수영과 체조, 육상, 여자골프 등 KB금융이 오랫동안 지원해온 기초·비인기 종목 선수들이 대거 태극마크를 달았고, 일부 선수는 이미 메달을 따내며 성과를 내고 있어서다.",
+      "유명 선수가 된 뒤 후원하기보다 성장 가능성이 있는 선수와 종목을 일찍 발굴해 기다려주는 KB금융의 스포츠 마케팅 전략이 국제무대에서 결실을 맺고 있다는 평가다.25일 금융."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nd92685c4",
+    "category": "사회",
+    "source": "아시아경제",
+    "time": "2분 전",
+    "url": "https://view.asiae.co.kr/article/2026092514293596488",
+    "title": "美, 신차 안 사고 고쳐 쓴다…차량 평균 나이 '13년'",
+    "summary": [
+      "미국인이 타는 차량의 평균 수명이 역사상 가장 높은 것으로 나타났다.",
+      "신차 가격 부담으로 인해 구입을 미루고 기존 차량을 고쳐 타는 추세가 자리 잡으면서다.",
+      "24일(현지시간) 일본 매체 니혼게이자이신문(닛케이)에 따르면, 올해 초 미국 도로를 달리는 승용차, 경트럭의 평균 연령은 13년으로 집계됐다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "ne7570dfd",
+    "category": "스포츠",
+    "source": "뉴시스",
+    "time": "4분 전",
+    "url": "https://www.newsis.com/view/NISX20260925_0003803421",
+    "title": "샌디에이고, 다저스 꺾고 가을야구 진출 확정…송성문 대주자로 출전",
+    "summary": [
+      "[서울=뉴시스]김희준 기자 = 송성문의 소속팀인 메이저리그(MLB) 샌디에이고 파드리스가 가을야구 진출을 확정지었다.",
+      "샌디에이고는 25일(한국 시간) 미국 캘리포니아주 로스앤젤레스의 유니클로 필드 앳 다저스타디움에서 열린 2026 MLB LA 다저스와의 경기에서 4-2로 승리했다.",
+      "시즌 성적 89승 70패를 기록한 샌디에이고는 내셔널리그 와일드카드 순위에서 최소 3위를 확보해 포스트시즌 진출 티켓을 따냈다."
     ],
     "chips": [
       "#KBO"
+    ]
+  },
+  {
+    "id": "n851f0824",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "4분 전",
+    "url": "https://www.donga.com/news/Entertainment/article/all/20260925/134733052/1",
+    "title": "‘은중과 상연’ 박지현, 국제에미상 여자연기상 후보…韓 여배우 최초",
+    "summary": [
+      "배우 박지현이 한국 여배우 최초로 국제에미상 여자연기상 후보에 올랐다.지난 23일(현지시간) 발표된 2026 국제에미상 후보에 따르면 박지현은 넷플릭스 시리즈 ‘은중과 상연’으로 여자연기상에 노미네이트 됐다.여자연기상 후보에는 박지현을 비롯해 벨기에 드라마 ‘홀리 쉿’(Holy Sh!t)의 모나 미나 레온, 멕시코 ‘루카의 세계’(Lucca‘s World)의 바르바라 모리, 영국 ’아이 파우트 더 로‘(I Fought the Law)의 셰리든."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n595c541d",
+    "category": "IT",
+    "source": "연합뉴스",
+    "time": "4분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260923162700017",
+    "title": "[AI픽] 챗GPT 다음은 클로드…국내 AI앱 2위 굳혀",
+    "summary": [
+      "(서울=연합뉴스) 한상용 기자 = 앤트로픽의 생성형 인공지능(AI) 서비스 '클로드'가 국내 모바일 AI 앱 시장에서 월간 사용자 수와 신규 설..."
+    ],
+    "chips": [
+      "#AI"
+    ]
+  },
+  {
+    "id": "n21d5222a",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "5분 전",
+    "url": "https://www.donga.com/news/Entertainment/article/all/20260925/134733049/1",
+    "title": "48세 배두나, ‘급속 노화’ 비주얼…자연스러운 변화 ‘응원’",
+    "summary": [
+      "배우 배두나가 ‘급속 노화’ 비주얼로 눈길을 끌었다.배두나는 최근 소속사 SNS 계정을 통해 라이브 방송을 진행, 오랜만에 근황을 알렸다.이날 배두나는 단발머리 스타일을 한 채 민소매 의상을 입고 방송에 등장했다.",
+      "배두나는 편안한 분위기 속에서 팬들과 대화를 나눴다.라이브 방송이 종료된 뒤 몇몇 온라인 커뮤니티에선 배두나의 ‘급속 노화’ 비주얼이 화제였다.",
+      "다소 탄력이 없고 주름이 있는 그의 얼굴을 보고 놀랐다는 반응이었다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n2b5c719a",
+    "category": "스포츠",
+    "source": "뉴시스",
+    "time": "5분 전",
+    "url": "https://www.newsis.com/view/NISX20260925_0003803427",
+    "title": "큰 홍수 꿈 꾸고 연금복권 1·2등 동시 당첨…가장 먼저 생각난 사람은",
+    "summary": [
+      "[서울=뉴시스]김드보라 인턴 기자 = 큰 홍수가 나는 꿈을 꾼 뒤 구매한 연금복권이 1등과 2등에 동시 당첨된 행운의 남성 사연이 전해졌다.",
+      "지난 21일 동행복권에 공개된 '332회차 연금복권720+ 당첨자 인터뷰'에 따르면 경기 포천시 중앙로119번길의 복권판매점에서 연금복권을 구매한 A씨는 1등과 2등에 동시 당첨됐다.",
+      "A씨는 당첨 전 기억에 남는 꿈으로 '큰 홍수가 나는 꿈'을 꼽았다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "ne9bfce04",
+    "category": "스포츠",
+    "source": "뉴시스",
+    "time": "7분 전",
+    "url": "https://www.newsis.com/view/NISX20260925_0003803408",
+    "title": "AFC, 2027 아시안컵 심판진 확정…한국 심판은 7명 뽑혀",
+    "summary": [
+      "[서울=뉴시스] 김진엽 기자 = 아시아축구연맹(AFC)이 내년 1월 사우디아라비아에서 펼쳐지는 2027 아시안컵 심판진을 확정한 가운데, 한국 국적 심판도 7명 포함됐다.",
+      "AFC는 24일(현지 시간) 공식 홈페이지를 통해 2027 아시안컵에 나설 심판 76명 명단(주심 24명·부심 41명· 비디오 판독 심판(VMO) 11명)을 공개했다.",
+      "AFC에 따르면 이번 대회를 통해 대륙 간 역사상 최초로 유럽축구연맹(UEFA)과의 협력의 일환으로 UEFA."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n6b614e49",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "8분 전",
+    "url": "https://www.chosun.com/sports/sports_general/2026/09/25/G4YTAOJUMJSTGMLFGYYTOMTCGM/",
+    "title": "'와 韓 경사' 사격 메달 추가!…추가은-홍수현 10m 공기권총 혼성 단체전 銀 [나고야 LIVE]",
+    "summary": [
+      "[스포츠조선 이종서 기자] 사격에서 또 하나의 메달이 나왔다.",
+      "추가은(임실군청)-홍수현(강원도청) 조는 25일 일본 아이치현 도요타시 종합사격장에서 열린 2026 아이치·나고야 아시안게임 10m 공기권총 혼성 단체전 결선에서 478.0점을 쏴, 인도(484.6점)에 이은 2위에 올라 은메달을 땄다.",
+      "은메달은 2018년 이후 8년 만이다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nccaafb8c",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "8분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260925030200054",
+    "title": "민형배 전남광주시장 \"제주항공 유족 위해 특별팀 다시 꾸릴 것\"",
+    "summary": [
+      "(전남광주=연합뉴스) 형민우 기자 = 민형배 전남광주통합특별시장은 25일 \"12·29 제주항공 여객기 참사 유족들을 위해 특별팀을 다시 꾸리겠다..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n6cd4d08f",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "8분 전",
+    "url": "https://www.chosun.com/sports/sports_general/2026/09/25/MUYGGZBXMUYDGMRQGVRTIZDDMY/",
+    "title": "대회 첫 2관왕 탄생! 주인공은 '에이스' 조광희-' 후계자' 김효빈!...카누 4인승에 이어 2인승 500m까지 금메달 싹쓸이[나고야 LIVE]",
+    "summary": [
+      "[나고야=스포츠조선 박찬준 기자]대한민국 선수단의 첫번째 2관왕이 탄생했다.",
+      "주인공은 카누 스프린트 대표팀의 조광희, 김효빈이다.",
+      "조광희-김효빈 조는 25일 일본 아이치현 미요시 미요시호 카누 코스에서 열린 2026년 아이치-나고야 아시안게임 카누 스프린트 남자 카약 2인승 500m 결승에서 1분31초859의 기록으로 가장 먼저 결승선을 통과했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n05310adf",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "9분 전",
+    "url": "https://www.newsis.com/view/NISX20260925_0003803403",
+    "title": "이형일 \"해외 투자자들, 韓경제 긍정 평가…신뢰 높일 것\"",
+    "summary": [
+      "[세종=뉴시스] 안호균 기자 = 이형일 경제부총리 겸 재정경제부 장관은 25일 \"우리 경제에 대한 해외 투자자들의 신뢰를 높이고 투자 확대로 이어질 수 있도록 귀국하는 대로 필요한 과제들을 하나씩 챙기겠다\"고 밝혔다.",
+      "이 부총리는 이날 자신의 사회관계망서비스(SNS)에 전날 미국 뉴욕에서 열린 '대한민국 투자 서밋 2026' 결과를 소개하면서 이같이 밝혔다.",
+      "그는 \"이 자리에서 블랙록·씨티그룹·핌코·프랭클린 템플턴·블랙스톤·브룩필드 등 월가를."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n244fb2b8",
+    "category": "사회",
+    "source": "연합뉴스(경제)",
+    "time": "10분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260925030000073",
+    "title": "다시 고개 든 엔저…日 \"트럼프, 우려 표명\" 이례적 공개",
+    "summary": [
+      "(도쿄=연합뉴스) 조성미 특파원 = 일본 정부가 미일 양국의 공동 환율 개입 이후 주춤했던 엔화 약세가 재개되자 도널드 트럼프 미국 대통령의 엔..."
+    ],
+    "chips": [
+      "#환율",
+      "#정치"
+    ]
+  },
+  {
+    "id": "nba43b79e",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "10분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260925029900064",
+    "title": "청주 보건소 3곳 소장 개방형 공모…의사면허 필수",
+    "summary": [
+      "(청주=연합뉴스) 김형우 기자 = 청주시는 상당·서원·흥덕 보건소장을 개방형 직위로 공개 모집한다고 25일 밝혔다."
+    ],
+    "chips": [
+      "#채용",
+      "#의료"
+    ]
+  },
+  {
+    "id": "n3f16b7af",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "12분 전",
+    "url": "https://www.donga.com/news/Society/article/all/20260925/134733043/1",
+    "title": "추석 당일 고속도로 양방향 ‘정체’…부산→서울 8시간 10분",
+    "summary": [
+      "추석 당일인 25일 오후, 귀성 차차와 귀경 차량이 한데 몰리면서 전국 주요 고속도로와 서울 시내 도로 곳곳에서 극심한 정체 현상이 이어지고 있다.한국도로공사에 따르면 이날 오후 2시 승용차로 서울 요금소를 출발할 경우 전국 주요 도시까지 걸리는 예상 시간은 △부산 7시간 20분 △울산 7시간 20분 △대구 6시간 40분 △목포 6시간(서서울 출발) △광주 5시간 40분 △강릉 4시간 20분 △대전 3시간 50분 등이다.반대로 지방 주요 도시에."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "ne78164d9",
+    "category": "경제",
+    "source": "아시아경제",
+    "time": "15분 전",
+    "url": "https://view.asiae.co.kr/article/2026092213461345165",
+    "title": "석달새 138조→56조 급감…'날벼락'맞은 이 주식 [주末머니]",
+    "summary": [
+      "최근 우리 증시가 횡보하면서 상반기 사상 최대 이익을 거두며 승승장구했던 증권주가 하반기에는 이익이 감소할 위기에 처했다.",
+      "25일 신한투자증권은 증권사들의 영업환경이 급격하게 악화했다면서 커버리지 증권주의 목표주가를 하향한다고 밝혔다.",
+      "신한투자증권은 코스피 일평균 거래대금(ETF 포함)이 4월 84조원에서 6월 138조원까지 증가한 이후 9월 56조원으로 급락했다고 분석했다."
+    ],
+    "chips": [
+      "#환경"
+    ]
+  },
+  {
+    "id": "n34c6a5c3",
+    "category": "사회",
+    "source": "아시아경제",
+    "time": "16분 전",
+    "url": "https://view.asiae.co.kr/article/2026092514160744684",
+    "title": "매일 새벽 5시 고속도로 출근 기록…과로사 판결 뒤집혔다",
+    "summary": [
+      "새벽 5시 고속도로를 이용한 출근 기록 등을 근거로 직장인의 과로사를 인정한 법원 판단이 나왔다.",
+      "25일 연합뉴스·법조계에 따르면 서울고법 행정6-2부(최항석·박영주·김민기 고법판사)는 직장인 A씨 유족이 근로복지공단을 상대로 낸 '유족급여 및 장의비부지급 처분 취소 소송' 항소심에서 최근 원고 승소로 판결했다.",
+      "A씨는 2022년 6월 회사에 출근했다가 차량 운전석에서 의식을 잃은 채로 발견됐다."
+    ],
+    "chips": [
+      "#의료"
+    ]
+  },
+  {
+    "id": "nd998644f",
+    "category": "경제",
+    "source": "아시아경제",
+    "time": "19분 전",
+    "url": "https://view.asiae.co.kr/article/2026092213435271654",
+    "title": "\"4억 자산 있어도 중산층 아닙니다\"…진짜 중산층의 6가지 조건 뭐길래[주末머니]",
+    "summary": [
+      "순자산이 4억1000만원 정도 있고 현재의 적정한 생활 수준을 미래에도 유지할 수 있는 사람들이 우리나라의 진짜 중산층이라는 분석이 나왔다.적정 자산과 함께 미래에도 현재 생활 수준 유지 가능해야 중산층24일 NH투자증권 100세시대연구소는 '대한민국 진짜 중산층' 보고서를 통해 우리나라의 중산층을 단순하게 소득이나 자산의 크기로 정의하기에는 한계가 존재한다고 지적했다.",
+      "그러면서 중산층의 본질은 '현재 적정한 생활 수준을 실제로 누리면서 그 생."
+    ],
+    "chips": [
+      "#뉴스"
     ]
   }
 ];
@@ -638,18 +638,18 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2850건",
-    "trend": "+335%"
+    "mentions": "2460건",
+    "trend": "+275%"
   },
   {
     "rank": 2,
     "tag": "반도체",
-    "mentions": "1550건",
-    "trend": "+135%"
+    "mentions": "1420건",
+    "trend": "+115%"
   },
   {
     "rank": 3,
-    "tag": "취업",
+    "tag": "AI",
     "mentions": "1420건",
     "trend": "+115%"
   }
