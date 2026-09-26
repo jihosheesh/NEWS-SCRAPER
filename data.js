@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-09-26 06:49:37
+// 마지막 업데이트: 2026-09-26 11:56:29
 window.NEWS_DB = [
   {
     "id": "n1bfb4258",
     "category": "IT",
     "source": "자본시장뉴스",
-    "time": "6시간 전",
+    "time": "11시간 전",
     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1CZXBoQWRDem1vQUxFUmxhLWNLalNOSDhoVlc3OWRWX05SNUtXeG1CbEpGaHNjTmxhcGVNaXd6bGktdTZGanRsYmNjOU5kbVBLNEFmQjZvUWx6Q1pWLUg0Zk5GdlVybjg?oc=5",
     "title": "[시총 10대 기업] 삼성전자 HBM 점유율 33%…2027년 역전 전망",
     "summary": [
@@ -49,7 +49,7 @@ window.NEWS_DB = [
     "id": "nede90aad",
     "category": "IT",
     "source": "서울경제TV",
-    "time": "3일 전",
+    "time": "4일 전",
     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBaUkMtamtCc011dFVaY2N0SnE4OTFKdDV4NllQRTBGdFJPUXVIelZOYzk0d2pHLWtQZk0xbU9GWjRwSUdOa0dMSkdXSngzUWF1Zjh6bEZrQXQtTWlxeVFXS0l2WkI?oc=5",
     "title": "엔비디아 뚫은 LG전자…AI 데이터센터 냉각시장 선점",
     "summary": [
@@ -64,7 +64,7 @@ window.NEWS_DB = [
     "id": "n1ef99b44",
     "category": "부동산",
     "source": "뉴스핌",
-    "time": "3일 전",
+    "time": "4일 전",
     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1IV21uRGdUbmQ3dG9fejNFV19PMUdQeEZ4R1FnM1B0NUNGN1NITm8tbU04MWg2MlNkdlJpMzhOeHd2anhpdlJVcmFia2FVcnlrLVl3YUxTVE82YVJD?oc=5",
     "title": "서울 집값 상승세 외곽으로 번졌다…노원 한 달 새 1.68%↑",
     "summary": [
@@ -78,7 +78,7 @@ window.NEWS_DB = [
     "id": "na6d22b09",
     "category": "스포츠",
     "source": "경기일보",
-    "time": "3일 전",
+    "time": "4일 전",
     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE11U1hseFNuTzV6YUoyOWxkOURqZjlTV1FEWEo1S09LazhsM2FnNTRLQk4zWjVETkZXLXphOHRxMldQazEzMVhJN2RLV3p5MUphUThhYmZvOE41R1U?oc=5",
     "title": "추석 연휴, 프로야구·축구 현장도 열기 ‘팔팔’",
     "summary": [
@@ -108,7 +108,7 @@ window.NEWS_DB = [
     "id": "n1d5f3493",
     "category": "IT",
     "source": "머니투데이",
-    "time": "4일 전",
+    "time": "5일 전",
     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBkSkNuUlAwYWV5b19sYThEQ0RvUlF6MDd6d3c5YUtvUVJZTjhjaF91Szc5WTFpUFpNeWZEUGMzNkZvRXpZNGROd1NrazdGMEJRR25FS0NxT2N1bGNkTU8wSXBnVzUwblg4UHdYOdIBckFVX3lxTE5wWVdYWENCNGxfSVNPbzh1a2hBdXNQX2ZOSXZGMFEwRVk0bzNqU0RNTDBzTERDWnhxc2RudnU2RFEtUjZ5NEtXOFZiSzE5Y21ocmZZUXNaVjE1NkRfWWJPajgwZDFFWkJzZk5iM1JUYWtiUQ?oc=5",
     "title": "HBM에 웃는 삼성 파운드리…첨단 공정 생산능력 확대 채비 - 머니투데이",
     "summary": [
@@ -147,21 +147,6 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nfd541720",
-    "category": "경제",
-    "source": "조선일보",
-    "time": "8일 전",
-    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPX19hUk9LSUdFUFZxd1QxNVFVNXJOa3pzZ1F0WXkxQWlFc09IM25Pd1lPcE1DSk5RcnFRZ25WeUlycW1IWDdUYjF5TUFRREpLRUlJNlB5cEhVUjZ6amMzR0ZaOFhPQjk1ZDRVS1A5dm5BMVdfbm9wYU80ODE0bXAydHdZTGJEMVdy?oc=5",
-    "title": "美 기준금리 4% 시대... 대출·투자 어떻게 하나",
-    "summary": [
-      "美 기준금리 4% 시대...",
-      "대출·투자 어떻게 하나 조선일보."
-    ],
-    "chips": [
-      "#금리"
-    ]
-  },
-  {
     "id": "n46ae0b88",
     "category": "사회",
     "source": "Vietnam.vn",
@@ -177,14 +162,29 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "nfd541720",
+    "category": "경제",
+    "source": "조선일보",
+    "time": "9일 전",
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPX19hUk9LSUdFUFZxd1QxNVFVNXJOa3pzZ1F0WXkxQWlFc09IM25Pd1lPcE1DSk5RcnFRZ25WeUlycW1IWDdUYjF5TUFRREpLRUlJNlB5cEhVUjZ6amMzR0ZaOFhPQjk1ZDRVS1A5dm5BMVdfbm9wYU80ODE0bXAydHdZTGJEMVdy?oc=5",
+    "title": "美 기준금리 4% 시대... 대출·투자 어떻게 하나",
+    "summary": [
+      "美 기준금리 4% 시대...",
+      "대출·투자 어떻게 하나 조선일보."
+    ],
+    "chips": [
+      "#금리"
+    ]
+  },
+  {
     "id": "n93c2ed2f",
     "category": "IT",
-    "source": "kbmaeil.com",
-    "time": "10일 전",
+    "source": "경북매일",
+    "time": "11일 전",
     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5xWGQzcWdTT2JoUFptNVhrN2RETlFyQi1BcU9meDlrYmlYenE1U0J2VmgyRk05SnJjMXFsNXRyNzZ6ZUJjLUNZdmFRVU9HcEVsNS1qdGdIOGxsZw?oc=5",
     "title": "대구경북 스타트업 한자리에…추경호 시장 “지역서 유니콘 키운다”",
     "summary": [
-      "대구경북 스타트업 한자리에…추경호 시장 “지역서 유니콘 키운다” kbmaeil.com."
+      "대구경북 스타트업 한자리에…추경호 시장 “지역서 유니콘 키운다” 경북매일."
     ],
     "chips": [
       "#스타트업"
@@ -194,7 +194,7 @@ window.NEWS_DB = [
     "id": "n1b86d5ce",
     "category": "부동산",
     "source": "한국주택경제신문",
-    "time": "15일 전",
+    "time": "16일 전",
     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1OZzh5T2VHNnBWYWlYeDRuaHBfRDBreHNNdlhfNXVwRy0tWVE4Q0VHSDRuUjc0VVQ3WnFLMk1kTHc4QlpGb3VvN3N4T3dRRnZQd3o1akRjZFl0NGhxNEpDeTlKS0xxV0Yx?oc=5",
     "title": "강남 꺾이고 강북 뛰었다…역세권·중저가 대단지가 집값 견인",
     "summary": [
@@ -208,7 +208,7 @@ window.NEWS_DB = [
     "id": "n2c0f41aa",
     "category": "IT",
     "source": "연합뉴스",
-    "time": "24일 전",
+    "time": "25일 전",
     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBSVEdqRzlmS1Y1dU1BV2dEamdfeGZHV1pVVnNmZnllZTZFX2ZlNXpQSEkzUGFHRFpSN2djQVRpbGVvM1FDQVVZU3Q0ckVYQzR4dy1BUkREV2x0ZWfSAWBBVV95cUxPMUVfaGpjN0VCUi1uUWtyRHFxZjFRbS0wcGJPc1hlVEs0c0I2QkltU2xRWFI4M1lHajczY29Vdmthb0lRazFMck5YQTB3X01zQWlTN09xMHVUbjQ4N0hLTkY?oc=5",
     "title": "\"관악S밸리에서 유니콘의 꿈을\"…관악구, 입주사 최대 20곳 모집",
     "summary": [
@@ -223,7 +223,7 @@ window.NEWS_DB = [
     "id": "n657e0140",
     "category": "경제",
     "source": "연합뉴스TV",
-    "time": "29일 전",
+    "time": "30일 전",
     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1rdGZhcGJlUmFqWjByaGFpZG1TZHEtUnpFbjM5NF9QdzlWOXliTW0tX0ZYa0pEQXdHbUt3S3pPYVNzUGJJZEtqZHotSHZDVTVFTTlNaW1UZUstNjFGTEt2Rk1hWmZ5MjA?oc=5",
     "title": "7,000선 넘보던 코스피…금리 인상에 상승폭 축소",
     "summary": [
@@ -237,7 +237,7 @@ window.NEWS_DB = [
     "id": "nac7d261c",
     "category": "사회",
     "source": "연합뉴스",
-    "time": "56일 전",
+    "time": "57일 전",
     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1wZmd4RTNaSTBwNVNxSm0yRGFySTlYN19qVTZfYzRtVzBzVV9nSnR3RXdYaTNiNkZRX3F6aXhFZTA5ekUxNW9VWHIzZHFjYnoyWU0wVDNoU2FJcVE?oc=5",
     "title": "강남구 일자리통합지원센터, 맞춤형 지원으로 취업자 25.7％ 증가",
     "summary": [
@@ -252,7 +252,7 @@ window.NEWS_DB = [
     "id": "nb424412f",
     "category": "사회",
     "source": "v.daum.net",
-    "time": "88일 전",
+    "time": "89일 전",
     "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9LellqRDhHclZOa0JNeER0eVlVWTRqYnp1MTA2aGRYdm9zb0c4T0JRTEd1TWpxV1k5UlVKNDBBbl90Rm1SZjcyVUpDZXdpenc?oc=5",
     "title": "구직자에 취업확률, 기업에 채용 피드백 제공…노동부, 고용24 고도화",
     "summary": [
@@ -268,7 +268,7 @@ window.NEWS_DB = [
     "id": "nabfa15b0",
     "category": "경제",
     "source": "YTN",
-    "time": "107일 전",
+    "time": "108일 전",
     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE50bVBaMGNlWG1LRkQ2OEh1YUF0cjlWc1EwdS1URDE1ZzJpajQzYmtTdUpGZk9yOWc0V1REZF9fNmVWOU4yVFVhbzhtQzNzMUg3b0ZfVkhVd1dxVGl0OXc?oc=5",
     "title": "\"韓 적정 환율은 얼마일까?\" 환율 vs 금리 vs 증시 상관관계 집중해부",
     "summary": [
@@ -283,7 +283,7 @@ window.NEWS_DB = [
     "id": "nba668fc0",
     "category": "IT",
     "source": "한국방송뉴스",
-    "time": "149일 전",
+    "time": "150일 전",
     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1XaThhZXFiX3dDT0NrYVFwZ2dhNTgxbHU0WE5Bc21vcGVzR0d2Wkh2Zm5pS2MyZ1JkYlhHb2VfRkhkemdEX1F6Q1RtajJLRzR6dDdHcExQelAyS2N1OUE?oc=5",
     "title": "1조 8000억 규모 벤처펀드 선정…\"벤처·스타트업에 적시 공급\"",
     "summary": [
@@ -297,7 +297,7 @@ window.NEWS_DB = [
     "id": "n08b2b275",
     "category": "부동산",
     "source": "한국부동산뉴스",
-    "time": "164일 전",
+    "time": "165일 전",
     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBZNmg3TVp4ZWZCV1ZzTE14bXV5UkN4MExnMmZJdkpfNUsyUGltRWlJVWVfUzJoQktRUlcwMTdrUUtuWk9pR2MxaFlhNGpOU0xGZjM3eDUwdlNmRWQtYkFaenAyekhVRGRRY0pJ?oc=5",
     "title": "대출 규제에 몰린 '15억 이하'…비강남 집값·분양가 동반 상승",
     "summary": [
@@ -309,319 +309,313 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n1a43e4a6",
+    "id": "n246e2ec8",
     "category": "IT",
-    "source": "테크M",
-    "time": "방금 전",
-    "url": "https://www.techm.kr/news/articleView.html?idxno=155550",
-    "title": "\"고속도로 귀경길 지루함은 이제 그만\"...긴 이동시간 책임질 '추석 게임 처방전'",
+    "source": "동아일보",
+    "time": "2분 전",
+    "url": "https://www.donga.com/news/Inter/article/all/20260926/134735034/1",
+    "title": "“AI로 쓴 소설이 문학상 수상?”… 프랑스 출판계 덮친 ‘AI 집필’ 파문",
     "summary": [
-      "추석 명절 가족들과 함께 즐거운 시간을 마치고 귀경길에 올라야 하는 시간이다.",
-      "특히 올해 추석은 예년에 비해 연휴가 짧아 귀경길 소요시간이 지난해보다 대폭 증가할 것으로 전망된다.",
-      "대중교통이나 차량 이동 중에는 스마트폰을 꺼내 게임을 즐기며 지루함을 달래보는건 어떨까."
+      "프랑스 최고 권위 문학상인 공쿠르상이 인공지능(AI)을 활용해 소설을 작성했다는 의혹을 받는 작품을 25일(현지시간) 후보 목록에서 제외했다.프랑스 르몽드, 뉴욕타임스(NYT)에 따르면 공쿠르상을 관장하는 공쿠르 아카데미는 이날 아이티계 캐나다인 작가 텔리송 오렐리앙(38)의 소설 ‘이것이 아니면 죽음뿐이었다’(C‘était ça ou mourir)를 1차 후보작 목록에서 제외한다고 발표했다.공쿠르 아카데미는 이날 소셜미디어 엑스(X)를 통해."
     ],
     "chips": [
-      "#뉴스"
+      "#AI"
     ]
   },
   {
-    "id": "neb005081",
-    "category": "IT",
-    "source": "테크M",
-    "time": "방금 전",
-    "url": "https://www.techm.kr/news/articleView.html?idxno=155564",
-    "title": "[먹어봤다] 집에서 하는 것보다 맛있다?...쿠팡이 만든 '곰곰' 추석 간편식의 '반란'",
-    "summary": [
-      "명절만 다가오면 솔직히 등골부터 서늘해지잖아.",
-      "회사 마감 치랴, 밀린 집안일 챙기랴 하루 24시간이 모자란 40대 워킹맘에게 명절 연휴는 '휴식'이 아니라 '연장 근무' 그 자체거든.특히 제일 두려운 건 역시나 전 부치기야.",
-      "고기 갈아오고, 두부 물기 짠다고 손목 나가고, 채소 다지다 눈물 찔끔 흘린 뒤 프라이팬 앞에 쪼그려 앉아 기름 냄새 맡는 그 과정 말이야."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nc98ab9b9",
-    "category": "IT",
-    "source": "테크M",
-    "time": "방금 전",
-    "url": "https://www.techm.kr/news/articleView.html?idxno=155580",
-    "title": "[가봤다] \"이케아보다 갈만하네\"...북촌에서 만난 '오늘의집' 오프라인의 맛",
-    "summary": [
-      "명절에 가면 좋을 것 같은 공간이 있잖아.",
-      "특히 서울에서 옛 정취를 느낄 수 있는 궁궐이나, 인사동 그리고 한옥을 만날 수 있는 북촌 등이 당장 생각나는 장소일 것 같아.",
-      "특히 요즘 MZ세대들부터 어르신들까지 모두 즐길 수 있는 공간인 북촌이 엄청 '핫'한 장소라고 하더라고.얼마 전 \"성수동이 '숏폼'이라면 북촌은 '롱폼'\"이라고 소개하는 영상을 봤어."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n1cf6af1d",
-    "category": "IT",
-    "source": "테크M",
-    "time": "방금 전",
-    "url": "https://www.techm.kr/news/articleView.html?idxno=155581",
-    "title": "[써봤다] 가장 가벼운 폴더블폰 '갤럭시 Z 폴드8', 성능은 묵직하네",
-    "summary": [
-      "폴더블폰은 크고 무겁다? 최근 출시된 갤럭시 Z 폴드8은 이런 선입견을 보기 좋게 깨뜨리며 흥행에 성공했다.",
-      "무게 201g, 접었을 때 두께 9.7mm의 본체에 여권형 비율을 적용해 휴대성을 높인 덕이다.",
-      "이를 앞세워 10~30대와 여성 소비자로 폴더블폰 고객층을 넓혔다.애플도 첫 폴더블폰 '아이폰 듀오'를 선보이며 뒤늦게 추격에 나섰지만, 공개 직후 오히려 갤럭시 Z 폴드8 판매량이 전주 대비 약 10% 늘었다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n18bfc73e",
+    "id": "nafaddd7b",
     "category": "사회",
     "source": "동아일보",
-    "time": "1분 전",
-    "url": "https://www.donga.com/news/Politics/article/all/20260926/134734353/2",
-    "title": "김현지 청와대 제1부속실장 부친상…광주서 가족장",
-    "summary": [
-      "김현지 청와대 제1부속실장이 26일 부친상을 당했다.김 실장은 이날 광주 서구 매월동 VIP장례타운에 마련된 빈소에서 가족들과 장례를 치르고 있다.",
-      "발인은 28일 오전이다.김 실장은 부친의 위독한 건강 상태로 인해 이재명 대통령의 미국·멕시코 순방 수행단에는 포함되지 않았다.",
-      "이 대통령은 지난 21일 미국으로 출국했으며 27일 귀국할 예정이다.정치권에 따르면 김 실장은 부친의 병환으로 광주를 오가며 간호해온 것으로 전해졌다."
-    ],
-    "chips": [
-      "#정치",
-      "#의료"
-    ]
-  },
-  {
-    "id": "n7bcd3c9e",
-    "category": "사회",
-    "source": "조선일보",
     "time": "3분 전",
-    "url": "https://www.chosun.com/entertainments/broadcast/2026/09/26/MRRTQZTEGEYTEYZXMZSWEMRXHA/",
-    "title": "김희경, 조인성 품에 안겨 “불가능한 사랑”..♥김기방도 “합법적 바람 참나”",
+    "url": "https://www.donga.com/news/Entertainment/article/all/20260926/134735031/1",
+    "title": "박명수 딸, 한예종 창작과 합격 “9년간 노력…장학금 놓친 적 없어”",
     "summary": [
-      "[OSEN=김채연 기자] 배우 김기방의 아내 김희경이 조인성을 향한 팬심을 드러냈다.26일 김희경은 개인 SNS를 통해 “(불)가능한 사랑”이라며 사진을 게재했다.공개된 사진 속에서는 김희경이 조인성의 품에 안겨 활짝 미소를 짓고 있으며, 조인성 역시 김희경의 어깨를 감싸고 카메라를 응시하며 장난기 넘치는 표정을 짓고 있다.김희경은 “요즘 시사회에 뒷풀이까."
+      "코미디언 박명수의 딸 민서 양이 한국예술종합학교에 합격했다.박명수의 아내 한수민은 26일 인스타그램을 통해 “우리 민서가 드디어 가장 원하는 대학에 입학했다”며 “초등학교 4학년 때부터 9년간 쉼 없이 열심히 노력했던 결실이 드디어 맺어졌다”고 전했다.이어 “예원중학교, 선화예고 내내 한 번도 장학금을 놓친 적이 없을 정도로 성실하게 열심히 노력해 온 민서, 춤에 대한 열정이 너무 진심이기에 앞으로도 끝없이 춤추고 창작하고 싶다는 민서의 꿈을."
     ],
     "chips": [
-      "#뉴스"
+      "#교육"
     ]
   },
   {
-    "id": "nbef0f9a7",
-    "category": "스포츠",
+    "id": "n1edb6378",
+    "category": "사회",
     "source": "뉴시스",
     "time": "4분 전",
-    "url": "https://www.newsis.com/view/NISX20260926_0003803785",
-    "title": "남자 핸드볼, 중국에 32-26 승리…8년 만에 준결승전 진출[나고야AG]",
+    "url": "https://www.newsis.com/view/NISX20260926_0003803898",
+    "title": "통한의 역전패에 눈물 쏟은 펜싱 박지희 \"아직 많이 부족하다\"[나고야AG]",
     "summary": [
-      "[서울=뉴시스] 김진엽 기자 = 조영신(상무) 감독이 이끄는 한국 남자 핸드볼 대표팀이 중국을 꺾고 2026 아이치·나고야 아시안게임 준결승전에 올라 일본을 상대하게 됐다.",
-      "한국은 26일 오후 2시 일본 아이치현 가스가이 체육관에서 열린 중국과의 대회 8강전에서 32-26 승리를 거뒀다.",
-      "이로써 조영신호는 동메달을 목에 걸었던 2018 자카르타·팔렘방 대회 이래 8년 만에 4강에 올랐다."
+      "[도코나메(일본)·서울=뉴시스]박윤서 문채현 기자 = 아시안게임 첫 출전에 은메달 2개를 목에 걸었음에도 아쉬움에 눈물을 쏟았다.",
+      "다 함께 시상대 정상에 설 기회를 눈앞에서 놓쳤다는 아쉬움과 동료들을 향한 미안함에 박지희(서울특별시청)는 고개를 숙였다.",
+      "박지희, 모별이(인천광역시중구청), 심소은(서울특별시청), 이세주(충북도청)로 이뤄진 한국은 26일 일본 아이치현 도코나메의 아이치 스카이 엑스포에서 열린 2026 아이치·나고야 아시안게임 펜싱."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n5a5e0be9",
-    "category": "사회",
+    "id": "n07327e57",
+    "category": "스포츠",
     "source": "조선일보",
-    "time": "5분 전",
-    "url": "https://www.chosun.com/national/regional/2026/09/26/5ICTXF2ERZCZ3DR6DYXC2EU2HQ/",
-    "title": "상어 한 마리가 북항을 뒤흔들었다… ‘부캉이’ 보러 23만명 북새통",
+    "time": "4분 전",
+    "url": "https://www.chosun.com/sports/baseball/2026/09/26/GA3TQNRTGEZDSMBQMI3DMOBTHA/",
+    "title": "韓 야구 정말 큰일났다…日 참사에 이어 中 에게도 굴욕 당하나→선취점 허용 [도요하시 LIVE]",
     "summary": [
-      "상어 한 마리가 북항을 뒤흔들었다… ‘부캉이’ 보러 23만명 북새통."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n42ebac04",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "5분 전",
-    "url": "https://www.chosun.com/jp/politics-national-jp/2026/09/26/5ZDZLBHXZVFRRMDVUYIMO4PAIE/",
-    "title": "釜山北港のサメ「ブカンイ」に23万人殺到",
-    "summary": [
-      "釜山北港のサメ「ブカンイ」に23万人殺到."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nb62f0b4a",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "6분 전",
-    "url": "https://www.newsis.com/view/NISX20260926_0003803687",
-    "title": "\"결혼은 언제?\"보다 더 싫다…추석 친척 잔소리 1위는 '이것'",
-    "summary": [
-      "[서울=뉴시스]전민영 인턴 기자 = 추석 명절마다 반복되는 친척들의 사적인 질문과 간섭에 부담을 느끼는 성인이 적지 않은 것으로 나타났다.",
-      "특히 '결혼은 언제 하느냐'는 질문보다 더 많은 응답자가 부담스럽다고 꼽은 대화 주제가 있었다.",
-      "리서치 업체 피앰아이가 2026년 추석 연휴를 앞두고 전국 만 20~69세 성인 남녀 1000명을 대상으로 '추석 연휴 인식 조사'를 진행한 결과, 개선됐으면 하는 명절 문화 1위는 '친척 간의 지나친 간섭 및."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n6ce93b05",
-    "category": "스포츠",
-    "source": "아시아경제",
-    "time": "8분 전",
-    "url": "https://view.asiae.co.kr/article/2026092615373488168",
-    "title": "\"女선수 생리주기 스포츠 도박에 활용하자\" 주장…인도서 논란",
-    "summary": [
-      "인도에서 한 남성이 여자 크리켓 선수들의 생리 주기와 경기 기록을 분석해 경기력을 예측하고, 이를 스포츠 도박에 활용하겠다고 사회관계망서비스(SNS)에서 주장해 논란이 일었다.",
-      "선수들의 민감한 건강 정보를 어떤 경로로 확보하거나 추정했는지를 두고도 비판이 이어지고 있다.",
-      "지난 21일(현지시간) 인도 매체 머니컨트롤, 뉴스18 등은 최근 인스타그램에서 라지 고마니라는 남성이 여성 크리켓 선수들의 생리 주기를 경기 성적과 연결해 분석하는 방법을 소."
-    ],
-    "chips": [
-      "#의료"
-    ]
-  },
-  {
-    "id": "n5315f9a2",
-    "category": "경제",
-    "source": "한국경제",
-    "time": "8분 전",
-    "url": "https://www.hankyung.com/article/2026092666277",
-    "title": "\"금메달이 인생 2∼3번째\"…하품하던 11살 日 천재, AG 새 역사",
-    "summary": [
-      "\"금메달이 인생 2∼3번째\"…하품하던 11살 日 천재, AG 새 역사."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n69eb70f6",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "10분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260926035400007",
-    "title": "[아시안게임] 가위바위보로 잡은 소총…김지은, 12년 만의 여자 3자세 메달",
-    "summary": [
-      "(도요타[일본]=연합뉴스) 김동한 기자 = 12년 만에 한국 사격에 아시안게임 여자 50ｍ 소총 3자세 메달을 안긴 김지은(23·IBK기업은행)..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n6deaea6c",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "10분 전",
-    "url": "https://www.donga.com/news/Politics/article/all/20260926/134734337/1",
-    "title": "이 대통령, 멕시코 청소년과 스트레이키즈 공연 관람…“K팝 사랑 감사”",
-    "summary": [
-      "멕시코를 국빈 방문한 이재명 대통령과 부인 김혜경 여사는 25일(현지시간) 멕시코시티 GNP 스타디움에서 열린 한-멕 문화교류 콘서트 ‘스트레이시티(Stray City)’를 방문했다고 성기홍 청와대 홍보소통수석이 서면 브리핑에서 전했다.아이돌그룹 ‘스트레이키즈’를 주축으로 한 음악 페스티벌로 스타디움에 도착한 이 대통령은 먼저 스트레이키즈 멤버들을 만나 격려의 인사를 건넸다.",
-      "이어 이 대통령 부부는 공연장을 찾은 K-팝을 사랑하는 멕시코 청소년."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "nd56ce7d1",
-    "category": "스포츠",
-    "source": "동아일보",
-    "time": "14분 전",
-    "url": "https://www.donga.com/news/Sports/article/all/20260926/134734328/1",
-    "title": "金 따고도 ‘무표정’ 11세 천재…강동신 “나보다 한 수 위”",
-    "summary": [
-      "일본의 11세 ‘뿌요뿌요 천재’ 구리하라 유키가 강동신(25)을 꺾고 아시안게임 역대 최연소 금메달리스트가 됐다.",
-      "우승을 확정하고도 무덤덤한 표정을 지은 구리하라는 “사실 정말 기뻤다”고 웃었고, 은메달을 딴 강동신은 “나보다 한 수 위였다”며 어린 챔피언의 실력을 인정했다.구리하라는 26일 일본 아이치현 도코나메 아이치 스카이 엑스포에서 열린 2026 아이치·나고야 아시안게임 e스포츠 뿌요뿌요 결승에서 강동신을 10-2로 꺾고 금메달을 목에."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n3a3e1c4f",
-    "category": "사회",
-    "source": "아시아경제",
-    "time": "14분 전",
-    "url": "https://view.asiae.co.kr/article/2026092214573808670",
-    "title": "민주당ETF·공화당ETF 투자해볼까…美 중간선거 앞두고 정치ETF 관심↑[주末머니]",
-    "summary": [
-      "미국 중간선거를 1개월 반 남짓 앞둔 상황에서 정치인이 실제로 매수한 종목이 수혜주가 될 수 있다는 분석이 나왔다.",
-      "박우열 신한투자증권 연구원은 \"정치 테마 상장지수펀드(ETF) 중 정치인의 매매 종목 기반 바스켓의 성과가 우수했다\"며 \"선거 불확실성 해소로 수혜주에 주목한다면 정치 구호보다도 의원들이 실제로 매수한 종목들에 주목해볼 시점\"이라고 전했다.",
-      "민주당 바스켓 투자 상품으로는 민주당 의원들의 거래 공시에 기반한 NANC ETF, S&P."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "nc0cc7c86",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "15분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260926035300007",
-    "title": "[아시안게임] 남자 핸드볼, 중국 꺾고 8년 만에 4강 복귀",
-    "summary": [
-      "(나고야=연합뉴스) 장현구 기자 = 남자 핸드볼 대표팀이 아시안게임에서 8년 만에 4강에 복귀했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "na8370ec8",
-    "category": "스포츠",
-    "source": "동아일보",
-    "time": "15분 전",
-    "url": "https://www.donga.com/news/Sports/article/all/20260926/134734321/1",
-    "title": "‘가을야구 탈락 확정’ 한화, 1군 엔트리에서 류현진 말소",
-    "summary": [
-      "시즌 막판 연패가 길어지며 가을야구 탈락이 확정된 한화 이글스가 류현진을 1군 엔트리에서 말소했다.한화는 26일 창원NC파크에서 열리는 2026 신한 쏠 KBO리그 NC 다이노스와의 원정 경기를 앞두고 류현진을 1군 엔트리에서 제외했다.전날 경기까지 10연패를 기록한 한화는 시즌 54승 4무 75패를 기록했다.올 시즌 총 11경기를 남긴 가운데, 잔여 경기를 모두 승리하더라도 5위 이내에 진입할 수 없다.류현진은 올 시즌 25경기에 등판해 9승."
+      "[도요하시=스포츠조선 이종서 기자] 이겨야 하는 경기에 선취점을 줬다.",
+      "류지현 감독이 이끄는 2026 아이치-나고야 아시안게임 야구대표팀은 26일 일본 아이치현 도요하시 구장에서 중국과 슈퍼라운드 경기를 했다.",
+      "전날 일본에 0대5 패배를 하면서 한국은 중국을 이겨야 결승 진출이 가능하다."
     ],
     "chips": [
       "#KBO"
     ]
   },
   {
-    "id": "n471745d0",
+    "id": "n3adca26e",
+    "category": "스포츠",
+    "source": "연합뉴스",
+    "time": "6분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260926044800007",
+    "title": "코리아오픈 결승은 '호주 더비'…비렐-조인트, 첫 우승 다툰다",
+    "summary": [
+      "(서울=연합뉴스) 안홍석 기자 = 호주 출신의 킴벌리 비렐(60위)과 마야 조인트(99위)가 2026 여자프로테니스(WTA) 투어 코리아오픈 테..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "na8248498",
     "category": "사회",
-    "source": "아시아경제",
+    "source": "뉴시스",
+    "time": "12분 전",
+    "url": "https://www.newsis.com/view/NISX20260926_0003803902",
+    "title": "추석 연휴 셋째 날 귀경길 정체 완화…부산→서울 5시간",
+    "summary": [
+      "[서울=뉴시스]이다솜 기자 = 추석 연휴 셋째 날인 26일 토요일 저녁 귀경길 정체가 예상보다 빠르게 완화하고 있다.",
+      "한국도로공사에 따르면 이날 전국 고속도로 교통량은 590만대로 예상된다.",
+      "수도권에서 지방으로 빠져나가는 차량은 38만대, 지방에서 수도권으로 진입하는 차량은 52만대로 관측된다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n031d34d4",
+    "category": "스포츠",
+    "source": "연합뉴스",
     "time": "16분 전",
-    "url": "https://view.asiae.co.kr/article/2026092615323486892",
-    "title": "'암살자(들)' 개봉 나흘 만에 관객 100만명 돌파",
+    "url": "https://www.yna.co.kr/view/AKR20260926029351007",
+    "title": "[아시안게임] 가혹한 '1일 2경기'에도 끄떡없는 안세영, 사상 첫 2연패 시동(종합)",
     "summary": [
-      "배우 박해일·유해진·이민호 주연의 영화 '암살자(들)'이 개봉 나흘 만에 누적 관객 100만명을 돌파했다.",
-      "'암살자(들)' 배급사 하이브미디어코프는 26일 오전 '암살자(들)'의 누적 관객 수가 105만명을 넘겼다고 밝혔다.",
-      "'암살자(들)'은 1974년 발생한 육영수 여사 피격 사건의 전말이 알려진 것과 다를 수 있다는 의문에서 출발하는 미스터리 추격극이다."
+      "(이치노미야[일본]=연합뉴스) 오명언 기자 = 대진표조차 큰 의미가 없는 '절대 1강' 안세영이 압도적인 경기력으로 아시안게임 8강에 가뿐히 안..."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n2bbac48e",
-    "category": "경제",
-    "source": "아시아경제",
-    "time": "21분 전",
-    "url": "https://view.asiae.co.kr/article/2026092615282101750",
-    "title": "[이 책 어때]봉준호도 첫 슬레이트는 NG였다",
+    "id": "n7c71a1d5",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "17분 전",
+    "url": "https://www.newsis.com/view/NISX20260926_0003803796",
+    "title": "\"순자산 4억인데도 중산층 아니다\"…'진짜 중산층' 가른 6가지 조건",
     "summary": [
-      "봉준호는 슬레이트를 잘 못 쳤다.",
-      "정확히는, 첫 슬레이트를 치다가 새끼손가락을 끼었다.",
-      "연습까지 꽤 했건만 돌아온 말은 냉정했다."
+      "[서울=뉴시스]전민영 인턴 기자 = ‘진짜 중산층’을 정의 내리기 위해서는 현재생활 조건인 소득, 소비, 저축 여력과 미래지속 조건이라는 자산, 부채, 노후 준비까지 고려해야 한다는 분석이 나왔다.",
+      "최근 NH투자증권 100세시대연구소가 발행한 '대한민국 진짜 중산층' 보고서에서는 중산층을 현재 적정한 생활수준을 누리면서 그 수준을 미래에도 유지할 수 있는 가구로 정의했다.",
+      "연구소는 소득 기준으로는 OECD 기준에 맞춰 연간 균등화 가처분소득이."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n2a835b2e",
+    "id": "n150fc8d4",
+    "category": "스포츠",
+    "source": "동아일보",
+    "time": "19분 전",
+    "url": "https://www.donga.com/news/Sports/article/all/20260926/134735020/1",
+    "title": "‘2연속 금메달 도전’ 안세영, 가뿐히 8강행…복식조도 순항",
+    "summary": [
+      "‘최강’ 안세영(삼성생명)이 한국 배드민턴 단식 선수 첫 아시안게임 2연패를 향한 도전을 힘차게 시작했다.세계랭킹 1위 안세영은 26일 일본 아이치현 이치노미야 시립 체육관에서 열린 2026 아이치·나고야 아시안게임 배드민턴 여자 단식 32강전에서 카밀라 스마굴로바(카자흐스탄·426위)를 2-0(21-5 21-5)으로 완파했다.안세영은 2게임에서 11점을 연속으로 뽑는 등 맹공을 퍼부어 경기 시작 20분 만에 스마굴로바를 쓰러뜨렸다.같은 날 열."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n15881145",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "19분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260926044500051",
+    "title": "부산 부암고가교 4중 충돌사고로 5명 부상…차량 정체도",
+    "summary": [
+      "(부산=연합뉴스) 김선호 기자 = 26일 오후 5시께 부산 부산진구 부암동 부암고가교에서 쉐보레 크루즈 차량이 중앙선을 넘어 마주 오던 택시와 ..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n9ff1dc37",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "22분 전",
+    "url": "https://www.newsis.com/view/NISX20260926_0003803891",
+    "title": "이란 대통령 \"카타르·파키스탄, 美·이란 중재…협상안, 내부 조율 거쳐\"",
+    "summary": [
+      "[서울=뉴시스] 이재우 기자 = 마수드 페제시키안 이란 대통령은 카타르와 파키스탄이 이란과 미국을 중재하고 있다면서도 미국을 신뢰하지 않는다고 밝혔다.",
+      "페제시키안 대통령은 26일(현지시간) 공개된 알자지라와 인터뷰에서 \"미국은 협상 때마다 반복적으로 공격과 제재를 가했기 때문에 우리는 더는 미국과 대화를 신뢰하지 않는다\"고 말했다.",
+      "이어 \"카타르와 파키스탄이 현재 이란과 미국 사이를 중재하며 우리의 메시지를 미국에 전달하고 있다\"며 \"미국과 협."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n580b67bb",
+    "category": "스포츠",
+    "source": "연합뉴스",
+    "time": "22분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260926044300007",
+    "title": "나성범 선제포＋네일 6이닝 호투 KIA, 3위 LG에 2경기 차 추격",
+    "summary": [
+      "(서울=연합뉴스) 천병혁 기자 = KIA 타이거즈가 LG 트윈스를 격파하고 준풀레이오프(준PO) 직행 가능성을 살렸다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "ne5bee48f",
     "category": "경제",
     "source": "한국경제",
     "time": "23분 전",
-    "url": "https://www.hankyung.com/article/2026092666227",
-    "title": "트럼프·시진핑 \"국제수로 통행료 반대\"…호르무즈 쥔 이란 부담",
+    "url": "https://www.hankyung.com/article/2026092667587",
+    "title": "미중 새 키워드는 '존중·공정·대등'…中, 정상회담 8대 성과 공개",
     "summary": [
-      "트럼프·시진핑 \"국제수로 통행료 반대\"…호르무즈 쥔 이란 부담."
+      "미중 새 키워드는 '존중·공정·대등'…中, 정상회담 8대 성과 공개."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n0d62c63c",
+    "category": "스포츠",
+    "source": "아시아경제",
+    "time": "24분 전",
+    "url": "https://view.asiae.co.kr/article/2026092620321205027",
+    "title": "[나고야AG]한국 탁구 동메달 3개로 마감…은메달조차 못딴 적은 처음",
+    "summary": [
+      "한국 탁구가 2026 아이치·나고야 아시안게임에서 단 하나의 은메달조차 건지지 못했다.",
+      "1958년 도쿄 대회에서 탁구가 정식 종목으로 도입된 이래 한국 탁구 역대 최초의 '노실버'다.",
+      "한국 탁구 대푠팀은 26일 일본 아이치현 스카이홀 도요타에서 열린 대회 개인전 일정에서 출전 선수 전원이 4강 문턱을 넘지 못하고 줄줄이 탈락했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n0c921483",
+    "category": "경제",
+    "source": "한국경제",
+    "time": "26분 전",
+    "url": "https://www.hankyung.com/article/202609233571H",
+    "title": "\"韓 또 가고 싶어 병날 지경\"…'한국통' 호소하는 외국인들 [김예랑의 K컬처인사이드]",
+    "summary": [
+      "\"韓 또 가고 싶어 병날 지경\"…'한국통' 호소하는 외국인들 [김예랑의 K컬처인사이드]."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n1afd2a89",
+    "category": "사회",
+    "source": "아시아경제",
+    "time": "38분 전",
+    "url": "https://view.asiae.co.kr/article/2026092620174243065",
+    "title": "軍·유엔사, DMZ에 인력 투입해 기동로 확보…지뢰사고 현장조사 준비",
+    "summary": [
+      "군과 유엔군사령부가 비무장지대(DMZ)에 병력을 투입해 최근 서부전선에서 발생한 지뢰 추정 폭발 사고 현장조사를 위한 준비에 나섰다.",
+      "합동참모본부(합참)은 26일 언론 공지를 통해 \"군과 유엔사는 오늘 합동으로 DMZ 내 지뢰 추정 폭발 상황 관련 현장조사를 위한 기동로 확보 및 작전환경 조사를 했다\"고 밝혔다.",
+      "이날 DMZ에 투입된 인원은 이동로에 대한 안전성 평가, 감시 및 통신상태 점검 등을 통해 작전환경 전반을 확인했다."
+    ],
+    "chips": [
+      "#환경"
+    ]
+  },
+  {
+    "id": "n57acb284",
+    "category": "경제",
+    "source": "아시아경제",
+    "time": "44분 전",
+    "url": "https://view.asiae.co.kr/article/2026092620120240395",
+    "title": "[내일날씨]연휴 마지막날 맑다가 오후 구름 많아져…남부·제주는 비",
+    "summary": [
+      "추석 연휴 마지막 날인 27일은 전국이 대체로 맑다가 오후부터 가끔 구름이 많아질 예정이다.",
+      "새벽에 전남 남해안 일부 지역에 0.1㎜ 미만의 빗방울이 내리겠고, 오후에는 제주도와 경북 남부 동해안에 비가 내리는 곳이 있겠다.",
+      "울산·경남 내륙 곳곳에도 오후에 0.1㎜ 미만의 빗방울이 내리겠고, 밤 시간대 서해5도 일부 지역에도 비가 내릴 전망이다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nab34cfee",
+    "category": "사회",
+    "source": "아시아경제",
+    "time": "50분 전",
+    "url": "https://view.asiae.co.kr/article/2026092620052216608",
+    "title": "이란 대통령 \"호르무즈 재개방 평화안, 최고지도자와 조율 마쳐\"",
+    "summary": [
+      "마수드 페제시키안 이란 대통령은 아야톨라 모즈타바 하메네이 최고지도자와 호르무즈 해협 재개방을 위한 자국의 새 평화안에 관한 조율을 마쳤다고 26일(현지시간) 밝혔다.",
+      "이란 국영 IRNA 통신에 따르면 페제시키안 대통령은 \"미국이 제안을 수용하고 의무를 이행한다면 우리도 똑같이 할 것\"이라며 이같이 말했다.",
+      "그는 \"혁명 지도자(최고지도자)와의 조율은 이미 이뤄졌다\"고 강조하며, 이번 호르무즈 해협 개방안이 이란 수뇌부의 총의임을 분명히 했다."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "nb83bce79",
+    "category": "경제",
+    "source": "한국경제",
+    "time": "56분 전",
+    "url": "https://www.hankyung.com/article/202609233727i",
+    "title": "추석 연휴 뉴욕 메트 달군 한국 바리톤 둘…유한승·김기훈 '라 보엠' 동반 출연",
+    "summary": [
+      "추석 연휴 뉴욕 메트 달군 한국 바리톤 둘…유한승·김기훈 '라 보엠' 동반 출연."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n7a8d2de7",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "58분 전",
+    "url": "https://www.donga.com/news/Politics/article/all/20260926/134734970/1",
+    "title": "軍·유엔사, 지뢰 폭발 5일만에 DMZ 진입…합동 조사 준비",
+    "summary": [
+      "합동참모본부와 유엔군사령부 군사정전위원회(군정위)가 지뢰 추정 폭발 사고 합동 조사 전 사전 점검을 위해 비무장지대(DMZ)를 진입했다고 26일 밝혔다.이날 현장에는 사고의 합동 현장조사 태스크포스(TF)장인 권대원 합참차장과 군정위 비서장, 작전병력 20여명이 투입됐다.",
+      "지난 21일 사고 당시 수색로 개척에 참여했던 장병 일부도 자발적으로 참여했다고 합참은 설명했다.투입 인원들은 이동로에 대한 안전성 평가, 감시 및 통신상태 점검 등 작전환경."
+    ],
+    "chips": [
+      "#환경"
+    ]
+  },
+  {
+    "id": "n114ffff3",
+    "category": "사회",
+    "source": "한국경제",
+    "time": "1시간 전",
+    "url": "https://www.hankyung.com/article/2026092667307",
+    "title": "군·유엔사, DMZ 지뢰 사고 현장 진입…조사 위한 길·통신 점검",
+    "summary": [
+      "군·유엔사, DMZ 지뢰 사고 현장 진입…조사 위한 길·통신 점검."
     ],
     "chips": [
       "#뉴스"
@@ -634,8 +628,8 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2980건",
-    "trend": "+355%"
+    "mentions": "2720건",
+    "trend": "+315%"
   },
   {
     "rank": 2,
