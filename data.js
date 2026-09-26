@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-09-26 15:26:09
+// 마지막 업데이트: 2026-09-26 18:50:07
 window.NEWS_DB = [
   {
     "id": "n1bfb4258",
     "category": "IT",
     "source": "자본시장뉴스",
-    "time": "15시간 전",
+    "time": "18시간 전",
     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1CZXBoQWRDem1vQUxFUmxhLWNLalNOSDhoVlc3OWRWX05SNUtXeG1CbEpGaHNjTmxhcGVNaXd6bGktdTZGanRsYmNjOU5kbVBLNEFmQjZvUWx6Q1pWLUg0Zk5GdlVybjg?oc=5",
     "title": "[시총 10대 기업] 삼성전자 HBM 점유율 33%…2027년 역전 전망",
     "summary": [
@@ -77,12 +77,12 @@ window.NEWS_DB = [
   {
     "id": "na6d22b09",
     "category": "스포츠",
-    "source": "경기일보",
+    "source": "kyeonggi.com",
     "time": "4일 전",
     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE11U1hseFNuTzV6YUoyOWxkOURqZjlTV1FEWEo1S09LazhsM2FnNTRLQk4zWjVETkZXLXphOHRxMldQazEzMVhJN2RLV3p5MUphUThhYmZvOE41R1U?oc=5",
     "title": "추석 연휴, 프로야구·축구 현장도 열기 ‘팔팔’",
     "summary": [
-      "추석 연휴, 프로야구·축구 현장도 열기 ‘팔팔’ 경기일보."
+      "추석 연휴, 프로야구·축구 현장도 열기 ‘팔팔’ kyeonggi.com."
     ],
     "chips": [
       "#KBO"
@@ -133,14 +133,14 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n1ebf737b",
+    "id": "n891b0cd6",
     "category": "스포츠",
-    "source": "글로벌E",
+    "source": "뉴시안",
     "time": "5일 전",
-    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1xdGdqbUJjMXkyZFRRYi1ETklIZmlIQlFHYS1ZemlEaU5IQ0hCQkR1Wm5pYVVJUl9jX2s3Z08ydEpxdFM2elFVdjNFdlhxMlRsUVhQY3JKRVdRWG5WUlpOR2hNemdnbVdrWElv0gFvQVVfeXFMT1QxRDNTbjRoMk5ZWVBmRllQU2Z2b1IyY0hYZEx1LWc0aFhSb083aGdYc1ZQNDhrN0NncVZGclFwVnV0RGNoNTNmcXkwSzF5dTdxZnVRYlFQOTZDblRRWkpDUzNCOUpoMEJmbkRYa1Nz?oc=5",
-    "title": "이베이, K-스포츠 굿즈 역직구 급증···KBO 매출 전년 대비 2.9배↑",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8yWDNZR3Y3VjZvc3hFYzZFd0NvWVo0dnFOLThlWm5feUVWZTRYc0l0YzREU0hhd0xoWWF0WHRxUXJYSExvMkdQS2pXQWdhNmdOXzNRYUxrTmxoNnNZUHVlNTQ4Skd6eTktc3fSAW5BVV95cUxOd1lnc0FxSllXZzVjOFJjOEh4UjVPQ21HRnhqVVBIYzJLRDlISFNiZnZnSjk5OTBnVTVsS2tqSENHMDZhRkI5ZWZEZmJqQ0EyS2R6bTkxaUR4UHdXeGZFSjFzdW5KdTNxNmhQX1h0UQ?oc=5",
+    "title": "KBO 굿즈 매출 3배로… K-스포츠 굿즈, 소장템 부상",
     "summary": [
-      "이베이, K-스포츠 굿즈 역직구 급증···KBO 매출 전년 대비 2.9배↑ 글로벌E."
+      "KBO 굿즈 매출 3배로… K-스포츠 굿즈, 소장템 부상 뉴시안."
     ],
     "chips": [
       "#KBO"
@@ -252,12 +252,12 @@ window.NEWS_DB = [
   {
     "id": "n244b01bd",
     "category": "경제",
-    "source": "straightnews.co.kr",
+    "source": "스트레이트뉴스",
     "time": "102일 전",
     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBCMWo2YXNZMEh0aUhtSDk2czAteEZBVVM4MFVGSmNlREM2bEdPX3NaNFMyMDhNWXp1bllqd1NEbkE5elZZYlhRRnRTNm1OdFFmVmlmQ2o2LTdLZXE3TUw5Mm5uU014MFN5ZFkxXzBPbWxCS3fSAXdBVV95cUxQR1pwdFp0SFJzTkVyR3RtbjVBVm03aGxUS2JURUN6eE1iVDlKazYwZmh5bUxRdU1hQXc3dUIxWXFYRG1XZlA1cHB1S3NVR0pYUExPbEtQMFBxeWp0NnFweW5hM0xOMUNmM2o1cENPdjFqb0Q4SWJkaw?oc=5",
     "title": "미·이란 종전 합의에 금리 전망 변화?…한은 7월 인상론 여전",
     "summary": [
-      "미·이란 종전 합의에 금리 전망 변화?…한은 7월 인상론 여전 straightnews.co.kr."
+      "미·이란 종전 합의에 금리 전망 변화?…한은 7월 인상론 여전 스트레이트뉴스."
     ],
     "chips": [
       "#금리"
@@ -266,12 +266,12 @@ window.NEWS_DB = [
   {
     "id": "nabfa15b0",
     "category": "경제",
-    "source": "ytn.co.kr",
+    "source": "YTN",
     "time": "108일 전",
     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE50bVBaMGNlWG1LRkQ2OEh1YUF0cjlWc1EwdS1URDE1ZzJpajQzYmtTdUpGZk9yOWc0V1REZF9fNmVWOU4yVFVhbzhtQzNzMUg3b0ZfVkhVd1dxVGl0OXc?oc=5",
     "title": "\"韓 적정 환율은 얼마일까?\" 환율 vs 금리 vs 증시 상관관계 집중해부",
     "summary": [
-      "\"韓 적정 환율은 얼마일까?\" 환율 vs 금리 vs 증시 상관관계 집중해부 ytn.co.kr."
+      "\"韓 적정 환율은 얼마일까?\" 환율 vs 금리 vs 증시 상관관계 집중해부 YTN."
     ],
     "chips": [
       "#금리",
@@ -322,12 +322,131 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n1c8dffd3",
+    "id": "ncd83223f",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "22분 전",
+    "url": "https://www.chosun.com/sports/volleyball/2026/09/27/G5TDANJTGU4DINDFGM3TAOBQGY/",
+    "title": "은메달 따고도 비난과 욕설…日 20세 배구 아이돌, 비공개 사진에 뜨거운 반응",
+    "summary": [
+      "[OSEN=한용섭 기자] 일본 여자 배구 대표팀은 2026 아이치·나고야 아시안게임에서 48년 만에 금메달에 도전했으나, 중국의 벽에 막혀 은메달을 땄다.",
+      "결승에서 중국에 세트 스코어 0-3으로 패배한 후 일부 일본 배구 팬들은 일본 여자 대표팀을 향해 날선 비난을 했다.",
+      "경기 직전에 립스틱을 바르는 모습을 두고 악플이 쏟아졌다.대표팀 선수들은 SNS에 과."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "ndc35823e",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "22분 전",
+    "url": "https://www.chosun.com/jp/sports-jp/2026/09/27/BXZB4ZN54JDAVAOLN2HZJF7FTM/",
+    "title": "銀でも中傷…井上未唯奈の写真に反響",
+    "summary": [
+      "【OSEN＝ハン・ヨンソプ記者】日本女子バレーボール代表は2026年愛知・名古屋アジア大会で48年ぶりの金メダルに挑んだが、中国の壁に阻まれて銀メダルを獲得した。決勝で中国にセットカウント0－3で敗れた後、一部の日本のバレーボールファンは日本女子代表に厳しい批判を浴びせた。試合直前に口紅を塗る姿をめぐり、誹謗中傷コメントが殺到した。代表選手たちはSNSで過."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n171c857d",
     "category": "사회",
     "source": "연합뉴스",
-    "time": "7분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260926047251081",
-    "title": "\"레오! 레오!\" 18년만의 교황 방문에 샹젤리제 '들썩'…70만명 운집(종합)",
+    "time": "25분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260927002400071",
+    "title": "트럼프, 법원 제동에도 CNN 또 배제…에어포스원 탑승 막아",
+    "summary": [
+      "(워싱턴=연합뉴스) 이유미 특파원 = 도널드 트럼프 미국 대통령이 자신에게 비판적인 언론사들의 백악관 출입을 금지한 조치에 법원이 제동을 걸었음..."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "nc95e9bad",
+    "category": "IT",
+    "source": "연합뉴스",
+    "time": "29분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260927002300091",
+    "title": "애플, 美서 특허침해 사상 최대 손배 위기…7.7조원 배상 평결",
+    "summary": [
+      "(샌프란시스코=연합뉴스) 권영전 특파원 = 애플이 아이폰과 애플워치 등에 탑재한 햅틱(진동 반응) 기술이 타사 특허를 침해했다는 법원 평결이 나..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nee824717",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "34분 전",
+    "url": "https://www.newsis.com/view/NISX20260927_0003803948",
+    "title": "\"호르무즈 개방 협상 제안 이란 외무, 30일까지 뉴욕 머무를 것\"",
+    "summary": [
+      "[서울=뉴시스] 김예진 기자 = 미국 뉴욕에서 열린 유엔총회 기간 중 미국 측에 호르무즈 해협 개방 및 핵 협상 재개를 제안한 아바스 아라그치 이란 외무장관이 오는 30일(현지 시간)까지 뉴욕에 머물 예정이라고 이란 국영 IRNA통신을 인용해 타임스오브이스라엘(TOI)이 26일 보도했다.",
+      "IRNA은 소식통을 인용해 이같이 전했다.",
+      "그는 지난 24일 뉴욕 유엔본부에서 기자들과 만나 \"우리는 일정한 조건이 충족된다면 7일째 되는 날 호르무즈 해협을."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nf938f5e7",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "50분 전",
+    "url": "https://www.chosun.com/national/people/2026/09/27/SPUKQTY5F5BI5K7CZNAVEIA5VE/",
+    "title": "뉴욕을 정복한 부산 사나이… 5000개 돈카츠 레시피를 완성한 메모",
+    "summary": [
+      "뉴욕을 정복한 부산 사나이… 5000개 돈카츠 레시피를 완성한 메모."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n0d7d6a15",
+    "category": "IT",
+    "source": "뉴시스",
+    "time": "55분 전",
+    "url": "https://www.newsis.com/view/NISX20260926_0003803767",
+    "title": "\"반도체만 보다가 '겨울' 온다\"…오건영이 짚은 의외의 투자법",
+    "summary": [
+      "[서울=뉴시스]장인혜 인턴 기자 = 오건영 신한 프리미어 패스파인더 단장이 AI·반도체에 쏠린 투자 흐름을 두고 금리는 오르고 내리기를 반복한다며 분산투자와 장기적인 시야가 필요하다고 강조했다.",
+      "26일 구독자 약 60만명의 유튜브 채널 '김재원TV'에 따르면, 오건영 단장은 반도체와 AI 관련 자산에 대한 투자 열풍을 두고 \"전문가들이 생각하는 것보다 AI가 우리 일상으로 파고드는 속도는 훨씬 빠르다\"면서도 \"투자자들이 기대하는 것보다는 느린."
+    ],
+    "chips": [
+      "#AI",
+      "#반도체",
+      "#금리"
+    ]
+  },
+  {
+    "id": "n8f0b54e8",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "55분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260927002200072",
+    "title": "中부주석 \"걸프국 주권 존중돼야\"…이란 문제 두고 美 우회 비판",
+    "summary": [
+      "(뉴욕=연합뉴스) 임수정 특파원 = 한정 중국 국가부주석이 26일(현지시간) 유엔총회 연설에서 이란과 쿠바 문제를 놓고 미국의 정책을 우회적으로..."
+    ],
+    "chips": [
+      "#정책"
+    ]
+  },
+  {
+    "id": "n392dead2",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "1시간 전",
+    "url": "https://www.yna.co.kr/view/AKR20260926047252081",
+    "title": "\"레오! 레오!\" 교황 방문에 샹젤리제 '들썩'…80만명 운집(종합)",
     "summary": [
       "(파리·브뤼셀=연합뉴스) 황윤정 현윤경 특파원 = 26일(현지시간) 오후 프랑스 파리를 상징하는 샹젤리제 거리."
     ],
@@ -336,105 +455,32 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n2fd65847",
-    "category": "스포츠",
-    "source": "연합뉴스",
-    "time": "10분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260927000600007",
-    "title": "[아시안게임] 女농구 금빛 반란 앞장선 이소희 \"우릴 얕보는 시선에 오기\"",
-    "summary": [
-      "(나고야=연합뉴스) 오명언 기자 = 일본 안방에서 12년 만의 아시안게임 금메달을 목에 걸며 새로운 도약을 알린 한국 여자농구의 중심에는 무섭게..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n13500f7e",
+    "id": "n9a4ff125",
     "category": "사회",
     "source": "뉴시스",
-    "time": "16분 전",
-    "url": "https://www.newsis.com/view/NISX20260926_0003803867",
-    "title": "샤이니 키, 한층 차분해진 모습",
+    "time": "1시간 전",
+    "url": "https://www.newsis.com/view/NISX20260927_0003803947",
+    "title": "트럼프, 이란의 호르무즈 개방 관련 7일 제안 \"거절했다\"",
     "summary": [
-      "[서울=뉴시스] 남정현 기자 = 그룹 샤이니 멤버 키가 근황을 전했다.",
-      "샤이니는 26일 공식 소셜미디어 계정에 키의 사진을 공개하며 \"언제나 고마워\"라고 했다.",
-      "사진 속 키는 대기실로 보이는 곳에서 카메라를 응시하고 있다."
+      "[서울=뉴시스] 김예진 기자 = 도널드 트럼프 미국 대통령이 26일(현지 시간) 이란의 ‘7일 후 호르무즈 해협 개방’ 제안을 거절했다고 밝혔다.",
+      "AFP통신, 타임스오브이스라엘(TOI) 등에 따르면 트럼프 대통령은 이날 백악관에서 기자들에게 \"그들이 제안을 했지만, 나는 이를 거절했다\"고 밝혔다.",
+      "트럼프 대통령은 \"그들은 너무나 크게 패배하고 있기 때문에 해협을 즉시 개방하는 합의를 맺고 싶어 한다\"고 말했다."
     ],
     "chips": [
-      "#의료"
+      "#정치"
     ]
   },
   {
-    "id": "n3d5aeb2f",
+    "id": "nb19c94e2",
     "category": "사회",
     "source": "뉴시스",
-    "time": "16분 전",
-    "url": "https://www.newsis.com/view/NISX20260926_0003803824",
-    "title": "\"몸 하나에 머리 둘\"…미국서 또다시 발견된 희귀한 거북이",
+    "time": "1시간 전",
+    "url": "https://www.newsis.com/view/NISX20260923_0003801887",
+    "title": "\"창문 열었더니 '피눈물 마네킹'이 빤히\"…의도가 무엇일까",
     "summary": [
-      "[서울=뉴시스]전민영 인턴 기자 = 미국 매사추세츠주 케이프코드에서 머리가 두 개인 새끼 거북이가 발견됐다.",
-      "해당 야생동물센터에서 이두증을 가진 거북이가 발견된 것은 2021년 이후 처음이다.",
-      "21일(현지 시간) 영국 인디펜던트에 따르면 몸무게 5.2g인 이 거북이는 17일 매사추세츠주 웰플리트의 보호 번식지에서 발견됐다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n141a4e87",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "18분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260927000500034",
-    "title": "[부고] 송한진(MBN 감사팀 부장)씨 모친상",
-    "summary": [
-      "[부고] 송한진(MBN 감사팀 부장)씨 모친상."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nd637afaa",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "21분 전",
-    "url": "https://www.newsis.com/view/NISX20260926_0003803836",
-    "title": "스윙스 만난 최민식 \"연기 좋다 하던데\" 칭찬",
-    "summary": [
-      "[서울=뉴시스] 남정현 기자 = 가수 스윙스가 배우 최민식을 만났다.",
-      "스윙스는 26일 소셜미디어에 \"진심 내 마음 속의 넘버원 형님 배우.",
-      "이렇게 선배님을 처음 드디어 뵙게 됐다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n55e84ec0",
-    "category": "경제",
-    "source": "뉴시스",
-    "time": "21분 전",
-    "url": "https://www.newsis.com/view/NISX20260923_0003801338",
-    "title": "\"나스닥 신고가인데 신저가 종목 속출…확실한 주도주로 좁혀야\"",
-    "summary": [
-      "[서울=뉴시스]이지영 기자 = 미국 뉴욕증시에서 나스닥종합지수가 사상 최고치를 경신하며 고공행진을 이어가는 가운데, 신저가를 찍는 종목도 동시에 속출하는 극심한 시장 양극화 현상이 나타나고 있다.",
-      "김효진 신영증권 박사는 23일 유튜브 채널 삼프로TV 에서 \"최근 시장 분위기는 일주일 전 우려와 반대로 가고 있다\"며 \"금리 인상이라는 불확실성이 하나 해소되면서 이슈가 종결된 것처럼 주식시장이 탄력받고 있다\"고 진단했다."
-    ],
-    "chips": [
-      "#금리"
-    ]
-  },
-  {
-    "id": "n5a5180a8",
-    "category": "스포츠",
-    "source": "연합뉴스",
-    "time": "23분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260927000200007",
-    "title": "[아시안게임] 값진 金 일군 여자농구 박수호 감독 \"뭉치면 된다고 보여줬다\"",
-    "summary": [
-      "(나고야=연합뉴스) 오명언 기자 = 사실상 '차포'를 떼고 나선 원정 대회에서 대한민국에 12년 만의 금메달을 안긴 박수호 여자농구 대표팀 감독..."
+      "[서울=뉴시스]박지혁 기자, 김하은 인턴기자 = 맞은편 빌라 창문에 붉은 칠이 된 기괴한 마네킹 두상이 놓여 있어 극심한 공포를 겪고 있다는 한 입주민의 사연이 온라인상에서 확산하고 있다.",
+      "최근 사회관계망서비스(SNS)에는 '맞은편 집 창문에 놓인 마네킹 때문에 너무 무섭다'는 취지의 글과 함께 여러 장의 사진이 게재됐다.",
+      "작성자 A씨는 \"함께 있던 친구가 창밖을 보고 경악하길래 무슨일인지 봤더니 맞은편 집 창가에 마네킹 머리가 기괴하게 자리하."
     ],
     "chips": [
       "#뉴스"
@@ -444,7 +490,7 @@ window.NEWS_DB = [
     "id": "n1e7b55bf",
     "category": "경제",
     "source": "한국경제",
-    "time": "25분 전",
+    "time": "3시간 전",
     "url": "https://www.hankyung.com/article/2026091417657",
     "title": "[오늘의 운세] 9월 27일 띠별 운세",
     "summary": [
@@ -458,7 +504,7 @@ window.NEWS_DB = [
     "id": "n8a3709a7",
     "category": "경제",
     "source": "한국경제",
-    "time": "25분 전",
+    "time": "3시간 전",
     "url": "https://www.hankyung.com/article/2026091417207",
     "title": "[오늘의 운세] 2026년 9월 27일 별자리 운세",
     "summary": [
@@ -472,7 +518,7 @@ window.NEWS_DB = [
     "id": "n09526589",
     "category": "경제",
     "source": "한국경제",
-    "time": "25분 전",
+    "time": "3시간 전",
     "url": "https://www.hankyung.com/article/2026091421477",
     "title": "[오늘의 운세] 2026년 9월 27일 오행별 행운의 컬러",
     "summary": [
@@ -486,7 +532,7 @@ window.NEWS_DB = [
     "id": "n769eac89",
     "category": "경제",
     "source": "한국경제",
-    "time": "25분 전",
+    "time": "3시간 전",
     "url": "https://www.hankyung.com/article/2026091417027",
     "title": "[오늘의 운세] 오늘 뭐 먹지?…9월 27일 띠별 추천 점심메뉴",
     "summary": [
@@ -500,7 +546,7 @@ window.NEWS_DB = [
     "id": "n97ce4f3e",
     "category": "스포츠",
     "source": "아시아경제",
-    "time": "51분 전",
+    "time": "4시간 전",
     "url": "https://view.asiae.co.kr/article/2026092623341418664",
     "title": "[나고야AG]류지현호, 中에 9-2 승리…결승서 日과 재대결",
     "summary": [
@@ -514,38 +560,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n7a5be904",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "1시간 전",
-    "url": "https://www.chosun.com/sports/sports_special/2026/09/26/3GCDSKFH7NCV5EM2IV5XLBJXA4/",
-    "title": "“경기 전부터 승리 확신” 女농구 우승 이끈 ‘캡틴’ 강이슬",
-    "summary": [
-      "“경기 전부터 승리 확신” 女농구 우승 이끈 ‘캡틴’ 강이슬."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n001ab398",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "1시간 전",
-    "url": "https://www.chosun.com/jp/sports-jp/2026/09/26/MXTOSIPGNZADTCWA4VL5AU3RCM/",
-    "title": "「試合前から勝利確信」女子バスケV導いた主将カン・イスル",
-    "summary": [
-      "「試合前から勝利確信」女子バスケV導いた主将カン・イスル."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
     "id": "n05b326a3",
     "category": "스포츠",
     "source": "아시아경제",
-    "time": "1시간 전",
+    "time": "4시간 전",
     "url": "https://view.asiae.co.kr/article/2026092623065128029",
     "title": "[나고야AG]女농구, 중국전 6연패·일본전 7연패 끊고 12년만에 金",
     "summary": [
@@ -561,7 +579,7 @@ window.NEWS_DB = [
     "id": "na5189607",
     "category": "스포츠",
     "source": "동아일보",
-    "time": "1시간 전",
+    "time": "5시간 전",
     "url": "https://www.donga.com/news/Sports/article/all/20260926/134735109/1",
     "title": "한국 야구, 슈퍼라운드 2위로 AG 결승 진출…0-5 완패 안겼던 일본과 27일 결승전",
     "summary": [
@@ -576,7 +594,7 @@ window.NEWS_DB = [
     "id": "n61ce820d",
     "category": "스포츠",
     "source": "동아일보",
-    "time": "1시간 전",
+    "time": "5시간 전",
     "url": "https://www.donga.com/news/Sports/article/all/20260926/134735131/1",
     "title": "류지현호, 중국 9-2 완파…결승서 일본과 ‘리턴 매치’ 성사",
     "summary": [
@@ -589,24 +607,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n1b8c8a50",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "2시간 전",
-    "url": "https://www.chosun.com/sports/sports_special/2026/09/26/TWZ2HOKUEFAJBBV3XOKD4WU3AI/",
-    "title": "야구, 다시 日과 붙는다... 中 꺾고 오늘 결승전",
-    "summary": [
-      "야구, 다시 日과 붙는다... 中 꺾고 오늘 결승전."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
     "id": "naa3bf81b",
     "category": "IT",
     "source": "동아일보",
-    "time": "2시간 전",
+    "time": "5시간 전",
     "url": "https://www.donga.com/news/Inter/article/all/20260926/134735125/1",
     "title": "“찡그린 표정 지우려고”…트럼프, 中시진핑 방미 사진에 AI 합성 논란",
     "summary": [
@@ -624,20 +628,20 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2720건",
-    "trend": "+315%"
+    "mentions": "2590건",
+    "trend": "+295%"
   },
   {
     "rank": 2,
-    "tag": "KBO",
-    "mentions": "1680건",
-    "trend": "+155%"
+    "tag": "반도체",
+    "mentions": "1550건",
+    "trend": "+135%"
   },
   {
     "rank": 3,
-    "tag": "반도체",
-    "mentions": "1420건",
-    "trend": "+115%"
+    "tag": "KBO",
+    "mentions": "1550건",
+    "trend": "+135%"
   }
 ];
 // ====AUTO-GENERATED-END====
