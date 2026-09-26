@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-09-26 11:56:29
+// 마지막 업데이트: 2026-09-26 15:26:09
 window.NEWS_DB = [
   {
     "id": "n1bfb4258",
     "category": "IT",
     "source": "자본시장뉴스",
-    "time": "11시간 전",
+    "time": "15시간 전",
     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1CZXBoQWRDem1vQUxFUmxhLWNLalNOSDhoVlc3OWRWX05SNUtXeG1CbEpGaHNjTmxhcGVNaXd6bGktdTZGanRsYmNjOU5kbVBLNEFmQjZvUWx6Q1pWLUg0Zk5GdlVybjg?oc=5",
     "title": "[시총 10대 기업] 삼성전자 HBM 점유율 33%…2027년 역전 전망",
     "summary": [
@@ -48,12 +48,12 @@ window.NEWS_DB = [
   {
     "id": "nede90aad",
     "category": "IT",
-    "source": "서울경제TV",
+    "source": "sentv.co.kr",
     "time": "4일 전",
     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBaUkMtamtCc011dFVaY2N0SnE4OTFKdDV4NllQRTBGdFJPUXVIelZOYzk0d2pHLWtQZk0xbU9GWjRwSUdOa0dMSkdXSngzUWF1Zjh6bEZrQXQtTWlxeVFXS0l2WkI?oc=5",
     "title": "엔비디아 뚫은 LG전자…AI 데이터센터 냉각시장 선점",
     "summary": [
-      "엔비디아 뚫은 LG전자…AI 데이터센터 냉각시장 선점 서울경제TV."
+      "엔비디아 뚫은 LG전자…AI 데이터센터 냉각시장 선점 sentv.co.kr."
     ],
     "chips": [
       "#AI",
@@ -133,14 +133,14 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n891b0cd6",
+    "id": "n1ebf737b",
     "category": "스포츠",
-    "source": "뉴시안",
+    "source": "글로벌E",
     "time": "5일 전",
-    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8yWDNZR3Y3VjZvc3hFYzZFd0NvWVo0dnFOLThlWm5feUVWZTRYc0l0YzREU0hhd0xoWWF0WHRxUXJYSExvMkdQS2pXQWdhNmdOXzNRYUxrTmxoNnNZUHVlNTQ4Skd6eTktc3fSAW5BVV95cUxOd1lnc0FxSllXZzVjOFJjOEh4UjVPQ21HRnhqVVBIYzJLRDlISFNiZnZnSjk5OTBnVTVsS2tqSENHMDZhRkI5ZWZEZmJqQ0EyS2R6bTkxaUR4UHdXeGZFSjFzdW5KdTNxNmhQX1h0UQ?oc=5",
-    "title": "KBO 굿즈 매출 3배로… K-스포츠 굿즈, 소장템 부상",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1xdGdqbUJjMXkyZFRRYi1ETklIZmlIQlFHYS1ZemlEaU5IQ0hCQkR1Wm5pYVVJUl9jX2s3Z08ydEpxdFM2elFVdjNFdlhxMlRsUVhQY3JKRVdRWG5WUlpOR2hNemdnbVdrWElv0gFvQVVfeXFMT1QxRDNTbjRoMk5ZWVBmRllQU2Z2b1IyY0hYZEx1LWc0aFhSb083aGdYc1ZQNDhrN0NncVZGclFwVnV0RGNoNTNmcXkwSzF5dTdxZnVRYlFQOTZDblRRWkpDUzNCOUpoMEJmbkRYa1Nz?oc=5",
+    "title": "이베이, K-스포츠 굿즈 역직구 급증···KBO 매출 전년 대비 2.9배↑",
     "summary": [
-      "KBO 굿즈 매출 3배로… K-스포츠 굿즈, 소장템 부상 뉴시안."
+      "이베이, K-스포츠 굿즈 역직구 급증···KBO 매출 전년 대비 2.9배↑ 글로벌E."
     ],
     "chips": [
       "#KBO"
@@ -159,21 +159,6 @@ window.NEWS_DB = [
     "chips": [
       "#취업",
       "#고용"
-    ]
-  },
-  {
-    "id": "nfd541720",
-    "category": "경제",
-    "source": "조선일보",
-    "time": "9일 전",
-    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPX19hUk9LSUdFUFZxd1QxNVFVNXJOa3pzZ1F0WXkxQWlFc09IM25Pd1lPcE1DSk5RcnFRZ25WeUlycW1IWDdUYjF5TUFRREpLRUlJNlB5cEhVUjZ6amMzR0ZaOFhPQjk1ZDRVS1A5dm5BMVdfbm9wYU80ODE0bXAydHdZTGJEMVdy?oc=5",
-    "title": "美 기준금리 4% 시대... 대출·투자 어떻게 하나",
-    "summary": [
-      "美 기준금리 4% 시대...",
-      "대출·투자 어떻게 하나 조선일보."
-    ],
-    "chips": [
-      "#금리"
     ]
   },
   {
@@ -265,14 +250,28 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n244b01bd",
+    "category": "경제",
+    "source": "straightnews.co.kr",
+    "time": "102일 전",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBCMWo2YXNZMEh0aUhtSDk2czAteEZBVVM4MFVGSmNlREM2bEdPX3NaNFMyMDhNWXp1bllqd1NEbkE5elZZYlhRRnRTNm1OdFFmVmlmQ2o2LTdLZXE3TUw5Mm5uU014MFN5ZFkxXzBPbWxCS3fSAXdBVV95cUxQR1pwdFp0SFJzTkVyR3RtbjVBVm03aGxUS2JURUN6eE1iVDlKazYwZmh5bUxRdU1hQXc3dUIxWXFYRG1XZlA1cHB1S3NVR0pYUExPbEtQMFBxeWp0NnFweW5hM0xOMUNmM2o1cENPdjFqb0Q4SWJkaw?oc=5",
+    "title": "미·이란 종전 합의에 금리 전망 변화?…한은 7월 인상론 여전",
+    "summary": [
+      "미·이란 종전 합의에 금리 전망 변화?…한은 7월 인상론 여전 straightnews.co.kr."
+    ],
+    "chips": [
+      "#금리"
+    ]
+  },
+  {
     "id": "nabfa15b0",
     "category": "경제",
-    "source": "YTN",
+    "source": "ytn.co.kr",
     "time": "108일 전",
     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE50bVBaMGNlWG1LRkQ2OEh1YUF0cjlWc1EwdS1URDE1ZzJpajQzYmtTdUpGZk9yOWc0V1REZF9fNmVWOU4yVFVhbzhtQzNzMUg3b0ZfVkhVd1dxVGl0OXc?oc=5",
     "title": "\"韓 적정 환율은 얼마일까?\" 환율 vs 금리 vs 증시 상관관계 집중해부",
     "summary": [
-      "\"韓 적정 환율은 얼마일까?\" 환율 vs 금리 vs 증시 상관관계 집중해부 YTN."
+      "\"韓 적정 환율은 얼마일까?\" 환율 vs 금리 vs 증시 상관관계 집중해부 ytn.co.kr."
     ],
     "chips": [
       "#금리",
@@ -309,316 +308,313 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n246e2ec8",
-    "category": "IT",
-    "source": "동아일보",
-    "time": "2분 전",
-    "url": "https://www.donga.com/news/Inter/article/all/20260926/134735034/1",
-    "title": "“AI로 쓴 소설이 문학상 수상?”… 프랑스 출판계 덮친 ‘AI 집필’ 파문",
+    "id": "n469d2c44",
+    "category": "스포츠",
+    "source": "테크M",
+    "time": "방금 전",
+    "url": "https://www.techm.kr/news/articleView.html?idxno=155583",
+    "title": "\"진천선수촌 훈련 덕분에 은메달\"...강동신, 아시안게임 e스포츠 두번째 메달 획득",
     "summary": [
-      "프랑스 최고 권위 문학상인 공쿠르상이 인공지능(AI)을 활용해 소설을 작성했다는 의혹을 받는 작품을 25일(현지시간) 후보 목록에서 제외했다.프랑스 르몽드, 뉴욕타임스(NYT)에 따르면 공쿠르상을 관장하는 공쿠르 아카데미는 이날 아이티계 캐나다인 작가 텔리송 오렐리앙(38)의 소설 ‘이것이 아니면 죽음뿐이었다’(C‘était ça ou mourir)를 1차 후보작 목록에서 제외한다고 발표했다.공쿠르 아카데미는 이날 소셜미디어 엑스(X)를 통해."
-    ],
-    "chips": [
-      "#AI"
-    ]
-  },
-  {
-    "id": "nafaddd7b",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "3분 전",
-    "url": "https://www.donga.com/news/Entertainment/article/all/20260926/134735031/1",
-    "title": "박명수 딸, 한예종 창작과 합격 “9년간 노력…장학금 놓친 적 없어”",
-    "summary": [
-      "코미디언 박명수의 딸 민서 양이 한국예술종합학교에 합격했다.박명수의 아내 한수민은 26일 인스타그램을 통해 “우리 민서가 드디어 가장 원하는 대학에 입학했다”며 “초등학교 4학년 때부터 9년간 쉼 없이 열심히 노력했던 결실이 드디어 맺어졌다”고 전했다.이어 “예원중학교, 선화예고 내내 한 번도 장학금을 놓친 적이 없을 정도로 성실하게 열심히 노력해 온 민서, 춤에 대한 열정이 너무 진심이기에 앞으로도 끝없이 춤추고 창작하고 싶다는 민서의 꿈을."
-    ],
-    "chips": [
-      "#교육"
-    ]
-  },
-  {
-    "id": "n1edb6378",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "4분 전",
-    "url": "https://www.newsis.com/view/NISX20260926_0003803898",
-    "title": "통한의 역전패에 눈물 쏟은 펜싱 박지희 \"아직 많이 부족하다\"[나고야AG]",
-    "summary": [
-      "[도코나메(일본)·서울=뉴시스]박윤서 문채현 기자 = 아시안게임 첫 출전에 은메달 2개를 목에 걸었음에도 아쉬움에 눈물을 쏟았다.",
-      "다 함께 시상대 정상에 설 기회를 눈앞에서 놓쳤다는 아쉬움과 동료들을 향한 미안함에 박지희(서울특별시청)는 고개를 숙였다.",
-      "박지희, 모별이(인천광역시중구청), 심소은(서울특별시청), 이세주(충북도청)로 이뤄진 한국은 26일 일본 아이치현 도코나메의 아이치 스카이 엑스포에서 열린 2026 아이치·나고야 아시안게임 펜싱."
+      "오락실과 가정용 게임기로 친숙했던 고전 명작 '뿌요뿌요'가 아시안게임 정식 종목으로 치러진 가운데, 대한민국 대표로 나선 강동신이 값진 은메달을 목에 걸었습니다.26일 일본 아이치현 국제전시장에서 열린 2026 아이치-나고야 아시안게임 e스포츠 뿌요뿌요 챔피언스 결승전에서 강동신은 일본의 11세 신동 구리하라 유키를 상대로 분전한 끝에 세트 스코어 2대10으로 패하며 은메달을 확정지었습니다.이로써 대한민국 e스포츠 선수단은 앞서 그란 투리스모7."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n07327e57",
+    "id": "n1c8dffd3",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "7분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260926047251081",
+    "title": "\"레오! 레오!\" 18년만의 교황 방문에 샹젤리제 '들썩'…70만명 운집(종합)",
+    "summary": [
+      "(파리·브뤼셀=연합뉴스) 황윤정 현윤경 특파원 = 26일(현지시간) 오후 프랑스 파리를 상징하는 샹젤리제 거리."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n2fd65847",
+    "category": "스포츠",
+    "source": "연합뉴스",
+    "time": "10분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260927000600007",
+    "title": "[아시안게임] 女농구 금빛 반란 앞장선 이소희 \"우릴 얕보는 시선에 오기\"",
+    "summary": [
+      "(나고야=연합뉴스) 오명언 기자 = 일본 안방에서 12년 만의 아시안게임 금메달을 목에 걸며 새로운 도약을 알린 한국 여자농구의 중심에는 무섭게..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n13500f7e",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "16분 전",
+    "url": "https://www.newsis.com/view/NISX20260926_0003803867",
+    "title": "샤이니 키, 한층 차분해진 모습",
+    "summary": [
+      "[서울=뉴시스] 남정현 기자 = 그룹 샤이니 멤버 키가 근황을 전했다.",
+      "샤이니는 26일 공식 소셜미디어 계정에 키의 사진을 공개하며 \"언제나 고마워\"라고 했다.",
+      "사진 속 키는 대기실로 보이는 곳에서 카메라를 응시하고 있다."
+    ],
+    "chips": [
+      "#의료"
+    ]
+  },
+  {
+    "id": "n3d5aeb2f",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "16분 전",
+    "url": "https://www.newsis.com/view/NISX20260926_0003803824",
+    "title": "\"몸 하나에 머리 둘\"…미국서 또다시 발견된 희귀한 거북이",
+    "summary": [
+      "[서울=뉴시스]전민영 인턴 기자 = 미국 매사추세츠주 케이프코드에서 머리가 두 개인 새끼 거북이가 발견됐다.",
+      "해당 야생동물센터에서 이두증을 가진 거북이가 발견된 것은 2021년 이후 처음이다.",
+      "21일(현지 시간) 영국 인디펜던트에 따르면 몸무게 5.2g인 이 거북이는 17일 매사추세츠주 웰플리트의 보호 번식지에서 발견됐다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n141a4e87",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "18분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260927000500034",
+    "title": "[부고] 송한진(MBN 감사팀 부장)씨 모친상",
+    "summary": [
+      "[부고] 송한진(MBN 감사팀 부장)씨 모친상."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nd637afaa",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "21분 전",
+    "url": "https://www.newsis.com/view/NISX20260926_0003803836",
+    "title": "스윙스 만난 최민식 \"연기 좋다 하던데\" 칭찬",
+    "summary": [
+      "[서울=뉴시스] 남정현 기자 = 가수 스윙스가 배우 최민식을 만났다.",
+      "스윙스는 26일 소셜미디어에 \"진심 내 마음 속의 넘버원 형님 배우.",
+      "이렇게 선배님을 처음 드디어 뵙게 됐다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n55e84ec0",
+    "category": "경제",
+    "source": "뉴시스",
+    "time": "21분 전",
+    "url": "https://www.newsis.com/view/NISX20260923_0003801338",
+    "title": "\"나스닥 신고가인데 신저가 종목 속출…확실한 주도주로 좁혀야\"",
+    "summary": [
+      "[서울=뉴시스]이지영 기자 = 미국 뉴욕증시에서 나스닥종합지수가 사상 최고치를 경신하며 고공행진을 이어가는 가운데, 신저가를 찍는 종목도 동시에 속출하는 극심한 시장 양극화 현상이 나타나고 있다.",
+      "김효진 신영증권 박사는 23일 유튜브 채널 삼프로TV 에서 \"최근 시장 분위기는 일주일 전 우려와 반대로 가고 있다\"며 \"금리 인상이라는 불확실성이 하나 해소되면서 이슈가 종결된 것처럼 주식시장이 탄력받고 있다\"고 진단했다."
+    ],
+    "chips": [
+      "#금리"
+    ]
+  },
+  {
+    "id": "n5a5180a8",
+    "category": "스포츠",
+    "source": "연합뉴스",
+    "time": "23분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260927000200007",
+    "title": "[아시안게임] 값진 金 일군 여자농구 박수호 감독 \"뭉치면 된다고 보여줬다\"",
+    "summary": [
+      "(나고야=연합뉴스) 오명언 기자 = 사실상 '차포'를 떼고 나선 원정 대회에서 대한민국에 12년 만의 금메달을 안긴 박수호 여자농구 대표팀 감독..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n1e7b55bf",
+    "category": "경제",
+    "source": "한국경제",
+    "time": "25분 전",
+    "url": "https://www.hankyung.com/article/2026091417657",
+    "title": "[오늘의 운세] 9월 27일 띠별 운세",
+    "summary": [
+      "[오늘의 운세] 9월 27일 띠별 운세."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n8a3709a7",
+    "category": "경제",
+    "source": "한국경제",
+    "time": "25분 전",
+    "url": "https://www.hankyung.com/article/2026091417207",
+    "title": "[오늘의 운세] 2026년 9월 27일 별자리 운세",
+    "summary": [
+      "[오늘의 운세] 2026년 9월 27일 별자리 운세."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n09526589",
+    "category": "경제",
+    "source": "한국경제",
+    "time": "25분 전",
+    "url": "https://www.hankyung.com/article/2026091421477",
+    "title": "[오늘의 운세] 2026년 9월 27일 오행별 행운의 컬러",
+    "summary": [
+      "[오늘의 운세] 2026년 9월 27일 오행별 행운의 컬러."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n769eac89",
+    "category": "경제",
+    "source": "한국경제",
+    "time": "25분 전",
+    "url": "https://www.hankyung.com/article/2026091417027",
+    "title": "[오늘의 운세] 오늘 뭐 먹지?…9월 27일 띠별 추천 점심메뉴",
+    "summary": [
+      "[오늘의 운세] 오늘 뭐 먹지?…9월 27일 띠별 추천 점심메뉴."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n97ce4f3e",
+    "category": "스포츠",
+    "source": "아시아경제",
+    "time": "51분 전",
+    "url": "https://view.asiae.co.kr/article/2026092623341418664",
+    "title": "[나고야AG]류지현호, 中에 9-2 승리…결승서 日과 재대결",
+    "summary": [
+      "아시안게임 5연패를 노리는 한국 야구 대표팀이 결승에 진출해 다시 일본과 맞붙는다.",
+      "류지현 감독이 이끄는 대한민국 야구 대표팀은 26일 일본 아이치현 도요하시 시민야구장에서 열린 2026 아이치·나고야 아시안게임 슈퍼라운드 중국과의 2차전에서 9-2로 승리했다.",
+      "대표팀은 조별리그 대만전 승리를 포함해 슈퍼라운드 2승 1패를 기록하며 결승에 올랐다."
+    ],
+    "chips": [
+      "#KBO",
+      "#고용"
+    ]
+  },
+  {
+    "id": "n7a5be904",
     "category": "스포츠",
     "source": "조선일보",
-    "time": "4분 전",
-    "url": "https://www.chosun.com/sports/baseball/2026/09/26/GA3TQNRTGEZDSMBQMI3DMOBTHA/",
-    "title": "韓 야구 정말 큰일났다…日 참사에 이어 中 에게도 굴욕 당하나→선취점 허용 [도요하시 LIVE]",
+    "time": "1시간 전",
+    "url": "https://www.chosun.com/sports/sports_special/2026/09/26/3GCDSKFH7NCV5EM2IV5XLBJXA4/",
+    "title": "“경기 전부터 승리 확신” 女농구 우승 이끈 ‘캡틴’ 강이슬",
     "summary": [
-      "[도요하시=스포츠조선 이종서 기자] 이겨야 하는 경기에 선취점을 줬다.",
-      "류지현 감독이 이끄는 2026 아이치-나고야 아시안게임 야구대표팀은 26일 일본 아이치현 도요하시 구장에서 중국과 슈퍼라운드 경기를 했다.",
-      "전날 일본에 0대5 패배를 하면서 한국은 중국을 이겨야 결승 진출이 가능하다."
+      "“경기 전부터 승리 확신” 女농구 우승 이끈 ‘캡틴’ 강이슬."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n001ab398",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "1시간 전",
+    "url": "https://www.chosun.com/jp/sports-jp/2026/09/26/MXTOSIPGNZADTCWA4VL5AU3RCM/",
+    "title": "「試合前から勝利確信」女子バスケV導いた主将カン・イスル",
+    "summary": [
+      "「試合前から勝利確信」女子バスケV導いた主将カン・イスル."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n05b326a3",
+    "category": "스포츠",
+    "source": "아시아경제",
+    "time": "1시간 전",
+    "url": "https://view.asiae.co.kr/article/2026092623065128029",
+    "title": "[나고야AG]女농구, 중국전 6연패·일본전 7연패 끊고 12년만에 金",
+    "summary": [
+      "남자 농구에 이어 여자 농구 대표팀도 12년 만에 아시안게임 금메달을 품었다.",
+      "박수호 감독이 이끄는 여자 농구 대표팀은 26일 일본 나고야 아이치 인터내셔널 아레나에서 열린 2026 아이치·나고야 아시안게임 결승전에서 일본을 75-70으로 꺾고 우승을 차지했다.",
+      "여자 농구 대표팀은 2014년 인천 대회 이후 12년 만이자 통산 5번째 아시안게임 금메달을 목에 걸었다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "na5189607",
+    "category": "스포츠",
+    "source": "동아일보",
+    "time": "1시간 전",
+    "url": "https://www.donga.com/news/Sports/article/all/20260926/134735109/1",
+    "title": "한국 야구, 슈퍼라운드 2위로 AG 결승 진출…0-5 완패 안겼던 일본과 27일 결승전",
+    "summary": [
+      "한국 야구가 일본에 설욕할 기회를 얻었다.한국은 26일 일본 아이치현 도요하시 시민구장에서 열린 2026 아이치-나고야 아시안게임 야구 슈퍼라운드 2차전에서 중국에 9-2로 승리했다.슈퍼라운드에서 2승 1패를 기록한 한국은 일본(3승)에 이어 2위로 결승 진출을 확정 지었다.일본은 이날 대만을 7-3으로 꺾고 슈퍼라운드를 전승으로 통과했다.한국은 전날 0-5 완패 굴욕을 안겼던 일본과 27일 결승전을 치른다.",
+      "결승전에 앞서 대만(1승 2패),."
     ],
     "chips": [
       "#KBO"
     ]
   },
   {
-    "id": "n3adca26e",
-    "category": "스포츠",
-    "source": "연합뉴스",
-    "time": "6분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260926044800007",
-    "title": "코리아오픈 결승은 '호주 더비'…비렐-조인트, 첫 우승 다툰다",
-    "summary": [
-      "(서울=연합뉴스) 안홍석 기자 = 호주 출신의 킴벌리 비렐(60위)과 마야 조인트(99위)가 2026 여자프로테니스(WTA) 투어 코리아오픈 테..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "na8248498",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "12분 전",
-    "url": "https://www.newsis.com/view/NISX20260926_0003803902",
-    "title": "추석 연휴 셋째 날 귀경길 정체 완화…부산→서울 5시간",
-    "summary": [
-      "[서울=뉴시스]이다솜 기자 = 추석 연휴 셋째 날인 26일 토요일 저녁 귀경길 정체가 예상보다 빠르게 완화하고 있다.",
-      "한국도로공사에 따르면 이날 전국 고속도로 교통량은 590만대로 예상된다.",
-      "수도권에서 지방으로 빠져나가는 차량은 38만대, 지방에서 수도권으로 진입하는 차량은 52만대로 관측된다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n031d34d4",
-    "category": "스포츠",
-    "source": "연합뉴스",
-    "time": "16분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260926029351007",
-    "title": "[아시안게임] 가혹한 '1일 2경기'에도 끄떡없는 안세영, 사상 첫 2연패 시동(종합)",
-    "summary": [
-      "(이치노미야[일본]=연합뉴스) 오명언 기자 = 대진표조차 큰 의미가 없는 '절대 1강' 안세영이 압도적인 경기력으로 아시안게임 8강에 가뿐히 안..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n7c71a1d5",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "17분 전",
-    "url": "https://www.newsis.com/view/NISX20260926_0003803796",
-    "title": "\"순자산 4억인데도 중산층 아니다\"…'진짜 중산층' 가른 6가지 조건",
-    "summary": [
-      "[서울=뉴시스]전민영 인턴 기자 = ‘진짜 중산층’을 정의 내리기 위해서는 현재생활 조건인 소득, 소비, 저축 여력과 미래지속 조건이라는 자산, 부채, 노후 준비까지 고려해야 한다는 분석이 나왔다.",
-      "최근 NH투자증권 100세시대연구소가 발행한 '대한민국 진짜 중산층' 보고서에서는 중산층을 현재 적정한 생활수준을 누리면서 그 수준을 미래에도 유지할 수 있는 가구로 정의했다.",
-      "연구소는 소득 기준으로는 OECD 기준에 맞춰 연간 균등화 가처분소득이."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n150fc8d4",
+    "id": "n61ce820d",
     "category": "스포츠",
     "source": "동아일보",
-    "time": "19분 전",
-    "url": "https://www.donga.com/news/Sports/article/all/20260926/134735020/1",
-    "title": "‘2연속 금메달 도전’ 안세영, 가뿐히 8강행…복식조도 순항",
-    "summary": [
-      "‘최강’ 안세영(삼성생명)이 한국 배드민턴 단식 선수 첫 아시안게임 2연패를 향한 도전을 힘차게 시작했다.세계랭킹 1위 안세영은 26일 일본 아이치현 이치노미야 시립 체육관에서 열린 2026 아이치·나고야 아시안게임 배드민턴 여자 단식 32강전에서 카밀라 스마굴로바(카자흐스탄·426위)를 2-0(21-5 21-5)으로 완파했다.안세영은 2게임에서 11점을 연속으로 뽑는 등 맹공을 퍼부어 경기 시작 20분 만에 스마굴로바를 쓰러뜨렸다.같은 날 열."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n15881145",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "19분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260926044500051",
-    "title": "부산 부암고가교 4중 충돌사고로 5명 부상…차량 정체도",
-    "summary": [
-      "(부산=연합뉴스) 김선호 기자 = 26일 오후 5시께 부산 부산진구 부암동 부암고가교에서 쉐보레 크루즈 차량이 중앙선을 넘어 마주 오던 택시와 ..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n9ff1dc37",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "22분 전",
-    "url": "https://www.newsis.com/view/NISX20260926_0003803891",
-    "title": "이란 대통령 \"카타르·파키스탄, 美·이란 중재…협상안, 내부 조율 거쳐\"",
-    "summary": [
-      "[서울=뉴시스] 이재우 기자 = 마수드 페제시키안 이란 대통령은 카타르와 파키스탄이 이란과 미국을 중재하고 있다면서도 미국을 신뢰하지 않는다고 밝혔다.",
-      "페제시키안 대통령은 26일(현지시간) 공개된 알자지라와 인터뷰에서 \"미국은 협상 때마다 반복적으로 공격과 제재를 가했기 때문에 우리는 더는 미국과 대화를 신뢰하지 않는다\"고 말했다.",
-      "이어 \"카타르와 파키스탄이 현재 이란과 미국 사이를 중재하며 우리의 메시지를 미국에 전달하고 있다\"며 \"미국과 협."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n580b67bb",
-    "category": "스포츠",
-    "source": "연합뉴스",
-    "time": "22분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260926044300007",
-    "title": "나성범 선제포＋네일 6이닝 호투 KIA, 3위 LG에 2경기 차 추격",
-    "summary": [
-      "(서울=연합뉴스) 천병혁 기자 = KIA 타이거즈가 LG 트윈스를 격파하고 준풀레이오프(준PO) 직행 가능성을 살렸다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "ne5bee48f",
-    "category": "경제",
-    "source": "한국경제",
-    "time": "23분 전",
-    "url": "https://www.hankyung.com/article/2026092667587",
-    "title": "미중 새 키워드는 '존중·공정·대등'…中, 정상회담 8대 성과 공개",
-    "summary": [
-      "미중 새 키워드는 '존중·공정·대등'…中, 정상회담 8대 성과 공개."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n0d62c63c",
-    "category": "스포츠",
-    "source": "아시아경제",
-    "time": "24분 전",
-    "url": "https://view.asiae.co.kr/article/2026092620321205027",
-    "title": "[나고야AG]한국 탁구 동메달 3개로 마감…은메달조차 못딴 적은 처음",
-    "summary": [
-      "한국 탁구가 2026 아이치·나고야 아시안게임에서 단 하나의 은메달조차 건지지 못했다.",
-      "1958년 도쿄 대회에서 탁구가 정식 종목으로 도입된 이래 한국 탁구 역대 최초의 '노실버'다.",
-      "한국 탁구 대푠팀은 26일 일본 아이치현 스카이홀 도요타에서 열린 대회 개인전 일정에서 출전 선수 전원이 4강 문턱을 넘지 못하고 줄줄이 탈락했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n0c921483",
-    "category": "경제",
-    "source": "한국경제",
-    "time": "26분 전",
-    "url": "https://www.hankyung.com/article/202609233571H",
-    "title": "\"韓 또 가고 싶어 병날 지경\"…'한국통' 호소하는 외국인들 [김예랑의 K컬처인사이드]",
-    "summary": [
-      "\"韓 또 가고 싶어 병날 지경\"…'한국통' 호소하는 외국인들 [김예랑의 K컬처인사이드]."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n1afd2a89",
-    "category": "사회",
-    "source": "아시아경제",
-    "time": "38분 전",
-    "url": "https://view.asiae.co.kr/article/2026092620174243065",
-    "title": "軍·유엔사, DMZ에 인력 투입해 기동로 확보…지뢰사고 현장조사 준비",
-    "summary": [
-      "군과 유엔군사령부가 비무장지대(DMZ)에 병력을 투입해 최근 서부전선에서 발생한 지뢰 추정 폭발 사고 현장조사를 위한 준비에 나섰다.",
-      "합동참모본부(합참)은 26일 언론 공지를 통해 \"군과 유엔사는 오늘 합동으로 DMZ 내 지뢰 추정 폭발 상황 관련 현장조사를 위한 기동로 확보 및 작전환경 조사를 했다\"고 밝혔다.",
-      "이날 DMZ에 투입된 인원은 이동로에 대한 안전성 평가, 감시 및 통신상태 점검 등을 통해 작전환경 전반을 확인했다."
-    ],
-    "chips": [
-      "#환경"
-    ]
-  },
-  {
-    "id": "n57acb284",
-    "category": "경제",
-    "source": "아시아경제",
-    "time": "44분 전",
-    "url": "https://view.asiae.co.kr/article/2026092620120240395",
-    "title": "[내일날씨]연휴 마지막날 맑다가 오후 구름 많아져…남부·제주는 비",
-    "summary": [
-      "추석 연휴 마지막 날인 27일은 전국이 대체로 맑다가 오후부터 가끔 구름이 많아질 예정이다.",
-      "새벽에 전남 남해안 일부 지역에 0.1㎜ 미만의 빗방울이 내리겠고, 오후에는 제주도와 경북 남부 동해안에 비가 내리는 곳이 있겠다.",
-      "울산·경남 내륙 곳곳에도 오후에 0.1㎜ 미만의 빗방울이 내리겠고, 밤 시간대 서해5도 일부 지역에도 비가 내릴 전망이다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nab34cfee",
-    "category": "사회",
-    "source": "아시아경제",
-    "time": "50분 전",
-    "url": "https://view.asiae.co.kr/article/2026092620052216608",
-    "title": "이란 대통령 \"호르무즈 재개방 평화안, 최고지도자와 조율 마쳐\"",
-    "summary": [
-      "마수드 페제시키안 이란 대통령은 아야톨라 모즈타바 하메네이 최고지도자와 호르무즈 해협 재개방을 위한 자국의 새 평화안에 관한 조율을 마쳤다고 26일(현지시간) 밝혔다.",
-      "이란 국영 IRNA 통신에 따르면 페제시키안 대통령은 \"미국이 제안을 수용하고 의무를 이행한다면 우리도 똑같이 할 것\"이라며 이같이 말했다.",
-      "그는 \"혁명 지도자(최고지도자)와의 조율은 이미 이뤄졌다\"고 강조하며, 이번 호르무즈 해협 개방안이 이란 수뇌부의 총의임을 분명히 했다."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "nb83bce79",
-    "category": "경제",
-    "source": "한국경제",
-    "time": "56분 전",
-    "url": "https://www.hankyung.com/article/202609233727i",
-    "title": "추석 연휴 뉴욕 메트 달군 한국 바리톤 둘…유한승·김기훈 '라 보엠' 동반 출연",
-    "summary": [
-      "추석 연휴 뉴욕 메트 달군 한국 바리톤 둘…유한승·김기훈 '라 보엠' 동반 출연."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n7a8d2de7",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "58분 전",
-    "url": "https://www.donga.com/news/Politics/article/all/20260926/134734970/1",
-    "title": "軍·유엔사, 지뢰 폭발 5일만에 DMZ 진입…합동 조사 준비",
-    "summary": [
-      "합동참모본부와 유엔군사령부 군사정전위원회(군정위)가 지뢰 추정 폭발 사고 합동 조사 전 사전 점검을 위해 비무장지대(DMZ)를 진입했다고 26일 밝혔다.이날 현장에는 사고의 합동 현장조사 태스크포스(TF)장인 권대원 합참차장과 군정위 비서장, 작전병력 20여명이 투입됐다.",
-      "지난 21일 사고 당시 수색로 개척에 참여했던 장병 일부도 자발적으로 참여했다고 합참은 설명했다.투입 인원들은 이동로에 대한 안전성 평가, 감시 및 통신상태 점검 등 작전환경."
-    ],
-    "chips": [
-      "#환경"
-    ]
-  },
-  {
-    "id": "n114ffff3",
-    "category": "사회",
-    "source": "한국경제",
     "time": "1시간 전",
-    "url": "https://www.hankyung.com/article/2026092667307",
-    "title": "군·유엔사, DMZ 지뢰 사고 현장 진입…조사 위한 길·통신 점검",
+    "url": "https://www.donga.com/news/Sports/article/all/20260926/134735131/1",
+    "title": "류지현호, 중국 9-2 완파…결승서 일본과 ‘리턴 매치’ 성사",
     "summary": [
-      "군·유엔사, DMZ 지뢰 사고 현장 진입…조사 위한 길·통신 점검."
+      "대한민국 야구 대표팀이 중국을 완파하고 2026 아이치·나고야 아시안게임 결승에 진출했다.",
+      "결승에선 일본과의 ‘리턴 매치’가 성사됐다.류지현 감독이 이끄는 한국은 26일 일본 아이치현 도요하시 시민구장에서 열린 대회 야구 슈퍼라운드 2차전에서 중국을 9-2로 눌렀다.슈퍼라운드 2승 1패가 된 한국은 이날 대만을 7-3으로 누른 일본(3승)에 이어 2위로 결승 진출을 확정했다.",
+      "대만은 1승 2패가 돼 중국(3패)과 동메달결정전을 치르게 됐다.한국."
     ],
     "chips": [
-      "#뉴스"
+      "#KBO"
+    ]
+  },
+  {
+    "id": "n1b8c8a50",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "2시간 전",
+    "url": "https://www.chosun.com/sports/sports_special/2026/09/26/TWZ2HOKUEFAJBBV3XOKD4WU3AI/",
+    "title": "야구, 다시 日과 붙는다... 中 꺾고 오늘 결승전",
+    "summary": [
+      "야구, 다시 日과 붙는다... 中 꺾고 오늘 결승전."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
+    "id": "naa3bf81b",
+    "category": "IT",
+    "source": "동아일보",
+    "time": "2시간 전",
+    "url": "https://www.donga.com/news/Inter/article/all/20260926/134735125/1",
+    "title": "“찡그린 표정 지우려고”…트럼프, 中시진핑 방미 사진에 AI 합성 논란",
+    "summary": [
+      "도널드 트럼프 미국 대통령이 시진핑 중국 국가주석의 국빈 방문 당시 촬영된 사진에 나온 자신의 표정을 인공지능(AI)으로 수정해 소셜미디어에 올렸다는 의혹이 25일(현지시간) 제기됐다.미 연예전문매체 피플에 따르면 전날(24일) 트럼프 대통령은 자신의 소셜미디어 트루스소셜에서 지난 23일 메릴랜드주 앤드루스 합동기지에서 시 주석 부부를 맞이할 당시 촬영된 이미지를 공유했다.트루스소셜 이미지에서 두 정상은 시 주석의 전용기 앞에 함께 서 있으며,."
+    ],
+    "chips": [
+      "#AI",
+      "#정치"
     ]
   }
 ];
@@ -633,15 +629,15 @@ window.KEYWORD_TOP = [
   },
   {
     "rank": 2,
-    "tag": "반도체",
-    "mentions": "1420건",
-    "trend": "+115%"
+    "tag": "KBO",
+    "mentions": "1680건",
+    "trend": "+155%"
   },
   {
     "rank": 3,
-    "tag": "엔비디아",
-    "mentions": "1290건",
-    "trend": "+95%"
+    "tag": "반도체",
+    "mentions": "1420건",
+    "trend": "+115%"
   }
 ];
 // ====AUTO-GENERATED-END====
