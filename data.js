@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-09-27 15:58:53
+// 마지막 업데이트: 2026-09-27 19:33:10
 window.NEWS_DB = [
   {
     "id": "nfc34ad0f",
     "category": "IT",
     "source": "한국경제",
-    "time": "17시간 전",
+    "time": "20시간 전",
     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9jZWJxMW1kazUyRkEzTFB2UHA2UlRCRUpsSkYwTThjRVgxSUc1VmdDZ0dDcnlRVlIxaVhlVnJIdklMVkJmc2RYdXNpLUcwQkFaQl9wZnM0ZHpIUQ?oc=5",
     "title": "\"엔비디아 너무 비싸\"…1200조 시장 노리는 K반도체",
     "summary": [
@@ -89,22 +89,6 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "na60b4f10",
-    "category": "IT",
-    "source": "글로벌이코노믹",
-    "time": "5일 전",
-    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNX19oSzIxdFJrVHJyVl9hS25rZm1fNENwM0JVWnlETTVNa2pKMEo0T01OSnUxYkNTSUdKNC1ndmpRSVQ1V0lNQW9pV0h1OTc5Q2lzcGZFQ0dIRmNFX2VQUjctS2pXRVVMYzR2TlIyRkRnbW1aQmFIaGpnSl9zbVM1a1lDM2M4YTNh?oc=5",
-    "title": "엔비디아 루빈 품는 삼성, HBM4 유리기판 캐리어 조달 2.5배 늘려 AI 반도체 정조준",
-    "summary": [
-      "엔비디아 루빈 품는 삼성, HBM4 유리기판 캐리어 조달 2.5배 늘려 AI 반도체 정조준 글로벌이코노믹."
-    ],
-    "chips": [
-      "#AI",
-      "#반도체",
-      "#엔비디아"
-    ]
-  },
-  {
     "id": "n1d5f3493",
     "category": "IT",
     "source": "머니투데이",
@@ -177,6 +161,23 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n0ad4bf68",
+    "category": "IT",
+    "source": "비즈니스포스트",
+    "time": "11일 전",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE50c2ppU2ZVZjcxWUwxT3Z6RTE1dFRMSHRuZHpWYmhGUGpJZ1JqV2JNM1Z0b2cxZno4cHlrVkVwNG10dlZLV21ubDJkLThyWDNmaHphbmZVc0NoSXZwNHFyN2gzNFpMNjBxWk56UGozbGt0bWs?oc=5",
+    "title": "엔비디아 AI반도체 '베라 루빈' AI 추론 작업에도 우위, 삼성전자 SK하이닉스 메모리반도체에 긍정적",
+    "summary": [
+      "엔비디아 AI반도체 '베라 루빈' AI 추론 작업에도 우위, 삼성전자 SK하이닉스 메모리반도체에 긍정적 비즈니스포스트."
+    ],
+    "chips": [
+      "#AI",
+      "#반도체",
+      "#엔비디아",
+      "#삼성전자"
+    ]
+  },
+  {
     "id": "n93c2ed2f",
     "category": "IT",
     "source": "경북매일",
@@ -202,21 +203,6 @@ window.NEWS_DB = [
     ],
     "chips": [
       "#부동산"
-    ]
-  },
-  {
-    "id": "n2c0f41aa",
-    "category": "IT",
-    "source": "연합뉴스",
-    "time": "26일 전",
-    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBSVEdqRzlmS1Y1dU1BV2dEamdfeGZHV1pVVnNmZnllZTZFX2ZlNXpQSEkzUGFHRFpSN2djQVRpbGVvM1FDQVVZU3Q0ckVYQzR4dy1BUkREV2x0ZWfSAWBBVV95cUxPMUVfaGpjN0VCUi1uUWtyRHFxZjFRbS0wcGJPc1hlVEs0c0I2QkltU2xRWFI4M1lHajczY29Vdmthb0lRazFMck5YQTB3X01zQWlTN09xMHVUbjQ4N0hLTkY?oc=5",
-    "title": "\"관악S밸리에서 유니콘의 꿈을\"…관악구, 입주사 최대 20곳 모집",
-    "summary": [
-      "\"관악S밸리에서 유니콘의 꿈을\"…관악구, 입주사 최대 20곳 모집 연합뉴스."
-    ],
-    "chips": [
-      "#스타트업",
-      "#채용"
     ]
   },
   {
@@ -280,6 +266,20 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n79d12fb6",
+    "category": "부동산",
+    "source": "Chosunbiz",
+    "time": "121일 전",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQc01fQzQ5RjhjTzMxV0xObHgwUFQ5Z0ozcklaR19VYmhUOXBxVURFZVBjZkxKT2ozQUhsVzViV1JCLXdvVUQ1YWVwYTA5bVB1TjdaYlZHTXFCQUJoRTBsdHNHZXZ5MnJQdVliYzVUUktidVpvNDNzWVJXakYzUFBTMFMxd1Y0NFVrTnhSR1c5WXctLTdFRnhJMtIBrAFBVV95cUxOMk9EaXo0bmRJdnJyRVgyM0REZE1IR1VEVkNzWVNHZW9nR3p3WDRXcXQ0dnpfNk5LRE9SVFVscW45RzlqYTZGTWhWdTlybngycnM5QUliSG1haVFoQW5xT3ZpbFJvWU5hYjNYUGNLTHVyNHgwcDdLZWFsdFhMTHhCNlBodDFsdkFTT0tFX3NXWGZ1M2hCTEpmbTVUVXRzREtvSy1CdkRyWE5sbU5p?oc=5",
+    "title": "매물 줄고 분양가 뛰고… 전국 아파트 매매·전셋값 동반 상승세 지속 - 조선비즈",
+    "summary": [
+      "매물 줄고 분양가 뛰고… 전국 아파트 매매·전셋값 동반 상승세 지속 - 조선비즈 Chosunbiz."
+    ],
+    "chips": [
+      "#부동산"
+    ]
+  },
+  {
     "id": "nba668fc0",
     "category": "IT",
     "source": "한국방송뉴스",
@@ -294,144 +294,190 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n08b2b275",
-    "category": "부동산",
-    "source": "한국부동산뉴스",
-    "time": "166일 전",
-    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBZNmg3TVp4ZWZCV1ZzTE14bXV5UkN4MExnMmZJdkpfNUsyUGltRWlJVWVfUzJoQktRUlcwMTdrUUtuWk9pR2MxaFlhNGpOU0xGZjM3eDUwdlNmRWQtYkFaenAyekhVRGRRY0pJ?oc=5",
-    "title": "대출 규제에 몰린 '15억 이하'…비강남 집값·분양가 동반 상승",
+    "id": "nbc27bc5a",
+    "category": "IT",
+    "source": "연합뉴스",
+    "time": "214일 전",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5UNnlsSTY5eHFYNEZ6ZktBM216dFF6Q0J5Z1NVYm56M3A2TUFNMDM0U081NTNsZVNJTy1MWklmVGc0cEdLVk5NRHFiTWtHbmx2b2ItSkVEV1A2ZFnSAWBBVV95cUxOV3Z3V2F3aWJvV3dDNDc4OXpfRmpyaDgtaExGWC1ZTUxvX2M4ZVZPNC1rZHpQeUtSNXlIZjc0dHdGWTdfUXpJQXdac1lZU3Mza3NvdHVweFFNYXhmdDMyZWs?oc=5",
+    "title": "스타트업·벤처를 유니콘으로…전북도, '창업 천국' 구상 발표",
     "summary": [
-      "대출 규제에 몰린 '15억 이하'…비강남 집값·분양가 동반 상승 한국부동산뉴스."
+      "스타트업·벤처를 유니콘으로…전북도, '창업 천국' 구상 발표 연합뉴스."
     ],
     "chips": [
-      "#부동산",
+      "#스타트업"
+    ]
+  },
+  {
+    "id": "nbb7a7e94",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "3분 전",
+    "url": "https://www.newsis.com/view/NISX20260927_0003804369",
+    "title": "[오늘의 주요일정]제주(9월28일 월요일)",
+    "summary": [
+      "[제주=뉴시스] ▲오전 10시, 제주도 월간 정책회의(민생경제 활성화 전략회의), 제주도청 탐라홀 ▲오전 10시30분, 제주장애인차별철폐연대 기자회견, 제주도의회 도민카페 ▲오후 1시30분, 한국4-H중앙연합회 5극 3특 도 청년농업인 정책토론회, 아시아호텔 제주 ▲오후 2시, 초분광영상 기반 과실 품질 예측 모델 개발 중간보고회, 미래농업육성관 회의실 ▲오후 3시, 성년의 제주, 기본사회를 묻다 정책토론회, 제주도의회 대회의실 ▲오후 3시,."
+    ],
+    "chips": [
       "#정책"
     ]
   },
   {
-    "id": "n489d7201",
+    "id": "n8fc7422e",
     "category": "사회",
-    "source": "조선일보",
-    "time": "3분 전",
-    "url": "https://www.chosun.com/politics/diplomacy-defense/2026/09/28/WVXNLFFWONFFTKVIHSHTCVHPGQ/",
-    "title": "北포로 송환, 성과 내고도 숨기려 한 정부",
-    "summary": [
-      "北포로 송환, 성과 내고도 숨기려 한 정부."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nbefc5ef2",
-    "category": "사회",
-    "source": "조선일보",
+    "source": "뉴시스",
     "time": "4분 전",
-    "url": "https://www.chosun.com/economy/economy_general/2026/09/28/JXOOVGMBIJERPBVLEJIX3IP64A/",
-    "title": "30대 후반 여성 고용률 71%, 역대 최고",
+    "url": "https://www.newsis.com/view/NISX20260928_0003804502",
+    "title": "트럼프, '美 이란 공격' 英기지 테러 용의자 검거 \"환상적\"(종합)",
     "summary": [
-      "30대 후반 여성 고용률 71%, 역대 최고."
-    ],
-    "chips": [
-      "#고용"
-    ]
-  },
-  {
-    "id": "nf610602f",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "4분 전",
-    "url": "https://www.chosun.com/jp/economy-jp/2026/09/28/P42A7WZJMRD4TA34FRNQX4OYPA/",
-    "title": "30代後半女性の雇用率71％、過去最高",
-    "summary": [
-      "30代後半女性の雇用率71％、過去最高."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nea876606",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "5분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260928000800071",
-    "title": "트럼프, 美이용 英기지 테러의심 용의자들에 \"큰 타격 기도\"",
-    "summary": [
-      "(워싱턴=연합뉴스) 백나리 특파원 = 도널드 트럼프 미국 대통령은 27일(현지시간) 미군 폭격기가 이용하는 영국 공군기지 인근에서 테러 의심 사..."
+      "[서울=뉴시스]신정원 기자 = 도널드 트럼프 미국 대통령은 27일(현지 시간) 미군이 사용하는 영국 공군기지를 겨냥한 테러 모의 용의자들이 체포된 것에 대해 \"환상적\"이라고 평가했다.",
+      "트럼프 대통령은 이날 일리노이주 시카고에서 취재진에게 \"영국에서의 체포 작전은 정말 환상적이었다\"며 \"영국과의 공조는 대단히 훌륭했다\"고 밝혔다.",
+      "그는 \"이들은 우리 기지에 큰 피해를 입히려 했다\"며 미 연방정부 역시 이들에 대한 조사를 진행 중이라고 말했다."
     ],
     "chips": [
       "#정치"
     ]
   },
   {
-    "id": "ned877102",
+    "id": "nc43e1c1a",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "15분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260928002800091",
+    "title": "엑스, 머스크 비판한 다큐 예고편 광고 게재 거부",
+    "summary": [
+      "(샌프란시스코=연합뉴스) 권영전 특파원 = 일론 머스크가 보유한 사회관계망서비스(SNS) 엑스(X·옛 트위터)가 머스크를 비판적으로 조명한 다큐..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n4ba2b5dc",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "28분 전",
+    "url": "https://www.chosun.com/sports/baseball/2026/09/28/GIZTQYZSGIYWKMDDGJQWCYTBGU/",
+    "title": "‘항저우 실종사건’의 주역, 나고야의 새로운 태양이 됐다…곽빈, 4년 만에 증명한 ‘진짜 에이스’",
+    "summary": [
+      "[OSEN=손찬익 기자] 4년 전에는 마운드에 한 번도 오르지 못했다.",
+      "곽빈(두산 베어스)이 가장 중요한 순간 에이스의 존재감을 뽐내며 한국 야구의 아시안게임 금메달을 이끌었다.곽빈에게 아시안게임은 남다른 의미가 있다.",
+      "2022 항저우 아시안게임에서 대표팀의 에이스로 기대를 모았지만 뜻하지 않은 담 증세로 단 한 경기도 등판하지 못했다.당."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
+    "id": "nfcd2fb5b",
     "category": "사회",
     "source": "조선일보",
-    "time": "5분 전",
-    "url": "https://www.chosun.com/jp/international-jp/2026/09/28/E5WUNJGCYFG3NF3ZR2Z3A5RDTA/",
-    "title": "中身なき米中首脳会談",
+    "time": "28분 전",
+    "url": "https://www.chosun.com/jp/sports-jp/2026/09/28/MZJVRDVOQNDEXHMBSCMKMVM4M4/",
+    "title": "クァク・ビン、4年越しに証明した真のエース",
     "summary": [
-      "中身なき米中首脳会談."
+      "［OSEN＝ソン・チャンイク記者］4年前は一度もマウンドに上がれなかった。今回は違った。クァク・ビン（斗山ベアーズ）が最も重要な瞬間にエースの存在感を示し、韓国野球のアジア大会金メダルをけん引した。クァク・ビンにとってアジア大会は特別な意味を持つ。2022年杭州アジア大会で代表チームのエースとして期待されたが、思いがけない筋肉の張りの症状で1試合も登板できなかった。当."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n751ee78b",
+    "id": "nff8d7510",
     "category": "사회",
     "source": "연합뉴스",
-    "time": "19분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260927056851007",
-    "title": "[아시안게임] 육상 남자 400ｍ 계주, 극적으로 결선행…\"항소 인용\"(종합)",
+    "time": "28분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260928002700071",
+    "title": "주중 美대사 \"트럼프, 대만문제에 단호…美입장 변함 없다\"",
     "summary": [
-      "(나고야=연합뉴스) 김경윤 기자 = 예선에서 실격 처분을 받았던 육상 남자 400ｍ 계주 대표팀이 항소를 제기해 판정을 뒤집고 극적으로 결선에 ..."
+      "(워싱턴=연합뉴스) 백나리 특파원 = 데이비드 퍼듀 중국 주재 미국 대사는 27일(현지시간) 대만과 관련한 미국의 입장에 변함이 없다고 강조했다..."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n7393c95a",
+    "id": "n118915c0",
     "category": "사회",
     "source": "뉴시스",
-    "time": "20분 전",
-    "url": "https://www.newsis.com/view/NISX20260927_0003804486",
-    "title": "스위스, 나토 협력 제한 '중립성 강화' 국민투표 부결",
+    "time": "32분 전",
+    "url": "https://www.newsis.com/view/NISX20260927_0003804387",
+    "title": "대구·경북 구름 많고 큰 일교차…아침 14도·한낮 29도",
     "summary": [
-      "[서울=뉴시스]신정원 기자 = 스위스가 27일(현지 시간) 실시한 국민투표에서 헌법상 중립국 지위를 강화하는 내용의 안건이 부결될 전망이라고 현지 언론이 예측했다.",
-      "스위스 공영방송 SRF의 초기 예측 조사 결과 유권자의 71%가 이 안건에 반대하고, 찬성은 29%에 그칠 것으로 예상됐다.",
-      "이 안건은 ▲스위스 중립 원칙 '영구적이고 예외 없이' 적용 ▲방위 역량을 갖춘 군 유지 ▲제3국 간 분쟁 비개입 ▲직접 공격받지 않는 한 방위 동맹 가입·협."
+      "[대구=뉴시스] 이상제 기자 = 28일 대구·경북은 가끔 구름이 많은 가운데 일교차가 클 것으로 예상된다.",
+      "대구지방기상청은 이날 \"당분간 대구, 경북 대부분 지역에서 낮과 밤의 기온차가 10~15도로 크겠다\"고 예보했다.",
+      "아침 최저기온은 14~20도(평년 9~17도), 낮 최고기온은 24~29도(평년 23~26도)로 예측된다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n46f9fcca",
+    "id": "n0329255e",
     "category": "사회",
     "source": "연합뉴스",
-    "time": "22분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260928000600087",
-    "title": "김구 선생 조명 다큐, 멕시코 현지 방송서 방영",
+    "time": "32분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260927041500001",
+    "title": "김민석, 환경공무직 현장 간담회…DMZ 폭발사고 현장 점검도",
     "summary": [
-      "(멕시코시티=연합뉴스) 송광호 특파원 = \"오직 한없이 가지고 싶은 것은 높은 문화의 힘이다.",
-      "문화의 힘은 우리 자신을 행복하게 하고, 나아가서..."
+      "(서울=연합뉴스) 안정훈 기자 = 더불어민주당 김민석 대표는 28일 서울 구로구 환경공무직 근로자를 만나는 등 민심 청취 행보를 이어간다."
+    ],
+    "chips": [
+      "#환경"
+    ]
+  },
+  {
+    "id": "nbb7c1a28",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "33분 전",
+    "url": "https://www.chosun.com/politics/politics_general/2026/09/28/G353K5ZNMZHURLYLBCLWFSIVMY/",
+    "title": "[단독] 추미애 이어 ‘명픽’ 정원오도...李 측근 일하는 업체에 컨설팅비 등 13억 지출",
+    "summary": [
+      "[단독] 추미애 이어 ‘명픽’ 정원오도...李 측근 일하는 업체에 컨설팅비 등 13억 지출."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n337d5d86",
+    "id": "n36a2d918",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "33분 전",
+    "url": "https://www.chosun.com/jp/politics-national-jp/2026/09/28/GZB5KHN3RBG2RHXBSL7WO5UE4Q/",
+    "title": "【独自】チョン・ウォンオ氏陣営、李側近勤務業者に13億ウォン",
+    "summary": [
+      "【独自】チョン・ウォンオ氏陣営、李側近勤務業者に13億ウォン."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n164e5062",
     "category": "사회",
     "source": "연합뉴스",
-    "time": "24분 전",
-    "url": "https://www.yna.co.kr/view/AKR20260928000400071",
-    "title": "협상의 문 열어두는 트럼프 \"이란과 금주 추가 회담 예상\"",
+    "time": "59분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260928002500079",
+    "title": "이스라엘, 정착촌 제품막은 네덜란드에 '외교관 지위 박탈' 맞불",
     "summary": [
-      "(워싱턴=연합뉴스) 백나리 특파원 = 도널드 트럼프 미국 대통령은 27일(현지시간) 이번 주 이란과 추가 회담이 있을 것으로 예상한다고 밝혔다."
+      "(카이로=연합뉴스) 김상훈 특파원 = 이스라엘이 요르단강 서안 점령지 내 유대인 정착촌 등에서 생산된 제품의 반입을 금지한 네덜란드 정부의 조처..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n46c7baa5",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "1시간 전",
+    "url": "https://www.newsis.com/view/NISX20260928_0003804500",
+    "title": "中매체 \"미·중 정상 8개 성과 합의는 중요한 신호\"",
+    "summary": [
+      "[서울=뉴시스]신정원 기자 = 시진핑 중국 국가주석의 미국 국빈 방문을 계기로 미·중 정상이 8개 핵심 분야에 합의한 것은 \"중요한 신호\"라면서 양국 관계의 새로운 방향을 제시하고 향후 협력 공간을 넓혔다고 중국 매체가 평가했다.",
+      "시 주석은 지난 24일 도널드 트럼프 미국 대통령과 백악관 정상회담을 한 뒤 26일 베이징으로 귀국했다.",
+      "상징성은 강했지만 실질적 성과가 미미했다는 서방 언론들의 평가와 달리 중국 언론은 \"양측이 평화롭게 공존하고 상."
     ],
     "chips": [
       "#정치"
@@ -441,7 +487,7 @@ window.NEWS_DB = [
     "id": "n6b9f616a",
     "category": "사회",
     "source": "동아일보",
-    "time": "26분 전",
+    "time": "4시간 전",
     "url": "https://www.donga.com/news/It/article/all/20260928/134740546/1",
     "title": "배부르게 먹는데 살 빠진다?…‘볼륨매트릭스’ 다이어트 뭐길래",
     "summary": [
@@ -455,7 +501,7 @@ window.NEWS_DB = [
     "id": "nfefcdc92",
     "category": "스포츠",
     "source": "동아일보",
-    "time": "27분 전",
+    "time": "4시간 전",
     "url": "https://www.donga.com/news/Society/article/all/20260928/134740541/1",
     "title": "[오늘날씨]연휴 후 첫 일상, 가끔 구름 많음…최대 15도 큰 일교차",
     "summary": [
@@ -470,7 +516,7 @@ window.NEWS_DB = [
     "id": "nd663eedd",
     "category": "IT",
     "source": "동아일보",
-    "time": "28분 전",
+    "time": "4시간 전",
     "url": "https://www.donga.com/news/Economy/article/all/20260927/134738650/2",
     "title": "막 뚫는 AI, 호주정부 사이트까지 무단 침투했다",
     "summary": [
@@ -486,7 +532,7 @@ window.NEWS_DB = [
     "id": "n6103af67",
     "category": "IT",
     "source": "동아일보",
-    "time": "28분 전",
+    "time": "4시간 전",
     "url": "https://www.donga.com/news/Economy/article/all/20260927/134738665/2",
     "title": "메타, AI 에이전트 ‘뮤즈’… 악성링크에 뚫릴 가능성",
     "summary": [
@@ -499,72 +545,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nfab174de",
-    "category": "스포츠",
-    "source": "머니투데이",
-    "time": "36분 전",
-    "url": "https://www.mt.co.kr/sports/2026/09/28/2026092713280145629",
-    "title": "'차량 추돌→하반신 마비' 인간승리 아이콘 비극, 또 교통사고→향년 55세 사망 \"장애인스포츠 영웅이었는데...\"",
-    "summary": [
-      "불의의 교통사고를 딛고 패럴림픽 메달리스트로 우뚝 서며 인간 승리의 표본으로 불렸던 일본 휠체어 육상 전설이 훈련 도중 발생한 추돌 사고로 끝내 세상을 떠났다.",
-      "일본 매체 '류큐심포'는 27일 \"2008 베이징 패럴림픽 육상 남자 휠체어 마라톤에서 오키나와현 출신 최초로 은메달을 획득하는 등 휠체어 육상의 역사를 쓴 우에요나바루 히로카즈가 26일 오후 5시 9분 오키나와 본토 중부의 한 병원에서 뇌탈출증 의증으로 사망했다."
-    ],
-    "chips": [
-      "#의료"
-    ]
-  },
-  {
-    "id": "n8a6a4ce3",
-    "category": "스포츠",
-    "source": "머니투데이",
-    "time": "43분 전",
-    "url": "https://www.mt.co.kr/sports/2026/09/28/2026092715490681997",
-    "title": "日열도 발칵! 40대 귀화선수, 성추행 긴급 체포 \"가슴 만지고 속옷도 훔쳐, 본인은 혐의 전면 부인\"",
-    "summary": [
-      "일본 프로농구(B리그)에서 활약하고 있는 미국 출신 40대 귀화 선수가 원정 경기 기간 도중 유흥주점에서 여성을 강제추행하고 속옷을 훔친 혐의로 긴급 체포돼 일본 열도가 충격에 휩싸였다.",
-      "일본RKK 구마모토 방송 등 현지 언론에 따르면 구마모토현 구마모토중앙경찰서는 26일 B리그 카가와 파이브 애로우즈 소속의 코데라 해밀턴 게리(42·206cm)를 강제추행 및 절도 혐의로 체포했다고 밝혔다.",
-      "경찰에 따르면 코데라는 이날 오전 2시부터 2시 30."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n1464ca32",
-    "category": "스포츠",
-    "source": "머니투데이",
-    "time": "57분 전",
-    "url": "https://www.mt.co.kr/sports/2026/09/28/2026092716561340594",
-    "title": "\"이 이야기 꼭 하고 싶다\" 야구 금메달 류지현 감독이 덧붙인 '감사 인사' [도요하시 현장]",
-    "summary": [
-      "\"이 이야기는 꼭 하고 싶네요.\" 류지현 대한민국 야구 대표팀 감독이 말했다.",
-      "27일 일본 아이치현 도요하시 구장에서 열린 2026 아이치·나고야 아시안게임 야구 결승전 직후다.",
-      "이날 한국은 일본을 3-1로 꺾고 금메달을 목에 걸었다."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
-    "id": "naca3f3f7",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "58분 전",
-    "url": "https://www.newsis.com/view/NISX20260927_0003804491",
-    "title": "靑 \"우크라 '北포로 송환 비공개 합의 없었다' 거짓발표 강력 유감…공식 사과 요구\"",
-    "summary": [
-      "[서울=뉴시스]조재완 기자 = 청와대는 27일 우크라이나가 북한군 포로 송환과 관련해 우리 정부와 비공개 합의가 없었다고 밝힌 데 대해 \"우크라이나 정부 측의 합의를 위반한 일방적 공개와 이에 이은 비공개 합의 사실이 없다는 허위 공보에 대해 강력한 유감을 표하며, 공식적인 해명과 사과를 요구한다\"고 밝혔다.",
-      "성기홍 홍보소통수석은 이날 밤 '북한군 포로송환, 우크라이나 정부 태도에 대한 입장문'을 내고 \"이 문제에 대해 추가적으로 필요한 조치를."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
     "id": "n04ddc200",
     "category": "경제",
     "source": "한국경제",
-    "time": "58분 전",
+    "time": "4시간 전",
     "url": "https://www.hankyung.com/article/2026092166537",
     "title": "[오늘의 운세] 오늘 뭐 먹지?…9월 28일 띠별 추천 점심메뉴",
     "summary": [
@@ -578,7 +562,7 @@ window.NEWS_DB = [
     "id": "n93cb2dfe",
     "category": "경제",
     "source": "한국경제",
-    "time": "58분 전",
+    "time": "4시간 전",
     "url": "https://www.hankyung.com/article/2026092166897",
     "title": "[오늘의 운세] 2026년 9월 28일 별자리 운세",
     "summary": [
@@ -592,7 +576,7 @@ window.NEWS_DB = [
     "id": "n2fae4a0d",
     "category": "경제",
     "source": "한국경제",
-    "time": "58분 전",
+    "time": "4시간 전",
     "url": "https://www.hankyung.com/article/2026092167277",
     "title": "[오늘의 운세] 9월 28일 띠별 운세",
     "summary": [
@@ -606,11 +590,27 @@ window.NEWS_DB = [
     "id": "na7a6df50",
     "category": "경제",
     "source": "한국경제",
-    "time": "58분 전",
+    "time": "4시간 전",
     "url": "https://www.hankyung.com/article/2026092167667",
     "title": "[오늘의 운세] 2026년 9월 28일 오행별 행운의 컬러",
     "summary": [
       "[오늘의 운세] 2026년 9월 28일 오행별 행운의 컬러."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n541588c3",
+    "category": "IT",
+    "source": "테크M",
+    "time": "5시간 전",
+    "url": "https://www.techm.kr/news/articleView.html?idxno=155594",
+    "title": "현대홈쇼핑, 日 홋카이도와 손잡았다…낫또·슈크림빵 안방 공략",
+    "summary": [
+      "현대홈쇼핑이 일본 홋카이도와 손잡고 현지 특산품을 국내에 들여온다.",
+      "해외 특정 지역과 직접 상품 소싱 협력에 나서는 것은 이번이 처음이다.",
+      "식품을 시작으로 향후 여행상품과 문화 콘텐츠까지 협력 범위를 넓혀 차별화된 해외 상품 확보에 나선다는 구상이다.27일 유통업계에 따르면 현대홈쇼핑은 일본 홋카이도와 현지 상품 발굴부터 국내 판매·마케팅까지 연계하는 전략적 파트너십 구축에 합의했다.양측은 지난 23일 서울 강동구 현대홈쇼핑 본사에서 만나 구체."
     ],
     "chips": [
       "#뉴스"
@@ -634,9 +634,9 @@ window.KEYWORD_TOP = [
   },
   {
     "rank": 3,
-    "tag": "고용",
-    "mentions": "1420건",
-    "trend": "+115%"
+    "tag": "엔비디아",
+    "mentions": "1290건",
+    "trend": "+95%"
   }
 ];
 // ====AUTO-GENERATED-END====
