@@ -1,11 +1,26 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-10-01 20:39:00
+// 마지막 업데이트: 2026-10-02 00:19:14
 window.NEWS_DB = [
+  {
+    "id": "n6d49e558",
+    "category": "IT",
+    "source": "dailycar.co.kr",
+    "time": "27분 전",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0xN2R2QmJPYlhfMXpRYUpfR3AzSHZBb19STXJZUTJZOFE0enhZdGx6MGpBbDg4ZmxCQXNDR1hwYnFUV3Z2aFZVS3pKbUlja1ZPbEFIUWlEbUFvZWtSX2RuMlZadkxTZVBOb3Q4UGVCa3QwZ0FTZnc?oc=5",
+    "title": "엔비디아 견제 나선 메타..내년부터 자체 AI칩 투입 계획!",
+    "summary": [
+      "엔비디아 견제 나선 메타..내년부터 자체 AI칩 투입 계획! dailycar.co.kr."
+    ],
+    "chips": [
+      "#AI",
+      "#엔비디아"
+    ]
+  },
   {
     "id": "n10f8b04d",
     "category": "IT",
     "source": "아주경제",
-    "time": "11시간 전",
+    "time": "15시간 전",
     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFAtYS1hNjZ5TzN3a09LeG5Cd1VFV2pBU083SktkYm11LWEwODNkTDBCM2Q1N2lDUUNpYzVkWWUyaU9fRzl2SGJldzZtUWxvdEJ1TXMyZ2RDSWvSAVhBVV95cUxQLWEtYTY2eU8zd2tPS3huQndVRVdqQVNPN0pLZGJtdS1hMDgzZEwwQjNkNTdpQ1FDaWM1ZFllMmlPX0c5dkhiZXc2bVFsb3RCdU1zMmdkQ0lr?oc=5",
     "title": "삼성·SK 주도 차세대 메모리…마이크론 커스텀 HBM으로 도전장",
     "summary": [
@@ -13,23 +28,6 @@ window.NEWS_DB = [
     ],
     "chips": [
       "#반도체"
-    ]
-  },
-  {
-    "id": "n78ec225f",
-    "category": "IT",
-    "source": "비즈니스포스트",
-    "time": "12시간 전",
-    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE12dFdqUHZHUVFDSUVtNWgyUlZjbXJpYUVlRGgtbkd4eTEyOGFlYU4zdTNqS3lkb3lYVjNEYXhtelF1cDFLOGxmNGtvLUJVWWdWbloyOUsyWS1JcjFvYmswNHQ5ejZNRkExaExzX0h4S3h2THM?oc=5",
-    "title": "트럼프 'AI 자율규제' 입장에 엔비디아 수혜 전망, AI 반도체 공급 제약 피해",
-    "summary": [
-      "트럼프 'AI 자율규제' 입장에 엔비디아 수혜 전망, AI 반도체 공급 제약 피해 비즈니스포스트."
-    ],
-    "chips": [
-      "#AI",
-      "#반도체",
-      "#엔비디아",
-      "#정책"
     ]
   },
   {
@@ -77,14 +75,30 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n9e9b447d",
+    "category": "IT",
+    "source": "비즈니스포스트",
+    "time": "2일 전",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBzY1daY3hralhrOTJwTGpfbTRyRThmVmhEOWdOQ1Fkdm8xRTNRLVpoRFFnZGdZR1JLenlrS3Rmd0MyV3ozLUxHbUw0RjJoLXRSNHVZbDFzWm5MRDNWTTlHTC0wdTZvdGNmMjUzQS1fUDFfd1k?oc=5",
+    "title": "엔비디아 'AI 반도체 담보대출' 사업모델 확대 총력, 보험사 끌어들여 리스크 분산 추진",
+    "summary": [
+      "엔비디아 'AI 반도체 담보대출' 사업모델 확대 총력, 보험사 끌어들여 리스크 분산 추진 비즈니스포스트."
+    ],
+    "chips": [
+      "#AI",
+      "#반도체",
+      "#엔비디아"
+    ]
+  },
+  {
     "id": "nb16c3b86",
     "category": "사회",
-    "source": "한국경제",
+    "source": "hankyung.com",
     "time": "2일 전",
     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9WRTVrbjVJTjdrdkI0WVZYc2RzdHdzRXZWT2daLVRRWkxKaDd6RmpOb2xlQlBiX2lLY2VaRjF2c25SbmlMN0s1RkNDYW9pSmlndlpkLW9BUldwQQ?oc=5",
     "title": "\"경력직만 뽑고 AI가 일자리 대체\"…청년 구직자 '취업 한파' 체감",
     "summary": [
-      "\"경력직만 뽑고 AI가 일자리 대체\"…청년 구직자 '취업 한파' 체감 한국경제."
+      "\"경력직만 뽑고 AI가 일자리 대체\"…청년 구직자 '취업 한파' 체감 hankyung.com."
     ],
     "chips": [
       "#AI",
@@ -108,46 +122,17 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n6437e9c6",
-    "category": "부동산",
-    "source": "뉴스투데이",
-    "time": "2일 전",
-    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5XV1l2ek85Vl9kOFJOazhqcDg5UTd6cjBrWE95Tlp1XzVTOHZHLUxlQWppWk4zbDJVT1FoakJKcHhQbUJGMnNFYk83cy1WYVZOdFVwMHNaWjQwSFNLblE?oc=5",
-    "title": "[N2 포커스] 가을 분양·입주 쏟아지는 수도권…지방은 물량 반토막·집값 약세",
-    "summary": [
-      "[N2 포커스] 가을 분양·입주 쏟아지는 수도권…지방은 물량 반토막·집값 약세 뉴스투데이."
-    ],
-    "chips": [
-      "#부동산"
-    ]
-  },
-  {
     "id": "n34489cb8",
     "category": "경제",
-    "source": "지이코노미",
+    "source": "geconomy.co.kr",
     "time": "3일 전",
     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE0wbXY1ekducjBRWHc0eEJwLW1VQ1QtVGJXQkRha3RXYmpmWWxrdnk0amdSS0lqTVpMbXVQV0g3aFFLOHhRbnFIQzNoaFBzRHlKY0dsMGF6ZGJRYVktSlJHVUtoc1Q?oc=5",
     "title": "美 국채·중동발 충격 한국 덮쳤다…코스피 2.7% 급락·환율 1,365원",
     "summary": [
-      "美 국채·중동발 충격 한국 덮쳤다…코스피 2.7% 급락·환율 1,365원 지이코노미."
+      "美 국채·중동발 충격 한국 덮쳤다…코스피 2.7% 급락·환율 1,365원 geconomy.co.kr."
     ],
     "chips": [
       "#환율"
-    ]
-  },
-  {
-    "id": "nfc34ad0f",
-    "category": "IT",
-    "source": "한국경제",
-    "time": "4일 전",
-    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9jZWJxMW1kazUyRkEzTFB2UHA2UlRCRUpsSkYwTThjRVgxSUc1VmdDZ0dDcnlRVlIxaVhlVnJIdklMVkJmc2RYdXNpLUcwQkFaQl9wZnM0ZHpIUQ?oc=5",
-    "title": "\"엔비디아 너무 비싸\"…1200조 시장 노리는 K반도체",
-    "summary": [
-      "\"엔비디아 너무 비싸\"…1200조 시장 노리는 K반도체 한국경제."
-    ],
-    "chips": [
-      "#반도체",
-      "#엔비디아"
     ]
   },
   {
@@ -181,12 +166,12 @@ window.NEWS_DB = [
   {
     "id": "n3bf091c2",
     "category": "스포츠",
-    "source": "한국경제",
+    "source": "hankyung.com",
     "time": "10일 전",
     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9nY3BENG1heVF4amFVRDZ5M0Q3V09uYWZTRmZEZlcxZTJzc08zU2RBM3BRSEh6aTZPVDR2blc0YjZrNUhnMHNDUVN0M0pKMTBDVWxlUWhtZ1Zudw?oc=5",
     "title": "\"손흥민 533만원·페이커 1100만원\"…해외선 없어서 못 산다",
     "summary": [
-      "\"손흥민 533만원·페이커 1100만원\"…해외선 없어서 못 산다 한국경제."
+      "\"손흥민 533만원·페이커 1100만원\"…해외선 없어서 못 산다 hankyung.com."
     ],
     "chips": [
       "#손흥민"
@@ -267,12 +252,12 @@ window.NEWS_DB = [
   {
     "id": "nb9bdfdfb",
     "category": "스포츠",
-    "source": "푸드투데이",
+    "source": "foodtoday.or.kr",
     "time": "125일 전",
     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9BVmpLTU1zOFZsU1RWVmVOSXppaWhDWFBBRkF4akI3WHBIcXIyX2pXa3JaeXplMm9vbmE4cU1PclhFTXVZdURxQ0RCYTF3aFNsbmRKcTZ5VE9na0cwakQ2XzNuWlJ5QQ?oc=5",
     "title": "‘손흥민 월드콘.KBO몽쉘’ 축구.야구팬 다 잡자...롯데웰푸드, 스포츠마케팅 총력",
     "summary": [
-      "‘손흥민 월드콘.KBO몽쉘’ 축구.야구팬 다 잡자...롯데웰푸드, 스포츠마케팅 총력 푸드투데이."
+      "‘손흥민 월드콘.KBO몽쉘’ 축구.야구팬 다 잡자...롯데웰푸드, 스포츠마케팅 총력 foodtoday.or.kr."
     ],
     "chips": [
       "#손흥민",
@@ -294,6 +279,21 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n08b2b275",
+    "category": "부동산",
+    "source": "karnews.or.kr",
+    "time": "170일 전",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBZNmg3TVp4ZWZCV1ZzTE14bXV5UkN4MExnMmZJdkpfNUsyUGltRWlJVWVfUzJoQktRUlcwMTdrUUtuWk9pR2MxaFlhNGpOU0xGZjM3eDUwdlNmRWQtYkFaenAyekhVRGRRY0pJ?oc=5",
+    "title": "대출 규제에 몰린 '15억 이하'…비강남 집값·분양가 동반 상승",
+    "summary": [
+      "대출 규제에 몰린 '15억 이하'…비강남 집값·분양가 동반 상승 karnews.or.kr."
+    ],
+    "chips": [
+      "#부동산",
+      "#정책"
+    ]
+  },
+  {
     "id": "nbcfe41a7",
     "category": "IT",
     "source": "연합뉴스TV",
@@ -308,322 +308,317 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "ncc20d3d5",
+    "id": "n85de797b",
     "category": "사회",
-    "source": "동아일보",
-    "time": "2분 전",
-    "url": "https://www.donga.com/news/Society/article/all/20261002/134772948/1",
-    "title": "중국인 관광객 경복궁서 담배 피우고 ‘그 짓’ 까지…“몸 냄새 맡아봐라”",
+    "source": "뉴시스",
+    "time": "1분 전",
+    "url": "https://www.newsis.com/view/NISX20261002_0003811950",
+    "title": "\"단호박·팥죽 당 부담 낮췄다\" 오뚜기, 라이트앤조이 저당죽 출시",
     "summary": [
-      "경복궁 근정전 앞에서 담배를 피우다 적발된 외국인 관광객들이 퇴장 조치를 당하고도 “담배를 피우지 않았다, 왜 따라오냐?”며 지적하는 기자에게 적반하장 태도를 보여 논란이 되고 있다.지난 29일 채널A에 따르면 최근 경복궁을 찾은 외국인 관광객 3명이 국보 근정전 앞에서 담배에 불을 붙였다.이 모습을 본 한 한국인 관광객은 “저 사람들 잡아가라.",
-      "저기서 담배 피웠다”며 목소리를 높였다.현장 관계자는 이들의 가이드를 찾은 뒤 “퇴장시켜라."
+      "[서울=뉴시스]김상윤 기자 = 오뚜기가 단호박죽과 통단팥죽의 당류와 열량 부담을 낮춘 신제품을 선보이며 저당 간편식 제품군을 확대한다고 2일 밝혔다.",
+      "오뚜기에 따르면 이번 신제품은 '라이트앤조이 저당 단호박죽'과 '라이트앤조이 저당 통단팥죽' 등 2종으로 구성했다.",
+      "혈당 관리와 체중 조절 등에 대한 관심이 높아지면서 저당·저칼로리 제품을 찾는 소비자 수요를 반영했다는 설명이다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n4f80bdd7",
+    "id": "n8d4d6271",
+    "category": "IT",
+    "source": "뉴시스",
+    "time": "1분 전",
+    "url": "https://www.newsis.com/view/NISX20261002_0003811854",
+    "title": "9시//같은 GPU서 토큰 최대 4배 처리…LGU+, AI 운영 효율 높인다",
+    "summary": [
+      "[서울=뉴시스]윤현성 기자 = LG유플러스가 같은 그래픽처리장치(GPU) 자원으로 처리할 수 있는 인공지능(AI) 토큰량을 최대 4배까지 높이는 최적화 기술 확보에 나선다.",
+      "AI 서비스 확대로 GPU와 전력 비용 부담이 커지는 가운데 모델의 연산 효율을 높여 자원 사용은 줄이고 서비스 처리 성능을 끌어올린다는 구상이다.",
+      "LG유플러스는 AI 모델 최적화 전문기업 옵트에이아이와 AI 운영 효율을 높이기 위한 '토큰 최적화' 기술을 공동 연구한다고."
+    ],
+    "chips": [
+      "#AI"
+    ]
+  },
+  {
+    "id": "nb418309d",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "1분 전",
+    "url": "https://www.newsis.com/view/NISX20261002_0003811833",
+    "title": "동의없는 투약 응급조회 3년새 2.7배 증가…\"정보보호 필요\"",
+    "summary": [
+      "[서울=뉴시스] 구무서 기자 = 환자 동의없이 개인 투약이력을 알아보는 응급조회 건수가 최근 3년 사이 2.7배 증가한 것으로 나타났다.",
+      "단 응급조회 기준과 사후조치가 뚜렷하지 않아 정보보호를 위한 방안을 확보해야 한다는 지적이 나온다.",
+      "2일 국회 보건복지위원회 소속 허종식 더불어민주당 의원이 건강보험심사평가원으로부터 제출받은 자료에 따르면 개인 투약이력 응급조회 이용 현황은 2022년 232만5579건에서 2203년 355만6276건, 202."
+    ],
+    "chips": [
+      "#정치",
+      "#의료"
+    ]
+  },
+  {
+    "id": "n6106a260",
+    "category": "경제",
+    "source": "아시아경제",
+    "time": "1분 전",
+    "url": "https://view.asiae.co.kr/article/2026100209173356264",
+    "title": "정규 시드 확보 도전 노승열, 조용한 출발…공동 63위",
+    "summary": [
+      "미국프로골프(PGA) 투어 시드를 노리는 노승열이 조용하게 출발했다.",
+      "노승열은 2일(한국시간) 미국 오클라호마주 오와소의 패트리엇 골프클럽(파70·7120야드)에서 열린 PGA 콘페리(2부) 투어 컴플라이언스 솔루션스 챔피언십(총상금 150만 달러) 1라운드에서 버디 3개와 보기 2개를 엮었다.",
+      "1언더파 69타를 친 노승열은 공동 63위에 자리했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n27f9fd6f",
+    "category": "사회",
+    "source": "아시아경제",
+    "time": "1분 전",
+    "url": "https://view.asiae.co.kr/article/2026100209171546881",
+    "title": "BTS, 콜롬비아 보고타 '명예 외빈' 지정…콘서트 경제효과 400억",
+    "summary": [
+      "콜롬비아 보고타시가 그룹 방탄소년단(BTS)을 '명예 외빈'으로 지정했다고 소속사 빅히트뮤직이 2일 밝혔다.",
+      "보고타시는 지난달 30일 '법령 413호'를 통해 방탄소년단에 명예 외빈 자격을 부여했다.",
+      "보고타시가 명예 외빈을 지정한 것은 약 10년 만이다."
+    ],
+    "chips": [
+      "#정치",
+      "#교육",
+      "#환경"
+    ]
+  },
+  {
+    "id": "nb9bf581e",
     "category": "사회",
     "source": "뉴시스",
     "time": "2분 전",
-    "url": "https://www.newsis.com/view/NISX20261002_0003811637",
-    "title": "74세 송기윤, 15세 연하 미모의 아내 공개",
+    "url": "https://www.newsis.com/view/NISX20261002_0003811940",
+    "title": "젝시믹스, 지역 체육과 3년 동행 결실 맺었다",
     "summary": [
-      "[서울=뉴시스]이재훈 기자 = 배우 송기윤(74)이 15세 연하 아내인 음악가 김숙진 씨와의 일상을 공개했다.",
-      "지난 1일 방송된 MBN 밀착 다큐 프로그램 '특종세상'에서 송기윤은 최근 오케스트라를 창단해 활동 중인 아내를 위해 집안일을 도맡아 하는 근황을 전했다.",
-      "과거 대형 교통사고로 트라우마를 겪은 아내를 극진히 간호했던 일화도 털어놨다."
+      "[서울=뉴시스]권민지 기자 = 젝시믹스가 지역 생활체육 활성화를 위해 이어온 사회공헌 활동의 성과를 잇따른 수상으로 인정받았다.",
+      "젝시믹스는 지역 생활체육 활성화와 체육문화 발전에 기여한 공로로 '제46회 은평대상' 문화체육진흥상을 수상했다고 2일 밝혔다.",
+      "은평대상은 지역사회와 구정 발전을 위해 기여한 개인과 단체에 수여하는 상이다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n450c6556",
+    "id": "n68fdca47",
+    "category": "스포츠",
+    "source": "아시아경제",
+    "time": "2분 전",
+    "url": "https://view.asiae.co.kr/article/2026100209165236827",
+    "title": "폴스타, 경기 북부 공략 나선다…'스페이스 일산' 오픈",
+    "summary": [
+      "폴스타는 2일 경기 고양특례시 일산에 경기 북부 리테일 거점 '스페이스 일산'을 열고 서북부 지역 고객과 접점을 넓힌다고 밝혔다.",
+      "스페이스 일산은 4층 단독 건물로 고객이 폴스타의 다양한 모델을 여유롭게 경험할 수 있는 전시 공간과 차량 인도 및 운영을 위한 시설을 갖췄다.",
+      "1층 약 125평, 2층 약 129평 규모로 1층에는 최대 4대, 2층에는 1대 등 총 5대의 차량을 전시할 수 있다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n2f851284",
+    "category": "경제",
+    "source": "아시아경제",
+    "time": "2분 전",
+    "url": "https://view.asiae.co.kr/article/2026100207175714086",
+    "title": "광양시, 2027년 생활임금 시급 11,550원 결정",
+    "summary": [
+      "전남광주통합특별시 광양시는 2027년 생활임금을 시간당 11,550원으로 결정했다고 밝혔다.",
+      "시는 지난 30일 광양시 생활임금심의위원회를 열고 2027년 최저임금 인상률 3.7%를 비롯해 소비자물가 변동 추이, 공무원 보수 인상률, 타 지방자치단체 생활임금 수준, 지역경제와 시 재정 여건 등을 종합적으로 검토해 생활임금을 결정했다.2027년 생활임금은 시급 11,550원, 일급 92,400원(8시간 기준), 월급 241만 3,950원(월 209."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "na7781ca6",
+    "category": "경제",
+    "source": "연합뉴스(경제)",
+    "time": "5분 전",
+    "url": "https://www.yna.co.kr/view/AKR20261002036500002",
+    "title": "한은 \"10월 물가상승률 3% 내외 높은 수준 예상\"",
+    "summary": [
+      "(서울=연합뉴스) 한지훈 기자 = 한국은행은 9월 소비자물가 상승률이 2%대로 낮아졌지만, 오히려 물가 오름세가 확대된 것이라고 2일 평가했다."
+    ],
+    "chips": [
+      "#한은"
+    ]
+  },
+  {
+    "id": "n59960e0c",
+    "category": "경제",
+    "source": "연합뉴스(경제)",
+    "time": "5분 전",
+    "url": "https://www.yna.co.kr/view/AKR20261002036800055",
+    "title": "군산시, '맞춤형 다국어 안내'로 외국인 주민세 납부율 4.7%p↑",
+    "summary": [
+      "(군산=연합뉴스) 김진방 기자 = 전북 군산시는 외국인 주민의 지방세 납부 편의를 개선하기 위해 다국어 안내문을 제작·발송해 외국인 주민세 납부..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n31c20a49",
     "category": "사회",
-    "source": "머니투데이",
+    "source": "연합뉴스",
+    "time": "5분 전",
+    "url": "https://www.yna.co.kr/view/AKR20261002035500003",
+    "title": "포티투닷, 글로벌 IT 리더급 인재 3명 영입…SDV 경쟁력 강화",
+    "summary": [
+      "(서울=연합뉴스) 장하나 기자 = 현대차그룹 글로벌 소프트웨어센터인 포티투닷이 글로벌 정보기술(IT) 기업의 리더급 핵심 인재 3명을 영입하며 ..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n2e5a5c8e",
+    "category": "경제",
+    "source": "연합뉴스(경제)",
     "time": "6분 전",
-    "url": "https://www.mt.co.kr/society/2026/10/02/2026100205100919376",
-    "title": "암살자(들) 출연 배우도 불똥...\"과도한 비난\" 영화제작가협회 나섰다",
+    "url": "https://www.yna.co.kr/view/AKR20261002036700030",
+    "title": "이랜드월드 \"걸음마 신발 '뉴비퍼스트', 매출 2.5배 증가\"",
     "summary": [
-      "영화 '암살자(들)'이 역사왜곡 논란에 휩싸이면서 정치권에서도 이슈가 되자 한국영화제작가협회가 우려를 표했다.",
-      "지난 1일 한국영화제작가협회는 입장문을 내고 \"작품에 대한 평가와 별개로, 제작 과정이나 참여 창작자와 관련해 사실관계가 확인되지 않은 정보가 확산되거나, 작품에 참여했다는 이유만으로 제작사와 감독, 배우, 스태프 등 개별 창작자에게 과도한 비난이 이어지는 상황에 대해서는 우려를 표한다\"고 입장을 밝혔다.",
-      "협회는 영화와 문화예술 작품에."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "nacf409b2",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "7분 전",
-    "url": "https://www.yna.co.kr/view/AKR20261002006800055",
-    "title": "전북 아침 기온 '뚝'…낮 기온도 19∼23도로 낮아",
-    "summary": [
-      "(전주=연합뉴스) 백도인 기자 = 금요일인 2일 전북은 아침 기온이 크게 떨어진 가운데 대체로 맑겠다."
+      "(서울=연합뉴스) 이상서 기자 = 이랜드월드는 뉴발란스 키즈의 걸음마 신발 '뉴비퍼스트' 올해 1∼9월 매출이 전년 동기보다 150%(약 2.5..."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "na8b8aa9b",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "8분 전",
-    "url": "https://www.yna.co.kr/view/AKR20261001188200004",
-    "title": "오늘부터 '공룡 경찰' 분주…사건적체·수사전문성 미비 한숨만",
-    "summary": [
-      "(서울=연합뉴스) 전재훈 기자 = 2일 개정 형사소송법 시행으로 검찰 수사권이 사라지고 대부분 수사를 책임지게 된 '공룡 경찰'은 제도 안착에 ..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nc498950e",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "8분 전",
-    "url": "https://www.yna.co.kr/view/AKR20261001197600004",
-    "title": "공소청·중수청 시대 오늘 개막…'검찰 개혁' 시험대 올랐다",
-    "summary": [
-      "(서울=연합뉴스) 황재하 기자 = 이재명 정부의 검찰 개혁으로 수사와 기소권을 모두 가진 검찰청이 78년 만에 문을 닫고 공소청과 중대범죄수사청..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n3bffeb96",
+    "id": "n4036afa9",
     "category": "IT",
-    "source": "머니투데이",
-    "time": "8분 전",
-    "url": "https://www.mt.co.kr/future/2026/10/02/2026092214001780291",
-    "title": "10초만에 맞춤 정보 뚝딱…투자 돕는 '금융 AI' 만든다",
+    "source": "조선비즈IT",
+    "time": "6분 전",
+    "url": "https://biz.chosun.com/it-science/ict/2026/10/02/HS24EKZH2ZGQPD4OCN33SEDWFI/",
+    "title": "IBM, 온프레미스용 ‘IBM 밥’ 출시…“기업 데이터 밖으로 안 나가는 AI\"",
     "summary": [
-      "[스타트UP스토리]김승덕 어쎈드 대표 [이 기사에 나온 스타트업에 대한 보다 다양한 기업정보는 유니콘팩토리 빅데이터 플랫폼 ‘데이터랩’에서 볼 수 있습니다.] \"금융 AI(인공지능)라고 하면 정보를 빠르게 찾아주고 정리해주는 서비스를 떠올리기 쉽습니다.",
-      "물론 그런 기능도 중요합니다.",
-      "하지만 투자자에게 더 필요한 건 결국 '그래서 이 상품에 투자해도 되는지'를 판단하는 데 필요한 정보입니다."
+      "IBM, 온프레미스용 ‘IBM 밥’ 출시…“기업 데이터 밖으로 안 나가는 AI\"."
+    ],
+    "chips": [
+      "#AI"
+    ]
+  },
+  {
+    "id": "n58081a1b",
+    "category": "경제",
+    "source": "한국경제",
+    "time": "7분 전",
+    "url": "https://www.hankyung.com/article/2026100293226",
+    "title": "코스피, 하락 출발해 6930선 후퇴…코스닥은 장중 900선 회복",
+    "summary": [
+      "코스피, 하락 출발해 6930선 후퇴…코스닥은 장중 900선 회복."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n1f509fdb",
+    "category": "경제",
+    "source": "연합뉴스(경제)",
+    "time": "8분 전",
+    "url": "https://www.yna.co.kr/view/AKR20261002036100008",
+    "title": "누빈, 슈로더 인수 완료…운용자산 4천조원 글로벌 운용사 출범",
+    "summary": [
+      "(서울=연합뉴스) 정회인 기자 = 미국 교직원연금기금(TIAA) 계열의 글로벌 자산운용사 누빈(Nuveen)이 전일(현지시각) 슈로더자산운용(S..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "ncc57e80a",
+    "category": "경제",
+    "source": "한국경제",
+    "time": "8분 전",
+    "url": "https://www.hankyung.com/article/202610029388i",
+    "title": "젭바운드보다 더 빠졌다…릴리 차세대 비만약, 체중 23.3% 감량",
+    "summary": [
+      "젭바운드보다 더 빠졌다…릴리 차세대 비만약, 체중 23.3% 감량."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n06efeb64",
+    "category": "경제",
+    "source": "한국경제",
+    "time": "13분 전",
+    "url": "https://www.hankyung.com/article/202610029352i",
+    "title": "\"밖에 나가기 싫다\"…35일째 내린 비에 日경제까지 '직격탄' [도쿄나우]",
+    "summary": [
+      "\"밖에 나가기 싫다\"…35일째 내린 비에 日경제까지 '직격탄' [도쿄나우]."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nbcf7e788",
+    "category": "IT",
+    "source": "한국경제",
+    "time": "14분 전",
+    "url": "https://www.hankyung.com/article/202609306000i",
+    "title": "AI가 답하는 시대, '생각하는 학생'을 찾는 SKY",
+    "summary": [
+      "AI가 답하는 시대, '생각하는 학생'을 찾는 SKY."
+    ],
+    "chips": [
+      "#AI"
+    ]
+  },
+  {
+    "id": "n880b0142",
+    "category": "경제",
+    "source": "조선일보",
+    "time": "18분 전",
+    "url": "https://www.chosun.com/economy/money/2026/10/02/F6EHR652LBGGFMV2Q3ENXKTZOU/",
+    "title": "국채 금리 ‘5% 시대’에도 잘 나가는 주식 종목은?",
+    "summary": [
+      "국채 금리 ‘5% 시대’에도 잘 나가는 주식 종목은?."
+    ],
+    "chips": [
+      "#금리"
+    ]
+  },
+  {
+    "id": "n5bf7fc3e",
+    "category": "IT",
+    "source": "ZDNet Korea",
+    "time": "58분 전",
+    "url": "https://zdnet.co.kr/view/?no=20260930175836",
+    "title": "'홍콩 추계 전자 박람회' 13일 개막…AI·로보틱스 미래 기술 총망라",
+    "summary": [
+      "[지디넷코리아]글로벌 테크 산업의 최신 트렌드를 조망하는 '홍콩 추계 전자 박람회(Hong Kong Electronics Fair - Autumn Edition)'와 '전자 부품 박람회(electronicAsia)'가 이달 13일부터 16일까지 나흘간 홍콩 컨벤션 및 전시 센터에서 열린다.2일 업계에 따르면 홍콩무역발전국(HKTDC)이 주최하고 MMI 아시아가 공동 주관하는 이번 행사는 가전제품부터 스마트 디바이스, 전자 부품, 첨단 솔루션까지."
     ],
     "chips": [
       "#AI",
-      "#스타트업"
-    ]
-  },
-  {
-    "id": "n86457945",
-    "category": "부동산",
-    "source": "뉴시스",
-    "time": "8분 전",
-    "url": "https://www.newsis.com/view/NISX20261001_0003811514",
-    "title": "\"월세 30만원이었는데…\" 40년 지킨 이발소도 성수 떠났다[르포]",
-    "summary": [
-      "[서울=뉴시스]이종성 기자, 주다영 인턴기자 = \"19년 전 여기 처음 들어왔을 때는 월세가 30만원이었어요.",
-      "지난해 100만원으로 올랐는데 이제는 180만원까지 달라고 합니다.",
-      "버틸 수가 없어서 자양동으로 가기로 했습니다.\" 1일 서울 성동구 성수동에서 만난 한 이발원 사장은 지난달에 가게를 내놨다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nf127d773",
-    "category": "부동산",
-    "source": "뉴시스",
-    "time": "8분 전",
-    "url": "https://www.newsis.com/view/NISX20261001_0003811490",
-    "title": "[오늘의 주요일정]국토교통부(10월2일 금요일)",
-    "summary": [
-      "[서울=뉴시스] ◇장관 ▲08:00 시장상황점검회의(서울) ▲16:00 고속철도 통합행사(서울역, 공개) ◇1차관 ▲15:00 공공주택 공급점검 TF(서울) ◇2차관 ▲통상일정 ◇대도시권광역교통위원장 ▲통상일정."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n487c8213",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "8분 전",
-    "url": "https://www.newsis.com/view/NISX20261001_0003811400",
-    "title": "[오늘의 주요일정]해양수산부(10월2일 금요일)",
-    "summary": [
-      "[서울=뉴시스] 박성환 기자 = ◇장관 ▲통상일정 ◇차관 ▲통상일정 ◎공감언론 뉴시스 sky0322@newsis.com."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n0b845109",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "11분 전",
-    "url": "https://www.yna.co.kr/view/AKR20261002006500034",
-    "title": "북쪽 찬 공기에 아침 기온 '뚝'…일교차 15도 안팎",
-    "summary": [
-      "(서울=연합뉴스) 윤민혁 기자 = 금요일인 2일은 전국이 대체로 맑은 가운데 아침 기온이 크게 낮아지겠다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n05bade8b",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "11분 전",
-    "url": "https://www.chosun.com/jp/culture-life-jp/2026/10/02/G5OXZUGGBBGZXBEPUYQDOGPTNI/",
-    "title": "ムン・ジエ息子「夫婦円満はパパのおかげ」",
-    "summary": [
-      "［OSEN＝オ・セジン記者］『生活名品ムン・ジエ』のムン・ジエとチョン・ジョンファンの息子ボムミン君が、10歳らしくもあり、10歳らしからぬ賢さで両親を戸惑わせた。1日、タレントのムン・ジエのユーチューブチャンネルで「ママ、パパ、これだけは直して」という動画が公開された。チョン・ジョンファンは「1年前、私たちがこういう時間を持ったが、その時ユーチューブの登録者数が爆発的に増えた」と話し、ボムミン君は「ママが."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n7749e0fc",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "11분 전",
-    "url": "https://www.chosun.com/entertainments/broadcast/2026/10/02/MRQTKZDCMU4DKY3BGBSWGNBXHA/",
-    "title": "문지애 子 범민, 부모님 금슬 좋다고 인정 \"아빠 덕분이다\"('생활명품 문지애')",
-    "summary": [
-      "[OSEN=오세진 기자] '생활명품 문지애’ 문지애와 전종환의 아들 범민이가 10살다우면서도 답지 않은 똘똘함으로 부모를 당황케 했다.지난 1일 방송인 문지애 유튜브 채널에서는 “엄마 아빠 이것만은 좀 고쳐줘요”라는 영상이 공개됐다.",
-      "전종환은 “1년 전 저희가 이런 시간을 가졌는데 그때 유튜브 구독자 수가 폭발적으로 늘었다”라고 말했고, 범민이는 “엄마가."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nd1ef0c70",
-    "category": "경제",
-    "source": "연합뉴스(경제)",
-    "time": "16분 전",
-    "url": "https://www.yna.co.kr/view/AKR20261002006600072",
-    "title": "中 석유제품 수출 중단에 美 추가파병까지…브렌트유 4%대 급등",
-    "summary": [
-      "(뉴욕=연합뉴스) 김연숙 특파원 = 1일(현지시간) 국제유가가 급등했다."
-    ],
-    "chips": [
       "#수출"
     ]
   },
   {
-    "id": "nec9d686c",
-    "category": "경제",
-    "source": "머니투데이",
-    "time": "17분 전",
-    "url": "https://www.mt.co.kr/world/2026/10/02/2026100205093132193",
-    "title": "미국발 국채 매도, 유럽·아시아 확산… 글로벌 금융시장 '휘청'",
-    "summary": [
-      "이란 전쟁발 유가 폭등에 물가 재자극 우려 AI 투자 붐·각국 재정적자에 자금 수요 폭증 각국 중앙은행 추가 인상 가능성 거론 전 세계 채권시장이 대규모 매도 폭풍에 휘말렸다.",
-      "미국에서 시작된 국채 금리 급등세가 유럽과 아시아로 옮겨붙으면서 주요국 국채 금리가 수십 년 만에 최고 수준을 경신, 글로벌 금융시장의 불확실성을 증폭시키고 있다.",
-      "━미 10년물 5.34% 돌파 후 숨고르기… 증시 낙폭 회복━1일(현지시간) 뉴욕 채권시장에서 전 세계 채."
-    ],
-    "chips": [
-      "#AI",
-      "#금리"
-    ]
-  },
-  {
-    "id": "naf0cd048",
-    "category": "사회",
-    "source": "머니투데이",
-    "time": "18분 전",
-    "url": "https://www.mt.co.kr/world/2026/10/02/2026100123343786746",
-    "title": "카트에 팔꿈치 닿자 \"잠 깼잖아\"…여승무원 무릎 꿇린 남성",
-    "summary": [
-      "중국의 한 남성이 비행기에서 기내식 카트에 팔이 부딪혔다는 이유로 여성 승무원을 무릎 꿇린 뒤 사과를 요구한 사실이 알려져 논란이 되고 있다.",
-      "지난 1일 중국 지무뉴스 등 현지 매체 보도에 따르면 사건은 지난달 28일 밤 중국 안후이성 허페이를 출발해 랴오닝성 다롄으로 향하는 중국동방항공 항공기에서 발생했다.",
-      "당시 여성 승무원 A씨는 푸드 카트를 끌며 승객들에게 음료를 나눠주고 있었는데, 이 과정에서 잠들어 있던 남성 승객 B씨 팔꿈치가 카트와."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n8e210b16",
-    "category": "사회",
-    "source": "아시아경제",
-    "time": "22분 전",
-    "url": "https://view.asiae.co.kr/article/2026100205164613722",
-    "title": "트럼프 \"중간선거 뒤 이란 폭격 강화 가능\"…美, 항모 추가 배치 검토(종합)",
-    "summary": [
-      "도널드 트럼프 미국 대통령이 다음 달 중간선거 이후 이란에 대한 폭격을 강화할 수 있다고 밝혔다.",
-      "미국은 중동에 항공모함 전단과 병력 약 1만명을 추가 배치하는 방안을 검토하는 동시에 이란의 자동차·철도 기업과 해외 공급업체를 무더기로 제재했다.",
-      "협상이 교착 상태에 빠진 가운데 트럼프 행정부가 군사적 위협과 경제 제재를 병행하며 이란을 압박하는 모습이다."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n577a3726",
-    "category": "경제",
-    "source": "아시아경제",
-    "time": "29분 전",
-    "url": "https://view.asiae.co.kr/article/2026100204421900676",
-    "title": "[속보]뉴욕증시, 미국채 금리 하락에 일제히 상승 마감",
-    "summary": [
-      "미국의 국채 금리가 하락하면서 1일 (현지시간) 미국의 3대 지수는 일제히 상승세로 마감했다.",
-      "이날 뉴욕증권거래소(NYSE)에서 다우존스30산업평균지수(다우지수)는 전 거래일보다 0.04% 오르며 마쳤다.",
-      "대형주 중심의 S&P500지수는 0.19%, 기술주 중심의 나스닥지수는 0.04% 상승하며 장을 마무리했다."
-    ],
-    "chips": [
-      "#금리"
-    ]
-  },
-  {
-    "id": "n7c7c99ac",
-    "category": "경제",
-    "source": "아시아경제",
-    "time": "38분 전",
-    "url": "https://view.asiae.co.kr/article/2026100120064391587",
-    "title": "정조의 효심 깃든 용주사…화성서 만나는 '가을 역사' 산책",
-    "summary": [
-      "정조대왕이 아버지 사도세자의 넋을 위로하고 무덤을 지키기 위해 세운 화성 용주사(龍珠寺)가 가을 역사 나들이 장소로 주목받고 있다.",
-      "오는 3일 시작하는 '2026 정조효문화제·정조대왕능행차'와 함께 정조의 효심과 조선 왕실 문화를 살펴볼 수 있는 공간이다.",
-      "화성특례시 병점구 송산동 화산 자락에 자리 잡은 용주사는 대한불교조계종 제2교구 본사이자 사도세자의 무덤인 융릉을 수호해 온 능침사찰이다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "ne5a2f2d7",
-    "category": "경제",
-    "source": "동아일보",
+    "id": "n999f9200",
+    "category": "IT",
+    "source": "ZDNet Korea",
     "time": "1시간 전",
-    "url": "https://www.donga.com/news/Economy/article/all/20261002/134772254/2",
-    "title": "대미투자 첫발 뗐지만… ‘알래스카LNG’ 동상이몽",
+    "url": "https://zdnet.co.kr/view/?no=20261001172252",
+    "title": "브릴스, 상장 첫날 공모가 대비 66% 상승",
     "summary": [
-      "한국이 미국과 합의한 2000억 달러(약 271조 원) 규모 대미 전략투자가 미 텍사스 가스복합화력 발전 프로젝트를 시작으로 첫발을 뗀다.",
-      "한국은 엔시날 발전소에 223억 달러를 투자하고 미국 원전 8기 건설에도 최대 1200억 달러를 투입하기로 했다.",
-      "하지만 도널드 트럼프 미국 대통령이 아직 한미 협의가 완료되지 않은 알래스카 액화천연가스(LNG) 개발사업에 한국이 500억 달러 이상을 투자한다고 기정사실화하면서 시작부터 엇박자가 나고 있다."
+      "[지디넷코리아]피지컬 인공지능(AI) 플랫폼 기업 브릴스가 상장 첫 날 공모가보다 66% 급등했다.1일 한국거래소에 따르면 이날 코스닥에 상장한 브릴스 주식은 오후 5시 기준 3만2350원에 거래되고 있다.",
+      "이는 공모가 1만9500원 대비 65.9% 상승한 수치다.앞서 브릴스는 기관투자자 수요예측에서 공모가를 희망 밴드 최상단인 1만9500원으로, 총 공모금액은 234억원으로 확정했다.회사는 이번 상장으로 확보한 자금을 기술 경쟁력 강화와 생산."
     ],
     "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n606f36ca",
-    "category": "스포츠",
-    "source": "동아일보",
-    "time": "1시간 전",
-    "url": "https://www.donga.com/news/Society/article/all/20261002/134772246/2",
-    "title": "광화문 하늘을 걷다",
-    "summary": [
-      "1일 오후 서울 종로구 세종대로 한복판 상공 120m에서 줄타기 공연인 ‘슬랙라인’ 선수 얀 루스(34)가 동아미디어센터와 코리아나호텔을 잇는 외줄 위에 올라 고공 공연을 펼치고 있다.",
-      "에스토니아 출신의 세계적인 슬랙라인 선수인 루스는 이날 오후 1시와 4시 두 차례 공연을 선보였고, 공연은 국내 최대 규모의 미디어 사이니지 ‘룩스(LUUX)’를 통해 생중계됐다."
-    ],
-    "chips": [
-      "#뉴스"
+      "#AI"
     ]
   }
 ];
@@ -633,20 +628,20 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2720건",
-    "trend": "+315%"
+    "mentions": "2460건",
+    "trend": "+275%"
   },
   {
     "rank": 2,
-    "tag": "반도체",
-    "mentions": "1680건",
-    "trend": "+155%"
+    "tag": "AI",
+    "mentions": "1940건",
+    "trend": "+195%"
   },
   {
     "rank": 3,
-    "tag": "AI",
-    "mentions": "1420건",
-    "trend": "+115%"
+    "tag": "반도체",
+    "mentions": "1550건",
+    "trend": "+135%"
   }
 ];
 // ====AUTO-GENERATED-END====
