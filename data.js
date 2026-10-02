@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-10-02 13:20:05
+// 마지막 업데이트: 2026-10-02 18:47:43
 window.NEWS_DB = [
   {
     "id": "n7a94fb55",
     "category": "IT",
     "source": "조선일보",
-    "time": "11시간 전",
+    "time": "16시간 전",
     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNLU9nVFpCejNyT3lrQWtlTlQ2OVNvZzVkUVZxSHV0X29xZGJMR3JuQ2Q4WmFrOVJyYjVId0dvdG1VWDZ2SlYtTnRqUUtLbU1nYTRjQWI3NENpZ3pyN1VCNUcySTRDUlcyYzM3QnZ6T0dyUzRpR3dXanhaZXQ5NUdRdGF3NA?oc=5",
     "title": "\"돈빌려줄테니 우리 AI칩 써\" 엔비디아 700조이어 브로드컴도 59조 대출 약정",
     "summary": [
@@ -17,24 +17,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nc53933d3",
-    "category": "사회",
-    "source": "TV서울",
-    "time": "11시간 전",
-    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE13TC1zbThyZXJPQkFkdWE5VjBLR3dFRXp0TUNuQjVyR0prQ09CTjNQdVRjWDM4enhCeUs0MkZOX0dlcURWMWQ4Z29Nd2FNcUxKUUpkZWdlVE8?oc=5",
-    "title": "영등포구, ‘2026 천하제일 JOB 취업박람회’ 개최",
-    "summary": [
-      "영등포구, ‘2026 천하제일 JOB 취업박람회’ 개최 TV서울."
-    ],
-    "chips": [
-      "#취업"
-    ]
-  },
-  {
     "id": "n6d49e558",
     "category": "IT",
     "source": "dailycar.co.kr",
-    "time": "14시간 전",
+    "time": "20시간 전",
     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0xN2R2QmJPYlhfMXpRYUpfR3AzSHZBb19STXJZUTJZOFE0enhZdGx6MGpBbDg4ZmxCQXNDR1hwYnFUV3Z2aFZVS3pKbUlja1ZPbEFIUWlEbUFvZWtSX2RuMlZadkxTZVBOb3Q4UGVCa3QwZ0FTZnc?oc=5",
     "title": "엔비디아 견제 나선 메타..내년부터 자체 AI칩 투입 계획!",
     "summary": [
@@ -76,12 +62,12 @@ window.NEWS_DB = [
   {
     "id": "n9e9b447d",
     "category": "IT",
-    "source": "비즈니스포스트",
+    "source": "businesspost.co.kr",
     "time": "3일 전",
     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBzY1daY3hralhrOTJwTGpfbTRyRThmVmhEOWdOQ1Fkdm8xRTNRLVpoRFFnZGdZR1JLenlrS3Rmd0MyV3ozLUxHbUw0RjJoLXRSNHVZbDFzWm5MRDNWTTlHTC0wdTZvdGNmMjUzQS1fUDFfd1k?oc=5",
     "title": "엔비디아 'AI 반도체 담보대출' 사업모델 확대 총력, 보험사 끌어들여 리스크 분산 추진",
     "summary": [
-      "엔비디아 'AI 반도체 담보대출' 사업모델 확대 총력, 보험사 끌어들여 리스크 분산 추진 비즈니스포스트."
+      "엔비디아 'AI 반도체 담보대출' 사업모델 확대 총력, 보험사 끌어들여 리스크 분산 추진 businesspost.co.kr."
     ],
     "chips": [
       "#AI",
@@ -250,32 +236,47 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n207a7abe",
-    "category": "IT",
-    "source": "Chosunbiz",
-    "time": "101일 전",
-    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPUGdtbi01TkVMYXphY1VqbF9xRzB3TkVUbWtrM2NhN2d1NmpvS29NLTY5UWFtbFNrangxUlRnQUpxOW9rSEZwWVZuWU42aUdIU1FUUlhnQ0NLbjBXdlNpQ2labGU1cUt3WVZ3NEhVVmtJNjJlc3lUalByb0tqZDBucVJleGVLUFpaanFZX3RLZWvSAaQBQVVfeXFMTXFmYjM1dzZaM0d5QjZZQXJIb0VnanMzR29JcWlBQVZreFhGVVZlRmd4c2xoejc0ajVvdDhkUVo5ZWJ5bWlyVlZSUzlveG9EamJZblA5VDkwRG16QW1hRW1Qel9mTHRfdWI3MHhvbTJfd3ZoRTNIb3dVbjByNmI5T3llUUt2ZlZjVmEwQlV4M0FvMTRVT0JYaG4zNDZ6Rkw1LVVodlA?oc=5",
-    "title": "중기부, 2030년까지 ‘유니콘’ 50개 육성 나선다 - 조선비즈",
+    "id": "nac7d261c",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "63일 전",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1wZmd4RTNaSTBwNVNxSm0yRGFySTlYN19qVTZfYzRtVzBzVV9nSnR3RXdYaTNiNkZRX3F6aXhFZTA5ekUxNW9VWHIzZHFjYnoyWU0wVDNoU2FJcVE?oc=5",
+    "title": "강남구 일자리통합지원센터, 맞춤형 지원으로 취업자 25.7％ 증가",
     "summary": [
-      "중기부, 2030년까지 ‘유니콘’ 50개 육성 나선다 - 조선비즈 Chosunbiz."
+      "강남구 일자리통합지원센터, 맞춤형 지원으로 취업자 25.7％ 증가 연합뉴스."
     ],
     "chips": [
-      "#스타트업"
+      "#취업",
+      "#고용"
     ]
   },
   {
     "id": "nb9bdfdfb",
     "category": "스포츠",
-    "source": "foodtoday.or.kr",
+    "source": "푸드투데이",
     "time": "126일 전",
     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9BVmpLTU1zOFZsU1RWVmVOSXppaWhDWFBBRkF4akI3WHBIcXIyX2pXa3JaeXplMm9vbmE4cU1PclhFTXVZdURxQ0RCYTF3aFNsbmRKcTZ5VE9na0cwakQ2XzNuWlJ5QQ?oc=5",
     "title": "‘손흥민 월드콘.KBO몽쉘’ 축구.야구팬 다 잡자...롯데웰푸드, 스포츠마케팅 총력",
     "summary": [
-      "‘손흥민 월드콘.KBO몽쉘’ 축구.야구팬 다 잡자...롯데웰푸드, 스포츠마케팅 총력 foodtoday.or.kr."
+      "‘손흥민 월드콘.KBO몽쉘’ 축구.야구팬 다 잡자...롯데웰푸드, 스포츠마케팅 총력 푸드투데이."
     ],
     "chips": [
       "#손흥민",
       "#KBO"
+    ]
+  },
+  {
+    "id": "nba668fc0",
+    "category": "IT",
+    "source": "한국방송뉴스",
+    "time": "156일 전",
+    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1XaThhZXFiX3dDT0NrYVFwZ2dhNTgxbHU0WE5Bc21vcGVzR0d2Wkh2Zm5pS2MyZ1JkYlhHb2VfRkhkemdEX1F6Q1RtajJLRzR6dDdHcExQelAyS2N1OUE?oc=5",
+    "title": "1조 8000억 규모 벤처펀드 선정…\"벤처·스타트업에 적시 공급\"",
+    "summary": [
+      "1조 8000억 규모 벤처펀드 선정…\"벤처·스타트업에 적시 공급\" 한국방송뉴스."
+    ],
+    "chips": [
+      "#스타트업"
     ]
   },
   {
@@ -323,10 +324,40 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "nfc8779d7",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "11분 전",
+    "url": "https://www.yna.co.kr/view/AKR20261003002800087",
+    "title": "브라질 대선 코앞 美 영사업무 중단…룰라측 \"여론 흔들기 수법\"",
+    "summary": [
+      "(멕시코시티=연합뉴스) 송광호 특파원 = 미국 정부가 브라질 대선을 앞두고 대사관의 영사 업무를 돌연 중단했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n5240bbc7",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "11분 전",
+    "url": "https://www.chosun.com/sports/football/2026/10/03/HEYDIMRWHFTDMMBQGU4WINJTHE/",
+    "title": "황당! 28년 만에 아시안게임 4강 올린 감독에게 할 소리? 中축구팬들 \"안토니오 감독 나가라!\" 충격 주장 ...中언론 '감독은 구세주 아냐, 안토니오 잔류해야'",
+    "summary": [
+      "[스포츠조선 박찬준 기자]한국전 패배 후폭풍이 거세다.",
+      "대한민국은 30일 오후 3시 일본 오사카 나가이스타디움에서 열린 중국과의 2026년 아이치-나고야 아시안게임 남자 축구 준결승에서 후반 배준호(스토크시티)의 결승골로 2대1 역전승을 거두며 결승에 선착했다.",
+      "전반 23분 왕위둥(저장)에게 선제실점하며 리드를 빼앗긴 한국은 33분 이영준(그라스호퍼)의 동."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
     "id": "nd89f2338",
     "category": "IT",
     "source": "테크M",
-    "time": "방금 전",
+    "time": "14분 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=155820",
     "title": "[호요랜드 26] \"팬심을 현실로 남긴다\"...게임 그 이상의 축제로 거듭난 현장",
     "summary": [
@@ -338,10 +369,39 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n2d6ff342",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "20분 전",
+    "url": "https://www.yna.co.kr/view/AKR20261003002600075",
+    "title": "파라마운트-워너 합친 '공룡 기업', 스카이댄스로 명명",
+    "summary": [
+      "(로스앤젤레스=연합뉴스) 김경윤 특파원 = 미국 할리우드를 대표하는 두 기업 워너브러더스 디스커버리와 파라마운트 스카이댄스가 하나로 합쳐지면서 ..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nb42fc433",
+    "category": "IT",
+    "source": "연합뉴스",
+    "time": "32분 전",
+    "url": "https://www.yna.co.kr/view/AKR20261003002300071",
+    "title": "\"美정보사령탑이 'AI 차르'…트럼프, 국가정보국장에 겸임 계획\"",
+    "summary": [
+      "(워싱턴=연합뉴스) 백나리 특파원 = 도널드 트럼프 미국 대통령이 제이 클레이턴 국가정보국(DNI) 국장을 '인공지능(AI) 차르'에 임명할 계..."
+    ],
+    "chips": [
+      "#AI",
+      "#정치"
+    ]
+  },
+  {
     "id": "n27354f6b",
     "category": "IT",
     "source": "테크M",
-    "time": "방금 전",
+    "time": "42분 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=155827",
     "title": "하나금융 청라시대 본격 개막...금융-IT 4000명 집결해 '뉴하나 100년' 승부수",
     "summary": [
@@ -354,10 +414,83 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n4bb614b4",
+    "category": "스포츠",
+    "source": "뉴시스",
+    "time": "47분 전",
+    "url": "https://www.newsis.com/view/NISX20261002_0003812603",
+    "title": "\"발에 피 고이고 피부 벗겨져도\"…박민호, 피멍 든 마라톤 완주 투혼",
+    "summary": [
+      "[서울=뉴시스]김성은 인턴 기자 = 발에 심한 통증을 겪으면서도 끝까지 레이스를 완주한 마라톤 국가대표 박민호가 다음 아시안게임에서 메달에 도전하겠다는 포부를 밝혔다.",
+      "지난 1일 구독자 수 11만명을 보유한 유튜브 채널 '영조형'에 출연한 2026 아이치·나고야 아시안게임 마라톤 국가대표 박민호는 황영조 전 마라톤 국가대표와의 대화에서 \"정말 열심히 준비했고 좋은 성적을 기대할 만큼 자신감이 있었다\"며 \"멋있는 경기를 보여드리고 싶었는데 그러지."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n0616c9ef",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "47분 전",
+    "url": "https://www.newsis.com/view/NISX20261002_0003811808",
+    "title": "\"살 빼고 처진 뱃살·팔뚝살 어쩌나\"…제이제이가 꼽은 의외의 해법",
+    "summary": [
+      "[서울=뉴시스]강주연 인턴 기자 = 다이어트로 살을 급격하게 뺀 뒤 피부가 늘어지고 처지는 것을 막으려면 근육을 키우는 중량 운동이 필요하다는 조언이 나왔다.",
+      "체지방이 빠져나간 자리에 근육을 만들어 피부 아래 볼륨을 채워주는 것이 중요하다는 설명이다.",
+      "운동 크리에이터 제이제이는 지난달 29일 자신의 유튜브 채널 '제이제이살롱드핏'에서 다이어트 후 살 처짐을 관리하는 방법을 소개했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nda170875",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "47분 전",
+    "url": "https://www.chosun.com/culture-life/food-taste/2026/10/03/GRRKLRWF4VEXNFJFR3WF4DLREE/",
+    "title": "風을 이겨내고 바닷가에 세운 횟집… ‘재야의 고수’ 순미씨와 나눈 인생 한 상",
+    "summary": [
+      "風을 이겨내고 바닷가에 세운 횟집… ‘재야의 고수’ 순미씨와 나눈 인생 한 상."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nff459007",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "47분 전",
+    "url": "https://www.chosun.com/economy/weeklybiz/2026/10/03/LM5BQP6VHRACDJJBMSGVEAFNHM/",
+    "title": "BTS가 뉴욕 공연 때 입었던 그 옷… “옷이 아닌 삶의 영화를 판다”",
+    "summary": [
+      "BTS가 뉴욕 공연 때 입었던 그 옷… “옷이 아닌 삶의 영화를 판다”."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "neff64b18",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "47분 전",
+    "url": "https://www.chosun.com/culture-life/2026/10/03/6LE4UZSGWRBY3F5NOS6TM5CZCY/",
+    "title": "스카치 위스키에 도전장 낸 잉글랜드… ‘두 개의 싱글몰트’ 시대 열리나",
+    "summary": [
+      "스카치 위스키에 도전장 낸 잉글랜드… ‘두 개의 싱글몰트’ 시대 열리나."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
     "id": "n9f8c8775",
     "category": "IT",
     "source": "테크M",
-    "time": "방금 전",
+    "time": "49분 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=155826",
     "title": "신한 이어 국민까지...연이은 금융권 보안 사고에 당국 긴급 점검",
     "summary": [
@@ -369,257 +502,122 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n03f7e77f",
+    "id": "n954badfa",
     "category": "사회",
     "source": "뉴시스",
-    "time": "3분 전",
-    "url": "https://www.newsis.com/view/NISX20261002_0003813290",
-    "title": "미 9월 일자리 증가분 예상보다 크게 저조…실업률도 4.2%로 ↑9종합)",
+    "time": "50분 전",
+    "url": "https://www.newsis.com/view/NISX20261003_0003813339",
+    "title": "\"알래스카 등 트럼프 프로젝트, 선거 판도 뒤집기엔 역부족\"",
     "summary": [
-      "[서울=뉴시스] 김재영 기자 = 미국에서 정부기관 포함 비농업부문 사업체 일자리가 9월 한 달 동안 2만 9000개 순증했다고 2일 미 노동부 노동통계국이 발표했다.",
-      "이는 시장 예상치 8만~9만개에 크게 못 미치는 저조한 성적으로 탄탄하던 미 고용시장이 힘을 잃어가는 모습이라고 할 수 있다.",
-      "더구나 이전 발표되었던 8월 순증분 16만 2000개가 2만 9000개 하향 수정되어 13만 3000개로 줄어들고 7월 역시 3만 1000개나 하향 수정되."
-    ],
-    "chips": [
-      "#고용"
-    ]
-  },
-  {
-    "id": "na1501208",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "5분 전",
-    "url": "https://www.newsis.com/view/NISX20261002_0003813296",
-    "title": "노홍철, 최근 의사 애인과 결별했다",
-    "summary": [
-      "[서울=뉴시스]이재훈 기자 = 방송인 노홍철(47)이 최근 연인과 결별한 사실을 털어놨다.",
-      "노홍철은 2일 자신의 유튜브 채널에 올린 영상에서 현재 교제 중인 사람이 있느냐는 구독자의 물음에 \"만나는 분은 없다.",
-      "그리 오래되지 않은 시점에 만났던 친구와 이별했다\"고 밝혔다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n833514b3",
-    "category": "경제",
-    "source": "연합뉴스",
-    "time": "5분 전",
-    "url": "https://www.yna.co.kr/view/AKR20261002182000071",
-    "title": "트럼프 \"韓과 협상 좋아져…석유 증산 프로젝트에 84억불\" 주장",
-    "summary": [
-      "(워싱턴=연합뉴스) 박성민 특파원 = 도널드 트럼프 미국 대통령은 2일(현지시간) 한미 간 협상으로 한국이 석유 관련 프로젝트에 84억 달러(약..."
+      "[서울=뉴시스] 권성근 기자 = 도널드 트럼프 미국 대통령이 한국과 합의되지 않은 알래스카 액화천연가스(LNG) 사업 등 초대형 프로젝트를 연이어 발표하고 있지만, 중간선거 판도를 바꾸기에는 늦었다는 반응이 나오고 있다고 미 정치 매체 폴리티코가 2일(현지 시간) 보도했다.",
+      "트럼프 대통령은 최근 들어 미국 내 주요 인프라 건설에 관한 초대형 투자 패키지들을 내놓고 있다.",
+      "앞서 트럼프 대통령은 지난달 28일 아이오와주에 150억 달러(약 20조4."
     ],
     "chips": [
       "#정치"
     ]
   },
   {
-    "id": "n1e585b88",
-    "category": "스포츠",
-    "source": "뉴시스",
-    "time": "5분 전",
-    "url": "https://www.newsis.com/view/NISX20261002_0003813236",
-    "title": "김민재의 직언 \"팀으로 안 뛴다, 수비 불쌍해…개인보단 하나로 뛰어야\"",
-    "summary": [
-      "[서울=뉴시스] 김진엽 기자 = 한국 남자 축구 대표팀 핵심 수비수 김민재(30·바이에른 뮌헨)가 원팀이 돼야 한다고 강조했다.",
-      "'임시 사령탑' 로베르트 모레노(스페인) 감독이 지휘하는 축구 대표팀은 2일 오후 8시 울산문수축구경기장에서 열린 베네수엘라와의 9~10월 A매치 3번째 친선 경기에서 0-0 무승부를 기록했다.",
-      "지난달 24일 에콰도르와의 데뷔전에서 3-0 완승을 거뒀던 모레노호는 28일 우루과이전에서 1-4 패배를 당한 데 이어, 이."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "na8a8bc5e",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "6분 전",
-    "url": "https://www.chosun.com/sports/football/2026/10/02/KKQUKEYIVRCGDCU7I3GISRNRUU/",
-    "title": "“전·후반이 너무 다르다”…3경기 1승1무1패 모레노號의 과제는",
-    "summary": [
-      "“전·후반이 너무 다르다”…3경기 1승1무1패 모레노號의 과제는."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n63982086",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "6분 전",
-    "url": "https://www.chosun.com/jp/sports-jp/2026/10/02/OVWZBCZCCFFG5IZP7P6JIXV5OA/",
-    "title": "前後半で明暗、モレノ号の課題",
-    "summary": [
-      "前後半で明暗、モレノ号の課題."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "ne2834985",
-    "category": "스포츠",
-    "source": "뉴시스",
-    "time": "11분 전",
-    "url": "https://www.newsis.com/view/NISX20261002_0003813294",
-    "title": "손흥민 침묵·김민재 분노…모레노호, 베네수엘라 뚫지 못하고 무승부(종합)",
-    "summary": [
-      "[서울=뉴시스] 하근수 기자 = '모레노호' 한국 남자 축구 국가대표팀이 공수 양면에서 이렇다고 할 강점을 보이지 못한 채 베네수엘라와 무승부에 그쳤다.",
-      "로베르트 모레노(스페인) 감독이 이끄는 한국은 2일 울산문수축구경기장에서 열린 베네수엘라와의 9~10월 하나은행 초청 축구 국가대표팀 친선경기 4연전 중 3번째 경기에서 득점 없이 0-0으로 비겼다.",
-      "축구대표팀은 나흘 뒤인 6일 오후 8시 용인미르스타디움에서 우즈베키스탄과 4연전 마지막 경기를."
-    ],
-    "chips": [
-      "#손흥민"
-    ]
-  },
-  {
-    "id": "nf2b6d12d",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "14분 전",
-    "url": "https://www.yna.co.kr/view/AKR20261002180651072",
-    "title": "[2보] 美 9월 고용 2만9천명 증가에 그쳐…실업률 4.2%",
-    "summary": [
-      "(뉴욕=연합뉴스) 김연숙 특파원 = 9월 미국 고용 증가 폭이 예상치를 크게 밑돈 것으로 나타났다."
-    ],
-    "chips": [
-      "#고용"
-    ]
-  },
-  {
-    "id": "n7744f37a",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "14분 전",
-    "url": "https://www.yna.co.kr/view/AKR20261002181900007",
-    "title": "[아시안게임] 한국 리듬체조, 단체종합 예선 4위로 결선 진출",
-    "summary": [
-      "(나고야=연합뉴스) 김동한 기자 = 한국 리듬체조 대표팀이 아시안게임 단체종합 예선에서 4위에 올라 결선에 진출했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n4af2fddf",
-    "category": "스포츠",
-    "source": "연합뉴스",
-    "time": "19분 전",
-    "url": "https://www.yna.co.kr/view/AKR20261002181251007",
-    "title": "모레노호, 월드컵 못 간 베네수엘라와 졸전 끝에 0-0 무승부(종합)",
-    "summary": [
-      "(울산=연합뉴스) 안홍석 기자 = '모레노호' 한국 축구 대표팀이 베네수엘라와 졸전 끝에 비겼다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n1fe42b62",
+    "id": "n081b1abe",
     "category": "IT",
-    "source": "동아일보",
-    "time": "25분 전",
-    "url": "https://www.donga.com/news/Society/article/all/20261002/134779301/1",
-    "title": "경찰 ‘주요 은행 AI 해킹’ 내사 착수…檢 폐지후 첫 대형 사이버 사건",
+    "source": "연합뉴스",
+    "time": "56분 전",
+    "url": "https://www.yna.co.kr/view/AKR20261003002100091",
+    "title": "아마존, 美데이터센터 반발에 5년간 1.3조원 지역상생 투자 발표",
     "summary": [
-      "경찰이 국내 주요 은행을 노린 인공지능(AI) 해킹 공격과 관련해 입건 전 조사(내사)에 착수했다.",
-      "정식 수사로 전환되면 이번 사안은 이날 개정 형사소송법 시행에 따른 형사사법체계 개편 이후 경찰이 처음 맡는 대형 사이버 사건이 될 전망이다.",
-      "2일 경찰 등에 따르면 경찰청 사이버테러대응수사대는 은행권을 둘러싼 동시다발적 정보 유출 의혹과 관련해 입건 전 조사(내사)에 나섰다."
+      "(샌프란시스코=연합뉴스) 권영전 특파원 = 세계 1위 클라우드 기업 아마존이 인공지능(AI) 데이터센터 급증에 따른 반발을 무마하고자 대규모 지..."
     ],
     "chips": [
       "#AI"
     ]
   },
   {
-    "id": "n5c8ce6f5",
-    "category": "경제",
-    "source": "아시아경제",
-    "time": "30분 전",
-    "url": "https://view.asiae.co.kr/article/2026100219533637861",
-    "title": "목포문화연대 \"목포대 소송 각하…의대 심사 공정성과는 별개\"",
-    "summary": [
-      "목포대학교가 제기한 전남광주 국립의대 후보대학 선정·추천 집행정지 신청이 법원에서 각하된 가운데, 목포지역 시민단체가 \"법원의 결정은 후보대학 선정 과정의 공정성을 인정한 판단이 아니다\"며 심사자료 전면 공개를 촉구하고 나섰다.",
-      "목포문화연대는 2일 긴급 성명을 내고 \"이번 각하 결정을 행정당국의 면죄부로 해석해서는 안 된다\"며 \"국립의대 후보대학을 결정한 심사 과정이 과연 공정하고 투명했는지에 대한 시민들의 질문은 여전히 남아 있다\"고 밝혔다."
-    ],
-    "chips": [
-      "#교육"
-    ]
-  },
-  {
-    "id": "n48c60603",
-    "category": "사회",
-    "source": "아시아경제",
-    "time": "33분 전",
-    "url": "https://view.asiae.co.kr/article/2026100221400313910",
-    "title": "연예인 병역 비리 급증에 초강수 \"키 150㎝ 넘는 남자, 무조건 입대\"",
-    "summary": [
-      "대만에서 유명 연예인들의 병역 비리가 잇따라 적발되자 정부가 병역 면제 신체 기준을 대폭 강화하기로 했다.1일 대만 현지 언론 등에 따르면 대만 국방부는 전날 정례 기자회견에서 병역 판정과 관련한 신체 기준 개정안 초안을 공개하고 오는 31일부터 시행할 예정이라고 밝혔다.",
-      "징병제를 유지하고 있는 대만에서 남성은 원칙적으로 1년간 현역 또는 대체복무 형태로 병역 의무를 이행해야 한다.",
-      "현재는 키가 196㎝ 이상이거나 154㎝ 이하인 경우, 또는."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n19404110",
-    "category": "경제",
-    "source": "아시아경제",
-    "time": "34분 전",
-    "url": "https://view.asiae.co.kr/article/2026100217340422004",
-    "title": "서울 영등포서, 檢수사권 폐지에 \"수사 완결성 더욱 확보돼야\"",
-    "summary": [
-      "경찰이 검찰 수사권 폐지와 공소청 출범에 대비해 경찰 수사의 완결성을 높이기 위한 자체 점검에 나섰다.서울 영등포경찰서는 여진용 서장 주재로 개정 형사소송법 시행에 대비한 부서장 회의를 열었다고 2일 밝혔다.",
-      "여 서장은 이날 회의에서 부서장들에게 \"검찰 수사권 폐지, 공소청 개청 등 새로운 형사사법체계 변화에 따라 경찰 수사의 완결성이 더욱 확보돼야 한다\"며 \"고소·고발인은 물론 피의자의 인권 보호 등 수사 과정에서의 적법절차도 준수되어야 한다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n982306a2",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "35분 전",
-    "url": "https://www.chosun.com/economy/int_economy/2026/10/02/DFSH6YPQ4BBZTGCM2BKI6PIUC4/",
-    "title": "美 9월 고용 2만9000명 증가…예상치 8만4000명 크게 밑돌아",
-    "summary": [
-      "美 9월 고용 2만9000명 증가…예상치 8만4000명 크게 밑돌아."
-    ],
-    "chips": [
-      "#고용"
-    ]
-  },
-  {
-    "id": "nc8dd0bf5",
-    "category": "경제",
-    "source": "연합뉴스(경제)",
-    "time": "41분 전",
-    "url": "https://www.yna.co.kr/view/AKR20261002178500002",
-    "title": "국민참여성장펀드 판매 3일차 목표액 절반 남아…온라인 비중↑",
-    "summary": [
-      "(서울=연합뉴스) 강수련 기자 = 2차 국민참여형 국민성장펀드(국민참여성장펀드)가 판매 사흘간 목표액의 절반 가량 판매된 것으로 나타났다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "na4e808d6",
+    "id": "nf48ff1c7",
     "category": "사회",
     "source": "동아일보",
-    "time": "41분 전",
-    "url": "https://www.donga.com/news/Politics/article/all/20261002/134779267/1",
-    "title": "[속보]김여정 막말에도…통일부 “우리는 北 적대할 생각 없다”",
+    "time": "57분 전",
+    "url": "https://www.donga.com/news/Society/article/all/20261003/134779762/1",
+    "title": "“쌀쌀해지니 콧물이 줄줄”…감기 아닌 이 질환?",
     "summary": [
-      "통일부가 2일 김여정 북한 노동당 총무부장이 비무장지대(DMZ) 지뢰 폭발사고 후에도 ‘남북 긴장 완화’를 언급한 이재명 대통령을 지목하며 “광대극의 절정 장면”이라고 담화를 낸 것 관련, “우리는 북을 적대할 생각이 없다”며 “만나서 소통하자”는 입장을 밝혔다.",
-      "통일부는 이날 ‘김여정 부장 담화 관련’ 언론 공지를 통해 “우리는 북을 적대할 생각이 없다는 점을 이미 여러 차례 밝힌 바 있다”며 이같이 밝혔다.",
-      "통일부는 입장문에서 “이제는 증오."
+      "일교차가 커지는 가을철에는 재채기와 콧물, 코막힘을 호소하는 환자가 늘어난다.",
+      "단순한 환절기 감기로 생각하고 넘기기 쉽지만 증상이 반복되거나 오래 지속될 경우 ‘알레르기 비염’을 의심해 볼 필요가 있다.",
+      "3일 의료계에 따르면 알레르기비염은 코점막이 특정 물질에 대해 과민반응을 나타내 코점막에 염증이 발생하는 질환이다."
     ],
     "chips": [
-      "#정치"
+      "#의료"
+    ]
+  },
+  {
+    "id": "nfb0b6453",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "57분 전",
+    "url": "https://www.donga.com/news/Entertainment/article/all/20261003/134779757/1",
+    "title": "권은비, 초미니 핫팬츠로 드러낸 각선미…다이어트 비법은 광어회",
+    "summary": [
+      "가수 권은비가 해외 일정 중 마르고 탄탄한 몸매를 드러낸 가운데 과거 공개한 다이어트 비법도 다시 주목받고 있다.권은비는 2일 자신의 SNS에 “Dubai”라는 문구와 초콜릿 이모티콘을 덧붙여 여러 장의 사진을 게재했다.공개된 사진 속 권은비는 흰색 크롭 티셔츠에 큼직한 버클 장식이 돋보이는 초미니 핫팬츠를 매치했다.",
+      "여기에 롱부츠를 더해 감각적인 스타일을 완성했다.",
+      "잘록한 허리와 군살 없이 탄탄한 몸매는 물론, 핫팬츠 아래로 드러난 늘씬한 각."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n459d3224",
+    "category": "경제",
+    "source": "뉴시스",
+    "time": "1시간 전",
+    "url": "https://www.newsis.com/view/NISX20261002_0003812659",
+    "title": "\"부자들은 이럴 때 달러 삽니다\"…전문가가 말한 달러 투자법",
+    "summary": [
+      "[서울=뉴시스]정지연 인턴 기자 = 최근 원·달러 환율이 1350원대에서 등락을 이어가는 가운데 환율의 단기적인 움직임을 예측하기보다 꾸준히 달러를 사 모으는 것이 중요하다는 전문가의 조언이 나왔다.",
+      "지난달 30일 구독자 128만명 규모의 유튜브 채널 '전인구경제연구소'에 출연한 재무설계 전문가 최혜실 대표는 달러 투자 전략을 설명하며 \"먼 미래를 길게 봤을 때 달러가 없는 사람들에게는 오늘이 가장 싼 시기\"라고 말했다."
+    ],
+    "chips": [
+      "#환율"
+    ]
+  },
+  {
+    "id": "na00b93a2",
+    "category": "IT",
+    "source": "한국경제",
+    "time": "1시간 전",
+    "url": "https://www.hankyung.com/article/202610031364i",
+    "title": "최악 9월 끝 10월부터 랠리?…AI에이전트 시대 투자 방향은?[월가 백브리핑]",
+    "summary": [
+      "최악 9월 끝 10월부터 랠리?…AI에이전트 시대 투자 방향은?[월가 백브리핑]."
+    ],
+    "chips": [
+      "#AI"
+    ]
+  },
+  {
+    "id": "nd9aed3bf",
+    "category": "경제",
+    "source": "한국경제",
+    "time": "1시간 전",
+    "url": "https://www.hankyung.com/article/2026100213561",
+    "title": "트럼프 압박에…G7, 비축유 1억배럴 푼다",
+    "summary": [
+      "트럼프 압박에…G7, 비축유 1억배럴 푼다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nb9ce42c6",
+    "category": "IT",
+    "source": "한국경제",
+    "time": "2시간 전",
+    "url": "https://www.hankyung.com/article/202610031370i",
+    "title": "엔비디아와 월가, GPU 담보가치에 기싸움[박신영의 개장전 요것만]",
+    "summary": [
+      "엔비디아와 월가, GPU 담보가치에 기싸움[박신영의 개장전 요것만]."
+    ],
+    "chips": [
+      "#엔비디아"
     ]
   }
 ];
@@ -629,20 +627,20 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2330건",
-    "trend": "+255%"
+    "mentions": "2460건",
+    "trend": "+275%"
   },
   {
     "rank": 2,
     "tag": "AI",
-    "mentions": "1940건",
-    "trend": "+195%"
+    "mentions": "2200건",
+    "trend": "+235%"
   },
   {
     "rank": 3,
-    "tag": "고용",
-    "mentions": "1550건",
-    "trend": "+135%"
+    "tag": "엔비디아",
+    "mentions": "1420건",
+    "trend": "+115%"
   }
 ];
 // ====AUTO-GENERATED-END====
