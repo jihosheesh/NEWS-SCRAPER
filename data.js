@@ -1,5 +1,5 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-10-03 19:35:31
+// 마지막 업데이트: 2026-10-03 22:32:00
 window.NEWS_DB = [
   {
     "id": "nc9fdd889",
@@ -20,30 +20,16 @@ window.NEWS_DB = [
   {
     "id": "n7a94fb55",
     "category": "IT",
-    "source": "조선일보",
+    "source": "chosun.com",
     "time": "1일 전",
     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNLU9nVFpCejNyT3lrQWtlTlQ2OVNvZzVkUVZxSHV0X29xZGJMR3JuQ2Q4WmFrOVJyYjVId0dvdG1VWDZ2SlYtTnRqUUtLbU1nYTRjQWI3NENpZ3pyN1VCNUcySTRDUlcyYzM3QnZ6T0dyUzRpR3dXanhaZXQ5NUdRdGF3NA?oc=5",
     "title": "\"돈빌려줄테니 우리 AI칩 써\" 엔비디아 700조이어 브로드컴도 59조 대출 약정",
     "summary": [
-      "\"돈빌려줄테니 우리 AI칩 써\" 엔비디아 700조이어 브로드컴도 59조 대출 약정 조선일보."
+      "\"돈빌려줄테니 우리 AI칩 써\" 엔비디아 700조이어 브로드컴도 59조 대출 약정 chosun.com."
     ],
     "chips": [
       "#AI",
       "#엔비디아"
-    ]
-  },
-  {
-    "id": "na4ddb086",
-    "category": "IT",
-    "source": "그린포스트코리아",
-    "time": "4일 전",
-    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE15LWYyaVFheUdxa2tjUTZRRjFId0pJWmM4ZnhQLVRPWG9HRTJOVmptUENtdHVjOGxHNVN1WlhlSm1JZmg3d0wxSS1jdzRITFVBRjBGLWN1cDZnM3ZLcDhQeEZtSE1WcTlYaWhTeV92SkVtdDNyS3fSAXpBVV95cUxPdWp6NHBPcHhvd05tbEFXaktpZjllc1Iwd3h2eFMtRHlEaEF6U2wxZjhUa0pka3g2Zm9RUVEzeVZnUmR5R2pVSk1KMmZiMmw5bzhqU09wWFJyNDZHR1lpZ2hOaV9fV0ZDaG1EamRjVkdFc3FCVFFMLXEwdw?oc=5",
-    "title": "“젠슨 황 잡아라”··· 삼성 파운드리 vs SK 데이터센터 맞대결",
-    "summary": [
-      "“젠슨 황 잡아라”··· 삼성 파운드리 vs SK 데이터센터 맞대결 그린포스트코리아."
-    ],
-    "chips": [
-      "#반도체"
     ]
   },
   {
@@ -95,12 +81,12 @@ window.NEWS_DB = [
   {
     "id": "nb16c3b86",
     "category": "사회",
-    "source": "한국경제",
+    "source": "hankyung.com",
     "time": "4일 전",
     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9WRTVrbjVJTjdrdkI0WVZYc2RzdHdzRXZWT2daLVRRWkxKaDd6RmpOb2xlQlBiX2lLY2VaRjF2c25SbmlMN0s1RkNDYW9pSmlndlpkLW9BUldwQQ?oc=5",
     "title": "\"경력직만 뽑고 AI가 일자리 대체\"…청년 구직자 '취업 한파' 체감",
     "summary": [
-      "\"경력직만 뽑고 AI가 일자리 대체\"…청년 구직자 '취업 한파' 체감 한국경제."
+      "\"경력직만 뽑고 AI가 일자리 대체\"…청년 구직자 '취업 한파' 체감 hankyung.com."
     ],
     "chips": [
       "#AI",
@@ -127,7 +113,7 @@ window.NEWS_DB = [
     "id": "n6437e9c6",
     "category": "부동산",
     "source": "뉴스투데이",
-    "time": "4일 전",
+    "time": "5일 전",
     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5XV1l2ek85Vl9kOFJOazhqcDg5UTd6cjBrWE95Tlp1XzVTOHZHLUxlQWppWk4zbDJVT1FoakJKcHhQbUJGMnNFYk83cy1WYVZOdFVwMHNaWjQwSFNLblE?oc=5",
     "title": "[N2 포커스] 가을 분양·입주 쏟아지는 수도권…지방은 물량 반토막·집값 약세",
     "summary": [
@@ -140,15 +126,31 @@ window.NEWS_DB = [
   {
     "id": "n34489cb8",
     "category": "경제",
-    "source": "geconomy.co.kr",
-    "time": "4일 전",
+    "source": "지이코노미",
+    "time": "5일 전",
     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE0wbXY1ekducjBRWHc0eEJwLW1VQ1QtVGJXQkRha3RXYmpmWWxrdnk0amdSS0lqTVpMbXVQV0g3aFFLOHhRbnFIQzNoaFBzRHlKY0dsMGF6ZGJRYVktSlJHVUtoc1Q?oc=5",
     "title": "美 국채·중동발 충격 한국 덮쳤다…코스피 2.7% 급락·환율 1,365원",
     "summary": [
-      "美 국채·중동발 충격 한국 덮쳤다…코스피 2.7% 급락·환율 1,365원 geconomy.co.kr."
+      "美 국채·중동발 충격 한국 덮쳤다…코스피 2.7% 급락·환율 1,365원 지이코노미."
     ],
     "chips": [
       "#환율"
+    ]
+  },
+  {
+    "id": "n52bf5188",
+    "category": "IT",
+    "source": "서울파이낸스",
+    "time": "5일 전",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9DTUktTG5iQlZNQU03NUlYZllkYjA5dlhsa0xueDI0cmlyQ2o3TXBmZ0p0c2FjbGh6VWxPZkxEa1ZoUzR5VWhFSHBYRmhBcVlBMzdpZXdTZldsakpZTnVXV0NZWWNGQkMtdEE?oc=5",
+    "title": "삼성전자, 3Q DS부문 수익성 확대···SK하이닉스와 HBM 경쟁 본격화",
+    "summary": [
+      "삼성전자, 3Q DS부문 수익성 확대···SK하이닉스와 HBM 경쟁 본격화 서울파이낸스."
+    ],
+    "chips": [
+      "#반도체",
+      "#삼성전자",
+      "#SK하이닉스"
     ]
   },
   {
@@ -182,12 +184,12 @@ window.NEWS_DB = [
   {
     "id": "n3bf091c2",
     "category": "스포츠",
-    "source": "한국경제",
+    "source": "hankyung.com",
     "time": "12일 전",
     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9nY3BENG1heVF4amFVRDZ5M0Q3V09uYWZTRmZEZlcxZTJzc08zU2RBM3BRSEh6aTZPVDR2blc0YjZrNUhnMHNDUVN0M0pKMTBDVWxlUWhtZ1Zudw?oc=5",
     "title": "\"손흥민 533만원·페이커 1100만원\"…해외선 없어서 못 산다",
     "summary": [
-      "\"손흥민 533만원·페이커 1100만원\"…해외선 없어서 못 산다 한국경제."
+      "\"손흥민 533만원·페이커 1100만원\"…해외선 없어서 못 산다 hankyung.com."
     ],
     "chips": [
       "#손흥민"
@@ -196,13 +198,13 @@ window.NEWS_DB = [
   {
     "id": "nfd541720",
     "category": "경제",
-    "source": "조선일보",
+    "source": "chosun.com",
     "time": "16일 전",
     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPX19hUk9LSUdFUFZxd1QxNVFVNXJOa3pzZ1F0WXkxQWlFc09IM25Pd1lPcE1DSk5RcnFRZ25WeUlycW1IWDdUYjF5TUFRREpLRUlJNlB5cEhVUjZ6amMzR0ZaOFhPQjk1ZDRVS1A5dm5BMVdfbm9wYU80ODE0bXAydHdZTGJEMVdy?oc=5",
     "title": "美 기준금리 4% 시대... 대출·투자 어떻게 하나",
     "summary": [
       "美 기준금리 4% 시대...",
-      "대출·투자 어떻게 하나 조선일보."
+      "대출·투자 어떻게 하나 chosun.com."
     ],
     "chips": [
       "#금리"
@@ -266,32 +268,32 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n207a7abe",
+    "category": "IT",
+    "source": "biz.chosun.com",
+    "time": "102일 전",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPUGdtbi01TkVMYXphY1VqbF9xRzB3TkVUbWtrM2NhN2d1NmpvS29NLTY5UWFtbFNrangxUlRnQUpxOW9rSEZwWVZuWU42aUdIU1FUUlhnQ0NLbjBXdlNpQ2labGU1cUt3WVZ3NEhVVmtJNjJlc3lUalByb0tqZDBucVJleGVLUFpaanFZX3RLZWvSAaQBQVVfeXFMTXFmYjM1dzZaM0d5QjZZQXJIb0VnanMzR29JcWlBQVZreFhGVVZlRmd4c2xoejc0ajVvdDhkUVo5ZWJ5bWlyVlZSUzlveG9EamJZblA5VDkwRG16QW1hRW1Qel9mTHRfdWI3MHhvbTJfd3ZoRTNIb3dVbjByNmI5T3llUUt2ZlZjVmEwQlV4M0FvMTRVT0JYaG4zNDZ6Rkw1LVVodlA?oc=5",
+    "title": "중기부, 2030년까지 ‘유니콘’ 50개 육성 나선다 - 조선비즈",
+    "summary": [
+      "중기부, 2030년까지 ‘유니콘’ 50개 육성 나선다 - 조선비즈 biz.chosun.com."
+    ],
+    "chips": [
+      "#스타트업"
+    ]
+  },
+  {
     "id": "nb9bdfdfb",
     "category": "스포츠",
-    "source": "푸드투데이",
+    "source": "foodtoday.or.kr",
     "time": "127일 전",
     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9BVmpLTU1zOFZsU1RWVmVOSXppaWhDWFBBRkF4akI3WHBIcXIyX2pXa3JaeXplMm9vbmE4cU1PclhFTXVZdURxQ0RCYTF3aFNsbmRKcTZ5VE9na0cwakQ2XzNuWlJ5QQ?oc=5",
     "title": "‘손흥민 월드콘.KBO몽쉘’ 축구.야구팬 다 잡자...롯데웰푸드, 스포츠마케팅 총력",
     "summary": [
-      "‘손흥민 월드콘.KBO몽쉘’ 축구.야구팬 다 잡자...롯데웰푸드, 스포츠마케팅 총력 푸드투데이."
+      "‘손흥민 월드콘.KBO몽쉘’ 축구.야구팬 다 잡자...롯데웰푸드, 스포츠마케팅 총력 foodtoday.or.kr."
     ],
     "chips": [
       "#손흥민",
       "#KBO"
-    ]
-  },
-  {
-    "id": "nbc27bc5a",
-    "category": "IT",
-    "source": "연합뉴스",
-    "time": "220일 전",
-    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5UNnlsSTY5eHFYNEZ6ZktBM216dFF6Q0J5Z1NVYm56M3A2TUFNMDM0U081NTNsZVNJTy1MWklmVGc0cEdLVk5NRHFiTWtHbmx2b2ItSkVEV1A2ZFnSAWBBVV95cUxOV3Z3V2F3aWJvV3dDNDc4OXpfRmpyaDgtaExGWC1ZTUxvX2M4ZVZPNC1rZHpQeUtSNXlIZjc0dHdGWTdfUXpJQXdac1lZU3Mza3NvdHVweFFNYXhmdDMyZWs?oc=5",
-    "title": "스타트업·벤처를 유니콘으로…전북도, '창업 천국' 구상 발표",
-    "summary": [
-      "스타트업·벤처를 유니콘으로…전북도, '창업 천국' 구상 발표 연합뉴스."
-    ],
-    "chips": [
-      "#스타트업"
     ]
   },
   {
@@ -309,316 +311,318 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n8c1ebd13",
+    "id": "nf400feca",
+    "category": "경제",
+    "source": "머니투데이",
+    "time": "1분 전",
+    "url": "https://www.mt.co.kr/industry/2026/10/04/2026100216132844893",
+    "title": "\"제네시스 사더니 신라호텔 자주 가던데\"..이유가 있었다[3S 라운지M]",
+    "summary": [
+      "③신라호텔 제네시스 라운지 기업의 브랜드 철학은 종종 제품·서비스가 아닌 '특별한 공간'에 더 진하게 스며들곤 한다.",
+      "머니투데이 산업부 기자들이 기업의 3S(Signature·Special·Secret) 현장을 찾아 그곳에 담긴 이야기(Story)를 들여다봤다.",
+      "서울 중구 신라호텔의 엘리베이터 5층 버튼은 매일 쉼 없이 눌린다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nf88d8ebb",
     "category": "사회",
     "source": "뉴시스",
-    "time": "14분 전",
-    "url": "https://www.newsis.com/view/NISX20261004_0003813763",
-    "title": "英검찰 \"이란인 2명, 맨체스터 유대교 회당 폭탄 공격 준비\"",
+    "time": "1분 전",
+    "url": "https://www.newsis.com/view/NISX20261003_0003813503",
+    "title": "\"코인 투자해 갚을게\" 연인 돈 뜯은 30대 항소심도 실형",
     "summary": [
-      "[서울=뉴시스] 신효령 기자 = 영국 검찰이 이란인 남성 2명이 맨체스터의 유대교 회당 등을 겨냥한 폭탄 공격을 준비했다고 밝혔다.",
-      "이란에 있는 것으로 추정되는 인물이 공격 계획을 지휘했다는 주장도 제기했다.",
-      "3일(현지시간) 영국 가디언, 타임오브이스라엘(TOI) 등 외신에 따르면 라흐만 살레히(34)와 살람 아흐마디안(36)은 이날 런던 웨스트민스터 치안법원에 출석했다."
+      "[전남광주=뉴시스]박기웅 기자 = \"코인 투자로 돈을 벌어 갚겠다\"며 연인에게 1억원이 넘는 돈을 뜯어낸 30대가 항소심에서도 실형을 선고받았다.",
+      "4일 법조계에 따르면 광주지법 형사2부(부장판사 김종석)는 사기·컴퓨터등사용사기 혐의로 기소된 A(30)씨의 항소심에서 징역 1년을 선고했다.",
+      "A씨는 1심에서도 징역 1년을 선고받았다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n2ed1f9d4",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "21분 전",
-    "url": "https://www.chosun.com/sports/sports_general/2026/10/04/MU3DQZRZG44WCZLEGVRGGMLFMY/",
-    "title": "'송다빈 없었으면 어쩔 뻔…' 노골드 위기 겨우 벗어난 태권도 종주국…금1·동4로 AG 마무리",
-    "summary": [
-      "[OSEN=서정환 기자] 한국 태권도가 송다빈(25, 울산광역시체육회)의 극적인 금메달로 가까스로 ‘노골드’ 수모를 피했다.송다빈은 3일 일본 아이치현 도요하시 종합체육관에서 열린 대회 태권도 겨루기 여자 +67kg급 결승에서 중국의 무원저를 라운드 점수 2-1(4-2, 4-10, 8-5)로 제압하고 금메달을 차지했다.이번 대회 한국 태권도는 종주국이라는."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n641fda42",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "21분 전",
-    "url": "https://www.chosun.com/jp/sports-jp/2026/10/04/ZTVD4DJBNNEMPCAHMOZF6YWXIQ/",
-    "title": "韓国テコンドー、金ゼロ免れる",
-    "summary": [
-      "[OSEN＝ソ・ジョンファン記者] 韓国テコンドーが、ソン・ダビン（25、蔚山広域市体育会）の劇的な金メダルで、かろうじて「ノーゴールド」の屈辱を免れた。ソン・ダビンは3日、日本の愛知県豊橋市総合体育館で行われた大会テコンドー組手女子＋67キロ級決勝で、中国の穆文哲をラウンドスコア2－1（4－2、4－10、8－5）で破り、金メダルを獲得した。今大会の韓国テコンドーは、宗主国という."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n2d202f6b",
+    "id": "n8331ef34",
     "category": "사회",
     "source": "뉴시스",
-    "time": "25분 전",
-    "url": "https://www.newsis.com/view/NISX20261002_0003812469",
-    "title": "\"건기식은 약 아니다\"…식약처장이 꼽은 '혹하는' 과장광고",
+    "time": "1분 전",
+    "url": "https://www.newsis.com/view/NISX20261002_0003812742",
+    "title": "이재용·앤 공주도 찾았다…영국 홀린 '이건희 컬렉션'",
     "summary": [
-      "[서울=뉴시스]김성은 인턴 기자 = 건강기능식품을 질병 치료제로 오인하거나 과장 광고에 현혹되면 치료 시기를 놓치고 건강까지 해칠 수 있다는 경고가 나왔다.",
-      "지난달 29일 구독자 수 61만명을 보유한 유튜브 채널 '김재원TV'에 출연한 오유경 식품의약품안전처 처장은 건강기능식품과 의약품의 차이를 강조하며 \"건강기능식품은 약이 아니라는 말씀을 명확하게 드리고 싶다\"고 말했다.",
-      "오 처장은 건강기능식품을 의약품처럼 생각해 치료가 필요한 시기에 복용하."
+      "[서울=뉴시스]한이재 기자 = 이재용 삼성전자 회장, 영국 왕실 앤 공주, 유홍준 국립중앙박물관장이 영국 런던에서 한 자리에 모였다.",
+      "국립중앙박물관은 국립현대미술관, 영국박물관과 함께 지난 1일(현지시각)부터 내년 1월31일까지 영국 런던 영국박물관에서 '한국: 2000년 창의의 여정'을 선보이고 있다.",
+      "고(故) 이건희 전 삼성전자 회장 기증품의 마지막 국외 순회전이다."
     ],
     "chips": [
-      "#의료"
+      "#삼성전자"
     ]
   },
   {
-    "id": "nce832a47",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "29분 전",
-    "url": "https://www.chosun.com/sports/football/2026/10/04/ME2TONBXHA3TQMZTHBTDOMJYGY/",
-    "title": "\"감독님이 경기 전 '한 건 할 것 같다' 하셨는데\" 최악의 부진 씻은 '천금 어시스트' 양민혁 \"'군필' 형들 군대 얘기, 큰 자극됐어\"",
-    "summary": [
-      "[도요타=스포츠조선 박찬준 기자]\"감독님이랑 형들이 '너가 한건 할 것 같다'고 했는데, 진짜 이루어졌네요.\" '초신성' 양민혁의 미소였다.",
-      "대한민국이 아시안게임 4연패를 이뤄냈다.",
-      "대한민국 축구 아시안게임대표팀은 3일 오후 7시30분 일본 아이치현 도요타 스타디움에서 열린 일본과의 2026년 아이치-나고야 아시안게임 결승전에서 후반 15분 터진 엄지성의."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n71c5be66",
+    "id": "n5dca6af3",
     "category": "사회",
     "source": "뉴시스",
-    "time": "35분 전",
-    "url": "https://www.newsis.com/view/NISX20261002_0003812855",
-    "title": "밈코인 많이 사면 트럼프와 저녁을?…'상위 185명' 내달 만찬 초청",
+    "time": "1분 전",
+    "url": "https://www.newsis.com/view/NISX20260929_0003806649",
+    "title": "\"복지국가 스웨덴이 어쩌다\"…총격·폭발에 갱단 범죄 몸살",
     "summary": [
-      "[서울=뉴시스]이지영 기자 = 도널드 트럼프 미국 대통령의 공식 밈코인 오피셜트럼프(TRUMP) 보유자를 대상으로 한 만찬 행사가 다음 달 열린다.",
-      "2일(현지시간) CNN에 따르면 오피셜트럼프 보유자 대상 만찬이 다음 달 22일 워싱턴D.C에 있는 트럼프 대통령 프라이빗 클럽에서 열릴 예정이다.",
-      "참석 대상은 오피셜트럼프 코인 보유량 기준 상위 185명이다."
+      "[서울=뉴시스]허준희 인턴 기자 = 복지국가로 알려진 스웨덴에서 총격과 폭발 등 범죄가 사회 문제로 떠오르면서 이민정책이 정치권의 주요 쟁점으로 자리 잡았다는 분석이 나왔다.",
+      "김지윤 정치학 박사는 구독자 139만명을 보유한 유튜브 채널 '김지윤의 지식Play'에 '복지 천국 스웨덴은 어쩌다 범죄의 천국이 되었을까 | 스웨덴, 총선, 이민'이라는 제목의 콘텐츠를 최근 게시했다.",
+      "김 박사는 영상에서 스웨덴의 총격 범죄가 한때 심각한 수준에 이르렀다."
     ],
     "chips": [
+      "#정책",
       "#정치"
     ]
   },
   {
-    "id": "n1083640c",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "37분 전",
-    "url": "https://www.newsis.com/view/NISX20261004_0003813762",
-    "title": "트럼프 이긴 5개 주서 민주 약진…美공화 상원 수성 '비상'",
-    "summary": [
-      "[서울=뉴시스] 신효령 기자 = 미국 중간선거를 한 달 앞두고 공화당 강세 지역에서도 민주당 상원의원 후보들이 선전한 것으로 나타났다.",
-      "텍사스와 알래스카에서는 민주당 후보가 앞섰고, 오하이오와 아이오와, 캔자스에서도 접전이 나타났다.",
-      "3일(현지시간) 뉴욕타임스(NYT)와 시에나대가 공개한 여론조사에 따르면 텍사스에서 민주당 제임스 탈라리코는 51%로 공화당 켄 팩스턴(45%)을 6%포인트 앞섰다."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "nea3502e8",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "38분 전",
-    "url": "https://www.chosun.com/sports/sports_general/2026/10/04/GNTDEMJXMQ2WGYRZGJSDQOLBGQ/",
-    "title": "'일본 열도 경악' 日 에이스, 북한에 0-10 굴욕 대충격…10년 이어온 155연승 박살→레슬링 대표 \"억울하다\"",
-    "summary": [
-      "[스포츠조선 김가을 기자]일본 여자 레슬링 '에이스'가 무너졌다.",
-      "후지나미 아카리는 3일 일본 나고야의 나고야 스포츠센터에서 열린 손일심(북한)과의 2026년 아이치-나고야 아시안게임 여자 레슬링 57kg급 준결승에서 0대10(0-6, 0-4)으로 완패했다.",
-      "일본 열도는 충격에 빠졌다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nbb355460",
+    "id": "n6c8ad3ca",
     "category": "사회",
     "source": "연합뉴스",
-    "time": "54분 전",
-    "url": "https://www.yna.co.kr/view/AKR20261004001500082",
-    "title": "라트비아 총선서 '반러' 집권당 압승 예측",
+    "time": "4분 전",
+    "url": "https://www.yna.co.kr/view/AKR20261002112100065",
+    "title": "'인천공항 관리도로 사고 제로화'…150㎞구간 교통안전시설 점검",
     "summary": [
-      "(베를린=연합뉴스) 김계연 특파원 = 3일(현지시간) 치러진 라트비아 총선에서 안드리스 쿨베르그스 총리가 속한 집권 통합목록(AS)이 압승을 거..."
+      "(인천=연합뉴스) 김상연 기자 = 인천국제공항공사가 인천공항 확장과 함께 변화한 도로 환경에 맞춰 교통안전시설을 전수 점검한다."
+    ],
+    "chips": [
+      "#환경"
+    ]
+  },
+  {
+    "id": "n169fee8e",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "5분 전",
+    "url": "https://www.yna.co.kr/view/AKR20261004005500007",
+    "title": "'케인·사카 멀티골' 잉글랜드, 크로아티아 7-0 대파",
+    "summary": [
+      "(서울=연합뉴스) 안홍석 기자 = 잉글랜드가 해리 케인과 부카요 사카의 멀티골을 앞세워 크로아티아를 7-0으로 대파했다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n666f1f2a",
-    "category": "스포츠",
+    "id": "nac37ca64",
+    "category": "경제",
     "source": "머니투데이",
-    "time": "1시간 전",
-    "url": "https://www.mt.co.kr/sports/2026/10/04/2026100312095534295",
-    "title": "KIA 신의 한 수 나왔다 \"3연투도 불사\" 사령탑 'LG 겨냥 승부수' 통했다",
+    "time": "6분 전",
+    "url": "https://www.mt.co.kr/culture/2026/10/04/2026100319464767479",
+    "title": "김주형 AG 金에 美 골프계가 더 난리! \"PGA 투어 커리어 지켜냈다\" [아이치 나고야 AG]",
     "summary": [
-      "KIA 타이거즈가 이번 LG 트윈스와 3연전 중 첫 경기를 가져갔다.",
-      "사령탑은 경기 전 마무리 투수를 특정하지 않았는데, 이게 신의 한 수가 되는 모양새다.",
-      "KIA는 3일 서울 잠실야구장에서 펼쳐진 LG와 2026 신한 SOL KBO 리그 정규시즌 원정 경기에서 5-4로 승리했다."
+      "김주형(24·나이키골프)이 아시안게임 정상에 오르며 병역 특례 혜택을 확정 짓자, 국내를 넘어 미국 현지 골프계가 더 뜨겁게 들썩이고 있다.",
+      "세계 최고 무대인 미국프로골프(PGA) 투어에서 활약 중인 핵심 스타의 '경력 단절' 위기가 완벽하게 해소됐기 때문이다.",
+      "김주형은 3일 일본 아이치현 가스가이 컨트리클럽 동 코스(파70)에서 열린 2026 아이치·나고야 아시안게임 남자 골프 개인전 최종 4라운드에서 이글 1개, 버디 5개, 보기 1개를 묶."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n25968bba",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "9분 전",
+    "url": "https://www.yna.co.kr/view/AKR20261004005000504",
+    "title": "[북한날씨] 전 지역 대체로 흐림…\"함경북도 일부 폭우 경보\"",
+    "summary": [
+      "(서울=연합뉴스) 이은정 기자 = 북한은 4일 전 지역이 대체로 흐리겠다고 기상청이 예보했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n38e4f0a7",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "9분 전",
+    "url": "https://www.chosun.com/jp/culture-life-jp/2026/10/04/Y3XHJSWNSBHC5J36Z4TE2XYDZA/",
+    "title": "ブルース・ウィリス近況、妻「永遠の伝説」",
+    "summary": [
+      "【OSEN＝チェ・イジョン記者】 【OSEN＝チェ・イジョン記者】前頭側頭型認知症（FTD）で闘病中のハリウッド俳優ブルース・ウィリス（71）の近況とともに、妻エマ・ヘミング・ウィリス（50）の心からの告白が感動を呼んでいる。エマ・ヘミング・ウィリスは最近、「世界前頭側頭型認知症啓発週間」に合わせ、自身のSNSにブルース・ウィリスの貴重な写真とともに長文を掲載した."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nfc2b40d0",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "9분 전",
+    "url": "https://www.chosun.com/entertainments/enter_general/2026/10/04/HAZTKMRRMVSTAYRSGMYGMYTBGU/",
+    "title": "'치매 실어증' 브루스 윌리스, 3년 만에 전한 근황…아내 \"영원한 전설\" 뭉클 [Oh!llywood]",
+    "summary": [
+      "[OSEN=최이정 기자] [OSEN=최이정 기자] 전두측두엽 치매(FTD) 투병 중인 할리우드 배우 브루스 윌리스(71)의 근황과 함께, 그를 향한 아내 엠마 헤밍 윌리스(50)의 진심 어린 고백이 감동을 자아내고 있다.엠마 헤밍 윌리스는 최근 '세계 전두측두엽 치매 인식 주간'을 맞아 자신의 SNS에 브루스 윌리스의 희귀 사진과 함께 장문의 글을 게재했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n8dd393d4",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "10분 전",
+    "url": "https://www.chosun.com/sports/baseball/2026/10/04/GZSWCNBQHA4DMOBUGJRTAZTEG4/",
+    "title": "'삼성 떨고 있나' 1위팀 에이스 파격 선언! 완봉승→3일 휴식→삼성전 불펜 자청하다 “우승만 할 수 있다면 다승왕 쯤이야...”",
+    "summary": [
+      "[OSEN=수원, 이후광 기자] 이래서 KT 위즈가 107억 원이라는 거액을 투자했나보다.",
+      "팀퍼스트 정신으로 무장한 고영표가 다승왕 경쟁을 잠시 내려놓고 우승을 위해 완봉승 뒤 3일 휴식을 불사하겠다는 비장한 각오를 밝혔다.",
+      "고영표는 지난 3일 수원KT위즈파크에서 열린 2026 신한 SOL KBO리그 롯데 자이언츠와의 시즌 14번째 맞대결에 선발 등판해 9."
     ],
     "chips": [
       "#KBO"
     ]
   },
   {
-    "id": "n4f2bfc4d",
+    "id": "nda3a77ad",
     "category": "사회",
     "source": "연합뉴스",
-    "time": "1시간 전",
-    "url": "https://www.yna.co.kr/view/AKR20261004001300071",
-    "title": "텍사스·알래스카·오하이오서 민주당 약진…美공화 텃밭 '흔들'",
+    "time": "14분 전",
+    "url": "https://www.yna.co.kr/view/AKR20261002123500065",
+    "title": "청라하늘대교 통행량 1천만대 돌파…손실보상금 '눈덩이' 우려",
     "summary": [
-      "(워싱턴=연합뉴스) 이유미 특파원 = 미국 중간선거가 한 달 앞으로 다가온 가운데 민주당이 공화당의 전통적인 강세 지역에서도 선전하면서 상원 다..."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n365e2897",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "1시간 전",
-    "url": "https://www.yna.co.kr/view/AKR20261004001100075",
-    "title": "'디거' 개봉 첫 주말 흥행 참패…톰 크루즈 영화 중 19년래 최저",
-    "summary": [
-      "(로스앤젤레스=연합뉴스) 김경윤 특파원 = 할리우드 유명 배우 톰 크루즈가 연기 변신을 꾀한 영화 '디거'가 개봉 첫 주말부터 부진한 성적을 내..."
+      "(인천=연합뉴스) 홍현기 기자 = 인천국제공항을 품은 영종도와 내륙을 잇는 세 번째 교량인 청라하늘대교의 통행량이 개통 8개월 만에 1천만대를 ..."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "nbfa9e400",
+    "id": "ndd805c05",
+    "category": "경제",
+    "source": "머니투데이",
+    "time": "16분 전",
+    "url": "https://www.mt.co.kr/entertainment/2026/10/04/2026100407045612167",
+    "title": "\"형님\"...기안84, 톰 크루즈와 뜻밖의 투삿",
+    "summary": [
+      "웹툰작가 겸 방송인 기안84가 할리우드 배우 톰 크루즈와 만났다.",
+      "지난 3일 기안84의 인스타그램에는 \"건강하세요 형님\"이라는 글과 함께 두 장의 사진이 게재됐다.",
+      "사진에는 톰 크루즈를 만난 기안84의 모습이 담겼다."
+    ],
+    "chips": [
+      "#의료"
+    ]
+  },
+  {
+    "id": "n208ebc76",
+    "category": "경제",
+    "source": "연합뉴스(경제)",
+    "time": "20분 전",
+    "url": "https://www.yna.co.kr/view/AKR20261002157900003",
+    "title": "싱크홀 예방 지반탐사 지원, 전국 수요 절반도 못 채워",
+    "summary": [
+      "(서울=연합뉴스) 오예진 기자 = 국토교통부의 내년도 싱크홀 예방 지반탐사 지원사업이 전국 수요의 절반도 충족하지 못하는 것으로 나타났다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n8041add0",
+    "category": "경제",
+    "source": "연합뉴스(경제)",
+    "time": "21분 전",
+    "url": "https://www.yna.co.kr/view/AKR20261002175300030",
+    "title": "가공식품 26개 중 24개 1년 새 가격 상승…국·탕·컵밥 올라",
+    "summary": [
+      "(서울=연합뉴스) 조민정 기자 = 가공식품 가격이 전반적으로 오름세를 보이면서 소비자들의 장바구니 부담이 커지고 있다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n74ddd40b",
+    "category": "IT",
+    "source": "머니투데이",
+    "time": "26분 전",
+    "url": "https://www.mt.co.kr/industry/2026/10/04/2026100213544786348",
+    "title": "메모리값 뛰자 '싼 TV'가 더 부담…삼성·LG 프리미엄 경쟁력 부각",
+    "summary": [
+      "글로벌 TV 출하량 역성장에도 프리미엄은 9.3%↑…고가 제품 확대·비용 효율화로 원가 부담 대응 올해 글로벌 TV 출하량이 역성장할 것으로 예상되는 가운데 프리미엄 TV 출하량은 성장세를 이어갈 전망이다.",
+      "메모리 반도체(이하 메모리) 가격 상승으로 원가 부담이 커지면서 제조사들이 프리미엄 제품 판매 확대에 나서고 있어서다.",
+      "고가 제품 비중이 높은 삼성전자와 LG전자는 상대적으로 원가 상승에 대응할 여력이 크다는 분석이 나온다."
+    ],
+    "chips": [
+      "#반도체",
+      "#삼성전자"
+    ]
+  },
+  {
+    "id": "n8c60678b",
+    "category": "경제",
+    "source": "아시아경제",
+    "time": "28분 전",
+    "url": "https://view.asiae.co.kr/article/2026100213251908341",
+    "title": "\"예쁜 사람이 간도 크네\"…돈 걸고 선택하게 했더니 뜻밖의 '외모 효과'[실험노트]",
+    "summary": [
+      "주가가 급락하는 날, 매도 버튼 앞에서 손가락이 망설여집니다.",
+      "'더 떨어지기 전에 팔자'고 생각하는 사람이 있는가 하면, 같은 화면을 보면서도 '지금이 기회'라며 돈을 더 넣는 사람도 있습니다.",
+      "위험 앞에서 내리는 선택은 사람마다 다릅니다."
+    ],
+    "chips": [
+      "#교육"
+    ]
+  },
+  {
+    "id": "n3cb82e77",
     "category": "부동산",
-    "source": "연합뉴스",
-    "time": "2시간 전",
-    "url": "https://www.yna.co.kr/view/AKR20261004001000082",
-    "title": "스페인 주택난 항의 시위 확산…마드리드에 7만 집결",
+    "source": "연합뉴스(경제)",
+    "time": "28분 전",
+    "url": "https://www.yna.co.kr/view/AKR20261004004000003",
+    "title": "민간아파트 부정청약 적발 5년간 1천699건…83%가 위장전입",
     "summary": [
-      "(베를린=연합뉴스) 김계연 특파원 = 스페인에서 87세 노인 강제 퇴거 사건으로 촉발된 주택난 항의 시위가 날로 확산하고 있다."
+      "(서울=연합뉴스) 임기창 기자 = 최근 5년간 전국 민간아파트 분양 현장에서 1천700건 가까운 부정청약이 적발된 것으로 나타났다."
     ],
     "chips": [
-      "#뉴스"
+      "#부동산"
     ]
   },
   {
-    "id": "n26923e6a",
-    "category": "스포츠",
-    "source": "머니투데이",
-    "time": "3시간 전",
-    "url": "https://www.mt.co.kr/sports/2026/10/04/2026100400405729596",
-    "title": "\"목 조르기까지 나온 혈투\" 中-우즈벡과 승부차기 난타전→중국 3위, 28년 만에 '축구 메달' [아이치 나고야 AG]",
-    "summary": [
-      "중국 남자축구가 우즈베키스탄과 거친 혈투 끝에 28년 만의 아시안게임 메달을 손에 넣었다.",
-      "중국 남자축구 아시안게임 대표팀은 3일 일본 도요타 스타디움에서 열린 2026 아이치·나고야 아시안게임 남자축구 3·4위전에서 우즈베키스탄과 정규시간 2-2로 비긴 뒤 승부차기에서 4-3으로 승리했다.",
-      "이로써 중국은 1998 방콕 대회 이후 무려 28년 만에 아시안게임 남자축구 메달을 획득했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n3200b4e6",
+    "id": "n484d684e",
     "category": "경제",
-    "source": "머니투데이",
-    "time": "3시간 전",
-    "url": "https://www.mt.co.kr/entertainment/2026/10/04/2026100322484039478",
-    "title": "'올데프' 타잔, 팬티 4겹 새깅 패션 후회 \"이래서 말렸나 싶어\"",
+    "source": "연합뉴스(경제)",
+    "time": "29분 전",
+    "url": "https://www.yna.co.kr/view/AKR20261001144900053",
+    "title": "'세계경주포럼' 8∼9일 개최…경주를 '문화의 다보스'로 키운다",
     "summary": [
-      "올데이프로젝트 타잔이 과거 화제를 모았던 새깅 패션을 언급하며 후회 섞인 반응을 보였다.",
-      "타잔은 팬티 4겹을 겹쳐 입는 파격 스타일에 이어 문고리를 벨트처럼 달고 다녔던 과거를 떠올리며 왜 주변 사람들이 말렸는지 알 것 같다고 털어놔 웃음을 안겼다.",
-      "3일 방영된 MBC '전지적 참견 시점' 418회에서는 올데이프로젝트 타잔이 출연해 일상을 공개했다."
+      "(안동=연합뉴스) 이승형 기자 = 지난해 경주 아시아태평양경제협력체(APEC) 정상회의에서 논의된 문화창조산업과 국제협력의 성과를 이어갈 '세계..."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "ne1b2eefa",
-    "category": "스포츠",
-    "source": "머니투데이",
-    "time": "3시간 전",
-    "url": "https://www.mt.co.kr/sports/2026/10/04/2026100317451377391",
-    "title": "\"피가 철철 흘러도 놀랍지 않았을 것\"... '당장 영구 제명하라' 비겁한 반칙패→자국 여론마저 '싸늘' [아이치 나고야 AG]",
-    "summary": [
-      "상대의 팔을 20초 넘게 물어뜯는 전대미문의 반칙으로 실격당한 중국 유도 선수가 여전히 묵묵부답으로 일관하며 공분을 키우고 있다.",
-      "피해 선수의 지도자는 피가 철철 흐를 뻔했다며 참담했던 당시 상황을 폭로했다.",
-      "일본 매체 '더 다이제스트'는 3일 \"2026 아이치·나고야 아시안게임 유도 여자 70kg급 8강전에서 마에다 린의(일본) 팔을 물어뜯은 탕징(중국)이 자국 내에서도 거센 비판을 받고 있다\"며 \"사태의 심각성에도 불구하고 탕징과 중국 대표."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nc3680384",
+    "id": "n81178673",
     "category": "사회",
-    "source": "동아일보",
-    "time": "4시간 전",
-    "url": "https://www.donga.com/news/Culture/article/all/20261004/134780845/1",
-    "title": "영국 생활 시작 장윤주 “3년 고민…남편 꿈에서 시작”",
+    "source": "뉴시스",
+    "time": "30분 전",
+    "url": "https://www.newsis.com/view/NISX20261002_0003812084",
+    "title": "\"리뉴얼 했어요\"…감기약 '래피콜 파워 연질캡슐'",
     "summary": [
-      "모델 겸 배우 장윤주가 고민 끝에 가족과 함께 영국 생활을 시작했다고 했다.장윤주는 3일 자신의 유튜브 채널에서 영국에 오게 된 과정과 새로운 삶에 대한 얘기를 했다.장윤주는 이번 영국행이 남편의 오랜 꿈에서 시작했다고 했다.그는 “약 3년 전 남편이 다시 공부하고 싶다고 했다.",
-      "그때부터 시작됐다”고 말했다.남편이 디자인을 좀 더 본격적으로 공부하고 싶다는 뜻을 보였고 장윤주는 그 선택을 지지했다는 것이었다.장윤주는 기대만큼이나 불안이 컸다고."
+      "[서울=뉴시스]황재희 기자 = 유한양행이 아세트아미노펜을 증량한 일반감기약을 리뉴얼해 출시했다.",
+      "유한양행은 일반의약품 감기약 '래피콜 연질캡슐' 라인을 리뉴얼한 '래피콜 파워 연질캡슐' 3종을 출시했다고 4일 밝혔다.",
+      "기존 래피콜 콜드를 리뉴얼한 종합감기약 '래피콜 파워 콜드', 래피콜 코프플러스를 리뉴얼한 목감기약 '래피콜 파워 코프', 래피콜 노즈를 리뉴얼한 코감기약 '래피콜 파워 노즈' 등 3종이다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n14a38a42",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "4시간 전",
-    "url": "https://www.donga.com/news/Culture/article/all/20261004/134780842/1",
-    "title": "휴지통 하나가 130만원…야노시호, 日 상위 1% 지인 별장 공개",
-    "summary": [
-      "일본 톱모델 겸 방송인 야노 시호가 일본 상류층 지인의 가루이자와 별장을 공개했다.야노 시호는 2일 자신의 유튜브 채널에 ‘일본 상류층이 모여사는 별장 대공개’라는 제목의 영상을 올렸다.",
-      "해당 별장의 주인은 앞서 야노 시호의 콘텐츠를 통해 300억 원대 도쿄 저택을 공개했던 26년 지기 주얼리 브랜드 대표다.일본의 대표적 고급 휴양지인 나가노현 가루이자와 숲속에 위치한 이 2층 규모 별장은 사계절 풍경을 실내로 들이는 통창 구조와 원목 인테리어."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n05ec2228",
+    "id": "n18b5d485",
     "category": "경제",
-    "source": "한국경제",
-    "time": "4시간 전",
-    "url": "https://www.hankyung.com/article/2026092166967",
-    "title": "[오늘의 운세] 2026년 10월 4일 별자리 운세",
+    "source": "아시아경제",
+    "time": "31분 전",
+    "url": "https://view.asiae.co.kr/article/2026100201131046847",
+    "title": "②35~40초마다 한 대씩…15기 위성 '정밀 분리' 도전[누리호, 발사를 넘어]",
     "summary": [
-      "[오늘의 운세] 2026년 10월 4일 별자리 운세."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n699bc2df",
-    "category": "경제",
-    "source": "한국경제",
-    "time": "4시간 전",
-    "url": "https://www.hankyung.com/article/2026092167757",
-    "title": "[오늘의 운세] 2026년 10월 4일 오행별 행운의 컬러",
-    "summary": [
-      "[오늘의 운세] 2026년 10월 4일 오행별 행운의 컬러."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n8d4abcc2",
-    "category": "경제",
-    "source": "한국경제",
-    "time": "4시간 전",
-    "url": "https://www.hankyung.com/article/2026092167417",
-    "title": "[오늘의 운세] 10월 4일 띠별 운세",
-    "summary": [
-      "[오늘의 운세] 10월 4일 띠별 운세."
+      "편집자주한국형발사체 누리호가 오는 7일 다섯 번째 우주 비행에 나선다.",
+      "네 차례 발사를 거치며 비행 성능을 입증한 누리호는 이번 5차 발사에서 한 단계 더 복잡한 임무에 도전한다.",
+      "15기의 위성을 한꺼번에 싣고 우주로 향하고, 민간의 역할은 더 커졌으며, 발사를 둘러싼 안전 기준도 한층 촘촘해졌다."
     ],
     "chips": [
       "#뉴스"
@@ -631,20 +635,20 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2980건",
-    "trend": "+355%"
+    "mentions": "2590건",
+    "trend": "+295%"
   },
   {
     "rank": 2,
     "tag": "반도체",
-    "mentions": "1550건",
-    "trend": "+135%"
+    "mentions": "1680건",
+    "trend": "+155%"
   },
   {
     "rank": 3,
-    "tag": "AI",
-    "mentions": "1420건",
-    "trend": "+115%"
+    "tag": "삼성전자",
+    "mentions": "1550건",
+    "trend": "+135%"
   }
 ];
 // ====AUTO-GENERATED-END====
