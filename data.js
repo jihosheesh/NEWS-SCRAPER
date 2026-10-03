@@ -1,15 +1,15 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-10-03 01:33:07
+// 마지막 업데이트: 2026-10-03 07:16:08
 window.NEWS_DB = [
   {
     "id": "n7a94fb55",
     "category": "IT",
-    "source": "조선일보",
-    "time": "23시간 전",
+    "source": "chosun.com",
+    "time": "1일 전",
     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNLU9nVFpCejNyT3lrQWtlTlQ2OVNvZzVkUVZxSHV0X29xZGJMR3JuQ2Q4WmFrOVJyYjVId0dvdG1VWDZ2SlYtTnRqUUtLbU1nYTRjQWI3NENpZ3pyN1VCNUcySTRDUlcyYzM3QnZ6T0dyUzRpR3dXanhaZXQ5NUdRdGF3NA?oc=5",
     "title": "\"돈빌려줄테니 우리 AI칩 써\" 엔비디아 700조이어 브로드컴도 59조 대출 약정",
     "summary": [
-      "\"돈빌려줄테니 우리 AI칩 써\" 엔비디아 700조이어 브로드컴도 59조 대출 약정 조선일보."
+      "\"돈빌려줄테니 우리 AI칩 써\" 엔비디아 700조이어 브로드컴도 59조 대출 약정 chosun.com."
     ],
     "chips": [
       "#AI",
@@ -63,12 +63,12 @@ window.NEWS_DB = [
   {
     "id": "n9e9b447d",
     "category": "IT",
-    "source": "비즈니스포스트",
-    "time": "3일 전",
+    "source": "businesspost.co.kr",
+    "time": "4일 전",
     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBzY1daY3hralhrOTJwTGpfbTRyRThmVmhEOWdOQ1Fkdm8xRTNRLVpoRFFnZGdZR1JLenlrS3Rmd0MyV3ozLUxHbUw0RjJoLXRSNHVZbDFzWm5MRDNWTTlHTC0wdTZvdGNmMjUzQS1fUDFfd1k?oc=5",
     "title": "엔비디아 'AI 반도체 담보대출' 사업모델 확대 총력, 보험사 끌어들여 리스크 분산 추진",
     "summary": [
-      "엔비디아 'AI 반도체 담보대출' 사업모델 확대 총력, 보험사 끌어들여 리스크 분산 추진 비즈니스포스트."
+      "엔비디아 'AI 반도체 담보대출' 사업모델 확대 총력, 보험사 끌어들여 리스크 분산 추진 businesspost.co.kr."
     ],
     "chips": [
       "#AI",
@@ -80,7 +80,7 @@ window.NEWS_DB = [
     "id": "nb16c3b86",
     "category": "사회",
     "source": "한국경제",
-    "time": "3일 전",
+    "time": "4일 전",
     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9WRTVrbjVJTjdrdkI0WVZYc2RzdHdzRXZWT2daLVRRWkxKaDd6RmpOb2xlQlBiX2lLY2VaRjF2c25SbmlMN0s1RkNDYW9pSmlndlpkLW9BUldwQQ?oc=5",
     "title": "\"경력직만 뽑고 AI가 일자리 대체\"…청년 구직자 '취업 한파' 체감",
     "summary": [
@@ -96,7 +96,7 @@ window.NEWS_DB = [
     "id": "nb961be55",
     "category": "사회",
     "source": "뉴스에이",
-    "time": "3일 전",
+    "time": "4일 전",
     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBnbk52bjRSUG5KT2duOTk1c1NjQlFsQW96N2hxc09wVk9pTEZ2eUVudUJTemM5b2NTSTJhb0ZqYWw2V0xoVVp2empWWllzRW02WVVxVHZoVjlzQ3ZfRHBWVjVWc3pxX29mYWc?oc=5",
     "title": "영등포구, ‘천하제일 취업박람회’ 개최… “최고의 일자리를 ‘JOB’자!”",
     "summary": [
@@ -124,6 +124,20 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n6437e9c6",
+    "category": "부동산",
+    "source": "뉴스투데이",
+    "time": "4일 전",
+    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5XV1l2ek85Vl9kOFJOazhqcDg5UTd6cjBrWE95Tlp1XzVTOHZHLUxlQWppWk4zbDJVT1FoakJKcHhQbUJGMnNFYk83cy1WYVZOdFVwMHNaWjQwSFNLblE?oc=5",
+    "title": "[N2 포커스] 가을 분양·입주 쏟아지는 수도권…지방은 물량 반토막·집값 약세",
+    "summary": [
+      "[N2 포커스] 가을 분양·입주 쏟아지는 수도권…지방은 물량 반토막·집값 약세 뉴스투데이."
+    ],
+    "chips": [
+      "#부동산"
+    ]
+  },
+  {
     "id": "n34489cb8",
     "category": "경제",
     "source": "지이코노미",
@@ -140,12 +154,12 @@ window.NEWS_DB = [
   {
     "id": "n1ef99b44",
     "category": "부동산",
-    "source": "뉴스핌",
+    "source": "newspim.com",
     "time": "10일 전",
     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1IV21uRGdUbmQ3dG9fejNFV19PMUdQeEZ4R1FnM1B0NUNGN1NITm8tbU04MWg2MlNkdlJpMzhOeHd2anhpdlJVcmFia2FVcnlrLVl3YUxTVE82YVJD?oc=5",
     "title": "서울 집값 상승세 외곽으로 번졌다…노원 한 달 새 1.68%↑",
     "summary": [
-      "서울 집값 상승세 외곽으로 번졌다…노원 한 달 새 1.68%↑ 뉴스핌."
+      "서울 집값 상승세 외곽으로 번졌다…노원 한 달 새 1.68%↑ newspim.com."
     ],
     "chips": [
       "#부동산"
@@ -155,7 +169,7 @@ window.NEWS_DB = [
     "id": "na6d22b09",
     "category": "스포츠",
     "source": "경기일보",
-    "time": "10일 전",
+    "time": "11일 전",
     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE11U1hseFNuTzV6YUoyOWxkOURqZjlTV1FEWEo1S09LazhsM2FnNTRLQk4zWjVETkZXLXphOHRxMldQazEzMVhJN2RLV3p5MUphUThhYmZvOE41R1U?oc=5",
     "title": "추석 연휴, 프로야구·축구 현장도 열기 ‘팔팔’",
     "summary": [
@@ -169,7 +183,7 @@ window.NEWS_DB = [
     "id": "n3bf091c2",
     "category": "스포츠",
     "source": "한국경제",
-    "time": "11일 전",
+    "time": "12일 전",
     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9nY3BENG1heVF4amFVRDZ5M0Q3V09uYWZTRmZEZlcxZTJzc08zU2RBM3BRSEh6aTZPVDR2blc0YjZrNUhnMHNDUVN0M0pKMTBDVWxlUWhtZ1Zudw?oc=5",
     "title": "\"손흥민 533만원·페이커 1100만원\"…해외선 없어서 못 산다",
     "summary": [
@@ -182,13 +196,13 @@ window.NEWS_DB = [
   {
     "id": "nfd541720",
     "category": "경제",
-    "source": "조선일보",
-    "time": "15일 전",
+    "source": "chosun.com",
+    "time": "16일 전",
     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPX19hUk9LSUdFUFZxd1QxNVFVNXJOa3pzZ1F0WXkxQWlFc09IM25Pd1lPcE1DSk5RcnFRZ25WeUlycW1IWDdUYjF5TUFRREpLRUlJNlB5cEhVUjZ6amMzR0ZaOFhPQjk1ZDRVS1A5dm5BMVdfbm9wYU80ODE0bXAydHdZTGJEMVdy?oc=5",
     "title": "美 기준금리 4% 시대... 대출·투자 어떻게 하나",
     "summary": [
       "美 기준금리 4% 시대...",
-      "대출·투자 어떻게 하나 조선일보."
+      "대출·투자 어떻게 하나 chosun.com."
     ],
     "chips": [
       "#금리"
@@ -198,7 +212,7 @@ window.NEWS_DB = [
     "id": "n93c2ed2f",
     "category": "IT",
     "source": "경북매일",
-    "time": "17일 전",
+    "time": "18일 전",
     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5xWGQzcWdTT2JoUFptNVhrN2RETlFyQi1BcU9meDlrYmlYenE1U0J2VmgyRk05SnJjMXFsNXRyNzZ6ZUJjLUNZdmFRVU9HcEVsNS1qdGdIOGxsZw?oc=5",
     "title": "대구경북 스타트업 한자리에…추경호 시장 “지역서 유니콘 키운다”",
     "summary": [
@@ -212,7 +226,7 @@ window.NEWS_DB = [
     "id": "n1b86d5ce",
     "category": "부동산",
     "source": "한국주택경제신문",
-    "time": "22일 전",
+    "time": "23일 전",
     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1OZzh5T2VHNnBWYWlYeDRuaHBfRDBreHNNdlhfNXVwRy0tWVE4Q0VHSDRuUjc0VVQ3WnFLMk1kTHc4QlpGb3VvN3N4T3dRRnZQd3o1akRjZFl0NGhxNEpDeTlKS0xxV0Yx?oc=5",
     "title": "강남 꺾이고 강북 뛰었다…역세권·중저가 대단지가 집값 견인",
     "summary": [
@@ -226,7 +240,7 @@ window.NEWS_DB = [
     "id": "n657e0140",
     "category": "경제",
     "source": "연합뉴스TV",
-    "time": "36일 전",
+    "time": "37일 전",
     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1rdGZhcGJlUmFqWjByaGFpZG1TZHEtUnpFbjM5NF9QdzlWOXliTW0tX0ZYa0pEQXdHbUt3S3pPYVNzUGJJZEtqZHotSHZDVTVFTTlNaW1UZUstNjFGTEt2Rk1hWmZ5MjA?oc=5",
     "title": "7,000선 넘보던 코스피…금리 인상에 상승폭 축소",
     "summary": [
@@ -239,12 +253,12 @@ window.NEWS_DB = [
   {
     "id": "nac7d261c",
     "category": "사회",
-    "source": "yna.co.kr",
-    "time": "63일 전",
+    "source": "연합뉴스",
+    "time": "64일 전",
     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1wZmd4RTNaSTBwNVNxSm0yRGFySTlYN19qVTZfYzRtVzBzVV9nSnR3RXdYaTNiNkZRX3F6aXhFZTA5ekUxNW9VWHIzZHFjYnoyWU0wVDNoU2FJcVE?oc=5",
     "title": "강남구 일자리통합지원센터, 맞춤형 지원으로 취업자 25.7％ 증가",
     "summary": [
-      "강남구 일자리통합지원센터, 맞춤형 지원으로 취업자 25.7％ 증가 yna.co.kr."
+      "강남구 일자리통합지원센터, 맞춤형 지원으로 취업자 25.7％ 증가 연합뉴스."
     ],
     "chips": [
       "#취업",
@@ -255,7 +269,7 @@ window.NEWS_DB = [
     "id": "n207a7abe",
     "category": "IT",
     "source": "biz.chosun.com",
-    "time": "101일 전",
+    "time": "102일 전",
     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPUGdtbi01TkVMYXphY1VqbF9xRzB3TkVUbWtrM2NhN2d1NmpvS29NLTY5UWFtbFNrangxUlRnQUpxOW9rSEZwWVZuWU42aUdIU1FUUlhnQ0NLbjBXdlNpQ2labGU1cUt3WVZ3NEhVVmtJNjJlc3lUalByb0tqZDBucVJleGVLUFpaanFZX3RLZWvSAaQBQVVfeXFMTXFmYjM1dzZaM0d5QjZZQXJIb0VnanMzR29JcWlBQVZreFhGVVZlRmd4c2xoejc0ajVvdDhkUVo5ZWJ5bWlyVlZSUzlveG9EamJZblA5VDkwRG16QW1hRW1Qel9mTHRfdWI3MHhvbTJfd3ZoRTNIb3dVbjByNmI5T3llUUt2ZlZjVmEwQlV4M0FvMTRVT0JYaG4zNDZ6Rkw1LVVodlA?oc=5",
     "title": "중기부, 2030년까지 ‘유니콘’ 50개 육성 나선다 - 조선비즈",
     "summary": [
@@ -269,7 +283,7 @@ window.NEWS_DB = [
     "id": "nb9bdfdfb",
     "category": "스포츠",
     "source": "푸드투데이",
-    "time": "126일 전",
+    "time": "127일 전",
     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9BVmpLTU1zOFZsU1RWVmVOSXppaWhDWFBBRkF4akI3WHBIcXIyX2pXa3JaeXplMm9vbmE4cU1PclhFTXVZdURxQ0RCYTF3aFNsbmRKcTZ5VE9na0cwakQ2XzNuWlJ5QQ?oc=5",
     "title": "‘손흥민 월드콘.KBO몽쉘’ 축구.야구팬 다 잡자...롯데웰푸드, 스포츠마케팅 총력",
     "summary": [
@@ -278,21 +292,6 @@ window.NEWS_DB = [
     "chips": [
       "#손흥민",
       "#KBO"
-    ]
-  },
-  {
-    "id": "n08b2b275",
-    "category": "부동산",
-    "source": "한국부동산뉴스",
-    "time": "171일 전",
-    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBZNmg3TVp4ZWZCV1ZzTE14bXV5UkN4MExnMmZJdkpfNUsyUGltRWlJVWVfUzJoQktRUlcwMTdrUUtuWk9pR2MxaFlhNGpOU0xGZjM3eDUwdlNmRWQtYkFaenAyekhVRGRRY0pJ?oc=5",
-    "title": "대출 규제에 몰린 '15억 이하'…비강남 집값·분양가 동반 상승",
-    "summary": [
-      "대출 규제에 몰린 '15억 이하'…비강남 집값·분양가 동반 상승 한국부동산뉴스."
-    ],
-    "chips": [
-      "#부동산",
-      "#정책"
     ]
   },
   {
@@ -307,6 +306,20 @@ window.NEWS_DB = [
     ],
     "chips": [
       "#스타트업"
+    ]
+  },
+  {
+    "id": "n5f40ba8a",
+    "category": "IT",
+    "source": "테크M",
+    "time": "방금 전",
+    "url": "https://www.techm.kr/news/articleView.html?idxno=155832",
+    "title": "[부고] 김관주(대한경제 증권부 기자)씨 부친상",
+    "summary": [
+      "▲김보성씨 별세, 김관주(대한경제 증권부 기자)씨 부친상 = 10월 3일 울산 중구 보람세민에스장례식장 VIP 3호실, 발인 5일 오전 6시, 장지 울산하늘공원."
+    ],
+    "chips": [
+      "#뉴스"
     ]
   },
   {
@@ -356,278 +369,245 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nd4993675",
-    "category": "IT",
-    "source": "테크M",
-    "time": "방금 전",
-    "url": "https://www.techm.kr/news/articleView.html?idxno=155821",
-    "title": "'특별상영'서 '선개봉'으로...넷플릭스 영화 공개 전략 변했다",
-    "summary": [
-      "테드 서랜도스 넷플릭스 공동 최고경영자(CEO)가 글로벌 히트작 '케이팝 데몬 헌터스' 속편을 두고 광범위한 극장 개봉을 예고했다.",
-      "최근 넷플릭스가 일부 영화의 극장 상영 기간을 45일 이상으로 늘리고 있는 가운데 나온 발언이라 관심을 끈다.서랜도스 CEO는 지난달 30일(현지시간) 미국 로스앤젤레스 '블룸버그 스크린타임'에서 \"'케데헌' 속편이 나오면 매우 광범위한 극장 개봉을 기대할 수 있을 것\"이라고 말했다.",
-      "넷플릭스의 전략에 변화가 생긴."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n2032b8b6",
+    "id": "n191a70c1",
     "category": "사회",
     "source": "동아일보",
     "time": "2분 전",
-    "url": "https://www.donga.com/news/Inter/article/all/20261003/134780046/1",
-    "title": "550년 버틴 하와이 명물 용암아치 붕괴…폭풍 ‘놀로’ 지나간 뒤 사라져",
+    "url": "https://www.donga.com/news/Sports/article/all/20261003/134780373/1",
+    "title": "태권도 송다빈, 여자 67㎏ 초과급 결승 진출…은메달 확보",
     "summary": [
-      "약 550년 동안 하와이 해안에 서 있던 높이 27m의 ‘호레이(Hōlei) 해식 아치’가 최근 태평양으로 무너져 내렸다.",
-      "허리케인 놀로의 영향으로 공원이 폐쇄된 사이 사라졌지만, 미 국립공원관리청(NPS)은 폭풍이 직접적인 붕괴 원인이었는지는 확인되지 않았다고 밝혔다.2일(현지 시간) CNN 등에 따르면 호레이 해식 아치는 하와이 빅아일랜드 남부 하와이 화산국립공원에 있던 높이 약 27m의 용암 지형이다.",
-      "약 550년 전 화산에서 흘러나온 용."
+      "한국 태권도 대표팀의 송다빈(울산광역시체육회)이 첫 아시안게임 출전에서 결승 진출에 성공했다.",
+      "송다빈은 3일 일본 아이치현 도요하시 체육관에서 열린 2026 아이치·나고야 아시안게임 태권도 겨루기 여자 67㎏ 초과급 준결승에서 파테메 아마디(이란)를 라운드 점수 2-0(7-1, 2-0)으로 꺾었다.",
+      "처음 아시안게임에 나선 송다빈은 결승까지 오르며 최소 은메달을 확보했다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n7355468d",
+    "id": "n028b9ce8",
     "category": "사회",
-    "source": "뉴시스",
+    "source": "동아일보",
     "time": "2분 전",
-    "url": "https://www.newsis.com/view/NISX20261003_0003813444",
-    "title": "[부고]전진봉(태안군 기획예산담당관)씨 부친상",
+    "url": "https://www.donga.com/news/Economy/article/all/20261003/134780370/2",
+    "title": "예가람저축은행도 해킹으로 고객 개인정보 유출…4만 명 추정",
     "summary": [
-      "[태안=뉴시스] ▲전항기씨 별세, 전진봉(태안군 기획예산담당관)씨 부친상=2일, 태안군보건의료원 상례원 1층 2분향실, 발인 5일 오전 6시20분, 장지 태안군 영묘전."
+      "최근 신한·KB국민·하나·부산은행 등 시중은행에서 잇따라 개인정보 유출 사고가 발생한 가운데 예가람저축은행에서도 해킹으로 고객 개인정보가 유출된 것으로 파악됐다.",
+      "예가람저축은행은 2일 홈페이지에 대표이사 명의의 ‘개인정보 유출 사실 통지 안내 및 사과문’을 올리고 “당행은 2026년 9월 30일 고객의 개인정보가 포함된 서버에 신원 미상의 해커의 접근 및 개인정보가 유출된 정황을 확인했다”고 밝혔다.유출된 개인정보 항목은 고객 성명과 생년월일,."
     ],
     "chips": [
-      "#의료"
+      "#뉴스"
     ]
   },
   {
-    "id": "n4e3810f2",
-    "category": "사회",
+    "id": "n36f51575",
+    "category": "스포츠",
     "source": "뉴시스",
     "time": "2분 전",
-    "url": "https://www.newsis.com/view/NISX20261003_0003813449",
-    "title": "조국 \"송영길, '노무현-문재인' 흠집내기 일관성 있어…내부 갈라치기 그만\"",
+    "url": "https://www.newsis.com/view/NISX20261003_0003813588",
+    "title": "[속보]김주형, AG 남자골프 개인전 우승…단체전 은메달로 2관왕은 불발",
+    "summary": [],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nfbe1a94e",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "8분 전",
+    "url": "https://www.newsis.com/view/NISX20261003_0003813595",
+    "title": "리커브 이우석, 2연속 2관왕 쾌거…한국 양궁 金 3개로 마감(종합)[나고야AG]",
     "summary": [
-      "[서울=뉴시스]권신혁 기자 = 조국 조국혁신당 혁신정책연구원장은 3일 \"송영길 의원은 '노무현-문재인' 흠집내기에 일관성이 있는 정치인\"이라며 \"진영 내부 갈라치기 그만 하시길 바란다\"고 했다.",
-      "조국 원장은 이날 오전 페이스북에 \"어제 송영길 의원이 방송에 나가 김지용 중수청장 후보자를 옹호하며 '문재인 정부 때는 변호사 출신도 아닌 조국 교수를 민정수석으로 썼다.",
-      "그러다 보니 그냥 책상물림만 하다가 검찰개혁이 제대로 안 된 것'이라고 말했음을."
+      "[오카자키(일본)=뉴시스]박윤서 기자 = 한국 남자 양궁 리커브 대표팀의 이우석(코오롱)이 아시안게임 2회 연속 2관왕이라는 금자탑을 세웠다.",
+      "이우석은 3일 일본 아이치현 오카자키 중앙종합공원 다목적광장에서 열린 2026 아이치·나고야 아시안게임 양궁 리커브 남자 개인전 결승에서 나카니시 준야(일본)를 세트 점수 6-2로 제압했다.",
+      "이날 이우석은 8강에서 킨리 체링(부탄)을 7-1, 준결승에서 다이라즈 봄마데바라(인도)를 7-3으로 꺾은 데 이."
     ],
     "chips": [
-      "#정책",
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n4b6bdfc9",
+    "category": "스포츠",
+    "source": "뉴시스",
+    "time": "10분 전",
+    "url": "https://www.newsis.com/view/NISX20261003_0003813546",
+    "title": "프로농구 LG, 디펜딩 챔피언 KCC 103-68 격파…개막 축포 '펑'",
+    "summary": [
+      "[서울=뉴시스] 하근수 기자 = 프로농구 창원 LG가 디펜딩 챔피언 부산 KCC를 완파하고 새 시즌 개막전을 승리로 장식했다.",
+      "LG는 3일 부산사직체육관에서 열린 KCC와의 2026~2027시즌 KCC 프로농구 정규리그 첫 원정 경기에서 103-68로 승리했다.",
+      "지난 시즌 '정규리그 우승팀' LG가 '챔피언결정전 우승팀' KCC를 잡고 새 시즌을 힘차게 시작했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n7e133d77",
+    "category": "스포츠",
+    "source": "연합뉴스",
+    "time": "10분 전",
+    "url": "https://www.yna.co.kr/view/AKR20261003036600007",
+    "title": "[프로농구 고양전적] 소노 82-73 한국가스공사",
+    "summary": [
+      "◇3일 전적(고양 소노아레나)."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n41e6e3c5",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "10분 전",
+    "url": "https://www.yna.co.kr/view/AKR20261003036500007",
+    "title": "[아시안게임] 태권도 송다빈, 첫 AG서 결승행…겨루기 첫 금메달 도전",
+    "summary": [
+      "(도요하시[일본]=연합뉴스) 김동한 기자 = 송다빈(울산광역시체육회)이 생애 첫 아시안게임에서 결승에 올라 한국의 여자 67㎏초과급 금메달 탈환..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n6dce32fc",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "12분 전",
+    "url": "https://www.yna.co.kr/view/AKR20261003036400007",
+    "title": "[아시안게임] 이우석 \"아직 한국 양궁 강하다는 것 보여주고 싶었죠\"",
+    "summary": [
+      "(오카자키[일본]=연합뉴스) 이대호 기자 = \"아직 한국 양궁은 강하다는 것을 확실하게 보여드리고 싶었습니다.\"."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "ne176b4eb",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "12분 전",
+    "url": "https://www.yna.co.kr/view/AKR20261003035700009",
+    "title": "\"사우디-예멘 정부군, 후티 대공세 준비…최대 10만명 동원\"",
+    "summary": [
+      "(서울=연합뉴스) 임화섭 기자 = 사우디아라비아와 예멘 정부군 등이 예멘의 후티 반군을 상대로 지상·공중 공세를 준비 중이며 몇 주 안에 이를 ..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n53e78d67",
+    "category": "스포츠",
+    "source": "동아일보",
+    "time": "15분 전",
+    "url": "https://www.donga.com/news/Sports/article/all/20261003/134780097/1",
+    "title": "“날 이길 자 없다”…이우석, 日 꺾고 AG 양궁 리커브 2관왕",
+    "summary": [
+      "이우석이 2026 아이치-나고야 아시안게임 양궁에서 유일하게 2관왕에 올랐다.",
+      "이우석의 활약을 앞세운 한국은 이날 끝난 양궁 리커브 5개 종목에서 2개의 금메달로 대회를 마쳤다.이우석은 3일 일본 일본 아이치현 오카자키 중앙종합공원에서 열린 대회 남자 리커브 개인전 결승에서 개최국 일본의 나카니시 준야(27)를 6-2(29-26, 27-27, 29-29, 29-27)로 꺾고 우승을 차지했다.",
+      "전날 열린 남자 단체전에서 김우진(34), 김제덕(2."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nc0d0a7d3",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "16분 전",
+    "url": "https://www.donga.com/news/Inter/article/all/20261003/134780359/2",
+    "title": "트럼프 핵심 참모들, 캠프데이비드서 비공개 회의…대이란 작전 논의",
+    "summary": [
+      "도널드 트럼프 미국 대통령의 외교·안보 분야 핵심 참모들이 캠프데이비드에서 비공개 회동을 갖고 이란 전쟁과 예멘의 사우디아라비아·후티 갈등에 대한 대응 방안을 논의했다는 보도가 나왔다.미국 정치 전문 매체 악시오스는 2일(현지시간) 익명의 미국 정부 관계자 3명을 인용해 트럼프 행정부의 주요 각료들이 이날 캠프데이비드에서 수 시간 동안 만나 이란 전쟁과 사우디·후티 간 예멘 분쟁의 향후 대응 방안을 논의했다고 전했다.이번 회동은 트럼프 행정부가."
+    ],
+    "chips": [
       "#정치"
     ]
   },
   {
-    "id": "n0463539d",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "2분 전",
-    "url": "https://www.donga.com/news/Society/article/all/20261002/134744607/2",
-    "title": "“여기서 뭐 먹고 살아요?”…정원에서 답 찾은 봉화 청년들 [그 마을엔 청년이 산다]",
-    "summary": [
-      "“청년들이 ‘여기 와서 뭐 먹고 살아요’라고 물을 때 답할 수 있어야 하잖아요.",
-      "그래서 정원으로 먼저 수익을 내는 구조부터 만들었습니다.”경북 봉화군에서 청년마을 ‘그린가드너스’를 운영하는 강희원 대표는 원래 서울 사람이다.",
-      "봉화와 인연을 맺은 것은 중학생이던 2004년, 부모의 권유로 이곳 대안학교 ‘내일학교’에 입학하면서다."
-    ],
-    "chips": [
-      "#교육"
-    ]
-  },
-  {
-    "id": "ne541070c",
-    "category": "스포츠",
-    "source": "뉴시스",
-    "time": "3분 전",
-    "url": "https://www.newsis.com/view/NISX20261003_0003813385",
-    "title": "로이킴 \"오디션 우승 3억원 넘게 기부하고 먹튀 소리 들어\"",
-    "summary": [
-      "[서울=뉴시스] 손정빈 기자 = 가수 로이킴이 '슈퍼스타K' 우승 후 실제 받은 현금은 2억8000만원이었지만 자기 돈을 보태 약 3억2000만원을 기부했다고 했다.",
-      "로이킴은 2일 김선태 유튜브 채널에 나와 2012년 '슈퍼스타K4' 우승 당시 내걸었던 기부 공약에 관해 얘기했다.",
-      "로이킴은 당시 우승 상금이 5억원이었다는 얘기하며 \"말이 5억원이지 2억원은 음반 제작비였다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nc3cdebcf",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "3분 전",
-    "url": "https://www.newsis.com/view/NISX20261003_0003813442",
-    "title": "수로 빠져 전도된 경운기에 깔린 80대 운전자 사망",
-    "summary": [
-      "[신안=뉴시스]이현행 기자 = 비료를 싣고 이동하던 80대 경운기 운전자가 1m 남짓 깊이의 수로에 빠진 뒤 전도된 경운기에 깔려 숨졌다.",
-      "3일 전남 신안경찰서에 따르면 전날 오전 7시20분께 전남광주 신안군 암태면의 한 도로에서 80대 A씨가 몰던 경운기가 도로 갓길 1m 남짓 깊이의 수로에 빠졌다.",
-      "이 사고로 크게 다친 A씨는 병원으로 이송됐으나 끝내 숨졌다."
-    ],
-    "chips": [
-      "#의료"
-    ]
-  },
-  {
-    "id": "nb63b8ce6",
-    "category": "스포츠",
-    "source": "동아일보",
-    "time": "3분 전",
-    "url": "https://www.donga.com/news/Sports/article/all/20261003/134780047/1",
-    "title": "AT마드리드 이강인, 팬 선정 9월 이달의 선수…입단 후 첫 수상",
-    "summary": [
-      "올여름 스페인 프로축구 프리메라리가 아틀레티코 마드리드(AT마드리드) 유니폼을 입은 축구 국가대표 에이스 이강인이 구단 팬들이 뽑은 9월 이달의 선수로 선정됐다.AT마드리드 소식을 다루는 매체 에스토 에스 알레띠는 2일(한국 시간) 관련 내용을 전하며 “이강인은 뛰어난 재능, 끊임없는 노력, 마법 같은 플레이로 곧장 팬들 마음을 사로잡았다.",
-      "그는 입단 이후 놀라울 정도로 빠르게 팀에 적응했다”고 짚었다.이어 “이강인은 적응기 없이 빠르게 주전."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n8b43b160",
-    "category": "경제",
-    "source": "아시아경제",
-    "time": "4분 전",
-    "url": "https://view.asiae.co.kr/article/2026100310284520590",
-    "title": "[속보]양궁 리커브 오예진 결승 진출 '은메달 확보'",
-    "summary": [
-      "한국 여자 양궁 리커브의 오예진이 중국의 황위웨이를 제압하고 결승에 진출했다.",
-      "오예진은 3일 일본 아이치현 오카자키 중앙종합공원 다목적광장에서 열린 2026 아이치·나고야 아시안게임 양궁 리커브 여자 개인전 4강전에서 중국의 황위웨이를 7-3(29-29, 29-25, 28-27, 29-30, 30-29)으로 제압하고 결승에 진출했다.",
-      "오예진은 8강에서 강채영을 제압한 인도의 17세 신예 쿰쿰 아닐 모호드와 금메달을 다툰다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nfd50cd31",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "4분 전",
-    "url": "https://www.chosun.com/sports/sports_general/2026/10/03/MJTGKYRUGBRWKMLEMVSTAZDBMM/",
-    "title": "[속보]이럴 수가! 한국 양궁 왜 이러나? 女개인전도 휘청...'에이스' 강채영, 4강도 못갔다, 8강서 인도에 4대6 패배[오카자키 현장]",
-    "summary": [
-      "[오카자키=스포츠조선 박찬준 기자]강채영(모비스 양궁단)이 충격패를 당했다.",
-      "강채영은 3일 일본의 오카자키 중앙종합공원 다목적광장에서 열린 2026년 아이치-나고야 아시안게임 리커브 여자 개인 8강전에서 인도의 아닐 쿰쿰 모호드에 4대6(28-29, 28-27, 27-28, 29-29, 28-28)으로 패했다.",
-      "전날 열린 여자 단체전에서 은메달, 혼성 단체."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n58711e4e",
+    "id": "n624bb0e3",
     "category": "사회",
     "source": "조선일보",
-    "time": "7분 전",
-    "url": "https://www.chosun.com/national/incident/2026/10/03/VUFQVKBF7FCKHFHP4RGSVHSGRA/",
-    "title": "의왕~성균관대역 선로서 60대 男 열차에 치여 숨져",
-    "summary": [
-      "의왕~성균관대역 선로서 60대 男 열차에 치여 숨져."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nefc750c0",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "7분 전",
-    "url": "https://www.chosun.com/jp/politics-national-jp/2026/10/03/LOZ3RRECYND55KJRBIAKUTF52Y/",
-    "title": "義王―成均館大駅間で60代男性、列車にはねられ死亡",
-    "summary": [
-      "義王―成均館大駅間で60代男性、列車にはねられ死亡."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n176b69cc",
-    "category": "경제",
-    "source": "아시아경제",
-    "time": "12분 전",
-    "url": "https://view.asiae.co.kr/article/2026100310201016837",
-    "title": "호르무즈서 유조선 피격…중동 원유 수출은 전쟁 전 98% 회복",
-    "summary": [
-      "호르무즈 해협 인근에서 2일(현지시간) 유조선 1척이 미상의 발사체에 피격됐다고 영국 해사무역기구(UKMTO)가 밝혔다.",
-      "UKMTO는 오만 동쪽 4해리 해상에서 피격당했다는 선장의 보고가 접수됐으며 선원 전원은 무사하고 환경 피해도 보고되지 않았다고 전했다.",
-      "선박의 이름·국적과 공격 주체는 확인되지 않았다."
-    ],
-    "chips": [
-      "#수출",
-      "#환경"
-    ]
-  },
-  {
-    "id": "n8c21ec24",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "18분 전",
-    "url": "https://www.yna.co.kr/view/AKR20261003021600009",
-    "title": "영국서 유대인 공동체 대상 테러 모의 이란인 2명 체포",
-    "summary": [
-      "(서울=연합뉴스) 송진원 기자 = 영국 맨체스터의 유대인 공동체를 대상으로 테러 공격을 계획한 이란인 2명이 기소됐다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n027de752",
-    "category": "사회",
-    "source": "아시아경제",
-    "time": "20분 전",
-    "url": "https://view.asiae.co.kr/article/2026100309521378007",
-    "title": "코브라골드 이어 한미 해군회의까지…‘이재용 장남’ 이지호 소위, 통역장교 활약",
-    "summary": [
-      "이재용 삼성전자 회장의 장남 이지호 해군 소위가 한미 해군교육사령관 협력회의에서 통역을 맡은 사실이 뒤늦게 알려져 화제가 되고 있다.",
-      "앞서 국방일보는 지난 9월 9일 강정호 해군교육사령관(중장)과 그레고리 허프만 미 해군 교육사령관(소장)의 협력회의가 경남 창원시 진해구 해군교육사령부에서 진행됐다고 보도했다.",
-      "이날 이 소위는 두 지휘관 사이에서 대화를 통역했다."
-    ],
-    "chips": [
-      "#삼성전자",
-      "#교육"
-    ]
-  },
-  {
-    "id": "nc8db5313",
-    "category": "사회",
-    "source": "연합뉴스",
     "time": "23분 전",
-    "url": "https://www.yna.co.kr/view/AKR20261003022500064",
-    "title": "[충주소식] 18개국 외교관 초청 1박2일 팸투어",
+    "url": "https://www.chosun.com/economy/economy_general/2026/10/03/BQQTKL7WWVHCBKMFXXVGOEOKTE/",
+    "title": "시중은행에 이어 저축은행도 해킹…개인정보 유출, 2금융권으로 확산",
     "summary": [
-      "(충주=연합뉴스) 충북 충주시는 시정 홍보를 위해 6일 18개국 주한 외교 대사 등 30여명을 초청해 1박 2일 일정으로 팸투어(홍보여행)를 한..."
+      "시중은행에 이어 저축은행도 해킹…개인정보 유출, 2금융권으로 확산."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n88c4360a",
+    "id": "na67b7bc6",
     "category": "사회",
-    "source": "연합뉴스",
-    "time": "27분 전",
-    "url": "https://www.yna.co.kr/view/AKR20261001088700052",
-    "title": "마산 만날제 이어 만남 축제 계속…3∼4일 '창원남산상봉제'",
+    "source": "조선일보",
+    "time": "40분 전",
+    "url": "https://www.chosun.com/sports/sports_special/2026/10/03/A5RCTMYLQJFVNIRZ2MEPNXAJ2Q/",
+    "title": "이우석 AG 남자 개인전 金... 한국 양궁 마지막 자존심 지켰다",
     "summary": [
-      "(창원=연합뉴스) 이정훈 기자 = 경남 창원시를 대표하는 민속축제인 병오년(丙午年) 마산 만날제가 지난 추석 연휴 막을 내렸지만, 만남을 주제로..."
+      "이우석 AG 남자 개인전 金... 한국 양궁 마지막 자존심 지켰다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "na1c4ef7f",
-    "category": "스포츠",
-    "source": "아시아경제",
-    "time": "28분 전",
-    "url": "https://view.asiae.co.kr/article/2026100310045499856",
-    "title": "화성시, 동탄·병점서 판교 잇는 ‘편하G버스’ 2개 노선 8일 개통",
+    "id": "n7a870948",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "40분 전",
+    "url": "https://www.chosun.com/jp/sports-jp/2026/10/03/QAEUUJ6H6ZFB5ES5KZ3TS7FY2M/",
+    "title": "イ・ウソク、男子個人金 韓国アーチェリーの意地守る",
     "summary": [
-      "경기 화성특례시(시장 정명근)는 판교로 출퇴근하는 시민들의 교통편의를 높이기 위해 오는 8일 '경기 편하G버스' 2개 노선을 새로 개통한다고 3일 밝혔다.",
-      "신설 노선은 신동과 판교를 잇는 P9303번, 태안3지구와 판교를 연결하는 P9304번이다.",
-      "동탄구와 병점구 주요 주거지역을 판교 업무지구와 직접 연결한다."
+      "イ・ウソク、男子個人金 韓国アーチェリーの意地守る."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n81014cc0",
+    "category": "경제",
+    "source": "한국경제",
+    "time": "43분 전",
+    "url": "https://www.hankyung.com/article/2026100317647",
+    "title": "'암살자(들)' 300억대 투자에 외부개입?…산은·기업은행 입 열었다",
+    "summary": [
+      "'암살자(들)' 300억대 투자에 외부개입?…산은·기업은행 입 열었다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "ne2e1a58a",
+    "category": "경제",
+    "source": "한국경제",
+    "time": "45분 전",
+    "url": "https://www.hankyung.com/article/202610029741H",
+    "title": "[단독] 미국서 쫓겨난 '中 CCTV'…군대에 쫙 깔렸다 '초비상'",
+    "summary": [
+      "[단독] 미국서 쫓겨난 '中 CCTV'…군대에 쫙 깔렸다 '초비상'."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n01c9d28e",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "58분 전",
+    "url": "https://www.chosun.com/sports/sports_special/2026/10/03/7IDIHWXSI5CUZN5MGF3O7DDUDY/",
+    "title": "아시안게임 1오버파로 끝낸 김성현 “제 몫 못해 동료들에게 미안... 묵묵히 응원하겠다”",
+    "summary": [
+      "아시안게임 1오버파로 끝낸 김성현 “제 몫 못해 동료들에게 미안... 묵묵히 응원하겠다”."
     ],
     "chips": [
       "#뉴스"
@@ -640,8 +620,8 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2720건",
-    "trend": "+315%"
+    "mentions": "3370건",
+    "trend": "+415%"
   },
   {
     "rank": 2,
