@@ -1,11 +1,27 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-10-05 16:34:38
+// 마지막 업데이트: 2026-10-05 22:59:56
 window.NEWS_DB = [
+  {
+    "id": "neac3aa17",
+    "category": "IT",
+    "source": "뉴스1",
+    "time": "1시간 전",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5LNTZHNVo5UWdoZk9sVllIYlFlUVhtQzdyUEwtRmxZRXljNVlQblpvZ2s1ZHNnTmJHTy1DUjRMSjI1V0pXYWNtclJ0M0c3aEtHcF9sdXFrVXgteUpBY1N5a254VS1ZQ3Z3U09kbtIBbEFVX3lxTE5LNTZHNVo5UWdoZk9sVllIYlFlUVhtQzdyUEwtRmxZRXljNVlQblpvZ2s1ZHNnTmJHTy1DUjRMSjI1V0pXYWNtclJ0M0c3aEtHcF9sdXFrVXgteUpBY1N5a254VS1ZQ3Z3U09kbg?oc=5",
+    "title": "美AI 반도체 강세 지속…필라델피아 0.27%↑·엔비디아 사상 최고",
+    "summary": [
+      "美AI 반도체 강세 지속…필라델피아 0.27%↑·엔비디아 사상 최고 뉴스1."
+    ],
+    "chips": [
+      "#AI",
+      "#반도체",
+      "#엔비디아"
+    ]
+  },
   {
     "id": "n25f428e2",
     "category": "IT",
     "source": "연합뉴스",
-    "time": "8시간 전",
+    "time": "14시간 전",
     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1oVXc3QXZ2Z0dJNzI2eHRpbEh5OWNoU1o2Z252OTZxTWJmUlV5RGlUVS0tZWVTdXN4NHZoaFBYX3d6ekFMWDlSc2xoWDJBaW55WlNUODJzZkUwbDE1T25iVNIBYEFVX3lxTE1oVXc3QXZ2Z0dJNzI2eHRpbEh5OWNoU1o2Z252OTZxTWJmUlV5RGlUVS0tZWVTdXN4NHZoaFBYX3d6ekFMWDlSc2xoWDJBaW55WlNUODJzZkUwbDE1T25iVA?oc=5",
     "title": "리사 수 AMD 회장 7개월 만에 방한…'AI 동맹' 넓히나(종합)",
     "summary": [
@@ -19,7 +35,7 @@ window.NEWS_DB = [
     "id": "n8d5406ad",
     "category": "IT",
     "source": "비즈니스포스트",
-    "time": "19시간 전",
+    "time": "1일 전",
     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5ybkt1VUk5VlZ2eFJHaW9nOXF4Vlc1WEJyaExQbVFIVVZETVpWSnFYTHhHdWdaTmdmanEtd1R4X21lSWhoREJaeHgxY2l2RVlmc3MwRjJlaFdUTk5DR3NTMlJPU1hscjhmbVo4ZWRoY193QUU?oc=5",
     "title": "엔비디아 AI 반도체 '담보대출' 전략 성공할까, 삼성전자 SK하이닉스 실적에도 변수",
     "summary": [
@@ -33,29 +49,14 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n7a94fb55",
-    "category": "IT",
-    "source": "조선일보",
-    "time": "3일 전",
-    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNLU9nVFpCejNyT3lrQWtlTlQ2OVNvZzVkUVZxSHV0X29xZGJMR3JuQ2Q4WmFrOVJyYjVId0dvdG1VWDZ2SlYtTnRqUUtLbU1nYTRjQWI3NENpZ3pyN1VCNUcySTRDUlcyYzM3QnZ6T0dyUzRpR3dXanhaZXQ5NUdRdGF3NA?oc=5",
-    "title": "\"돈빌려줄테니 우리 AI칩 써\" 엔비디아 700조이어 브로드컴도 59조 대출 약정",
-    "summary": [
-      "\"돈빌려줄테니 우리 AI칩 써\" 엔비디아 700조이어 브로드컴도 59조 대출 약정 조선일보."
-    ],
-    "chips": [
-      "#AI",
-      "#엔비디아"
-    ]
-  },
-  {
     "id": "n036cf87e",
     "category": "사회",
-    "source": "영등포신문",
+    "source": "ybstv.net",
     "time": "3일 전",
     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE02ZGp5c1F6NVozc1lBUVV3OW1SekVhNFVuYVZYZFJZSEtTT0lpTF9NeFhteEJpbWVlUjUzZHFJbGo4TjN1dDRGMFBWRWotNnFkbFZZb3Bwa2lRRHp1?oc=5",
     "title": "영등포구, ‘2026 천하제일(JOB) 취업박람회’ 열어",
     "summary": [
-      "영등포구, ‘2026 천하제일(JOB) 취업박람회’ 열어 영등포신문."
+      "영등포구, ‘2026 천하제일(JOB) 취업박람회’ 열어 ybstv.net."
     ],
     "chips": [
       "#취업"
@@ -64,12 +65,12 @@ window.NEWS_DB = [
   {
     "id": "na4ddb086",
     "category": "IT",
-    "source": "greenpostkorea.co.kr",
+    "source": "그린포스트코리아",
     "time": "6일 전",
     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE15LWYyaVFheUdxa2tjUTZRRjFId0pJWmM4ZnhQLVRPWG9HRTJOVmptUENtdHVjOGxHNVN1WlhlSm1JZmg3d0wxSS1jdzRITFVBRjBGLWN1cDZnM3ZLcDhQeEZtSE1WcTlYaWhTeV92SkVtdDNyS3fSAXpBVV95cUxPdWp6NHBPcHhvd05tbEFXaktpZjllc1Iwd3h2eFMtRHlEaEF6U2wxZjhUa0pka3g2Zm9RUVEzeVZnUmR5R2pVSk1KMmZiMmw5bzhqU09wWFJyNDZHR1lpZ2hOaV9fV0ZDaG1EamRjVkdFc3FCVFFMLXEwdw?oc=5",
     "title": "“젠슨 황 잡아라”··· 삼성 파운드리 vs SK 데이터센터 맞대결",
     "summary": [
-      "“젠슨 황 잡아라”··· 삼성 파운드리 vs SK 데이터센터 맞대결 greenpostkorea.co.kr."
+      "“젠슨 황 잡아라”··· 삼성 파운드리 vs SK 데이터센터 맞대결 그린포스트코리아."
     ],
     "chips": [
       "#반도체"
@@ -109,7 +110,7 @@ window.NEWS_DB = [
     "id": "n6437e9c6",
     "category": "부동산",
     "source": "뉴스투데이",
-    "time": "6일 전",
+    "time": "7일 전",
     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5XV1l2ek85Vl9kOFJOazhqcDg5UTd6cjBrWE95Tlp1XzVTOHZHLUxlQWppWk4zbDJVT1FoakJKcHhQbUJGMnNFYk83cy1WYVZOdFVwMHNaWjQwSFNLblE?oc=5",
     "title": "[N2 포커스] 가을 분양·입주 쏟아지는 수도권…지방은 물량 반토막·집값 약세",
     "summary": [
@@ -117,20 +118,6 @@ window.NEWS_DB = [
     ],
     "chips": [
       "#부동산"
-    ]
-  },
-  {
-    "id": "n34489cb8",
-    "category": "경제",
-    "source": "지이코노미",
-    "time": "6일 전",
-    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE0wbXY1ekducjBRWHc0eEJwLW1VQ1QtVGJXQkRha3RXYmpmWWxrdnk0amdSS0lqTVpMbXVQV0g3aFFLOHhRbnFIQzNoaFBzRHlKY0dsMGF6ZGJRYVktSlJHVUtoc1Q?oc=5",
-    "title": "美 국채·중동발 충격 한국 덮쳤다…코스피 2.7% 급락·환율 1,365원",
-    "summary": [
-      "美 국채·중동발 충격 한국 덮쳤다…코스피 2.7% 급락·환율 1,365원 지이코노미."
-    ],
-    "chips": [
-      "#환율"
     ]
   },
   {
@@ -150,12 +137,12 @@ window.NEWS_DB = [
   {
     "id": "na6d22b09",
     "category": "스포츠",
-    "source": "kyeonggi.com",
+    "source": "경기일보",
     "time": "13일 전",
     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE11U1hseFNuTzV6YUoyOWxkOURqZjlTV1FEWEo1S09LazhsM2FnNTRLQk4zWjVETkZXLXphOHRxMldQazEzMVhJN2RLV3p5MUphUThhYmZvOE41R1U?oc=5",
     "title": "추석 연휴, 프로야구·축구 현장도 열기 ‘팔팔’",
     "summary": [
-      "추석 연휴, 프로야구·축구 현장도 열기 ‘팔팔’ kyeonggi.com."
+      "추석 연휴, 프로야구·축구 현장도 열기 ‘팔팔’ 경기일보."
     ],
     "chips": [
       "#KBO"
@@ -279,15 +266,29 @@ window.NEWS_DB = [
   {
     "id": "n207a7abe",
     "category": "IT",
-    "source": "Chosunbiz",
+    "source": "biz.chosun.com",
     "time": "104일 전",
     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPUGdtbi01TkVMYXphY1VqbF9xRzB3TkVUbWtrM2NhN2d1NmpvS29NLTY5UWFtbFNrangxUlRnQUpxOW9rSEZwWVZuWU42aUdIU1FUUlhnQ0NLbjBXdlNpQ2labGU1cUt3WVZ3NEhVVmtJNjJlc3lUalByb0tqZDBucVJleGVLUFpaanFZX3RLZWvSAaQBQVVfeXFMTXFmYjM1dzZaM0d5QjZZQXJIb0VnanMzR29JcWlBQVZreFhGVVZlRmd4c2xoejc0ajVvdDhkUVo5ZWJ5bWlyVlZSUzlveG9EamJZblA5VDkwRG16QW1hRW1Qel9mTHRfdWI3MHhvbTJfd3ZoRTNIb3dVbjByNmI5T3llUUt2ZlZjVmEwQlV4M0FvMTRVT0JYaG4zNDZ6Rkw1LVVodlA?oc=5",
     "title": "중기부, 2030년까지 ‘유니콘’ 50개 육성 나선다 - 조선비즈",
     "summary": [
-      "중기부, 2030년까지 ‘유니콘’ 50개 육성 나선다 - 조선비즈 Chosunbiz."
+      "중기부, 2030년까지 ‘유니콘’ 50개 육성 나선다 - 조선비즈 biz.chosun.com."
     ],
     "chips": [
       "#스타트업"
+    ]
+  },
+  {
+    "id": "n244b01bd",
+    "category": "경제",
+    "source": "스트레이트뉴스",
+    "time": "111일 전",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBCMWo2YXNZMEh0aUhtSDk2czAteEZBVVM4MFVGSmNlREM2bEdPX3NaNFMyMDhNWXp1bllqd1NEbkE5elZZYlhRRnRTNm1OdFFmVmlmQ2o2LTdLZXE3TUw5Mm5uU014MFN5ZFkxXzBPbWxCS3fSAXdBVV95cUxQR1pwdFp0SFJzTkVyR3RtbjVBVm03aGxUS2JURUN6eE1iVDlKazYwZmh5bUxRdU1hQXc3dUIxWXFYRG1XZlA1cHB1S3NVR0pYUExPbEtQMFBxeWp0NnFweW5hM0xOMUNmM2o1cENPdjFqb0Q4SWJkaw?oc=5",
+    "title": "미·이란 종전 합의에 금리 전망 변화?…한은 7월 인상론 여전",
+    "summary": [
+      "미·이란 종전 합의에 금리 전망 변화?…한은 7월 인상론 여전 스트레이트뉴스."
+    ],
+    "chips": [
+      "#금리"
     ]
   },
   {
@@ -337,291 +338,274 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nf992624e",
-    "category": "스포츠",
-    "source": "테크M",
-    "time": "방금 전",
-    "url": "https://www.techm.kr/news/articleView.html?idxno=155844",
-    "title": "케이뱅크-업비트 '동행' 1년 더…실명확인 입출금계정 계약 연장",
+    "id": "nc9aee9de",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "1분 전",
+    "url": "https://www.donga.com/news/Society/article/all/20261006/134790476/1",
+    "title": "구미 금오산서 사진 촬영 10대 여학생 발 헛디뎌 추락…병원 이송",
     "summary": [
-      "케이뱅크가 국내 최대 가상자산거래소 업비트와 동행을 1년 더 이어간다.",
-      "케이뱅크 전체 수신의 14%에 달하는 업비트 이용자 예치금을 계속 맡게 되면서 가상자산 시장과 연계한 수신 기반도 유지할 수 있게 됐다.5일 금융감독원 전자공시시스템에 따르면 케이뱅크는 지난 2일 업비트 운영사 두나무와 원화거래 지원을 위한 실명확인 입출금계정 서비스 제휴 계약 연장에 합의했다.",
-      "기존 계약은 이날 만료될 예정이었다.새 계약기간은 오는 6일부터 내년 10월5일."
+      "5일 오전 6시 47분쯤 경북 구미시 남통동 금오산 등산로에서 10대 여학생 A 양이 등산로 아래로 추락했다.사고는 A 양이 사진 촬영을 하던 중 발을 헛디뎌 등산로 약 2m 아래로 추락해 머리를 다쳤다.신고받고 출동한 구조대는 산악구조용 들것을 이용해 병원으로 이송됐다.경찰은 부주의로 인한 사고로 추정하고 목격자 진술 등을 토대로 정확한 사고 경위를 조사하고 있다.(구미=뉴스1)."
+    ],
+    "chips": [
+      "#의료"
+    ]
+  },
+  {
+    "id": "n13ce878e",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "1분 전",
+    "url": "https://www.donga.com/news/Society/article/all/20261006/134790473/1",
+    "title": "쓰레기 소각하다 전북도 기념물에 불…남강정사 담장 태워",
+    "summary": [
+      "전북도 기념물에 불이 붙었다가 담장 일부를 태우고 진화됐다.6일 전북소방본부에 따르면 전날 오후 2시 24분께 김제시 금구면 서도리 남강정사(南崗精舍) 담장에 불이 났다.이 화재로 남강정사 담장 15m가 타고, 소나무 등이 일부 그을려 소방서 추산 253만 원 상당의 재산 피해가 발생했다.전북도 기념물 제64호인 남강정사는 구한말의 충신 장태수 선생(1841~1910)이 순국한 집으로, 사라져가는 지방 초가집의 일면을 보여주고 있다.경찰과 소방."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n9b18db8d",
-    "category": "IT",
-    "source": "뉴시스",
+    "id": "n4d9b3458",
+    "category": "사회",
+    "source": "동아일보",
     "time": "2분 전",
-    "url": "https://www.newsis.com/view/NISX20261001_0003810729",
-    "title": "\"조직의 명함은 끝났다\"…AI 시대 살아남는 사람들의 특징",
+    "url": "https://www.donga.com/news/Entertainment/article/all/20261006/134790462/1",
+    "title": "이경규, 말투 어눌?…건강 이상설에 답했다",
     "summary": [
-      "[서울=뉴시스] 김종민 기자 = 인공지능 기술이 급격히 발전함에 따라 조직 중심의 기존 작업 방식이 해체되고 독자적인 역량을 갖춘 개인의 중요성이 크게 높아지고 있다.",
-      "1일 MBC 라디오 프로그램 '손에 잡히는 경제 플러스' 방송에 출연한 빅데이터 전문가 송길영 작가는 인공지능 시대에 생존하는 인간의 특징을 다각도로 분석했다.",
-      "인공지능이 인간의 반복 업무와 단순 지식 노동을 대체하면서 거대한 조직의 울타리보다 개인의 전문성과 주체성이 경쟁력의."
+      "방송인 이경규가 최근 불거진 건강이상설을 직접 일축하며 근황을 전했다.이경규는 5일 방송된 tvN 스토리(STORY) 예능물 ‘남겨서 뭐하게’에서 건강에 이상이 없느냐는 질문에 “건강하다”고 답한 뒤, 서울시에서 측정한 체력 평가 결과지를 공개했다.그는 “최근 말투가 어눌해 건강이 안 좋다는 기사가 나왔다”며 “100점 만점에 55점이 나왔는데, 자존심 때문에 어르신 기준이 아닌 일반 성인 기준으로 검사를 받아 점수가 다소 낮게 나왔다”고 설명."
+    ],
+    "chips": [
+      "#의료"
+    ]
+  },
+  {
+    "id": "n5223772d",
+    "category": "IT",
+    "source": "연합뉴스",
+    "time": "4분 전",
+    "url": "https://www.yna.co.kr/view/AKR20261006016500009",
+    "title": "\"IPO 미룬 오픈AI, 40조원 투자 유치 논의중\"",
+    "summary": [
+      "(서울=연합뉴스) 주종국 기자 = 오픈AI가 아부다비의 국영펀드 MGX를 비롯한 아랍에미리트(UAE)의 여러 투자 펀드, 글로벌 자산운용사 블랙..."
     ],
     "chips": [
       "#AI"
     ]
   },
   {
-    "id": "n1a31c2ad",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "6분 전",
-    "url": "https://www.newsis.com/view/NISX20261006_0003814660",
-    "title": "나이지리아서 32명 탑승 군용기 추락…사상자 발생 여부 확인안돼",
-    "summary": [
-      "[서울=뉴시스] 김예진 기자 = 나이지리아 당국은 5일(현지 시간) 32명이 탑승한 군용 항공기가 추락하면서 긴급 수색·구조 작업이 시작됐다고 밝혔다.",
-      "AP통신 등에 따르면 페스투스 케야모 나이지리아 항공부 장관은 성명을 통해 이같이 밝혔다.",
-      "항공기는 경제 중심지 라고스로 정기 임무를 수행하던 중 온도주 강변 마을 이그보코다에서 추락했다고 밝혔다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nf78c30c7",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "7분 전",
-    "url": "https://www.chosun.com/international/international_general/2026/10/06/MJRWMMLBGA3GGY3GMVSGEZRQMM/",
-    "title": "러시아 페스트 연구소서 병원체 유출 의심 사고…美·EU “상황 주시”",
-    "summary": [
-      "러시아 시베리아의 페스트 연구소에서 병원체가 든 시험관이 깨지는 사고가 발생해 연구원 1명이 숨지고 접촉자 200여명이 격리됐다.",
-      "미국 백악관과 유럽연합(EU) 집행위원회가 잇따라 상황을 주시하고 있다고 밝히면서 국제사회의 경계감도 커지는 분위기다.",
-      "4일(현지 시각) 미 온라인 매체 악시오스 등에 따르면 사고는 지난달 25일 이르쿠츠크주 셸레호프시에 있는."
-    ],
-    "chips": [
-      "#의료"
-    ]
-  },
-  {
-    "id": "n80a89b56",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "7분 전",
-    "url": "https://www.chosun.com/jp/international-jp/2026/10/06/3XNPKIHKF5ESRJWK26OL74QGJ4/",
-    "title": "ロシアのペスト研究所で病原体流出か",
-    "summary": [
-      "ロシア・シベリアのペスト研究所で病原体の入った試験管が割れる事故が発生し、研究員1人が死亡、接触者200人余りが隔離された。米ホワイトハウスと欧州連合（EU）欧州委員会が相次いで状況を注視していると明らかにし、国際社会の警戒感も高まっている。米オンラインメディア「アクシオス」などが4日（現地時間）報じたところによると、事故は先月25日、イルクーツク州シェレホフ市にある."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n916aa741",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "11분 전",
-    "url": "https://www.chosun.com/jp/sports-jp/2026/10/06/6XG5V6LXVNCO5ONXPI3LVDELW4/",
-    "title": "松島輝空、史上最年少で世界1位",
-    "summary": [
-      "［OSEN＝ハン・ヨンソプ記者］日本選手の世界ランキング1位は46年ぶりだ。2026年愛知・名古屋アジア大会の卓球男子団体で中国を破り金メダルを獲得した日本の松島輝空（19）が、史上最年少で世界ランキング1位に立った。国際卓球連盟（ITTF）は5日、2026年シーズン第41週の最新世界ランキングを発表した。アジア大会の成績が反映された最新ランキングは大きく変動した。."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n0e7d9ac6",
+    "id": "nfbf38eaf",
     "category": "스포츠",
-    "source": "조선일보",
-    "time": "11분 전",
-    "url": "https://www.chosun.com/sports/sports_general/2026/10/06/HBRGKNDFMVRTEMTGGQYDONRVGQ/",
-    "title": "‘미쳤다’ 중국 꺾고 금메달 日 19세 탁구 천재, 역대 최연소 세계랭킹 1위 등극…일본 선수로는 46년 만에 랭킹 1위 겹경사",
-    "summary": [
-      "[OSEN=한용섭 기자] 46년 만에 일본인 세계랭킹 1위다.",
-      "2026 아이치 나고야 아시안게임에서 중국을 꺾고 남자 탁구 단체전 금메달을 획득한 일본 마쓰시마 소라(19)가 역대 최연소 세계랭킹 1위에 등극했다.",
-      "국제탁구연맹(ITTF)은 5일 2026시즌 41주차 최신 세계랭킹을 발표했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n95edc36e",
-    "category": "사회",
     "source": "연합뉴스",
-    "time": "20분 전",
-    "url": "https://www.yna.co.kr/view/AKR20261006000900085",
-    "title": "아람코 CEO \"세계 석유 시스템 한계…비축에 2년 걸릴 것\"",
+    "time": "4분 전",
+    "url": "https://www.yna.co.kr/view/AKR20261006017700051",
+    "title": "부산시, 7일 체육정책 토론회…12일 사직야구장 입장 발표",
     "summary": [
-      "(런던=연합뉴스) 김지연 특파원 = 사우디아라비아의 국영 석유기업 아람코의 아민 나세르 최고경영자(CEO)가 5일(현지시간) 세계 석유 공급 시..."
+      "(부산=연합뉴스) 김선호 기자 = 부산시는 7일 오후 부산시 체육회관에서 민선 9기 부산 체육정책 시민 대토론회를 개최한다고 6일 밝혔다."
     ],
     "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n22359d72",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "25분 전",
-    "url": "https://www.newsis.com/view/NISX20261006_0003814657",
-    "title": "트럼프, 중간선거 치르기도 전에 \"미국 선거는 부패\"",
-    "summary": [
-      "[워싱턴=뉴시스] 이윤희 특파원 = 미국 중간선거에서 집권당인 공화당이 의회 주도권을 민주당에 넘겨줄 수도 있다는 관측이 나오는 가운데, 도널드 트럼프 대통령이 \"미국에서 투표하는 것은 부패했다\"고 주장하고 나섰다.",
-      "트럼프 대통령은 4일(현지 시간) 소셜미디어(SNS) 트루스소셜에 \"1억2500만명이 오늘 브라질 대선 1차투표에 투표했다.",
-      "선거 결과는 투표가 마무리된 당일 곧바로 나왔다\"며 이같이 적었다."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n70ce298a",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "33분 전",
-    "url": "https://www.newsis.com/view/NISX20261004_0003813904",
-    "title": "골목길 서행·추진車 손목치기, 합의금 뜯었다…50대 구속",
-    "summary": [
-      "[진주=뉴시스] 정경규 기자 = 경남 진주경찰서는 좁은 골목길에서 서행하거나 후진하는 차량을 상대로 고의로 신체 접촉해 사고를 내고 합의금과 보험금을 챙긴 A(50대)씨를 보험사기방지 특별법 위반 및 사기 혐의로 구속했다고 6일 밝혔다.",
-      "A씨는 지난 6월7일부터 7월29일까지 진주시와 사천시, 고성군 일대에서 좁은 골목길을 서행하거나 주차를 위해 후진하는 차량에 고의로 신체 일부를 부딪치는 이른바 '손목치기' 수법으로 사고를 유발한 후 피해 운."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nd85a0051",
-    "category": "경제",
-    "source": "한국경제",
-    "time": "38분 전",
-    "url": "https://www.hankyung.com/article/202610064008i",
-    "title": "美증시,국채금리 올라도 나스닥 사상최고…엔비디아도 최고치 돌파",
-    "summary": [
-      "美증시,국채금리 올라도 나스닥 사상최고…엔비디아도 최고치 돌파."
-    ],
-    "chips": [
-      "#엔비디아",
-      "#금리"
-    ]
-  },
-  {
-    "id": "n78ad95fc",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "50분 전",
-    "url": "https://www.yna.co.kr/view/AKR20261005035951009",
-    "title": "백악관·EU, 러시아 페스트 유출 의심 사고에 촉각…\"상황 주시\"(종합)",
-    "summary": [
-      "(서울·브뤼셀=연합뉴스) 이지헌 기자 현윤경 특파원= 러시아 시베리아의 한 페스트 연구소에서 병원체 유출 의심 사고로 연구원 1명이 사망하고 접..."
-    ],
-    "chips": [
-      "#의료"
-    ]
-  },
-  {
-    "id": "nd8d9de41",
-    "category": "경제",
-    "source": "연합뉴스",
-    "time": "55분 전",
-    "url": "https://www.yna.co.kr/view/AKR20261006000700072",
-    "title": "美 9월 서비스업 확장세 둔화…물가 압력 4년여만에 최고",
-    "summary": [
-      "(뉴욕=연합뉴스) 김연숙 특파원 = 지난 9월 미국 서비스업의 경기 확장세가 둔화한 것으로 나타났다.",
-      "기업들의 비용 상승 압력은 4년여만에 가장..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n9c2763ed",
-    "category": "경제",
-    "source": "한국경제",
-    "time": "55분 전",
-    "url": "https://www.hankyung.com/article/202610064007i",
-    "title": "3Q 어닝 '또 30% 증가 예상'…대단한데, 월가가 걱정하는 것 [김현석의 퀵 브리프]",
-    "summary": [
-      "3Q 어닝 '또 30% 증가 예상'…대단한데, 월가가 걱정하는 것 [김현석의 퀵 브리프]."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n15ac0367",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "1시간 전",
-    "url": "https://www.donga.com/news/Economy/article/all/20261005/134788583/2",
-    "title": "현대百도 참전… 유통 빅3 ‘프리미엄 김치’ 대전",
-    "summary": [
-      "프리미엄 김치 시장을 둘러싼 유통 대기업들의 경쟁이 치열해지고 있다.",
-      "롯데그룹과 신세계그룹이 각각 호텔 계열사를 통해 김치 사업을 해온 데 이어 현대백화점도 자체 전통식품 브랜드를 앞세워 시장에 뛰어들었다.",
-      "김치를 사 먹는 소비자가 늘고 해외 수요도 해마다 커지자 식재료 조달망과 판매 채널을 갖춘 유통 대기업들이 고급 김치를 새로운 먹거리로 키우는 모습이다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n57a9cee4",
-    "category": "경제",
-    "source": "동아일보",
-    "time": "1시간 전",
-    "url": "https://www.donga.com/news/Economy/article/all/20261005/134788602/2",
-    "title": "韓 성장률 3.1→3.3% 상향… AMRO, 내년은 2.7% 예상",
-    "summary": [
-      "아세안+3 거시경제조사기구(AMRO)는 올해 한국 경제가 3.3% 성장할 것으로 내다봤다.",
-      "국내외 주요 기관들이 잇달아 3%대 성장률을 예상하고 있지만 중동 분쟁 등 지정학적 요인과 금융시장 불확실성 등 위험 요인이 남아 있다는 분석이 나온다.",
-      "AMRO는 5일 지역경제전망 보고서 수정전망을 통해 올해 한국 경제성장률을 3.3%로 제시했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "ndfc5f5c0",
-    "category": "IT",
-    "source": "동아일보",
-    "time": "1시간 전",
-    "url": "https://www.donga.com/news/Economy/article/all/20261005/134788598/2",
-    "title": "정부, ‘독파모’ 2곳 선정 예정대로… ‘프런티어AI-산업 확산’ 투트랙으로",
-    "summary": [
-      "정부가 ‘독자 인공지능(AI) 파운데이션 모델’(독파모) 사업에서 2개 정예팀을 최종 선발한다는 기존 계획을 예정대로 진행한다.",
-      "내년부터 AI 모델 정책을 ‘글로벌 최상위 모델 개발’과 ‘국산 AI 산업 확산’의 두 축으로 재편한다.",
-      "5일 과학기술정보통신부에 따르면 독파모는 내년 2월 중순 3차 단계평가를 거쳐 LG AI연구원, SK텔레콤, 업스테이지 중 2개 팀을 선정한다."
-    ],
-    "chips": [
-      "#AI",
+      "#KBO",
       "#정책"
     ]
   },
   {
-    "id": "n3da981d4",
-    "category": "경제",
-    "source": "동아일보",
-    "time": "1시간 전",
-    "url": "https://www.donga.com/news/Economy/article/all/20261005/134788544/2",
-    "title": "앤스로픽, 사상 최대규모 상장 채비… 국내 증시엔 ‘찬물’ 우려",
+    "id": "n576acc90",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "8분 전",
+    "url": "https://www.newsis.com/view/NISX20261006_0003814734",
+    "title": "누리호, 1시간30분 만에 발사대 도착…오전 중 수직으로 선다",
     "summary": [
-      "인공지능(AI) 모델 ‘클로드’를 개발한 앤스로픽이 다음 달 미국 뉴욕 증시에서 나스닥 상장을 추진한다.",
-      "올 6월 증시에 입성한 우주기업 스페이스X를 뛰어넘는 역대 최대 규모의 공모 기업이 될 것으로 보인다.",
-      "일각에서는 앤스로픽의 상장이 국내 증시의 자금 이탈을 늘려 주가를 하락시키고 원-달러 환율을 끌어올리는 요인이 될 수 있다는 우려도 나온다."
+      "[서울=뉴시스]윤현성 기자 = 한국형발사체 누리호가 5번째 발사를 앞두고 제2발사대까지 이송을 마쳤다.",
+      "누리호는 오전 중 발사대에 수직으로 세워지고, 오후에는 전원과 추진제 공급을 위한 엄빌리칼 연결과 기밀점검 등 후속 작업에 들어간다.",
+      "우주항공청은 6일 오전 7시30분 누리호의 발사대 이송이 완료됐다고 밝혔다."
     ],
     "chips": [
-      "#AI",
-      "#환율"
+      "#뉴스"
     ]
   },
   {
-    "id": "n3010cabd",
+    "id": "nbbfaa1ba",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "8분 전",
+    "url": "https://www.yna.co.kr/view/AKR20261006017600051",
+    "title": "부산시, 원도심 타운홀 미팅…주민과 현안 해결 논의",
+    "summary": [
+      "(부산=연합뉴스) 김선호 기자 = 부산시는 6일 오후 부산패션비즈센터에서 중구·서구·동구·영도구 주민과 '부산 구석구석, 시민의 일상을 바꾸다 ..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n2a118028",
+    "category": "경제",
+    "source": "뉴시스",
+    "time": "9분 전",
+    "url": "https://www.newsis.com/view/NISX20261006_0003814692",
+    "title": "美 국무, 아이슬란드 방문…\"안전한 북극·국방 협력 추진\"",
+    "summary": [
+      "[서울=뉴시스] 이재우 기자 = 마코 루비오 미국 국무장관이 5일(현지시간) 북극권 요충지인 아이슬란드를 방문했다.",
+      "미국이 덴마크, 덴마크 자치령 그린란드와 3자 안보협정에 서명한지 13일 만이다.",
+      "루비오 장관은 이날 소셜미디어 엑스(X·옛 트위터)에 아이슬란드 수도 레이캬비크 도착 사진과 함께 \"우리의 공동 우선순위인 안전한 북극, 더욱 강력한 무역과 에너지 관계, 더욱 긴밀한 국방 협력을 진전시키기 위해 아이슬란드에 도착했다\"고 적었다."
+    ],
+    "chips": [
+      "#수출"
+    ]
+  },
+  {
+    "id": "n457dca12",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "10분 전",
+    "url": "https://www.yna.co.kr/view/AKR20261006016900004",
+    "title": "마곡서 웰니스축제 한마당…10∼11일 강서구 '허준축제'",
+    "summary": [
+      "(서울=연합뉴스) 정준영 기자 = 서울 강서구(구청장 진교훈)는 오는 10∼11일 서울식물원, 마곡중앙로, 마곡광장 등 마곡 일대에서 '전통을 ..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "ncaae4564",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "18분 전",
+    "url": "https://www.newsis.com/view/NISX20261006_0003814730",
+    "title": "[오늘의 주요일정]전남광주통합특별시(10월 6일 화요일)",
+    "summary": [
+      "[전남광주=뉴시스] ▲오전 7시30분 영암송전선로반대위, 송전선로 반대, 한전본사 앞 ▲오전 7시40분 민주노총 공공연대노조 영광주비, 통신공사 노조 고용승계 촉구, 한빛원전 앞 공터 ▲오전 7시50분 공공연대 도로공사지부 보성지회, 임금체불지급촉구, 한국도로공사 보성지사 정문 앞 ▲오전 7시50분, 공공연대 한국도로공사 담양지회, 대법원 판결 이행 촉구, 한국도로공사 담양지사 앞 ▲오전 9시 더불어민주당 순천갑지역위, 순천대 의대 촉구 서명운."
+    ],
+    "chips": [
+      "#고용"
+    ]
+  },
+  {
+    "id": "ne34f19f3",
+    "category": "스포츠",
+    "source": "동아일보",
+    "time": "22분 전",
+    "url": "https://www.donga.com/news/Sports/article/all/20261006/134790396/1",
+    "title": "손흥민, 오늘 우즈베크전서 차범근 넘을까…‘A매치 최다골’ 정조준",
+    "summary": [
+      "한국 남자 축구 대표팀 ‘주장’ 손흥민(34·로스앤젤레스FC)이 우즈베키스탄을 상대로 남자 A매치 최다골을 노린다.‘임시 사령탑’ 로베르트 모레노(스페인) 감독이 이끄는 한국 축구 대표팀은 6일 오후 8시 용인미르스타디움에서 우즈베크와 9~10월 A매치 마지막 일정을 소화한다.모레노호는 지난달 24일 에콰도르전에서 3-0 완승을 거두면서 데뷔전 승리를 기록했다.하지만 28일 우루과이전에서 1-4 패배를 당해 분위기가 떨어졌고, 10월2일 베네수."
+    ],
+    "chips": [
+      "#손흥민"
+    ]
+  },
+  {
+    "id": "n6f63a641",
     "category": "경제",
     "source": "한국경제",
-    "time": "1시간 전",
-    "url": "https://www.hankyung.com/article/202610053989i",
-    "title": "머스크 '테라팹'에 TSMC도 참여?…인텔주가 하락",
+    "time": "23분 전",
+    "url": "https://www.hankyung.com/article/2026100641597",
+    "title": "선진국 미국 덮친 '이 병'…결국 재난 비상사태까지 갔다",
     "summary": [
-      "머스크 '테라팹'에 TSMC도 참여?…인텔주가 하락."
+      "선진국 미국 덮친 '이 병'…결국 재난 비상사태까지 갔다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n905ec287",
+    "category": "IT",
+    "source": "한국경제",
+    "time": "26분 전",
+    "url": "https://www.hankyung.com/article/202610053159i",
+    "title": "\"공급이 못 따라간다\"…수퍼사이클 탄 AI반도체 기판 3인방 비교분석",
+    "summary": [
+      "\"공급이 못 따라간다\"…수퍼사이클 탄 AI반도체 기판 3인방 비교분석."
+    ],
+    "chips": [
+      "#AI",
+      "#반도체"
+    ]
+  },
+  {
+    "id": "nc48b2e78",
+    "category": "경제",
+    "source": "한국경제",
+    "time": "28분 전",
+    "url": "https://www.hankyung.com/article/202610053627i",
+    "title": "원화 강세의 그늘…실적시즌 앞두고 이익전망 '뒷걸음질'",
+    "summary": [
+      "원화 강세의 그늘…실적시즌 앞두고 이익전망 '뒷걸음질'."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n39b695a6",
+    "category": "경제",
+    "source": "한국경제",
+    "time": "28분 전",
+    "url": "https://www.hankyung.com/article/202610064145H",
+    "title": "이재정, '암살자(들)' 논란에 \"제발 영화부터 보고 이야기하시라\"",
+    "summary": [
+      "이재정, '암살자(들)' 논란에 \"제발 영화부터 보고 이야기하시라\"."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n829105b5",
+    "category": "경제",
+    "source": "연합뉴스(경제)",
+    "time": "29분 전",
+    "url": "https://www.yna.co.kr/view/AKR20261006012400011",
+    "title": "[연합뉴스 이 시각 헤드라인] - 07:30",
+    "summary": [
+      "[연합뉴스 이 시각 헤드라인] - 07:30."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n3b3fee93",
+    "category": "경제",
+    "source": "연합뉴스(경제)",
+    "time": "59분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260908033900898",
+    "title": "[우분투칼럼] '아프리카 속 유럽'…이중적 맥락과 비즈니스 통찰",
+    "summary": [
+      "[※ 편집자 주 = 연합뉴스 글로벌문화교류단이 국내 주요 대학 아프리카 연구기관 등과 손잡고 '우분투 칼럼'을 게재합니다."
+    ],
+    "chips": [
+      "#교육"
+    ]
+  },
+  {
+    "id": "n0ce44c8e",
+    "category": "IT",
+    "source": "한경IT",
+    "time": "1시간 전",
+    "url": "https://www.hankyung.com/article/2026100641027",
+    "title": "누리호, 오전 6시 10분 발사대로 이송 시작…기립 본격화",
+    "summary": [
+      "누리호, 오전 6시 10분 발사대로 이송 시작…기립 본격화."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nf992624e",
+    "category": "스포츠",
+    "source": "테크M",
+    "time": "1시간 전",
+    "url": "https://www.techm.kr/news/articleView.html?idxno=155844",
+    "title": "케이뱅크-업비트 '동행' 1년 더…실명확인 입출금계정 계약 연장",
+    "summary": [
+      "케이뱅크가 국내 최대 가상자산거래소 업비트와 동행을 1년 더 이어간다.",
+      "케이뱅크 전체 수신의 14%에 달하는 업비트 이용자 예치금을 계속 맡게 되면서 가상자산 시장과 연계한 수신 기반도 유지할 수 있게 됐다.5일 금융감독원 전자공시시스템에 따르면 케이뱅크는 지난 2일 업비트 운영사 두나무와 원화거래 지원을 위한 실명확인 입출금계정 서비스 제휴 계약 연장에 합의했다.",
+      "기존 계약은 이날 만료될 예정이었다.새 계약기간은 오는 6일부터 내년 10월5일."
     ],
     "chips": [
       "#뉴스"
@@ -634,20 +618,20 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2590건",
-    "trend": "+295%"
+    "mentions": "2330건",
+    "trend": "+255%"
   },
   {
     "rank": 2,
     "tag": "AI",
-    "mentions": "1940건",
-    "trend": "+195%"
+    "mentions": "1810건",
+    "trend": "+175%"
   },
   {
     "rank": 3,
     "tag": "반도체",
-    "mentions": "1420건",
-    "trend": "+115%"
+    "mentions": "1680건",
+    "trend": "+155%"
   }
 ];
 // ====AUTO-GENERATED-END====
