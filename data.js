@@ -1,11 +1,27 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-10-06 16:22:38
+// 마지막 업데이트: 2026-10-06 21:22:35
 window.NEWS_DB = [
+  {
+    "id": "n504b5ecc",
+    "category": "IT",
+    "source": "코인리더스",
+    "time": "3시간 전",
+    "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFB5S1lTTGozZkdjX2JyY3Q2cnFGTmtjMzRnNklRVUp6X3o0R3RLeE5VX2tRNHh6VUx4eUxCb3BpVHNoYjRiV3NPWFJn?oc=5",
+    "title": "AI 독점 '엔비디아(NVDA)' vs 제조 황제 'TSMC'...2026년 담아야 할 반도체주는?",
+    "summary": [
+      "AI 독점 '엔비디아(NVDA)' vs 제조 황제 'TSMC'...2026년 담아야 할 반도체주는? 코인리더스."
+    ],
+    "chips": [
+      "#AI",
+      "#반도체",
+      "#엔비디아"
+    ]
+  },
   {
     "id": "n4925e816",
     "category": "IT",
     "source": "비즈니스포스트",
-    "time": "10시간 전",
+    "time": "15시간 전",
     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1NNjBLN3dzdGp1Z3FtSlZpWHFvNUR6ZUpLLUNKUlgyTzlWUUw4bmJjcTQtZk1sbTg1XzBJeHVNVTBtcEhldXEtNmxnYnBWaXdmY09rcXU1SGxDamU5alBaOGNBZlVQb2U2cEZSZkRLLUVlc2M?oc=5",
     "title": "'AI 해킹' 위협에 엔비디아 'AI 보안'으로 맞불, 삼성전자와 SK하이닉스에도 수혜 가능성",
     "summary": [
@@ -22,7 +38,7 @@ window.NEWS_DB = [
     "id": "n6858a6a4",
     "category": "IT",
     "source": "머니투데이",
-    "time": "13시간 전",
+    "time": "18시간 전",
     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA3M1pYakx6X2F2aldhcFlBcGwwbVpuMEZOSnZkN042Vlg1aEZoRDhfckpjRV9rZUdlZnRrbFVrNi1wSFQ0VWZjNkVYeDBqTjZQZkx4bzlXSjdPS1FTcElleVJNN0tOTmZG0gFuQVVfeXFMTUt1eUwxYVhYSzR6UGlsVzA5U0R5LUhmd0pPUmRReV8xRmFwMHFQYUlfN19wSmRmMGZ6bzBvSi1oZzRhRWVuSjVYcmhpS3dFaldYUlBucTlQQnRvdmktb2pSTEtHNmwwazFkVExkbFE?oc=5",
     "title": "'엔비디아發 훈풍' AI·반도체 강세…닛케이, 0.19%↑[Asia오전] - 머니투데이",
     "summary": [
@@ -38,7 +54,7 @@ window.NEWS_DB = [
     "id": "n681e79cf",
     "category": "IT",
     "source": "이슈밸리",
-    "time": "16시간 전",
+    "time": "21시간 전",
     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1RMGZQRC1ybFhKYk5nc1hpQkxMNDR4eHNEMFFZOXA5d3Bab0pkTmoxeGxnTFpkS1V0Y0VHaFZ5Ty1wLTM5VVlkWG5OQzRuOUdGN3NuY3BPSGlzLURfSmU5NlkybVAxWVFNaXRzc3ZR?oc=5",
     "title": "[증시 전망] 젠슨 황발 AI 낙관론…삼성전자·SK하이닉스 반도체 강세 이어질까",
     "summary": [
@@ -49,22 +65,6 @@ window.NEWS_DB = [
       "#반도체",
       "#삼성전자",
       "#SK하이닉스"
-    ]
-  },
-  {
-    "id": "neac3aa17",
-    "category": "IT",
-    "source": "뉴스1",
-    "time": "19시간 전",
-    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5LNTZHNVo5UWdoZk9sVllIYlFlUVhtQzdyUEwtRmxZRXljNVlQblpvZ2s1ZHNnTmJHTy1DUjRMSjI1V0pXYWNtclJ0M0c3aEtHcF9sdXFrVXgteUpBY1N5a254VS1ZQ3Z3U09kbtIBbEFVX3lxTE5LNTZHNVo5UWdoZk9sVllIYlFlUVhtQzdyUEwtRmxZRXljNVlQblpvZ2s1ZHNnTmJHTy1DUjRMSjI1V0pXYWNtclJ0M0c3aEtHcF9sdXFrVXgteUpBY1N5a254VS1ZQ3Z3U09kbg?oc=5",
-    "title": "美AI 반도체 강세 지속…필라델피아 0.27%↑·엔비디아 사상 최고",
-    "summary": [
-      "美AI 반도체 강세 지속…필라델피아 0.27%↑·엔비디아 사상 최고 뉴스1."
-    ],
-    "chips": [
-      "#AI",
-      "#반도체",
-      "#엔비디아"
     ]
   },
   {
@@ -79,6 +79,21 @@ window.NEWS_DB = [
     ],
     "chips": [
       "#취업"
+    ]
+  },
+  {
+    "id": "n0939e913",
+    "category": "사회",
+    "source": "매일일보",
+    "time": "5일 전",
+    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBaMEI5dFM5MHJ6TnpjcTl5eWVwbE9WamJEV1dvV2NGMUdzWll2VnhFZGd2LTRJUHZoNk14TG9Ya2tYb1RWeDkzYzlyRGh2ZVRjazF6V25PNXRzOGsyMHBOR0tjMjE?oc=5",
+    "title": "영등포구, ‘천하제일 취업박람회’ 개최…“최고의 일자리를 ‘JOB’자”",
+    "summary": [
+      "영등포구, ‘천하제일 취업박람회’ 개최…“최고의 일자리를 ‘JOB’자” 매일일보."
+    ],
+    "chips": [
+      "#취업",
+      "#고용"
     ]
   },
   {
@@ -165,6 +180,20 @@ window.NEWS_DB = [
     ],
     "chips": [
       "#손흥민"
+    ]
+  },
+  {
+    "id": "n1ebf737b",
+    "category": "스포츠",
+    "source": "글로벌E",
+    "time": "15일 전",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1xdGdqbUJjMXkyZFRRYi1ETklIZmlIQlFHYS1ZemlEaU5IQ0hCQkR1Wm5pYVVJUl9jX2s3Z08ydEpxdFM2elFVdjNFdlhxMlRsUVhQY3JKRVdRWG5WUlpOR2hNemdnbVdrWElv0gFvQVVfeXFMT1QxRDNTbjRoMk5ZWVBmRllQU2Z2b1IyY0hYZEx1LWc0aFhSb083aGdYc1ZQNDhrN0NncVZGclFwVnV0RGNoNTNmcXkwSzF5dTdxZnVRYlFQOTZDblRRWkpDUzNCOUpoMEJmbkRYa1Nz?oc=5",
+    "title": "이베이, K-스포츠 굿즈 역직구 급증···KBO 매출 전년 대비 2.9배↑",
+    "summary": [
+      "이베이, K-스포츠 굿즈 역직구 급증···KBO 매출 전년 대비 2.9배↑ 글로벌E."
+    ],
+    "chips": [
+      "#KBO"
     ]
   },
   {
@@ -255,21 +284,6 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nac7d261c",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "67일 전",
-    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1wZmd4RTNaSTBwNVNxSm0yRGFySTlYN19qVTZfYzRtVzBzVV9nSnR3RXdYaTNiNkZRX3F6aXhFZTA5ekUxNW9VWHIzZHFjYnoyWU0wVDNoU2FJcVE?oc=5",
-    "title": "강남구 일자리통합지원센터, 맞춤형 지원으로 취업자 25.7％ 증가",
-    "summary": [
-      "강남구 일자리통합지원센터, 맞춤형 지원으로 취업자 25.7％ 증가 연합뉴스."
-    ],
-    "chips": [
-      "#취업",
-      "#고용"
-    ]
-  },
-  {
     "id": "n207a7abe",
     "category": "IT",
     "source": "Chosunbiz",
@@ -299,25 +313,295 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nb9bdfdfb",
-    "category": "스포츠",
-    "source": "푸드투데이",
-    "time": "130일 전",
-    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9BVmpLTU1zOFZsU1RWVmVOSXppaWhDWFBBRkF4akI3WHBIcXIyX2pXa3JaeXplMm9vbmE4cU1PclhFTXVZdURxQ0RCYTF3aFNsbmRKcTZ5VE9na0cwakQ2XzNuWlJ5QQ?oc=5",
-    "title": "‘손흥민 월드콘.KBO몽쉘’ 축구.야구팬 다 잡자...롯데웰푸드, 스포츠마케팅 총력",
+    "id": "n70e1e6da",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "6분 전",
+    "url": "https://www.yna.co.kr/view/AKR20261007009900055",
+    "title": "전북 일교차 큰 날씨…낮 기온 20∼24도",
     "summary": [
-      "‘손흥민 월드콘.KBO몽쉘’ 축구.야구팬 다 잡자...롯데웰푸드, 스포츠마케팅 총력 푸드투데이."
+      "(전주=연합뉴스) 김문경 기자 = 7일 전북은 대체로 맑고 낮과 밤의 기온 차가 크겠다."
     ],
     "chips": [
-      "#손흥민",
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n7d6aa5bd",
+    "category": "경제",
+    "source": "연합뉴스(경제)",
+    "time": "7분 전",
+    "url": "https://www.yna.co.kr/view/AKR20261006124400003",
+    "title": "스마트시티 서비스 10개 중 4개 운영차질…국비 환수는 0건",
+    "summary": [
+      "(세종=연합뉴스) 오진송 기자 = 국비 600억원이 투입된 스마트시티 챌린지 사업의 세부 서비스 10개 중 4개가 운영이 중단되거나 일부만 이뤄..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n46368e9f",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "7분 전",
+    "url": "https://www.yna.co.kr/view/AKR20261007009800064",
+    "title": "충북 대체로 맑고 쌀쌀…큰 일교차 유의",
+    "summary": [
+      "(청주=연합뉴스) 박건영 기자 = 7일 충북은 대체로 맑고 낮과 밤의 기온 차가 크겠다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n77700f21",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "8분 전",
+    "url": "https://www.yna.co.kr/view/AKR20261007008700051",
+    "title": "부울경 맑고 아침엔 쌀쌀…내륙 일교차 커",
+    "summary": [
+      "(부산=연합뉴스) 김선호 기자 = 7일 부산·울산·경남은 대체로 맑겠으나 아침엔 기온이 낮아 쌀쌀한 날씨를 보인다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n9faea696",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "11분 전",
+    "url": "https://www.chosun.com/sports/golf/2026/10/07/G5RDIODBMU2TAZTBMEYTSOJUGY/",
+    "title": "그렇게 친했나…PGA 투어 트럼프 정책 공개 지지 선언, 대체 왜",
+    "summary": [
+      "[스포츠조선 박상경 기자] PGA(미국프로골프)투어가 도널드 트럼프 미국 대통령이 추진 중인 정책에 공개 지지를 표명해 관심이 쏠린다.",
+      "트럼프 대통령은 최근 자신의 SNS인 트루스소셜을 통해 브라이언 롤랩 PGA투어 CEO가 보낸 편지를 공개했다.",
+      "롤랩은 이 편지에서 트럼프 대통령이 추진 중인 햇빛 보호법(SPA) 도입에 대한 찬성 입장을 드러냈다."
+    ],
+    "chips": [
+      "#정책",
+      "#정치"
+    ]
+  },
+  {
+    "id": "nd2b902c2",
+    "category": "IT",
+    "source": "뉴시스",
+    "time": "12분 전",
+    "url": "https://www.newsis.com/view/NISX20261007_0003816467",
+    "title": "북한 미사일 부품, 정품 아닌 위조품 대거 사용",
+    "summary": [
+      "[서울=뉴시스] 강영진 기자 = 북한이 우크라이나 전쟁에 사용한 미사일과 드론을 생산하는 과정에서 반도체 등 주요 부품을 서방 제품의 위조품으로 사용한 것으로 확인됐다고 미국의 북한 전문 매체 NK 뉴스(NK NEWS)가 6일(현지시각) 보도했다.",
+      "NK 뉴스는 국제 사회의 대북한 제재가 북한의 정품 조달 능력을 제한하고 있음을 시사한다고 지적했다.",
+      "영국 분쟁무기연구(CAR) 프로젝트는 러시아가 우크라이나를 상대로 사용한 북한의 화성-11 계열."
+    ],
+    "chips": [
+      "#반도체"
+    ]
+  },
+  {
+    "id": "n27644a82",
+    "category": "사회",
+    "source": "연합뉴스(경제)",
+    "time": "13분 전",
+    "url": "https://www.yna.co.kr/view/AKR20261006146400003",
+    "title": "건설현장 사망자 절반 이상이 추락사…5년여간 642명",
+    "summary": [
+      "(세종=연합뉴스) 오진송 기자 = 최근 5년여간 건설현장에서 발생한 사망사고의 절반 이상이 추락사고인 것으로 나타났다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n37b6e641",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "15분 전",
+    "url": "https://www.newsis.com/view/NISX20261007_0003816463",
+    "title": "하이브 앤팀(&TEAM) '마크 온 미', '빌보드 200' 20위…자체 최고 순위",
+    "summary": [
+      "[서울=뉴시스]이재훈 기자 = 하이브 글로벌 보이그룹 '앤팀(&TEAM)'이 미국 빌보드 메인 앨범차트 '빌보드 200' 톱 20에 처음으로 진입하며 글로벌 성장세를 입증했다.",
+      "6일(현지시간) 빌보드가 발표한 최신 차트(10월10일 자)에 따르면, 앤팀의 새 한국어 미니 앨범 '마크 온 미(Mark on Me)'는 '빌보드 200' 20위로 첫 진입했다.",
+      "앤팀의 해당 차트 자체 최고 순위이자, 이전 EP '위 온 파이어(We on Fire)'(."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n19b7ef1e",
+    "category": "IT",
+    "source": "뉴시스",
+    "time": "17분 전",
+    "url": "https://www.newsis.com/view/NISX20261007_0003816458",
+    "title": "월가 올해도 '보너스 잔치'…금융권 이익 120조원대 전망",
+    "summary": [
+      "[서울=뉴시스] 이재은 기자 = 미국 월가 금융권이 지난해에 이어 올해도 사상 최대 수준의 보너스를 지급할 것으로 전망됐다.",
+      "대형 은행들이 기업 인수·합병(M&A)과 기업공개(IPO), 인공지능(AI) 투자, 시장 변동성 확대 등에 힘입어 호실적을 이어갈 것으로 예상되면서다.",
+      "6일(현지 시간) 월스트리트저널(WSJ)에 따르면 뉴욕주 감사관 토마스 디나폴리는 올해 미국 금융권은 900억달러(약 120조원) 이상의 이익을 올릴 것으로 전망했다."
+    ],
+    "chips": [
+      "#AI"
+    ]
+  },
+  {
+    "id": "n14209ed7",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "17분 전",
+    "url": "https://www.newsis.com/view/NISX20261006_0003816255",
+    "title": "'암살자(들)' 논란 국감으로…박진영 '패노메논'도 쟁점",
+    "summary": [
+      "[서울=뉴시스]김주희 기자 = 영화 '암살자(들)'을 둘러싼 역사 왜곡 논란이 문화체육관광부 국정감사에서도 쟁점이 될 전망이다.",
+      "국회 문화체육관광위원회는 7일 오전 10시 국회에서 문체부에 대한 국감을 실시한다.",
+      "최휘영 문체부 장관과 김영수 1차관, 김대현 2차관 등이 참석한다."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "ndc21a512",
+    "category": "경제",
+    "source": "연합뉴스(경제)",
+    "time": "22분 전",
+    "url": "https://www.yna.co.kr/view/AKR20260930165200001",
+    "title": "\"알리익스프레스 관련 소비자 피해구제 신청 4년간 1천건 육박\"",
+    "summary": [
+      "(서울=연합뉴스) 이정현 기자 = 국내 시장에서 빠르게 몸집을 키운 전자상거래 업체인 알리익스프레스와 관련한 소비자 피해구제 신청이 최근 4년간..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nd486678a",
+    "category": "경제",
+    "source": "연합뉴스(경제)",
+    "time": "22분 전",
+    "url": "https://www.yna.co.kr/view/AKR20261006182500003",
+    "title": "원전수출 시대 본격 추진…산·학·연·관 '리더스포럼' 출범",
+    "summary": [
+      "(서울=연합뉴스) 신창용 기자 = 한국형 원전의 미국 진출을 계기로 원전 수출 시대를 열기 위해 민관이 힘을 합친다."
+    ],
+    "chips": [
+      "#수출"
+    ]
+  },
+  {
+    "id": "n916edeab",
+    "category": "IT",
+    "source": "조선비즈IT",
+    "time": "21분 전",
+    "url": "https://biz.chosun.com/it-science/ict/2026/10/07/NO7RQ7MZDBEYFNCVYATVEYJNSY/",
+    "title": "삼성전자, 내년 HBM4 공급가 대폭 인상 전망… “D램 가격 급등 반영”",
+    "summary": [
+      "삼성전자, 내년 HBM4 공급가 대폭 인상 전망… “D램 가격 급등 반영”."
+    ],
+    "chips": [
+      "#반도체",
+      "#삼성전자"
+    ]
+  },
+  {
+    "id": "n9dd95d47",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "22분 전",
+    "url": "https://www.chosun.com/culture-life/relion-academia/2026/10/07/PVEWJL3WNFBVBITYHBUFUGQWT4/",
+    "title": "인도 출신 26년차 혜달 스님...“자연스럽게 살아갑니다”",
+    "summary": [
+      "인도 출신 26년차 혜달 스님...“자연스럽게 살아갑니다”."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nee4903bb",
+    "category": "스포츠",
+    "source": "동아일보",
+    "time": "22분 전",
+    "url": "https://www.donga.com/news/Sports/article/all/20261006/134797713/1",
+    "title": "LG-KIA 계속되는 3위 전쟁…KT 최원준-롯데 레이예스 동반 200안타[어제의 프로야구]",
+    "summary": [
+      "김도영의 역전 쓰리런포에 무너졌던 LG가 오스틴의 선제 쓰리런으로 살아났다.",
+      "프로야구 LG는 6일 안방 잠실구장에서 열린 NC와의 경기에서 1회부터 터진 오스틴의 선제 3점 홈런과 5선발 박시원의 5와 3분의 1이닝 1실점 호투를 앞세워 6-1로 승리해 8연패에서 탈출했다.LG는 이날 1회말 문보경의 솔로포까지 더해 4점을 뽑았다.",
+      "LG는 전날 3위 KIA와의 맞대결에서도 1회부터 4점을 뽑았었다."
+    ],
+    "chips": [
       "#KBO"
+    ]
+  },
+  {
+    "id": "nc0ee821d",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "39분 전",
+    "url": "https://www.donga.com/news/Politics/article/all/20261007/134798434/1",
+    "title": "국감 이틀째…‘패노메논’ 상표권 논란 JYP 증인 출석 주목",
+    "summary": [
+      "국회는 올해 국정감사 이틀 차에 접어드는 7일 문화체육관광부와 통일부, 국방부, 농림축산식품부, 중소벤처기업부, 중앙선거관리위원회 등에 대한 감사를 이어간다.이날 열리는 국회 문화체육관광위원회의 문체부 대상 국감에선 글로벌 K-팝 축제인 ‘패노메논’ 상표권을 JYP엔터테인먼트가 단독으로 출원해 논란이 인 것과 관련해 자진해 증인 출석 의사를 밝힌 박진영 대중문화교류위원회 공동위원장에 대한 질의가 나올 것으로 보인다.박 위원장은 전날(6일) SB."
+    ],
+    "chips": [
+      "#스타트업",
+      "#정치"
+    ]
+  },
+  {
+    "id": "n3dbfeff4",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "41분 전",
+    "url": "https://www.donga.com/news/Politics/article/all/20261007/134798431/1",
+    "title": "10개 상임위 국감…DMZ 지뢰폭발·부동산 정책·선관위 개혁 등 도마",
+    "summary": [
+      "국회는 7일 집권 2년차를 맞은 이재명 정부에 대한 이틀째 국정감사를 실시한다.여야는 이날 교육위원회, 과학기술정보방송통신위원회, 외교통일위원회, 국방위원회, 행정안전위원회, 문화체육관광위원회, 농림축산식품해양수산위원회, 산업통상자원중소벤처기업위원회, 보건복지위원회, 국토교통위원회 등 10개 상임위원회에서 국감을 실시한다.특히, 국방부와 통일부 등을 대상으로 진행되는 국방위·외통위 국감에서는 정부의 대북·외교안보 정책을 둘러싼 치열한 공방이 있."
+    ],
+    "chips": [
+      "#부동산",
+      "#스타트업",
+      "#정책",
+      "#정치"
+    ]
+  },
+  {
+    "id": "nc1ded522",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "43분 전",
+    "url": "https://www.donga.com/news/Culture/article/all/20261007/134798428/1",
+    "title": "이수현, 30㎏ 감량 이유 있었네…“日 편의점서 식단 해결”",
+    "summary": [
+      "악동뮤지션 수현이 일본에서도 편의점을 활용해 식단을 관리했다고 밝혔다.6일 유튜브 채널 ‘이수현 Official’에는 ‘일본 출장에서 아무리 바빠도 편의점은 매일 꼭 가야만 하는 건에 대하여’라는 제목의 영상이 공개됐다.영상에서 공연 일정으로 일본을 찾은 이수현은 바쁜 와중에도 편의점에 들러 다양한 음식을 골랐다.이수현은 단 음식보다는 식사 대용 제품이나 반찬류에 관심을 보였다.",
+      "샌드위치와 나물, 된장국 등을 맛보며 자신만의 메뉴 조합을 선보였."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n0de1d581",
+    "category": "IT",
+    "source": "한국경제",
+    "time": "2시간 전",
+    "url": "https://www.hankyung.com/article/202610076756i",
+    "title": "AMD 목표가 800달러까지…월가, 메타 등 AI주 낙관론 지속 [월가 업&다운]",
+    "summary": [
+      "AMD 목표가 800달러까지…월가, 메타 등 AI주 낙관론 지속 [월가 업&다운]."
+    ],
+    "chips": [
+      "#AI"
     ]
   },
   {
     "id": "nb626a5fc",
     "category": "사회",
     "source": "테크M",
-    "time": "방금 전",
+    "time": "2시간 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=155884",
     "title": "[국감 26] AI 정책엔 '물음표', 보안 사고엔 '느낌표'...과방위, 정부·기업에 집중 질의(종합)",
     "summary": [
@@ -335,7 +619,7 @@ window.NEWS_DB = [
     "id": "n60e15b3b",
     "category": "IT",
     "source": "테크M",
-    "time": "방금 전",
+    "time": "4시간 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=155883",
     "title": "韓 컴퓨팅 주권 확보 지렛대는 '클라우드'...CSAP 개편엔 \"역차별 없어야\"",
     "summary": [
@@ -347,301 +631,6 @@ window.NEWS_DB = [
       "#AI",
       "#네이버"
     ]
-  },
-  {
-    "id": "neca6dbbe",
-    "category": "IT",
-    "source": "테크M",
-    "time": "방금 전",
-    "url": "https://www.techm.kr/news/articleView.html?idxno=155880",
-    "title": "[글로벌] 챗GPT가 쓴 글, 이제 '흔적' 남는다...오픈AI, '보이지 않는 워터마크' 도입",
-    "summary": [
-      "오픈AI가 챗GPT와 코덱스가 생성한 글에 '보이지 않는 표시'를 넣기 시작한다.",
-      "사람이 읽을 때는 일반 문장과 차이가 없지만 기계는 해당 글이 인공지능(AI)을 통해 만들어졌다는 신호를 확인할 수 있도록 하는 방식이다.6일 주요 외신보도에 따르면 오픈AI는 챗GPT와 코덱스에서 생성되는 텍스트에 기계 판독이 가능한 워터마크를 적용한다.",
-      "우선 유럽연합(EU) 이용자를 대상으로 도입하고, 전세계 API 이용자에게는 선택적으로 사용할 수 있도록 제."
-    ],
-    "chips": [
-      "#AI",
-      "#전세"
-    ]
-  },
-  {
-    "id": "n6c0241b3",
-    "category": "IT",
-    "source": "테크M",
-    "time": "방금 전",
-    "url": "https://www.techm.kr/news/articleView.html?idxno=155878",
-    "title": "\"K-콘텐츠 품고 글로벌 공략 적중\"...롯데백화점, 외국인 연매출 1조 시대 열었다",
-    "summary": [
-      "국내 백화점 산업에서 사상 처음으로 '외국인 연매출 1조원'이라는 상징적인 이정표가 세워졌습니다.롯데백화점은 6일 오전 기준으로 올해 외국인 누적 매출이 1조원을 돌파했다고 밝혔습니다.",
-      "지난해 기록했던 역대 최대치인 7348억원을 지난 7월에 일찌감치 넘어선 데 이어, 석달만에 1조원 고지까지 밟았습니다.이는 백화점이 단순 쇼핑몰을 탈피해 K-패션과 미식, 문화를 오감으로 체험하는 공간으로 자리매김한 결과라는 것이 전문가들의 평가입니다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n90140ab5",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "3분 전",
-    "url": "https://www.chosun.com/entertainments/broadcast/2026/10/07/GEZTMODBMUZDQZRQMU3DMNJZGQ/",
-    "title": "아이비, 꿈의美브로드웨이 갔는데 “안 행복해..만신창이” 맨땅의 도전",
-    "summary": [
-      "[OSEN=김수형 기자] 가수 겸 뮤지컬 배우 아이비가 뉴욕 브로드웨이 무대에 오르기까지 녹록지 않았던 과정을 공개했다.6일 아이비의 유튜브 채널에는 ‘안녕하세요 아이빕니다.",
-      "제가 브로드웨이에 이름 새기고 왔습니다’라는 제목의 영상이 공개됐다.뉴욕에 도착한 아이비는 공연장이 모여 있는 거리를 바라보며 “이제 극장들이 보인다.",
-      "내가 뉴욕에서 공연하다니 믿을."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n23bd6382",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "4분 전",
-    "url": "https://www.chosun.com/sports/sports_general/2026/10/07/MRSWIOBXMIZDSZRZMNRTKNZRGQ/",
-    "title": "[오피셜]미쳤다! 안세영의 적은 오직 안세영 뿐...안세영, 배드민턴 단식 랭킹 집계 이래 역대 최고점 '104주째 1위'-2위 왕즈이와는 '무려 18298점 차'",
-    "summary": [
-      "[스포츠조선 박찬준 기자]'여제' 안세영이 또 한번의 역사를 썼다.",
-      "세계배드민턴연맹(BWF)은 6일(한국시각) 2026년 아이치-나고여 아시안게임 결과 등을 반영한 새로운 세계 랭킹을 공개했다.",
-      "안세영은 예상대로 세계 랭킹 1위를 굳건히 지켰다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n94389b83",
-    "category": "경제",
-    "source": "연합뉴스",
-    "time": "6분 전",
-    "url": "https://www.yna.co.kr/view/AKR20261007001100072",
-    "title": "캐나다 8월 무역흑자 4년만에 최대…관세 앞두고 대미수출 급증",
-    "summary": [
-      "(뉴욕=연합뉴스) 김연숙 특파원 = 지난 8월 캐나다의 무역흑자가 4년여만에 최대치를 기록했다."
-    ],
-    "chips": [
-      "#수출"
-    ]
-  },
-  {
-    "id": "nf96c99e0",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "10분 전",
-    "url": "https://www.yna.co.kr/view/AKR20261007001500071",
-    "title": "\"美, 이란 드론공격 가능성에 英기지서 B-1폭격기 12대 철수\"",
-    "summary": [
-      "(워싱턴=연합뉴스) 이유미 특파원 = 미국이 이란의 드론 공격 가능성을 우려해 영국 공군기지에 배치했던 B-1 전략폭격기 12대를 긴급 철수한 ..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nb18b5c6f",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "15분 전",
-    "url": "https://www.yna.co.kr/view/AKR20261007001000087",
-    "title": "갱단 폭력 사태 잇따르는 아이티, 결국 12월 선거 연기",
-    "summary": [
-      "(멕시코시티=연합뉴스) 송광호 특파원 = 무장 갱단의 발호로 극심한 폭력 사태가 잇따르고 있는 아이티에서 선거가 다시 연기됐다."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "na4ba80be",
-    "category": "스포츠",
-    "source": "머니투데이",
-    "time": "17분 전",
-    "url": "https://www.mt.co.kr/sports/2026/10/07/2026100618371727242",
-    "title": "\"감히 어린이를 이겨?\" 150kg 스모 선수, 동료에 고함 지르고 '분노'... 꼬마 선수 패대기친 '역대급 쇼'",
-    "summary": [
-      "일본 프로스모 1부 리그 격인 마쿠우치 등급의 이치야마모토가 비시즌 팬 서비스 투어인 가을 순회공연 중 열린 특별 이벤트 '어린이 스모'에서 남다른 팬 서비스로 화제를 모았다.",
-      "일본 매체 '데일리 스포츠'는 6일 \"이치야마모토가 일본 이바라키현 쓰쿠바시에서 열린 오즈모 가을 순회공연 첫날, 어린이 팬들을 향한 재치 있는 진행과 이른바 '신대응(훌륭한 팬 서비스)'으로 관객들을 열광시켰다\"고 보도했다.",
-      "이날 다카야스, 류덴과 함께 지역 어린이들과."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "na7eda17e",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "21분 전",
-    "url": "https://www.newsis.com/view/NISX20261006_0003816091",
-    "title": "\"수능 40여일\"…오랜 공부에 팔꿈치가 붓는다면?",
-    "summary": [
-      "[서울=뉴시스]송종호 기자 = 수능이 40여일 앞으로 다가오면서 수험생들이 책상 앞에 앉아 있는 시간도 늘어나고 있다.",
-      "이때 팔꿈치를 책상에 괴거나 체중을 실어 쉬는 자세가 반복되다 보면 어느 순간 팔꿈치 뒤쪽이 붓고 욱신거릴 수 있다.",
-      "단순히 오래 공부해서 생긴 통증으로 넘기기 쉽지만 팔꿈치에 반복적으로 압력이 가해지면서 점액낭에 염증이 생긴 '팔꿈치 점액낭염'일 수 있다."
-    ],
-    "chips": [
-      "#교육",
-      "#의료"
-    ]
-  },
-  {
-    "id": "ncb3c9ef7",
-    "category": "스포츠",
-    "source": "머니투데이",
-    "time": "22분 전",
-    "url": "https://www.mt.co.kr/entertainment/2026/10/07/2026100700223024619",
-    "title": "배성재, KBS 지역국→SBS 스포츠 간판 된 반전 이력",
-    "summary": [
-      "배성재가 KBS 지역 아나운서에서 SBS 아나운서로 이직하게 된 비하인드를 공개했다.",
-      "배성재는 수습 후 지역 방송국으로 발령받으며 본사 복귀가 불확실했던 상황에서 스포츠 중계를 꼭 하고 싶다는 꿈 때문에 SBS 시험에 다시 도전했다고 밝혔다.",
-      "6일 방영된 KBS2 '옥탑방의 문제아들' 329회에서는 배성재, 김다영 부부가 출연해 입담을 나눴다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n7398653c",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "27분 전",
-    "url": "https://www.newsis.com/view/NISX20261007_0003816441",
-    "title": "백악관, 트럼프 'LA·샌디에이고 파괴' 발언 해명…\"이란 공격 뜻 아냐\"",
-    "summary": [
-      "[서울=뉴시스] 이재은 기자 = 백악관이 도널드 트럼프 미국 대통령이 이란의 미국 본토 공격 가능성을 언급하며 로스앤젤레스와 샌디에이고가 파괴될 수 있다고 발언한 것과 관련해 \"미국 도시가 공격받기를 원한다는 의미가 아니었다\"고 해명했다.",
-      "AP통신에 따르면 스티븐 청 백악관 공보국장은 6일(현지 시간) 소셜미디어를 통해 트럼프 대통령의 발언이 \"현실에 근거하지 않은\" 언론의 과도한 반응으로 오해되고 왜곡됐다고 주장했다."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "nf88a89cc",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "32분 전",
-    "url": "https://www.newsis.com/view/NISX20261007_0003816443",
-    "title": "\"美中, 상호 핵시설 방문 논의중…중국이 먼저 제안\"",
-    "summary": [
-      "[워싱턴=뉴시스] 이윤희 특파원 = 미국과 중국의 핵무기 군비 경쟁에 대한 우려가 지속되는 가운데, 양국이 상호 핵시설 방문 방안을 논의해온 것으로 전해졌다.",
-      "미 CNN은 6일(현지 시간) 소식통들을 인용해 이같이 전하며 향후 대면 회담에서 논의가 이어질 예정이라고 전했다.",
-      "이는 양국간 핵군축 노력의 일환으로 해석되는데, 올해 초 실무 회담에서 중국 측이 먼저 제안했다고 한다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n0c9fcc39",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "38분 전",
-    "url": "https://www.chosun.com/international/international_general/2026/10/07/RXBBOVAEUFBAZGC6HJAX5RBPU4/",
-    "title": "[뉴스 저격] 내전·쿠데타·극단주의… ‘아랍의 겨울’은 끝나지 않았다",
-    "summary": [
-      "[뉴스 저격] 내전·쿠데타·극단주의… ‘아랍의 겨울’은 끝나지 않았다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n5a2b9ade",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "39분 전",
-    "url": "https://www.yna.co.kr/view/AKR20261006062851009",
-    "title": "WHO, 러 페스트 연구소 직원 사망에 \"공중 보건 위험 낮은 수준\"(종합)",
-    "summary": [
-      "(요하네스버그·서울=연합뉴스) 나확진 특파원 이신영 기자 = 세계보건기구(WHO)는 러시아 이르쿠츠크의 한 페스트 연구소에서 병원체가 유출돼 연..."
-    ],
-    "chips": [
-      "#의료"
-    ]
-  },
-  {
-    "id": "ne18f3453",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "48분 전",
-    "url": "https://www.chosun.com/economy/tech_it/2026/10/07/Y2EORNWGWFFYDMGDYVVQ4Z76HY/",
-    "title": "걸그룹 만들어 세탁건조기 홍보… 가전제품 광고 문법 바꾼 LG전자",
-    "summary": [
-      "올해 7월 말 유튜브·인스타그램에 ‘AWC엔터테인먼트’라는 낯선 이름의 채널이 생겼습니다.",
-      "신곡 ‘아이워시(I WASH)’와 티저·안무 영상, 컨셉트 사진이 하나둘 공개됐죠.",
-      "신인 걸그룹의 데뷔 과정이었습니다."
-    ],
-    "chips": [
-      "#채용"
-    ]
-  },
-  {
-    "id": "n19fa6633",
-    "category": "스포츠",
-    "source": "머니투데이",
-    "time": "51분 전",
-    "url": "https://www.mt.co.kr/sports/2026/10/07/2026100620420864456",
-    "title": "\"이혼만은 안 돼\" TOP모델에 매달린 '미식축구 GOAT', 끝내 파경은 막지 못했다... 이제야 밝혀진 '세기의 커플' 결별 뒷이야기",
-    "summary": [
-      "세기의 커플로 알려졌던 '미식축구 G.O.A.T(Greatest Of All Time)' 톰 브래디(49)가 세계적인 모델 지젤 번천(46)과 파경을 막기 위해 스프링 캠프 도중 장기간 휴가를 요청하는 등 필사적인 노력을 다했던 것으로 알려지며 화제가 되고 있다.",
-      "미국 스포츠 매체 더컴백은 6일(한국시간) \"톰 브래디가 지젤 번천을 필사적인 조치를 취했던 것으로 알려진다\"고 밝혔다.",
-      "브래디는 미국프로풋볼(NFL) 슈퍼볼 7회 우승을 이끈 전설적."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n9337e31c",
-    "category": "경제",
-    "source": "동아일보",
-    "time": "52분 전",
-    "url": "https://www.donga.com/news/Economy/article/all/20261006/134796412/2",
-    "title": "“원유 재고 회복 최대 2년”… 각국, 에너지 수출 빗장",
-    "summary": [
-      "미국과 이란 전쟁 등에 따른 글로벌 원유 공급난이 장기화하는 가운데, 동절기 난방 수요 확대가 점쳐지자 세계 각국이 앞다퉈 ‘에너지 수출 빗장’을 걸어 잠그고 있다.",
-      "미국과 중국이 석유제품 수출 제한 및 수출 허가 보류에 나서면서 외교 마찰까지 빚어지는 양상이다.",
-      "5일(현지 시간) 로이터통신에 따르면 아민 나세르 사우디아라비아 아람코 최고경영자(CEO)가 원유 공급난 장기화를 경고했다."
-    ],
-    "chips": [
-      "#수출"
-    ]
-  },
-  {
-    "id": "n5add269b",
-    "category": "경제",
-    "source": "동아일보",
-    "time": "52분 전",
-    "url": "https://www.donga.com/news/Economy/article/all/20261006/134796429/2",
-    "title": "대미 투자 본격화되며 외환보유액 17억달러↓… 넉달 만에 감소 전환",
-    "summary": [
-      "한국 정부가 대미(對美) 투자를 위한 실탄 마련에 나서면서 이 자금의 재원 중 하나인 외환보유액이 넉 달 만에 감소로 전환됐다.",
-      "다만 한국은행은 대미 투자가 외환보유액 증감에 미치는 영향은 미미하다고 설명했다.",
-      "6일 한은에 따르면 지난달 말 기준 한국의 외환보유액은 4405억6000만 달러(약 592조 원)로 한 달 전 대비 17억2000만 달러(약 2조3100억 원) 줄었다."
-    ],
-    "chips": [
-      "#한은",
-      "#수출"
-    ]
-  },
-  {
-    "id": "na3f0a93f",
-    "category": "경제",
-    "source": "동아일보",
-    "time": "52분 전",
-    "url": "https://www.donga.com/news/Economy/article/all/20261006/134796427/2",
-    "title": "신세계, 美워너브러더스 인수에 1조4000억원 투자",
-    "summary": [
-      "신세계그룹이 약 1조4000억 원을 투자해 미국 할리우드를 대표하는 미디어기업 워너브러더스 인수에 참여한다.",
-      "이를 통해 글로벌 콘텐츠 지식재산권(IP)을 스타필드 및 테마파크 등 신사업에 접목시키고 온라인동영상서비스(OTT) 플랫폼 사업도 모색한다는 전략이다.",
-      "신세계그룹은 6일 데이비드 엘리슨 파라마운트 스카이댄스 공동 최고경영자(CEO) 등이 추진하는 워너브러더스 인수에 신세계프라퍼티가 10억 달러(약 1조3596억 원)를 투자한다고 밝혔다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
   }
 ];
 
@@ -649,21 +638,21 @@ window.NEWS_DB = [
 window.KEYWORD_TOP = [
   {
     "rank": 1,
-    "tag": "뉴스",
-    "mentions": "2200건",
-    "trend": "+235%"
+    "tag": "AI",
+    "mentions": "2070건",
+    "trend": "+215%"
   },
   {
     "rank": 2,
-    "tag": "AI",
-    "mentions": "1940건",
-    "trend": "+195%"
+    "tag": "뉴스",
+    "mentions": "2070건",
+    "trend": "+215%"
   },
   {
     "rank": 3,
     "tag": "반도체",
-    "mentions": "1550건",
-    "trend": "+135%"
+    "mentions": "1810건",
+    "trend": "+175%"
   }
 ];
 // ====AUTO-GENERATED-END====
