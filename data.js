@@ -1,11 +1,26 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-10-07 20:18:16
+// 마지막 업데이트: 2026-10-08 00:33:25
 window.NEWS_DB = [
+  {
+    "id": "n1ae742f8",
+    "category": "IT",
+    "source": "자본시장뉴스",
+    "time": "50분 전",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9kZVlBazRHM0xIdVdqRFlRYlJLWHcwUGdCRGE0NXVwQVVYbUZnZkVmSUk5UEdORzVFaHNhNmlYdEtOcjlMenJfREZIVGRrb01KbVZKYUlVRUNXWHRfOGd6N1hmQnpfUzQ?oc=5",
+    "title": "삼성전자 영업이익 100조 넘었지만…파운드리 6.5%",
+    "summary": [
+      "삼성전자 영업이익 100조 넘었지만…파운드리 6.5% 자본시장뉴스."
+    ],
+    "chips": [
+      "#반도체",
+      "#삼성전자"
+    ]
+  },
   {
     "id": "n643bb852",
     "category": "IT",
     "source": "인더스트리뉴스",
-    "time": "9시간 전",
+    "time": "14시간 전",
     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1pRFFYc1p0RkJSWnNOSzg1UVoza1BLcVJ1RkpwQVg2NHVOaUxTUVpFeW9TQXlqUVdYRzNuamQ5ZDBoYzFsRjE2ZzBOd1BMZVp5NXRNbmg0dDRDYjVsdmc5dWJJVmZEY1R0QVEzYjBGeTJrUQ?oc=5",
     "title": "AMD 리사 수, 삼성·SK 수장과 만남…차세대 HBM·파운드리 AI 동맹 강화",
     "summary": [
@@ -20,7 +35,7 @@ window.NEWS_DB = [
     "id": "n3ef38cac",
     "category": "IT",
     "source": "쿠키뉴스",
-    "time": "12시간 전",
+    "time": "16시간 전",
     "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBIY251S285X3l0ZURyMmpxOEp3azlNeWN1TUkxYnRkSkZfbks2aE5zRW9zMmhNZVJuRHd5RnBXN0I2d1VETnJoY2FRODZkNkh2SWlvbGZBejZpVzlYanM3RG9qOA?oc=5",
     "title": "엔비디아·AMD, 韓서 AI칩 쟁탈전…K반도체, ‘메모리 공급자’ 넘어설까",
     "summary": [
@@ -33,24 +48,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n2cd5f797",
-    "category": "IT",
-    "source": "뉴스핌",
-    "time": "13시간 전",
-    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB2aUEyYUlMS3hfVmdHUnU3MTBCZWFKeUJXUDFSNEZEdGNaWHpybHhXeTN0NHhPY1lzcGd6aEdBYm85NGNvTmhZTmNpcnpJX3hmNWdRTF9HT2lLTUlV?oc=5",
-    "title": "리사 수, 전영현·곽노정 연쇄 회동…HBM·파운드리 협력 주목",
-    "summary": [
-      "리사 수, 전영현·곽노정 연쇄 회동…HBM·파운드리 협력 주목 뉴스핌."
-    ],
-    "chips": [
-      "#반도체"
-    ]
-  },
-  {
     "id": "n57baae74",
     "category": "IT",
     "source": "연합뉴스",
-    "time": "14시간 전",
+    "time": "18시간 전",
     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5PMi1Ma3FHRnBsLXRaMXl2VENDZDgyMlFIWUREZnBDX0xGM0s1Mkxka1Bna0ttRW5vbVM1TXYtb1VjdWxNbGdHUmI0Mm5CUlk1SnRuSjlnNjU0eXBfUHp1ZdIBYEFVX3lxTE5PMi1Ma3FHRnBsLXRaMXl2VENDZDgyMlFIWUREZnBDX0xGM0s1Mkxka1Bna0ttRW5vbVM1TXYtb1VjdWxNbGdHUmI0Mm5CUlk1SnRuSjlnNjU0eXBfUHp1ZQ?oc=5",
     "title": "AMD 리사수, 삼성전자 전영현·SK하이닉스 곽노정과 회동",
     "summary": [
@@ -62,26 +63,25 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n404e2324",
+    "id": "n6393b1da",
     "category": "IT",
-    "source": "Daum",
-    "time": "19시간 전",
-    "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5pbzFlbmtwcG9vX3BPS0psN0hJYkxENEQ2TEE0bTc3Y1c1YTdHdlpJZ0dsNFpJc3Q2c2Zqbks3Uk5CbWo4WlE?oc=5",
-    "title": "美 스페이스X, 엔비디아 AI 반도체 53조원어치 구입 추진",
+    "source": "연합뉴스",
+    "time": "1일 전",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9QMWhvT3pKWXZfczl1YU0tTU5VSUxzLWlvTEkzR3UzSFVyY2o0dEpyNnA2Tjl4eXJBb3VtbTR6aF96U1NlYXdkUUJMaFpHUERpTGJ6Vm9UcnE3TjdJcjh2d9IBYEFVX3lxTE9QMWhvT3pKWXZfczl1YU0tTU5VSUxzLWlvTEkzR3UzSFVyY2o0dEpyNnA2Tjl4eXJBb3VtbTR6aF96U1NlYXdkUUJMaFpHUERpTGJ6Vm9UcnE3TjdJcjh2dw?oc=5",
+    "title": "리사 수 AMD 회장 7개월 만에 방한…한국 AI반도체 동맹 넓힌다",
     "summary": [
-      "美 스페이스X, 엔비디아 AI 반도체 53조원어치 구입 추진 Daum."
+      "리사 수 AMD 회장 7개월 만에 방한…한국 AI반도체 동맹 넓힌다 연합뉴스."
     ],
     "chips": [
       "#AI",
-      "#반도체",
-      "#엔비디아"
+      "#반도체"
     ]
   },
   {
     "id": "n8d5406ad",
     "category": "IT",
     "source": "비즈니스포스트",
-    "time": "2일 전",
+    "time": "3일 전",
     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5ybkt1VUk5VlZ2eFJHaW9nOXF4Vlc1WEJyaExQbVFIVVZETVpWSnFYTHhHdWdaTmdmanEtd1R4X21lSWhoREJaeHgxY2l2RVlmc3MwRjJlaFdUTk5DR3NTMlJPU1hscjhmbVo4ZWRoY193QUU?oc=5",
     "title": "엔비디아 AI 반도체 '담보대출' 전략 성공할까, 삼성전자 SK하이닉스 실적에도 변수",
     "summary": [
@@ -106,21 +106,6 @@ window.NEWS_DB = [
     ],
     "chips": [
       "#취업"
-    ]
-  },
-  {
-    "id": "n0939e913",
-    "category": "사회",
-    "source": "매일일보",
-    "time": "6일 전",
-    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBaMEI5dFM5MHJ6TnpjcTl5eWVwbE9WamJEV1dvV2NGMUdzWll2VnhFZGd2LTRJUHZoNk14TG9Ya2tYb1RWeDkzYzlyRGh2ZVRjazF6V25PNXRzOGsyMHBOR0tjMjE?oc=5",
-    "title": "영등포구, ‘천하제일 취업박람회’ 개최…“최고의 일자리를 ‘JOB’자”",
-    "summary": [
-      "영등포구, ‘천하제일 취업박람회’ 개최…“최고의 일자리를 ‘JOB’자” 매일일보."
-    ],
-    "chips": [
-      "#취업",
-      "#고용"
     ]
   },
   {
@@ -254,6 +239,21 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "nac7d261c",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "68일 전",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1wZmd4RTNaSTBwNVNxSm0yRGFySTlYN19qVTZfYzRtVzBzVV9nSnR3RXdYaTNiNkZRX3F6aXhFZTA5ekUxNW9VWHIzZHFjYnoyWU0wVDNoU2FJcVE?oc=5",
+    "title": "강남구 일자리통합지원센터, 맞춤형 지원으로 취업자 25.7％ 증가",
+    "summary": [
+      "강남구 일자리통합지원센터, 맞춤형 지원으로 취업자 25.7％ 증가 연합뉴스."
+    ],
+    "chips": [
+      "#취업",
+      "#고용"
+    ]
+  },
+  {
     "id": "n64dc67f5",
     "category": "IT",
     "source": "유니콘팩토리",
@@ -312,317 +312,322 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n529381a7",
+    "id": "n085fc1bb",
+    "category": "IT",
+    "source": "테크M",
+    "time": "방금 전",
+    "url": "https://www.techm.kr/news/articleView.html?idxno=155920",
+    "title": "삼성전자, 분기 영업이익 100조 넘겼다...韓 기업 새 역사",
+    "summary": [
+      "삼성전자가 우리나라 기업으로는 최초로 분기 영업이익 100조원 시대를 열 것으로 예상된다.",
+      "삼성전자는 8일 3분기 잠정실적을 발표했다.",
+      "회사 측 추산 3분기 연결기준 매출은 195조원, 영업이익은 107.4조원이 예상된다."
+    ],
+    "chips": [
+      "#삼성전자"
+    ]
+  },
+  {
+    "id": "n427128d4",
     "category": "사회",
-    "source": "조선일보",
-    "time": "8분 전",
-    "url": "https://www.chosun.com/economy/startup_story/2026/10/08/53WUIFATQFHAHNW7RHHLO3F3W4/",
-    "title": "美도 알아챈 500일 숙성 한국 묵은지의 맛, 200만 봉지 대박 오모가리찌개",
+    "source": "아시아경제",
+    "time": "방금 전",
+    "url": "https://view.asiae.co.kr/article/2026100809321901818",
+    "title": "성남문화재단, 클래식으로 문화나눔…‘김현철의 유쾌한 오케스트라’ 성료",
     "summary": [
-      "美도 알아챈 500일 숙성 한국 묵은지의 맛, 200만 봉지 대박 오모가리찌개."
+      "성남문화재단(대표 윤정국)은 지난 6일 성남아트센터 콘서트홀에서 '김현철의 유쾌한 오케스트라'를 개최했다.",
+      "HL만도가 후원하고 성남시자원봉사센터가 협력한 이번 공연은 문화예술을 접할 기회가 상대적으로 적은 시민들을 위한 문화나눔 사업으로 마련됐다.",
+      "공연에는 지역 문화취약계층과 사회복지시설 이용자 등 900여명이 참석했다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n4ad410ca",
-    "category": "부동산",
-    "source": "연합뉴스",
-    "time": "9분 전",
-    "url": "https://www.yna.co.kr/view/AKR20261008006600085",
-    "title": "스페인 조기총선 촉발한 강제퇴거 사건 87세 노인 사망",
-    "summary": [
-      "(런던=연합뉴스) 김지연 특파원 = 스페인에서 주택난 항의 대규모 시위와 조기 총선을 촉발한 강제 퇴거 사건의 87세 노인이 사망했다고 AFP,..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n3986e100",
+    "id": "nae7e8330",
     "category": "경제",
     "source": "뉴시스",
-    "time": "11분 전",
-    "url": "https://www.newsis.com/view/NISX20261008_0003818233",
-    "title": "[속보]뉴욕증시, 국채금리 급등에 하락 마감…다우 0.66%↓",
+    "time": "1분 전",
+    "url": "https://www.newsis.com/view/NISX20261008_0003818569",
+    "title": "키움증권, 한글날 기념 연 5.80% 발행어음 특판 출시",
     "summary": [
-      "후속기사가 이어집니다 ◎공감언론 뉴시스 sophis731@newsis.com."
+      "[서울=뉴시스]송혜리 기자 = 키움증권은 훈민정음 반포 580주년과 한글날 제정 100주년을 기념해 3개월 만기 연 5.80%(세전) 발행어음 특별판매(특판) 상품을 출시한다고 8일 밝혔다.",
+      "올해는 1446년 훈민정음 반포 580년이 되는 해다.",
+      "1926년 조선어연구회(현 한글학회)가 한글날의 처음 이름인 '가갸날'로 첫 기념식을 연 지 100년이 되는 해이기도 하다."
     ],
     "chips": [
       "#금리"
     ]
   },
   {
-    "id": "n590aed8d",
-    "category": "스포츠",
-    "source": "머니투데이",
-    "time": "12분 전",
-    "url": "https://www.mt.co.kr/sports/2026/10/08/2026100715040218142",
-    "title": "초대박 반전! 'NC서 8홈런→키움 이적 후 20홈런' 데이비슨 \"가장 힘들었던 시즌, 버텨낸 내가 자랑스러워\"",
-    "summary": [
-      "시즌 도중 NC 다이노스에서 키움 히어로즈로 유니폼으로 갈아입고 완벽하게 날아오른 외국인 거포 맷 데이비슨(35)이 뜻깊은 피날레와 함께 한 시즌을 돌아봤다.",
-      "데이비슨은 7일 서울 구로구에 위치한 고척스카이돔에서 열린 한화 이글스와의 시즌 최종전에 2번 타자 겸 1루수로 선발 출장해 3타수 2안타(1홈런) 1사구로 맹타를 휘두르며 팀의 유종의 미를 이끌었다.",
-      "이번 시즌 데이비슨의 여정은 그야말로 '반전의 드라마'였다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n6bd0dbd0",
-    "category": "스포츠",
+    "id": "n4afd9de7",
+    "category": "사회",
     "source": "뉴시스",
-    "time": "13분 전",
-    "url": "https://www.newsis.com/view/NISX20261007_0003816980",
-    "title": "카페 직원에 천원짜리 던지며 계산한 학생들…\"진짜 선 넘었다\"(영상)",
+    "time": "1분 전",
+    "url": "https://www.newsis.com/view/NISX20261008_0003818557",
+    "title": "인크로스, 크리에이터 마케팅 세미나 '스텔라이즈 위드' 개최",
     "summary": [
-      "[서울=뉴시스]김혜경 기자, 진민아 인턴기자 = 카페에서 이른바 직원 앞에 현금을 던지면 계산한 학생들의 모습이 담긴 영상이 온라인에 퍼지며 논란이 되고 있다.",
-      "지난 6일 사회관계망서비스(SNS) 엑스에는 경기 남양주시 다산동의 한 카페에서 촬영된 것으로 알려진 짧은 영상이 올라왔다.",
-      "영상에는 남학생 여러 명이 계산대 앞에서 주문한 음료의 값을 치르는 모습이 담겼다."
+      "[서울=뉴시스] 김경택 기자 = 통합 마케팅 전문 기업 인크로스는 오는 12일 오후 2시 서울 강남구 역삼 드리움에서 광고대행사 AE와 기업 마케팅 담당자를 대상으로 크리에이터 마케팅 전략을 소개하는 '스텔라이즈 위드(Stellaize with 2026)' 세미나를 개최한다고 8일 밝혔다.",
+      "회사 측에 따르면 이번 세미나는 빠르게 변화하는 크리에이터 마케팅 환경과 실무 전략을 공유하기 위해 마련된 프라이빗 초청 행사다."
     ],
     "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "ne4b79cf9",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "13분 전",
-    "url": "https://www.chosun.com/economy/startup_story/2026/10/08/PXF26VQ52RDWRFH4XUHAKVHRIQ/",
-    "title": "이렇게 부담없는 소 갈비 파티라니, 1㎏ 2만원대 조선몰 특가 공동구매",
-    "summary": [
-      "이렇게 부담없는 소 갈비 파티라니, 1㎏ 2만원대 조선몰 특가 공동구매."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n722342aa",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "13분 전",
-    "url": "https://www.yna.co.kr/view/AKR20261008006500098",
-    "title": "\"교육 환경 개선하라\" 벨기에 고교생도 거리로…100여명 체포",
-    "summary": [
-      "(브뤼셀=연합뉴스) 현윤경 특파원 = 벨기에에서도 고교생들이 교육환경 개선을 요구하면서 며칠째 시위를 벌이고 있어 당국이 상황 통제에 부심하고 ..."
-    ],
-    "chips": [
-      "#교육",
       "#환경"
     ]
   },
   {
-    "id": "n873de8bd",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "14분 전",
-    "url": "https://www.chosun.com/sports/world-football/2026/10/08/MYZWMZDCMI3DOZBSGM3GGOJVGY/",
-    "title": "'GOAT 메시를 위하여!' 아르헨티나 마지막 경기 뛴 메시, 유니폼까지 특별했다",
+    "id": "n3726f59e",
+    "category": "경제",
+    "source": "아시아경제",
+    "time": "1분 전",
+    "url": "https://view.asiae.co.kr/article/2026100808540777821",
+    "title": "공영홈쇼핑, 모바일몰 11주년 '슈퍼극딜 1day' 개최",
     "summary": [
-      "[OSEN=서정환 기자] '축구황제' 리오넬 메시(37, 인터 마이애미)의 아르헨티나 대표팀 마지막 경기는 유니폼까지 특별했다.메시는 6일(현지시간) 아르헨티나 부에노스아이레스에서 열린 베냉과의 친선경기에 출전해 1골 2도움을 기록하며 아르헨티나대표팀의 3-0 승리를 이끌었다.",
-      "20년 동안 이어진 국가대표 여정의 마지막 무대였다.이날 경기에서 가장 눈길을."
+      "공영홈쇼핑이 오는 12일 '모바일 오픈 11주년 × 슈퍼극딜 1day' 이벤트를 개최한다고 8일 밝혔다.",
+      "'슈퍼극딜'은 단 하루 동안 특가 상품을 선보이는 공영홈쇼핑의 대표 라이브 커머스 프로그램이다.",
+      "오는 12일 오전 11시부터 8시간 동안 진행되는 이번 방송에서는 국산 먹거리와 생필품 8개 상품을 만날 수 있다.판매 상품으로는 '무형광 3겹 착한 화장지 90롤'을 비롯해 '흥양농협 햅쌀 20kg', '바른식탁 전라도 맛김치 10kg'이 준비."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n514a47d9",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "14분 전",
-    "url": "https://www.chosun.com/jp/sports-jp/2026/10/08/QXF2W3GKUVA5TBECW5CSJPSKLE/",
-    "title": "メッシ代表ラスト戦、ユニホームも特別",
+    "id": "na4079500",
+    "category": "IT",
+    "source": "아시아경제",
+    "time": "1분 전",
+    "url": "https://view.asiae.co.kr/article/2026100809312090921",
+    "title": "삼삼엠투, '도시·지역혁신대상' 국토교통부 장관상 수상",
     "summary": [
-      "【OSEN＝ソ・ジョンファン記者】「サッカーの皇帝」リオネル・メッシ（37、インテル・マイアミ）のアルゼンチン代表最後の試合は、ユニホームまで特別だった。メッシは6日（現地時間）、アルゼンチン・ブエノスアイレスで行われたベナンとの親善試合に出場し、1得点2アシストを記録してアルゼンチン代表の3－0の勝利を導いた。20年にわたって続いた代表での歩みの最後の舞台だった。この試合で最も目を引いたものの一つは."
+      "부동산 단기임대 서비스 삼삼엠투는 '2026 대한민국 도시·지역혁신 산업박람회'의 도시·지역혁신대상에서 'AI 지역활력 및 생활혁신' 분야 국토교통부 장관상을 수상했다고 8일 밝혔다.",
+      "도시·지역혁신대상은 도시 혁신과 지역 균형발전에 기여한 민간 기업·단체의 우수 사례를 발굴하기 위해 마련된 상이다.",
+      "삼삼엠투는 지역의 비어 있는 주거공간과 단기 체류 수요를 연결하고 이를 통해 생활인구 확대와 유휴공간 활용에 기여한 점을 높이 평가받았다.삼삼엠투는."
     ],
     "chips": [
-      "#뉴스"
+      "#AI",
+      "#부동산"
     ]
   },
   {
-    "id": "n4fe112b6",
+    "id": "n95c0389d",
     "category": "사회",
     "source": "뉴시스",
-    "time": "17분 전",
-    "url": "https://www.newsis.com/view/NISX20261007_0003817874",
-    "title": "[오늘의 주요일정]식품의약품안전처(10월8일 목요일)",
+    "time": "2분 전",
+    "url": "https://www.newsis.com/view/NISX20261008_0003818502",
+    "title": "허영만, 갑작스러운 부고에 발칵…알고 보니 동명이인 해프닝",
     "summary": [
-      "[서울=뉴시스]송종호 기자 = [서울=뉴시스] ◇처장 ▲통상일정 ◇차장 ▲09:00 차관회의 ◎공감언론 뉴시스 song@newsis.com."
+      "[서울=뉴시스]전재경 기자 = 만화가 허영만 화백의 부고가 온라인상에 퍼지면서 한바탕 소동이 벌어졌다.",
+      "그러나 해당 부고는 허영만 화백이 아닌 동명이인과 관련된 것으로 알려졌다.",
+      "지난 7일 소셜미디어 엑스(X)와 온라인 커뮤니티 등에는 '부고, 만화가 허영만 선생님 별세'라는 제목의 글이 확산됐다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n18fa96ef",
-    "category": "스포츠",
+    "id": "ncdddb6a2",
+    "category": "사회",
     "source": "뉴시스",
-    "time": "17분 전",
-    "url": "https://www.newsis.com/view/NISX20261007_0003817893",
-    "title": "경기북부 아침 5도 안팎으로 쌀쌀…일교차도 15도",
+    "time": "2분 전",
+    "url": "https://www.newsis.com/view/NISX20261008_0003818564",
+    "title": "장동혁 \"농지 전수조사, 좌파·중국 태양광 카르텔에 농지 사냥판 깔아주려는 것\"",
     "summary": [
-      "[경기북부=뉴시스] 김도희 기자 = 8일 경기북부지역은 아침 기온이 낮아져 쌀쌀하고, 일교차가 매우 크겠다.",
-      "수도권기상청에 따르면 경기북부 내륙 아침 기온은 5도 안팎으로 낮아져 춥겠고, 대부분 지역에서 낮과 밤의 기온차가 15도 안팎으로 매우 크겠다.",
-      "이날 새벽부터 아침 사이에는 경기내륙을 중심으로 가시거리 1km 미만의 안개가 끼는 곳이 있겠다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n2b7d8114",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "17분 전",
-    "url": "https://www.yna.co.kr/view/AKR20261007169900001",
-    "title": "김기현 \"기상청 본청, 거제·통영 폭우 때 비상근무 하향·해제\"",
-    "summary": [
-      "(서울=연합뉴스) 이율립 기자 = 올여름 경남 거제시와 통영시를 중심으로 기록적인 폭우가 내린 가운데 컨트롤타워 역할을 해야 할 기상청 본청이 ..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n1ef1f6d1",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "18분 전",
-    "url": "https://www.yna.co.kr/view/AKR20261007148200017",
-    "title": "[사이테크+] \"194살 세계 최고령 거북 조너선, 장수 비결은 유전자에 있을까\"",
-    "summary": [
-      "(서울=연합뉴스) 이주영 기자 = 현재 194살로 세계에서 가장 나이가 많은 육상동물로 알려진 남대서양 세인트헬레나섬의 알다브라코끼리거북 '조너..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n8902adc2",
-    "category": "사회",
-    "source": "머니투데이",
-    "time": "17분 전",
-    "url": "https://www.mt.co.kr/society/2026/10/08/2026100722560184763",
-    "title": "\"카페 가서 가방 좀 찾아줘요\"…만둣집 사장에 심부름 시킨 손님",
-    "summary": [
-      "인근 매장에 전화해 카페에 두고 온 소지품을 대신 찾아달라는 한 손님의 황당한 요구가 알려지며 공분을 사고 있다.",
-      "최근 SNS(소셜미디어) 스레드에는 20년째 만둣집을 운영 중인 자영업자 A씨가 지난 6일 매장으로 걸려온 전화를 받았다가 황당한 요구를 접했다는 사연이 올라왔다.",
-      "전화를 건 사람은 만둣집 근처 카페에 가방을 두고 왔는데 카페가 전화를 받지 않는다면서, 지도를 검색해 인근 만둣집 A씨 매장으로 전화를 걸었다고 밝혔다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nf3e524cb",
-    "category": "사회",
-    "source": "머니투데이",
-    "time": "17분 전",
-    "url": "https://www.mt.co.kr/opinion/2026/10/08/2026100709365494074",
-    "title": "[우보세]아무도 책임지지 않는 학교 밖 청소년",
-    "summary": [
-      "\"이렇게 자주 보고가 올 줄 몰랐다.\" 초임 시도교육감들은 생각보다 빈번한 학생들의 자살 보고서에 충격을 감추지 못한다.",
-      "학생이 스스로 목숨을 끊으면 학교장은 해당 교육청에 '학생 자살 보고서'를 의무적으로 작성해야 하고 교육감은 최종책임자로서 보고서를 검토해야 한다.",
-      "지난해 서울교육청과 경기도교육청의 학생 자살자는 각각 51명으로, 교육감들은 일주일에 한 번꼴로 보고서를 마주한 셈이다."
-    ],
-    "chips": [
-      "#교육"
-    ]
-  },
-  {
-    "id": "n750e5dab",
-    "category": "사회",
-    "source": "머니투데이",
-    "time": "17분 전",
-    "url": "https://www.mt.co.kr/politics/2026/10/08/2026100720123751098",
-    "title": "[단독]교도소장 상대로 \"닭갈비·빼빼로 달라\" 행정심판 낸 성범죄자...혼자 975건 냈다",
-    "summary": [
-      "[2026 국정감사] #2022년 중감금치상, 아동청소년의성보호의관한법률(성착취물제작·배포) 등 혐의로 서울 구치소에 수감된 A씨는 2023년부터 말도 안되는 행정심판을 청구하기 시작했다.",
-      "대표적인 게 2024년 10월 홍성교도소장을 상대로 낸 도널드 트럼프 미국 대통령 전화번호 부존재 결정 취소 심판이다.",
-      "트럼프 대통령의 전화번호를 교도소장이 가지고 있을 리 없는데도 말도 안되는 행정심판 신청을 내고 본 것이다."
+      "[서울=뉴시스]김지훈 우지은 전상우 기자 = 장동혁 국민의힘 대표는 8일 이재명 대통령의 농지 전수조사에 대해 \"농지 가격 폭락시켜서 좌파·중국 태양광 카르텔에 농지 사냥판을 깔아주려는 것\"이라고 했다.",
+      "장 대표는 이날 오전 국회에서 열린 최고위원회의에서 \"이 대통령이 왜 그렇게 농지 전수조사에 목을 매나 했는데, 그 실체는 좌파·중국 태양광 카르텔이었다\"라며 이같이 말했다.",
+      "장 대표는 \"국내 태양광 모듈의 70%, 태양광 셀의 90%가 중국산."
     ],
     "chips": [
       "#정치"
     ]
   },
   {
-    "id": "n2733be5a",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "18분 전",
-    "url": "https://www.donga.com/news/Politics/article/all/20261007/134804339/1",
-    "title": "[단독]野 “조달청 ‘나라장터’ 1년간 5600억 폭리…구매계약 81%, 시중가보다 비싸”",
-    "summary": [
-      "서울교통공사는 올해 5월 조달청이 운영하는 쇼핑몰 나라장터를 통해 서울 지하철 통합관제센터 신축 과정에서 폐쇄회로(CC)TV용으로 하드디스크드라이브 42대를 개당 335만2000원에 계약해 납품을 받았다.",
-      "총 1억4028만 원이 지출됐다.",
-      "그러나 공사가 납품받은 하드디스크와 같은 제품은 온라인상에서는 약 177만 원에 구매할 수 있었다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "ndf14a20c",
-    "category": "경제",
-    "source": "한국경제",
-    "time": "23분 전",
-    "url": "https://www.hankyung.com/article/202610089597i",
-    "title": "5.35% 찍은 美 국채 10년물…390억달러 입찰 흥행에 상승폭 축소",
-    "summary": [
-      "5.35% 찍은 美 국채 10년물…390억달러 입찰 흥행에 상승폭 축소."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "ne9735c09",
+    "id": "nee742a6b",
     "category": "IT",
-    "source": "한국경제",
-    "time": "35분 전",
-    "url": "https://www.hankyung.com/article/202610089596i",
-    "title": "애플, 마이크론...美 실적 시즌 앞두고 '매수' 의견 확산 [월가 업&다운]",
+    "source": "아시아경제",
+    "time": "2분 전",
+    "url": "https://view.asiae.co.kr/article/2026100809304186949",
+    "title": "장평순 교원그룹 회장 \"AI로 교육사업 키운다\"…전사 AX 속도",
     "summary": [
-      "애플, 마이크론...美 실적 시즌 앞두고 '매수' 의견 확산 [월가 업&다운]."
+      "교원그룹이 업무 전반에 인공지능(AI)을 적용하며 그룹 차원의 AI 전환(AX)에 속도를 내고 있다.",
+      "교원그룹은 임직원의 AI 활용 역량을 강화하고 업무 전반에 AI를 적용할 수 있는 기반을 단계적으로 구축하고 있다고 8일 밝혔다.",
+      "그룹은 지난 6월 'AI 태스크포스(TF)'를 출범하고 사업·업무 영역별 AI 활용 과제를 발굴하고 있다."
     ],
     "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n2e5ec407",
-    "category": "IT",
-    "source": "동아일보",
-    "time": "48분 전",
-    "url": "https://www.donga.com/news/Politics/article/all/20261008/134806213/2",
-    "title": "[단독]美, ‘北해킹 대응’ 한미일 회의서 국정원 뺐다",
-    "summary": [
-      "미국이 북한 해킹 대응을 위해 한미일 정상이 합의한 사이버 위협 대응 협의체에 국가정보원 참여를 거부한 것으로 알려졌다.",
-      "최근 한미 관계 불협화음과 맞물려 국정원에 대한 미국의 불만이 북한 핵시설에 대한 정보 공유 제한 조치에 이어 사이버 안보 협력 등 여러 분야로 확대되고 있는 것 아니냐는 우려가 나온다.",
-      "7일 전현직 정부 고위 소식통들에 따르면 도널드 트럼프 미국 행정부는 우리 정부에 6월 말 워싱턴에서 개최된 5차 북한 사이버 위협 대응."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nea44f936",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "48분 전",
-    "url": "https://www.donga.com/news/Economy/article/all/20261008/134806217/2",
-    "title": "더 완벽해진 누리호 위성 14기 ‘우주 배송’",
-    "summary": [
-      "“누리호 속도가 초속 7.5km에 도달했습니다.” 7일 낮 12시 36분 전남광주 고흥군 나로우주센터에 안내 방송이 울려 퍼지자 박수가 터져 나왔다.",
-      "11분 전 굉음과 화염을 내뿜으며 구름 한 점 없는 가을 하늘로 솟구친 한국형 발사체 누리호가 위성을 안정적으로 지구 궤도에 진입시킬 수 있는 목표 속도(초속 7.57km)에 진입했다는 뜻이었다.",
-      "누리호는 고도 약 576km에서 초소형 군집위성 ‘네온샛’ 2∼6호 5기를 무사히 내보낸 데 이어 큐."
-    ],
-    "chips": [
+      "#AI",
       "#교육"
+    ]
+  },
+  {
+    "id": "n692a0a92",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "4분 전",
+    "url": "https://www.donga.com/news/Society/article/all/20261008/134807254/1",
+    "title": "출소 열흘 만에 또 범죄…절도·상해·재물손괴 20대 실형",
+    "summary": [
+      "출소한 지 열흘 만에 각종 범죄를 저지른 혐의로 또 다시 재판에 넘겨진 20대가 실형을 선고 받았다.8일 법조계에 따르면 부산지법 형사3단독 박주영 부장판사는 폭력행위등처벌에관한법률(상해재범) 위반 등 혐의로 기소된 A(20대)씨에게 징역 2년을 선고했다.A씨는 지난 5월12일 오후 부산 부산진구의 한 편의점에서 담배를 달라고 요청한 뒤 종업원이 담배를 계산대 위에 올려놓자 계산하지 않은 채 그대로 가져가고 이로 인해 현행범 체포돼 입감돼 있던."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n35366a9b",
+    "category": "경제",
+    "source": "연합뉴스(경제)",
+    "time": "9분 전",
+    "url": "https://www.yna.co.kr/view/AKR20261008046200008",
+    "title": "[특징주] '분기 최대 매출' LG엔솔, 장초반 3%대 강세",
+    "summary": [
+      "(서울=연합뉴스) 곽윤아 기자 = 분기 기준 사상 최대 매출을 기록한 LG에너지솔루션[373220]이 8일 장 초반 3% 넘게 오르고 있다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "na84e29a0",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "10분 전",
+    "url": "https://www.yna.co.kr/view/AKR20261008045000051",
+    "title": "대선주조, 누적 방문객 100만명 돌파 '부캉이' 에디션 출시",
+    "summary": [
+      "(부산=연합뉴스) 오수희 기자 = 부산 향토기업 대선주조는 대선 '부캉이' 에디션을 8일 출시했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n13a8f6bc",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "10분 전",
+    "url": "https://www.yna.co.kr/view/AKR20261008044300055",
+    "title": "[군산소식] 군산보건소, '정신건강증진 유공 기관' 복지부 장관상",
+    "summary": [
+      "(군산=연합뉴스) 전북 군산시보건소는 8일 서울 피스앤파크 컨벤션에서 열린 '2026년 정신건강의 날' 기념행사에서 정신건강증진 유공 기관 보건..."
+    ],
+    "chips": [
+      "#의료"
+    ]
+  },
+  {
+    "id": "ncfea4022",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "10분 전",
+    "url": "https://www.yna.co.kr/view/AKR20261008044700005",
+    "title": "'문예진흥기금 공모사업' 내달 5일까지 접수…939억 역대 최대",
+    "summary": [
+      "(서울=연합뉴스) 임순현 기자 = 한국문화예술위원회는 다음 달 5일까지 국가문화예술지원시스템(ncas.or.kr)을 통해 '2027년 문예진흥기..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n07e60f0b",
+    "category": "경제",
+    "source": "연합뉴스(경제)",
+    "time": "12분 전",
+    "url": "https://www.yna.co.kr/view/AKR20261008043500030",
+    "title": "도미노피자, 4년만에 가격 인상…12일부터 라지사이즈 1천500원 올려",
+    "summary": [
+      "(서울=연합뉴스) 홍국기 기자 = 도미노피자의 가격이 오는 12일부터 4.4% 오른다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nec5096fa",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "14분 전",
+    "url": "https://www.donga.com/news/Culture/article/all/20261008/134807208/1",
+    "title": "‘17세 연상 미나 남편’ 류필립, 돌연 홀로 미국行 “미래 불안해”",
+    "summary": [
+      "가수 미나의 남편 류필립이 아내와 떨어져 홀로 미국으로 떠난 근황을 공개했다.",
+      "류필립은 최근 유튜브 채널 ‘필미커플’에 ‘17살 연상 아내와 떨어져 미국으로 왔습니다’라는 제목의 영상을 공개했다.영상에서 미국에 머물고 있다고 밝힌 류필립은 “어떻게 말로 시작해야 될지 모르겠다”며 조심스럽게 입을 열었다.그는 “최근 스트레스를 많이 받았다.",
+      "불안정한 미래에 대한 부분 때문에 갑작스럽게 미국에 오게 됐다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "ne82a64e8",
+    "category": "경제",
+    "source": "연합뉴스(경제)",
+    "time": "15분 전",
+    "url": "https://www.yna.co.kr/view/AKR20261008043800061",
+    "title": "성남시장, 8~18일 유럽 출장…방산 수출·도시재생 모색",
+    "summary": [
+      "(성남=연합뉴스) 이우성 기자 = 경기 성남시는 신상진 시장이 유럽 도시들과의 교류를 확대하고 관내 기업의 해외 진출을 지원하기 위해 8일부터 ..."
+    ],
+    "chips": [
+      "#수출"
+    ]
+  },
+  {
+    "id": "ndfd46cfd",
+    "category": "경제",
+    "source": "연합뉴스(경제)",
+    "time": "16분 전",
+    "url": "https://www.yna.co.kr/view/AKR20261008043000008",
+    "title": "한투운용 \"라이프자산주주가치 ETF, 액티브중 6개월 성과 1위\"",
+    "summary": [
+      "(서울=연합뉴스) 김태종 기자 = 한국투자신탁운용은 'ACE 라이프자산주주가치액티브 상장지수펀드(ETF)'의 최근 6개월 비교지수(BM) 대비 ..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n5753ec25",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "29분 전",
+    "url": "https://www.donga.com/news/Society/article/all/20261008/134807127/1",
+    "title": "인천 정신병원서 “살려달라” 쪽지…반년새 4명 숨져 곧 현장점검",
+    "summary": [
+      "보건복지부가 올해 1~6월 환자 4명이 숨진 인천 미추홀구 원병원에 대해 다음주 인천시, 미추홀구보건소와 합동 현장점검에 나선다.",
+      "복지부는 격리·강박 등 환자 인권보호 기준을 전국 정신의료기관에 안내하는 등 제도 개선에도 나서기로 했다.8일 더불어민주당 허종식 의원이 복지부로부터 제출받은 ‘인천시 원병원 관련 후속 조치 계획’에 따르면 이같은 현장점검이 추진된다.",
+      "원병원은 143개 병상에 108명이 입원한 정신의료기관으로, 창문이 모두 쇠창살로."
+    ],
+    "chips": [
+      "#의료"
+    ]
+  },
+  {
+    "id": "n583de670",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "33분 전",
+    "url": "https://www.donga.com/news/Economy/article/all/20261007/134799248/1",
+    "title": "스텔라떡볶이, ‘무뼈닭발 떡볶이’ 출시 …사이드 메뉴 ‘계란찜’도 함께 선보여",
+    "summary": [
+      "떡볶이 프랜차이즈 스텔라떡볶이가 닭발과 떡볶이를 결합한 신메뉴 ‘무뼈닭발 떡볶이’를 출시했다고 8일 밝혔다.스텔라떡볶이를 운영하는 장스푸드(대표 장조웅)에 따르면 이번 신메뉴는 불향을 입힌 무뼈 닭발에 자사 양념을 더한 제품으로, 기존 메뉴보다 매운맛을 강화했다.",
+      "뼈를 발라낸 닭발을 사용해 별도 손질 없이 먹을 수 있도록 했다.회사는 같은 날 사이드 메뉴 ‘계란찜’도 함께 내놨다.",
+      "매운 메뉴와 곁들여 먹는 용도다.장스푸드 관계자는 “불맛과 매운."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n39729a2c",
+    "category": "IT",
+    "source": "조선비즈IT",
+    "time": "38분 전",
+    "url": "https://biz.chosun.com/it-science/ict/2026/10/08/O4QBZ6JTKJGXXLBDK5A4E5TZ2Q/",
+    "title": "삼성전자, 3분기 영업익 107조… 스마트폰·가전 부진도 삼킨 메모리 초호황",
+    "summary": [
+      "삼성전자, 3분기 영업익 107조… 스마트폰·가전 부진도 삼킨 메모리 초호황."
+    ],
+    "chips": [
+      "#삼성전자"
     ]
   }
 ];
@@ -632,14 +637,14 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2980건",
-    "trend": "+355%"
+    "mentions": "2330건",
+    "trend": "+255%"
   },
   {
     "rank": 2,
     "tag": "AI",
-    "mentions": "1550건",
-    "trend": "+135%"
+    "mentions": "1810건",
+    "trend": "+175%"
   },
   {
     "rank": 3,
