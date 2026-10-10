@@ -1,5 +1,5 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-10-10 03:15:16
+// 마지막 업데이트: 2026-10-10 10:13:36
 window.NEWS_DB = [
   {
     "id": "nbda022ad",
@@ -36,7 +36,7 @@ window.NEWS_DB = [
     "id": "n2cd5f797",
     "category": "IT",
     "source": "뉴스핌",
-    "time": "2일 전",
+    "time": "3일 전",
     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB2aUEyYUlMS3hfVmdHUnU3MTBCZWFKeUJXUDFSNEZEdGNaWHpybHhXeTN0NHhPY1lzcGd6aEdBYm85NGNvTmhZTmNpcnpJX3hmNWdRTF9HT2lLTUlV?oc=5",
     "title": "리사 수, 전영현·곽노정 연쇄 회동…HBM·파운드리 협력 주목",
     "summary": [
@@ -50,7 +50,7 @@ window.NEWS_DB = [
     "id": "n8ec21d8a",
     "category": "IT",
     "source": "연합뉴스",
-    "time": "2일 전",
+    "time": "3일 전",
     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE05UVNlVXNZaHRsQmJncFUya2dRc1V6RE9SZWJPNmQ4Z25BaHRTcWVBMGhhZno2bkJaRzh0RVJZUVZCTWlRbk5CTURWdnRKZWVEWW5TVm95Tl9sTFXSAWBBVV95cUxOTzItTGtxR0ZwbC10WjF5dlRDQ2Q4MjJRSFlERGZwQ19MRjNLNTJMZGtQZ2tLbUVub21TNU12LW9VY3VsTWxnR1JiNDJuQlJZNUp0bko5ZzY1NHlwX1B6dWU?oc=5",
     "title": "AMD 리사수, 삼성전자 전영현·SK하이닉스 곽노정과 회동",
     "summary": [
@@ -112,7 +112,7 @@ window.NEWS_DB = [
     "id": "nb16c3b86",
     "category": "사회",
     "source": "한국경제",
-    "time": "10일 전",
+    "time": "11일 전",
     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9WRTVrbjVJTjdrdkI0WVZYc2RzdHdzRXZWT2daLVRRWkxKaDd6RmpOb2xlQlBiX2lLY2VaRjF2c25SbmlMN0s1RkNDYW9pSmlndlpkLW9BUldwQQ?oc=5",
     "title": "\"경력직만 뽑고 AI가 일자리 대체\"…청년 구직자 '취업 한파' 체감",
     "summary": [
@@ -128,7 +128,7 @@ window.NEWS_DB = [
     "id": "n6437e9c6",
     "category": "부동산",
     "source": "뉴스투데이",
-    "time": "11일 전",
+    "time": "12일 전",
     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5XV1l2ek85Vl9kOFJOazhqcDg5UTd6cjBrWE95Tlp1XzVTOHZHLUxlQWppWk4zbDJVT1FoakJKcHhQbUJGMnNFYk83cy1WYVZOdFVwMHNaWjQwSFNLblE?oc=5",
     "title": "[N2 포커스] 가을 분양·입주 쏟아지는 수도권…지방은 물량 반토막·집값 약세",
     "summary": [
@@ -142,7 +142,7 @@ window.NEWS_DB = [
     "id": "n1ef99b44",
     "category": "부동산",
     "source": "뉴스핌",
-    "time": "17일 전",
+    "time": "18일 전",
     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1IV21uRGdUbmQ3dG9fejNFV19PMUdQeEZ4R1FnM1B0NUNGN1NITm8tbU04MWg2MlNkdlJpMzhOeHd2anhpdlJVcmFia2FVcnlrLVl3YUxTVE82YVJD?oc=5",
     "title": "서울 집값 상승세 외곽으로 번졌다…노원 한 달 새 1.68%↑",
     "summary": [
@@ -156,7 +156,7 @@ window.NEWS_DB = [
     "id": "na6d22b09",
     "category": "스포츠",
     "source": "경기일보",
-    "time": "17일 전",
+    "time": "18일 전",
     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE11U1hseFNuTzV6YUoyOWxkOURqZjlTV1FEWEo1S09LazhsM2FnNTRLQk4zWjVETkZXLXphOHRxMldQazEzMVhJN2RLV3p5MUphUThhYmZvOE41R1U?oc=5",
     "title": "추석 연휴, 프로야구·축구 현장도 열기 ‘팔팔’",
     "summary": [
@@ -170,7 +170,7 @@ window.NEWS_DB = [
     "id": "n3bf091c2",
     "category": "스포츠",
     "source": "한국경제",
-    "time": "18일 전",
+    "time": "19일 전",
     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9nY3BENG1heVF4amFVRDZ5M0Q3V09uYWZTRmZEZlcxZTJzc08zU2RBM3BRSEh6aTZPVDR2blc0YjZrNUhnMHNDUVN0M0pKMTBDVWxlUWhtZ1Zudw?oc=5",
     "title": "\"손흥민 533만원·페이커 1100만원\"…해외선 없어서 못 산다",
     "summary": [
@@ -184,7 +184,7 @@ window.NEWS_DB = [
     "id": "nfd541720",
     "category": "경제",
     "source": "조선일보",
-    "time": "22일 전",
+    "time": "23일 전",
     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPX19hUk9LSUdFUFZxd1QxNVFVNXJOa3pzZ1F0WXkxQWlFc09IM25Pd1lPcE1DSk5RcnFRZ25WeUlycW1IWDdUYjF5TUFRREpLRUlJNlB5cEhVUjZ6amMzR0ZaOFhPQjk1ZDRVS1A5dm5BMVdfbm9wYU80ODE0bXAydHdZTGJEMVdy?oc=5",
     "title": "美 기준금리 4% 시대... 대출·투자 어떻게 하나",
     "summary": [
@@ -199,7 +199,7 @@ window.NEWS_DB = [
     "id": "n657e0140",
     "category": "경제",
     "source": "연합뉴스TV",
-    "time": "43일 전",
+    "time": "44일 전",
     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1rdGZhcGJlUmFqWjByaGFpZG1TZHEtUnpFbjM5NF9QdzlWOXliTW0tX0ZYa0pEQXdHbUt3S3pPYVNzUGJJZEtqZHotSHZDVTVFTTlNaW1UZUstNjFGTEt2Rk1hWmZ5MjA?oc=5",
     "title": "7,000선 넘보던 코스피…금리 인상에 상승폭 축소",
     "summary": [
@@ -213,7 +213,7 @@ window.NEWS_DB = [
     "id": "n062f98b4",
     "category": "부동산",
     "source": "한국주택경제신문",
-    "time": "70일 전",
+    "time": "71일 전",
     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9Sdmd3SUl0dmRQSWdTck5DVjJ5WXYxTTFmRnBBbEkwa09VclpLd0VsVWFTV2pPRm9sQm1sQmZDb3EyN2lwTVBvZ185RUVycVFnOEdYcHVrcVFnYTdwaGZfUDh2WkFWYndi?oc=5",
     "title": "서울 아파트값 0.25% 상승… 똘똘한 ‘역세권·대단지’가 집값 견인",
     "summary": [
@@ -227,7 +227,7 @@ window.NEWS_DB = [
     "id": "nac7d261c",
     "category": "사회",
     "source": "연합뉴스",
-    "time": "70일 전",
+    "time": "71일 전",
     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1wZmd4RTNaSTBwNVNxSm0yRGFySTlYN19qVTZfYzRtVzBzVV9nSnR3RXdYaTNiNkZRX3F6aXhFZTA5ekUxNW9VWHIzZHFjYnoyWU0wVDNoU2FJcVE?oc=5",
     "title": "강남구 일자리통합지원센터, 맞춤형 지원으로 취업자 25.7％ 증가",
     "summary": [
@@ -239,10 +239,24 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n207a7abe",
+    "category": "IT",
+    "source": "Chosunbiz",
+    "time": "109일 전",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPUGdtbi01TkVMYXphY1VqbF9xRzB3TkVUbWtrM2NhN2d1NmpvS29NLTY5UWFtbFNrangxUlRnQUpxOW9rSEZwWVZuWU42aUdIU1FUUlhnQ0NLbjBXdlNpQ2labGU1cUt3WVZ3NEhVVmtJNjJlc3lUalByb0tqZDBucVJleGVLUFpaanFZX3RLZWvSAaQBQVVfeXFMTXFmYjM1dzZaM0d5QjZZQXJIb0VnanMzR29JcWlBQVZreFhGVVZlRmd4c2xoejc0ajVvdDhkUVo5ZWJ5bWlyVlZSUzlveG9EamJZblA5VDkwRG16QW1hRW1Qel9mTHRfdWI3MHhvbTJfd3ZoRTNIb3dVbjByNmI5T3llUUt2ZlZjVmEwQlV4M0FvMTRVT0JYaG4zNDZ6Rkw1LVVodlA?oc=5",
+    "title": "중기부, 2030년까지 ‘유니콘’ 50개 육성 나선다 - 조선비즈",
+    "summary": [
+      "중기부, 2030년까지 ‘유니콘’ 50개 육성 나선다 - 조선비즈 Chosunbiz."
+    ],
+    "chips": [
+      "#스타트업"
+    ]
+  },
+  {
     "id": "nabfa15b0",
     "category": "경제",
     "source": "YTN",
-    "time": "121일 전",
+    "time": "122일 전",
     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE50bVBaMGNlWG1LRkQ2OEh1YUF0cjlWc1EwdS1URDE1ZzJpajQzYmtTdUpGZk9yOWc0V1REZF9fNmVWOU4yVFVhbzhtQzNzMUg3b0ZfVkhVd1dxVGl0OXc?oc=5",
     "title": "\"韓 적정 환율은 얼마일까?\" 환율 vs 금리 vs 증시 상관관계 집중해부",
     "summary": [
@@ -257,7 +271,7 @@ window.NEWS_DB = [
     "id": "nb9bdfdfb",
     "category": "스포츠",
     "source": "푸드투데이",
-    "time": "133일 전",
+    "time": "134일 전",
     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9BVmpLTU1zOFZsU1RWVmVOSXppaWhDWFBBRkF4akI3WHBIcXIyX2pXa3JaeXplMm9vbmE4cU1PclhFTXVZdURxQ0RCYTF3aFNsbmRKcTZ5VE9na0cwakQ2XzNuWlJ5QQ?oc=5",
     "title": "‘손흥민 월드콘.KBO몽쉘’ 축구.야구팬 다 잡자...롯데웰푸드, 스포츠마케팅 총력",
     "summary": [
@@ -272,7 +286,7 @@ window.NEWS_DB = [
     "id": "nba668fc0",
     "category": "IT",
     "source": "한국방송뉴스",
-    "time": "163일 전",
+    "time": "164일 전",
     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1XaThhZXFiX3dDT0NrYVFwZ2dhNTgxbHU0WE5Bc21vcGVzR0d2Wkh2Zm5pS2MyZ1JkYlhHb2VfRkhkemdEX1F6Q1RtajJLRzR6dDdHcExQelAyS2N1OUE?oc=5",
     "title": "1조 8000억 규모 벤처펀드 선정…\"벤처·스타트업에 적시 공급\"",
     "summary": [
@@ -286,7 +300,7 @@ window.NEWS_DB = [
     "id": "nbc27bc5a",
     "category": "IT",
     "source": "연합뉴스",
-    "time": "226일 전",
+    "time": "227일 전",
     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5UNnlsSTY5eHFYNEZ6ZktBM216dFF6Q0J5Z1NVYm56M3A2TUFNMDM0U081NTNsZVNJTy1MWklmVGc0cEdLVk5NRHFiTWtHbmx2b2ItSkVEV1A2ZFnSAWBBVV95cUxOV3Z3V2F3aWJvV3dDNDc4OXpfRmpyaDgtaExGWC1ZTUxvX2M4ZVZPNC1rZHpQeUtSNXlIZjc0dHdGWTdfUXpJQXdac1lZU3Mza3NvdHVweFFNYXhmdDMyZWs?oc=5",
     "title": "스타트업·벤처를 유니콘으로…전북도, '창업 천국' 구상 발표",
     "summary": [
@@ -297,341 +311,314 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nbcfe41a7",
-    "category": "IT",
-    "source": "연합뉴스TV",
-    "time": "228일 전",
-    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8wREZzcDhjdlBHWDRyS0l1YlIxdEszOHZaSjRrNFU1VlBPajQwc1AySHFmWFh4M2NfSVJNWnBaZXhXRHhGOExxZm12ZmZMdFl5WEhLX2owTzVNaWRYd3d0UzRSdndSY2c?oc=5",
-    "title": "\"K-방산 유니콘 키운다\"…스타트업 100개·벤처천억기업 30개 육성",
+    "id": "nbc3cb708",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "2분 전",
+    "url": "https://www.newsis.com/view/NISX20261010_0003820456",
+    "title": "'불매운동 그 브랜드' 매출 33조 '역대 최대'…H&M 제치고 세계 2위 눈앞",
     "summary": [
-      "\"K-방산 유니콘 키운다\"…스타트업 100개·벤처천억기업 30개 육성 연합뉴스TV."
-    ],
-    "chips": [
-      "#스타트업"
-    ]
-  },
-  {
-    "id": "na7f4c9b8",
-    "category": "IT",
-    "source": "테크M",
-    "time": "방금 전",
-    "url": "https://www.techm.kr/news/articleView.html?idxno=155963",
-    "title": "[주말에 뭐하지] '미르4'·'칠대죄: 오리진' 신규 직업 등장...신작 '도깨비의세계'까지 즐길거리 '풍성'",
-    "summary": [
-      "국내 게임업계가 한글날 연휴를 맞아 다양한 업데이트와 콘텐츠를 선보이며 이용자들의 눈길을 끌고 있습니다.",
-      "기존 인기 게임들은 신규 직업과 캐릭터, 던전 등을 추가하며 색다른 플레이 경험을 제공합니다.",
-      "4분기를 맞아 신작을 정식 출시하며 이용자들과 접점을 확대하는 게임도 있죠."
+      "[서울=뉴시스]장인혜 인턴 기자 = 유니클로를 운영하는 일본 패스트리테일링이 연 매출 33조원을 기록하며 역대 최대 실적을 낸 가운데, 스웨덴 패션기업 H&M을 제치고 세계 의류 소매업계 매출 2위에 오를 가능성이 커졌다.",
+      "지난 8일(현지 시간) 일본 TBS 뉴스디그에 따르면, 패스트리테일링이 발표한 2026년 8월기결산(2025년 9월~2026년 8월)에서 매출액은 3조9633억엔(약 33조6056억원)으로 집계됐다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "nbf0eb83c",
-    "category": "IT",
-    "source": "아시아경제",
-    "time": "1분 전",
-    "url": "https://view.asiae.co.kr/article/2026101012093705563",
-    "title": "미제 살인사건에 가짜 목격담 제출한 AI…경찰 \"용납 못 해\"",
+    "id": "nd81753ad",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "3분 전",
+    "url": "https://www.newsis.com/view/NISX20261010_0003820664",
+    "title": "\"산책 나갔는데 연락이 안된다\"…태안 몽산포서 30대 숨진 채 발견",
     "summary": [
-      "앤트로픽의 인공지능(AI) 모델이 미제 살인사건과 관련해 허위 제보를 생성하고 이를 결찰에 제출한 사실이 뒤늦게 알려졌다.",
-      "9일(현지시간) AFP 통신 등 주요 외신에 따르면 필라델피아 경찰청은 관할지 장기 미제 살인사건 관련 제보를 수집하는 웹사이트 '필리 언솔브드 머더스'에 앤트로픽의 AI 모델이 생성한 허위 제보가 접수됐다고 밝혔다.",
-      "해당 AI는 자신이 어떤 사건에 관해 정보를 가진 사람인 것처럼 가장했다."
+      "[태안=뉴시스]김덕진 기자 = 가족과 충남 태안 몽산포해수욕장으로 놀러 왔던 30대가 실종 신고 13시간여 만에 해변에서 숨진 채 발견됐다.",
+      "10일 태안해양경찰서에 따르면 이날 오전 0시37분께 아내가 \"남편이 산책을 나갔는데 연락이 안된다\"고 신고했다.",
+      "이후 마검포파출소 경비함 등 3척 등을 투입한 해경은 경찰, 구조대 등과 함께 인근에서 밤샘 수색을 벌였다."
     ],
     "chips": [
-      "#AI"
+      "#뉴스"
     ]
   },
   {
-    "id": "nfd90bad5",
+    "id": "nf650d4eb",
+    "category": "스포츠",
+    "source": "뉴시스",
+    "time": "4분 전",
+    "url": "https://www.newsis.com/view/NISX20261010_0003820668",
+    "title": "14경기 만에 승리한 천안 박진섭 감독 \"기다려준 팬들, 죄송하고 감사해\"",
+    "summary": [
+      "[천안=뉴시스]최영민 기자 = K리그2 천안시티FC(천안) 박진섭 감독이 길고 길었던 무승 행진을 마무리했다.",
+      "천안은 10일 천안종합운동장에서 열린 하나은행 K리그2 2026 28라운드 경남FC(경남)와 경기에서 후반 10분 윌리안의 결승골을 잘 지켜 1:0으로 이겼다.",
+      "무려 14경기 만에 승리다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n99826381",
     "category": "스포츠",
     "source": "조선일보",
     "time": "4분 전",
-    "url": "https://www.chosun.com/sports/baseball/2026/10/10/HBRTIY3GGU4TCOBVGBRDAMLEG4/",
-    "title": "패전 안아도 뿌듯한 QS 피날레, 최다승과 첫 규정이닝 풀타임...5강 좌절 NC, 계산되는 '건창모' 얻었다",
+    "url": "https://www.chosun.com/sports/baseball/2026/10/10/GVRDCOJVGBQTGNRRMYZDQYTFGY/",
+    "title": "KIA 기다려! 벼랑끝 LG 비상탈출, 송찬의 결승타+'슈퍼히어로' 문정빈 있으매…연장 11회 혈투 끝 '레이예스 205안타' 롯데에 4대3 진땀승 [부산리뷰]",
     "summary": [
-      "[OSEN=창원, 이선호 기자] 패전을 안아도 뿌듯한 피날레인가.",
-      "NC 다이노스 좌완 구창모(29)가 시즌을 건강하게 마쳤다.",
-      "지난 9일 창원NC파트에서 열린 2026 신한 SOL KBO리그 KIA 타이거즈와의 팀간 최종전에 선발등판해 6이닝을 던지며 8피안타 2볼넷 3탈삼진 3실점을 기록했다."
-    ],
-    "chips": [
-      "#KBO",
-      "#의료"
-    ]
-  },
-  {
-    "id": "ne005bf32",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "5분 전",
-    "url": "https://www.chosun.com/jp/culture-life-jp/2026/10/10/C2JY6W77RBGEXCXBDCMEZYF5LI/",
-    "title": "ユク・ジュンワン、8億5千万ウォンで買えたビル「今40億」",
-    "summary": [
-      "【OSEN＝キム・チェヨン記者】歌手ユク・ジュンワンが、かつて暮らしていた望遠洞（マンウォンドン）の屋上部屋がある建物を購入しなかった理由を明かした。6日、ユーチューブチャンネル「ユクジュルピョン」には「望遠初代大統領ユク・ジュンワン、ついに望遠市場に食べ歩き市場ツアーで登場」というタイトルの動画が掲載された。この日、ユク・ジュンワンは「後ろの建物が見えますよね？ あの屋上部屋。ここがまさに望遠洞です」と笑った。続けて「皆さんが記事で."
+      "[부산=스포츠조선 김영록 기자] LG 트윈스가 자칫 4위 확정이 될뻔한 벼랑끝 위기에서 가까스로 탈출했다.",
+      "LG는 10일 부산 사직구장에서 열린 롯데 자이언츠와의 시즌 16차전에서 연장 10회 터진 송찬의의 결승타로 혈투 끝에 4대3, 1점차 신승을 따냈다.",
+      "LG 문정빈은 전날 팀의 유일한 득점이었던 솔로포와 2개의 안타를 모두 친데 이어, 이날도 5타수."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n905cf4a0",
-    "category": "사회",
+    "id": "n4dead2a2",
+    "category": "스포츠",
     "source": "조선일보",
-    "time": "5분 전",
-    "url": "https://www.chosun.com/entertainments/broadcast/2026/10/10/GI3DEMLFMIYDCZJXGBQWMNRYGE/",
-    "title": "육중완, 8억 5천에 살뻔한 망원동 건물..“지금 40억 돼” (‘육줄평’)",
+    "time": "4분 전",
+    "url": "https://www.chosun.com/sports/baseball/2026/10/10/GBRDGYTFGJTGGZBRGFQWIODFGA/",
+    "title": "'김도영 또 쳤다! 홈런왕이 보인다' 시즌 44호 투런 홈런 대폭발[광주 현장]",
     "summary": [
-      "[OSEN=김채연 기자] 가수 육중완이 과거 살았던 망원동 옥탑방 건물을 매입하지 않은 이유를 밝혔다.지난 6일 유튜브 채널 ‘육줄평’에는 ‘망원 초대 대통령 육중완이 드디어 망원시장에 먹방시장투어하러 등장’이라는 제목으로 영상이 게재됐다.이날 육중완은 “여기 뒤에 건물 보이시죠? 저 옥탑방.",
-      "여기는 바로 망원동입니다”라고 웃었다.이어 “여러분들이 기사로."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n6ed4b68b",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "6분 전",
-    "url": "https://www.newsis.com/view/NISX20261010_0003820522",
-    "title": "돈부족 포기 '크루아상' 받자…싹싹 비운 초등생들 '큰절'",
-    "summary": [
-      "[부산=뉴시스]김가영 인턴 기자 = 부산의 한 카페에서 초등학생들이 큰절을 올린 사연이 알려졌다.",
-      "돈이 부족해 빵 구매를 포기한 초등생들이 서비스로 빵을 받았기 때문이다.",
-      "10일 온라인 커뮤니티 등에 따르면 부산 남구의 한 카페 관계자는 9일 폐쇄회로(CC)TV 영상과 함께 초등학생들이 큰절을 올린 사연을 공유했다."
+      "[광주=스포츠조선 나유리 기자]KIA 타이거즈 김도영이 시즌 44호 홈런을 터뜨렸다.",
+      "김도영은 10일 광주 기아챔피언스필드에서 열린 SSG 랜더스와의 홈 경기에 3번타자-3루수로 선발 출전했다.",
+      "LG와 치열한 3위 경쟁을 펼치고있는 KIA는 이날 총력전을 펼쳤다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "nc42ae89d",
-    "category": "사회",
+    "id": "n17695173",
+    "category": "스포츠",
     "source": "뉴시스",
+    "time": "5분 전",
+    "url": "https://www.newsis.com/view/NISX20261010_0003820654",
+    "title": "김경문 감독, 우승 한 못 풀고 한화 떠난다…손혁 단장도 동행 마무리(종합)",
+    "summary": [
+      "[서울=뉴시스]김희준 기자 = 한화 이글스와의 계약 마지막 시즌을 9위로 마친 김경문 감독이 결국 팀을 떠난다.",
+      "또 시즌 종료와 함께 계약이 만료되는 손혁 단장도 한화와 결별한다.",
+      "한화는 10일 대전 한화생명볼파크에서 열린 NC 다이노스와의 정규시즌 최종전이 진행 중인 가운데 \"김경문 감독이 NC전을 끝으로 계약 만료에 따라 팀을 떠난다\"며 \"손혁 단장 역시 시즌 종료와 함께 계약이 만료돼 동행을 마무리한다\"고 밝혔다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n7ce81e31",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "5분 전",
+    "url": "https://www.yna.co.kr/view/AKR20261010040351053",
+    "title": "포항 소매점 인근 화재 1시간여 만에 초진…인명 피해 없어(종합)",
+    "summary": [
+      "(포항=연합뉴스) 손대성 기자 = 10일 오후 5시 33분께 경북 포항시 북구 환호동 한 소매점 뒤편에서 불이 나 1시간 10분 만에 초진됐다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n975a3937",
+    "category": "스포츠",
+    "source": "연합뉴스",
     "time": "9분 전",
-    "url": "https://www.newsis.com/view/NISX20261010_0003820530",
-    "title": "중장비로 옮기던 기름통에 깔렸다…1명 심정지·1명 중상",
+    "url": "https://www.yna.co.kr/view/AKR20261010033951007",
+    "title": "한화 김경문 감독-손혁 단장, 동반 퇴진…끝내 못 푼 우승의 한(종합)",
     "summary": [
-      "[광양=뉴시스]양시원 기자 = 10일 오전 10시50분께 전남광주 광양시 광양읍의 한 비닐하우스 인근에서 중장비로 기름통을 옮기던 도중 기름통이 떨어져 작업 중이던 70대 A씨와 B씨를 덮쳤다.",
-      "이 사고로 A씨가 심정지 상태로 119구급대에 의해 병원으로 이송됐다.",
-      "B씨도 크게 다쳐 병원에서 치료를 받고 있다."
-    ],
-    "chips": [
-      "#의료"
-    ]
-  },
-  {
-    "id": "n6b5574c2",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "10분 전",
-    "url": "https://www.yna.co.kr/view/AKR20261010023951053",
-    "title": "대구 마트서 천장 무너져 36명 부상, 9명 병원 이송(종합)",
-    "summary": [
-      "(대구=연합뉴스) 김현태 황수빈 기자 = 10일 대구 북구 한 식자재 마트에서 천장 일부가 무너져 방문객 30여명이 부상하는 사고가 발생했다."
-    ],
-    "chips": [
-      "#의료"
-    ]
-  },
-  {
-    "id": "n4c8eecad",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "12분 전",
-    "url": "https://www.yna.co.kr/view/AKR20261010024600009",
-    "title": "트럼프-푸틴 경유딜, 유가 영향은…전문가 \"물량 미약한 수준\"",
-    "summary": [
-      "(서울=연합뉴스) 곽민서 기자 = 도널드 트럼프 미국 대통령과 블라디미르 푸틴 러시아 대통령이 9일(현지시간) 전격적인 '경유 거래'에 합의했지..."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n4cee8022",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "12분 전",
-    "url": "https://www.yna.co.kr/view/AKR20261010025100005",
-    "title": "거침없는 의사 김지원…'닥터X: 하얀 마피아의 시대' 11.4% 출발",
-    "summary": [
-      "(서울=연합뉴스) 조윤희 기자 = 김지원 주연의 SBS 금토드라마 '닥터X: 하얀 마피아의 시대'가 두 자릿수 시청률로 출발했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nf2b2ff3f",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "13분 전",
-    "url": "https://www.newsis.com/view/NISX20261010_0003820526",
-    "title": "팔미도 해상서 낚시어선 암초 '쾅' 침수…22명 전원 구조",
-    "summary": [
-      "[인천=뉴시스] 전예준 기자 = 인천 팔미도 인근 해상에서 낚시어선이 좌초돼 해양경찰이 승선원 22명을 모두 구조했다.",
-      "10일 인천해양경찰서에 따르면 이날 오전 7시43분께 영종구 팔미도 남쪽 약 3.88㎞(2.1해리) 해상에서 낚시어선이 암초에 부딪혀 침수되고 있다는 신고가 접수됐다.",
-      "해당 어선은 9.77t급이다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n4527c117",
-    "category": "스포츠",
-    "source": "동아일보",
-    "time": "13분 전",
-    "url": "https://www.donga.com/news/Culture/article/all/20261010/134817480/1",
-    "title": "김요한, 11세 연하 오연희와 핑크빛 계속",
-    "summary": [
-      "배구선수 출신 방송인 김요한(41)과 오연희(30)가 본격적인 길거리 데이트를 즐기며 핑크빛 분위기를 풍겼다.9일 방송한 채널A 예능물 ‘신랑수업2’에서는 최근 연인으로 발전한 김요한과 오연희의 일상이 그려졌다.손깍지를 낀 채 거리에 나선 두 사람은 서로의 얼굴이 프린팅된 커플 티셔츠를 맞춰 입고 사진을 찍는 등 달달한 면모를 과시했다.",
-      "이어 오연희의 버킷리스트였던 반지 공방을 방문해 세상에 단 하나뿐인 커플링을 직접 만들며 남다른 케미스트리를."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n1596c47d",
-    "category": "사회",
-    "source": "아시아경제",
-    "time": "14분 전",
-    "url": "https://view.asiae.co.kr/article/2026101011582493957",
-    "title": "대미투자 첫 발 뗐더니 이젠 '정보동맹' 경고음…靑, 美 변수에 고심",
-    "summary": [
-      "한미 양국이 가까스로 대미 전략투자 1호 사업에 첫발을 뗐음에도 불구하고 청와대와 정부가 또 다른 골치 아픈 '변수'와 마주했다.",
-      "이번엔 미국의 대북 정보 공유가 일부 제한에 이어 국가정보원의 한미일 협의체 배제 등 일련의 상황이 알려지면서 정보동맹의 신뢰 문제가 수면위로 부상했다.",
-      "청와대와 정부는 이와 관련한 잇따른 보도를 강하게 부인하고 있지만 표면화된 불협화음이 이재명 정부의 외교·안보 정책에 부담으로 작용하는 형국이다."
-    ],
-    "chips": [
-      "#정책"
-    ]
-  },
-  {
-    "id": "n5abbb956",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "14분 전",
-    "url": "https://www.newsis.com/view/NISX20261008_0003819437",
-    "title": "\"완벽했다, 딱 한글자 빼고\"…속을뻔한 '건기식풍'",
-    "summary": [
-      "[서울=뉴시스]송종호 기자 = \"완벽했습니다.",
-      "딱 한 글자만 빼고요.\" 김영춘 식품의약품안전처 위해사범중앙조사단(중조단) 주무관이 가짜 건강기능식품을 추적했던 당시를 설명하며 꺼낸 말이다.",
-      "정품과 거의 구별하기 어려울 정도로 만들어진 가짜 제품에서 김 주무관이 찾아낸 단서는 의외로 작았다."
-    ],
-    "chips": [
-      "#의료"
-    ]
-  },
-  {
-    "id": "n086f5328",
-    "category": "스포츠",
-    "source": "ZDNet Korea",
-    "time": "14분 전",
-    "url": "https://zdnet.co.kr/view/?no=20261009115925",
-    "title": "e스포츠 전설 페이커 기념우표 나온다",
-    "summary": [
-      "[지디넷코리아]우정사업본부는 '페이커'라 불리는 e스포츠 이상혁 선수 기념 우표 14만장과 우표첩을 발행한다고 10일 밝혔다.오는 23일 발행되는 기념우표엔 이 선수가 데뷔 이후 세계 e스포츠의 전설로 자리매김하는 과정이 담겼다.기념 우표는 가까운 총괄 우체국이나 인터넷 우체국에서 구매할 수 있다.2013년 데뷔한 이 선수는 롤드컵 6회, LCK 10회, MSI 2회 우승 등 기록을 써왔다.",
-      "2023년 항저우에 이어 2026 아이치 나고야 아시."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n10c78105",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "15분 전",
-    "url": "https://www.yna.co.kr/view/AKR20261010025300011",
-    "title": "[알림] 연합뉴스 콘텐츠 저작권 고지",
-    "summary": [
-      "연합뉴스가 제공하는 기사, 사진, 그래픽, 영상 등 모든 콘텐츠는 관련 법의 보호를 받습니다.",
-      "연합뉴스 콘텐츠를 사전허가 없이 전재·방송하거나 ..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nc0bb68f7",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "15분 전",
-    "url": "https://www.donga.com/news/Economy/article/all/20261010/134817474/1",
-    "title": "“같은 날 샀는데 나만 왜 비싸?”…온라인 쇼핑 ‘가격차’ 상담 증가세",
-    "summary": [
-      "온라인 쇼핑몰에서 같은 시간에 상품을 구매했는데도 쿠폰 노출 여부에 따라 가격 차이가 발생하는 경우가 적지 않은 것으로 나타났다.",
-      "관련 소비자상담은 최근 수년 사이 늘어나고 있는데, 실태조사가 필요하다는 지적이 나온다.10일 국회 정무위원회 소속 국민의힘 박성훈 의원이 한국소비자원으로부터 제출받은 자료에 따르면 2021년부터 올해 8월까지 ‘동일상품 이용자별 가격 차이’ 관련 소비자상담은 총 573건이다.",
-      "연도별로는 ▲2021년 83건 ▲202."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "nf15c7474",
-    "category": "스포츠",
-    "source": "아시아경제",
-    "time": "22분 전",
-    "url": "https://view.asiae.co.kr/article/2026101011475066787",
-    "title": "\"내 건물 옥상에서 야구 보겠다는데\"…뜻밖의 판결 내린 美 법원",
-    "summary": [
-      "미국프로야구 메이저리그(MLB) 구단 시카고 컵스가 홈구장 리글리필드 인근 건물 옥상에 관람석 등을 설치하고 야구 경기 관람 사업을 운영해 온 업주와의 법적 분쟁에서 승리했다.",
-      "법원은 구단의 경기 관람권 판매 금지 청구 등을 인정하고 영구 금지명령을 내렸다.",
-      "미국 스포츠 전문매체 ESPN과 법률 전문매체 로360(Law360) 등은 일리노이주 연방법원의 샤론 존슨 콜먼 판사는 지난달 30일 옥상 관람 사업체 '위글리 뷰 루프톱'과 소유주 에이든."
+      "(서울=연합뉴스) 김경윤 기자 = 프로야구 한화 이글스 김경문(67) 감독과 손혁(53) 단장이 올 시즌을 끝으로 퇴진한다."
     ],
     "chips": [
       "#KBO"
     ]
   },
   {
-    "id": "n6d5cbb94",
-    "category": "사회",
-    "source": "아시아경제",
-    "time": "24분 전",
-    "url": "https://view.asiae.co.kr/article/2026101011510277571",
-    "title": "대구 마트서 천장 붕괴 사고…소방당국 \"인명구조 중\"",
+    "id": "nbded60c9",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "10분 전",
+    "url": "https://www.chosun.com/sports/baseball/2026/10/10/GI3TQYZQG42GMZJVGI4DQZBVMI/",
+    "title": "[속보]레이예스 205안타! 최원준 넘어 프로야구 새역사 썼다…'최다안타 신기록'+단독 선두 [부산레코드]",
     "summary": [
-      "10일 오전 10시 16분께 대구 북구 관음동의 한 마트 천장이 일부 무너지는 사고가 발생했다.",
-      "신고를 받은 소방 당국은 차량 18대와 55명의 인력을 투입해 구조작업을 진행 중이다.",
-      "사고 당시 마트 안에 있었던 시민 66명은 스스로 대피한 것으로 전해졌다."
+      "[부산=스포츠조선 김영록 기자] 롯데 자이언츠 빅터 레이예스가 KT 위즈 최원준과의 '최다안타 신기록' 경쟁에서 한걸음 앞섰다.",
+      "레이예스는 10일 부산 사직구장에서 열린 LG 트윈스전에 2번 지명타자로 선발출전, 7회말 4번째 타석에서 중견수 앞에 떨어지는 안타를 쳤다.",
+      "이로써 2026시즌 레이예스의 안타 갯수는 205개가 됐다."
     ],
     "chips": [
-      "#의료"
+      "#KBO"
     ]
   },
   {
-    "id": "n9697782b",
+    "id": "n6a86d343",
+    "category": "경제",
+    "source": "한국경제",
+    "time": "11분 전",
+    "url": "https://www.hankyung.com/article/2026100805886",
+    "title": "'1조 대어' 뜬다…코스닥 입성 앞두고 증권가 주목한 한 가지 [종목+]",
+    "summary": [
+      "'1조 대어' 뜬다…코스닥 입성 앞두고 증권가 주목한 한 가지 [종목+]."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "ndb6663b8",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "12분 전",
+    "url": "https://www.chosun.com/jp/culture-life-jp/2026/10/10/P5P6H5AYHNEOFH6FCVOB3OC5TA/",
+    "title": "ト・ギョンワン、5年7カ月ぶりKBSへ「心そわそわ」",
+    "summary": [
+      "［OSEN＝キム・チェヨン記者］アナウンサー出身のタレント、ト・ギョンワンが、5年7カ月ぶりに古巣KBSを訪れた感想を語った。10日、ユーチューブチャンネル「トジャンTV」には「5年7カ月ぶりに実家に行ってきました」と題する動画が掲載された。この日、車内でカメラを回したト・ギョンワンは「こんにちは、皆さん。今日は一目でどこへ行くのか分かりそうでしょう？」とし、「一生懸命どこかへ向かっているのですが、意味のある."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nf2c7c7e8",
     "category": "사회",
     "source": "동아일보",
-    "time": "33분 전",
-    "url": "https://www.donga.com/news/Society/article/all/20261010/134817457/1",
-    "title": "[속보]대구 북구 마트서 천장 붕괴…36명 부상·5명 병원 이송",
+    "time": "12분 전",
+    "url": "https://www.donga.com/news/Society/article/all/20261010/134817869/2",
+    "title": "‘강제추행 혐의’ 작곡가 유재환, 벌금 500만원 확정",
     "summary": [
-      "대구 북구 관음동의 한 마트에서 천장이 붕괴되는 사고가 발생해 수십 명이 부상을 당했다.",
-      "소방 당국 등에 따르면 10일 오전 10시 16분 “건물 천장이 내려 앉았다”는 신고가 접수됐다.",
-      "소방 당국은 차량 18대와 55명 인력을 투입해 인명 구조에 나섰다."
+      "강제 추행 혐의로 기소된 작곡가 겸 방송인 유재환 씨(37)가 벌금형을 확정받았다.10일 대법원 3부(주심 이숙연 대법관)는 7일 강제추행 혐의로 기소된 유 씨의 상고를 기각했다.",
+      "이에 따라 벌금 500만 원과 성폭력 치료프로그램 40시간 이수를 명령한 원심 판결이 확정됐다.유 씨는 2023년 6월 자신의 소셜네트워크서비스(SNS)에 ‘작곡비를 받지 않고 곡을 만들어주겠다’는 취지의 글을 올린 뒤 알게 된 여성을 강제 추행한 혐의로 기소됐다."
     ],
     "chips": [
-      "#의료"
+      "#뉴스"
     ]
   },
   {
-    "id": "nab794097",
+    "id": "n39188e4c",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "13분 전",
+    "url": "https://www.donga.com/news/Culture/article/all/20261008/134809910/2",
+    "title": "48세 김사랑, 뉴욕 루프톱서 수영…꾸준히 챙긴 운동 루틴은",
+    "summary": [
+      "김사랑이 뉴욕에서 수영을 즐기는 모습을 공개했다.",
+      "수영은 전신 유산소 운동이지만 체지방 감소 효과는 개인차가 있어 근력운동과 함께 구성하는 것이 좋다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n8b4966f2",
+    "category": "경제",
+    "source": "한국경제",
+    "time": "14분 전",
+    "url": "https://www.hankyung.com/article/2026101035567",
+    "title": "\"민주당의 망상\" 발끈한 한동훈…'딸 수사 무마' 의혹 반박",
+    "summary": [
+      "\"민주당의 망상\" 발끈한 한동훈…'딸 수사 무마' 의혹 반박."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n146c16fc",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "17분 전",
+    "url": "https://www.yna.co.kr/view/AKR20261010041200063",
+    "title": "[부고] 정찬욱(전 연합뉴스 대전충남취재본부장)씨 장인상",
+    "summary": [
+      "[부고] 정찬욱(전 연합뉴스 대전충남취재본부장)씨 장인상."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n83a79b73",
+    "category": "부동산",
+    "source": "연합뉴스",
+    "time": "22분 전",
+    "url": "https://www.yna.co.kr/view/AKR20261010040900085",
+    "title": "가라앉지 않는 스페인 주택난 시위…조기 총선전 돌입",
+    "summary": [
+      "(런던=연합뉴스) 김지연 특파원 = 스페인에서 주택난 항의 시위가 가라앉지 않는 가운데 여야가 조기 총선 운동에 돌입했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nd34d5278",
+    "category": "사회",
+    "source": "한국경제",
+    "time": "30분 전",
+    "url": "https://www.hankyung.com/article/2026101035477",
+    "title": "이진숙, 李대통령 부모 묘소 찾더니…\"법 위에 있느냐\" 비판",
+    "summary": [
+      "이진숙, 李대통령 부모 묘소 찾더니…\"법 위에 있느냐\" 비판."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n2a678c0d",
     "category": "사회",
     "source": "동아일보",
     "time": "38분 전",
-    "url": "https://www.donga.com/news/Politics/article/all/20261010/134817448/1",
-    "title": "국힘 “北김여정 조롱에도 저자세 정동영, 사퇴해야”",
+    "url": "https://www.donga.com/news/Society/article/all/20261010/134817862/2",
+    "title": "‘정치자금 수수’ 무죄 노웅래, “전과 16범” 발언에 명예훼손 벌금형 확정",
     "summary": [
-      "국민의힘이 정동영 통일부 장관이 김여정 북한 노동당 총무부장의 ‘막말’ 담화에 저자세로 일관하고 있다며 즉각 사퇴하라고 비판했다.",
-      "국민의힘 박성훈 수석대변인은 10일 논평에서 “김여정이 어제 통일부의 대북 의료지원 구상을 두고 조롱 수준을 넘어선 막말까지 내뱉었다.",
-      "그러나 정 장관은 이렇다 할 입장을 내놓지 않고 있다”면서 이같이 요구했다.박 수석대변인은 “지난 8일 유엔총회 위원회에서 북한 측이 정 장관의 이름까지 직접 거론하며 억지 주장을."
+      "검찰의 상고 포기로 ‘불법 정치자금 수수’ 사건에서 무죄를 확정받은 노웅래 전 더불어민주당 의원이 함께 기소된 사업가의 명예를 훼손한 혐의로 대법원에서 벌금형을 확정받았다.10일 대법원 3부(주심 엄상필 대법관)는 1일 노 전 의원의 명예훼손 혐의 상고심에서 원심이 내린 벌금 70만 원을 상고기각 결정으로 확정했다.노 전 의원은 2023년 5월 뇌물수수 등 혐의 첫 번째 공판에 출석하면서 “저는 단연코 저에게 뇌물을 줬다는 사업가와 일면식도 없."
     ],
     "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "na065bd1d",
+    "category": "스포츠",
+    "source": "동아일보",
+    "time": "40분 전",
+    "url": "https://www.donga.com/news/Sports/article/all/20261010/134817857/1",
+    "title": "‘9위 추락’ 김경문 감독, 한화 떠난다…NC전 끝으로 작별",
+    "summary": [
+      "프로야구 한화 이글스 김경문 감독이 올 시즌을 끝으로 팀을 떠난다.한화 관계자는 10일 “김경문 감독이 이날 NC 다이노스와 경기를 앞두고 팀을 떠난다는 뜻을 밝혔다”고 전했다.한화는 이날 대전 한화생명볼파크에서 NC를 상대로 2026시즌 최종전을 치른다.2024년 중반 한화와 3년 총액 20억 원에 계약을 맺고 현장에 돌아온 김 감독의 계약도 이날 경기를 끝으로 만료된다.김 감독은 부임 첫해 부진에 빠진 팀을 수습했고, 이듬해인 2025시즌엔."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
+    "id": "n1ba55c5b",
+    "category": "스포츠",
+    "source": "한국경제",
+    "time": "52분 전",
+    "url": "https://www.hankyung.com/article/2026101035447",
+    "title": "강호동 아들 강시후 근황에 '깜짝'…랭킹 78위 골프선수로 '활약'",
+    "summary": [
+      "강호동 아들 강시후 근황에 '깜짝'…랭킹 78위 골프선수로 '활약'."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n24e1331c",
+    "category": "사회",
+    "source": "아시아경제",
+    "time": "55분 전",
+    "url": "https://view.asiae.co.kr/article/2026101018182233866",
+    "title": "부천 발전소 건설현장서 노동자 1명 사망…타워크레인 무게추 사고",
+    "summary": [
+      "경기 부천시의 한 발전소 건설 현장에서 타워크레인 무게추에 맞은 노동자 1명이 숨지고 1명이 다쳤다.10일 고용노동부에 따르면 전날 오후 3시10분께 DL이앤씨가 시공 중인 부천시 발전소 건설 현장에서 타워크레인 무게추를 설치하던 중 인양된 추가 요동치면서 인근에서 작업하던 노동자들을 덮쳤다.",
+      "이 사고로 노동자 A씨가 심정지 상태로 병원에 이송됐으나 숨졌다.",
+      "B씨는 중상을 입고 치료받고 있다."
+    ],
+    "chips": [
+      "#고용",
       "#의료"
     ]
   }
@@ -642,20 +629,20 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "1940건",
-    "trend": "+195%"
+    "mentions": "2850건",
+    "trend": "+335%"
   },
   {
     "rank": 2,
-    "tag": "의료",
-    "mentions": "1810건",
-    "trend": "+175%"
+    "tag": "AI",
+    "mentions": "1550건",
+    "trend": "+135%"
   },
   {
     "rank": 3,
-    "tag": "AI",
-    "mentions": "1680건",
-    "trend": "+155%"
+    "tag": "반도체",
+    "mentions": "1550건",
+    "trend": "+135%"
   }
 ];
 // ====AUTO-GENERATED-END====
