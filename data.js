@@ -1,12 +1,12 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-10-11 09:27:48
+// 마지막 업데이트: 2026-10-11 16:02:44
 window.NEWS_DB = [
   {
-    "id": "n0de880c8",
+    "id": "ne501e35b",
     "category": "IT",
     "source": "강원도민일보",
-    "time": "8시간 전",
-    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE84NXZYdUUwVVNPdndJZ08yczN5OFdMVnE5Zm9SN29pQ2NCMlRyamVsS2REaUtEMHJhODRDTzVwMHVEWmRZTWxBMVJxTHphN0ZuejdIanBNNkJ4Y1pIcWpmME9zcnR1VkU?oc=5",
+    "time": "15시간 전",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1QdGNkQ0FZRG9BSHZLSFpVNVFUUHQ0NDBLNlpaY2pDcW5veTc4R3h2NlU3Q1hFRjE3c0VKZ01QaXIzMVVfUDFhWGNpeW1fdnMzZXR0MXFKWVJmbUtqb3NsNlJOQ2xvQQ?oc=5",
     "title": "엔비디아, 스타트업 ‘리플렉션 AI’ 인수 검토…핵심 인력·기술 확보도 논의",
     "summary": [
       "엔비디아, 스타트업 ‘리플렉션 AI’ 인수 검토…핵심 인력·기술 확보도 논의 강원도민일보."
@@ -21,7 +21,7 @@ window.NEWS_DB = [
     "id": "n643bb852",
     "category": "IT",
     "source": "인더스트리뉴스",
-    "time": "3일 전",
+    "time": "4일 전",
     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1pRFFYc1p0RkJSWnNOSzg1UVoza1BLcVJ1RkpwQVg2NHVOaUxTUVpFeW9TQXlqUVdYRzNuamQ5ZDBoYzFsRjE2ZzBOd1BMZVp5NXRNbmg0dDRDYjVsdmc5dWJJVmZEY1R0QVEzYjBGeTJrUQ?oc=5",
     "title": "AMD 리사 수, 삼성·SK 수장과 만남…차세대 HBM·파운드리 AI 동맹 강화",
     "summary": [
@@ -197,6 +197,50 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n93c2ed2f",
+    "category": "IT",
+    "source": "경북매일",
+    "time": "26일 전",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5xWGQzcWdTT2JoUFptNVhrN2RETlFyQi1BcU9meDlrYmlYenE1U0J2VmgyRk05SnJjMXFsNXRyNzZ6ZUJjLUNZdmFRVU9HcEVsNS1qdGdIOGxsZw?oc=5",
+    "title": "대구경북 스타트업 한자리에…추경호 시장 “지역서 유니콘 키운다”",
+    "summary": [
+      "대구경북 스타트업 한자리에…추경호 시장 “지역서 유니콘 키운다” 경북매일."
+    ],
+    "chips": [
+      "#스타트업"
+    ]
+  },
+  {
+    "id": "n689e4e53",
+    "category": "IT",
+    "source": "관악FM",
+    "time": "27일 전",
+    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5XRXA4X1ZRU1VLLXU1VDN6a0JmdmxDbW5BdXRua0hVQzNpSXAtbjF6bFRkMkE3amdpMDVsWm0wcEtnTFAzR0xQZTBpVQ?oc=5",
+    "title": "“관악S밸리에서 미래 유니콘의 꿈을!” 관악구, 2026년 제3차 신규 입주기업 최대 20개사 모집",
+    "summary": [
+      "“관악S밸리에서 미래 유니콘의 꿈을!” 관악구, 2026년 제3차 신규 입주기업 최대 20개사 모집 관악FM."
+    ],
+    "chips": [
+      "#스타트업",
+      "#채용"
+    ]
+  },
+  {
+    "id": "n0a9cd638",
+    "category": "IT",
+    "source": "관악신문",
+    "time": "40일 전",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1vMUcxenZqYlQ3Sjd6U1NrUjdDaW1KZFdOUm5GdjFoaUNNaWN1Ri1laTlfel9Md25PNXFHYzIxWFhrSzlXcndKSzhhY2JmYmkzTy0yMEpTTTlrUDhfTmZJcFZsSm00bElSdlE?oc=5",
+    "title": "관악S밸리 신규 입주기업 모집… “미래 유니콘 기업 육성”",
+    "summary": [
+      "관악S밸리 신규 입주기업 모집… “미래 유니콘 기업 육성” 관악신문."
+    ],
+    "chips": [
+      "#스타트업",
+      "#채용"
+    ]
+  },
+  {
     "id": "n657e0140",
     "category": "경제",
     "source": "연합뉴스TV",
@@ -240,20 +284,6 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n207a7abe",
-    "category": "IT",
-    "source": "Chosunbiz",
-    "time": "110일 전",
-    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPUGdtbi01TkVMYXphY1VqbF9xRzB3TkVUbWtrM2NhN2d1NmpvS29NLTY5UWFtbFNrangxUlRnQUpxOW9rSEZwWVZuWU42aUdIU1FUUlhnQ0NLbjBXdlNpQ2labGU1cUt3WVZ3NEhVVmtJNjJlc3lUalByb0tqZDBucVJleGVLUFpaanFZX3RLZWvSAaQBQVVfeXFMTXFmYjM1dzZaM0d5QjZZQXJIb0VnanMzR29JcWlBQVZreFhGVVZlRmd4c2xoejc0ajVvdDhkUVo5ZWJ5bWlyVlZSUzlveG9EamJZblA5VDkwRG16QW1hRW1Qel9mTHRfdWI3MHhvbTJfd3ZoRTNIb3dVbjByNmI5T3llUUt2ZlZjVmEwQlV4M0FvMTRVT0JYaG4zNDZ6Rkw1LVVodlA?oc=5",
-    "title": "중기부, 2030년까지 ‘유니콘’ 50개 육성 나선다 - 조선비즈",
-    "summary": [
-      "중기부, 2030년까지 ‘유니콘’ 50개 육성 나선다 - 조선비즈 Chosunbiz."
-    ],
-    "chips": [
-      "#스타트업"
-    ]
-  },
-  {
     "id": "nabfa15b0",
     "category": "경제",
     "source": "YTN",
@@ -281,34 +311,6 @@ window.NEWS_DB = [
     "chips": [
       "#손흥민",
       "#KBO"
-    ]
-  },
-  {
-    "id": "nba668fc0",
-    "category": "IT",
-    "source": "한국방송뉴스",
-    "time": "165일 전",
-    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1XaThhZXFiX3dDT0NrYVFwZ2dhNTgxbHU0WE5Bc21vcGVzR0d2Wkh2Zm5pS2MyZ1JkYlhHb2VfRkhkemdEX1F6Q1RtajJLRzR6dDdHcExQelAyS2N1OUE?oc=5",
-    "title": "1조 8000억 규모 벤처펀드 선정…\"벤처·스타트업에 적시 공급\"",
-    "summary": [
-      "1조 8000억 규모 벤처펀드 선정…\"벤처·스타트업에 적시 공급\" 한국방송뉴스."
-    ],
-    "chips": [
-      "#스타트업"
-    ]
-  },
-  {
-    "id": "nbc27bc5a",
-    "category": "IT",
-    "source": "연합뉴스",
-    "time": "228일 전",
-    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5UNnlsSTY5eHFYNEZ6ZktBM216dFF6Q0J5Z1NVYm56M3A2TUFNMDM0U081NTNsZVNJTy1MWklmVGc0cEdLVk5NRHFiTWtHbmx2b2ItSkVEV1A2ZFnSAWBBVV95cUxOV3Z3V2F3aWJvV3dDNDc4OXpfRmpyaDgtaExGWC1ZTUxvX2M4ZVZPNC1rZHpQeUtSNXlIZjc0dHdGWTdfUXpJQXdac1lZU3Mza3NvdHVweFFNYXhmdDMyZWs?oc=5",
-    "title": "스타트업·벤처를 유니콘으로…전북도, '창업 천국' 구상 발표",
-    "summary": [
-      "스타트업·벤처를 유니콘으로…전북도, '창업 천국' 구상 발표 연합뉴스."
-    ],
-    "chips": [
-      "#스타트업"
     ]
   },
   {
@@ -359,271 +361,272 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n699cd0ce",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "4분 전",
-    "url": "https://www.yna.co.kr/view/AKR20261011021352057",
-    "title": "울산 마라톤대회 21명 열탈진 등 이송…\"급수대 물 떨어져\"(종합2보)",
+    "id": "na7b63443",
+    "category": "스포츠",
+    "source": "뉴시스",
+    "time": "1분 전",
+    "url": "https://www.newsis.com/view/NISX20261008_0003819004",
+    "title": "\"자식보다 낫네요\"…어르신 2만명 도운 '이 사업'[같이의 가치]",
     "summary": [
-      "(울산=연합뉴스) 허광무 기자 = 11일 오전 울산에서 열린 '2026 울산마라톤대회'에서 21명의 참가자가 열탈진 등 증세를 보여 병원으로 이..."
+      "[서울=뉴시스]강은정 기자 = 요양기관 절반 이상이 수도권(서울·인천·경기)에 몰려 있는 현실 속, 농어촌 어르신들에게 건강검진은 숙제처럼 느껴질 때가 많다.",
+      "건강한 일상을 위해선 꼭 해야 하지만 비용 부담에 이동 거리도 만만치 않기 때문이다.",
+      "최근 어르신들을 이 같은 고민을 덜어주고 있는 든든한 지원군이 주목받고 있다."
     ],
     "chips": [
       "#의료"
     ]
   },
   {
-    "id": "n290cd4f1",
-    "category": "부동산",
-    "source": "동아일보",
-    "time": "6분 전",
-    "url": "https://www.donga.com/news/Society/article/all/20261011/134821523/1",
-    "title": "경기 오산 생후 2개월 딸 숨져…40대 친부 긴급체포",
-    "summary": [
-      "생후 2개월 된 어린 영아가 몸에 외상을 입은 채 숨져 경찰이 수사에 나선 가운데, 친부가 긴급체포됐다.경기 오산경찰서는 11일 살인 혐의로 40대 남성을 긴급체포해 조사하고 있다고 밝혔다.경찰에 따르면 해당 남성은 이날 오산시 서동 소재 한 주택에서 생후 2개월 된 딸을 숨지게 한 혐의를 받고 있다.이날 오전 3시 43분께 친모로부터 “아이가 숨을 쉬지 않는다”는 다급한 내용의 119 신고가 접수됐다.",
-      "출동한 구급대가 심폐소생술 등 응급처치를."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n635b5456",
-    "category": "IT",
-    "source": "아시아경제",
-    "time": "7분 전",
-    "url": "https://view.asiae.co.kr/article/2026101118203276369",
-    "title": "팀 쿡, CEO 퇴임 후 첫 중국행…칭화대 자문회의 참석",
-    "summary": [
-      "팀 쿡 애플 의장이 지난달 최고경영자(CEO) 퇴임 후 처음으로 중국을 방문했다.",
-      "광저우의 아이폰 신제품 촬영 현장을 찾은 데 이어 베이징에서 열리는 칭화대 자문위원회 연례회의에도 참석할 예정이다.",
-      "쿡 의장은 10일 중국 사회관계망서비스(SNS) 웨이보에 중국 남부 광둥성 광저우를 방문한 사진을 공개했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n3ff0375e",
+    "id": "n076e9561",
     "category": "사회",
     "source": "뉴시스",
-    "time": "7분 전",
-    "url": "https://www.newsis.com/view/NISX20261011_0003820996",
-    "title": "에스파 지젤, 가녀린 몸매 비결은 유산소?…'천국의 계단' 운동 눈길",
+    "time": "1분 전",
+    "url": "https://www.newsis.com/view/NISX20261012_0003821227",
+    "title": "폴란드 경찰, 투스크 총리 위해 모의 용의자 체포",
     "summary": [
-      "[서울=뉴시스]허준희 인턴 기자 = 에스파 지젤이 몸매가 드러나는 운동복을 입은 근황을 공개한 가운데, 그의 유산소 운동 비결에도 관심이 쏠리고 있다.",
-      "지젤은 지난 9일 자신의 소셜네트워크서비스(SNS)에 바닷가에서 촬영한 사진 여러 장을 올렸다.",
-      "사진에서 지젤은 흰색 크롭 민소매 상의에 검은색 후드 집업과 레깅스를 조합했다."
+      "[바르샤바=AP/뉴시스]이재준 기자 = 폴란드 경찰은 도날트 투스크 총리를 위해하겠다고 위협하고 실제 공격을 계획한 용의자를 체포했다고 마르친 키에르빈스키 내무장관이 11일(현지시간) 밝혔다.",
+      "키에르빈스키 내무장관은 이날 이같이 발표하면서 체포된 남성의 신원이나 계획한 공격의 구체적인 방식은 공개하지 않았다.",
+      "앞서 폴란드 당국은 투스크 총리와 브와디스와프 코시니아크카미시 국방장관을 겨냥한 공격을 모의한다는 정보를 입수했다고 전했다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "nd74c7106",
-    "category": "경제",
-    "source": "연합뉴스",
-    "time": "7분 전",
-    "url": "https://www.yna.co.kr/view/AKR20261011037951007",
-    "title": "김효주, 3연패 노린 LET 아람코 챔피언십 7위…야마시타 우승(종합)",
-    "summary": [
-      "(고양=연합뉴스) 최송아 기자 = 김효주가 3년 연속 우승에 도전했던 레이디스 유러피언투어(LET) 아람코 코리아 챔피언십(총상금 200만달러)..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n2fe52226",
-    "category": "경제",
-    "source": "한국경제",
-    "time": "9분 전",
-    "url": "https://www.hankyung.com/article/2026101144731",
-    "title": "세금 내는 사람 따로, 득 보는 사람 따로",
-    "summary": [
-      "세금 내는 사람 따로, 득 보는 사람 따로."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n9b170c65",
-    "category": "경제",
-    "source": "한국경제",
-    "time": "9분 전",
-    "url": "https://www.hankyung.com/article/2026101144541",
-    "title": "韓美 균열설 확산…野 \"정동영 경질해야\"",
-    "summary": [
-      "韓美 균열설 확산…野 \"정동영 경질해야\"."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n635b01fa",
-    "category": "경제",
-    "source": "아시아경제",
-    "time": "10분 전",
-    "url": "https://view.asiae.co.kr/article/2026101118170272923",
-    "title": "30도 늦더위 13일 비에 꺾인다…14일 아침 기온 10도 '뚝'",
-    "summary": [
-      "전국 곳곳에서 30도를 웃돈 늦더위가 13일 전국에 비가 내린 뒤 꺾이겠다.",
-      "14일 아침 기온은 전날보다 5∼10도가량 떨어져 쌀쌀하겠다.",
-      "11일 낮 최고기온은 경북 경산 하양읍 30.4도, 서울 도봉구 30.3도, 전남 광양읍 30.1도 등을 기록했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n31af67d1",
-    "category": "사회",
-    "source": "한국경제",
-    "time": "10분 전",
-    "url": "https://www.hankyung.com/article/2026101144551",
-    "title": "\"서민 혈세로 온갖 호사 누려\"…이 대통령, 秋지사 겨냥했나",
-    "summary": [
-      "\"서민 혈세로 온갖 호사 누려\"…이 대통령, 秋지사 겨냥했나."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n504ed25f",
-    "category": "경제",
-    "source": "한국경제",
-    "time": "10분 전",
-    "url": "https://www.hankyung.com/article/2026101144251",
-    "title": "10명 중 3명 \"성공 공식은 정해져 있어\"",
-    "summary": [
-      "10명 중 3명 \"성공 공식은 정해져 있어\"."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nb3f38860",
+    "id": "na4f9a8d0",
     "category": "사회",
     "source": "조선일보",
-    "time": "12분 전",
-    "url": "https://www.chosun.com/entertainments/broadcast/2026/10/11/MFQWCNDBMFRGGOLCMYZTMZRUMY/",
-    "title": "‘92년생’ 김용빈, 양파즙·칡즙 수십 개 챙기는 일상…“어릴 때부터 몸 약해”(사당귀)",
+    "time": "13분 전",
+    "url": "https://www.chosun.com/jp/culture-life-jp/2026/10/12/XRDPAUBQMFECDMHSPFUIONEXJM/",
+    "title": "パク・キョンヘ、5日で2キロ減量",
     "summary": [
-      "[스포츠조선 조민정 기자] 1992년생 김용빈이 믿기 힘든 '건강즙 사랑'을 공개해 웃음을 안겼다.",
-      "30대 초반의 나이에도 양파즙부터 칡즙, 사과즙까지 종류별로 챙겨 다니며 자기관리에 진심인 일상을 보여줬다.",
-      "11일 방송된 KBS2 '사장님 귀는 당나귀 귀'에는 데뷔 23년 차 가수 김용빈이 새로운 보스로 출연했다."
-    ],
-    "chips": [
-      "#의료"
-    ]
-  },
-  {
-    "id": "n008c091d",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "12분 전",
-    "url": "https://www.yna.co.kr/view/AKR20261011042100083",
-    "title": "日의원 27명, 대만 방문해 라이칭더 면담 \"대만해협 평화 중요\"",
-    "summary": [
-      "(베이징=연합뉴스) 한종구 특파원 = 일본 자민당 소속 후루야 게이지 중의원 의원을 비롯한 일본 국회의원 27명이 대만 건국기념일을 맞아 대만을..."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n055b1830",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "16분 전",
-    "url": "https://www.newsis.com/view/NISX20261011_0003821077",
-    "title": "\"꾸준한 공복 유산소의 힘\" 16㎏ 감량 한혜연, 나이 잊은 완벽 슬림 바디",
-    "summary": [
-      "[서울=뉴시스]김성은 인턴 기자 = 스타일리스트 한혜연이 16㎏ 감량 성공 후 한층 슬림해진 몸매와 감각적인 패션 스타일을 공개했다.",
-      "한혜연은 지난 9일 자신의 소셜미디어(SNS)에 \"연휴 시작, 운동하고 일하러 가는 길.",
-      "소박해도 집밥이 최고\"라는 글과 함께 여러 장의 사진을 올렸다."
+      "［OSEN＝パク・ハヨン記者］女優パク・キョンヘが授賞式のためにダイエットをした。11日、ユーチューブチャンネル『キョンヘ見る？』には『驚くことに同一人物です』というタイトルの動画が掲載された。この日、パク・キョンヘは8日に開かれた『2026ソウル国際ドラマアワード』にプレゼンターとして登場するまでの準備過程を公開した。人生初のドレスフィッティングを前に、パク・キョンヘはむくみを取るため運動に出掛けた。彼女は「少."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "nb3613a1e",
-    "category": "IT",
-    "source": "아시아경제",
-    "time": "17분 전",
-    "url": "https://view.asiae.co.kr/article/2026101118103165338",
-    "title": "英 정보기관 수장들 \"AI 악용, 중대한 안보 위협\"",
+    "id": "nf60c106b",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "13분 전",
+    "url": "https://www.chosun.com/entertainments/broadcast/2026/10/12/GU4WINJWMZQWIMTFMY3DKMZUG4/",
+    "title": "박경혜, 5일만 ‘2kg’ 감량..순백의 드레스 자태에 ‘반응’ 터졌다 (경혜볼래)",
     "summary": [
-      "영국 정보기관 수장들이 인공지능(AI) 악용을 중대한 국가안보 위협으로 지목하고 정부에 경고했다고 일간 더타임스가 11일(현지시간) 보도했다.",
-      "켄 매캘럼 국내담당 보안국(MI5) 국장과 블레이즈 메트러웰리 해외담당 비밀정보국(MI6) 국장, 앤 키스트 버틀러 정보통신본부(GCHQ) 본부장은 지난달 8일 내각회의에서 AI를 활용한 테러와 사이버공격 등의 위협을 보고했다.",
-      "매캘럼 국장은 AI 문제를 각료들이 고려해야 할 \"가장 큰 문제\"라고 강조한."
+      "[OSEN=박하영 기자] 배우 박경혜가 시상식을 위해 다이어트를 했다.",
+      "11일 유튜브 채널 ‘경혜볼래’에는 ‘놀랍게도 같은 사람 맞습니다’라는 제목의 영상이 게재됐다.이날 박경혜는 지난 8일 열린 ‘2026 서울국제드라마어워즈’ 시상자로 나서기까지의 준비 과정을 공개했다.생애 첫 드레스 피팅을 앞두고 박경혜는 붓기를 빼기 위해 운동을 하러 갔다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nf6f7bbc4",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "17분 전",
+    "url": "https://www.chosun.com/politics/politics_general/2026/10/12/C6JM3BCKX5FTVNKSEMKFSUNGKA/",
+    "title": "소통 대신 논란 키운 대통령의 ‘X 정치’",
+    "summary": [
+      "소통 대신 논란 키운 대통령의 ‘X 정치’."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n09fa0818",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "18분 전",
+    "url": "https://www.yna.co.kr/view/AKR20261011054751071",
+    "title": "트럼프 \"러-우크라, 에너지 휴전\"…젤렌스키 \"처음 듣는 내용\"(종합)",
+    "summary": [
+      "(워싱턴=연합뉴스) 이유미 특파원 = 도널드 트럼프 미국 대통령은 11일(현지시간) 러시아와 우크라이나가 에너지 부문에 대한 휴전에 합의했다고 ..."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n3bb1aa04",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "26분 전",
+    "url": "https://www.newsis.com/view/NISX20261012_0003821226",
+    "title": "젤렌스키 \"러시아, 60일 휴전 동의하면 우크라이나 선거 실시\"",
+    "summary": [
+      "[서울=뉴시스]이재준 기자 = 볼로디미르 젤렌스키 우크라이나 대통령은 11일(현지시간) 러시아가 60일간 전면 휴전에 동의하면 우크라이나에서 선거를 실시하겠다고 밝혔다.",
+      "스카이뉴스와 ABC, 스트레이츠 타임스에 따르면 젤렌스키 대통령은 이날 ABC 방송 시사프로그램 '디스 위크(This Week)'에 출연해 블라디미르 푸틴 러시아 대통령이 60일 동안 휴전에 합의하면 선거를 치르겠다고 표명했다.",
+      "젤렌스키 대통령은 \"푸틴에게 두 달, 60일 동안."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n5c19ec25",
+    "category": "스포츠",
+    "source": "동아일보",
+    "time": "32분 전",
+    "url": "https://www.donga.com/news/Economy/article/all/20261011/134821461/2",
+    "title": "기관 의결권 공동행사 쉬워진다… 재계는 “악용 우려”",
+    "summary": [
+      "더불어민주당이 대규모의 자금을 굴리는 연기금, 자산운용사 등 기관들이 상장사에 더욱 적극적으로 의견을 낼 수 있게 공시 의무를 완화하는 방안을 추진한다.",
+      "기관들이 주주로서 배당 확대, 자사주 소각, 지배구조 개선 등을 적극 요구하도록 해 ‘코리아 디스카운트’를 없애자는 취지다.",
+      "이런 내용을 담은 개정안이 통과되면 운용사들이 연대해 주주의 목소리를 높이는 사례가 늘어날 것으로 전망된다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n06aadd16",
+    "category": "IT",
+    "source": "동아일보",
+    "time": "32분 전",
+    "url": "https://www.donga.com/news/Economy/article/all/20261011/134821476/2",
+    "title": "“휴머노이드 로봇 D램… 2030년 20배로 급증”",
+    "summary": [
+      "휴머노이드 로봇에 탑재되는 D램 수요가 2030년에는 올해의 약 20배 수준으로 불어날 것이라는 전망이 나왔다.",
+      "로봇이 삼성전자와 SK하이닉스 등 메모리 기업들의 새로운 수요처로 떠오르고 있다.",
+      "11일 시장조사 업체 카운터포인트리서치는 휴머노이드 로봇의 두뇌 역할을 하는 연산장치용 D램 수요가 올해 약 8300Tb(테라비트)에서 2030년 20.7배 수준인 17만2000Tb로 폭증할 것으로 내다봤다."
+    ],
+    "chips": [
+      "#삼성전자",
+      "#SK하이닉스"
+    ]
+  },
+  {
+    "id": "nd09cedd3",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "32분 전",
+    "url": "https://www.donga.com/news/Economy/article/all/20261011/134821478/2",
+    "title": "“청년-고령 일자리 다 잡으려면 日 단계적 재고용 참고를”",
+    "summary": [
+      "한국이 청년 채용과 고령자 일자리 문제를 동시에 해결하기 위해서는 고령화사회를 앞서 겪은 일본의 단계적 재고용 추진 과정을 참고해야 한다는 분석이 나왔다.",
+      "한국경영자총협회(경총)은 11일 ‘일본의 정년 연장 사례와 시사점’ 보고서를 내고 일본이 법정 정년을 60세로 유지하면서 재고용을 중심으로 65세까지 고용 기회를 보장한 사례를 소개했다.",
+      "경총이 올해 3월 일본 후생노동성, 일본경제단체연합회(경단련), 노동정책연구·연수기구(JILPT) 등을."
+    ],
+    "chips": [
+      "#정책",
+      "#채용",
+      "#고용"
+    ]
+  },
+  {
+    "id": "n510d6e75",
+    "category": "IT",
+    "source": "동아일보",
+    "time": "32분 전",
+    "url": "https://www.donga.com/news/Economy/article/all/20261011/134821497/2",
+    "title": "K브랜드 해외서 날자, ‘결제-짝퉁 단속 대행’ 기업들도 신바람",
+    "summary": [
+      "글로벌 뷰티테크 기업 에이피알은 메디큐브 등 자사 브랜드의 해외 판매가 늘면서 매달 정산 업무에 골머리를 앓았다.",
+      "아마존 등 해외 판매 채널의 매출·정산 자료를 일일이 수집하고 대조해야 했기 때문이다.",
+      "직원 8명이 5일 넘게 매달리던 아마존 월 마감 업무는 최근 직원 1명이 클릭 한 번으로 처리할 수 있게 됐다."
     ],
     "chips": [
       "#AI"
     ]
   },
   {
-    "id": "n3254590b",
-    "category": "부동산",
-    "source": "뉴시스",
-    "time": "18분 전",
-    "url": "https://www.newsis.com/view/NISX20261011_0003821145",
-    "title": "김제 주택서 화재로 50대 거주자 화상…쓰레기 소각 추정",
-    "summary": [
-      "[김제=뉴시스]강경호 기자 = 11일 오전 10시31분께 전북 김제시 백산면의 한 단독주택에서 불이 나 20분여 만에 진화됐다.",
-      "이 불로 주택 거주자 A(50대)씨가 진화 시도 중 2도 화상을 입어 병원으로 옮겨졌다.",
-      "또 주택 일부가 타 140여만원(소방서 추산)의 재산피해가 발생했다."
-    ],
-    "chips": [
-      "#의료"
-    ]
-  },
-  {
-    "id": "n75760d3a",
+    "id": "n708412ac",
     "category": "사회",
     "source": "연합뉴스",
-    "time": "18분 전",
-    "url": "https://www.yna.co.kr/view/AKR20261011041600530",
-    "title": "가을 잊은 30도 늦더위…13일 비 온 뒤 기온 '뚝'",
+    "time": "33분 전",
+    "url": "https://www.yna.co.kr/view/AKR20261012000200072",
+    "title": "[르포] 뉴욕 달군 한국 웹툰…韓작가 사인회에 3시간 대기줄",
     "summary": [
-      "(서울=연합뉴스) 홍준석 기자 = 일요일인 11일 전국 곳곳의 낮 기온이 30도를 웃도는 등 가을이 무색한 늦더위가 기승을 부렸다."
+      "(뉴욕=연합뉴스) 김연숙 특파원 = 미국 콜럼버스의 날 연휴인 10일(현지시간) 미국 뉴욕 맨해튼의 재비츠 컨벤션 센터 주변."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n914f0e63",
+    "id": "nc64275ba",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "48분 전",
+    "url": "https://www.yna.co.kr/view/AKR20261012000300071",
+    "title": "美재무, '푸틴과 경유합의' 비판 속출에 \"美국민에 좋은 일\"",
+    "summary": [
+      "(워싱턴=연합뉴스) 백나리 특파원 = 스콧 베선트 미국 재무장관은 10일(현지시간) 미국과 러시아 간 경유 합의에 대한 비판을 일축하며 \"미국 ..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n2628a381",
     "category": "사회",
     "source": "뉴시스",
-    "time": "18분 전",
-    "url": "https://www.newsis.com/view/NISX20261011_0003821133",
-    "title": "트럼프, 멕시코만 이어 대서양·태평양도 개명 시사…\"트럼프 대양\"",
+    "time": "48분 전",
+    "url": "https://www.newsis.com/view/NISX20261012_0003821225",
+    "title": "트럼프 “러시아·우크라이나, 에너지 휴전 합의”…구체적 내용은 미공개",
     "summary": [
-      "[서울=뉴시스] 이재은 기자 = 도널드 트럼프 미국 대통령이 멕시코만과 온타리오호의 명칭을 바꾼 데 이어 대서양이나 태평양의 이름도 변경할 수 있다고 시사했다.",
-      "자신의 이름을 딴 '트럼프 대양'도 거론하며 농담을 던졌다.",
-      "10일(현지 시간) 워싱턴포스트(WP)에 따르면 트럼프 대통령은 전날 테네시주 클락스빌에서 열린 중간선거 유세에서 \"우리에게는 강이 필요하고 바다도 필요하다\"며 추가적인 수역 명칭 변경 구상을 밝혔다."
+      "[워싱턴=AP/뉴시스]이재준 기자 = 도널드 트럼프 미국 대통령은 11일(현지시간) 러시아와 우크라이나가 에너지 시설 공격을 중단하는‘에너지 휴전’에 합의했다고 밝혔다.",
+      "트럼프 대통령은 이날 소셜미디어에 올린 글을 통해 이같이 전하며 휴전이 즉시 발효된다고 설명했다.",
+      "그러면서 트럼프 대통령은 러시아와 우크라이나 양측에 “휴전을 깨지 말라”고 당부했다."
     ],
     "chips": [
       "#정치"
     ]
   },
   {
-    "id": "na5d08b1e",
-    "category": "스포츠",
-    "source": "동아일보",
-    "time": "20분 전",
-    "url": "https://www.donga.com/news/It/article/all/20261011/134820624/1",
-    "title": "‘페이커’ 이상혁 기념우표 나온다…세계정상 오르기까지 주요순간 담아",
+    "id": "n10d57af1",
+    "category": "경제",
+    "source": "한국경제",
+    "time": "1시간 전",
+    "url": "https://www.hankyung.com/article/2026100529407",
+    "title": "[오늘의 운세] 2026년 10월 12일 별자리 운세",
     "summary": [
-      "세계적인 프로게이머 ‘페이커’ 이상혁(30)이 기념우표의 주인공이 된다.",
-      "2013년 데뷔 이후 세계 정상에 오르기까지 선수 생활의 주요 순간들이 우표에 담긴다.",
-      "과학기술정보통신부 우정사업본부는 23일 페이커 기념우표 전지 14만 장과 우표첩 등을 발행한다고 10일 밝혔다."
+      "[오늘의 운세] 2026년 10월 12일 별자리 운세."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n5d1aed3b",
+    "category": "경제",
+    "source": "한국경제",
+    "time": "1시간 전",
+    "url": "https://www.hankyung.com/article/2026100529877",
+    "title": "[오늘의 운세] 10월 12일 띠별 운세",
+    "summary": [
+      "[오늘의 운세] 10월 12일 띠별 운세."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n8abe2d47",
+    "category": "경제",
+    "source": "한국경제",
+    "time": "1시간 전",
+    "url": "https://www.hankyung.com/article/2026100530087",
+    "title": "[오늘의 운세] 2026년 10월 12일 오행별 행운의 컬러",
+    "summary": [
+      "[오늘의 운세] 2026년 10월 12일 오행별 행운의 컬러."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n8039264b",
+    "category": "경제",
+    "source": "한국경제",
+    "time": "1시간 전",
+    "url": "https://www.hankyung.com/article/2026100529067",
+    "title": "[오늘의 운세] 오늘 뭐 먹지?…10월 12일 띠별 추천 점심메뉴",
+    "summary": [
+      "[오늘의 운세] 오늘 뭐 먹지?…10월 12일 띠별 추천 점심메뉴."
     ],
     "chips": [
       "#뉴스"
@@ -636,8 +639,8 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2590건",
-    "trend": "+295%"
+    "mentions": "2460건",
+    "trend": "+275%"
   },
   {
     "rank": 2,
