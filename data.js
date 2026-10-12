@@ -1,11 +1,26 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-10-12 00:05:39
+// 마지막 업데이트: 2026-10-12 06:44:31
 window.NEWS_DB = [
+  {
+    "id": "n463ce3f0",
+    "category": "IT",
+    "source": "이투데이",
+    "time": "4시간 전",
+    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBBbGoyUlM0eU5CdnQtZk1ENndoWExwNHV5NnpEaW1TZ0N3ZjMxcUhidThRenBLclZRYlgtdVNwaUdxQlJSa1ZVOGNjTm9mTGxELWUybUtMWGk0dWNXYTRTY0hDTWFhQS1UVnhaUGwzUnlCcmRW?oc=5",
+    "title": "SEDEX 2026 14일 개막…삼성·SK ‘AI 반도체’ 총출동",
+    "summary": [
+      "SEDEX 2026 14일 개막…삼성·SK ‘AI 반도체’ 총출동 이투데이."
+    ],
+    "chips": [
+      "#AI",
+      "#반도체"
+    ]
+  },
   {
     "id": "n589eb58d",
     "category": "IT",
     "source": "PRESS9",
-    "time": "34분 전",
+    "time": "7시간 전",
     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBrdk50emRXaUtwcUxiTnVkUWluaWRzQ1lleWY0VUtPRjQ1Vkt6d1psTGV2X1ZPQUJweWI4cDRKemVQZ3MyZUs3WFBpUE52NTd1M3o1NTlQSjhEVnliWnExQU1Hd00?oc=5",
     "title": "TSMC 추격하는 삼성, AMD가 던진 '메모리+파운드리' 기회",
     "summary": [
@@ -19,7 +34,7 @@ window.NEWS_DB = [
     "id": "n0de880c8",
     "category": "IT",
     "source": "강원도민일보",
-    "time": "23시간 전",
+    "time": "1일 전",
     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE84NXZYdUUwVVNPdndJZ08yczN5OFdMVnE5Zm9SN29pQ2NCMlRyamVsS2REaUtEMHJhODRDTzVwMHVEWmRZTWxBMVJxTHphN0ZuejdIanBNNkJ4Y1pIcWpmME9zcnR1VkU?oc=5",
     "title": "엔비디아, 스타트업 ‘리플렉션 AI’ 인수 검토…핵심 인력·기술 확보도 논의",
     "summary": [
@@ -43,20 +58,6 @@ window.NEWS_DB = [
     ],
     "chips": [
       "#AI",
-      "#반도체"
-    ]
-  },
-  {
-    "id": "n2cd5f797",
-    "category": "IT",
-    "source": "뉴스핌",
-    "time": "4일 전",
-    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB2aUEyYUlMS3hfVmdHUnU3MTBCZWFKeUJXUDFSNEZEdGNaWHpybHhXeTN0NHhPY1lzcGd6aEdBYm85NGNvTmhZTmNpcnpJX3hmNWdRTF9HT2lLTUlV?oc=5",
-    "title": "리사 수, 전영현·곽노정 연쇄 회동…HBM·파운드리 협력 주목",
-    "summary": [
-      "리사 수, 전영현·곽노정 연쇄 회동…HBM·파운드리 협력 주목 뉴스핌."
-    ],
-    "chips": [
       "#반도체"
     ]
   },
@@ -96,7 +97,7 @@ window.NEWS_DB = [
     "id": "n9e9b447d",
     "category": "IT",
     "source": "비즈니스포스트",
-    "time": "12일 전",
+    "time": "13일 전",
     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBzY1daY3hralhrOTJwTGpfbTRyRThmVmhEOWdOQ1Fkdm8xRTNRLVpoRFFnZGdZR1JLenlrS3Rmd0MyV3ozLUxHbUw0RjJoLXRSNHVZbDFzWm5MRDNWTTlHTC0wdTZvdGNmMjUzQS1fUDFfd1k?oc=5",
     "title": "엔비디아 'AI 반도체 담보대출' 사업모델 확대 총력, 보험사 끌어들여 리스크 분산 추진",
     "summary": [
@@ -112,7 +113,7 @@ window.NEWS_DB = [
     "id": "nb961be55",
     "category": "사회",
     "source": "뉴스에이",
-    "time": "12일 전",
+    "time": "13일 전",
     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBnbk52bjRSUG5KT2duOTk1c1NjQlFsQW96N2hxc09wVk9pTEZ2eUVudUJTemM5b2NTSTJhb0ZqYWw2V0xoVVp2empWWllzRW02WVVxVHZoVjlzQ3ZfRHBWVjVWc3pxX29mYWc?oc=5",
     "title": "영등포구, ‘천하제일 취업박람회’ 개최… “최고의 일자리를 ‘JOB’자!”",
     "summary": [
@@ -195,50 +196,6 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n93c2ed2f",
-    "category": "IT",
-    "source": "경북매일",
-    "time": "26일 전",
-    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5xWGQzcWdTT2JoUFptNVhrN2RETlFyQi1BcU9meDlrYmlYenE1U0J2VmgyRk05SnJjMXFsNXRyNzZ6ZUJjLUNZdmFRVU9HcEVsNS1qdGdIOGxsZw?oc=5",
-    "title": "대구경북 스타트업 한자리에…추경호 시장 “지역서 유니콘 키운다”",
-    "summary": [
-      "대구경북 스타트업 한자리에…추경호 시장 “지역서 유니콘 키운다” 경북매일."
-    ],
-    "chips": [
-      "#스타트업"
-    ]
-  },
-  {
-    "id": "n689e4e53",
-    "category": "IT",
-    "source": "관악FM",
-    "time": "27일 전",
-    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5XRXA4X1ZRU1VLLXU1VDN6a0JmdmxDbW5BdXRua0hVQzNpSXAtbjF6bFRkMkE3amdpMDVsWm0wcEtnTFAzR0xQZTBpVQ?oc=5",
-    "title": "“관악S밸리에서 미래 유니콘의 꿈을!” 관악구, 2026년 제3차 신규 입주기업 최대 20개사 모집",
-    "summary": [
-      "“관악S밸리에서 미래 유니콘의 꿈을!” 관악구, 2026년 제3차 신규 입주기업 최대 20개사 모집 관악FM."
-    ],
-    "chips": [
-      "#스타트업",
-      "#채용"
-    ]
-  },
-  {
-    "id": "n0a9cd638",
-    "category": "IT",
-    "source": "관악신문",
-    "time": "40일 전",
-    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1vMUcxenZqYlQ3Sjd6U1NrUjdDaW1KZFdOUm5GdjFoaUNNaWN1Ri1laTlfel9Md25PNXFHYzIxWFhrSzlXcndKSzhhY2JmYmkzTy0yMEpTTTlrUDhfTmZJcFZsSm00bElSdlE?oc=5",
-    "title": "관악S밸리 신규 입주기업 모집… “미래 유니콘 기업 육성”",
-    "summary": [
-      "관악S밸리 신규 입주기업 모집… “미래 유니콘 기업 육성” 관악신문."
-    ],
-    "chips": [
-      "#스타트업",
-      "#채용"
-    ]
-  },
-  {
     "id": "n657e0140",
     "category": "경제",
     "source": "연합뉴스TV",
@@ -282,6 +239,20 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n207a7abe",
+    "category": "IT",
+    "source": "Chosunbiz",
+    "time": "110일 전",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPUGdtbi01TkVMYXphY1VqbF9xRzB3TkVUbWtrM2NhN2d1NmpvS29NLTY5UWFtbFNrangxUlRnQUpxOW9rSEZwWVZuWU42aUdIU1FUUlhnQ0NLbjBXdlNpQ2labGU1cUt3WVZ3NEhVVmtJNjJlc3lUalByb0tqZDBucVJleGVLUFpaanFZX3RLZWvSAaQBQVVfeXFMTXFmYjM1dzZaM0d5QjZZQXJIb0VnanMzR29JcWlBQVZreFhGVVZlRmd4c2xoejc0ajVvdDhkUVo5ZWJ5bWlyVlZSUzlveG9EamJZblA5VDkwRG16QW1hRW1Qel9mTHRfdWI3MHhvbTJfd3ZoRTNIb3dVbjByNmI5T3llUUt2ZlZjVmEwQlV4M0FvMTRVT0JYaG4zNDZ6Rkw1LVVodlA?oc=5",
+    "title": "중기부, 2030년까지 ‘유니콘’ 50개 육성 나선다 - 조선비즈",
+    "summary": [
+      "중기부, 2030년까지 ‘유니콘’ 50개 육성 나선다 - 조선비즈 Chosunbiz."
+    ],
+    "chips": [
+      "#스타트업"
+    ]
+  },
+  {
     "id": "nabfa15b0",
     "category": "경제",
     "source": "YTN",
@@ -312,316 +283,357 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n57e659c9",
-    "category": "경제",
-    "source": "아시아경제",
-    "time": "1분 전",
-    "url": "https://view.asiae.co.kr/article/2026101209042173433",
-    "title": "LK삼양, 열화상 솔루션 토탈 브랜드 'SYMON' 포털 개시",
+    "id": "nba668fc0",
+    "category": "IT",
+    "source": "한국방송뉴스",
+    "time": "165일 전",
+    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1XaThhZXFiX3dDT0NrYVFwZ2dhNTgxbHU0WE5Bc21vcGVzR0d2Wkh2Zm5pS2MyZ1JkYlhHb2VfRkhkemdEX1F6Q1RtajJLRzR6dDdHcExQelAyS2N1OUE?oc=5",
+    "title": "1조 8000억 규모 벤처펀드 선정…\"벤처·스타트업에 적시 공급\"",
     "summary": [
-      "광학 전문기업 LK삼양은 지난 8일 열화상 솔루션 토탈 브랜드 '사이몬(SYMON)' 공식 서비스 포털을 개시했다고 12일 밝혔다.",
-      "회사는 기존 열화상 카메라 중심 제품 공급에서 분석·관제, 시스템 구축 및 운영 서비스까지 사업 영역을 확대한다.",
-      "사이몬은 LK삼양의 열화상 제품과 기술, 소프트웨어 및 서비스를 아우르는 열화상 솔루션 토탈 브랜드로, 열화상 카메라를 통한 온도 측정, 영상 확인뿐만 아니라 현장의 열 데이터를 수집·분석하고 안전관리."
+      "1조 8000억 규모 벤처펀드 선정…\"벤처·스타트업에 적시 공급\" 한국방송뉴스."
+    ],
+    "chips": [
+      "#스타트업"
+    ]
+  },
+  {
+    "id": "nbc27bc5a",
+    "category": "IT",
+    "source": "연합뉴스",
+    "time": "228일 전",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5UNnlsSTY5eHFYNEZ6ZktBM216dFF6Q0J5Z1NVYm56M3A2TUFNMDM0U081NTNsZVNJTy1MWklmVGc0cEdLVk5NRHFiTWtHbmx2b2ItSkVEV1A2ZFnSAWBBVV95cUxOV3Z3V2F3aWJvV3dDNDc4OXpfRmpyaDgtaExGWC1ZTUxvX2M4ZVZPNC1rZHpQeUtSNXlIZjc0dHdGWTdfUXpJQXdac1lZU3Mza3NvdHVweFFNYXhmdDMyZWs?oc=5",
+    "title": "스타트업·벤처를 유니콘으로…전북도, '창업 천국' 구상 발표",
+    "summary": [
+      "스타트업·벤처를 유니콘으로…전북도, '창업 천국' 구상 발표 연합뉴스."
+    ],
+    "chips": [
+      "#스타트업"
+    ]
+  },
+  {
+    "id": "n6e3b2c31",
+    "category": "IT",
+    "source": "테크M",
+    "time": "방금 전",
+    "url": "https://www.techm.kr/news/articleView.html?idxno=155999",
+    "title": "네이버클라우드, 베트남 FPT와 업무협약...아태 지역 GPUaaS 사업 확대",
+    "summary": [
+      "네이버클라우드는 베트남 IT 기업 FPT와 AI 팩토리 사업을 공동 추진한다고 12일 밝혔다.",
+      "아시아태평양(APAC) 시장 서비스형 GPU(GPUaaS) 사업 확대를 위해 힘을 모을 예정이다.양사는 최근 네이버 1784에서 업무협약(MOU)을 체결하고 AI 팩토리 사업의 기획, 개발, 운영 등을 공동 논의하기로 했다.",
+      "FPT는 엔비디아 클라우드 파트너 기업으로도 알려져있다.이번 협력은 각 사가 보유한 GPU 인프라와 클라우드 기술, 사업 역량,."
+    ],
+    "chips": [
+      "#AI",
+      "#엔비디아",
+      "#네이버"
+    ]
+  },
+  {
+    "id": "n68be072b",
+    "category": "IT",
+    "source": "테크M",
+    "time": "방금 전",
+    "url": "https://www.techm.kr/news/articleView.html?idxno=156000",
+    "title": "'비트코인 맡기고 원화 빌린다'…전북은행, 국내 은행권 첫 코인 담보대출",
+    "summary": [
+      "JB금융그룹 계열 전북은행이 국내 은행권 최초로 비트코인을 담보로 한 원화대출을 실행했다.",
+      "가상자산을 직접 보유하지 않고도 대출 담보로 활용할 수 있는 구조를 마련하면서다.",
+      "그동안 가상자산 거래소에 실명확인 입출금계좌를 제공하며 디지털자산 사업을 확대해 온 전북은행이 전통 금융과 가상자산을 연결하는 새로운 시장 개척에 나섰다는 평가가 나온다.12일 금융권에 따르면 전북은행은 최근 법인 고객을 대상으로 비트코인을 담보로 한 사업운영자금 대출을 취."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "nb98bb3e7",
+    "id": "n37489146",
+    "category": "경제",
+    "source": "테크M",
+    "time": "방금 전",
+    "url": "https://www.techm.kr/news/articleView.html?idxno=155998",
+    "title": "엘리스그룹, 오는 20일 코스닥 상장...일반청약 경쟁률 408대 1",
+    "summary": [
+      "엘리스그룹은 지난 7~8일 일반 투자자를 대상으로 진행한 공모주 청약에서 408대 1의 경쟁률을 기록했다고 12일 밝혔다.",
+      "일반 투자자 청약은 배정 물량 55만5500주 중에서 2억2673만7440주의 청약이 접수됐다.",
+      "청약 증거금은 약 10조2599억원으로 집계됐다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n4b99141e",
+    "category": "IT",
+    "source": "테크M",
+    "time": "방금 전",
+    "url": "https://www.techm.kr/news/articleView.html?idxno=155997",
+    "title": "래블업, GLM 기반 한국어 추론 가속 모델 오픈소스 공개",
+    "summary": [
+      "코스닥 상장을 추진 중인 래블업이 중국 Z.ai 거대언어모델(LLM) 'GLM-5.2'에 적용할 수 있는 한국어 추론 가속 모델을 오픈소스로 공개했다.래블업은 한글날인 지난 9일 한국어 질의와 AI 에이전트 작업에서 답변 생성 속도를 높이는 'GLM-5.2-NVFP4-DFlash-ko'를 허깅페이스에 공개했다고 12일 밝혔다.이번 모델은 Z-lab의 'DFlash' 기술을 적용한 드래프트 모델이다.",
+      "엔비디아의 4비트 부동소수점 형식(NVFP4)."
+    ],
+    "chips": [
+      "#AI",
+      "#엔비디아"
+    ]
+  },
+  {
+    "id": "n9e825897",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "1분 전",
+    "url": "https://www.donga.com/news/Society/article/all/20261012/134824397/2",
+    "title": "민관 협력 ‘희귀질환자 특수식 구매 지원체계’, 환아 비용 부담 낮췄다",
+    "summary": [
+      "CJ제일제당은 12일 질병관리청, 사단법인 한국희귀·난치성질환연합회와 함께 구축한 ‘희귀질환자 특수식 구매 지원체계’가 환자들의 경제적 부담 완화에 도움이 되고 있다고 밝혔다.",
+      "앞서 CJ제일제당은 선천성대사이상 희귀질환자를 위한 ‘햇반 저단백밥’을 개발한 바 있다.CJ제일제당에 따르면 지난 7월부터 운영 중인 민관 협력 지원체계는 평생 특수식으로 관리해야 하는 희귀질환 환자들이 성인이 된 이후에도 햇반 저단백밥을 안정적으로 구매할 수 있도록 마."
+    ],
+    "chips": [
+      "#의료"
+    ]
+  },
+  {
+    "id": "n22312d06",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "2분 전",
+    "url": "https://www.donga.com/news/Economy/article/all/20261012/134826276/2",
+    "title": "링크드인에 뭐라 썼길래…맥킨지, 고위 파트너 보직 박탈",
+    "summary": [
+      "맥킨지가 여성 경영자의 ‘유리절벽’ 개념에 공개적으로 의문을 제기한 크리스 브래들리 시니어 파트너의 연구소 등 리더십 보직을 박탈했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nb8b940c3",
     "category": "사회",
     "source": "뉴시스",
-    "time": "1분 전",
-    "url": "https://www.newsis.com/view/NISX20261012_0003821477",
-    "title": "\"내 정보 쓰지 말라\" 했더니 회원탈퇴…CI 유출 피해자 선택권 논란",
+    "time": "2분 전",
+    "url": "https://www.newsis.com/view/NISX20261012_0003822285",
+    "title": "핑클 이진, 과감한 헤드뱅잉 깜짝…컴백 기대감",
     "summary": [
-      "[서울=뉴시스]심지혜 기자 = 연계정보(CI)가 포함된 개인정보 유출 피해자가 기업에 해당 정보를 더 이상 쓰지 말라고 요구했다가 요청하지 않은 회원탈퇴를 당한 사례가 나왔다.",
-      "CI 사용 중단을 요구했더라도 계정을 유지할 수 있도록 어떤 기능에 필요한지, 대체 수단이 필요한지 따져봐야 한다는 지적이다.",
-      "12일 국회 과학기술정보방송통신위원회 소속 김선민 조국혁신당 의원이 CI 유출 피해자로부터 제공받은 자료에 따르면, 해당 이용자가 유통 플랫폼·."
+      "[서울=뉴시스]박재민 인턴 기자 = 그룹 핑클 출신 가수 이효리가 멤버 이진의 파격적인 동작이 담긴 영상을 공개했다.",
+      "이효리는 12일 소셜미디어에 별다른 말 없이 핑클 멤버들이 컴백 무대를 연습하는 영상을 올렸다.",
+      "영상에는 이진이 핑클의 'NOW'(나우) 뮤직비디오 속 장면을 재현하는 모습이 담겼다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n57a48d50",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "2분 전",
+    "url": "https://www.newsis.com/view/NISX20261012_0003822407",
+    "title": "성신여대, 'K-컬처·엔터테인먼트' 석사과정 신입생 모집",
+    "summary": [
+      "[서울=뉴시스]이예인 인턴 기자 = 성신여자대학교는 융합산업대학원 문화산업예술학과가 오는 15일까지 2027학년도 봄학기 'K-컬처(케이컬처)·엔터테인먼트전공' 석사과정 신입생을 모집한다고 12일 밝혔다.",
+      "학부 전공, 나이, 성별, 공인 영어성적 제한 없이 내외국인 모두 지원할 수 있으며, 외국인은 한국어능력시험(TOPIK) 4급 이상이 필요하다.",
+      "'케이컬처·엔터테인먼트전공'은 이론과 정책, 예술실무, 비즈니스를 융합적으로 다루며 글로벌 K-컬."
+    ],
+    "chips": [
+      "#정책",
+      "#채용",
+      "#교육"
+    ]
+  },
+  {
+    "id": "n4e2a0d1f",
+    "category": "사회",
+    "source": "아시아경제",
+    "time": "2분 전",
+    "url": "https://view.asiae.co.kr/article/2026101215415443136",
+    "title": "한국 저작권산업 경제기여도, WIPO에 게재",
+    "summary": [
+      "한국 저작권산업의 경제적 기여도를 분석한 조사 보고서가 영문으로 번역돼 세계지식재산기구(WIPO) 누리집에 게재됐다.",
+      "한국저작권위원회는 '2025년 한국 저작권산업 경제기여도 조사' 영문본을 국가별 연구자료로 제공했다고 12일 밝혔다.",
+      "위원회는 저작권산업이 국민경제에 미치는 영향을 파악하기 위해 2013년부터 매년 부가가치·고용·산업 규모 등 주요 경제지표를 분석한다."
+    ],
+    "chips": [
+      "#고용"
+    ]
+  },
+  {
+    "id": "nc8f826ad",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "2분 전",
+    "url": "https://www.newsis.com/view/NISX20261012_0003822448",
+    "title": "17~18일 '유니카 코리아 국제영화제'…\"32편 무료 상영\"",
+    "summary": [
+      "[경산=뉴시스] 강병서 기자 = 유니카 코리아 국제영화제가 17~18일 경북 경산시 씨네큐(CINE Q) 대구경산점에서 열린다.",
+      "12일 경산시에 따르면 이번 영화제에는 23개국, 32편의 작품이 무료 상영될 예정이다.",
+      "영화제에서는 대상인 유니카상, 금·은·동상, 심사위원 특별상, 관객상 등을 시상한다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nba61ac8e",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "2분 전",
+    "url": "https://www.newsis.com/view/NISX20261012_0003822443",
+    "title": "[단독]숙박예약 플랫폼 5개사 '환불 불가' 피해구제 389건, 2억2400만원 환급…아고다 최다",
+    "summary": [
+      "[서울=뉴시스]우지은 기자 = 글로벌 숙박예약 플랫폼 아고다 등 5개사가 최근 5년간 '환불 불가' 소비자 피해구제 사건 가운데 환급으로 종결한 사례는 389건, 환급액은 2억2416만원으로 나타났다.",
+      "12일 국회 정무위원회 소속 김재섭 국민의힘 의원이 한국소비자원에서 받은 자료에 따르면 지난 2022년부터 올해 8월까지 글로벌 숙박예약 플랫폼 전체 사업자의 환불 불가 관련 피해구제 사건 중 환급으로 종결된 사례는 1835건으로 나타났다."
     ],
     "chips": [
       "#정치"
     ]
   },
   {
-    "id": "n6df9dc51",
-    "category": "스포츠",
-    "source": "뉴시스",
-    "time": "1분 전",
-    "url": "https://www.newsis.com/view/NISX20261012_0003821478",
-    "title": "화성 용주사 국행 무차회 봉행…극락왕생 기원",
-    "summary": [
-      "[화성=뉴시스] 문영호 기자 = 경기 화성시는 대한불교조계종 제2교구 효찰대본산 용주사에서 16~18일 '불기 2570년 용주사 국행 무차회'를 봉행한다고 12일 밝혔다.",
-      "국행 무차회는 신분이나 지위, 귀천을 가리지 않고 누구에게나 평등하게 베푸는 재의식이다.",
-      "중생이나 영혼을 두루 청해 명복을 빌고 극락왕생을 기원하는 의식이다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n09aaa2ba",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "2분 전",
-    "url": "https://www.newsis.com/view/NISX20261012_0003821294",
-    "title": "광명시 탄소중립실천 포인트 적립, 앱 서비스로 전환",
-    "summary": [
-      "[광명=뉴시스] 문영호 기자 = 경기 광명시가 15일부터 기존 홈페이지(웨브라우저) 기반의 '기후의병 탄소저금통'을 앱 기반 서비스로 전환한다고 12일 밝혔다.",
-      "기후의병 탄소저금통은 탄소중립 생활을 실천하면 포인트를 쌓을 수 있도록 한 제도다.",
-      "걷기·재활용·텀블러 사용·장바구니 이용·줍킹 등 일상 속 탄소감축 활동을 인증하면 포인트를 쌓아 현금처럼 사용할 수 있다."
-    ],
-    "chips": [
-      "#환경"
-    ]
-  },
-  {
-    "id": "n0dc7b5e2",
-    "category": "경제",
-    "source": "뉴시스",
-    "time": "2분 전",
-    "url": "https://www.newsis.com/view/NISX20261012_0003821501",
-    "title": "디에스엠, 최대주주 측 지분 확대…7만주 추가 매수",
-    "summary": [
-      "[서울=뉴시스] 김경택 기자 = 차세대 레저 플랫폼 기업 디에스엠은 최대주주 측이 회사 보통주 7만1936주를 장내 매수했다고 12일 밝혔다.",
-      "회사 측에 따르면 이번 매수로 최대주주 측의 보유 주식 수는 899만941주로 늘었으며, 지분율은 기존 33.26%에서 33.53%로 상승했다.",
-      "최대주주 측의 이번 지분 매입은 이러한 성장성과 자산가치 대비 현재 주가가 저평가됐다는 판단에 따른 것이라고 회사 측은 설명했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nba05bc93",
-    "category": "IT",
-    "source": "아시아경제",
-    "time": "2분 전",
-    "url": "https://view.asiae.co.kr/article/2026101209024531067",
-    "title": "[속보]이달에도 '역대 최대' 韓수출…1~10일 반도체 170.9%↑",
-    "summary": [
-      "[속보]이달에도 '역대 최대' 韓수출…1~10일 반도체 170.9%↑."
-    ],
-    "chips": [
-      "#반도체",
-      "#수출"
-    ]
-  },
-  {
-    "id": "nfb809d54",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "3분 전",
-    "url": "https://www.yna.co.kr/view/AKR20261012028000065",
-    "title": "경인여대, '네팔 대홍수' 피해복구 성금 전달",
-    "summary": [
-      "(인천=연합뉴스) 황정환 기자 = 경인여대는 지난 7일 네팔 대홍수로 피해를 겪고 있는 주민들을 돕기 위해 성금 420만9천원을 국제구호개발 비..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nf3dc727f",
-    "category": "경제",
-    "source": "아시아경제",
-    "time": "3분 전",
-    "url": "https://view.asiae.co.kr/article/2026101209014001613",
-    "title": "코스닥 6.74P 내린 885.53 출발(0.76%↓)",
-    "summary": [
-      "코스닥 6.74P 내린 885.53 출발(0.76%↓)."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n6c528ab9",
-    "category": "경제",
-    "source": "연합뉴스",
-    "time": "3분 전",
-    "url": "https://www.yna.co.kr/view/AKR20261012023200009",
-    "title": "핌코 \"미 10년물 국채금리 6% 도달 가능성\"",
-    "summary": [
-      "(서울=연합뉴스) 이성한 기자 = 유가 상승, 인플레이션, 막대한 국가부채 우려로 인해 미국 10년 만기 국채 금리가 2000년 이후 처음으로 ..."
-    ],
-    "chips": [
-      "#금리"
-    ]
-  },
-  {
-    "id": "n41417cfc",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "4분 전",
-    "url": "https://www.chosun.com/jp/economy-jp/2026/10/12/MBQ5EWNSNJHFZPL2KBVLYAVBUE/",
-    "title": "韓国政府、3兆ウォン海外建設新戦略ファンド新設へ",
-    "summary": [
-      "韓国政府、3兆ウォン海外建設新戦略ファンド新設へ."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nd51b867a",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "4분 전",
-    "url": "https://www.chosun.com/economy/economy_general/2026/10/12/2WN6LXYGABH6ZJNA2AOFM6E6NM/",
-    "title": "정부, 3조원 규모 해외건설 新전략펀드 신설 “해외 수주 성과 국내 지역경제로 연결”",
-    "summary": [
-      "정부, 3조원 규모 해외건설 新전략펀드 신설 “해외 수주 성과 국내 지역경제로 연결”."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n514880e2",
-    "category": "경제",
-    "source": "아시아경제",
-    "time": "4분 전",
-    "url": "https://view.asiae.co.kr/article/2026101209010181223",
-    "title": "코스피 47.76P 내린 6578.17 출발(0.72%↓)",
-    "summary": [
-      "코스피 47.76P 내린 6578.17 출발(0.72%↓)."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n734526c3",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "4분 전",
-    "url": "https://www.yna.co.kr/view/AKR20261012027200055",
-    "title": "군산국가유산야행, 세계 권위 '피너클 어워드'서 동상 수상",
-    "summary": [
-      "(군산=연합뉴스) 정경재 기자 = 전북 군산시의 대표 야간 문화행사인 '군산국가유산야행'이 세계 최고 권위의 축제시상식인 '2026 피너클 어워..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n43afc052",
-    "category": "스포츠",
-    "source": "연합뉴스",
-    "time": "4분 전",
-    "url": "https://www.yna.co.kr/view/AKR20261012027500061",
-    "title": "경기도, 양식어가에 유용미생물 2만6천L 보급…\"성장개선 효과'",
-    "summary": [
-      "(수원=연합뉴스) 최찬흥 기자 = 경기도해양수산자원연구소는 지난 4월부터 9월까지 도내 11개 시군 42개 양식어가에 유용 미생물 2만6천680..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n0abe6399",
-    "category": "경제",
-    "source": "연합뉴스(경제)",
-    "time": "5분 전",
-    "url": "https://www.yna.co.kr/view/AKR20261008140600051",
-    "title": "[부산포용금융] BNK금융그룹 \"사람·산업·지역사회, 금융으로 연결\"",
-    "summary": [
-      "[※ 편집자 주 = 최근 금융계 화두는 금융 취약계층의 경제적 자립을 돕는 '포용금융'입니다.",
-      "부산·울산·경남을 기반으로 하는 BNK금융그룹과 ..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nc9e4f7c3",
-    "category": "경제",
-    "source": "연합뉴스(경제)",
-    "time": "5분 전",
-    "url": "https://www.yna.co.kr/view/AKR20261008161700051",
-    "title": "김해공항 면세점 업체 운영권 취소한 세관…법원 \"위법한 처분\"",
-    "summary": [
-      "(부산=연합뉴스) 차근호 기자 = 김해공항세관이 중소기업 자격을 허위로 갖춰 면세점 운영권을 받았다는 이유로 듀프리토마스쥴리코리아에 대한 면세점..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nfbe608c9",
-    "category": "경제",
-    "source": "연합뉴스(경제)",
-    "time": "5분 전",
-    "url": "https://www.yna.co.kr/view/AKR20261009032500030",
-    "title": "하이트진로, 日맥주 '기린' 전주공장서 생산…판매 확대 추진",
-    "summary": [
-      "(용인=연합뉴스) 김세린 기자 = 하이트진로[000080]는 일본 맥주 제조업체 기린과 기술제휴 협약을 맺고 전주공장에서 '기린 이치방 시보리'..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n37c2aeed",
-    "category": "스포츠",
-    "source": "동아일보",
-    "time": "5분 전",
-    "url": "https://www.donga.com/news/Economy/article/all/20261011/134821285/2",
-    "title": "하이트진로, 日 기린 캔맥주 국내서 만든다…“연간 판매량 75% 생산”",
-    "summary": [
-      "하이트진로가 일본 기린맥주의 대표 브랜드 ‘기린 이치방시보리’ 캔 제품을 국내에서 직접 생산한다.",
-      "일본 맥주의 국내 인기가 높아지는 가운데 공급 안정성을 확보해 시장 점유율을 끌어올리겠다는 전략이다.",
-      "이번 협약을 발판으로 기린과의 파트너십도 넓혀 나간다는 목표다.장인섭 하이트진로 대표이사는 8일 경기도 용인 하이트진로 연구소에서 열린 기자간담회에서 “지속적인 기술 교류와 협력을 통해 현지에서 이어온 기린맥주의 맛과 품질을 국내에서도 구현할 수."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n49371f8e",
+    "id": "n249ea69f",
     "category": "IT",
     "source": "동아일보",
-    "time": "5분 전",
-    "url": "https://www.donga.com/news/Economy/article/all/20261008/134811348/1",
-    "title": "이웃닷컴 ‘e알리미’, KT 공공클라우드로 이전…보안인증 2027년까지 전면 적용 추진",
+    "time": "4분 전",
+    "url": "https://www.donga.com/news/Economy/article/all/20261012/134826250/1",
+    "title": "삼성전자, 청년 SW·AI 아카데미 17기 모집…월 100만원 지원",
     "summary": [
-      "학교 소통 서비스 ‘e알리미’를 운영하는 이웃닷컴은 지난 9월 서비스 운영환경을 KT 공공클라우드(G-Cloud)로 옮겼다고 12일 밝혔다.",
-      "회사는 올해 1월 받은 클라우드 보안인증(CSAP)을 운영환경에 단계적으로 적용하고 있으며, 2027년 상반기까지 전체 적용을 마칠 계획이다.",
-      "KT 공공클라우드는 공공기관용 클라우드 플랫폼으로, 플랫폼 자체가 CSAP와 ISMS·ISMS-P 인증을 갖고 있다."
+      "삼성전자가 청년 소프트웨어(SW)·인공지능(AI) 인재 육성 프로그램인 ‘삼성청년SW·AI아카데미(SSAFY)’ 17기 교육생을 이달 26일부터 다음 달 9일까지 모집한다.",
+      "이번 17기부터는 기존 프로그래밍 언어 중심의 교육과정을 AI 활용 분야 중심으로 개편한다.",
+      "전체 교육시간 1725시간 중 약 70%인 1205시간을 AI 학습에 배정했다."
     ],
     "chips": [
-      "#교육",
-      "#환경"
+      "#AI",
+      "#삼성전자",
+      "#채용",
+      "#교육"
     ]
   },
   {
-    "id": "n05f16f71",
+    "id": "nead9a8ec",
+    "category": "스포츠",
+    "source": "연합뉴스",
+    "time": "5분 전",
+    "url": "https://www.yna.co.kr/view/AKR20261012127500061",
+    "title": "수원화성 미디어아트에 68만명 찾았다…야간관광 효과 '톡톡'",
+    "summary": [
+      "(수원=연합뉴스) 이영주 기자 = 경기 수원시는 시를 대표하는 야간 관광 콘텐츠인 '수원화성 미디어아트'에 지난 18일간 68만명이 찾았다고 1..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nb401e491",
+    "category": "스포츠",
+    "source": "아시아경제",
+    "time": "5분 전",
+    "url": "https://view.asiae.co.kr/article/2026101215383536933",
+    "title": "골프공이 만든 3000만원… 부산 취약계층 돕고 유소년 선수 키워요",
+    "summary": [
+      "골프 선수들의 티샷이 이웃을 돕는 성금으로 이어졌다.",
+      "부산시가 한국여자프로골프투어(KLPGA) 대회에서 조성된 3000만원을 전달받아 취약계층 지원과 유소년 골프 선수 육성에 사용한다.",
+      "부산시(시장 전재수)는 지난 11일 경남 양산 에이원컨트리클럽에서 열린 '2026 HJ중공업·동부건설 챔피언십' 시상식에서 대회 채리티존(Charity Zone) 적립금 3000만원을 전달받았다고 12일 전했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n93f25b5a",
+    "category": "경제",
+    "source": "연합뉴스(경제)",
+    "time": "5분 전",
+    "url": "https://www.yna.co.kr/view/AKR20261012049451008",
+    "title": "한화M&S, 한화 3남 김동선 공개매수에 24% 급등(종합)",
+    "summary": [
+      "(서울=연합뉴스) 곽윤아 기자 = 한화머시너리앤서비스[0220W0] 한화M&amp;S)가 한화그룹 3남인 김동선 미래전략총괄 사장의 공개매수 계..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nc0b26d76",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "6분 전",
+    "url": "https://www.donga.com/news/Culture/article/all/20261012/134826222/2",
+    "title": "김수로, 김민종 결혼에 “이제 연상으로 찾자”…“이장·부녀회장 누님 알아볼게”",
+    "summary": [
+      "김수로가 ‘미운 우리 새끼’에서 김민종에게 연상의 여성을 만나보라고 제안했다.",
+      "이종혁과 윤민수까지 결혼 이야기에 가세하자 김민종은 “내가 알아서 하겠다”며 난감해했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n45a8f6ab",
     "category": "경제",
     "source": "연합뉴스(경제)",
     "time": "6분 전",
-    "url": "https://www.yna.co.kr/view/AKR20261012025900008",
-    "title": "한투운용, 한미 우량기업 투자 손익차등형 펀드 출시",
+    "url": "https://www.yna.co.kr/view/AKR20261012128700002",
+    "title": "외국환시세(10월12일·15:30 기준가)",
+    "summary": [],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n509fddf1",
+    "category": "IT",
+    "source": "조선비즈IT",
+    "time": "6분 전",
+    "url": "https://biz.chosun.com/it-science/ict/2026/10/12/KK4SSLDMZZBY5LUJARF52NKJHQ/",
+    "title": "김종철 방미통위 위원장 “연계정보 1~3년마다 바꾸는 유효기간제 검토”",
     "summary": [
-      "(서울=연합뉴스) 정회인 기자 = 한국투자신탁운용은 한국과 미국에서 우수한 이익을 내는 기업을 선별해 투자하는 손익차등형 공모펀드 '한국투자한미..."
+      "김종철 방미통위 위원장 “연계정보 1~3년마다 바꾸는 유효기간제 검토”."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n80f3aa0d",
+    "id": "n7ba75e4f",
     "category": "경제",
-    "source": "동아일보",
-    "time": "24분 전",
-    "url": "https://www.donga.com/news/Society/article/all/20261012/134823051/1",
-    "title": "아버지 돈 주식 투자로 수억 날려…질책 겁나 살해한 40대 딸",
+    "source": "연합뉴스(경제)",
+    "time": "6분 전",
+    "url": "https://www.yna.co.kr/view/AKR20261012124600002",
+    "title": "주병기 \"쿠팡, 성장한 만큼 책임 다하고 을의 권익 보호해야\"",
     "summary": [
-      "아버지에게 받은 돈을 투자했다가 큰 손실을 본 40대 딸이 아버지를 살해한 혐의로 구속됐다.",
-      "범행은 3주 넘게 지나서야 드러났다.11일 충남 천안동남경찰서에 따르면 이 딸은 9월 13일 낮 12시경 천안의 한 아파트에서 잠들어 있던 60대 아버지를 둔기로 때려 숨지게 한 혐의를 받는다.",
-      "법원은 10일 이 딸에 대한 구속영장을 발부했다.딸은 수년 전 아버지에게 수억 원을 받아 주식 등에 투자했지만 투자금을 상당 부분 잃은 것으로 조사됐다."
+      "(세종=연합뉴스) 김수현 송정은 기자 = 주병기 공정거래위원장은 12일 \"쿠팡이 성장한 만큼 사회적 책임을 다하고 을의 권익을 보호하는 기업이 ..."
     ],
     "chips": [
-      "#부동산"
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n0d660110",
+    "category": "경제",
+    "source": "아시아경제",
+    "time": "8분 전",
+    "url": "https://view.asiae.co.kr/article/2026101215355828672",
+    "title": "찬 바람 불자 달라진 옷차림… 발끝부터 시작된 가을",
+    "summary": [
+      "쌀쌀해진 날씨에 가을 부츠를 찾는 소비자가 늘자 유통가가 맞춤형 할인전에 돌입했다.",
+      "롯데백화점 부산본점 금강제화 매장이 가을철을 맞아 부츠 신상품 할인 행사에 나선다.",
+      "롯데百 부산본점 3층 금강제화 매장은 가을 시즌을 겨냥해 앵클부츠와 롱부츠 신상품을 선보인다.올가을은 차분한 색상과 간결한 디자인이 트렌드다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "ne98e7bfe",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "8분 전",
+    "url": "https://www.chosun.com/sports/baseball/2026/10/12/GZQTKMZRG5RTOZJZGVSTEMDBMQ/",
+    "title": "고의4구 웃어넘긴 레이예스 → 볼넷에도 '배트 내동댕이' 최원준…최다안타 신기록 라이벌인데, 너무나 달랐던 태도 [SC포커스]",
+    "summary": [
+      "[스포츠조선 김영록 기자] 프로야구 역사에 남을 신기록 경쟁, MVP도 아깝지 않을 기록을 내고도 임팩트에서 묻힌 아쉬움, 직전 시즌 부진을 씻어낸 역대급 스텝업.",
+      "이 모든 것을 날려버린 '배트 내동댕이' 신경전이었다.",
+      "11일 대구 삼성 라이온즈전."
+    ],
+    "chips": [
+      "#KBO"
     ]
   }
 ];
@@ -631,18 +643,18 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2850건",
-    "trend": "+335%"
+    "mentions": "2590건",
+    "trend": "+295%"
   },
   {
     "rank": 2,
-    "tag": "반도체",
-    "mentions": "1680건",
-    "trend": "+155%"
+    "tag": "AI",
+    "mentions": "2070건",
+    "trend": "+215%"
   },
   {
     "rank": 3,
-    "tag": "AI",
+    "tag": "반도체",
     "mentions": "1550건",
     "trend": "+135%"
   }
