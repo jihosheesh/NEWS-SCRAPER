@@ -1,11 +1,26 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-10-14 14:09:52
+// 마지막 업데이트: 2026-10-14 19:02:08
 window.NEWS_DB = [
+  {
+    "id": "n83a94381",
+    "category": "IT",
+    "source": "재경일보",
+    "time": "10시간 전",
+    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFA5NDFxV3hDQ3pnclpIWHdOSVE5Q3FKWFlIV3NkMWREMGZ0YVc4dnZXNDBabFBHYjk2UFJyV1A0WmM2ZjM3WWhJeFFjVQ?oc=5",
+    "title": "TSMC·엔비디아, 첨단 패키징으로 AI 칩 한계 돌파…용량 확대 : 국제",
+    "summary": [
+      "TSMC·엔비디아, 첨단 패키징으로 AI 칩 한계 돌파…용량 확대 : 국제 재경일보."
+    ],
+    "chips": [
+      "#AI",
+      "#엔비디아"
+    ]
+  },
   {
     "id": "n0be7f5b9",
     "category": "IT",
     "source": "녹색경제신문",
-    "time": "6시간 전",
+    "time": "11시간 전",
     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE16Tl9oTlJhWkFzZU5zdTdTb3hXLVAzMXZ1NVNzUC1yUWRLV3V1WEZzcDI0RmhYa3JOd2hwaFFIZHI3QnBHcngzR3JWcUhVeXZUZi1OMzNvakRfUUlFSENGMlpOd25XUzhV?oc=5",
     "title": "[SEDEX 2026] 삼성전자 'zHBM' vs 하이닉스 'HBF'…AI 메모리 청사진 대결",
     "summary": [
@@ -21,7 +36,7 @@ window.NEWS_DB = [
     "id": "nfc558159",
     "category": "IT",
     "source": "ER 이코노믹리뷰",
-    "time": "7시간 전",
+    "time": "12시간 전",
     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5WTVBkN3N6YlVibVNhU2xiWVdqbGdweTdzQ212V1JFa3E4M2hOZ1pmSVg5UjhheVJGbE1zVmJqWERSVXlqTHRxSGN6XzF3bzl5TXBubDdGV3JYbFQwWS1PMDl3OWlqVFp3eGo2Rg?oc=5",
     "title": "[SEDEX·KES 2026] 삼성전자, 반도체 한 곳에… HBM부터 오토모티브까지 총망라",
     "summary": [
@@ -36,7 +51,7 @@ window.NEWS_DB = [
     "id": "n2efcd16f",
     "category": "IT",
     "source": "뉴시스",
-    "time": "8시간 전",
+    "time": "13시간 전",
     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFA1YWFWemU2N01RQ0d2SlFOLWx3UEY5MGFDcGIwRGVvNU9GMXlUUE9QdWRMcm84cXdHcWdtR2oyNndmVnRaRHdTRXZlaHdmbUNTcG5pR3dxYm1SZmFNc0hBRVJlUTJHbU1ac0JyLVBlQUEydXdCOEtEM9IBeEFVX3lxTFA1YWFWemU2N01RQ0d2SlFOLWx3UEY5MGFDcGIwRGVvNU9GMXlUUE9QdWRMcm84cXdHcWdtR2oyNndmVnRaRHdTRXZlaHdmbUNTcG5pR3dxYm1SZmFNc0hBRVJlUTJHbU1ac0JyLVBlQUEydXdCOEtEMw?oc=5",
     "title": "엔비디아 큰손들이 경쟁자로…MS·구글·오픈AI, 자체칩으로 '추론' 파고든다",
     "summary": [
@@ -51,7 +66,7 @@ window.NEWS_DB = [
     "id": "n6e0e5cc1",
     "category": "IT",
     "source": "한국경제",
-    "time": "8시간 전",
+    "time": "13시간 전",
     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE10VHRWNERaLU15SnI3Q21xTkpZalo4ODJJdTYyX3FVc296NDR5VVpTNVpHUzkteXpkdUE5aXN4OVRldTl2T1F4RmxzbVlFbWhLRk5UWGNRQS1HQQ?oc=5",
     "title": "美 규제 덫 걸린 엔비디아…中 AI칩 점유율 34%로 급락",
     "summary": [
@@ -64,26 +79,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n22b9b964",
-    "category": "IT",
-    "source": "굿모닝베트남미디어",
-    "time": "11시간 전",
-    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE80ODRYTWhjN25nYmczbFJTUnZ6dTRUSDVIZUxIcVJhODhEdzRBWGJJX2dtUzhyZUFzMVpLbHc0RjYwRjhiVzhiejRLUjk3YXdkY3ZPT1U0dWxxVmx5ZnVhVW9MQnR6NVJkYmhJMW5odmU?oc=5",
-    "title": "[AI/반도체] 세레브라스, 엔비디아 독주에 도전…초대형 AI 칩으로 추론 시장 공략",
-    "summary": [
-      "[AI/반도체] 세레브라스, 엔비디아 독주에 도전…초대형 AI 칩으로 추론 시장 공략 굿모닝베트남미디어."
-    ],
-    "chips": [
-      "#AI",
-      "#반도체",
-      "#엔비디아"
-    ]
-  },
-  {
     "id": "n176abea1",
     "category": "사회",
     "source": "파주시대",
-    "time": "11시간 전",
+    "time": "16시간 전",
     "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE10MmZueFZGR2ZyU2ZlaUdfdzRUeGthcWFoaURSbXhjeE5wX1lkLTRBMElrU0p5bzVHM3JFNm5LeENiRFUtd1l1VkpFUQ?oc=5",
     "title": "‘시니어 일자리 트렌드’ 프로그램 참여자 모집",
     "summary": [
@@ -98,7 +97,7 @@ window.NEWS_DB = [
     "id": "n98458624",
     "category": "IT",
     "source": "뉴스로드",
-    "time": "13시간 전",
+    "time": "18시간 전",
     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBrNmc1T3I1YmJyRUhmZ0Y3dUVkRmRkTXN4LXpLZkNfdHkxUU1SNHNha2pKb0xYNDYtVHFJb1Q5TS1RQ3JCd0NKTllHSFJvUGkwc1hEX1VNajhVWk9Lb0oyYmk0TmZVWjk3SFdpTtIBb0FVX3lxTE9jRWswWXpYZzNPcjNvQW94RllGdGdwaldSR0FVeVlUeDJSMVAydGNEOGNZckJBeWxSUWRIaVBKWDVVQ3JPNVBTNU9vWFg3azRMQktOUXVpR2NtbEVtSnByQ29BOXhLUC1TR2FFRHlWaw?oc=5",
     "title": "삼성전자·SK하이닉스, HBM 호황 과제… 전력 효율·증설 관리 [IMF·WB 연차총회]",
     "summary": [
@@ -213,17 +212,17 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n3bf091c2",
+    "id": "n1ebf737b",
     "category": "스포츠",
-    "source": "한국경제",
+    "source": "글로벌E",
     "time": "23일 전",
-    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9nY3BENG1heVF4amFVRDZ5M0Q3V09uYWZTRmZEZlcxZTJzc08zU2RBM3BRSEh6aTZPVDR2blc0YjZrNUhnMHNDUVN0M0pKMTBDVWxlUWhtZ1Zudw?oc=5",
-    "title": "\"손흥민 533만원·페이커 1100만원\"…해외선 없어서 못 산다",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1xdGdqbUJjMXkyZFRRYi1ETklIZmlIQlFHYS1ZemlEaU5IQ0hCQkR1Wm5pYVVJUl9jX2s3Z08ydEpxdFM2elFVdjNFdlhxMlRsUVhQY3JKRVdRWG5WUlpOR2hNemdnbVdrWElv0gFvQVVfeXFMT1QxRDNTbjRoMk5ZWVBmRllQU2Z2b1IyY0hYZEx1LWc0aFhSb083aGdYc1ZQNDhrN0NncVZGclFwVnV0RGNoNTNmcXkwSzF5dTdxZnVRYlFQOTZDblRRWkpDUzNCOUpoMEJmbkRYa1Nz?oc=5",
+    "title": "이베이, K-스포츠 굿즈 역직구 급증···KBO 매출 전년 대비 2.9배↑",
     "summary": [
-      "\"손흥민 533만원·페이커 1100만원\"…해외선 없어서 못 산다 한국경제."
+      "이베이, K-스포츠 굿즈 역직구 급증···KBO 매출 전년 대비 2.9배↑ 글로벌E."
     ],
     "chips": [
-      "#손흥민"
+      "#KBO"
     ]
   },
   {
@@ -362,10 +361,272 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n425d8308",
+    "category": "경제",
+    "source": "머니투데이",
+    "time": "1분 전",
+    "url": "https://www.mt.co.kr/opinion/2026/10/15/2026101416550781264",
+    "title": "[사설] 국책硏도 \"CPTPP 더 미룰 수 없다\"",
+    "summary": [
+      "21세기 글로벌 교역의 핵심 지대으로 떠오른 환태평양 자유무역협정(FTA) 가입을 10년 가까이 미룬 대가가 혹독하다.",
+      "무리한 농지개혁을 추진하다 악화된 농심을 달래기 위해 정부는 관련 다자간 협정 참여를 또 연기할 방침이라, 한국 경제의 통상 기회비용은 더 커질 판이다.",
+      "'포괄적·점진적 환태평양경제동반자협정(CPTPP)'은 관세 장벽을 낮추고 회원국 간 교역을 촉진하는 다자간 FTA로 2018년 공식 발효됐다."
+    ],
+    "chips": [
+      "#수출"
+    ]
+  },
+  {
+    "id": "n95b613ca",
+    "category": "IT",
+    "source": "머니투데이",
+    "time": "1분 전",
+    "url": "https://www.mt.co.kr/world/2026/10/15/2026101419331587564",
+    "title": "AI투심 위축되나… IPO 시장도 눈치보기",
+    "summary": [
+      "작은 악재에도 변동성 확대… 인프라 기업들 상장 연기 월가 \"막대한 AI 자금 조달, 금리상승 위험 요인\" 경고 글로벌 증시에서 AI(인공지능) 관련 기업의 변동성이 커지면서 투자자들의 우려가 높아진다.",
+      "중국 CXMT(창신메모리테크놀로지)의 신제품 출시계획에 마이크론을 비롯해 삼성전자, SK하이닉스 등 메모리기업 주가가 줄줄이 하락한 것은 투자자들이 악재성 이슈에 얼마나 민감한지를 일깨웠다.",
+      "이런 가운데 반도체업계 핵심 기업 네덜란드 ASML이."
+    ],
+    "chips": [
+      "#AI",
+      "#반도체",
+      "#삼성전자",
+      "#SK하이닉스"
+    ]
+  },
+  {
+    "id": "n9397eaa3",
+    "category": "IT",
+    "source": "머니투데이",
+    "time": "1분 전",
+    "url": "https://www.mt.co.kr/tech/2026/10/15/2026101414171549587",
+    "title": "'네이버 AI 제작' 소상공인 광고, TV서 본다",
+    "summary": [
+      "2000만가구에 IPTV 지역광고 테이블오더·편의점·엘리베이터 대기화면에서 볼 수 있었던 소상공인을 위한 네이버 AI 제작 광고가 TV에도 나온다.",
+      "14일 네이버(NAVER)에 따르면 네이버 '디지털 옥외광고(DOOH)'가 지난 12일부터 SK브로드밴드 B tv, KT 지니 TV, LG유플러스 U+tv 등 3사 IPTV(인터넷TV)의 지역 광고인 '큐톤 광고'로 노출중이다.",
+      "큐톤 광고는 광고주가 설정한 지역 인근 IPTV를 통해 실시간 방송 중."
+    ],
+    "chips": [
+      "#AI",
+      "#네이버"
+    ]
+  },
+  {
+    "id": "n5cf5595a",
+    "category": "경제",
+    "source": "머니투데이",
+    "time": "1분 전",
+    "url": "https://www.mt.co.kr/industry/2026/10/15/2026101419331681184",
+    "title": "투트랙 한섬, 몸집 키운다",
+    "summary": [
+      "파리패션위크 참가… 인지도↑ 라파예트·해러즈 百 등 진출도 국내선 60개 해외 브랜드 소개 현대백화점그룹 계열 패션전문기업 한섬이 자체 브랜드의 해외진출과 수입 브랜드 사업을 확대하는 투트랙 전략을 앞세워 체질개선에 나섰다.",
+      "재고부담을 낮추고 국내외 소비자를 겨냥한 포트폴리오를 다변화함과 동시에 주주환원 정책을 내놓으면서 증권가의 기대감도 커졌다.",
+      "14일 업계에 따르면 한섬은 최근 '타임'과 '시스템'을 앞세워 유럽에서 인지도를 높여나간다."
+    ],
+    "chips": [
+      "#정책"
+    ]
+  },
+  {
+    "id": "n2c65d266",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "38분 전",
+    "url": "https://www.yna.co.kr/view/AKR20261015001651071",
+    "title": "트럼프 \"韓 500억·대만 800억·日 210억불 투자·구매 약속\"(종합)",
+    "summary": [
+      "(워싱턴=연합뉴스) 이유미 특파원 = 도널드 트럼프 미국 대통령이 14일(현지시간) 한국의 알래스카 액화천연가스(LNG) 개발사업 투자 참여 문..."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n11d03bf5",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "41분 전",
+    "url": "https://www.yna.co.kr/view/AKR20261015004000079",
+    "title": "후티 반군 \"사우디 리야드 국제공항 탄도미사일로 공격…명중\"",
+    "summary": [
+      "(카이로=연합뉴스) 김상훈 특파원 = 예멘의 친(親)이란 반군 후티가 사우디아라비아 수도 리야드의 국제공항과 사우디군 병력 집결지를 겨냥해 잇따..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n8a9dcb05",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "52분 전",
+    "url": "https://www.newsis.com/view/NISX20261014_0003825399",
+    "title": "\"진짜 김밥인 줄\"…김천김밥축제 앞두고 이색 상품 화제",
+    "summary": [
+      "[서울=뉴시스]김혜경 기자, 박지우 인턴기자 = 2026김천김밥축제를 앞두고 '김밥 그릇'부터 '김밥 빵'까지 김밥을 소재로 한 이색 굿즈가 눈길을 끌고 있다.",
+      "지난 13일 사회관계망서비스(SNS)에는 김천김밥축제 플리마켓에서 판매할 예정이라며 '김밥 그릇' 사진이 공개됐다.",
+      "공개된 사진에는 검은색의 길쭉한 타원형 그릇 두 개가 담겼다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n605dcf23",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "53분 전",
+    "url": "https://www.chosun.com/sports/baseball/2026/10/15/MFQTGM3EGY2GIZBTGE2WGYRXMM/",
+    "title": "'삼성 왕조' 이끌던 홀드왕의 안타까운 추락, 3억 원대 사기 혐의 '징역 1년 8개월' 실형 선고",
+    "summary": [
+      "[스포츠조선 정현석 기자]'삼성 왕조' 시절 특급 셋업맨으로 명성을 떨친 안지만(43·전 삼성 라이온즈 투수)이 지인들로부터 3억 원이 넘는 돈을 빌린 뒤 갚지 않은 혐의로 1심에서 결국 실형을 선고받았다.",
+      "연합뉴스와 조선일보 보도에 따르면 대구지법 형사11단독(전명환 판사)은 사기 혐의로 재판에 넘겨진 안지만에게 징역 1년 8개월을 선고했다고 14일 밝혔."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nfff5c156",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "58분 전",
+    "url": "https://www.newsis.com/view/NISX20261015_0003826448",
+    "title": "호르무즈 해협 컨테이너선 2척 피격돼 침몰",
+    "summary": [
+      "[서울=뉴시스]신정원 기자 = 14일(현지 시간) 호르무즈 해협 인근에서 컨테이너선 2척이 미사일 등 발사체에 맞아 잇달아 침몰했다고 외신이 보도했다.",
+      "오는 11월 3일 미국 중간선거를 앞두고 도널드 트럼프 미 대통령의 유가 완화 노력을 저지하기 위해 이란이 전략적 요충지인 호르무즈 해협을 사실상 봉쇄하려는 것이라는 분석이 나온다.",
+      "가디언 등에 따르면 영국 해사무역기구(UKMTO)는 호르무즈 해협 인근에서 최근 48시간 동안 유조선과 상선 등을."
+    ],
+    "chips": [
+      "#수출",
+      "#정치"
+    ]
+  },
+  {
+    "id": "n14607c2d",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "1시간 전",
+    "url": "https://www.chosun.com/sports/world-baseball/2026/10/14/GRQWEZBQGMZDKYRQMI4TMNZSMU/",
+    "title": "'대표팀은? 롯데는?' 1년 만에 끝난 日 요미우리 잔혹사, '국민타자'의 KBO 복귀, 지각변동 시작되나",
+    "summary": [
+      "[스포츠조선 정현석 기자]'국민타자' 이승엽(50) 전 두산 감독이 KBO 무대로 돌아온다.",
+      "일본 프로야구(NPB) 명문 요미우리 자이언츠의 동행이 1년 만에 마침표를 찍었다.",
+      "요미우리 구단은 최근 이승엽 1군 타격코치가 올 시즌을 끝으로 팀을 떠난다고 공식 발표했다."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
+    "id": "n2263c023",
+    "category": "IT",
+    "source": "뉴시스",
+    "time": "1시간 전",
+    "url": "https://www.newsis.com/view/NISX20261015_0003826450",
+    "title": "트럼프 \"日, 뉴욕주 반도체 공장 건설에 210억달러 투자\"",
+    "summary": [
+      "[워싱턴=뉴시스] 이윤희 특파원 = 일본이 미국 반도체 생산시설 건설을 위해 약 28조원을 투자하기로 했다고 도널드 트럼프 미 대통령이 14일(현지 시간) 밝혔다.",
+      "트럼프 대통령은 이날 소셜미디어(SNS) 트루스소셜에 \"미국을 위한 210억달러(약 28조2156억원) 규모의 또다른 대규모 투자\"라며 \"오늘 내 리더십에 따라 글로벌파운드리와 하워드 러트닉 장관이 이끄는 나의 상무부는 뉴욕주 몰타에 2개의 거대한 새 반도체 제조 시설을 짓기 위한."
+    ],
+    "chips": [
+      "#반도체",
+      "#정치"
+    ]
+  },
+  {
+    "id": "n25f81ecd",
+    "category": "IT",
+    "source": "조선일보",
+    "time": "1시간 전",
+    "url": "https://www.chosun.com/culture-life/book/2026/10/15/AUCA35CPZVABFGXGYJKGN57T7M/",
+    "title": "[66화] 망설이지 않는 AI가 퍼트린 피의 공포",
+    "summary": [
+      "[66화] 망설이지 않는 AI가 퍼트린 피의 공포."
+    ],
+    "chips": [
+      "#AI"
+    ]
+  },
+  {
+    "id": "n89883589",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "1시간 전",
+    "url": "https://www.chosun.com/culture-life/book/2026/10/15/NRDHIUJMWRFGNFUHQZHE4UGNOU/",
+    "title": "[109화] 관우의 질책을 들은 장비, 스스로 목을 베려는 순간…",
+    "summary": [
+      "[109화] 관우의 질책을 들은 장비, 스스로 목을 베려는 순간…."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n6095efeb",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "1시간 전",
+    "url": "https://www.yna.co.kr/view/AKR20261015002800108",
+    "title": "젤렌스키 \"트럼프가 다른 편 선택하면 고통스럽다\"",
+    "summary": [
+      "(이스탄불=연합뉴스) 김동호 특파원 = 볼로디미르 젤렌스키 우크라이나 대통령은 최근 도널드 트럼프 미국 대통령과 부딪힌 데 대해 \"고통스럽다\"는..."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n2a00e995",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "1시간 전",
+    "url": "https://www.newsis.com/view/NISX20261014_0003825911",
+    "title": "모낭을 냉동보관?…탈모 대비 '헤어뱅킹' 뭐길래",
+    "summary": [
+      "[서울=뉴시스]김혜경 기자 = 탈모가 본격적으로 진행되기 전 건강한 모낭을 채취해 보관하는 이른바 '헤어 뱅킹' 기술이 주목받고 있다.",
+      "13일(현지시간) 미국 뉴욕포스트에 따르면 헤어 뱅킹은 탈모가 진행되기 전 건강한 모낭을 채취해 냉동 보관하고, 향후 모발 재생 치료에 활용하는 방식이다.",
+      "난자나 정자를 냉동 보관했다가 미래에 활용하는 것과 비슷한 개념이다."
+    ],
+    "chips": [
+      "#의료"
+    ]
+  },
+  {
+    "id": "naca20e62",
+    "category": "스포츠",
+    "source": "연합뉴스",
+    "time": "1시간 전",
+    "url": "https://www.yna.co.kr/view/AKR20261015001900079",
+    "title": "후티 공격받는 사우디, 스포츠에 '불똥'…테니스대회 연기",
+    "summary": [
+      "(카이로=연합뉴스) 김상훈 특파원 = 사우디아라비아 수도 리야드 국제공항을 후티 반군의 공격으로 중동 정세 불안이 고조되는 가운데, 현지에서 열..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nd53ecdb2",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "2시간 전",
+    "url": "https://www.donga.com/news/Inter/article/all/20261015/134844485/1",
+    "title": "“러 파견 北노동자, 드론 대량생산 노하우 갖고 귀국”",
+    "summary": [
+      "북한이 러시아 드론 공장에 대규모 인력을 파견해 지원하고 있으며, 이들은 드론 대량생산 기술을 갖고 귀국해 한미일 안보에 새로운 위협이 될 것이라고 미국 싱크탱크 보고서가 분석했다.미 전략국제문제연구소(CSIS)와 조지 W.부시연구소는 14일(현지 시간) 공동발간한 ‘옐라부가 드론 생산에서의 인권 침해’ 보고서에서 러시아의 알라부가 드론 공장 생산 구조를 상세 소개하며 이같이 밝혔다.작성자인 빅터 차 CSIS 지정학·외교정책 부문장 겸 한국석좌."
+    ],
+    "chips": [
+      "#정책"
+    ]
+  },
+  {
     "id": "n771c70dd",
     "category": "사회",
     "source": "테크M",
-    "time": "방금 전",
+    "time": "2시간 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=156104",
     "title": "삼성전자·LG전자, '한국형 녹색전환' 공략",
     "summary": [
@@ -378,271 +639,6 @@ window.NEWS_DB = [
       "#정책",
       "#환경"
     ]
-  },
-  {
-    "id": "n56cbcfd7",
-    "category": "경제",
-    "source": "아시아경제",
-    "time": "방금 전",
-    "url": "https://view.asiae.co.kr/article/2026101423085987013",
-    "title": "[뉴욕증시]美 9월 CPI 예상 상회에 국채 금리 ↑…혼조세",
-    "summary": [
-      "미국의 9월 소비자물가지수(CPI)가 예상치를 상회하자 14일(현지시간) 뉴욕증시의 3대 지수는 혼조세다.",
-      "인플레이션 우려가 다시 불거지면서 미국 국채 금리도 오르며 위험자산 투자심리가 위축된 것으로 풀이된다.",
-      "뉴욕증시에서 오전 9시50분 현재 다우지수는 전 거래일보다 172.61포인트(0.33%) 상승한 5만1842.71에 거래 중이다."
-    ],
-    "chips": [
-      "#금리"
-    ]
-  },
-  {
-    "id": "nf3823803",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "2분 전",
-    "url": "https://www.newsis.com/view/NISX20261014_0003826437",
-    "title": "광주 도심서 길 건너던 보행자 차에 치여 숨져",
-    "summary": [
-      "[전남광주=뉴시스]양시원 기자 = 전남광주 북구에서 도로를 건너던 보행자가 차에 치여 숨졌다.",
-      "14일 광주 북부경찰서에 따르면 이날 오후 8시께 북구 오치동 한 편도 2차선 도로에서 신원을 알 수 없는 여성 A씨가 50대 B씨가 몰던 차량에 치였다.",
-      "이 사고로 A씨가 심정지 상태로 119구급대에 의해 병원으로 이송됐지만 숨졌다."
-    ],
-    "chips": [
-      "#의료"
-    ]
-  },
-  {
-    "id": "n9612dc6a",
-    "category": "스포츠",
-    "source": "동아일보",
-    "time": "3분 전",
-    "url": "https://www.donga.com/news/Opinion/article/all/20261014/134843873/2",
-    "title": "[고양이 눈]전선의 명암",
-    "summary": [
-      "수십 가닥의 전선이 하늘을 가로지르고 있습니다.",
-      "현대 문명에 전기는 없어서는 안 될 존재이지만, 복잡하게 뻗은 전선을 보고 있자니 한숨도 나옵니다.―경기 화성시 만세구에서."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n92f12110",
-    "category": "스포츠",
-    "source": "뉴시스",
-    "time": "4분 전",
-    "url": "https://www.newsis.com/view/NISX20261014_0003826433",
-    "title": "'결승포로 생일 자축' LG 오스틴 \"김도영과 맞대결? PS는 또 다르다\"[WC]",
-    "summary": [
-      "[서울=뉴시스]문채현 기자 = 프로야구 LG 트윈스의 외국인 거포 오스틴 딘이 자신의 생일을 자축하는 홈런포를 터트렸다.",
-      "LG는 오스틴의 결승 홈런에 힘입어 와일드카드(WC) 결정전을 승리로 장식하고 가을야구를 연장했다.",
-      "오스틴은 14일 서울 잠실구장에서 열린 두산 베어스와의 2026 신한 쏠 KBO 포스트시즌 와일드카드(WC) 결정전 1차전에 3번 지명타자로 선발 출전해 4타수 1안타 1홈런 2타점 1득점을 기록했다."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
-    "id": "n0218fbae",
-    "category": "사회",
-    "source": "아시아경제",
-    "time": "4분 전",
-    "url": "https://view.asiae.co.kr/article/2026101423045611686",
-    "title": "경기도, 건설현장 사고 예방 총력…공공·민간 관계자 260명 안전교육",
-    "summary": [
-      "경기도가 건설현장 산업재해 예방과 안전관리 역량 강화를 위해 공공·민간 건설안전 관계자 260여 명을 대상으로 실무 중심의 안전교육을 실시했다.",
-      "경기도는 14일 고양시 킨텍스에서 열린 '2026 한국건설·안전박람회'와 연계해 '2026년 건설안전 정책 실현을 위한 건설안전 역량강화 교육'을 개최했다고 밝혔다.",
-      "교육에는 도와 시군 공무원, 경기도 공공기관 담당자, 건설현장 소장, 시공·감리 관계자 등이 참석했다."
-    ],
-    "chips": [
-      "#정책",
-      "#교육"
-    ]
-  },
-  {
-    "id": "n2c3e4daa",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "5분 전",
-    "url": "https://www.chosun.com/entertainments/broadcast/2026/10/14/GI2DOZJSMJRGIMZYHAZDENTGGA/",
-    "title": "'모친상' 최수종, 오열 후 하희라에 안겨 울었다···\"못했던 기억, 쓴소리한 것만 기억 나\"('유퀴즈')",
-    "summary": [
-      "[OSEN=오세진 기자] ‘유퀴즈 온 더 블럭’ 최수종, 하희라 부부가 최수종의 어머니와 이별 후 눈물을 쏟았다.14일 방영된 tvN ‘유퀴즈 온 더 블럭’(이하 ‘유퀴즈’)에서는 결혼 33주년을 맞이한 최수종, 하희라 부부가 출연했다.",
-      "이들 부부는 세기의 결혼식부터 늘 함께 살아오고 있는 이야기를 유쾌하게 꺼내며 이야기를 이어갔다.얼마 전 추석 무렵 최수."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "ndef14b47",
-    "category": "경제",
-    "source": "한국경제",
-    "time": "5분 전",
-    "url": "https://www.hankyung.com/article/202610142600i",
-    "title": "美 9월 소비자 물가 3.7% 상승…고유가에 인플레이션 압력",
-    "summary": [
-      "美 9월 소비자 물가 3.7% 상승…고유가에 인플레이션 압력."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n129a5244",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "6분 전",
-    "url": "https://www.newsis.com/view/NISX20261014_0003826414",
-    "title": "이석배 주러대사 \"현대차·기아, 러시아 복귀 관심…재진출 모색 중\"",
-    "summary": [
-      "[서울=뉴시스]신정원 기자 = 현대차와 기아가 러시아 시장에 복귀하는 방안을 검토 중이라고 이석배 주러시아 대사가 14일(현지 시간) 밝혔다.",
-      "이 대사는 이날 러시아 매체 이즈베스티야와의 인터뷰에서 \"내가 아는 한 현대차와 기아는 러시아 자동차 시장에 여전히 매우 큰 관심을 갖고 있다\"며 \"러시아 시장에 재진출하는 방안에 대한 시장 조사를 진행하고 있을 것이라고 생각한다\"고 말했다.",
-      "이 대사는 다만 우크라이나 전쟁이 걸림돌이 되고 있다며 전쟁이."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n5ded74ff",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "6분 전",
-    "url": "https://www.chosun.com/jp/economy-jp/2026/10/14/LGFPW34IVJD6BFULNNRRT6CZIA/",
-    "title": "ルフトハンザ、TAP株取得者に選定",
-    "summary": [
-      "ドイツ航空大手ルフトハンザ・グループが、ポルトガル国営航空会社TAPポルトガル航空の株式取得者に選ばれた。ポルトガル政府はTAP株を最大49.9％売却し、約12億100万ユーロ（約1兆8000億ウォン）を確保する計画だ。ルフトハンザはエールフランスKLMグループを退け、買収競争を制した。ポルトガル政府は14日（現地時間）の閣議で、ルフトハンザをTAP株44.9."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n9d734fb3",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "6분 전",
-    "url": "https://www.chosun.com/economy/industry-company/2026/10/14/ME2TIOLCMY3DCYRQMQ4DGOJUMQ/",
-    "title": "루프트한자, 포르투갈 국영항공사 TAP 인수자로 선정… 1조8000억원 규모",
-    "summary": [
-      "독일 항공사 루프트한자그룹이 포르투갈 국영항공사 TAP 포르투갈항공의 지분 인수자로 선정됐다.",
-      "포르투갈 정부는 TAP 지분 최대 49.9%를 매각해 약 12억100만유로(약 1조8000억원)를 확보할 계획이다.",
-      "루프트한자는 에어프랑스-KLM그룹을 제치고 인수 경쟁에서 승리했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nb42d33cd",
-    "category": "스포츠",
-    "source": "동아일보",
-    "time": "6분 전",
-    "url": "https://www.donga.com/news/Sports/article/all/20261014/134844215/1",
-    "title": "LG의 ‘1점 차’ 리드 지켜낸 이우찬 “첫 타자 볼넷은 의도한 것… 위기 막고 싶었다”",
-    "summary": [
-      "“첫 타자 볼넷은 의도한 거다.”프로야구 LG의 불펜 투수 이우찬(34)은 14일 서울 잠실구장에서 열린 두산과의 와일드카드 결정(WC) 1차전에서 승리한 뒤 이렇게 말하며 웃었다.",
-      "이우찬은 이날 LG가 2-1로 앞선 8회초 1사 주자 2루에 마운드에 올랐다.",
-      "1점 차 승부에 득점권 주자까지 있었던 상황."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
-    "id": "nad3761d8",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "9분 전",
-    "url": "https://www.yna.co.kr/view/AKR20261014170051079",
-    "title": "후티 \"사우디 아람코·공항에 미사일·드론 공격\"…1명 부상(종합)",
-    "summary": [
-      "(카이로=연합뉴스) 김상훈 특파원 = 예멘의 친이란 반군 후티가 사우디아라비아 동부 다란의 국영 석유회사 아람코 시설과 수도 리야드의 국제공항 ..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n6b9cf561",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "9분 전",
-    "url": "https://www.donga.com/news/Opinion/article/all/20261014/134844078/2",
-    "title": "거울이 거스른 법칙[이은화의 미술시간]〈444〉",
-    "summary": [
-      "올해 노벨 화학상은 ‘거울상 분자’의 비밀을 밝힌 프랑스 화학자 앙리 카간과 일본 화학자 소아이 겐소(硤合憲三)에게 돌아갔다.",
-      "두 과학자는 거울에 비친 모습처럼 닮았지만 서로 겹쳐지지 않는 분자를 선택적으로 만들어내는 연구로 수상의 영예를 안았다.",
-      "오른손과 왼손처럼 모양은 비슷해도 완전히 포개지지 않는 분자들은 우리 몸에서 서로 다른 작용을 한다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n1732b244",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "9분 전",
-    "url": "https://www.donga.com/news/Opinion/article/all/20261014/134843682/2",
-    "title": "민간에 우주기술 ‘독점 사용권’ 주니… 특허 인용 10년간 2.6배 늘어[박재혁의 데이터로 보는 세상]",
-    "summary": [
-      "《10월 7일 한국형 발사체 누리호가 5차 발사에 성공해 다수의 위성을 궤도에 성공적으로 안착시켰다.",
-      "예정된 시각에 솟아오른 완벽한 비행에 많은 시민들이 찬사를 보냈고, 누리호의 발사 성공률은 80%로 높아졌다.우주 탐사와 위성 개발은 한 국가의 과학기술 역량을 보여주는 상징적인 사건이지만, 동시에 천문학적인 예산이 투입되는 프로젝트다.",
-      "과연 정부의 대규모 우주 연구개발(R&D) 투자는 국가 경제와 기술 발전에 실질적인 영향을 가져올까.》첫 번."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n3c97cf51",
-    "category": "경제",
-    "source": "뉴시스",
-    "time": "9분 전",
-    "url": "https://www.newsis.com/view/NISX20261014_0003825630",
-    "title": "\"비트코인 떨어지자 3700억 베팅\"…스트라이브, 9개월 만에 최대 매수",
-    "summary": [
-      "[서울=뉴시스]이지영 기자 = 미국 자산운용사 스트라이브가 비트코인 가격 조정을 틈타 3700억원어치를 추가 매수했다.",
-      "지난 1월 이후 최대 규모로 비트코인 트레저리 전략을 한층 강화하는 모습이다.",
-      "14일(현지시간) 가상자산 전문매체 디크립트에 따르면 스트라이브는 지난 5일부터 9일까지 비트코인 3311개를 약 2억8000만달러(약 3740억원)에 매수했다고 공시했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "ndd72fdd9",
-    "category": "사회",
-    "source": "아시아경제",
-    "time": "9분 전",
-    "url": "https://view.asiae.co.kr/article/2026101422594214323",
-    "title": "경기도, 노동안전보건 공모전 수상작 6점 선정…산재 예방 중요성 알린다",
-    "summary": [
-      "경기도가 산업재해 예방과 안전한 일터 조성을 위한 노동안전 문화 확산에 나섰다.",
-      "경기도와 고양시노동권익센터는 14일 고양시 킨텍스에서 '2026년 노동안전보건 공모전' 시상식을 열고 사진과 짧은 영상(숏폼) 부문 수상자 6명에게 도지사 상장과 총 200만원의 상금을 수여했다.",
-      "올해로 3회째를 맞은 이번 공모전은 산업현장의 안전사고 예방과 노동자의 안전의식 향상을 위해 마련됐다."
-    ],
-    "chips": [
-      "#의료"
-    ]
-  },
-  {
-    "id": "n25578971",
-    "category": "경제",
-    "source": "머니투데이",
-    "time": "12분 전",
-    "url": "https://www.mt.co.kr/society/2026/10/14/2026101422450953327",
-    "title": "경찰, 10명에 흉기 휘두른 '인천 난동범' 구속영장 신청",
-    "summary": [
-      "인천 대형 상업시설에서 흉기를 휘둘러 여러 시민을 다치게 한 50대 남성에 대해 경찰이 구속영장을 신청했다.",
-      "14일 경찰 등에 따르면 인천 남동경찰서는 이날 살인미수와 공공장소 흉기 소지 혐의로 50대 남성 A씨에 대한 구속영장을 신청했다.",
-      "A씨는 전날 오후 1시48분 대형마트와 영화관 등이 입점해 있는 인천시 남동구 구월동 대형 상업시설 건물에서 이용객 10명을 흉기로 휘둘러 살해하려 한 혐의를 받는다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
   }
 ];
 
@@ -650,21 +646,21 @@ window.NEWS_DB = [
 window.KEYWORD_TOP = [
   {
     "rank": 1,
-    "tag": "뉴스",
-    "mentions": "2720건",
-    "trend": "+315%"
+    "tag": "AI",
+    "mentions": "2070건",
+    "trend": "+215%"
   },
   {
     "rank": 2,
-    "tag": "AI",
-    "mentions": "1680건",
-    "trend": "+155%"
+    "tag": "뉴스",
+    "mentions": "1940건",
+    "trend": "+195%"
   },
   {
     "rank": 3,
     "tag": "반도체",
-    "mentions": "1420건",
-    "trend": "+115%"
+    "mentions": "1550건",
+    "trend": "+135%"
   }
 ];
 // ====AUTO-GENERATED-END====
