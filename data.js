@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-10-15 12:16:13
+// 마지막 업데이트: 2026-10-15 17:28:31
 window.NEWS_DB = [
   {
     "id": "naa4457cf",
     "category": "IT",
     "source": "딜사이트",
-    "time": "4시간 전",
+    "time": "9시간 전",
     "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9uMDhsTmhidTdsb0p6TmpJQ3Y2WTNyY2NmN25OMzczaWlNM2lHSmxUMWtJeUFiLWozdXVWa3Ftc21LekgxakFGU0dtZGpaQjg?oc=5",
     "title": "TSMC 사상 최대 실적…K반도체에 ‘수요 신호’",
     "summary": [
@@ -16,27 +16,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n189ea60a",
-    "category": "IT",
-    "source": "매일경제 마켓",
-    "time": "9시간 전",
-    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1qZ1ljdjI1YWlSc0VhamF4VHpsWmlOY3I1dWR4bldrZ1pQU2J0bS1OTEhkdEt1X25HNHE5ZTJkWUFmWnRKWVd4SVo0S2owWExG?oc=5",
-    "title": "사우디·中 밀착 경계…美, 엔비디아 AI반도체 중동수출 통제(종합)",
-    "summary": [
-      "사우디·中 밀착 경계…美, 엔비디아 AI반도체 중동수출 통제(종합) 매일경제 마켓."
-    ],
-    "chips": [
-      "#AI",
-      "#반도체",
-      "#엔비디아",
-      "#수출"
-    ]
-  },
-  {
     "id": "nae8fa30f",
     "category": "IT",
     "source": "자본시장뉴스",
-    "time": "10시간 전",
+    "time": "15시간 전",
     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9Nd1BHQ1NKQ2FPYnBCOFRLQV9MTUNJbGdKVi1Oal9tY0JDQk1ub3VDNlVXTXRSYTJqdl9tdWNYOUlnSUxGNERhY0lrMUZiOVBlOFlqSWZYLVNCUFNNSENsaVpRRS1qckE?oc=5",
     "title": "삼성전자 zHBM·SK하이닉스 HBF…차세대 메모리 맞대결",
     "summary": [
@@ -52,7 +35,7 @@ window.NEWS_DB = [
     "id": "nc939f22d",
     "category": "부동산",
     "source": "www.ebn.co.kr",
-    "time": "10시간 전",
+    "time": "16시간 전",
     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5GOThNTy1FeFlYQU5xQWtQMkVGNzJJSkZfdUU2aFRSQkdBTVQ3U2xnb1ZsMjhZTlltaGhEQnJXUDVSazEzcGNERWJ5b2sxOHR6NnlmMjlHYUN3dTVWYldXYVhuVjZQRENs?oc=5",
     "title": "[10·15 대책 1년] 전세 품귀에 임대차 혼란…집값·분양가 연쇄 자극",
     "summary": [
@@ -64,18 +47,17 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n91af39c1",
+    "id": "n65610b14",
     "category": "IT",
-    "source": "인터내셔널포커스",
-    "time": "11시간 전",
-    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1MNU5LVUQwSGtibndDUmRJUDJjLURHa3VhM0JzUW1xbGlHS1FGSUV1eWFla3plUFFDVlpiLWNOMDRuRFpYalliMVFKRmlYVF85anJNel81R05LUHM?oc=5",
-    "title": "엔비디아 34%·화웨이 28%…중국 AI 반도체 시장 판도 변화",
+    "source": "기호일보",
+    "time": "1일 전",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA2djg1OENJTlpLV2ZWa1RaN09sY0JyZGJPemx6VGxjZkpvUl9qclJSLXR2MHEzMjBpVUZzUWpRWTVpWlNqN29tN1UyejI3VHZQclRjMHN1cTFlRnhaekttRlk5WjVsOEtuZTdkWnRTNA?oc=5",
+    "title": "엔비디아 AI 기술센터 송도에 둥지틀까 ‘촉각’",
     "summary": [
-      "엔비디아 34%·화웨이 28%…중국 AI 반도체 시장 판도 변화 인터내셔널포커스."
+      "엔비디아 AI 기술센터 송도에 둥지틀까 ‘촉각’ 기호일보."
     ],
     "chips": [
       "#AI",
-      "#반도체",
       "#엔비디아"
     ]
   },
@@ -93,6 +75,22 @@ window.NEWS_DB = [
       "#AI",
       "#반도체",
       "#삼성전자"
+    ]
+  },
+  {
+    "id": "n6e0e5cc1",
+    "category": "IT",
+    "source": "한국경제",
+    "time": "1일 전",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE10VHRWNERaLU15SnI3Q21xTkpZalo4ODJJdTYyX3FVc296NDR5VVpTNVpHUzkteXpkdUE5aXN4OVRldTl2T1F4RmxzbVlFbWhLRk5UWGNRQS1HQQ?oc=5",
+    "title": "美 규제 덫 걸린 엔비디아…中 AI칩 점유율 34%로 급락",
+    "summary": [
+      "美 규제 덫 걸린 엔비디아…中 AI칩 점유율 34%로 급락 한국경제."
+    ],
+    "chips": [
+      "#AI",
+      "#엔비디아",
+      "#정책"
     ]
   },
   {
@@ -156,21 +154,6 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n8673396d",
-    "category": "부동산",
-    "source": "머니투데이",
-    "time": "2일 전",
-    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9ycUo3dGdSdFE3SFYzWXpMUDNjanQyX0FfTWpIcExjRlJPOWY5UzZ4TlYxWHNZVDdreGJ0SkZENlp0VGx1VGVrVWZFamEtZHpuQTBUREJHRkpKTmtoQXE0bHdtbC1NOXQ0ZF9fT3Mwb2VrcjZkZ0tPLWJzaHHSAXxBVV95cUxPcnFKN3RnUnRRN0hWM1l6TFAzY2p0Ml9BX01qSHBMY0ZSTzlmOVM2eE5WMVhzWVQ3a3hidEpGRDZadFRsdVRla1VmRWphLWR6bkEwVERCR0ZKSk5raEFxNGx3bWwtTTl0NGRfX09zMG9la3I2ZGdLTy1ic2hx?oc=5",
-    "title": "\"2억으론 다른 아파트 전세 못 구해\"…LH 장기전세주택도 '분양전환' 요구 - 머니투데이",
-    "summary": [
-      "\"2억으론 다른 아파트 전세 못 구해\"…LH 장기전세주택도 '분양전환' 요구 - 머니투데이 머니투데이."
-    ],
-    "chips": [
-      "#부동산",
-      "#전세"
-    ]
-  },
-  {
     "id": "n4a582e92",
     "category": "부동산",
     "source": "헤럴드경제",
@@ -200,6 +183,35 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n689e4e53",
+    "category": "IT",
+    "source": "관악FM",
+    "time": "15일 전",
+    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5XRXA4X1ZRU1VLLXU1VDN6a0JmdmxDbW5BdXRua0hVQzNpSXAtbjF6bFRkMkE3amdpMDVsWm0wcEtnTFAzR0xQZTBpVQ?oc=5",
+    "title": "“관악S밸리에서 미래 유니콘의 꿈을!” 관악구, 2026년 제3차 신규 입주기업 최대 20개사 모집",
+    "summary": [
+      "“관악S밸리에서 미래 유니콘의 꿈을!” 관악구, 2026년 제3차 신규 입주기업 최대 20개사 모집 관악FM."
+    ],
+    "chips": [
+      "#스타트업",
+      "#채용"
+    ]
+  },
+  {
+    "id": "n1ef99b44",
+    "category": "부동산",
+    "source": "뉴스핌",
+    "time": "23일 전",
+    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1IV21uRGdUbmQ3dG9fejNFV19PMUdQeEZ4R1FnM1B0NUNGN1NITm8tbU04MWg2MlNkdlJpMzhOeHd2anhpdlJVcmFia2FVcnlrLVl3YUxTVE82YVJD?oc=5",
+    "title": "서울 집값 상승세 외곽으로 번졌다…노원 한 달 새 1.68%↑",
+    "summary": [
+      "서울 집값 상승세 외곽으로 번졌다…노원 한 달 새 1.68%↑ 뉴스핌."
+    ],
+    "chips": [
+      "#부동산"
+    ]
+  },
+  {
     "id": "na6d22b09",
     "category": "스포츠",
     "source": "경기일보",
@@ -225,20 +237,6 @@ window.NEWS_DB = [
     ],
     "chips": [
       "#KBO"
-    ]
-  },
-  {
-    "id": "n3bf091c2",
-    "category": "스포츠",
-    "source": "한국경제",
-    "time": "24일 전",
-    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9nY3BENG1heVF4amFVRDZ5M0Q3V09uYWZTRmZEZlcxZTJzc08zU2RBM3BRSEh6aTZPVDR2blc0YjZrNUhnMHNDUVN0M0pKMTBDVWxlUWhtZ1Zudw?oc=5",
-    "title": "\"손흥민 533만원·페이커 1100만원\"…해외선 없어서 못 산다",
-    "summary": [
-      "\"손흥민 533만원·페이커 1100만원\"…해외선 없어서 못 산다 한국경제."
-    ],
-    "chips": [
-      "#손흥민"
     ]
   },
   {
@@ -271,20 +269,6 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n207a7abe",
-    "category": "IT",
-    "source": "Chosunbiz",
-    "time": "114일 전",
-    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPUGdtbi01TkVMYXphY1VqbF9xRzB3TkVUbWtrM2NhN2d1NmpvS29NLTY5UWFtbFNrangxUlRnQUpxOW9rSEZwWVZuWU42aUdIU1FUUlhnQ0NLbjBXdlNpQ2labGU1cUt3WVZ3NEhVVmtJNjJlc3lUalByb0tqZDBucVJleGVLUFpaanFZX3RLZWvSAaQBQVVfeXFMTXFmYjM1dzZaM0d5QjZZQXJIb0VnanMzR29JcWlBQVZreFhGVVZlRmd4c2xoejc0ajVvdDhkUVo5ZWJ5bWlyVlZSUzlveG9EamJZblA5VDkwRG16QW1hRW1Qel9mTHRfdWI3MHhvbTJfd3ZoRTNIb3dVbjByNmI5T3llUUt2ZlZjVmEwQlV4M0FvMTRVT0JYaG4zNDZ6Rkw1LVVodlA?oc=5",
-    "title": "중기부, 2030년까지 ‘유니콘’ 50개 육성 나선다 - 조선비즈",
-    "summary": [
-      "중기부, 2030년까지 ‘유니콘’ 50개 육성 나선다 - 조선비즈 Chosunbiz."
-    ],
-    "chips": [
-      "#스타트업"
-    ]
-  },
-  {
     "id": "nabfa15b0",
     "category": "경제",
     "source": "YTN",
@@ -297,6 +281,21 @@ window.NEWS_DB = [
     "chips": [
       "#금리",
       "#환율"
+    ]
+  },
+  {
+    "id": "nb9bdfdfb",
+    "category": "스포츠",
+    "source": "푸드투데이",
+    "time": "139일 전",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9BVmpLTU1zOFZsU1RWVmVOSXppaWhDWFBBRkF4akI3WHBIcXIyX2pXa3JaeXplMm9vbmE4cU1PclhFTXVZdURxQ0RCYTF3aFNsbmRKcTZ5VE9na0cwakQ2XzNuWlJ5QQ?oc=5",
+    "title": "‘손흥민 월드콘.KBO몽쉘’ 축구.야구팬 다 잡자...롯데웰푸드, 스포츠마케팅 총력",
+    "summary": [
+      "‘손흥민 월드콘.KBO몽쉘’ 축구.야구팬 다 잡자...롯데웰푸드, 스포츠마케팅 총력 푸드투데이."
+    ],
+    "chips": [
+      "#손흥민",
+      "#KBO"
     ]
   },
   {
@@ -332,7 +331,7 @@ window.NEWS_DB = [
     "id": "n83b0f0da",
     "category": "IT",
     "source": "테크M",
-    "time": "방금 전",
+    "time": "18분 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=156155",
     "title": "TSMC \"AI 수요 기반 '증설'..반도체 수급 불균형 상당 기간 '지속'\"(종합)",
     "summary": [
@@ -346,10 +345,67 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n5b18b47a",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "26분 전",
+    "url": "https://www.chosun.com/sports/sports_general/2026/10/16/HBSDSNBVMFQTINBXGRQWCZDEMQ/",
+    "title": "[속보] 무릎 꿇고도 받는다! 안세영, '홈코트' 덴마크 에이스 '21-9' 압도...무난히 8강 진출→덴마크 오픈 '2연패' 청신호",
+    "summary": [
+      "[OSEN=고성환 기자] '세계 최강' 안세영(24, 삼성생명)이 덴마크 오픈 2연패를 향해 순항 중이다.",
+      "안세영은 15일(한국시간) 덴마크 오덴세의 SJF 방크 아레나에서 열린 2026 세계배드민턴연맹(BWF) 월드투어 덴마크 오픈(슈퍼 750) 여자단식 16강전에서 리네 크리스토페르센(덴마크·세계 12위)을 2-0(21-17 21-9)으로 꺾고 8강에."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "na1e22ff8",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "26분 전",
+    "url": "https://www.chosun.com/jp/sports-jp/2026/10/16/6EQRS4IVLJBCBNXQ5TWAIEV3L4/",
+    "title": "アン・セヨン、地元エース圧倒し8強",
+    "summary": [
+      "[OSEN＝コ・ソンファン記者] 「世界最強」のアン・セヨン（24、サムスン生命）がデンマーク・オープン連覇へ順調に歩を進めている。アン・セヨンは15日（韓国時間）、デンマーク・オーデンセのSJFバンク・アリーナで行われた2026世界バドミントン連盟（BWF）ワールドツアー、デンマーク・オープン（スーパー750）女子シングルス16強戦で、リネ・クリストフェルセン（デンマーク、世界12位）を2－0（21－17、21－9）で破り、8強に."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "na2d2daeb",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "28분 전",
+    "url": "https://www.yna.co.kr/view/AKR20261016001600071",
+    "title": "\"우크라, 北포로송환 공개해 韓 대북·대러 접근법 훼손\"",
+    "summary": [
+      "(워싱턴=연합뉴스) 홍정규 특파원 = 볼로디미르 젤렌스키 우크라이나 대통령이 러시아에 파병된 북한군 포로들을 한국으로 송환한 사실을 공개함으로써..."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n9947078c",
+    "category": "사회",
+    "source": "머니투데이",
+    "time": "28분 전",
+    "url": "https://www.mt.co.kr/opinion/2026/10/16/2026101509344117295",
+    "title": "자유주의와 그 적들 1 - 국가의 무능[투데이窓/김중식]",
+    "summary": [
+      "프랑스 학생시위 '기회의 평등' 요구한 것 정부, 혁신 경쟁에 뒤쳐져 곳간이 비어 자유의 조건에 국가경쟁력 포함돼야 \"나의 학습 노트 위에 / 나의 책상과 나무 위에 / 모래 위에 눈 위에 / 나는 너의 이름을 쓴다 // (제2~20연 생략) // 그 한마디 말의 힘으로 / 나는 내 일생을 다시 시작한다 / 나는 태어났다 너를 알기 위해서 /너의 이름을 부르기 위해서 / 자유여.\" 프랑스 시인 폴 엘뤼아르(1895~1952)의 시 '자유'의 앞."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
     "id": "n9d07c2bb",
     "category": "IT",
     "source": "테크M",
-    "time": "방금 전",
+    "time": "29분 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=156154",
     "title": "'아크 레이더스' 인기 재점화...넥슨 4분기 실적 기대감 '활활'",
     "summary": [
@@ -362,10 +418,24 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n91cc0a7c",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "29분 전",
+    "url": "https://www.yna.co.kr/view/AKR20261015182551108",
+    "title": "\"흑해서 또 드론에 선박 피격\"…나토 내주 대응 회의(종합)",
+    "summary": [
+      "(이스탄불·브뤼셀=연합뉴스) 김동호 현윤경 특파원 = 루마니아 연안 흑해에서 선박들이 무인항공기(UAV·드론) 공격을 받았다고 AFP 통신이 1..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
     "id": "nb7ce03bb",
     "category": "사회",
     "source": "테크M",
-    "time": "방금 전",
+    "time": "30분 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=156152",
     "title": "[국감 26] KISA \"LG유플러스, 조사 어렵던 상황\"...한준호 \"전례 남지 않아야\"",
     "summary": [
@@ -377,250 +447,188 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n29c2ce3e",
+    "id": "nc4f6c814",
     "category": "사회",
     "source": "뉴시스",
-    "time": "2분 전",
-    "url": "https://www.newsis.com/view/NISX20261015_0003828118",
-    "title": "'레깅스계 샤넬'이라더니…품질 논란 터진 룰루레몬, 직원 7명 해고",
+    "time": "33분 전",
+    "url": "https://www.newsis.com/view/NISX20261015_0003827760",
+    "title": "\"살 좀 찌면 한 끼 가볍게\"…경리, '170㎝에 51㎏' 유지 비결 공개",
     "summary": [
-      "[서울=뉴시스]정지연 인턴 기자 = 프리미엄 애슬레저 브랜드 '룰루레몬'(lululemon)이 잇따른 레깅스 품질 논란 속에 원자재 개발팀을 개편하고 직원 7명을 해고했다.",
-      "회사 측은 이번 개편이 공급업체와의 업무 효율성을 높이기 위한 것이라고 밝혔다.",
-      "14일(현지시간) 블룸버그통신에 따르면 캐나다 요가복 업체 룰루레몬은 8월 원자재 개발팀의 조직 구조를 변경하고, 직원 7명을 해고했다."
+      "[서울=뉴시스]김드보라 인턴 기자 = 그룹 나인뮤지스 출신 가수 경리가 신곡 '소주밤' 활동 사진을 공개하며 늘씬한 몸매를 뽐냈다.",
+      "경리는 지난 14일 자신의 인스타그램에 \"많이 늦은 소주밤 비하인드입니다\"라는 글과 함께 여러 장의 사진을 올렸다.",
+      "공개된 사진 속 경리는 음악방송 '뮤직뱅크' 무대 의상을 입고 다양한 자세를 취했다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n978d58cb",
+    "id": "nc3435104",
     "category": "사회",
-    "source": "동아일보",
-    "time": "5분 전",
-    "url": "https://www.donga.com/news/Culture/article/all/20261015/134848975/1",
-    "title": "부산어워즈 대상에 이란 영화 ‘빵과 책’…감독 “전쟁 없는 세상 오길”",
+    "source": "뉴시스",
+    "time": "39분 전",
+    "url": "https://www.newsis.com/view/NISX20261015_0003827119",
+    "title": "솔라나, 거래 확정 시간 12.8초→0.15초로 단축…22일 업그레이드",
     "summary": [
-      "15일 부산 해운대구 영화의전당에서 열린 제31회 부산국제영화제(BIFF) 폐막식에서 부산어워드 대상은 이란 감독 마지드 마지디(67)의 ‘빵과 책’에게 돌아갔다.이 영화는 메마른 마을에서 낮에는 교사, 밤에는 석유 밀수꾼으로 살아가는 주인공을 통해 교육과 빈곤, 그리고 개인의 선의만으로 해결하기 어려운 사회구조를 들여다본 작품이다.",
-      "심사위원장 장이머우 감독은 “제가 마음속으로 생각했던 이상적인 영화”라며 “심사위원 전원이 만장일치로 선정한 훌."
-    ],
-    "chips": [
-      "#교육"
-    ]
-  },
-  {
-    "id": "nd6aad37b",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "7분 전",
-    "url": "https://www.chosun.com/entertainments/broadcast/2026/10/15/GEYWCMDBGQYDKNLEMJQTEZJYGU/",
-    "title": "‘삐삐밴드’ 이윤정, 알고 보니 '한국인 최초' 코첼라 입성…\"칸예 웨스트·패리스 힐튼과 한 무대\" ('관종언니')",
-    "summary": [
-      "[OSEN=박근희 기자] 삐삐밴드 출신 가수 이윤정이 과거 한국인 최초로 세계적인 음악 페스티벌 '코첼라'에 입성했던 놀라운 이력을 공개했다.15일 오후 유튜브 채널 ‘밉지않은 관종언니’에는 '시대를 앞서나간 90년대 충격적인 가수 삐삐밴드 이윤정 근황 최초공개(30년 만에)'라는 제목의 영상이 게재됐다.이윤정은 과거 혼성 듀오 EE로 활동하던 시절을 언급."
+      "[서울=뉴시스]이지영 기자 = 가상자산 솔라나가 오는 22일 대규모 네트워크 업그레이드에 나선다.",
+      "거래가 최종 확정되는 시간을 줄이는 것이 핵심이다.",
+      "15일(현지 시간) 가상자산 전문매체 디크립트에 따르면 솔라나 재단은 한국시간으로 오는 22일 자정 알펜글로우(Alpenglow) 업그레이드를 메인넷에 적용한다고 밝혔다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n8a7b00c3",
+    "id": "nc3cdb196",
     "category": "사회",
-    "source": "조선일보",
-    "time": "7분 전",
-    "url": "https://www.chosun.com/jp/culture-life-jp/2026/10/15/RB5NIYPEZRFHXEPOD5QHGDL26E/",
-    "title": "ピピバンドのイ・ユンジョン、韓国人初のコーチェラ出演",
+    "source": "연합뉴스",
+    "time": "42분 전",
+    "url": "https://www.yna.co.kr/view/AKR20261016001700087",
+    "title": "룰라 핵심 공약 '주5일제' 상원 통과…대선 변수로 떠오르나",
     "summary": [
-      "【OSEN＝パク・グンヒ記者】ピピバンド出身の歌手イ・ユンジョンが、過去に韓国人として初めて世界的音楽フェスティバル「コーチェラ」に出演した驚きの経歴を明かした。15日午後、ユーチューブチャンネル「憎めないかまってちゃん姉さん」には「時代を先取りした90年代の衝撃的歌手ピピバンドのイ・ユンジョン近況初公開（30年ぶり）」というタイトルの動画が掲載された。イ・ユンジョンは過去、男女デュオEEとして活動していた時期に言及."
+      "(멕시코시티=연합뉴스) 송광호 특파원 = 루이스 이나시우 룰라 다시우바의 대선 핵심 공약 중 하나인 '주5일제' 법안이 브라질 상원을 최종 통과..."
     ],
     "chips": [
-      "#뉴스"
+      "#정책"
     ]
   },
   {
-    "id": "nb2b4b878",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "7분 전",
-    "url": "https://www.chosun.com/jp/politics-national-jp/2026/10/15/JTJGABN6TNBQPLS6KK52H7L5OY/",
-    "title": "凶器で店主脅した50代女、現行犯逮捕",
-    "summary": [
-      "凶器で店主脅した50代女、現行犯逮捕."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nbf70547a",
+    "id": "n618f9faa",
     "category": "스포츠",
-    "source": "연합뉴스",
-    "time": "11분 전",
-    "url": "https://www.yna.co.kr/view/AKR20261015177600007",
-    "title": "[프로농구 서울전적] 삼성 93-86 LG",
+    "source": "조선일보",
+    "time": "47분 전",
+    "url": "https://www.chosun.com/sports/baseball/2026/10/16/MUZDOZBUHFSTGY3BG4ZTGM3FGI/",
+    "title": "LG가 이래서 65억 안겼구나…와카 미친 슈퍼캐치→우승팀 중견수마저 경의 표하다 “모든 CF의 로망, 거기로는 치면 안돼”",
     "summary": [
-      "◇15일 전적(잠실학생체육관)."
+      "[OSEN=수원, 이후광 기자] “(박)해민이 형은 모든 중견수들의 로망이다.” 프로야구 LG 트윈스 중견수 박해민은 지난 14일 서울 잠실구장에서 열린 2026 신한 SOL KBO 와일드카드 결정전 1차전에 2번 중견수로 선발 출전해 믿을 수 없는 슈퍼캐치를 선보이며 팀을 준플레이오프로 이끌었다.",
+      "2-0으로 앞선 7회초 1사 만루 위기였다."
     ],
     "chips": [
-      "#뉴스"
+      "#KBO"
     ]
   },
   {
-    "id": "n9b72cd78",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "12분 전",
-    "url": "https://www.yna.co.kr/view/AKR20261015177400007",
-    "title": "빙속 이나현, 공인기록회 여자 500ｍ 1위…박지우 1,500ｍ 정상",
+    "id": "nc3f24387",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "47분 전",
+    "url": "https://www.chosun.com/jp/sports-jp/2026/10/16/WJGEAIBB5VE63CEUXBOIE37NX4/",
+    "title": "LGが65億ウォン投じた理由",
     "summary": [
-      "(서울=연합뉴스) 김동한 기자 = 한국 여자 스피드스케이팅 차세대 간판 이나현(한국체대)이 공인기록회 여자 500ｍ에서 1위를 차지했다."
+      "【OSEN＝水原、イ・フグァン記者】「（パク）ヘミンさんは、すべての中堅手の憧れだ」。プロ野球LGツインズの中堅手パク・ヘミンは14日、ソウル・蚕室球場で行われた2026新韓SOL KBOワイルドカード決定戦第1戦に2番・中堅で先発出場し、信じられないスーパーキャッチを披露してチームを準プレーオフに導いた。2－0とリードした7回表、1死満塁のピンチだった。斗山はチョン・スビン."
     ],
     "chips": [
-      "#뉴스"
+      "#KBO"
     ]
   },
   {
-    "id": "nd7d33ff7",
+    "id": "nc388c59d",
     "category": "사회",
     "source": "뉴시스",
-    "time": "13분 전",
-    "url": "https://www.newsis.com/view/NISX20261015_0003828149",
-    "title": "[인사]경북 영주시",
+    "time": "51분 전",
+    "url": "https://www.newsis.com/view/NISX20261016_0003828216",
+    "title": "“트럼프, 국내외적으로 제역할 못해, 중간선거에서 변화 원해”-AP 여론조사",
     "summary": [
-      "[영주=뉴시스] ◇5급 승진 ▲선비인재양성과 김명선 ▲기업지원실 김정아 ▲농업정책과 안언숙 ▲홍보전산실 강현애 ▲일자리경제과 김창한 ▲건설과 김도현."
+      "[서울=뉴시스] 구자룡 기자 = 미국 유권자 대다수는 도널드 트럼프 대통령이 국내외적으로 제 역할을 다하지 못하고 있다고 생각하며 중간선거에서 큰 변화를 원하는 것으로 나타났다.",
+      "이같은 AP-NORC 여론조사는 중간선거에서 공화당에 심각한 경고 신호를 보내는 것이라고 AP 통신은 15일 보도했다.",
+      "여론조사에 따르면 민주당 지지 유권자들이 공화당보다 투표에 참여하려는 열의가 더 높은 것으로 나타났다."
     ],
     "chips": [
-      "#정책",
-      "#고용"
+      "#정치"
     ]
   },
   {
-    "id": "na793b97b",
+    "id": "nc020772a",
     "category": "사회",
     "source": "연합뉴스",
-    "time": "14분 전",
-    "url": "https://www.yna.co.kr/view/AKR20261015177300051",
-    "title": "부산국제영화제 폐막…경쟁 부문 대상에 이란 영화 '빵과 책'",
+    "time": "1시간 전",
+    "url": "https://www.yna.co.kr/view/AKR20261016001400098",
+    "title": "젤렌스키의 트럼프 날선 비판에 유럽 당혹…\"수위조절 요구\"",
     "summary": [
-      "(부산=연합뉴스) 이영재 기자 = 아시아 최대 영화 축제 제31회 부산국제영화제가 15일 대단원의 막을 내렸다."
+      "(브뤼셀=연합뉴스) 현윤경 특파원 = 볼로디미르 젤렌스키 우크라이나 대통령이 최근 트럼프 대통령을 향해 대놓고 날선 비판을 이어가자 당혹한 유럽..."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n117dd45d",
+    "category": "스포츠",
+    "source": "뉴시스",
+    "time": "1시간 전",
+    "url": "https://www.newsis.com/view/NISX20261015_0003826782",
+    "title": "\"비키니 자태 이 정도였어?\"…韓 비치발리볼 선수 신지은에 日 팬들 '들썩'",
+    "summary": [
+      "[서울=뉴시스]허준희 인턴 기자 = 한국 비치발리볼 선수 신지은이 해변에서 촬영한 사진을 공개해 관심을 모은 가운데 과거 비키니 착용을 둘러싼 악성 댓글로 고통받았던 사연도 재조명됐다.",
+      "지난 14일(현지 시간) 일본 매체 더 앤서에 따르면 신지은은 최근 자신의 소셜네트워크서비스(SNS)에 해변에서 비치발리볼 경기복인 비키니를 입고 있는 모습을 공개했다.",
+      "사진 속 신지은은 해 질 녘 노을이 물드는 은은한 하늘을 배경으로 비키니 차림에 카메라를 응."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n52b0407f",
-    "category": "경제",
-    "source": "한국경제",
-    "time": "14분 전",
-    "url": "https://www.hankyung.com/article/202610154023g",
-    "title": "겨울 해외여행 수요 살아나나…유럽 예약 늘고 동남아 감소폭 축소[트래블톡]",
+    "id": "ne70ef619",
+    "category": "스포츠",
+    "source": "머니투데이",
+    "time": "1시간 전",
+    "url": "https://www.mt.co.kr/sports/2026/10/16/2026101600240226138",
+    "title": "'이례적' 김연아도 분노케한 '러시아 피겨 스타' 충격 근황, 무려 4년 만의 복귀전마저 '무산 확정'... 도대체 왜?",
     "summary": [
-      "겨울 해외여행 수요 살아나나…유럽 예약 늘고 동남아 감소폭 축소[트래블톡]."
+      "2022 베이징 동계올림픽 당시 전 세계를 충격에 빠뜨린 도핑 스캔들로 피겨 여왕 김연아마저 격노케 했던 카밀라 발리예바(20·러시아)가 4년 징계 후 치를 예정이었던 공식 복귀전마저 질병을 이유로 무산됐다.",
+      "러시아 매체 '스포르트'는 16일(한국시간) \"러시아 피겨스케이팅 선수 발리예바가 질병으로 인해 카잔에서 열리는 러시아 그랑프리 무대에 불참한다는 사실을 공식 확인했다\"고 보도했다.",
+      "발리예바는 개인 사회관계망서비스(SNS)를 통해 \"친애하."
+    ],
+    "chips": [
+      "#의료"
+    ]
+  },
+  {
+    "id": "ndbaf1d9a",
+    "category": "사회",
+    "source": "머니투데이",
+    "time": "1시간 전",
+    "url": "https://www.mt.co.kr/world/2026/10/16/2026101600303724872",
+    "title": "트럼프 \"총살형 생중계 안 한다\"…중간선거 앞 반대여론에 철회",
+    "summary": [
+      "도널드 트럼프 미국 대통령이 미군 기지 총기 난사범에 대한 사형 집행 생중계 계획을 철회했다.",
+      "다음달 3일 중간선거를 앞두고 여론의 역풍을 의식한 것으로 보인다.",
+      "트럼프 대통령은 15일(현지시간) 소셜미디어 트루스소셜에 올린 글에서 \"니달 말릭 하산은 예정대로 총살형에 처해지겠지만 집행 과정이 생중계되지는 않을 것\"이라고 밝혔다.이어 \"희생자의 직계 가족은 원할 경우 현장에서 직접 집행을 참관할 수 있다\"며 \"그들은 정의가 실현되는 순간을 목격."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n290ce5e0",
+    "category": "스포츠",
+    "source": "아시아경제",
+    "time": "1시간 전",
+    "url": "https://view.asiae.co.kr/article/2026101515402810408",
+    "title": "'정민이 형' 은퇴…\"너무 행복했습니다\"",
+    "summary": [
+      "\"필드 위에서 보여준 당신의 뜨거운 열정, 그 설렘과 감동을 잊지 않겠습니다.\" 눈물 대신 웃음이 가득했다.",
+      "1992년 1월생, 34세 베테랑 이정민이 정든 필드와 작별을 고했다.",
+      "그는 15일 한국여자프로골프(KLPGA) 투어 아이스버그골프·서울신문 오픈(총상금 15억원)이 열리는 경기도 이천시 H1클럽(파72)에서 은퇴식을 갖고 17년 선수 생활에 마침표를 찍었다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n47fb15a9",
-    "category": "경제",
-    "source": "한국경제",
-    "time": "15분 전",
-    "url": "https://www.hankyung.com/article/2026101550257",
-    "title": "\"문신 멋진 건 처음이네\"…칼부림 막아낸 30대 남성 반전",
-    "summary": [
-      "\"문신 멋진 건 처음이네\"…칼부림 막아낸 30대 남성 반전."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nd9b5ddcd",
-    "category": "경제",
-    "source": "한국경제",
-    "time": "15분 전",
-    "url": "https://www.hankyung.com/article/202610154878i",
-    "title": "이소영 장관 \"대전은 가장 앞서나가는 창업도시 성공사례 될 것\"",
-    "summary": [
-      "이소영 장관 \"대전은 가장 앞서나가는 창업도시 성공사례 될 것\"."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nef977ca3",
-    "category": "경제",
-    "source": "한국경제",
-    "time": "15분 전",
-    "url": "https://www.hankyung.com/article/2026101547931",
-    "title": "\"오늘부터는 튀르키예인\"…한국인 '국적 세탁' 나선 이유",
-    "summary": [
-      "\"오늘부터는 튀르키예인\"…한국인 '국적 세탁' 나선 이유."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n5eff1229",
-    "category": "경제",
-    "source": "연합뉴스(경제)",
-    "time": "16분 전",
-    "url": "https://www.yna.co.kr/view/AKR20261015057000051",
-    "title": "40년 바다 지킨 포항 해녀, FAO 여성 인재 100인에 선정",
-    "summary": [
-      "(부산=연합뉴스) 이영재 기자 = 40년간 해녀로 일하며 경북 포항 바닷가 마을을 이끌어온 여성이 유엔 식량농업기구(FAO)가 선정한 세계 여성..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n171fcb51",
-    "category": "경제",
-    "source": "연합뉴스(경제)",
-    "time": "16분 전",
-    "url": "https://www.yna.co.kr/view/AKR20261015171000030",
-    "title": "이소영 장관 \"창업도시, 지정 넘어 실질적 창업거점 돼야\"",
-    "summary": [
-      "(대전=연합뉴스) 구정모 기자 = 이소영 중소벤처기업부 장관은 15일 창업도시를 지정하는 것뿐 아니라 지정된 도시가 실질적인 창업거점으로 활성화..."
-    ],
-    "chips": [
-      "#스타트업"
-    ]
-  },
-  {
-    "id": "n641d9e6f",
+    "id": "ndc7c0e8f",
     "category": "IT",
-    "source": "뉴시스",
-    "time": "16분 전",
-    "url": "https://www.newsis.com/view/NISX20261015_0003828125",
-    "title": "\"대전이 가장 앞설 것\"…'창업도시' 10곳으로 확대",
+    "source": "머니투데이",
+    "time": "1시간 전",
+    "url": "https://www.mt.co.kr/industry/2026/10/16/2026101523344512551",
+    "title": "최태원 SK 회장 \"AI 시대의 리더, AI가 할 수 없는 일을 해야\"",
     "summary": [
-      "[대전=뉴시스]강은정 기자 = 중소벤처기업부(중기부)가 인재가 지방에 모여 도전하고 성장하는 '창업도시' 육성에 속도를 낸다.",
-      "지난 4월 선정된 대전·대구·광주·울산을 시작으로 올 하반기 6곳을 추가 지정, 전국 창업도시를 10곳으로 확대할 계획이다.",
-      "중기부는 15일 오후 5시께 대전 유성구 한국과학기술원(KAIST) 나노종합기술원에서 '대전 창업도시 조성 프로젝트 현장 간담회'를 열고 이 같은 구상을 밝혔다."
+      "최태원 SK그룹 회장이 \"AI(인공지능) 시대의 리더는 AI가 할 수 없는 일을 해야 한다\"라며 \"또 AI를 활용해 사회 문제였든 인류가 닥친 문제였든 우리 조직이 닥친 문제였든 그 문제를 실제로 정의해 나가면서 풀어나가야 한다\"고 밝혔다.",
+      "최 회장은 15일 EBS '위대한 수업'에 강연자로 나서 AI 시대 리더의 역할에 대해 이같이 말했다.",
+      "최 회장은 'AI와 새로운 자본주의 그리고 청년'을 주제로 지난 12일부터 오는 16일까지 EBS에서."
     ],
     "chips": [
-      "#AI",
-      "#스타트업"
-    ]
-  },
-  {
-    "id": "n8f03b8d5",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "16분 전",
-    "url": "https://www.newsis.com/view/NISX20261015_0003826749",
-    "title": "구룡포 해녀 성정희씨, 유엔식량농업기구 여성 인재 100인 선정",
-    "summary": [
-      "[서울=뉴시스] 박성환 기자 = 40년 가까이 바다에서 일하며 동료 해녀들의 권익과 어촌 공동체 발전에 힘써 온 성정희 구룡포 어촌계장이 유엔식량농업기구(FAO)가 선정한 세계 여성 인재 100인에 이름을 올렸다.",
-      "한국인으로는 유일하게 선정됐다.",
-      "해양수산부는 성정희 구룡포 어촌계장 겸 경북해녀협회장이 FAO의 '농수산식품 시스템 및 농어촌 개발 분야 여성 인재 100인'에 최종 선정됐다고 15일 밝혔다."
-    ],
-    "chips": [
-      "#뉴스"
+      "#AI"
     ]
   }
 ];
@@ -630,20 +638,20 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2720건",
-    "trend": "+315%"
+    "mentions": "2070건",
+    "trend": "+215%"
   },
   {
     "rank": 2,
-    "tag": "반도체",
-    "mentions": "1810건",
-    "trend": "+175%"
-  },
-  {
-    "rank": 3,
     "tag": "AI",
     "mentions": "1680건",
     "trend": "+155%"
+  },
+  {
+    "rank": 3,
+    "tag": "반도체",
+    "mentions": "1550건",
+    "trend": "+135%"
   }
 ];
 // ====AUTO-GENERATED-END====
