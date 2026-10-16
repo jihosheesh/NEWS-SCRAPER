@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-10-16 17:03:36
+// 마지막 업데이트: 2026-10-16 20:13:31
 window.NEWS_DB = [
   {
     "id": "n7bb1afa2",
     "category": "IT",
     "source": "디지털투데이",
-    "time": "12시간 전",
+    "time": "16시간 전",
     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1ULWNsczVZcDZxWFVOSFZNVFVsTG0zaUk3ZTR3M01UZFk5Y09MdnpORXE1OWFsTjhGSnRxUWkxNDg4OWNVdEVFTlB2NkFvblBVYVNOQnY4QUNXS2prS3djeWc3eUViejc5NXJhUllVOE5MVzQ?oc=5",
     "title": "엔비디아 제약에 대안 찾는 바이트댄스…미디어텍과 맞춤형 AI 칩 논의",
     "summary": [
@@ -20,7 +20,7 @@ window.NEWS_DB = [
     "id": "n745b7e34",
     "category": "IT",
     "source": "머니투데이",
-    "time": "14시간 전",
+    "time": "17시간 전",
     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBWNjBiakxmTTR6TTh1Y01iTHFvYzFTQ25KUjUwQ3NtWTRfbUhiQ25xZHNCZVV1LV9SZ0RMZlpBUGR3akwxVlhyLTdWeE1icldUcjlpeGxpNUJJVVVrVEhPdlJHU1hzSnAtVTBZN0p30gFuQVVfeXFMUFY2MGJqTGZNNHpNOHVjTWJMcW9jMVNDbkpSNTBDc21ZNF9tSGJDbnFkc0JlVXUtX1JnRExmWkFQZHdqTDFWWHItN1Z4TWJyV1RyOWl4bGk1QklVVWtUSE92UkdTWHNKcC1VMFk3Snc?oc=5",
     "title": "AI시대 주도할 미국 반도체주 집중 투자하는 ETF 나온다 - 머니투데이",
     "summary": [
@@ -346,10 +346,201 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n54d26dfa",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "3분 전",
+    "url": "https://www.chosun.com/economy/startup_story/2026/10/13/ELRCLNLRONHLTEQZYGELLA7EFA/",
+    "title": "면봉으로 귀 후비면 자칫 치명적, 샤워 후 ‘적색빛 케어’ 귀 건강에 온 변화",
+    "summary": [
+      "면봉으로 귀 후비면 자칫 치명적, 샤워 후 ‘적색빛 케어’ 귀 건강에 온 변화."
+    ],
+    "chips": [
+      "#의료"
+    ]
+  },
+  {
+    "id": "nc05f2f2c",
+    "category": "IT",
+    "source": "뉴시스",
+    "time": "7분 전",
+    "url": "https://www.newsis.com/view/NISX20261017_0003829819",
+    "title": "[속보] 뉴욕증시, AI 매도세 심화에 하락 마감…나스닥 2.1%↓",
+    "summary": [
+      "후속기사가 이어집니다 ◎공감언론 뉴시스 jwshin@newsis.com."
+    ],
+    "chips": [
+      "#AI"
+    ]
+  },
+  {
+    "id": "na8cf3ddd",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "8분 전",
+    "url": "https://www.chosun.com/economy/startup_story/2026/10/06/RPBYTQMJZZD4JLIU4EXMBTA524/",
+    "title": "피부에 안 묻고 3분 끝인데 순하기까지, 서울대 연구진 참여 끝판 염색약 나왔다",
+    "summary": [
+      "피부에 안 묻고 3분 끝인데 순하기까지, 서울대 연구진 참여 끝판 염색약 나왔다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n9e08c0e1",
+    "category": "경제",
+    "source": "연합뉴스(경제)",
+    "time": "9분 전",
+    "url": "https://www.yna.co.kr/view/AKR20261017004900072",
+    "title": "중동도 우크라도 불안…브렌트유 109달러대, 5개월만에 최고",
+    "summary": [
+      "(뉴욕=연합뉴스) 김연숙 특파원 = 16일(현지시간) 중동 지역과 우크라이나 등에서 지정학적 리스크가 동시다발적으로 고조되며 국제유가가 급등했다..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n8a78c177",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "12분 전",
+    "url": "https://www.newsis.com/view/NISX20261016_0003829597",
+    "title": "토요일 인천, 일교차 매우 커…맑다가 저녁부터 흐림",
+    "summary": [
+      "[인천=뉴시스] 전예준 기자 = 17일 인천은 일교차가 10도 이상 벌어지겠다.",
+      "하늘은 동해상에 위치한 고기압의 영향을 받아 맑다가 저녁부터 흐리겠다.",
+      "수도권기상청은 \"아침 최저기온은 14도, 낮 최고기온은 25도 내외의 분포를 보이겠다\"며 \"낮과 밤의 기온차가 매우 크겠으니 건강관리에 유의하기 바란다\"고 예보했다."
+    ],
+    "chips": [
+      "#의료"
+    ]
+  },
+  {
+    "id": "ncd30ec2d",
+    "category": "스포츠",
+    "source": "뉴시스",
+    "time": "12분 전",
+    "url": "https://www.newsis.com/view/NISX20261016_0003829520",
+    "title": "경기북부 대체로 맑아…내일은 강한 비 예보",
+    "summary": [
+      "[경기북부=뉴시스] 김도희 기자 = 토요일인 17일, 대체로 맑은 날씨가 이어지겠다.",
+      "수도권기상청에 따르면 이날 최저 기온은 8도, 최고 기온은 25도 큰 일교차를 보이겠고, 대체로 맑다가 저녁부터 흐리겠다.",
+      "일요일인 18일엔 늦은 새벽부터 인천과 경기북부를 중심으로 비가 시작되겠다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n3bdf4e12",
+    "category": "스포츠",
+    "source": "뉴시스",
+    "time": "12분 전",
+    "url": "https://www.newsis.com/view/NISX20261016_0003829141",
+    "title": "토요일 경기남부 맑음, 아침 8도 '쌀쌀'…한낮 26도 '포근'",
+    "summary": [
+      "[수원=뉴시스] 양효원 기자 = 토요일인 17일 경기남부는 대체로 맑을 것으로 보인다.",
+      "이날 수도권기상청에 따르면 기온은 평년(최저기온 5~12도, 최고기온 19~21도)보다 높겠다.",
+      "아침 최저기온은 수원 13도 등 8~15도, 낮 최고기온은 수원 25도 등 24~26도로 예측된다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n42f0d896",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "13분 전",
+    "url": "https://www.chosun.com/politics/diplomacy-defense/2026/10/17/COJ4PV7VJZCJBDNIOY3MOD72ZI/",
+    "title": "[단독] 안보 부처 세종 이전 지난달엔 “검토 안해”",
+    "summary": [
+      "[단독] 안보 부처 세종 이전 지난달엔 “검토 안해”."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n15912eec",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "13분 전",
+    "url": "https://www.chosun.com/jp/politics-national-jp/2026/10/17/K6P22GVC5VERZFLRXPXX52XS5U/",
+    "title": "韓国最長の栗峴トンネル、床面また隆起",
+    "summary": [
+      "韓国最長の栗峴トンネル、床面また隆起."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nacbd66bc",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "18분 전",
+    "url": "https://www.donga.com/news/Politics/article/all/20261017/134858107/1",
+    "title": "‘조희대 탄핵’ 전운 다시 고조…與 “인내 한계” 野 ‘정권 몰락’ 경고",
+    "summary": [
+      "더불어민주당이 조희대 대법원장에 대한 탄핵 가능성을 시사하면서 한동안 수면 아래로 가라앉았던 ‘탄핵소추론’이 다시 고개를 들고 있다.",
+      "당내 강경파를 중심으로 탄핵을 촉구 목소리가 이어지면서 실제 법안 발의로까지 이어질지 주목된다.국민의힘은 조 대법원장 탄핵이 현실화할 경우 정권 몰락의 시발점이 될 것이라며 대여 압박 수위를 높이는 모습이다.김민석 민주당 대표는 전날(14일) 국회에서 열린 최고위원회의에서 “대법원장의 처신을 국민들께서 지켜보고."
+    ],
+    "chips": [
+      "#정책",
+      "#정치"
+    ]
+  },
+  {
+    "id": "n7402c2cd",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "35분 전",
+    "url": "https://www.yna.co.kr/view/AKR20261017004700071",
+    "title": "트럼프, 우크라 스타실드 장애에 \"내가 한일 아냐…누군지 몰라\"",
+    "summary": [
+      "(워싱턴=연합뉴스) 홍정규 특파원 = 도널드 트럼프 미국 대통령은 16일(현지시간) 우크라이나의 대(對)러시아 드론 작전에 필수적인 스타실드 시..."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "nbb324aea",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "46분 전",
+    "url": "https://www.yna.co.kr/view/AKR20261017004500072",
+    "title": "美 철강 가격, 4년여만에 최고…트럼프 관세로 공급 부족",
+    "summary": [
+      "(뉴욕=연합뉴스) 김연숙 특파원 = 미국 내 철강 가격이 4년여만에 최고치로 치솟았다.",
+      "도널드 트럼프 미국 대통령이 수입산 철강에 부과한 관세 ..."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "nbcd44ff6",
+    "category": "IT",
+    "source": "연합뉴스",
+    "time": "1시간 전",
+    "url": "https://www.yna.co.kr/view/AKR20261017004200091",
+    "title": "아이폰 듀오, 예약 첫날부터 \"내년 1월말 배송\"…출시 전 품귀",
+    "summary": [
+      "(샌프란시스코=연합뉴스) 권영전 특파원 = 애플이 새로 선보인 첫 접이식(폴더블) 스마트폰 '아이폰 듀오'가 사전 예약 첫날부터 초기 물량이 동..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
     "id": "nc7e4db36",
     "category": "경제",
     "source": "테크M",
-    "time": "방금 전",
+    "time": "2시간 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=156193",
     "title": "홍라희, 삼성SDS 주식 3233주 전량 매도...보유 지분 정리",
     "summary": [
@@ -365,7 +556,7 @@ window.NEWS_DB = [
     "id": "nb0736602",
     "category": "부동산",
     "source": "테크M",
-    "time": "방금 전",
+    "time": "2시간 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=156194",
     "title": "'GTA6', 청소년이용불가로 국내 등급분류 통과...11월 정식 출시",
     "summary": [
@@ -379,58 +570,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n5ed575c4",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "2분 전",
-    "url": "https://www.newsis.com/view/NISX20261017_0003829806",
-    "title": "교황, 수술 후 첫 사진 공개…\"병원서 직접 미사 집전\"",
-    "summary": [
-      "[서울=뉴시스]신정원 기자 = 레오 14세 교황의 폐 수술 이후 첫 사진이 16일(현지 시간) 공개됐다고 외신들이 보도했다.",
-      "사진에는 교황이 이날 낮 12시께 제멜리 병원 임시 예배당에 서서 직접 미사를 집전하는 모습이 담겨 있다.",
-      "수술 이후 교황의 모습이 공개된 것은 처음이다."
-    ],
-    "chips": [
-      "#의료"
-    ]
-  },
-  {
-    "id": "n6a80664c",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "3분 전",
-    "url": "https://www.newsis.com/view/NISX20261016_0003828374",
-    "title": "태권도장서 7세 아이 '다리 찢기'하다 허벅지뼈 골절…父 \"고소 결심\" (영상)",
-    "summary": [
-      "[서울=뉴시스]강주연 인턴 기자 = 태권도장에서 강제로 다리 찢기를 하다가 7세 아동의 허벅지뼈가 부러진 사연이 전해져 논란이 일고 있다.",
-      "지난 15일 JTBC '사건반장'에 따르면 피해 아동의 아버지 A씨는 아들이 태권도장에서 다친 경위와 사고 이후 관장의 대응을 공개했다.",
-      "A씨에 따르면 지난 6월18일 관장으로부터 아들의 다리가 부러진 것 같다는 연락을 받았다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nf05ad0e7",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "3분 전",
-    "url": "https://www.newsis.com/view/NISX20261016_0003828683",
-    "title": "\"콘돔에 구멍 내 출산율 높이자\"…홍콩 기업인 황당 주장",
-    "summary": [
-      "[서울=뉴시스]장인혜 인턴 기자 = 홍콩에서 저출생 문제를 해결하기 위해 일부러 구멍이 난 불량 콘돔을 일정 비율 유통하도록 정부가 강제하자는 주장이 나와 논란이 일고 있다.",
-      "지난 9일 홍콩 HK01에 따르면 홍콩 부동산 기업 중위안그룹과 현지 매체 암730의 창업자인 스융칭은 이날 기고한 칼럼에서 \"콘돔의 등장이 출산율 하락의 주요 원인\"이라고 주장했다.",
-      "그는 출산율을 높이려면 경제적 지원뿐 아니라 피임 수단에도 주목해야 한다고 강조했다."
-    ],
-    "chips": [
-      "#부동산"
-    ]
-  },
-  {
     "id": "n0b26e9ee",
     "category": "스포츠",
     "source": "동아일보",
-    "time": "23분 전",
+    "time": "3시간 전",
     "url": "https://www.donga.com/news/Sports/article/all/20261017/134857599/2",
     "title": "밀워키 4연승, 거함 다저스 격침… 44년만에 월드시리즈 진출",
     "summary": [
@@ -446,7 +589,7 @@ window.NEWS_DB = [
     "id": "n115f583f",
     "category": "스포츠",
     "source": "동아일보",
-    "time": "23분 전",
+    "time": "3시간 전",
     "url": "https://www.donga.com/news/Sports/article/all/20261017/134857593/2",
     "title": "오현규 2골 1도움 폭발… 조규성은 동점골",
     "summary": [
@@ -462,7 +605,7 @@ window.NEWS_DB = [
     "id": "nbfb02541",
     "category": "스포츠",
     "source": "동아일보",
-    "time": "23분 전",
+    "time": "3시간 전",
     "url": "https://www.donga.com/news/Sports/article/all/20261017/134857597/2",
     "title": "김도영 “또 넘겨주마” 박해민 “다 잡아주마”",
     "summary": [
@@ -475,159 +618,14 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n77d0ccb2",
-    "category": "스포츠",
-    "source": "동아일보",
-    "time": "23분 전",
-    "url": "https://www.donga.com/news/Sports/article/all/20261017/134857595/2",
-    "title": "“한화 재건 첫 과제는 투수진 역할 정립”",
-    "summary": [
-      "“팬들이 ‘최강 한화’를 외칠 때 자부심을 느낄 수 있게 하겠다.” 주황색 넥타이를 매고 주황색 유니폼 상의를 걸친 류지현 프로야구 한화 신임 감독(55)은 미소를 잃지 않으면서도 단호하게 말했다.",
-      "류 감독은 16일 대전 한화생명볼파크에서 열린 취임 기자회견에서 “지속 가능한 강팀을 만들겠다.",
-      "빈틈을 하나하나씩 채워 상위권에서 우승의 문을 계속 두드리다 보면 우승에 가까워지는 시기가 올 것”이라고 자신감을 드러냈다."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
-    "id": "n270eac0d",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "31분 전",
-    "url": "https://www.chosun.com/jp/sports-jp/2026/10/17/BPO3MJV6ABHOXH66ORYAVTVWPU/",
-    "title": "アン・セヨン、ベスト4へ第1ゲーム先取",
-    "summary": [
-      "【OSEN＝ハン・ヨンソプ記者】「世界最強」のアン・セヨン（世界ランキング1位）がデンマーク・オープン2連覇へ順調に歩みを進めている。アン・セヨンは17日（韓国時間）、デンマーク・オーデンセのSJFバンク・アリーナで行われた2026年世界バドミントン連盟（BWF）ワールドツアー、デンマーク・オープン（スーパー750）女子シングルス準々決勝で、インドの10代有望株タンビ・シャルマ（世界ランキング24位）を相手に第1ゲームを21－15で先取した。第1ゲーム."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n031f225a",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "33분 전",
-    "url": "https://www.yna.co.kr/view/AKR20261017001500082",
-    "title": "[게시판] 한국-오스트리아 방산협력 포럼",
-    "summary": [
-      "[게시판] 한국-오스트리아 방산협력 포럼."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n56490c57",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "43분 전",
-    "url": "https://www.yna.co.kr/view/AKR20261017001200071",
-    "title": "공화당은 포기했는데…트럼프, 조지아·노스캐롤라이나 왜 갈까",
-    "summary": [
-      "(워싱턴=연합뉴스) 홍정규 특파원 = 도널드 트럼프 미국 대통령의 11월 중간선거 유세 장소 가운데 고개를 갸웃거리게 만드는 곳들이 더러 있다."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "ne16c7a21",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "51분 전",
-    "url": "https://www.newsis.com/view/NISX20261017_0003829802",
-    "title": "젤렌스키, 트럼프와 갈등 속 \"국익 위해서라면 美에도 맞설 것\"",
-    "summary": [
-      "[서울=뉴시스]신정원 기자 = 볼로디미르 젤렌스키 우크라이나 대통령은 16일(현지 시간) 자국의 이익을 위해 필요하다면 미국에도 맞설 수 있다고 강조했다.",
-      "키이우인디펜던트(KI)에 따르면 젤렌스키 대통령은 유럽연합(EU) 정상회의가 열리고 있는 벨기에 브뤼셀에서 기자회견을 통해 \"나는 오직 우크라이나의 이익과 국민만을 위해 맞서고 있다.",
-      "우리는 침략당했고 점령당했으며 국민들은 살해됐다\"며 이같이 말했다."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n37a0f441",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "55분 전",
-    "url": "https://www.chosun.com/international/international_general/2026/10/17/GA3TSYZZHA3TQNLFHEYWGZRVGQ/",
-    "title": "젤렌스키, 트럼프 겨냥해 “러시아와 ‘경유딜’ 부적절”",
-    "summary": [
-      "볼로디미르 젤렌스키 우크라이나 대통령이 국제 시장에서 러시아산 경유의 판매 재개를 허용한 도널드 트럼프 미국 대통령의 조치가 “부적절하다”고 비판했다.",
-      "젤렌스키 대통령은 16일(현지 시각) 벨기에 브뤼셀에서 열린 유럽연합(EU) 정상회의를 계기로 열린 기자회견에서 트럼프 대통령이 블라디미르 푸틴 러시아 대통령과 맺은 ‘경유딜’을 부적절하다고 지적했다."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "nd279a55a",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "57분 전",
-    "url": "https://www.yna.co.kr/view/AKR20261017000900098",
-    "title": "세우타 사태로 상호 국경 검문하던 伊·스페인, 갈등 수습 국면",
-    "summary": [
-      "(브뤼셀=연합뉴스) 현윤경 특파원 = 북아프리카의 스페인령 세우타에서 벌어진 이주민 난입 사태 이후 상호 국경 검문 조치를 도입하며 신경전을 벌..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n9f3d8a18",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "59분 전",
-    "url": "https://www.yna.co.kr/view/AKR20261017000700071",
-    "title": "중간선거 조작될 거란 마가…트럼프에 '계엄령·선거중단' 요구",
-    "summary": [
-      "(워싱턴=연합뉴스) 백나리 특파원 = 도널드 트럼프 미국 대통령의 핵심 지지층 '마가'(MAGA)에서 중간선거 조작 우려를 제기하며 계엄령이나 ..."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
     "id": "n75725e72",
     "category": "경제",
     "source": "한국경제",
-    "time": "2시간 전",
+    "time": "5시간 전",
     "url": "https://www.hankyung.com/article/2026100529947",
     "title": "[오늘의 운세] 10월 17일 띠별 운세",
     "summary": [
       "[오늘의 운세] 10월 17일 띠별 운세."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n5860d7fb",
-    "category": "경제",
-    "source": "한국경제",
-    "time": "2시간 전",
-    "url": "https://www.hankyung.com/article/2026100529247",
-    "title": "[오늘의 운세] 오늘 뭐 먹지?…10월 17일 띠별 추천 점심메뉴",
-    "summary": [
-      "[오늘의 운세] 오늘 뭐 먹지?…10월 17일 띠별 추천 점심메뉴."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n28719d34",
-    "category": "경제",
-    "source": "한국경제",
-    "time": "2시간 전",
-    "url": "https://www.hankyung.com/article/2026100529497",
-    "title": "[오늘의 운세] 2026년 10월 17일 별자리 운세",
-    "summary": [
-      "[오늘의 운세] 2026년 10월 17일 별자리 운세."
     ],
     "chips": [
       "#뉴스"
@@ -640,18 +638,18 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2070건",
-    "trend": "+215%"
+    "mentions": "2200건",
+    "trend": "+235%"
   },
   {
     "rank": 2,
-    "tag": "KBO",
+    "tag": "AI",
     "mentions": "1680건",
     "trend": "+155%"
   },
   {
     "rank": 3,
-    "tag": "AI",
+    "tag": "반도체",
     "mentions": "1550건",
     "trend": "+135%"
   }
