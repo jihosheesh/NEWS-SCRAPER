@@ -1,11 +1,26 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-10-15 23:24:30
+// 마지막 업데이트: 2026-10-16 02:09:12
 window.NEWS_DB = [
+  {
+    "id": "nd5deba14",
+    "category": "IT",
+    "source": "https://www.koreasprint.com/",
+    "time": "1시간 전",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5pVDdodngzRWtGcUo1TnBwMnl6YWlPRF94Mkg5dE1nLW1Xa0dIb1YzLU1ES2JoVlNOSHBlTTcwMkQzVkw2aDBpLVAzb3dRZlRIdGdmLWo4alR2OHVRNzZVWFFaRmtmRjR0UWszOE5n?oc=5",
+    "title": "K-반도체, 저전력 NPU로 엔비디아 독점 판도 흔든다… 하드웨어 최고 수준 넘어 생태계 확장 본격화",
+    "summary": [
+      "K-반도체, 저전력 NPU로 엔비디아 독점 판도 흔든다… 하드웨어 최고 수준 넘어 생태계 확장 본격화 https://www.koreasprint.com/."
+    ],
+    "chips": [
+      "#반도체",
+      "#엔비디아"
+    ]
+  },
   {
     "id": "naa4457cf",
     "category": "IT",
     "source": "딜사이트",
-    "time": "15시간 전",
+    "time": "17시간 전",
     "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9uMDhsTmhidTdsb0p6TmpJQ3Y2WTNyY2NmN25OMzczaWlNM2lHSmxUMWtJeUFiLWozdXVWa3Ftc21LekgxakFGU0dtZGpaQjg?oc=5",
     "title": "TSMC 사상 최대 실적…K반도체에 ‘수요 신호’",
     "summary": [
@@ -19,7 +34,7 @@ window.NEWS_DB = [
     "id": "nc5b05ed5",
     "category": "사회",
     "source": "Vietnam.vn",
-    "time": "18시간 전",
+    "time": "21시간 전",
     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQbG9DUmpnR09nN09DX3Nmb2JrMC05VW1qeVhhX3Q1UFJSTXdIXzk0WWJWYXprUEpqX3MtVklna2pnZEo2UmhqMGVBamJMNm1WQXNtSzF0c0JRQ2hiNDRCOFgxQUF0MnQ2MWdmYmJqT0hJUGVqZ2hpTnBBY1UydHU1RE93?oc=5",
     "title": "지역 사회의 근로자들에게 더 가까운 곳에서 일자리를 제공합니다.",
     "summary": [
@@ -33,7 +48,7 @@ window.NEWS_DB = [
     "id": "nae8fa30f",
     "category": "IT",
     "source": "자본시장뉴스",
-    "time": "21시간 전",
+    "time": "1일 전",
     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9Nd1BHQ1NKQ2FPYnBCOFRLQV9MTUNJbGdKVi1Oal9tY0JDQk1ub3VDNlVXTXRSYTJqdl9tdWNYOUlnSUxGNERhY0lrMUZiOVBlOFlqSWZYLVNCUFNNSENsaVpRRS1qckE?oc=5",
     "title": "삼성전자 zHBM·SK하이닉스 HBF…차세대 메모리 맞대결",
     "summary": [
@@ -49,7 +64,7 @@ window.NEWS_DB = [
     "id": "nc939f22d",
     "category": "부동산",
     "source": "www.ebn.co.kr",
-    "time": "22시간 전",
+    "time": "1일 전",
     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5GOThNTy1FeFlYQU5xQWtQMkVGNzJJSkZfdUU2aFRSQkdBTVQ3U2xnb1ZsMjhZTlltaGhEQnJXUDVSazEzcGNERWJ5b2sxOHR6NnlmMjlHYUN3dTVWYldXYVhuVjZQRENs?oc=5",
     "title": "[10·15 대책 1년] 전세 품귀에 임대차 혼란…집값·분양가 연쇄 자극",
     "summary": [
@@ -61,26 +76,11 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n65610b14",
-    "category": "IT",
-    "source": "기호일보",
-    "time": "1일 전",
-    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA2djg1OENJTlpLV2ZWa1RaN09sY0JyZGJPemx6VGxjZkpvUl9qclJSLXR2MHEzMjBpVUZzUWpRWTVpWlNqN29tN1UyejI3VHZQclRjMHN1cTFlRnhaekttRlk5WjVsOEtuZTdkWnRTNA?oc=5",
-    "title": "엔비디아 AI 기술센터 송도에 둥지틀까 ‘촉각’",
-    "summary": [
-      "엔비디아 AI 기술센터 송도에 둥지틀까 ‘촉각’ 기호일보."
-    ],
-    "chips": [
-      "#AI",
-      "#엔비디아"
-    ]
-  },
-  {
-    "id": "n0be7f5b9",
+    "id": "n1a55896a",
     "category": "IT",
     "source": "녹색경제신문",
     "time": "1일 전",
-    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE16Tl9oTlJhWkFzZU5zdTdTb3hXLVAzMXZ1NVNzUC1yUWRLV3V1WEZzcDI0RmhYa3JOd2hwaFFIZHI3QnBHcngzR3JWcUhVeXZUZi1OMzNvakRfUUlFSENGMlpOd25XUzhV?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE92bG0wR1FxMzJzYmJuM0FUNFg5alhMNVBzN2tVRE9td2lrV2Y3TnpnWEVPal8zOVloOTVYM2xkWWpYZ2ZreEttUC0xYXYxb3RmQ0RhLTM0aE5RS1VXVnBkQjA2N3hLZWM?oc=5",
     "title": "[SEDEX 2026] 삼성전자 'zHBM' vs 하이닉스 'HBF'…AI 메모리 청사진 대결",
     "summary": [
       "[SEDEX 2026] 삼성전자 'zHBM' vs 하이닉스 'HBF'…AI 메모리 청사진 대결 녹색경제신문."
@@ -126,7 +126,7 @@ window.NEWS_DB = [
     "id": "n45ed4ca0",
     "category": "IT",
     "source": "뉴시스",
-    "time": "1일 전",
+    "time": "2일 전",
     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5walZMUVY1b3QwTmdqdmFVdXJDdTdaTG9saUk2M3dUam9iLUlMenQzOWtoR1Jkd2psZmRhZncwM2lsLXp2cXAwWUxKcE1YQlBIWDI0dDBYWEpxUDZrbW5NQmpMWkRtUjhQbkRtRThFSmgtQXk0b0hmUNIBeEFVX3lxTE5walZMUVY1b3QwTmdqdmFVdXJDdTdaTG9saUk2M3dUam9iLUlMenQzOWtoR1Jkd2psZmRhZncwM2lsLXp2cXAwWUxKcE1YQlBIWDI0dDBYWEpxUDZrbW5NQmpMWkRtUjhQbkRtRThFSmgtQXk0b0hmUA?oc=5",
     "title": "엔비디아, 中 AI 반도체 시장 점유율 34%…화웨이, 28%로 맹추격",
     "summary": [
@@ -153,10 +153,25 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n4a582e92",
+    "category": "부동산",
+    "source": "헤럴드경제",
+    "time": "2일 전",
+    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBjdkhYR2I1Y3RWbTdjYUV3VmFmb1FaRXZDUy1BZGN3Yms1Rl9jS19IRTB5OVVueDZMblo5eWdxRmRDZ3M1elQ1R2F0b0otT3V1RlU4OFFB?oc=5",
+    "title": "전세난에 집값까지 ‘들썩’…서울 아파트 분양 전망 3개월만에 ‘청신호’ [부동산360]",
+    "summary": [
+      "전세난에 집값까지 ‘들썩’…서울 아파트 분양 전망 3개월만에 ‘청신호’ [부동산360] 헤럴드경제."
+    ],
+    "chips": [
+      "#부동산",
+      "#전세"
+    ]
+  },
+  {
     "id": "n103b5455",
     "category": "사회",
     "source": "뉴스핌",
-    "time": "2일 전",
+    "time": "3일 전",
     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9LNTNsOXRVTUUzZkF3OU04Q1V3Uk52TmtSMk9ySVh3Ymgtc0Vob2NVbTVsa1NNaldYQi05NTdacVNZUlZCOGZfU2pqbWNYMGZkVUIxazIwcHFrdDVK?oc=5",
     "title": "세종시 '내일이음 취업박람회' 16일 개최…충청 기업 114곳 참여",
     "summary": [
@@ -179,20 +194,6 @@ window.NEWS_DB = [
     "chips": [
       "#스타트업",
       "#채용"
-    ]
-  },
-  {
-    "id": "n6437e9c6",
-    "category": "부동산",
-    "source": "뉴스투데이",
-    "time": "17일 전",
-    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5XV1l2ek85Vl9kOFJOazhqcDg5UTd6cjBrWE95Tlp1XzVTOHZHLUxlQWppWk4zbDJVT1FoakJKcHhQbUJGMnNFYk83cy1WYVZOdFVwMHNaWjQwSFNLblE?oc=5",
-    "title": "[N2 포커스] 가을 분양·입주 쏟아지는 수도권…지방은 물량 반토막·집값 약세",
-    "summary": [
-      "[N2 포커스] 가을 분양·입주 쏟아지는 수도권…지방은 물량 반토막·집값 약세 뉴스투데이."
-    ],
-    "chips": [
-      "#부동산"
     ]
   },
   {
@@ -235,20 +236,6 @@ window.NEWS_DB = [
     ],
     "chips": [
       "#KBO"
-    ]
-  },
-  {
-    "id": "n3bf091c2",
-    "category": "스포츠",
-    "source": "한국경제",
-    "time": "24일 전",
-    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9nY3BENG1heVF4amFVRDZ5M0Q3V09uYWZTRmZEZlcxZTJzc08zU2RBM3BRSEh6aTZPVDR2blc0YjZrNUhnMHNDUVN0M0pKMTBDVWxlUWhtZ1Zudw?oc=5",
-    "title": "\"손흥민 533만원·페이커 1100만원\"…해외선 없어서 못 산다",
-    "summary": [
-      "\"손흥민 533만원·페이커 1100만원\"…해외선 없어서 못 산다 한국경제."
-    ],
-    "chips": [
-      "#손흥민"
     ]
   },
   {
@@ -296,6 +283,21 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "nb9bdfdfb",
+    "category": "스포츠",
+    "source": "푸드투데이",
+    "time": "139일 전",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9BVmpLTU1zOFZsU1RWVmVOSXppaWhDWFBBRkF4akI3WHBIcXIyX2pXa3JaeXplMm9vbmE4cU1PclhFTXVZdURxQ0RCYTF3aFNsbmRKcTZ5VE9na0cwakQ2XzNuWlJ5QQ?oc=5",
+    "title": "‘손흥민 월드콘.KBO몽쉘’ 축구.야구팬 다 잡자...롯데웰푸드, 스포츠마케팅 총력",
+    "summary": [
+      "‘손흥민 월드콘.KBO몽쉘’ 축구.야구팬 다 잡자...롯데웰푸드, 스포츠마케팅 총력 푸드투데이."
+    ],
+    "chips": [
+      "#손흥민",
+      "#KBO"
+    ]
+  },
+  {
     "id": "nba668fc0",
     "category": "IT",
     "source": "한국방송뉴스",
@@ -310,324 +312,326 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "na1d788c0",
-    "category": "부동산",
-    "source": "아시아경제",
-    "time": "1분 전",
-    "url": "https://view.asiae.co.kr/article/2026101608224562215",
-    "title": "관악구, 공영차고지 유휴부지에 임시주차장 95면 조성…무료 개방",
+    "id": "nd7aa9f51",
+    "category": "IT",
+    "source": "테크M",
+    "time": "방금 전",
+    "url": "https://www.techm.kr/news/articleView.html?idxno=156172",
+    "title": "[기자수첩] MMORPG, 그립감이 좋다",
     "summary": [
-      "서울 관악구(구청장 박준희)는 주택가와 지역 상권의 주차난을 덜기 위해 신림2·3 공영차고지 유휴부지에 임시 공영주차장 95면을 조성하고 무료로 개방한다고 16일 밝혔다.",
-      "별도의 부지 매입 없이 기존 차고지의 남는 공간을 활용했다.신림1 공영차고지로 기능을 옮기면서 빈 공간이 생긴 신림2 공영차고지(대학동 241-4)와 신림3 공영차고지(서림동 131-6 외 8필지) 일부가 임시주차장으로 바뀐다.",
-      "대학동은 정비시설을 제외한 약 1300㎡에 51."
+      "한동안 국내 모바일 게임 시장의 주류에서 멀어지는 듯했던 MMORPG 장르가 다시 존재감을 높이고 있다.",
+      "하반기에만 컴투스의 '제우스: 오만의 신'과 스마일게이트 '이클립스: 더 어웨이크닝'에 이어 카카오게임즈의 '도깨비의세계'까지 매출 상위권이 이름을 올리면서다.",
+      "신작 흥행을 둘러싼 경쟁이 치열해지는 가운데 한국 게이머들에게 익숙한 장르가 다시 이용자들의 선택을 받고 있다는 점은 의미가 크다."
     ],
     "chips": [
-      "#교육"
+      "#카카오",
+      "#환경"
     ]
   },
   {
-    "id": "n46d747f8",
+    "id": "nf856897c",
+    "category": "IT",
+    "source": "테크M",
+    "time": "방금 전",
+    "url": "https://www.techm.kr/news/articleView.html?idxno=156169",
+    "title": "카카오게임즈 '도깨비의세계' 롱런 청신호...'한국적 콘텐츠' 통했다",
+    "summary": [
+      "카카오게임즈가 선보인 신작 '도깨비의세계'가 국내외 시장에서 롱런 가능성을 높이고 있다.",
+      "한국적인 콘텐츠를 주무기로 내세워 국내 모바일게임 시장 상위권에 안착하는 모습을 보이면서다.",
+      "16일 게임업계에 따르면 지난 8일 정식 출시된 도깨비의세계는 13일부터 구글 매출 1위 자리를 유지하고 있다."
+    ],
+    "chips": [
+      "#카카오"
+    ]
+  },
+  {
+    "id": "n2be32ac6",
+    "category": "스포츠",
+    "source": "테크M",
+    "time": "방금 전",
+    "url": "https://www.techm.kr/news/articleView.html?idxno=156168",
+    "title": "[ASL 통신] 통산 5회 우승 겨냥한 '철벽' 김민철 vs 첫 정상 노리는 '단단한 창' 유영진",
+    "summary": [
+      "SOOP이 개최하는 스타크래프트 리그 구글플레이 ASL 시즌22가 최후의 승부만을 남겨두고 있습니다.",
+      "오는 17일 서울 송파구 잠실 롯데월드 아이스링크 특설무대에서 2026 구글플레이 ASL 시즌22 결승전이 열립니다.",
+      "올해로 11주년을 맞이한 이번 대회는 프릭업 스튜디오를 벗어나 대형 야외 특설무대에서 유관중으로 치러지는데요."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n9b5b4e05",
+    "category": "IT",
+    "source": "테크M",
+    "time": "방금 전",
+    "url": "https://www.techm.kr/news/articleView.html?idxno=156167",
+    "title": "하이트진로, 경찰관 2900여명에 간식차 지원…소방관 이어 치안 현장까지 사회공헌 확대",
+    "summary": [
+      "하이트진로가 소방공무원에 이어 경찰관 지원에 나섰다.",
+      "국민의 안전을 책임지는 현장 근무자들의 노고를 격려하기 위한 것으로, 충남지역 경찰관 2900여명을 대상으로 간식차를 운영한다.",
+      "기존 소방 분야에 집중했던 사회공헌 활동을 치안 분야로 넓히는 첫 시도다.16일 하이트진로에 따르면 지난 14일 천안서북경찰서를 시작으로 다음 달 4일까지 충남지역 경찰관서 7곳에서 '감사의 간식차'를 운영한다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n713494cf",
     "category": "IT",
     "source": "아시아경제",
-    "time": "1분 전",
-    "url": "https://view.asiae.co.kr/article/2026101608224255996",
-    "title": "경기도, 공공도서관 65곳서 '도서관 AI 배움터' 운영",
+    "time": "방금 전",
+    "url": "https://view.asiae.co.kr/article/2026101514345737343",
+    "title": "[산업의 맥]AI의 2막, 중소기업의 미래를 바꾼다",
     "summary": [
-      "경기도가 '도서관 AI 배움터'를 운영한다.",
-      "경기도는 AI 전문 강사로 구성된 멘토단이 오는 12월까지 도내 20개 시군 65개 공공도서관을 순회하며 이용자 맞춤형 AI 교육을 진행하는 '도서관 AI 배움터'를 한다고 16일 밝혔다.",
-      "이 사업은 도민들이 가장 쉽게 찾는 공공도서관을 AI 교육 거점으로 활용하기 위해 '경기 AI디지털배움터' 사업과 시군 공공도서관을 연계한 프로젝트다."
-    ],
-    "chips": [
-      "#AI",
-      "#교육"
-    ]
-  },
-  {
-    "id": "ne01f8633",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "2분 전",
-    "url": "https://www.newsis.com/view/NISX20261016_0003828344",
-    "title": "나노팀, 임시주총 앞두고 의결권 대리행사 권유 활동 나서",
-    "summary": [
-      "[서울=뉴시스] 김경택 기자 = 전동화 열관리소재 전문기업 나노팀은 다음 달 2일 열리는 임시주주총회를 앞두고 의결권 대리행사 권유 활동에 나선다고 16일 밝혔다.",
-      "회사 측에 따르면 이번 임시주총에서는 이사 보수한도 승인을 비롯해 정관 일부 변경, 이사의 수 변경, 감사위원회 설치 관련 근거 조항 신설 등의 안건이 상정된다.",
-      "나노팀은 주주들에게 각 안건의 주요 내용과 추진 배경을 충실히 전달하고, 의결권 행사에 필요한 절차를 안내할 계획이다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "ne618cae3",
-    "category": "경제",
-    "source": "조선일보",
-    "time": "2분 전",
-    "url": "https://www.chosun.com/economy/stock-finance/2026/10/16/SUTG2N4JTBDDRMISFPC4CT5Q3E/",
-    "title": "증시 급락·초기 수익률 부진에…2차 국민성장펀드, 목표액 못 채우고 판매 종료",
-    "summary": [
-      "증시 급락·초기 수익률 부진에…2차 국민성장펀드, 목표액 못 채우고 판매 종료."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nb273ac88",
-    "category": "사회",
-    "source": "아시아경제",
-    "time": "3분 전",
-    "url": "https://view.asiae.co.kr/article/2026101608210314675",
-    "title": "[클릭 e종목]\"신세계, 원화 강세에 따른 투자심리 훼손…목표가↓\"",
-    "summary": [
-      "한국투자증권은 16일 신세계에 대해 원화 강세로 투자심리가 훼손됐다고 보고 목표주가를 기존 75만원에서 53만원으로 하향 조정했다.",
-      "투자의견은 '매수'를 유지했다.",
-      "김명주 한국투자증권 연구원은 \"백화점과 면세점의 실적 추정치 하향과 함께 밸류에이션 조정에 따라 목표주가를 기존 대비 29.3% 하향 조정한다\"면서 \"7월부터 원화 강세가 나타나면서 아웃바운드 수요가 회복됐고 백화점 산업 내 외국인 매출은 감소했다."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "nbda6212c",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "3분 전",
-    "url": "https://www.donga.com/news/Society/article/all/20261016/134852414/1",
-    "title": "“요양병원 ‘묻지마 입원’에 건보지출…5년간 5.5조”",
-    "summary": [
-      "입원 필요성이 낮은데도 요양병원 등에 장기간 입원하는 현상인 ‘사회적 입원’ 환자에게 최근 5년간 건강보험 재정 5조5000억원이 쓰인 것으로 나타났다.",
-      "특히 이들 경증 입원환자의 절반 가량은 장기요양 등급을 받아 집에서 방문요양 서비스를 받을 수 있는 상태였다.",
-      "고령화로 인해 의료적 필요성보다 요양과 돌봄 필요도가 높은 노인이 병원에 머무르면서 노인 의료비 지출에 대한 사회적 비용이 커지고 있다는 지적이 나오고 있다."
-    ],
-    "chips": [
-      "#정치",
-      "#의료"
-    ]
-  },
-  {
-    "id": "nc5c8805f",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "4분 전",
-    "url": "https://www.newsis.com/view/NISX20261016_0003828340",
-    "title": "\"먹거리 기본권 함께 챙긴다\" 풀무원푸드머스, 취약계층 지원 확대",
-    "summary": [
-      "[서울=뉴시스]김상윤 기자 = 풀무원푸드머스가 한국사회복지관협회와 손잡고 취약계층의 먹거리 지원과 복지 증진을 위한 사회공헌 활동을 확대한다고 16일 밝혔다.",
-      "풀무원푸드머스는 15일 서울 마포구 한국사회복지회관에서 한국사회복지관협회와 '취약계층의 먹거리 기본권 보장 및 건강한 삶 지원'을 위한 업무협약(MOU)을 체결했다.",
-      "협약식에는 문현기 풀무원푸드머스 영업본부장과 김건태 한국사회복지관협회 회장 등 관계자들이 참석했다."
-    ],
-    "chips": [
-      "#의료"
-    ]
-  },
-  {
-    "id": "n1c81b250",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "4분 전",
-    "url": "https://www.chosun.com/entertainments/broadcast/2026/10/16/G42TAZRZGEYDAOJUGIZGMMBTGU/",
-    "title": "김희정, 상처받은 정민아 마음 눈치챘나…이한위는 미행(‘엄마가미쳤어요’)",
-    "summary": [
-      "[OSEN=강서정 기자] ‘엄마가 미쳤어요’ 김희정이 딸 정민아의 눈물에 엄마의 촉을 발동시킨다.",
-      "16일 방송되는 KBS 1TV 일일드라마 ‘엄마가 미쳤어요’(연출 성준해, 극본 나승현) 15회에서는 조미미(김희정 분)의 전남편 강학성(이한위 분)이 마치 007 작전을 방불케 하는 수상한 행보를 보여 흥미를 더한다.앞서 조미미는 최순덕(양희경 분)에게 차남."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n456200a1",
-    "category": "IT",
-    "source": "조선일보",
-    "time": "5분 전",
-    "url": "https://www.chosun.com/economy/economy_general/2026/10/16/TENMCIK46RDKZCZLT53HJC7SGM/",
-    "title": "똑같은 ‘AI반도체’인데...대만은 외인 매도 폭탄 어떻게 버텼나 [왕개미연구소]",
-    "summary": [
-      "똑같은 ‘AI반도체’인데...대만은 외인 매도 폭탄 어떻게 버텼나 [왕개미연구소]."
-    ],
-    "chips": [
-      "#AI",
-      "#반도체"
-    ]
-  },
-  {
-    "id": "n8e726be6",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "5분 전",
-    "url": "https://www.newsis.com/view/NISX20261016_0003828338",
-    "title": "이마트24, 김창수 위스키 '김포 2026 에디션' 1700병 한정 판매",
-    "summary": [
-      "[서울=뉴시스]오제일 기자 = 이마트24가 16일부터 국내 대표 싱글몰트 위스키 브랜드 김창수 위스키의 '김포 2026 에디션'을 한정수량 판매한다.",
-      "'김포 2026 에디션'은 2023년부터 매년 한 차례 출시되는 김창수 위스키 김포 시리즈의 2026년 에디션으로 총 1700병 한정 수량으로 선보인다.",
-      "이마트24는 서로 다른 매력을 지닌 4종의 셰리 캐스크를 조합해 깊고 풍부한 풍미를 구현했다고 소개했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n649f5c05",
-    "category": "경제",
-    "source": "머니투데이",
-    "time": "5분 전",
-    "url": "https://www.mt.co.kr/entertainment/2026/10/16/2026101608197270584",
-    "title": "안희연, 송지효·수애와 한식구...넥서스이엔엠 전속계약 [공식]",
-    "summary": [
-      "배우 안희연이 송지효, 수애가 소속된 넥서스이엔엠과 전속계약을 맺었다.",
-      "넥서스이엔엠은 16일 \"다채로운 매력을 지닌 배우 안희연과 함께하게 돼 기쁘다.",
-      "탄탄한 연기력과 자신만의 색깔을 갖춘 배우인 만큼 역량을 마음껏 펼칠 수 있도록 적극 지원하겠다\"며 안희연과 전속계약 체결 소식을 밝혔다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n0adc99a5",
-    "category": "IT",
-    "source": "뉴시스",
-    "time": "5분 전",
-    "url": "https://www.newsis.com/view/NISX20261016_0003828339",
-    "title": "케이웨더, IoT 무덕트형 환기청정기 신제품 공개",
-    "summary": [
-      "[서울=뉴시스] 김경택 기자 = 날씨 인공지능(AI) 플랫폼 기업 케이웨더는 한국토지주택공사(LH)의 가이드라인 기준을 충족하도록 설계된 'IoT(사물인터넷) 무덕트형(카세트형) 환기청정기' 신제품 3종을 선보였다고 16일 밝혔다.",
-      "회사 측에 따르면 그동안 케이웨더는 실내외 공기질 측정과 데이터 분석 기술을 바탕으로 공간유형과 사용목적에 따라 최적의 방식으로 운전하는 환기청정솔루션을 개발해 왔다.",
-      "창문·벽걸이형, 스탠드형, 천장형 등 다양한 제."
+      "인공지능(AI)의 시대가 새로운 국면에 접어들고 있다.",
+      "질문에 답하고 문서를 작성하던 생성형 AI의 시대를 지나, 이제 AI는 목표를 이해하고 계획을 세워 실제 업무를 수행하는 에이전틱(Agentic) AI로 진화하고 있다.",
+      "다음 단계는 현실 세계를 인식하고 로봇과 기계를 움직이는 피지컬(Physical) AI다."
     ],
     "chips": [
       "#AI"
     ]
   },
   {
-    "id": "n4827d78d",
-    "category": "경제",
-    "source": "연합뉴스",
-    "time": "5분 전",
-    "url": "https://www.yna.co.kr/view/AKR20261016020800009",
-    "title": "코어위브 공동창업자 3명, 이미 4.5조원 주식매각",
+    "id": "nf1d7f39e",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "1분 전",
+    "url": "https://www.newsis.com/view/NISX20261016_0003828793",
+    "title": "창원문화재단 대표이사 후보자는?…변영태 전 의장 선정",
     "summary": [
-      "(서울=연합뉴스) 이성한 기자 = 금리 상승으로 신용 위험이 급등한 네오클라우드 업체 중 하나인 코어위브의 공동창업자 3명이 지난해 3월 기업공..."
+      "[창원=뉴시스]강경국 기자 = 경남 창원시 산하기관인 창원문화재단의 대표이사 임용후보자로 변영태(67) 전 진해시의회 의장이 선정됐다.",
+      "창원문화재단은 대표이사 공개채용 결과 변 후보자를 임용후보자로 선정했다고 16일 밝혔다.",
+      "창원문화재단은 성산아트홀과 3·15아트홀, 진해아트홀 등을 기반으로 공연·전시·문화예술교육과 문화복지 사업 등을 수행하는 창원시 출연기관이다."
     ],
     "chips": [
-      "#금리"
+      "#채용",
+      "#교육"
     ]
   },
   {
-    "id": "nf536ab98",
+    "id": "nc1c3496a",
     "category": "경제",
-    "source": "머니투데이",
-    "time": "5분 전",
-    "url": "https://www.mt.co.kr/entertainment/2026/10/16/2026101608187224528",
-    "title": "방탄소년단 뷔, 파리 패션위크 불참에도 52억 효과…압도적 1위",
+    "source": "아시아경제",
+    "time": "1분 전",
+    "url": "https://view.asiae.co.kr/article/2026101610414537378",
+    "title": "\"서울 15배가 잿더미\"…인니 최악의 대형 산불에 주변국까지 '독성연기' 골머리",
     "summary": [
-      "약 52억 원 미디어 가치 창출…브랜드 관련 인플루언서 중 1위 그룹 방탄소년단(BTS) 뷔가 파리 패션위크 쇼에 참석하지 않고도 약 52억 원의 미디어 가치를 창출하며 막강한 영향력을 입증했다.",
-      "글로벌 인플루언서 마케팅 분석 플랫폼 레프티(Lefty)는 최근 2027 S/S 파리 패션위크에서 발생한 미디어 가치를 분석한 보고서를 공개했다.",
-      "미디어 가치는 지난 9월 28일부터 10월 7일까지 소셜 콘텐츠를 통해 발생한 브랜드 노출 효과를 광고비."
+      "인도네시아에서 발생한 대형 산불이 확산하면서 독성 연기가 싱가포르와 말레이시아 등 주변국까지 뒤덮고 있다.",
+      "수마트라와 칼리만탄 일대 하늘은 짙은 연기와 함께 주황빛으로 물들었고, 일부 지역에서는 학교가 문을 닫는 등 피해가 이어지고 있다.지난 14일(현지시간) BBC 등에 따르면 인도네시아 산불로 발생한 연기가 싱가포르와 말레이시아까지 퍼지면서 대기질이 크게 악화했다.",
+      "말레이시아 일부 지역에서는 학생들의 건강을 우려해 수업을 중단하거나 휴교 조."
+    ],
+    "chips": [
+      "#교육",
+      "#의료"
+    ]
+  },
+  {
+    "id": "n5e97d9fa",
+    "category": "IT",
+    "source": "뉴시스",
+    "time": "1분 전",
+    "url": "https://www.newsis.com/view/NISX20261016_0003828797",
+    "title": "앤트로픽, 韓 저서 불법 다운로드 논란…한강·김영하 등 포함",
+    "summary": [
+      "[서울=뉴시스] 조기용 기자 = 인공지능(AI) 클로드(Claude)를 운영하는 미국 AI 기업 앤트로픽이 한강, 황석영, 김애란, 김영하 등 한국 작가들의 작품을 불법 다운로드했던 것으로 뒤늦게 드러났다.",
+      "16일 앤트로픽 저작권 합의 사이트에 따르면 한강의 '소년이 온다'·'채식주의자'·'흰', 김애란의 '두근두근 내 인생', 황석영의 '손님', 김영하의 '검은 꽃', '살인자의 기억법 등 소설집' 등의 전자책이 앤트로픽으로부터 불법 다운로드."
+    ],
+    "chips": [
+      "#AI"
+    ]
+  },
+  {
+    "id": "n8f782361",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "1분 전",
+    "url": "https://www.donga.com/news/Society/article/all/20261016/134853466/1",
+    "title": "낸시랭, 음주운전 혐의로 경찰 조사…사건 발생 한 달여만",
+    "summary": [
+      "서울 강남구에서 음주운전을 한 혐의를 받는 팝아티스트 겸 방송인 낸시랭이 사건 발생 한 달여 만에 경찰 조사를 받고 있는 것으로 확인됐다.16일 경찰에 따르면 서울 강남경찰서는 이날 오전부터 도로교통법상 음주운전 혐의로 낸시랭씨를 소환 조사 중이다.낸시랭은 지난달 8일 오전 3시45분께 강남구 일대에서 음주 운전을 한 혐의를 받는다.신고를 받고 출동한 경찰은 낸시랭을 임의동행했으며 다행히 인명피해 등 사고는 발생하지 않았다.검거 당시 그의 혈중."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n15253e1e",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "2분 전",
+    "url": "https://www.newsis.com/view/NISX20261016_0003828771",
+    "title": "현숙 \"母 돌아가신 뒤 보니 이불 밑에 3800만원이…\"",
+    "summary": [
+      "[서울=뉴시스] 남정현 기자 = 가수 현숙이 효열비가 세워졌을 당시를 회상했다.",
+      "17일 오후 9시 방송되는 JTBC '아는 형님'에는 배우 이계인과 가수 김연자, 현숙이 출연한다.",
+      "김연자는 자신의 히트곡 '수은등'이 김신영 덕분에 널리 알려졌다고 감사함을 드러낸다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nb7f2a49b",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "2분 전",
+    "url": "https://www.newsis.com/view/NISX20261016_0003828790",
+    "title": "민주, 부산서 \"부마항쟁정신 헌법 전문 수록\"…'북항 돔·부산 도움' 구호도(종합)",
+    "summary": [
+      "[서울·부산=뉴시스]신재현 한재혁 권신혁 기자 = 더불어민주당이 16일 부산을 찾아 \"부마항쟁정신의 헌법 전문 수록을 추진하겠다\"고 약속했다.",
+      "아울러 \"북항하면 돔, 부산하면 도움\"이라는 구호로 부산에 대한 전폭적인 지원을 약속했다.",
+      "김민석 대표는 이날 부산 동구 민주당 부산시당에서 열린 현장 최고위원회의에서 \"부마항쟁 47주년에 (부산에서) 최고위원회를 열게 돼 특별히 더 의미가 있다\"고 말했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n0579e850",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "3분 전",
+    "url": "https://www.donga.com/news/Economy/article/all/20261016/134853456/1",
+    "title": "‘고하중 SUV 전용설계’ 겨울노면 공략…피렐리, 스콜피온 윈터3 공개",
+    "summary": [
+      "피렐리가 스포츠유틸리티차량(SUV)의 차체 특성에 맞춰 안전성과 주행 성능을 끌어올린 3세대 겨울용 타이어 ‘스콜피온 윈터3(Scorpion Winter 3)’를 공개했다.",
+      "이번 신제품은 최근 개편을 마친 피렐리의 동계 타이어 라인업을 마무리짓는 모델로, 저온 환경에서 SUV가 요구하는 주행 조건에 맞춰 설계됐다.글로벌 신차 시장의 절반 이상을 점유하는 SUV는 일반 승용차에 비해 무게가 무겁고 중심이 높아 전용 내부 구조와 패턴 설계가 필수적."
     ],
     "chips": [
       "#환경"
     ]
   },
   {
-    "id": "ne807c34e",
+    "id": "n2a1d2e43",
     "category": "사회",
-    "source": "연합뉴스",
-    "time": "6분 전",
-    "url": "https://www.yna.co.kr/view/AKR20261016020600087",
-    "title": "브라질 대선 막판까지 접전…보우소나루 51% vs 룰라 49%",
+    "source": "동아일보",
+    "time": "4분 전",
+    "url": "https://www.donga.com/news/Economy/article/all/20261016/134853358/1",
+    "title": "글렌이글스 ‘더 아메리칸 바’, 시그니엘 서울서 하루 바스왑 행사",
     "summary": [
-      "(멕시코시티=연합뉴스) 송광호 특파원 = 오는 25일(현지시간) 치러지는 브라질 대선 결선투표를 앞두고 우파 성향인 플라비우 보우소나루 상원의원..."
+      "스코틀랜드 글렌이글스 호텔의 ‘더 아메리칸 바’가 오는 22일 서울을 찾는다.",
+      "시그니엘 서울은 22일 오후 7시 호텔 내 ‘BAR 81’에서 더 아메리칸 바와 바스왑(bar swap) 행사를 연다고 16일 밝혔다.",
+      "바스왑은 서로 다른 바의 바텐더들이 한 바에 모여 각자의 칵테일을 선보이는 행사다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "ne1882bd9",
+    "id": "ndf133074",
+    "category": "부동산",
+    "source": "아시아경제",
+    "time": "4분 전",
+    "url": "https://view.asiae.co.kr/article/2026101519255203872",
+    "title": "경기도 아파트 56주 연속 상승… 규제지역 상승폭 서울 웃돌아",
+    "summary": [
+      "경기도 아파트 매매가격지수가 56주 연속 오른 것으로 나타났다.",
+      "서울 아파트값이 이번 주까지 88주 연속 상승세로 매주 새 기록을 써가는 가운데 서울과 맞닿은 경기 일부 권역에선 서울보다 상승률이 높은 수준을 보였다.",
+      "16일 한국부동산원이 집계한 주간 아파트 가격동향 통계를 보면 경기도 전체 기준 매매가격지수는 지난해 9월 3주 차 이후 최근까지 56주 연속 오른 것으로 나타났다."
+    ],
+    "chips": [
+      "#부동산",
+      "#정책"
+    ]
+  },
+  {
+    "id": "n9f9e2a27",
     "category": "경제",
     "source": "아시아경제",
-    "time": "6분 전",
-    "url": "https://view.asiae.co.kr/article/2026101608174124041",
-    "title": "도봉 쌍문생활권 지구단위계획 변경안 수정가결…준주거 용적률 440%로",
+    "time": "4분 전",
+    "url": "https://view.asiae.co.kr/article/2026101611043600463",
+    "title": "하늘 나는 차 현실로? 테슬라, 초음속 추력·공중 부양 품은 '로드스터' 공개",
     "summary": [
-      "서울 도봉구(구청장 김동욱)는 지난 14일 열린 제17차 서울시 도시·건축공동위원회에서 '쌍문생활권중심 지구단위계획구역 및 계획 변경안'이 수정가결됐다고 16일 밝혔다.",
-      "변경안에는 준주거지역 허용 용적률을 360%에서 440%로 올리고, 도봉로변 건물 최고 높이를 50m에서 100m 이하로 완화하는 내용이 담겼다.쌍문생활권중심 지구단위계획은 도봉보건소 사거리 인근 도봉로 일대가 대상이다.",
-      "구는 2006년 계획 결정 이후 도시 여건이 크게 변한."
+      "\"영화 속 본드카를 뛰어넘는 물건이 탄생했다\" 테슬라가 15일(현지시간) 텍사스 맥그리거 소재 스페이스X 로켓 테스트 센터에서 고속 가속 성능과 공중 부양이 가능한 혁신적인 기술 집약체인 차세대 로드스터를 전격 공개했다.",
+      "일론 머스크 테슬라 CEO는 이 차가 영화 속에 등장하는 어떤 특수 차량보다 뛰어난 성능을 자랑하며, 자동차 공학의 새로운 지평을 열 것이라고 자신했다.",
+      "신형 로드스터는 정지 상태에서 시속 60마일(약 96km/h)까지 단 0."
     ],
     "chips": [
-      "#의료"
+      "#뉴스"
     ]
   },
   {
-    "id": "n7e9890d9",
+    "id": "nd70789b8",
     "category": "사회",
     "source": "연합뉴스",
-    "time": "7분 전",
-    "url": "https://www.yna.co.kr/view/AKR20261016022100030",
-    "title": "GS25 '식물원김밥' 협업 신제품 출시…이달 김밥 매출 36.2%↑",
+    "time": "5분 전",
+    "url": "https://www.yna.co.kr/view/AKR20261016063900001",
+    "title": "차기 총선, 정부 견제론 우세…'與 승리' 34%·'野 승리' 47%[한국갤럽]",
     "summary": [
-      "(서울=연합뉴스) 정수연 기자 = GS리테일이 운영하는 편의점 GS25는 유명 맛집부터 해외 SNS에서 화제를 모은 레시피 등 다양한 트렌드를 ..."
+      "(서울=연합뉴스) 김정진 기자 = 2028년 치러지는 제23대 총선에서 여당 후보보다 야당 후보의 다수 당선을 바라는 여론이 우세하다는 여론조사..."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "na80e6824",
-    "category": "IT",
-    "source": "머니투데이",
-    "time": "8분 전",
-    "url": "https://www.mt.co.kr/tech/2026/10/16/2026101608085657382",
-    "title": "갤S26 울트라 등 삼성전자 3개 제품, 美 타임지 '2026년 최고의 발명품'",
-    "summary": [
-      "삼성전자의 갤럭시 S26 울트라와 비스포크 AI 패밀리허브 냉장고, 오디세이 G8 게이밍 모니터가 미국 시사주간지 타임(TIME)의 '2026 최고의 발명품(The Best Inventions of 2026)'에 선정됐다.",
-      "타임지는 15일(현지시간) 소비자 가전 부문에서 갤럭시 S26 울트라, 생활가전 부문에서 비스포크 AI 패밀리허브 냉장고, 엔터테인먼트·게이밍 부문에서 오디세이 G8 게이밍 모니터를 각각 선정했다."
-    ],
-    "chips": [
-      "#AI",
-      "#삼성전자"
-    ]
-  },
-  {
-    "id": "n78545063",
-    "category": "스포츠",
+    "id": "n48c3c199",
+    "category": "사회",
     "source": "연합뉴스",
-    "time": "9분 전",
-    "url": "https://www.yna.co.kr/view/AKR20261016021700007",
-    "title": "인판티노 사과에도 유럽은 반대…\"답 안 하면 회장 자격 없어\"",
+    "time": "5분 전",
+    "url": "https://www.yna.co.kr/view/AKR20261016064200009",
+    "title": "美초교서 10대 총격범이 어린이 3명과 교사 살해…시민이 사살(종합)",
     "summary": [
-      "(서울=연합뉴스) 안홍석 기자 = 잔니 인판티노 국제축구연맹(FIFA) 회장이 월드컵 지분 매각 시도에 대해 FIFA 평의회에서 사과했지만, 유..."
+      "(샌프란시스코·서울=연합뉴스) 권영전 특파원 김승욱 기자 = 미국 서부 오리건주의 한 초등학교에 침입한 16세 청소년이 대낮 수업중 총기를 발사..."
+    ],
+    "chips": [
+      "#교육"
+    ]
+  },
+  {
+    "id": "n103ed906",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "5분 전",
+    "url": "https://www.yna.co.kr/view/AKR20261016067800542",
+    "title": "[컬처&레저] 운현궁서 궁중·사대부가 전통음식 축제",
+    "summary": [
+      "(서울=연합뉴스) 이동경 기자 = 유네스코 인류무형유산으로 등재된 한국의 장 담그기와 김장 문화의 역사적 가치를 도심 속 고궁에서 생생하게 만날..."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n6d9c831f",
+    "id": "nc5e5e182",
+    "category": "부동산",
+    "source": "동아일보",
+    "time": "6분 전",
+    "url": "https://www.donga.com/news/Society/article/all/20261016/134853422/2",
+    "title": "70대 부부 숨진 채 발견…병간호한 아내 살해 추정",
+    "summary": [
+      "경기 고양시에서 70대 부부가 숨진 채 발견돼 경찰이 수사하고 있다.16일 경찰과 소방 당국 등에 따르면 전날 오전 1시 40분경 고양시 덕양구의 한 아파트에서 “어머니가 숨져 있고 아버지는 실종됐다”는 가족의 신고가 접수됐다.",
+      "출동한 경찰은 아파트 주변을 수색하던 중 화단에서 70대 남편이 숨져 있는 것을 발견했다.",
+      "70대 아내는 뇌졸중으로 거동이 어려워 남편이 수년간 아내를 병간호해 온 것으로 파악됐다."
+    ],
+    "chips": [
+      "#부동산"
+    ]
+  },
+  {
+    "id": "n9efd2456",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "6분 전",
+    "url": "https://www.yna.co.kr/view/AKR20261016067200055",
+    "title": "임실 박경수 고택, 국가등록문화유산 지정…\"전통·현대 공존\"",
+    "summary": [
+      "(임실=연합뉴스) 김동철 기자 = 전통과 근대가 공존하는 전북 임실군의 '박경수 고택'이 '임실 성가리 근대한옥'이라는 명칭으로 국가등록문화유산..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n3b756c8e",
     "category": "경제",
     "source": "연합뉴스(경제)",
-    "time": "11분 전",
-    "url": "https://www.yna.co.kr/view/AKR20261016020900008",
-    "title": "[마켓뷰] 휘청했던 코스피, 변동성 이어지나 반등 시도하나",
+    "time": "9분 전",
+    "url": "https://www.yna.co.kr/view/AKR20261016049100055",
+    "title": "미래에셋자산운용, 전북혁신도시에 전주사무소 개소",
     "summary": [
-      "(서울=연합뉴스) 김유아 기자 = 전날 7%대의 급락으로 폭락장세를 이어가고 있는 코스피가 16일 추가 변동성을 보일지, 간밤 뉴욕증시의 상승에..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nd95edc11",
-    "category": "경제",
-    "source": "머니투데이",
-    "time": "11분 전",
-    "url": "https://www.mt.co.kr/finance/2026/10/16/2026101517275611382",
-    "title": "[알림]금융산업 혁신을 이끈 주인공을 찾습니다",
-    "summary": [
-      "대한민국 금융산업의 혁신을 이끈 '2026 대한민국 금융혁신대상'의 주인공을 찾습니다.",
-      "머니투데이가 금융위원회 등과 함께 금융 혁신을 대표할 금융인과 금융상품·서비스를 발굴해 시상합니다.",
-      "금융혁신대상에 참가를 원하는 금융회사는 신청서와 설명서를 준비해 제출하시면 됩니다."
+      "(전주=연합뉴스) 김동철 기자 = 국내 대표 자산운용사인 미래에셋자산운용이 전북혁신도시에 전주사무소를 열고 지역 금융생태계 내실화에 나섰다."
     ],
     "chips": [
       "#뉴스"
@@ -640,18 +644,18 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2200건",
-    "trend": "+235%"
+    "mentions": "2330건",
+    "trend": "+255%"
   },
   {
     "rank": 2,
-    "tag": "AI",
-    "mentions": "1940건",
-    "trend": "+195%"
+    "tag": "반도체",
+    "mentions": "1550건",
+    "trend": "+135%"
   },
   {
     "rank": 3,
-    "tag": "반도체",
+    "tag": "부동산",
     "mentions": "1550건",
     "trend": "+135%"
   }
