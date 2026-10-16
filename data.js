@@ -1,6 +1,36 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-10-16 12:49:52
+// 마지막 업데이트: 2026-10-16 17:03:36
 window.NEWS_DB = [
+  {
+    "id": "n7bb1afa2",
+    "category": "IT",
+    "source": "디지털투데이",
+    "time": "12시간 전",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1ULWNsczVZcDZxWFVOSFZNVFVsTG0zaUk3ZTR3M01UZFk5Y09MdnpORXE1OWFsTjhGSnRxUWkxNDg4OWNVdEVFTlB2NkFvblBVYVNOQnY4QUNXS2prS3djeWc3eUViejc5NXJhUllVOE5MVzQ?oc=5",
+    "title": "엔비디아 제약에 대안 찾는 바이트댄스…미디어텍과 맞춤형 AI 칩 논의",
+    "summary": [
+      "엔비디아 제약에 대안 찾는 바이트댄스…미디어텍과 맞춤형 AI 칩 논의 디지털투데이."
+    ],
+    "chips": [
+      "#AI",
+      "#엔비디아"
+    ]
+  },
+  {
+    "id": "n745b7e34",
+    "category": "IT",
+    "source": "머니투데이",
+    "time": "14시간 전",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBWNjBiakxmTTR6TTh1Y01iTHFvYzFTQ25KUjUwQ3NtWTRfbUhiQ25xZHNCZVV1LV9SZ0RMZlpBUGR3akwxVlhyLTdWeE1icldUcjlpeGxpNUJJVVVrVEhPdlJHU1hzSnAtVTBZN0p30gFuQVVfeXFMUFY2MGJqTGZNNHpNOHVjTWJMcW9jMVNDbkpSNTBDc21ZNF9tSGJDbnFkc0JlVXUtX1JnRExmWkFQZHdqTDFWWHItN1Z4TWJyV1RyOWl4bGk1QklVVWtUSE92UkdTWHNKcC1VMFk3Snc?oc=5",
+    "title": "AI시대 주도할 미국 반도체주 집중 투자하는 ETF 나온다 - 머니투데이",
+    "summary": [
+      "AI시대 주도할 미국 반도체주 집중 투자하는 ETF 나온다 - 머니투데이 머니투데이."
+    ],
+    "chips": [
+      "#AI",
+      "#반도체"
+    ]
+  },
   {
     "id": "nc5b05ed5",
     "category": "사회",
@@ -34,12 +64,12 @@ window.NEWS_DB = [
   {
     "id": "nc939f22d",
     "category": "부동산",
-    "source": "www.ebn.co.kr",
+    "source": "ebn.co.kr",
     "time": "1일 전",
     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5GOThNTy1FeFlYQU5xQWtQMkVGNzJJSkZfdUU2aFRSQkdBTVQ3U2xnb1ZsMjhZTlltaGhEQnJXUDVSazEzcGNERWJ5b2sxOHR6NnlmMjlHYUN3dTVWYldXYVhuVjZQRENs?oc=5",
     "title": "[10·15 대책 1년] 전세 품귀에 임대차 혼란…집값·분양가 연쇄 자극",
     "summary": [
-      "[10·15 대책 1년] 전세 품귀에 임대차 혼란…집값·분양가 연쇄 자극 www.ebn.co.kr."
+      "[10·15 대책 1년] 전세 품귀에 임대차 혼란…집값·분양가 연쇄 자극 ebn.co.kr."
     ],
     "chips": [
       "#부동산",
@@ -47,11 +77,11 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n1a55896a",
+    "id": "n0be7f5b9",
     "category": "IT",
     "source": "녹색경제신문",
     "time": "2일 전",
-    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE92bG0wR1FxMzJzYmJuM0FUNFg5alhMNVBzN2tVRE9td2lrV2Y3TnpnWEVPal8zOVloOTVYM2xkWWpYZ2ZreEttUC0xYXYxb3RmQ0RhLTM0aE5RS1VXVnBkQjA2N3hLZWM?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE16Tl9oTlJhWkFzZU5zdTdTb3hXLVAzMXZ1NVNzUC1yUWRLV3V1WEZzcDI0RmhYa3JOd2hwaFFIZHI3QnBHcngzR3JWcUhVeXZUZi1OMzNvakRfUUlFSENGMlpOd25XUzhV?oc=5",
     "title": "[SEDEX 2026] 삼성전자 'zHBM' vs 하이닉스 'HBF'…AI 메모리 청사진 대결",
     "summary": [
       "[SEDEX 2026] 삼성전자 'zHBM' vs 하이닉스 'HBF'…AI 메모리 청사진 대결 녹색경제신문."
@@ -60,22 +90,6 @@ window.NEWS_DB = [
       "#AI",
       "#반도체",
       "#삼성전자"
-    ]
-  },
-  {
-    "id": "n6e0e5cc1",
-    "category": "IT",
-    "source": "한국경제",
-    "time": "2일 전",
-    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE10VHRWNERaLU15SnI3Q21xTkpZalo4ODJJdTYyX3FVc296NDR5VVpTNVpHUzkteXpkdUE5aXN4OVRldTl2T1F4RmxzbVlFbWhLRk5UWGNRQS1HQQ?oc=5",
-    "title": "美 규제 덫 걸린 엔비디아…中 AI칩 점유율 34%로 급락",
-    "summary": [
-      "美 규제 덫 걸린 엔비디아…中 AI칩 점유율 34%로 급락 한국경제."
-    ],
-    "chips": [
-      "#AI",
-      "#엔비디아",
-      "#정책"
     ]
   },
   {
@@ -94,11 +108,11 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "ned1e48ce",
+    "id": "n45ed4ca0",
     "category": "IT",
     "source": "뉴시스",
     "time": "2일 전",
-    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1odWhNSVZESmhlU090SzhyUWt0S0JKOUN1MHAyRVlocFVMX3JLWldxdUVaWHVma1dpWUF4Tksyb1otcGZlczBBdU5meDc0VE9YSkZUazAwVkk1MkZFWWJvMNIBeEFVX3lxTE5walZMUVY1b3QwTmdqdmFVdXJDdTdaTG9saUk2M3dUam9iLUlMenQzOWtoR1Jkd2psZmRhZncwM2lsLXp2cXAwWUxKcE1YQlBIWDI0dDBYWEpxUDZrbW5NQmpMWkRtUjhQbkRtRThFSmgtQXk0b0hmUA?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5walZMUVY1b3QwTmdqdmFVdXJDdTdaTG9saUk2M3dUam9iLUlMenQzOWtoR1Jkd2psZmRhZncwM2lsLXp2cXAwWUxKcE1YQlBIWDI0dDBYWEpxUDZrbW5NQmpMWkRtUjhQbkRtRThFSmgtQXk0b0hmUNIBeEFVX3lxTE5walZMUVY1b3QwTmdqdmFVdXJDdTdaTG9saUk2M3dUam9iLUlMenQzOWtoR1Jkd2psZmRhZncwM2lsLXp2cXAwWUxKcE1YQlBIWDI0dDBYWEpxUDZrbW5NQmpMWkRtUjhQbkRtRThFSmgtQXk0b0hmUA?oc=5",
     "title": "엔비디아, 中 AI 반도체 시장 점유율 34%…화웨이, 28%로 맹추격",
     "summary": [
       "엔비디아, 中 AI 반도체 시장 점유율 34%…화웨이, 28%로 맹추격 뉴시스."
@@ -137,22 +151,6 @@ window.NEWS_DB = [
     ],
     "chips": [
       "#스타트업"
-    ]
-  },
-  {
-    "id": "nfbb15f80",
-    "category": "IT",
-    "source": "경향신문",
-    "time": "3일 전",
-    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBvUGI3RG9WN3BVQVpVNlVLd2hwbjQzTmFLMjgwZDFRM0RpYW5RZEYxTGZPX1JVS29vbnFualY1NFJ0bmJtdnZ0NXJINm5IczZpRGJOTUVsc2VPUdIBX0FVX3lxTFBLb2dOd2NsT0hVRnNocnRseE9MY0FYOXVBcmVLSmY2VklyMVltS0NBekZHVmJjRDY3XzNqaUtRbHRIVXpac3MwX3E1X1dpWHo2RzJxWkE5d2R2Mlg3UXZn?oc=5",
-    "title": "MS, 자체 AI 반도체 ‘마이아 300’ 공개…엔비디아 의존도 낮춘다",
-    "summary": [
-      "MS, 자체 AI 반도체 ‘마이아 300’ 공개…엔비디아 의존도 낮춘다 경향신문."
-    ],
-    "chips": [
-      "#AI",
-      "#반도체",
-      "#엔비디아"
     ]
   },
   {
@@ -228,14 +226,14 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n1ebf737b",
+    "id": "n891b0cd6",
     "category": "스포츠",
-    "source": "글로벌E",
+    "source": "뉴시안",
     "time": "25일 전",
-    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1xdGdqbUJjMXkyZFRRYi1ETklIZmlIQlFHYS1ZemlEaU5IQ0hCQkR1Wm5pYVVJUl9jX2s3Z08ydEpxdFM2elFVdjNFdlhxMlRsUVhQY3JKRVdRWG5WUlpOR2hNemdnbVdrWElv0gFvQVVfeXFMT1QxRDNTbjRoMk5ZWVBmRllQU2Z2b1IyY0hYZEx1LWc0aFhSb083aGdYc1ZQNDhrN0NncVZGclFwVnV0RGNoNTNmcXkwSzF5dTdxZnVRYlFQOTZDblRRWkpDUzNCOUpoMEJmbkRYa1Nz?oc=5",
-    "title": "이베이, K-스포츠 굿즈 역직구 급증···KBO 매출 전년 대비 2.9배↑",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8yWDNZR3Y3VjZvc3hFYzZFd0NvWVo0dnFOLThlWm5feUVWZTRYc0l0YzREU0hhd0xoWWF0WHRxUXJYSExvMkdQS2pXQWdhNmdOXzNRYUxrTmxoNnNZUHVlNTQ4Skd6eTktc3fSAW5BVV95cUxOd1lnc0FxSllXZzVjOFJjOEh4UjVPQ21HRnhqVVBIYzJLRDlISFNiZnZnSjk5OTBnVTVsS2tqSENHMDZhRkI5ZWZEZmJqQ0EyS2R6bTkxaUR4UHdXeGZFSjFzdW5KdTNxNmhQX1h0UQ?oc=5",
+    "title": "KBO 굿즈 매출 3배로… K-스포츠 굿즈, 소장템 부상",
     "summary": [
-      "이베이, K-스포츠 굿즈 역직구 급증···KBO 매출 전년 대비 2.9배↑ 글로벌E."
+      "KBO 굿즈 매출 3배로… K-스포츠 굿즈, 소장템 부상 뉴시안."
     ],
     "chips": [
       "#KBO"
@@ -381,252 +379,255 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "ned3d7d94",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "4분 전",
-    "url": "https://www.chosun.com/jp/culture-life-jp/2026/10/16/LUM5P4IDO5ABLCCISI4PGEJBVU/",
-    "title": "キム・ガヨン、夫イム・ヨファンに食事配達「差し入れ」",
-    "summary": [
-      "【OSEN＝チェ・ジヨン記者】女優キム・ガヨンが夫イム・ヨファンの食事を用意した。16日、ユーチューブチャンネル「キム・ガヨン、イム・ヨファンのゲーム夫婦」には「ご飯3膳ぺろり！ キム・ガヨンの人生テンジャンチゲレシピ2種（黒テンジャンチゲVSトスニネ｜使用製品・秘法を全公開）」というタイトルの動画が掲載された。この日、キム・ガヨンはテンジャンチゲのレシピを公開するとして制作陣を自宅に招いた。本格的な撮影が始まる前."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "ncc85fa55",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "4분 전",
-    "url": "https://www.chosun.com/entertainments/broadcast/2026/10/16/MJTDGOLGMU3TGMJVHE2TGYJZMU/",
-    "title": "김가연, ♥임요환 코 앞까지 음식 배달 \"사식 넣어 주는 거야\"",
-    "summary": [
-      "[OSEN=최지연 기자] 배우 김가연이 남편 임요환의 식사를 챙겼다.",
-      "16일 유튜브 채널 '김가연 임요환의 게임부부'에는 '밥 세 공기 뚝딱! 김가연 인생 된장찌개 레시피 2종 (흑된장찌개 vs 또순이네｜사용 제품·비법 총공개)'라는 제목의 영상이 게재됐다.",
-      "이날 김가연은 된장찌개 레시피를 공개한다며 제작진을 집으로 초대했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n471421b0",
-    "category": "스포츠",
-    "source": "뉴시스",
-    "time": "5분 전",
-    "url": "https://www.newsis.com/view/NISX20261016_0003829774",
-    "title": "부천 도장공장 화재 현장서 인화성 추정 용기 180여 개 발견",
-    "summary": [
-      "[부천=뉴시스] 김지현 기자 = 경기 부천시의 한 도장공장 화재 현장에서 인화성으로 추정되는 용기 180여 개가 발견됐다.",
-      "16일 경기도소방재난본부에 따르면 부천 도장공장 화재 현장에서 발견된 용기 180여 개에 위험물이 담겨 있었는지 등을 조사하고 있다.",
-      "불이 난 해당 공장은 위험물 취급 허가를 받은 이력이 없는 것으로 파악됐다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n3b2992fb",
+    "id": "n5ed575c4",
     "category": "사회",
     "source": "뉴시스",
-    "time": "5분 전",
-    "url": "https://www.newsis.com/view/NISX20261016_0003829767",
-    "title": "박기량 이름 검색했다가 '당혹'…황당한 SNS 오류, 무슨 일이",
+    "time": "2분 전",
+    "url": "https://www.newsis.com/view/NISX20261017_0003829806",
+    "title": "교황, 수술 후 첫 사진 공개…\"병원서 직접 미사 집전\"",
     "summary": [
-      "[서울=뉴시스]정지연 인턴 기자 = 치어리더 박기량이 자신의 SNS 계정이 부적절한 이름으로 표시되는 일을 겪었다고 밝혔다.",
-      "일부 이용자의 검색 결과에서 자신의 이름과 전혀 어울리지 않는 문구가 나타나면서 박기량은 직접 상황을 공개하고 의문을 드러냈다.",
-      "박기량은 지난 15일 자신의 SNS에 계정 검색 화면을 캡처한 사진을 게재했다."
+      "[서울=뉴시스]신정원 기자 = 레오 14세 교황의 폐 수술 이후 첫 사진이 16일(현지 시간) 공개됐다고 외신들이 보도했다.",
+      "사진에는 교황이 이날 낮 12시께 제멜리 병원 임시 예배당에 서서 직접 미사를 집전하는 모습이 담겨 있다.",
+      "수술 이후 교황의 모습이 공개된 것은 처음이다."
+    ],
+    "chips": [
+      "#의료"
+    ]
+  },
+  {
+    "id": "n6a80664c",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "3분 전",
+    "url": "https://www.newsis.com/view/NISX20261016_0003828374",
+    "title": "태권도장서 7세 아이 '다리 찢기'하다 허벅지뼈 골절…父 \"고소 결심\" (영상)",
+    "summary": [
+      "[서울=뉴시스]강주연 인턴 기자 = 태권도장에서 강제로 다리 찢기를 하다가 7세 아동의 허벅지뼈가 부러진 사연이 전해져 논란이 일고 있다.",
+      "지난 15일 JTBC '사건반장'에 따르면 피해 아동의 아버지 A씨는 아들이 태권도장에서 다친 경위와 사고 이후 관장의 대응을 공개했다.",
+      "A씨에 따르면 지난 6월18일 관장으로부터 아들의 다리가 부러진 것 같다는 연락을 받았다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "nce9fe3af",
+    "id": "nf05ad0e7",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "3분 전",
+    "url": "https://www.newsis.com/view/NISX20261016_0003828683",
+    "title": "\"콘돔에 구멍 내 출산율 높이자\"…홍콩 기업인 황당 주장",
+    "summary": [
+      "[서울=뉴시스]장인혜 인턴 기자 = 홍콩에서 저출생 문제를 해결하기 위해 일부러 구멍이 난 불량 콘돔을 일정 비율 유통하도록 정부가 강제하자는 주장이 나와 논란이 일고 있다.",
+      "지난 9일 홍콩 HK01에 따르면 홍콩 부동산 기업 중위안그룹과 현지 매체 암730의 창업자인 스융칭은 이날 기고한 칼럼에서 \"콘돔의 등장이 출산율 하락의 주요 원인\"이라고 주장했다.",
+      "그는 출산율을 높이려면 경제적 지원뿐 아니라 피임 수단에도 주목해야 한다고 강조했다."
+    ],
+    "chips": [
+      "#부동산"
+    ]
+  },
+  {
+    "id": "n0b26e9ee",
+    "category": "스포츠",
+    "source": "동아일보",
+    "time": "23분 전",
+    "url": "https://www.donga.com/news/Sports/article/all/20261017/134857599/2",
+    "title": "밀워키 4연승, 거함 다저스 격침… 44년만에 월드시리즈 진출",
+    "summary": [
+      "바야흐로 ‘머니볼 2.0’ 시대다.",
+      "‘골리앗’ 가운데 마지막까지 남았던 ‘신(新) 악의 제국’ LA 다저스마저 탈락했다.",
+      "이제 누가 이겨도 ‘다윗’이 미국프로야구 메이저리그(MLB) 월드시리즈(WS) 챔피언이 된다."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
+    "id": "n115f583f",
+    "category": "스포츠",
+    "source": "동아일보",
+    "time": "23분 전",
+    "url": "https://www.donga.com/news/Sports/article/all/20261017/134857593/2",
+    "title": "오현규 2골 1도움 폭발… 조규성은 동점골",
+    "summary": [
+      "한국 축구 대표팀 공격수 오현규(베식타시)와 조규성(미트윌란)이 유럽 클럽대항전에서 나란히 득점포를 가동했다.",
+      "베식타시(튀르키예)는 16일 독일 진스하임 라인네카어 아레나에서 열린 2026∼2027시즌 유럽축구연맹(UEFA) 유로파리그(UEL) 리그 페이즈 2차전에서 안방 팀 호펜하임을 3-2로 꺾었다.",
+      "이날 베식타시의 세 골 모두 오현규의 발끝에서 시작됐다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nbfb02541",
+    "category": "스포츠",
+    "source": "동아일보",
+    "time": "23분 전",
+    "url": "https://www.donga.com/news/Sports/article/all/20261017/134857597/2",
+    "title": "김도영 “또 넘겨주마” 박해민 “다 잡아주마”",
+    "summary": [
+      "이게 다 김도영(23·KIA) 때문이다.",
+      "이달 3일까지 3위였던 프로야구 LG는 결국 KIA에 밀려 4위로 정규시즌을 마쳤다.",
+      "그러면서 ‘가을 야구’도 와일드카드 결정전(WC)부터 시작해야 했다."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
+    "id": "n77d0ccb2",
+    "category": "스포츠",
+    "source": "동아일보",
+    "time": "23분 전",
+    "url": "https://www.donga.com/news/Sports/article/all/20261017/134857595/2",
+    "title": "“한화 재건 첫 과제는 투수진 역할 정립”",
+    "summary": [
+      "“팬들이 ‘최강 한화’를 외칠 때 자부심을 느낄 수 있게 하겠다.” 주황색 넥타이를 매고 주황색 유니폼 상의를 걸친 류지현 프로야구 한화 신임 감독(55)은 미소를 잃지 않으면서도 단호하게 말했다.",
+      "류 감독은 16일 대전 한화생명볼파크에서 열린 취임 기자회견에서 “지속 가능한 강팀을 만들겠다.",
+      "빈틈을 하나하나씩 채워 상위권에서 우승의 문을 계속 두드리다 보면 우승에 가까워지는 시기가 올 것”이라고 자신감을 드러냈다."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
+    "id": "n270eac0d",
     "category": "사회",
     "source": "조선일보",
-    "time": "6분 전",
-    "url": "https://www.chosun.com/jp/politics-national-jp/2026/10/16/CMS7TM2W3RAINMVZBH7PZQ3L3Y/",
-    "title": "「5・18は暴動」投稿の40代男性、控訴審で無罪",
+    "time": "31분 전",
+    "url": "https://www.chosun.com/jp/sports-jp/2026/10/17/BPO3MJV6ABHOXH66ORYAVTVWPU/",
+    "title": "アン・セヨン、ベスト4へ第1ゲーム先取",
     "summary": [
-      "「5・18は暴動」投稿の40代男性、控訴審で無罪."
+      "【OSEN＝ハン・ヨンソプ記者】「世界最強」のアン・セヨン（世界ランキング1位）がデンマーク・オープン2連覇へ順調に歩みを進めている。アン・セヨンは17日（韓国時間）、デンマーク・オーデンセのSJFバンク・アリーナで行われた2026年世界バドミントン連盟（BWF）ワールドツアー、デンマーク・オープン（スーパー750）女子シングルス準々決勝で、インドの10代有望株タンビ・シャルマ（世界ランキング24位）を相手に第1ゲームを21－15で先取した。第1ゲーム."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n7e97d78c",
-    "category": "경제",
-    "source": "한국경제",
-    "time": "8분 전",
-    "url": "https://www.hankyung.com/article/202610166818i",
-    "title": "백건우부터 이은결까지…2026 하슬라국제예술제, 강릉서 16일 개막",
-    "summary": [
-      "백건우부터 이은결까지…2026 하슬라국제예술제, 강릉서 16일 개막."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n5e1241be",
-    "category": "스포츠",
-    "source": "동아일보",
-    "time": "12분 전",
-    "url": "https://www.donga.com/news/Sports/article/all/20261016/134857800/1",
-    "title": "‘이정현 18점’ 고양 소노, 현대모비스 잡고 4연패 탈출",
-    "summary": [
-      "남자 프로농구 고양 소노가 울산 현대모비스를 잡고 4연패를 끊었다.소노는 16일 고양 소노 아레나에서 열린 KCC 2026-27 프로농구 정규시즌 홈 경기에서 현대모비스를 95-82로 따돌렸다.개막전 승리 후 4연패를 당했던 소노는 4연패를 끊고 2승4패를 기록, 8위에 자리했다.",
-      "1승4패의 현대모비스는 9위에 머물렀다.이날 소노는 자니 브라이언트가 27점 16리바운드로 더블더블을 달성했고 이정현이 18점, 어시스트 7개의 활약으로 승리에 앞장."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n061f21e0",
-    "category": "스포츠",
-    "source": "연합뉴스",
-    "time": "17분 전",
-    "url": "https://www.yna.co.kr/view/AKR20261016168200007",
-    "title": "[프로농구 중간순위] 16일",
-    "summary": [
-      "[프로농구 중간순위] 16일."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n5ea16292",
+    "id": "n031f225a",
     "category": "사회",
     "source": "연합뉴스",
-    "time": "18분 전",
-    "url": "https://www.yna.co.kr/view/AKR20261016173600504",
-    "title": "北, 'HGV 고도화' 韓입장에 \"우리 국방력강화 명분\"",
+    "time": "33분 전",
+    "url": "https://www.yna.co.kr/view/AKR20261017001500082",
+    "title": "[게시판] 한국-오스트리아 방산협력 포럼",
     "summary": [
-      "(서울=연합뉴스) 권수현 기자 = 북한은 16일, 우리 군의 극초음속활공비행체(HGV)가 소재 기술력으로 겉면 '그을음'이 발생하지 않았다는 설..."
+      "[게시판] 한국-오스트리아 방산협력 포럼."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n40e27169",
+    "id": "n56490c57",
     "category": "사회",
-    "source": "동아일보",
-    "time": "20분 전",
-    "url": "https://www.donga.com/news/Society/article/all/20261016/134857459/1",
-    "title": "尹 “재판 빙자한 사법테러”…평양 무인기 최후진술서 목청",
+    "source": "연합뉴스",
+    "time": "43분 전",
+    "url": "https://www.yna.co.kr/view/AKR20261017001200071",
+    "title": "공화당은 포기했는데…트럼프, 조지아·노스캐롤라이나 왜 갈까",
     "summary": [
-      "‘평양 무인기 투입 작전’과 관련해 일반이적 혐의로 기소된 윤석열 전 대통령의 2심에서 내란특검(특별검사 조은석)이 1심과 같은 징역 30년을 선고해 달라고 요청했다.",
-      "2심 선고는 12월 4일 오후 3시에 이뤄진다.특검팀은 16일 서울고법 형사1부(부장판사 윤성식) 심리로 열린 윤 전 대통령, 김용현 전 국방부 장관 등의 일반이적 혐의 항소심 결심 공판에서 윤 전 대통령과 김 전 장관에게 각각 징역 30년을 구형했다."
+      "(워싱턴=연합뉴스) 홍정규 특파원 = 도널드 트럼프 미국 대통령의 11월 중간선거 유세 장소 가운데 고개를 갸웃거리게 만드는 곳들이 더러 있다."
     ],
     "chips": [
       "#정치"
     ]
   },
   {
-    "id": "n17e4db81",
-    "category": "경제",
-    "source": "한국경제",
-    "time": "21분 전",
-    "url": "https://www.hankyung.com/article/2026101673647",
-    "title": "전 연인 살해 후 음독했나…60대 남성 위독한 상태로 발견",
-    "summary": [
-      "전 연인 살해 후 음독했나…60대 남성 위독한 상태로 발견."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "ne98fea24",
-    "category": "경제",
-    "source": "뉴시스",
-    "time": "22분 전",
-    "url": "https://www.newsis.com/view/NISX20261016_0003829763",
-    "title": "유로존 9월 인플레 3.8% 확정…8월 3.2%에서↑",
-    "summary": [
-      "[서울=뉴시스] 김재영 기자 = 유로존 21개국의 9월 소비자물가 연 인플레가 3.8%로 확정되었다고 16일 유럽연합 통계국이 발표했다.",
-      "지난 2일 나온 속보치가 그대로 확정된 것으로 8월의 3.2%에서 크게 상승했다.",
-      "유로존 연 인플레는 올 2월 1.9%에 머물렀으나 2월 말 이란전쟁 후 3월 2.6% 4월 3.0% 5월 3.2%로 상승했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nb25af1d5",
+    "id": "ne16c7a21",
     "category": "사회",
     "source": "뉴시스",
-    "time": "25분 전",
-    "url": "https://www.newsis.com/view/NISX20261016_0003829765",
-    "title": "스틸 美대사, 한미 관계 이상기류 속 저녁 외교부 비공개 방문",
+    "time": "51분 전",
+    "url": "https://www.newsis.com/view/NISX20261017_0003829802",
+    "title": "젤렌스키, 트럼프와 갈등 속 \"국익 위해서라면 美에도 맞설 것\"",
     "summary": [
-      "[서울=뉴시스] 박준호 기자 = 한미 관계 이상기류 논란 속에 미셸 스틸 주한미국대사가 16일 외교부를 방문해 대미 투자, 호르무즈 해협 파병 등 한미 관계 현안에 대해 의견을 교환한 것으로 알려졌다.",
-      "정부 관계자에 따르면 스틸 대사는 이날 저녁 외교부 고위당국자를 비공개로 만나 한미 간 입장차가 있는 현안을 논의한 것으로 알려졌다.",
-      "현재 한미 양국 간 현안으로는 대미 전략투자 프로젝트 발표 후 알래스카 LNG 사업 투자 이견 등 대미투자 지연."
+      "[서울=뉴시스]신정원 기자 = 볼로디미르 젤렌스키 우크라이나 대통령은 16일(현지 시간) 자국의 이익을 위해 필요하다면 미국에도 맞설 수 있다고 강조했다.",
+      "키이우인디펜던트(KI)에 따르면 젤렌스키 대통령은 유럽연합(EU) 정상회의가 열리고 있는 벨기에 브뤼셀에서 기자회견을 통해 \"나는 오직 우크라이나의 이익과 국민만을 위해 맞서고 있다.",
+      "우리는 침략당했고 점령당했으며 국민들은 살해됐다\"며 이같이 말했다."
     ],
     "chips": [
-      "#뉴스"
+      "#정치"
     ]
   },
   {
-    "id": "nda21affb",
-    "category": "경제",
-    "source": "한국경제",
-    "time": "39분 전",
-    "url": "https://www.hankyung.com/article/2026101673537",
-    "title": "한 총리 \"내년 공공 돌봄센터 30곳 신설\"…지역 격차 줄인다",
+    "id": "n37a0f441",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "55분 전",
+    "url": "https://www.chosun.com/international/international_general/2026/10/17/GA3TSYZZHA3TQNLFHEYWGZRVGQ/",
+    "title": "젤렌스키, 트럼프 겨냥해 “러시아와 ‘경유딜’ 부적절”",
     "summary": [
-      "한 총리 \"내년 공공 돌봄센터 30곳 신설\"…지역 격차 줄인다."
+      "볼로디미르 젤렌스키 우크라이나 대통령이 국제 시장에서 러시아산 경유의 판매 재개를 허용한 도널드 트럼프 미국 대통령의 조치가 “부적절하다”고 비판했다.",
+      "젤렌스키 대통령은 16일(현지 시각) 벨기에 브뤼셀에서 열린 유럽연합(EU) 정상회의를 계기로 열린 기자회견에서 트럼프 대통령이 블라디미르 푸틴 러시아 대통령과 맺은 ‘경유딜’을 부적절하다고 지적했다."
     ],
     "chips": [
-      "#뉴스"
+      "#정치"
     ]
   },
   {
-    "id": "na45e3b88",
-    "category": "IT",
-    "source": "한국경제",
-    "time": "40분 전",
-    "url": "https://www.hankyung.com/article/202610166871i",
-    "title": "엔비디아, AI PC 'RTX 스파크' 국내 출시…\"에이전트 AI 시대 가속화\"",
-    "summary": [
-      "엔비디아, AI PC 'RTX 스파크' 국내 출시…\"에이전트 AI 시대 가속화\"."
-    ],
-    "chips": [
-      "#AI",
-      "#엔비디아"
-    ]
-  },
-  {
-    "id": "nb18cfe16",
+    "id": "nd279a55a",
     "category": "사회",
     "source": "연합뉴스",
-    "time": "41분 전",
-    "url": "https://www.yna.co.kr/view/AKR20261016174000054",
-    "title": "전 광주불교방송 사장, 면직 무효 승소…법원 \"절차 하자\"",
+    "time": "57분 전",
+    "url": "https://www.yna.co.kr/view/AKR20261017000900098",
+    "title": "세우타 사태로 상호 국경 검문하던 伊·스페인, 갈등 수습 국면",
     "summary": [
-      "(전남광주=연합뉴스) 장아름 기자 = 직장 내 괴롭힘 의혹이 제기돼 해임됐던 전 광주불교방송(BBS) 사장 A씨가 자신의 해임 처분이 부당하다는..."
+      "(브뤼셀=연합뉴스) 현윤경 특파원 = 북아프리카의 스페인령 세우타에서 벌어진 이주민 난입 사태 이후 상호 국경 검문 조치를 도입하며 신경전을 벌..."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n4585e925",
+    "id": "n9f3d8a18",
     "category": "사회",
-    "source": "동아일보",
-    "time": "41분 전",
-    "url": "https://www.donga.com/news/Culture/article/all/20261016/134857619/1",
-    "title": "머리채 잡고 발길질까지…에스파 美 공연장서 무슨 일",
+    "source": "연합뉴스",
+    "time": "59분 전",
+    "url": "https://www.yna.co.kr/view/AKR20261017000700071",
+    "title": "중간선거 조작될 거란 마가…트럼프에 '계엄령·선거중단' 요구",
     "summary": [
-      "그룹 에스파의 미국 공연장 복도에서 여성 여러 명이 머리채를 잡고 주먹질과 발길질을 주고받는 영상이 공개돼 온라인상에서 논란이 일고 있다.",
-      "공연이 열린 것으로 알려진 장소에서 벌어진 격렬한 몸싸움에 네티즌들의 관심이 쏠렸다.지난 15일(현지시간) 해외 온라인 커뮤니티와 사회관계망서비스(SNS)에는 지난 9일 에스파의 월드투어가 열린 미국 시애틀 클라이밋 플레지 아레나에서 촬영된 것으로 알려진 영상이 올라왔다.약 10여 초 길이의 영상에는 여성들."
+      "(워싱턴=연합뉴스) 백나리 특파원 = 도널드 트럼프 미국 대통령의 핵심 지지층 '마가'(MAGA)에서 중간선거 조작 우려를 제기하며 계엄령이나 ..."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n75725e72",
+    "category": "경제",
+    "source": "한국경제",
+    "time": "2시간 전",
+    "url": "https://www.hankyung.com/article/2026100529947",
+    "title": "[오늘의 운세] 10월 17일 띠별 운세",
+    "summary": [
+      "[오늘의 운세] 10월 17일 띠별 운세."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n5860d7fb",
+    "category": "경제",
+    "source": "한국경제",
+    "time": "2시간 전",
+    "url": "https://www.hankyung.com/article/2026100529247",
+    "title": "[오늘의 운세] 오늘 뭐 먹지?…10월 17일 띠별 추천 점심메뉴",
+    "summary": [
+      "[오늘의 운세] 오늘 뭐 먹지?…10월 17일 띠별 추천 점심메뉴."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n28719d34",
+    "category": "경제",
+    "source": "한국경제",
+    "time": "2시간 전",
+    "url": "https://www.hankyung.com/article/2026100529497",
+    "title": "[오늘의 운세] 2026년 10월 17일 별자리 운세",
+    "summary": [
+      "[오늘의 운세] 2026년 10월 17일 별자리 운세."
     ],
     "chips": [
       "#뉴스"
@@ -639,18 +640,18 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2980건",
-    "trend": "+355%"
+    "mentions": "2070건",
+    "trend": "+215%"
   },
   {
     "rank": 2,
-    "tag": "AI",
+    "tag": "KBO",
     "mentions": "1680건",
     "trend": "+155%"
   },
   {
     "rank": 3,
-    "tag": "반도체",
+    "tag": "AI",
     "mentions": "1550건",
     "trend": "+135%"
   }
