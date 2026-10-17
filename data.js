@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-10-17 02:02:35
+// 마지막 업데이트: 2026-10-17 07:17:18
 window.NEWS_DB = [
   {
     "id": "n885915ce",
     "category": "IT",
     "source": "Naver Blog",
-    "time": "42분 전",
+    "time": "5시간 전",
     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPeTAzRGtNYzhfNnlqWjRNSHNwWk1mZHJzb0JSRE9mX1VBcF9YMndtVkpNenM2Z0QzRmtrSktWejhCYXhxMmVfakdEc1NBaU1MeFYtRUI2a3ZhaFBxc3ZoUkZBVkZPTHRtV1p4aThWUEFGc21XVjdISXVpS3ZKZGdrdWhfSGlTWU5jUFNpMGE1WQ?oc=5",
     "title": "TSMC 사상 최대 실적…K반도체에 ‘수요 신호’ : 네이버 블로그",
     "summary": [
@@ -20,7 +20,7 @@ window.NEWS_DB = [
     "id": "n3d034684",
     "category": "IT",
     "source": "MTN 머니투데이방송",
-    "time": "1시간 전",
+    "time": "6시간 전",
     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBXUVhEX2o2emdKSDcydE1MVEt6Z1o1S3R6MmdmSTNTYXAtUG5wcUxQNUY1QW9lZ2lwdmMzZTU0MERwWUUtb1kxLWxvOFM5N0hmak12bVdfU2k2WDU3TVJB?oc=5",
     "title": "커지는 파운드리 역할…SK하이닉스, 복잡해지는 셈법",
     "summary": [
@@ -35,7 +35,7 @@ window.NEWS_DB = [
     "id": "n745b7e34",
     "category": "IT",
     "source": "머니투데이",
-    "time": "23시간 전",
+    "time": "1일 전",
     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBWNjBiakxmTTR6TTh1Y01iTHFvYzFTQ25KUjUwQ3NtWTRfbUhiQ25xZHNCZVV1LV9SZ0RMZlpBUGR3akwxVlhyLTdWeE1icldUcjlpeGxpNUJJVVVrVEhPdlJHU1hzSnAtVTBZN0p30gFuQVVfeXFMUFY2MGJqTGZNNHpNOHVjTWJMcW9jMVNDbkpSNTBDc21ZNF9tSGJDbnFkc0JlVXUtX1JnRExmWkFQZHdqTDFWWHItN1Z4TWJyV1RyOWl4bGk1QklVVWtUSE92UkdTWHNKcC1VMFk3Snc?oc=5",
     "title": "AI시대 주도할 미국 반도체주 집중 투자하는 ETF 나온다 - 머니투데이",
     "summary": [
@@ -49,12 +49,12 @@ window.NEWS_DB = [
   {
     "id": "nc939f22d",
     "category": "부동산",
-    "source": "ebn.co.kr",
+    "source": "www.ebn.co.kr",
     "time": "2일 전",
     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5GOThNTy1FeFlYQU5xQWtQMkVGNzJJSkZfdUU2aFRSQkdBTVQ3U2xnb1ZsMjhZTlltaGhEQnJXUDVSazEzcGNERWJ5b2sxOHR6NnlmMjlHYUN3dTVWYldXYVhuVjZQRENs?oc=5",
     "title": "[10·15 대책 1년] 전세 품귀에 임대차 혼란…집값·분양가 연쇄 자극",
     "summary": [
-      "[10·15 대책 1년] 전세 품귀에 임대차 혼란…집값·분양가 연쇄 자극 ebn.co.kr."
+      "[10·15 대책 1년] 전세 품귀에 임대차 혼란…집값·분양가 연쇄 자극 www.ebn.co.kr."
     ],
     "chips": [
       "#부동산",
@@ -81,7 +81,7 @@ window.NEWS_DB = [
     "id": "n6e0e5cc1",
     "category": "IT",
     "source": "한국경제",
-    "time": "2일 전",
+    "time": "3일 전",
     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE10VHRWNERaLU15SnI3Q21xTkpZalo4ODJJdTYyX3FVc296NDR5VVpTNVpHUzkteXpkdUE5aXN4OVRldTl2T1F4RmxzbVlFbWhLRk5UWGNRQS1HQQ?oc=5",
     "title": "美 규제 덫 걸린 엔비디아…中 AI칩 점유율 34%로 급락",
     "summary": [
@@ -97,7 +97,7 @@ window.NEWS_DB = [
     "id": "nb54f53fe",
     "category": "사회",
     "source": "이로운넷",
-    "time": "2일 전",
+    "time": "3일 전",
     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBJSEQ4ZWRQd2dtWTA0bldlZDZUZUFmc0NSRkhCNGVvWjBlSzdEYmd4WTIyRjFKMFlreEpCdGFmdTFrUTZ0VjZaUkhNdzhsTkxIU2c0dEYtcWJ2WXVXdG9BRW5BSk4zZw?oc=5",
     "title": "고창군, 12개 기업 참여 ‘구인·구직 만남의 날’ 개최…현장 채용 지원",
     "summary": [
@@ -112,7 +112,7 @@ window.NEWS_DB = [
     "id": "n176abea1",
     "category": "사회",
     "source": "파주시대",
-    "time": "2일 전",
+    "time": "3일 전",
     "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE10MmZueFZGR2ZyU2ZlaUdfdzRUeGthcWFoaURSbXhjeE5wX1lkLTRBMElrU0p5bzVHM3JFNm5LeENiRFUtd1l1VkpFUQ?oc=5",
     "title": "‘시니어 일자리 트렌드’ 프로그램 참여자 모집",
     "summary": [
@@ -157,7 +157,7 @@ window.NEWS_DB = [
     "id": "n4a582e92",
     "category": "부동산",
     "source": "헤럴드경제",
-    "time": "3일 전",
+    "time": "4일 전",
     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBjdkhYR2I1Y3RWbTdjYUV3VmFmb1FaRXZDUy1BZGN3Yms1Rl9jS19IRTB5OVVueDZMblo5eWdxRmRDZ3M1elQ1R2F0b0otT3V1RlU4OFFB?oc=5",
     "title": "전세난에 집값까지 ‘들썩’…서울 아파트 분양 전망 3개월만에 ‘청신호’ [부동산360]",
     "summary": [
@@ -186,7 +186,7 @@ window.NEWS_DB = [
     "id": "n689e4e53",
     "category": "IT",
     "source": "관악FM",
-    "time": "16일 전",
+    "time": "17일 전",
     "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5XRXA4X1ZRU1VLLXU1VDN6a0JmdmxDbW5BdXRua0hVQzNpSXAtbjF6bFRkMkE3amdpMDVsWm0wcEtnTFAzR0xQZTBpVQ?oc=5",
     "title": "“관악S밸리에서 미래 유니콘의 꿈을!” 관악구, 2026년 제3차 신규 입주기업 최대 20개사 모집",
     "summary": [
@@ -201,7 +201,7 @@ window.NEWS_DB = [
     "id": "n1ef99b44",
     "category": "부동산",
     "source": "뉴스핌",
-    "time": "24일 전",
+    "time": "25일 전",
     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1IV21uRGdUbmQ3dG9fejNFV19PMUdQeEZ4R1FnM1B0NUNGN1NITm8tbU04MWg2MlNkdlJpMzhOeHd2anhpdlJVcmFia2FVcnlrLVl3YUxTVE82YVJD?oc=5",
     "title": "서울 집값 상승세 외곽으로 번졌다…노원 한 달 새 1.68%↑",
     "summary": [
@@ -215,7 +215,7 @@ window.NEWS_DB = [
     "id": "na6d22b09",
     "category": "스포츠",
     "source": "경기일보",
-    "time": "24일 전",
+    "time": "25일 전",
     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE11U1hseFNuTzV6YUoyOWxkOURqZjlTV1FEWEo1S09LazhsM2FnNTRLQk4zWjVETkZXLXphOHRxMldQazEzMVhJN2RLV3p5MUphUThhYmZvOE41R1U?oc=5",
     "title": "추석 연휴, 프로야구·축구 현장도 열기 ‘팔팔’",
     "summary": [
@@ -229,7 +229,7 @@ window.NEWS_DB = [
     "id": "n891b0cd6",
     "category": "스포츠",
     "source": "뉴시안",
-    "time": "25일 전",
+    "time": "26일 전",
     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8yWDNZR3Y3VjZvc3hFYzZFd0NvWVo0dnFOLThlWm5feUVWZTRYc0l0YzREU0hhd0xoWWF0WHRxUXJYSExvMkdQS2pXQWdhNmdOXzNRYUxrTmxoNnNZUHVlNTQ4Skd6eTktc3fSAW5BVV95cUxOd1lnc0FxSllXZzVjOFJjOEh4UjVPQ21HRnhqVVBIYzJLRDlISFNiZnZnSjk5OTBnVTVsS2tqSENHMDZhRkI5ZWZEZmJqQ0EyS2R6bTkxaUR4UHdXeGZFSjFzdW5KdTNxNmhQX1h0UQ?oc=5",
     "title": "KBO 굿즈 매출 3배로… K-스포츠 굿즈, 소장템 부상",
     "summary": [
@@ -240,10 +240,25 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "nfd541720",
+    "category": "경제",
+    "source": "조선일보",
+    "time": "30일 전",
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPX19hUk9LSUdFUFZxd1QxNVFVNXJOa3pzZ1F0WXkxQWlFc09IM25Pd1lPcE1DSk5RcnFRZ25WeUlycW1IWDdUYjF5TUFRREpLRUlJNlB5cEhVUjZ6amMzR0ZaOFhPQjk1ZDRVS1A5dm5BMVdfbm9wYU80ODE0bXAydHdZTGJEMVdy?oc=5",
+    "title": "美 기준금리 4% 시대... 대출·투자 어떻게 하나",
+    "summary": [
+      "美 기준금리 4% 시대...",
+      "대출·투자 어떻게 하나 조선일보."
+    ],
+    "chips": [
+      "#금리"
+    ]
+  },
+  {
     "id": "n657e0140",
     "category": "경제",
     "source": "연합뉴스TV",
-    "time": "50일 전",
+    "time": "51일 전",
     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1rdGZhcGJlUmFqWjByaGFpZG1TZHEtUnpFbjM5NF9QdzlWOXliTW0tX0ZYa0pEQXdHbUt3S3pPYVNzUGJJZEtqZHotSHZDVTVFTTlNaW1UZUstNjFGTEt2Rk1hWmZ5MjA?oc=5",
     "title": "7,000선 넘보던 코스피…금리 인상에 상승폭 축소",
     "summary": [
@@ -254,24 +269,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n244b01bd",
-    "category": "경제",
-    "source": "스트레이트뉴스",
-    "time": "122일 전",
-    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBCMWo2YXNZMEh0aUhtSDk2czAteEZBVVM4MFVGSmNlREM2bEdPX3NaNFMyMDhNWXp1bllqd1NEbkE5elZZYlhRRnRTNm1OdFFmVmlmQ2o2LTdLZXE3TUw5Mm5uU014MFN5ZFkxXzBPbWxCS3fSAXdBVV95cUxQR1pwdFp0SFJzTkVyR3RtbjVBVm03aGxUS2JURUN6eE1iVDlKazYwZmh5bUxRdU1hQXc3dUIxWXFYRG1XZlA1cHB1S3NVR0pYUExPbEtQMFBxeWp0NnFweW5hM0xOMUNmM2o1cENPdjFqb0Q4SWJkaw?oc=5",
-    "title": "미·이란 종전 합의에 금리 전망 변화?…한은 7월 인상론 여전",
-    "summary": [
-      "미·이란 종전 합의에 금리 전망 변화?…한은 7월 인상론 여전 스트레이트뉴스."
-    ],
-    "chips": [
-      "#금리"
-    ]
-  },
-  {
     "id": "nabfa15b0",
     "category": "경제",
     "source": "YTN",
-    "time": "128일 전",
+    "time": "129일 전",
     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE50bVBaMGNlWG1LRkQ2OEh1YUF0cjlWc1EwdS1URDE1ZzJpajQzYmtTdUpGZk9yOWc0V1REZF9fNmVWOU4yVFVhbzhtQzNzMUg3b0ZfVkhVd1dxVGl0OXc?oc=5",
     "title": "\"韓 적정 환율은 얼마일까?\" 환율 vs 금리 vs 증시 상관관계 집중해부",
     "summary": [
@@ -286,7 +287,7 @@ window.NEWS_DB = [
     "id": "nb9bdfdfb",
     "category": "스포츠",
     "source": "푸드투데이",
-    "time": "140일 전",
+    "time": "141일 전",
     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9BVmpLTU1zOFZsU1RWVmVOSXppaWhDWFBBRkF4akI3WHBIcXIyX2pXa3JaeXplMm9vbmE4cU1PclhFTXVZdURxQ0RCYTF3aFNsbmRKcTZ5VE9na0cwakQ2XzNuWlJ5QQ?oc=5",
     "title": "‘손흥민 월드콘.KBO몽쉘’ 축구.야구팬 다 잡자...롯데웰푸드, 스포츠마케팅 총력",
     "summary": [
@@ -301,7 +302,7 @@ window.NEWS_DB = [
     "id": "nba668fc0",
     "category": "IT",
     "source": "한국방송뉴스",
-    "time": "170일 전",
+    "time": "171일 전",
     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1XaThhZXFiX3dDT0NrYVFwZ2dhNTgxbHU0WE5Bc21vcGVzR0d2Wkh2Zm5pS2MyZ1JkYlhHb2VfRkhkemdEX1F6Q1RtajJLRzR6dDdHcExQelAyS2N1OUE?oc=5",
     "title": "1조 8000억 규모 벤처펀드 선정…\"벤처·스타트업에 적시 공급\"",
     "summary": [
@@ -312,314 +313,318 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n669ca87b",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "2분 전",
-    "url": "https://www.newsis.com/view/NISX20261016_0003829541",
-    "title": "가을 산사에 클래식·시·춤…정선 정암사 개산문화제",
+    "id": "nac360e96",
+    "category": "스포츠",
+    "source": "테크M",
+    "time": "방금 전",
+    "url": "https://www.techm.kr/news/articleView.html?idxno=156202",
+    "title": "[ASL 결승] 5회 우승 도전 김민철 vs. 첫 우승 도전 유영진...롯데월드 아이스링크 '뜨겁다'",
     "summary": [
-      "[서울=뉴시스]이수지 기자 = 가을 단풍이 물든 산사에서 불교 전통 의례, 클래식, 현대무용, 문학을 함께 만나는 문화축제가 펼쳐진다.",
-      "강원 정선 정암사는 오는 23일부터 25일까지 정암사 일원과 만항재 산상화원에서 창건 1381주년을 기념하는 '개산문화제'를 개최한다.",
-      "정암사가 주최하고 사단법인 함백산야단법석이 주관하는 이번 행사에서는 개산재와 천도제를 비롯해 산사음악회, 현대무용 공연, 문학 콘서트, 라이브 드로잉, 다문화 축제가 열린다."
+      "17일 서울 잠실에 위치한 롯데월드 아이스링크 특설 무대에서 SOOP이 주최하는 스타크래프트 리그 ASL 시즌 22 결승전이 열렸다.",
+      "5회 우승에 도전하는 김민철과 첫 우승을 꾀하는 유영진이 결승전에서 격돌한다.",
+      "허준 기자 joon@techm.kr."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n062dfae7",
-    "category": "부동산",
-    "source": "뉴시스",
-    "time": "2분 전",
-    "url": "https://www.newsis.com/view/NISX20261016_0003829594",
-    "title": "삼성화재, 주택화재보험 보장 확대…임시거주비 하루 최대 25만원",
-    "summary": [
-      "[서울=뉴시스]권안나 기자 = 삼성화재가 주택화재보험의 임시거주비 보장 한도를 높이고 스프링클러 누출 관련 담보를 새로 도입했다.",
-      "급배수시설 누수 등으로 집에 머물기 어려워진 경우에도 보장 범위를 넓혀 고객의 부담을 줄이겠다는 취지다.",
-      "삼성화재는 다이렉트 주택화재보험의 임시거주비 보장을 확대하고 신규 담보를 추가했다고 17일 밝혔다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n9b1594f3",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "2분 전",
-    "url": "https://www.newsis.com/view/NISX20261016_0003829472",
-    "title": "관절부터 체취까지…식품·외식업계, 소비력 잡는다[큰손 액티브시니어②]",
-    "summary": [
-      "[서울=뉴시스] 이혜원 기자 = '100세 시대'가 도래하면서 적극적으로 여행과 운동, 문화생활 등 경제·여가 활동을 이어가는 이른바 '액티브 시니어'가 새로운 주요 소비층으로 부상하고 있다.",
-      "이에 식품·외식업계도 시니어 세대의 활력 있는 일상을 지키기 위한 다양한 제품과 서비스를 선보이고 있다.",
-      "우선 KGC 정관장은 커지는 웰에이징 수요에 대응하기 위해 시니어 전문 브랜드 '장수:율(匠水:律)'을 강화하고 있다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nfbcfcde3",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "2분 전",
-    "url": "https://www.newsis.com/view/NISX20261017_0003829909",
-    "title": "경복궁서 한푸 입고 中문화 알리기?…인플루언서 영상 논란",
-    "summary": [
-      "[서울=뉴시스]박지혁 기자 = 최근 경복궁에서 중국 전통 의상인 '한푸'를 입고 돌아다니는 중국인 관광객들의 모습이 잇따라 포착돼 온라인에서 큰 논란이 되고 있다.",
-      "서경덕 성신여대 교수는 17일 누리꾼들의 제보를 통해 \"한 중국 인플루언서가 한푸를 입고 경복궁에서 '한국에 왔다.",
-      "전 세계에 중국 문화를 알리자'는 영상을 공개했다\"고 밝혔다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nb7e77b3f",
-    "category": "경제",
-    "source": "아시아경제",
-    "time": "5분 전",
-    "url": "https://view.asiae.co.kr/article/2026101710425833894",
-    "title": "화순 고인돌 가을꽃 축제 소방인력 배치…주말·공연 시간 집중 대응",
-    "summary": [
-      "화순소방서가 '2026 세계문화유산 화순 고인돌 가을꽃 축제' 기간 주무대 인근에 종합상황실을 운영한다.",
-      "또 관람객이 몰리는 주말과 주요 공연 시간대에 구급차량과 소방 인력을 집중 배치한다.",
-      "이번 축제는 화순군 고인돌 유적지 일원에서 16일부터 25일까지 10일간 열린다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n558ace2a",
-    "category": "사회",
-    "source": "아시아경제",
-    "time": "5분 전",
-    "url": "https://view.asiae.co.kr/article/2026101710553754716",
-    "title": "전남광주 서구, 무거운 75리터 쓰레기봉투 추가 제작 중단",
-    "summary": [
-      "전남광주 서구가 일반용 75리터 종량제봉투의 추가 제작을 중단하고 내년 1월부터 3리터 봉투를 제작·판매한다.",
-      "대용량 봉투를 수거하는 노동자의 부상 위험을 줄이고, 적은 양의 쓰레기를 자주 버리려는 주민 수요를 반영한 조치다.",
-      "그동안 75리터 봉투는 쓰레기를 가득 담으면 무게가 크게 늘어나 수거 노동자의 부상 위험을 높이는 원인으로 지목됐다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nf722bde2",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "9분 전",
-    "url": "https://www.yna.co.kr/view/AKR20261017022700072",
-    "title": "유엔 총장 후보 전원에 상임이사국 거부권 시사…새 후보 나오나",
-    "summary": [
-      "(뉴욕=연합뉴스) 김연숙 특파원 = 차기 유엔 사무총장 선출을 위한 안전보장이사회(안보리) 예비투표(straw poll)에서 모든 후보에 대한 ..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n546a5f0d",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "9분 전",
-    "url": "https://www.chosun.com/jp/culture-life-jp/2026/10/17/Z2GH7TTNJVHAHAX3FY2CQGGD3M/",
-    "title": "ユラ、ヤン・セチャンと1泊2日旅行告白",
-    "summary": [
-      "【OSEN＝ハ・スジョン記者】ユラとヤン・セチャンの熱愛説がますますヒートアップしている。ユラが意味深な発言を残したかと思えば、今度は「1泊2日の渓谷旅行にも行っていた」という事実も公開された。18日（日）午後6時10分に放送されるSBS『ランニングマン』では、ユラとヤン・セチャンのピンク色の疑惑をさらに膨らませる1泊2日の渓谷旅行の舞台裏が公開される。この日はユラチームとパク・チョロンチームに分かれ、選択と乗り換."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n835ea951",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "9분 전",
-    "url": "https://www.chosun.com/entertainments/broadcast/2026/10/17/GI3DQNLCHBTGGZDDGU4GCNZWGM/",
-    "title": "걸스데이 유라, 양세찬과 열애설 인정하더니..\"1박2일 여행 갔었다\" 셀프 폭로(런닝맨)",
-    "summary": [
-      "[OSEN=하수정 기자] 유라와 양세찬의 열애설이 점입가경이다.",
-      "유라가 의미심장한 발언을 남기더니, 이번에는 \"1박 2일 계곡 여행까지 다녀왔다\"는 사실도 공개됐다.오는 18일(일) 오후 6시 10분 방송되는 SBS ‘런닝맨’에서는 유라와 양세찬의 핑크빛 의혹을 키울 1박 2일 계곡 여행 비하인드가 공개된다.이날은 유라 팀과 박초롱 팀으로 나뉘어 선택과 환."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n127dd3b9",
-    "category": "경제",
-    "source": "아시아경제",
-    "time": "9분 전",
-    "url": "https://view.asiae.co.kr/article/2026101710453841165",
-    "title": "부산대, 부마민주항쟁 47주년 맞아 교내 발원지 참배",
-    "summary": [
-      "부산대학교 최재원 총장과 주요 보직자들이 부마민주항쟁 47주년인 지난 16일 교내 항쟁 발원지와 관련 유적지를 찾아 참배하고 민주주의를 향한 선배들의 희생과 헌신을 되새겼다.",
-      "최 총장은 이날 오전 부산시청에서 열린 제47주년 부마민주항쟁 기념식에 참석한 데 이어 오후에는 주요 보직자들과 함께 교내 민주언덕과 10.16부마민중항쟁탑, 부마민주항쟁발원지 표지석, 10.16기념관, 항쟁 40주년 기념 표석 등을 둘러봤다.",
-      "부마민주항쟁은 1979년 1."
-    ],
-    "chips": [
-      "#교육"
-    ]
-  },
-  {
-    "id": "n45f273e4",
-    "category": "사회",
-    "source": "아시아경제",
-    "time": "11분 전",
-    "url": "https://view.asiae.co.kr/article/2026101709152246602",
-    "title": "부산대, 부울경 18개 대학과 장애학생 지원 협력 강화",
-    "summary": [
-      "부산대학교 장애학생지원센터는 지난 16일 호텔농심 사파이어홀에서 부산·울산·경남 지역 18개 대학 장애학생지원 담당자를 대상으로 '부울경 권역 대학 장애학생지원 업무 담당자 워크숍'을 개최했다.",
-      "워크숍은 대학별 장애학생 지원 업무의 전문성을 높이고 현장 경험과 정보를 공유하기 위해 마련됐다.",
-      "부산대는 한국대학교육협의회가 선정한 '장애학생지원 권역별 선도대학'으로, 그동안 부울경 지역 대학 간 협력을 촉진하고 장애학생 지원체계를 강화하는 거점 역."
-    ],
-    "chips": [
-      "#교육"
-    ]
-  },
-  {
-    "id": "na2d8697d",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "11분 전",
-    "url": "https://www.chosun.com/jp/sports-jp/2026/10/17/QJPH6FLQIBF6BGOZS7SF6SBBD4/",
-    "title": "WSまであと2勝のクリーブランド、雨天順延",
-    "summary": [
-      "［OSEN＝ソン・チャンイク記者］クリーブランド・ガーディアンズとタンパベイ・レイズによるアメリカンリーグの頂上争いは、1日休みを挟むことになった。両チームのリーグ優勝決定シリーズ（7戦4勝制）第4戦が雨で延期され、残り日程にも変更が生じた。17日（以下、韓国時間）に米オハイオ州クリーブランドのプログレッシブ・フィールドで開催される予定だったクリーブランドとタンパベイのリーグ優勝決定シリーズ第4戦は、雨天のため順延された。これ."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n7f9bdcf9",
+    "id": "n0f00362d",
     "category": "IT",
-    "source": "조선비즈IT",
-    "time": "15분 전",
-    "url": "https://biz.chosun.com/it-science/general_policy/2026/10/17/XORMZULXRNAQ5JZ7YCHYB2NGOU/",
-    "title": "앤트로픽, 한강·황석영 등 한국 작가 작품 AI 학습에 무단 활용",
+    "source": "테크M",
+    "time": "방금 전",
+    "url": "https://www.techm.kr/news/articleView.html?idxno=156201",
+    "title": "[NOL페스티벌] \"금강산도 식후경\"...놀아보기 전 세계 각국 음식도 맛본다",
     "summary": [
-      "앤트로픽, 한강·황석영 등 한국 작가 작품 AI 학습에 무단 활용."
-    ],
-    "chips": [
-      "#AI"
-    ]
-  },
-  {
-    "id": "na55343d3",
-    "category": "스포츠",
-    "source": "동아일보",
-    "time": "16분 전",
-    "url": "https://www.donga.com/news/Politics/article/all/20261017/134858548/1",
-    "title": "추미애 “소방관 순직 비통…추모 그치지 않고 가슴에 새길 것”",
-    "summary": [
-      "추미애 경기도지사가 17일 부천 공장화재로 순직한 고(故) 김진석 소방위에 대해 “마지막 길에 한 치의 소홀함이 없도록 경기도가 온 정성을 다해 예우하라”고 당부했다고 홍은광 경기도 대변인이 전했다.",
-      "추 지사는 이날 오후 2시 빈소를 찾아 조문한다.홍 대변인은 이날 서면 브리핑을 통해 “고인의 숭고한 넋을 도민과 함께 마음 깊이 추모한다”며 이같이 전했다.이어 “유가족분들의 비통한 심정에 깊은 위로의 말씀을 전한다”며 “경기도는 고인의 고귀한."
+      "놀유니버스가 개최한 '놀페스티벌'이 아티스트 공연뿐만 아니라 전 세계 각국의 음식을 맛볼 수 있는 먹거리 공간까지 선보였다.",
+      "'금강산도 식후경'이라는 말처럼 공연을 즐기며 뛰어놀기 전 다양한 음식으로 허기를 달래고 조금이라도 더 잘 즐길 수 있도록 지원하는 모습이다.",
+      "17일 일산 킨텍스 제2전시장에서 개최한 놀페스티벌 현장에서는 다양한 먹거리 공간도 마련돼 있다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "nc3905353",
-    "category": "스포츠",
-    "source": "연합뉴스",
-    "time": "16분 전",
-    "url": "https://www.yna.co.kr/view/AKR20261017022800007",
-    "title": "LG·삼성·KT 최다 10명 후보 배출…KBO 골든글러브 후보 발표",
+    "id": "n1384c477",
+    "category": "IT",
+    "source": "테크M",
+    "time": "방금 전",
+    "url": "https://www.techm.kr/news/articleView.html?idxno=156200",
+    "title": "[NOL페스티벌] 공연장 넘어 축제의 장으로...킨텍스에 10만명 놀이터 열렸다",
     "summary": [
-      "(서울=연합뉴스) 이대호 기자 = 올 시즌 그라운드를 가장 뜨겁게 달군 10명의 황금장갑 주인공을 가릴 후보가 공개됐다."
+      "놀유니버스가 아티스트 공연과 현장 체험을 결합한 '놀페스티벌'을 통해 이용자들과의 오프라인 접점 확대에 나섰다.",
+      "온라인 플랫폼을 통해 공연과 여가 관련 서비스를 제공하는 데 그치지 않고, 이용자들이 직접 현장을 찾아 아티스트와 교감하고 축제 분위기를 즐길 수 있도록 경험의 범위를 넓히는 모습이다.놀유니버스는 17일 일산 킨텍스 제2전시장에서 K팝과 슈퍼라이브, EDM 등을 즐길 수 있는 놀페스티벌을 개최했다.",
+      "이날부터 이틀간 진행되는 이번 축제."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n00a3e025",
+    "category": "사회",
+    "source": "테크M",
+    "time": "방금 전",
+    "url": "https://www.techm.kr/news/articleView.html?idxno=156199",
+    "title": "[주말에 뭐먹지] \"주말 홈포차 메뉴로 딱이네\"...쿠팡 미식전문관 '팔각도' 매콤 닭갈비",
+    "summary": [
+      "주말 저녁만 되면 식구들과 마주 앉아 무얼 먹을지가 가장 큰 고민거리입니다.",
+      "매번 시켜 먹는 배달음식은 물리고, 번잡한 외식 거리를 찾아 긴 줄을 설 엄두가 나지 않을 때 믿고 꺼내 들 만한 든든한 지원군을 만났습니다.쿠팡이 로켓프레시 미식 전문관 '하우스 오브 테이스트'를 열면서 단독으로 선보인 팔각도 협업 간편식, '팔각도 매콤 닭갈비'가 그 주인공입니다.",
+      "밤에 주문하고 눈뜨자마자 현관문 앞에서 마주한 로켓프레시 친환경백 안의 신선한 닭갈비."
+    ],
+    "chips": [
+      "#환경"
+    ]
+  },
+  {
+    "id": "n458f1cc1",
+    "category": "스포츠",
+    "source": "뉴시스",
+    "time": "3분 전",
+    "url": "https://www.newsis.com/view/NISX20261017_0003829967",
+    "title": "위기에도 흔들리지 않은 에이스…KIA 네일, 7이닝 1실점 호투[준PO]",
+    "summary": [
+      "[전남광주=뉴시스]박윤서 기자 = 프로야구 KIA 타이거즈 외국인 에이스 제임스 네일이 준플레이오프(5전3선승제·준PO)에서 쾌투를 펼치며 제 몫을 다했다.",
+      "네일은 17일 전남광주 기아챔피언스필드에서 열린 LG 트윈스와의 2026 신한 쏠 KBO 포스트시즌 준PO 1차전에서 선발 등판해 7이닝 4피안타(1피홈런) 2볼넷 6탈삼진 1실점으로 호투했다.",
+      "2024년 한국시리즈(KS)에서 2경기 1승 무패 평균자책점 2.53으로 활약하며 팀의 통합 우."
     ],
     "chips": [
       "#KBO"
     ]
   },
   {
-    "id": "n87daa4a9",
+    "id": "n105b51ac",
+    "category": "IT",
+    "source": "뉴시스",
+    "time": "5분 전",
+    "url": "https://www.newsis.com/view/NISX20261017_0003830005",
+    "title": "최태원 \"대학 졸업장 필요 없다…AI 시대 학교는 실험하는 곳으로\"",
+    "summary": [
+      "[서울=뉴시스]전민영 인턴 기자 = 최태원 SK그룹 회장이 인공지능(AI) 시대의 교육 변화를 강조했다.",
+      "최 회장은 16일 EBS '위대한 수업, 그레이트 마인즈' 강연에서 \"AI 시대의 학생은 대학에서 무엇을 배워야 하며 대학은 앞으로 어떻게 달라져야 하냐\"는 대학생의 질문을 받았다.",
+      "그는 이러한 질문을 받고 \"굳이 대학 졸업장 필요 없다\"고 답하며 \"학교는 배우는 장소가 아니라 실험하는 장소로 바뀌어야 된다\"고 했다."
+    ],
+    "chips": [
+      "#AI",
+      "#교육"
+    ]
+  },
+  {
+    "id": "nfe82032a",
+    "category": "스포츠",
+    "source": "연합뉴스",
+    "time": "5분 전",
+    "url": "https://www.yna.co.kr/view/AKR20261017036900061",
+    "title": "경부고속도로 서울요금소 인근 버스 등 4중 추돌…14명 경상",
+    "summary": [
+      "(성남=연합뉴스) 권준우 기자 = 17일 오전 11시 50분께 경기 성남시 경부고속도로 서울요금소 인근 도로에서 40대 A씨가 몰던 버스가 옆 ..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "ne4b74101",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "6분 전",
+    "url": "https://www.newsis.com/view/NISX20261017_0003829994",
+    "title": "김유정, 여리여리한 어깨 드러낸 드레스핏…\"2주 굶은 적도\"",
+    "summary": [
+      "[서울=뉴시스]장인혜 인턴 기자 = 배우 김유정이 가녀린 어깨선과 쇄골, 몸매가 돋보이는 드레스 자태로 성숙한 매력을 뽐냈다.",
+      "김유정은 지난 16일 자신의 사회관계망서비스(SNS)에 여러 장의 사진을 공개했다.",
+      "사진 속 김유정은 짧은 단발머리와 또렷한 이목구비, 도도한 눈빛이 어우러져 한층 성숙한 분위기를 자아냈다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n851d792c",
+    "category": "스포츠",
+    "source": "뉴시스",
+    "time": "7분 전",
+    "url": "https://www.newsis.com/view/NISX20261017_0003830019",
+    "title": "[부고]변승봉(전 한국전기연구원 5대 원장)씨 별세",
+    "summary": [
+      "[창원=뉴시스] ▲변승봉(91) 전 한국전기연구원 제5대 원장 별세, 변원태·변소영·변미경·변원경씨 부친상, 이재근·이석준·노아 로고프씨 장인상=17일, 빈소 경기도 성남시 분당구 분당제생병원 장례식장 9호실, 발인 20일 오전 6시30분, 장지 함백산 추모공원·용인 천주교묘원."
+    ],
+    "chips": [
+      "#의료"
+    ]
+  },
+  {
+    "id": "na6f7a78e",
     "category": "사회",
     "source": "연합뉴스",
-    "time": "17분 전",
-    "url": "https://www.yna.co.kr/view/AKR20261016130800017",
-    "title": "석유개발 광구 확보 무산됐는데…지질연 28억 환수 불투명",
+    "time": "7분 전",
+    "url": "https://www.yna.co.kr/view/AKR20261017036400527",
+    "title": "전남 서해 먼바다에 풍랑주의보…흑산도·홍도 강풍주의보 유지",
     "summary": [
-      "(서울=연합뉴스) 조승한 기자 = 한국지질자원연구원이 캐나다 비전통오일 개발을 위한 국제공동연구 과정에서 상대 기관의 과업 이행 여부를 충분히 ..."
+      "(광주=연합뉴스) 기상청은 17일 오후 7시를 기해 서해남부남쪽안쪽먼바다·서해남부북쪽안쪽먼바다에 풍랑주의보를 발효한다고 밝혔다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "nb67901ff",
+    "id": "n68423a5e",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "8분 전",
+    "url": "https://www.chosun.com/national/court_law/2026/10/17/OHWMAZD7S5BNHFYJ4WOQYS5D6U/",
+    "title": "‘서해 피살 은폐 의혹’ 전현희·노영민·이인영 불기소…“증거 불충분”",
+    "summary": [
+      "‘서해 피살 은폐 의혹’ 전현희·노영민·이인영 불기소…“증거 불충분”."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n32349d6f",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "8분 전",
+    "url": "https://www.chosun.com/jp/politics-national-jp/2026/10/17/RLVC6H2WTFDJNCTI2IXAZISHXE/",
+    "title": "西海射殺隠蔽疑惑、ノ氏ら不起訴",
+    "summary": [
+      "西海射殺隠蔽疑惑、ノ氏ら不起訴."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "ne0047e5e",
     "category": "사회",
     "source": "연합뉴스",
-    "time": "19분 전",
-    "url": "https://www.yna.co.kr/view/AKR20261017021900089",
-    "title": "주북中대사, 신압록강대교 북중시설 방문…\"경제 협력 확대\"",
+    "time": "9분 전",
+    "url": "https://www.yna.co.kr/view/AKR20261017036300527",
+    "title": "제주 남쪽 먼바다에 풍랑주의보",
     "summary": [
-      "(상하이=연합뉴스) 차병섭 특파원 = 왕야쥔 북한 주재 중국대사가 북중을 연결하는 신압록강대교 개통식 하루 뒤인 16일(현지시간) 대교와 인접한..."
+      "(제주=연합뉴스) 기상청은 17일 오후 7시를 기해 제주도남서쪽안쪽먼바다·제주도남쪽바깥먼바다에 풍랑주의보를 발효한다고 밝혔다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "neb4cecd1",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "23분 전",
-    "url": "https://www.donga.com/news/Politics/article/all/20261017/134858534/1",
-    "title": "李 “소방대원 순직 참담…희생 걸맞은 예우할 것”",
+    "id": "n7714b6c3",
+    "category": "스포츠",
+    "source": "연합뉴스",
+    "time": "9분 전",
+    "url": "https://www.yna.co.kr/view/AKR20261017036600007",
+    "title": "실바 앞세운 GS칼텍스, 흥국생명 꺾고 여자배구 컵대회 결승행",
     "summary": [
-      "이재명 대통령이 17일 경기 부천 공장 화재 진압 과정에서 소방대원 1명이 순직한 데 애도를 표하며 소방대원 안전 대책 보완과 사후 조치, 예우를 약속했다.이 대통령은 이날 자신의 엑스(X)에 “고인의 희생을 잊지 않겠습니다”라며 “참담한 마음이다.",
-      "삼가 고인의 명복을 빈다”고 적었다.",
-      "이 대통령은 “국민의 생명과 안전을 지키기 위해 위험한 현장에 나섰던 고인의 헌신을 깊이 새기겠다”고 했다."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "ndf2ae2b1",
-    "category": "사회",
-    "source": "한국경제",
-    "time": "30분 전",
-    "url": "https://www.hankyung.com/article/2026101776707",
-    "title": "[속보] 李대통령, 부천 소방관 순직에 \"참담한 마음…잊지 않겠다\"",
-    "summary": [
-      "[속보] 李대통령, 부천 소방관 순직에 \"참담한 마음…잊지 않겠다\"."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n8e315ea2",
-    "category": "경제",
-    "source": "한국경제",
-    "time": "32분 전",
-    "url": "https://www.hankyung.com/article/2026101664466",
-    "title": "\"20억에 샀는데 벌써 40억\"…한물갔다던 동네의 '화려한 부활' [이슬기의 새집다오]",
-    "summary": [
-      "\"20억에 샀는데 벌써 40억\"…한물갔다던 동네의 '화려한 부활' [이슬기의 새집다오]."
+      "(서울=연합뉴스) 김경윤 기자 = 지난 시즌 프로배구 V리그 여자부 우승팀인 GS칼텍스가 주포 지젤 실바(등록명 실바)를 앞세워 흥국생명을 꺾고..."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n979ccc99",
-    "category": "경제",
-    "source": "연합뉴스(경제)",
-    "time": "32분 전",
-    "url": "https://www.yna.co.kr/view/AKR20261017021100011",
-    "title": "[연합뉴스 이 시각 헤드라인] - 10:30",
+    "id": "n9f506e59",
+    "category": "스포츠",
+    "source": "아시아경제",
+    "time": "10분 전",
+    "url": "https://view.asiae.co.kr/article/2026101716064663059",
+    "title": "오상욱, 구본길 꺾고 전국체전 2연패…'국내는 좁다'",
     "summary": [
-      "[연합뉴스 이 시각 헤드라인] - 10:30."
+      "한국 펜싱 남자 사브르의 간판 오상욱(대전광역시청)이 제107회 전국체육대회에서 2연패를 달성했다.",
+      "오상욱은 16일 제주도 서귀포시 종합체육관에서 열린 대회 펜싱 남자 일반부 사브르 개인전에 고향 대전을 대표해 참가해 금메달을 목에 걸었다.",
+      "오상욱은 전국체전 개인전에서 지난해에 이어 2연패이자, 일반부 출전 통산 7번째 개인전 우승을 거뒀다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n18a37704",
+    "category": "경제",
+    "source": "아시아경제",
+    "time": "22분 전",
+    "url": "https://view.asiae.co.kr/article/2026101715543359912",
+    "title": "사우디 주베일 인근서 유조선 피격…\"승무원 대피\"",
+    "summary": [
+      "사우디아라비아 주베일 인근 해상에서 유조선이 미확인 발사체에 피격됐다.",
+      "영국 해사무역기구(UKMTO)는 17일(현지시간) 사우디 주베일 북동쪽 해상에서 유조선 한 척이 미확인 발사체에 피격됐다고 밝혔다.UKMTO는 선박에 타고 있던 승무원 전원이 대피해 안전한 상태라고 했다.",
+      "사고에 따른 환경 피해는 보고되지 않았다."
+    ],
+    "chips": [
+      "#수출",
+      "#환경"
+    ]
+  },
+  {
+    "id": "n185aff07",
+    "category": "경제",
+    "source": "아시아경제",
+    "time": "36분 전",
+    "url": "https://view.asiae.co.kr/article/2026101715405346594",
+    "title": "춘천시, 이탈리아 파스타에 춘천 닭갈비…‘닭갈비 또르뗄리’ 첫선",
+    "summary": [
+      "이탈리아 파르마의 전통 생면파스타에 춘천 닭갈비를 넣은 '닭갈비 또르뗄리'가 춘천막국수닭갈비축제에서 첫선을 보였다.",
+      "강원도 춘천시(시장 육동한)는 17일 오후 '2026 춘천막국수닭갈비축제' 국제관에서 파르마 초청 셰프와 지역 닭갈비 셰프가 함께하는 '포핸즈(Four Hands)' 특별 시식행사를 열었다.",
+      "포핸즈는 두 명의 셰프가 한 주방에서 함께 요리해 메뉴를 완성하는 협업을 뜻한다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n1ba87357",
+    "category": "스포츠",
+    "source": "아시아경제",
+    "time": "39분 전",
+    "url": "https://view.asiae.co.kr/article/2026101514544696951",
+    "title": "\"부진 끝에 반등 기대감 커졌다\"…증권가가 주목한 종목은? [주末머니]",
+    "summary": [
+      "신한투자증권은 17일 미디어 업종의 실적이 호전되고 있다며 '비중확대' 의견을 유지한다고 밝혔다.",
+      "지인해 신한투자증권 연구원은 \"스포츠 이벤트 종료 후 광고 재분배, 경쟁사의 유동성 위기에 따른 시장 재편, 온라인동영상서비스(OTT) 고성장 등을 확인했다\"며 \"그간의 부진을 딛고 수혜가 클 종목에 주목해야 한다\"고 했다.",
+      "신한투자증권이 주목한 종목은 CJ ENM과 SBS다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nb1dc2cb9",
+    "category": "경제",
+    "source": "한국경제",
+    "time": "45분 전",
+    "url": "https://www.hankyung.com/article/202610177811i",
+    "title": "\"버거킹부터 신문까지 다 털렸다\"…개인정보 유출 초비상 [도쿄나우]",
+    "summary": [
+      "\"버거킹부터 신문까지 다 털렸다\"…개인정보 유출 초비상 [도쿄나우]."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nd7a2b786",
+    "category": "경제",
+    "source": "한국경제",
+    "time": "49분 전",
+    "url": "https://www.hankyung.com/article/2026101778137",
+    "title": "[속보] 추미애, '재정 빨대' 발언 사과…\"소방관 폄훼 의도 없었다\"",
+    "summary": [
+      "[속보] 추미애, '재정 빨대' 발언 사과…\"소방관 폄훼 의도 없었다\"."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nefbbb989",
+    "category": "경제",
+    "source": "한국경제",
+    "time": "1시간 전",
+    "url": "https://www.hankyung.com/article/2026101777817",
+    "title": "추미애 '재정 빨대' 발언 후폭풍…대신 고개 숙인 與 지도부",
+    "summary": [
+      "추미애 '재정 빨대' 발언 후폭풍…대신 고개 숙인 與 지도부."
     ],
     "chips": [
       "#뉴스"
@@ -632,8 +637,8 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2850건",
-    "trend": "+335%"
+    "mentions": "2980건",
+    "trend": "+355%"
   },
   {
     "rank": 2,
