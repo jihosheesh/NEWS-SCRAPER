@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-10-23 17:34:49
+// 마지막 업데이트: 2026-10-23 20:46:45
 window.NEWS_DB = [
   {
     "id": "nc1073ce5",
     "category": "IT",
     "source": "매일일보",
-    "time": "12시간 전",
+    "time": "15시간 전",
     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9EQmdOQ19PVjhZY0U1RFRRWlJsUjVJUzRiV21fMnRobVV1SHFjV0RncXVHRkJ2MUxuTUh3a2Q4MEJFX29DeFEtV256ejZleC1sUlNScmdHVW13OWhnWV9wcnFIeG4?oc=5",
     "title": "엔비디아, 中 메모리에도 문 열어…K반도체 공급 경쟁 주목",
     "summary": [
@@ -13,34 +13,6 @@ window.NEWS_DB = [
     ],
     "chips": [
       "#반도체",
-      "#엔비디아"
-    ]
-  },
-  {
-    "id": "naef3ab2b",
-    "category": "IT",
-    "source": "매일경제",
-    "time": "12시간 전",
-    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE12YnR4MUdPR2tGSmhPVlhWdlB4WWtJSDV2RTN5a1VEQjhQMHMycmRpM0w2cmgydnQ1WnRScFhER05Xa3FUWUFsaE9lS2NIUQ?oc=5",
-    "title": "젠슨 황 “2029년 메모리 공급과잉 없을 것”…반도체 슈퍼사이클 논란에 반박",
-    "summary": [
-      "젠슨 황 “2029년 메모리 공급과잉 없을 것”…반도체 슈퍼사이클 논란에 반박 매일경제."
-    ],
-    "chips": [
-      "#반도체"
-    ]
-  },
-  {
-    "id": "n5896ffa3",
-    "category": "IT",
-    "source": "뉴시스",
-    "time": "21시간 전",
-    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5ULWdCRlR5UEhKejMtRUdQUlVEYUhvVGVUVzFyaFZObHRrWS1YMWgzVVotOXY0SWJnLTV0WlM1RUZEVGxtczhIMS0xeXNPbkZsTjdYdE9VWF9jRnExSFFFa2RTclYzaGhPLUhDYldsM1g2enlzal9OddIBeEFVX3lxTE5ULWdCRlR5UEhKejMtRUdQUlVEYUhvVGVUVzFyaFZObHRrWS1YMWgzVVotOXY0SWJnLTV0WlM1RUZEVGxtczhIMS0xeXNPbkZsTjdYdE9VWF9jRnExSFFFa2RTclYzaGhPLUhDYldsM1g2enlzal9OdQ?oc=5",
-    "title": "기판부터 냉각·로봇까지…韓 기업, 엔비디아와 협력 확대",
-    "summary": [
-      "기판부터 냉각·로봇까지…韓 기업, 엔비디아와 협력 확대 뉴시스."
-    ],
-    "chips": [
       "#엔비디아"
     ]
   },
@@ -71,6 +43,38 @@ window.NEWS_DB = [
     "chips": [
       "#채용",
       "#고용"
+    ]
+  },
+  {
+    "id": "naa998e31",
+    "category": "IT",
+    "source": "SBS Biz",
+    "time": "2일 전",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBrRm1QTGZMbnpITjBLWWY3UXRwRGxOeVhqTkpDTDMzLU9ZUEhKdm1RU1FnMWpBVXhUc2R5U3BfWDU0ZU5VQzNMY0tTQy14R084OFhR0gFYQVVfeXFMTUF1WExWaHVrU01Zakp6WU9lNWlHTTk5STM5Um0tOU91aEhINjBtVlQ4MnRCVW9sRTM4ZzRxUTZZNmR5cFpCN0hFS3BPbkZTeENpd3BfTXB2Sg?oc=5",
+    "title": "삼성전기-엔비디아, 세종·부산에 AI 반도체 기판 전용라인 구축",
+    "summary": [
+      "삼성전기-엔비디아, 세종·부산에 AI 반도체 기판 전용라인 구축 SBS Biz."
+    ],
+    "chips": [
+      "#AI",
+      "#반도체",
+      "#엔비디아"
+    ]
+  },
+  {
+    "id": "nb022c126",
+    "category": "IT",
+    "source": "전자신문",
+    "time": "2일 전",
+    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBRSnV6bDNpXzhNd24tTFItSjRXOGxTdVp1eFNtYnlmTnQyQlZsLVRqc3RhcFphYXFOOGNrT2Rvbk9xenhUak1iNDdnMk03QQ?oc=5",
+    "title": "삼성전기, 엔비디아 전용 AI 반도체 기판 생산라인 구축…전략적 파트너십 체결",
+    "summary": [
+      "삼성전기, 엔비디아 전용 AI 반도체 기판 생산라인 구축…전략적 파트너십 체결 전자신문."
+    ],
+    "chips": [
+      "#AI",
+      "#반도체",
+      "#엔비디아"
     ]
   },
   {
@@ -264,21 +268,6 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n0a9cd638",
-    "category": "IT",
-    "source": "관악신문",
-    "time": "52일 전",
-    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1vMUcxenZqYlQ3Sjd6U1NrUjdDaW1KZFdOUm5GdjFoaUNNaWN1Ri1laTlfel9Md25PNXFHYzIxWFhrSzlXcndKSzhhY2JmYmkzTy0yMEpTTTlrUDhfTmZJcFZsSm00bElSdlE?oc=5",
-    "title": "관악S밸리 신규 입주기업 모집… “미래 유니콘 기업 육성”",
-    "summary": [
-      "관악S밸리 신규 입주기업 모집… “미래 유니콘 기업 육성” 관악신문."
-    ],
-    "chips": [
-      "#스타트업",
-      "#채용"
-    ]
-  },
-  {
     "id": "nb9bdfdfb",
     "category": "스포츠",
     "source": "푸드투데이",
@@ -308,12 +297,112 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n4f9609f7",
+    "id": "nbc27bc5a",
+    "category": "IT",
+    "source": "연합뉴스",
+    "time": "240일 전",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5UNnlsSTY5eHFYNEZ6ZktBM216dFF6Q0J5Z1NVYm56M3A2TUFNMDM0U081NTNsZVNJTy1MWklmVGc0cEdLVk5NRHFiTWtHbmx2b2ItSkVEV1A2ZFnSAWBBVV95cUxOV3Z3V2F3aWJvV3dDNDc4OXpfRmpyaDgtaExGWC1ZTUxvX2M4ZVZPNC1rZHpQeUtSNXlIZjc0dHdGWTdfUXpJQXdac1lZU3Mza3NvdHVweFFNYXhmdDMyZWs?oc=5",
+    "title": "스타트업·벤처를 유니콘으로…전북도, '창업 천국' 구상 발표",
+    "summary": [
+      "스타트업·벤처를 유니콘으로…전북도, '창업 천국' 구상 발표 연합뉴스."
+    ],
+    "chips": [
+      "#스타트업"
+    ]
+  },
+  {
+    "id": "ndba6d43a",
     "category": "사회",
     "source": "연합뉴스",
-    "time": "8분 전",
-    "url": "https://www.yna.co.kr/view/AKR20261024001800071",
-    "title": "선거 불복 판 까나…트럼프 정부 \"알래스카 결과확정 보류\" 소송",
+    "time": "5분 전",
+    "url": "https://www.yna.co.kr/view/AKR20261024005100034",
+    "title": "토요일 제주·남해안에 강한 비…시간당 최대 30㎜",
+    "summary": [
+      "(서울=연합뉴스) 윤민혁 기자 = 토요일인 24일 전국이 대체로 흐린 가운데 제주와 남부지방을 중심으로 강한 비가 쏟아지겠다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n0ce89645",
+    "category": "경제",
+    "source": "뉴시스",
+    "time": "5분 전",
+    "url": "https://www.newsis.com/view/NISX20261024_0003839364",
+    "title": "[속보]뉴욕증시, 유가 상승 등에 하락 마감…다우 1.23%↓",
+    "summary": [
+      "후속기사가 이어집니다 ◎공감언론 뉴시스 aci27@newsis.com."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nb622371e",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "6분 전",
+    "url": "https://www.newsis.com/view/NISX20261024_0003839362",
+    "title": "트럼프 \"이란에 또 한번 작은 '장대한 분노' 실시할수도\"",
+    "summary": [
+      "[서울=뉴시스] 김예진 기자 = 도널드 트럼프 미국 대통령은 23일(현지시간) 이란을 향해 \"우리는 또 한 번 작은 '장대한 분노(Epic Fury)' 작전을 실시할 수도 있고, 아니면 그들이 합의할 수도 있다\"며 추가 군사작전 가능성을 경고했다.",
+      "아나돌루통신에 따르면 트럼프 대통령은 이날 플로리다주에서 유세를 가지고 이란과의 협상 문제를 언급하며 이같이 밝혔다.",
+      "그는 \"그들이 현명하다면 그저 '본격적으로 협상에 나서자'고 말할 것\"이라고 말했."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n4154cb0a",
+    "category": "경제",
+    "source": "연합뉴스",
+    "time": "16분 전",
+    "url": "https://www.yna.co.kr/view/AKR20261024005500071",
+    "title": "美, '푸에블로호 납치' 5천300억원 배상요구 판결문 北에 전달",
+    "summary": [
+      "(워싱턴=연합뉴스) 박성민 특파원 = 미국 국무부가 1968년 북한에 납치됐다 풀려난 미 해군 푸에블로호 승조원 등에게 북한이 4억 달러(약 5..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n32221157",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "21분 전",
+    "url": "https://www.chosun.com/economy/startup_story/2026/07/02/4KPLYYZOLNCWBA6BWULR5MVW6Y/",
+    "title": "‘밀가루 0%’ 어육과 두부로 꽉 채운 명인 어육바, 1개 550원 초특가",
+    "summary": [
+      "‘밀가루 0%’ 어육과 두부로 꽉 채운 명인 어육바, 1개 550원 초특가."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n8b7402ff",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "22분 전",
+    "url": "https://www.yna.co.kr/view/AKR20261024005400079",
+    "title": "\"이란, 美 공격 재개시 걸프해역 해저케이블 타격할 것\"",
+    "summary": [
+      "(카이로=연합뉴스) 김상훈 특파원 = 미국과 이스라엘이 이란에 대한 군사적 공격을 재개할 경우, 이란이 걸프 해역을 지나는 해저 통신 케이블을 ..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nc877f158",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "26분 전",
+    "url": "https://www.yna.co.kr/view/AKR20261024001851071",
+    "title": "중간선거 불복 판 까나…트럼프 '알래스카 결과 확정 보류' 소송(종합)",
     "summary": [
       "(워싱턴=연합뉴스) 이유미 특파원 = 도널드 트럼프 미국 행정부가 11·3 중간선거에서 알래스카주 연방 상원의원 선거에 출마한 민주당 후보가 근..."
     ],
@@ -322,10 +411,82 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n582e2e0c",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "26분 전",
+    "url": "https://www.chosun.com/economy/startup_story/2026/10/21/HLBSJDAXQNFTLPZEZTC7HFY7SE/",
+    "title": "샤워 중에도 쓸 수 있는 블라우풍트 구강 세정기, 3만원대 단독 특가",
+    "summary": [
+      "샤워 중에도 쓸 수 있는 블라우풍트 구강 세정기, 3만원대 단독 특가."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "na0464ce0",
+    "category": "IT",
+    "source": "조선일보",
+    "time": "31분 전",
+    "url": "https://www.chosun.com/economy/startup_story/2026/08/06/VVLAIMVOFZCWDCCOHLIXYRVKLI/",
+    "title": "로봇청소기 살까 고민 중? 20만~70만원 모든 가격대 성능 총정리",
+    "summary": [
+      "로봇청소기 살까 고민 중? 20만~70만원 모든 가격대 성능 총정리."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n70c48dfa",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "34분 전",
+    "url": "https://www.newsis.com/view/NISX20261024_0003839361",
+    "title": "[속보]트럼프 \"이란에 '장대한 분노' 작전 할수도\"",
+    "summary": [
+      "[서울=뉴시스] 김예진 기자 = ◎공감언론 뉴시스 aci27@newsis.com."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n4d8e106c",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "36분 전",
+    "url": "https://www.chosun.com/economy/startup_story/2026/05/29/AGXZZ2LAXZEMRAH2MOH4RW6NYU/",
+    "title": "육즙과 채수가 입안 가득 팍 터져, 흑백요리사 이순실의 평양만두 126알 초특가",
+    "summary": [
+      "육즙과 채수가 입안 가득 팍 터져, 흑백요리사 이순실의 평양만두 126알 초특가."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n8c65a420",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "45분 전",
+    "url": "https://www.newsis.com/view/NISX20261023_0003839108",
+    "title": "토요일 인천, 낮 최고 21도…일교차 커 건강관리 유의",
+    "summary": [
+      "[인천=뉴시스] 전예준 기자 = 24일 인천은 기온이 평년보다 비슷하거나 조금 높겠다.",
+      "하늘은 동해상에 위치한 고기압의 가장자리에 들어 구름 많겠으나, 늦은 오후부터 대체로 맑겠다.",
+      "수도권기상청은 \"아침 최저기온은 14도, 낮 최고기온은 21도 내외의 분포를 보이겠다\"고 예보했다."
+    ],
+    "chips": [
+      "#의료"
+    ]
+  },
+  {
     "id": "n544baf9d",
     "category": "IT",
     "source": "테크M",
-    "time": "12분 전",
+    "time": "3시간 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=156464",
     "title": "하나금융, 3분기 순익 3.6조 '역대 최대'…자사주 매입·소각 9500억 육박",
     "summary": [
@@ -341,7 +502,7 @@ window.NEWS_DB = [
     "id": "nc86406d2",
     "category": "IT",
     "source": "테크M",
-    "time": "20분 전",
+    "time": "3시간 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=156463",
     "title": "하나금융·두나무, 스테이블코인 결제망 구축 속도…업비트 지갑으로 카드 결제한다",
     "summary": [
@@ -357,7 +518,7 @@ window.NEWS_DB = [
     "id": "na319dddf",
     "category": "IT",
     "source": "테크M",
-    "time": "24분 전",
+    "time": "3시간 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=156462",
     "title": "[국감 26] \"수차례 사업 추진 과정 상세히 답했다\"...배경훈, 프런티어AI 질의에 격앙",
     "summary": [
@@ -370,147 +531,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nd580746f",
-    "category": "IT",
-    "source": "뉴시스",
-    "time": "34분 전",
-    "url": "https://www.newsis.com/view/NISX20261023_0003838757",
-    "title": "\"반도체, 주도주 역할 끝났다\"…전문가 \"AI 투자, 다른 분야도 봐야\"",
-    "summary": [
-      "[서울=뉴시스]김혜경 기자, 김하은 인턴기자 = 반도체 기업들의 실적이 개선되고 있지만 주식시장을 이끄는 주도주 역할은 당분간 하기 어려울 수 있다는 전문가의 분석이 나왔다.",
-      "인공지능(AI) 산업이 반도체를 넘어 에너지와 데이터센터, AI 모델 및 응용 서비스 등으로 확장하는 만큼 투자 대상을 넓혀 살펴볼 필요가 있다는 설명이다.",
-      "지난 22일 구독자 184만명의 유튜브 채널 '부읽남TV_내집마련부터건물주까지'에 출연한 주식전문가 이효석 HS아카."
-    ],
-    "chips": [
-      "#AI",
-      "#반도체"
-    ]
-  },
-  {
-    "id": "ndfc511d4",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "35분 전",
-    "url": "https://www.yna.co.kr/view/AKR20261024002200071",
-    "title": "트럼프, 우크라 스타실드 제한에 \"문제 있다면 내가 바로잡겠다\"",
-    "summary": [
-      "(워싱턴=연합뉴스) 홍정규 특파원 = 도널드 트럼프 미국 대통령은 23일(현지시간) 우크라이나의 드론 작전에 필수적인 군용 위성통신 시스템 '스..."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n8599ff7e",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "38분 전",
-    "url": "https://www.chosun.com/sports/basketball/2026/10/24/ME2WMZTBMQ4DIYZVHBSTSZJTGQ/",
-    "title": "‘송교창 14점 분전했지만…’ 외국선수 전멸한 오사카, 참담한 9연패 수렁…일본프로농구 꼴찌됐다 [오!쎈 오사카]",
-    "summary": [
-      "[OSEN=오사카(일본), 서정환 기자] ‘KCC 우승멤버’ 송교창(30, 오사카 에베사)의 일본적응이 쉽지 않다.",
-      "송교창이 소속된 오사카 에베사는 23일 일본 오사카시 오오키니 아레나 마시바에서 개최된 2026-27 일본프로농구 B.리그 프리미어 정규시즌에서 도쿄 선로커스를 맞아 71-95로 패했다.",
-      "오사카는 개막전 승리 후 내리 9연패를 당하면서 1승."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n1b17e777",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "38분 전",
-    "url": "https://www.chosun.com/jp/sports-jp/2026/10/24/O4VTJVG27ZBX7FZY3IQDWQ3ZUU/",
-    "title": "ソン・ギョチャン14得点も…外国人選手全滅の大阪、9連敗で最下位転落",
-    "summary": [
-      "［OSEN＝大阪（日本）、ソ・ジョンファン記者］「KCC優勝メンバー」ソン・ギョチャン（30、大阪エヴェッサ）の日本への適応は容易ではない。ソン・ギョチャンが所属する大阪エヴェッサは23日、日本・大阪市のおおきにアリーナ舞洲で行われた2026－27年日本プロバスケットボールBリーグ・プレミアのレギュラーシーズンで東京サンロッカーズと対戦し、71－95で敗れた。大阪は開幕戦勝利後、9連敗を喫し、1勝."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nfb5c4b66",
-    "category": "경제",
-    "source": "머니투데이",
-    "time": "40분 전",
-    "url": "https://www.mt.co.kr/sports/2026/10/24/2026102322295152175",
-    "title": "충격 \"경찰 피해 지하터널서 생활\" 테니스 전설 남동생의 몰락... 매일 기괴한 방송까지 \"매형 아가시와 주먹질\"",
-    "summary": [
-      "'테니스 전설' 슈테피 그라프(57)의 남동생이 경찰을 피해 라스베이거스 지하 터널에 숨어 지내는 것으로 드러났다.",
-      "영국 '더선'은 23일(한국시간) \"마이클 그라프(55)가 경찰의 체포를 피하기 위해 라스베이거스 지하 비밀 터널에서 생활하고 있다\"고 보도했다.",
-      "매체에 따르면 마이클은 최근 온라인에 어두운 터널 안에서 횡설수설하는 기괴한 영상들을 올리고 있다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "ne7d9a09e",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "44분 전",
-    "url": "https://www.chosun.com/jp/sports-jp/2026/10/24/HUQD5IRIQVFI7EHHHK6BTSPVJY/",
-    "title": "五輪金ユッタ・レールダム、「下着なし」大胆ドレスが話題",
-    "summary": [
-      "【OSEN＝コ・ソンファン記者】「五輪金メダリスト」のユッタ・レールダム（28）が大胆な近況を公開した。有名ユーチューバー兼ボクサー、ジェイク・ポールの婚約者としてもよく知られるレールダムは、華やかな休暇生活でファンの視線をくぎ付けにした。英国「ザ・サン」は21日（韓国時間）、「ジェイク・ポールの婚約者ユッタ・レールダムが下着を着けず大胆な衣装を披露した。五輪スターの彼女は華やかな『島暮らし』を公."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n078b2e2f",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "44분 전",
-    "url": "https://www.chosun.com/sports/sports_general/2026/10/24/MRSTKYTDMI3DOYJUMQ3GGMRQMY/",
-    "title": "\"속옷 없이 파격 드레스!\" '올림픽 金' 빙속 여제, 호피 비키니 '휴가 인증샷' 화제...\"세상에서 가장 예쁜 여자\" 팬들 극찬",
-    "summary": [
-      "[OSEN=고성환 기자] '올림픽 금메달리스트' 유타 레이르담(28)이 파격적인 근황을 공개했다.",
-      "유명 유튜버 겸 복서 제이크 폴의 약혼녀로도 잘 알려진 그는 화려한 휴가 생활으로 팬들의 시선을 사로잡았다.영국 '더 선'은 21일(한국시간) \"제이크 폴의 약혼녀 유타 레이르담이 속옷 없이 과감한 의상을 선보였다.",
-      "올림픽 스타인 그는 화려한 '섬 생활'을 공."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n0590a397",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "48분 전",
-    "url": "https://www.newsis.com/view/NISX20261024_0003839354",
-    "title": "UAE 연안서 피격 유조선 기름 유출…해변 전면 폐쇄",
-    "summary": [
-      "[서울=뉴시스] 김예진 기자 = 이란 전쟁으로 호르무즈 해협 인근에서 선박에 대한 공격이 잇따르는 가운데 아랍에미리트(UAE) 연안에서 유조선의 기름이 유출돼 해변이 폐쇄됐다.",
-      "23일(현지시간) 유로뉴스, 아나돌루통신 등에 따르면 UAE 기후변화환경부는 이날 성명을 통해 두바이 북쪽에 위치한 움알쿠와인 해변에 영향을 미치는 유조선의 기름 유출을 확인했다고 밝혔다.",
-      "환경부는 기술 감시 및 환경 평가 시스템을 통해 기름 유출을 확인했다며 \"환경 피."
-    ],
-    "chips": [
-      "#환경"
-    ]
-  },
-  {
-    "id": "ne479eb9f",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "49분 전",
-    "url": "https://www.yna.co.kr/view/AKR20261023188251099",
-    "title": "요르단 남부 교회서 무장괴한 총격…7명 사망·34명 부상(종합)",
-    "summary": [
-      "(요하네스버그=연합뉴스) 나확진 특파원 = 요르단 남부의 한 교회에서 23일(현지시간) 무장 괴한의 총격이 벌어져 최소 7명이 숨지고 34명이 ..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
     "id": "neae63990",
     "category": "스포츠",
     "source": "동아일보",
-    "time": "54분 전",
+    "time": "4시간 전",
     "url": "https://www.donga.com/news/Sports/article/all/20261024/134899683/2",
     "title": "유광우 “팬들이 기억하던 삼성화재 모습 되살릴 것”",
     "summary": [
@@ -526,7 +550,7 @@ window.NEWS_DB = [
     "id": "n083ef883",
     "category": "스포츠",
     "source": "동아일보",
-    "time": "54분 전",
+    "time": "4시간 전",
     "url": "https://www.donga.com/news/Sports/article/all/20261024/134899677/2",
     "title": "PO서 만난 KIA-삼성 “원투펀치로 기선제압”",
     "summary": [
@@ -542,7 +566,7 @@ window.NEWS_DB = [
     "id": "n6fb4f4e4",
     "category": "스포츠",
     "source": "동아일보",
-    "time": "54분 전",
+    "time": "4시간 전",
     "url": "https://www.donga.com/news/Sports/article/all/20261024/134899681/2",
     "title": "FC서울, 오늘 강원 누르면 우승… 역대 세번째 조기우승 달성 도전",
     "summary": [
@@ -558,7 +582,7 @@ window.NEWS_DB = [
     "id": "n37f7a530",
     "category": "스포츠",
     "source": "동아일보",
-    "time": "54분 전",
+    "time": "4시간 전",
     "url": "https://www.donga.com/news/Sports/article/all/20261024/134899679/2",
     "title": "25년 만에 요미우리 돌아온 ‘고질라’ 마쓰이",
     "summary": [
@@ -571,24 +595,25 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n6672b2d8",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "1시간 전",
-    "url": "https://www.yna.co.kr/view/AKR20261024002000098",
-    "title": "핀란드, '세계 최초' 사용후핵연료 최종 처분시설 운영 허가",
+    "id": "n435e55ef",
+    "category": "IT",
+    "source": "ZDNet Korea",
+    "time": "4시간 전",
+    "url": "https://zdnet.co.kr/view/?no=20261024011940",
+    "title": "백업만 믿다 150억 날린 제약사…에브리존 \"랜섬웨어, 단말에서 막아야\"",
     "summary": [
-      "(브뤼셀=연합뉴스) 현윤경 특파원 = 핀란드 정부가 사용후핵연료를 보관하는 세계 최초의 최종 처분 시설에 운영 허가를 내줬다고 독일 dpa통신이..."
+      "[지디넷코리아]김준영 에브리존 전략사업본부 총괄 팀장이 23일 \"지금은 랜섬웨어에 감염되면 개인정보와 기밀 정보까지 유출된다고 봐야 한다\"고 말했다.",
+      "랜섬웨어 피해를 방지하기 위해서는 방산 업체가 기술 유출과 업무 중단을 함께 막는 보안 체계를 갖춰야 한다고 제안했다.김 팀장은 이날 방산기술보호·보안협의회가 주최한 '2026 AI기반 방산기술보호 컨퍼런스'에서 'AI 시대의 랜섬웨어: 탐지에서 차단과 복구로'를 주제로 발표했다.에브리존은 한국인."
     ],
     "chips": [
-      "#뉴스"
+      "#AI"
     ]
   },
   {
     "id": "n62e35505",
     "category": "IT",
     "source": "테크M",
-    "time": "1시간 전",
+    "time": "4시간 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=156455",
     "title": "[가봤다] \"라떼는 칙칙했던 청량리역인데\"...핑크빛 놀이터로 변신한 롯데 벨리타운 탐방기",
     "summary": [
@@ -598,38 +623,6 @@ window.NEWS_DB = [
     ],
     "chips": [
       "#교육"
-    ]
-  },
-  {
-    "id": "n7b23e2cd",
-    "category": "IT",
-    "source": "머니투데이",
-    "time": "1시간 전",
-    "url": "https://www.mt.co.kr/sports/2026/10/24/2026102323432174278",
-    "title": "'100cm 애플힙' 日 그라비아 청순 여신 '반전 하체' 비결이... \"먹은 만큼 움직여, 킥복싱으로 박살\" 140kg도 번쩍",
-    "summary": [
-      "그라비아 아이돌 겸 방송인 오카와 나루미(36)가 킥복싱으로 다진 탄탄한 근육질 몸매를 뽐냈다.",
-      "일본 매체 '이파이트'는 23일(한국시간) \"100cm '애플힙'을 자랑하는 오카와가 킥복싱 훈련으로 단련한 굵은 허벅지를 공개했다\"고 보도했다.",
-      "매체에 따르면, 오카와는 이날 자신의 소셜미디어(SNS)에 반바지 차림으로 킥복싱에 땀을 흘리는 훈련 영상을 올렸다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n4284c514",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "1시간 전",
-    "url": "https://www.newsis.com/view/NISX20261023_0003838436",
-    "title": "연 4.4% 이자에 예금자보호까지…미국서 '토큰화 예금' 나왔다",
-    "summary": [
-      "[서울=뉴시스]이지영 기자 = 연 4.4% 이자를 지급하면서 예금자보호까지 받을 수 있는 토큰화 예금이 미국에서 출시됐다.",
-      "은행에 돈을 맡겨 이자를 받다가 필요할 때 스테이블코인으로 바꿔 사용할 수 있는 상품이다.",
-      "22일(현지시간) 디크립트에 따르면 미국 핀테크 기업 소파이(SoFi)는 토큰화 예금 상품 '소파이 언(SoFi Earn·SOFIE)'을 선보였다."
-    ],
-    "chips": [
-      "#뉴스"
     ]
   }
 ];
@@ -650,7 +643,7 @@ window.KEYWORD_TOP = [
   },
   {
     "rank": 3,
-    "tag": "KBO",
+    "tag": "엔비디아",
     "mentions": "1550건",
     "trend": "+135%"
   }
