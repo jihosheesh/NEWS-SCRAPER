@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-10-24 19:08:45
+// 마지막 업데이트: 2026-10-24 22:05:36
 window.NEWS_DB = [
   {
     "id": "n700df3e9",
     "category": "IT",
     "source": "재경일보",
-    "time": "9시간 전",
+    "time": "12시간 전",
     "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE04VWwwVTFxUldxbTZIMlpiX2FVQm9XSUdWekktNVB3ZDlwS2NUVUVBWXhRTFB4OURfVS03NXRiQkNrd1ptb19CdnRETQ?oc=5",
     "title": "삼성전기, 테슬라·엔비디아 3.7조 투자받는다…AI칩기판 라인구축.... : 기업·산업",
     "summary": [
@@ -61,14 +61,14 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "naa998e31",
+    "id": "nd688b2d2",
     "category": "IT",
-    "source": "SBS Biz",
+    "source": "머니투데이",
     "time": "3일 전",
-    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBrRm1QTGZMbnpITjBLWWY3UXRwRGxOeVhqTkpDTDMzLU9ZUEhKdm1RU1FnMWpBVXhUc2R5U3BfWDU0ZU5VQzNMY0tTQy14R084OFhR0gFYQVVfeXFMTUF1WExWaHVrU01Zakp6WU9lNWlHTTk5STM5Um0tOU91aEhINjBtVlQ4MnRCVW9sRTM4ZzRxUTZZNmR5cFpCN0hFS3BPbkZTeENpd3BfTXB2Sg?oc=5",
-    "title": "삼성전기-엔비디아, 세종·부산에 AI 반도체 기판 전용라인 구축",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9sejZTZjNSRkdHVHVJUTE1S0M4QzdOUFpCTktsazhpdFNOZFY1cXNNX0xwdWZxbHc3S2NYUDRhc3RtRTUyb1JwcWhpU0JGejB4M0dBRWNpTlhCUkMwNGE2STk0TklFazkwNmNma9IBckFVX3lxTE5laVlwdXBtNGRzeWk2a1lYNTVRYUxQOV9xN2xuZXFUMFBLa0dnMmMwUmdmR1RIenVWNXJZaHhRdTlFOVFfVW4yTUFObHNjQnRxajZqT0RkN1Jzdmo0dm5QdUNmX05nNkMwM0lQMEJEREh5dw?oc=5",
+    "title": "삼성전기, 엔비디아 손잡았다…AI 반도체 기판 전용 팹 증설 - 머니투데이",
     "summary": [
-      "삼성전기-엔비디아, 세종·부산에 AI 반도체 기판 전용라인 구축 SBS Biz."
+      "삼성전기, 엔비디아 손잡았다…AI 반도체 기판 전용 팹 증설 - 머니투데이 머니투데이."
     ],
     "chips": [
       "#AI",
@@ -211,6 +211,20 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n103b5455",
+    "category": "사회",
+    "source": "뉴스핌",
+    "time": "11일 전",
+    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9LNTNsOXRVTUUzZkF3OU04Q1V3Uk52TmtSMk9ySVh3Ymgtc0Vob2NVbTVsa1NNaldYQi05NTdacVNZUlZCOGZfU2pqbWNYMGZkVUIxazIwcHFrdDVK?oc=5",
+    "title": "세종시 '내일이음 취업박람회' 16일 개최…충청 기업 114곳 참여",
+    "summary": [
+      "세종시 '내일이음 취업박람회' 16일 개최…충청 기업 114곳 참여 뉴스핌."
+    ],
+    "chips": [
+      "#취업"
+    ]
+  },
+  {
     "id": "nb16c3b86",
     "category": "사회",
     "source": "한국경제",
@@ -241,34 +255,6 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n6c4859cd",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "45일 전",
-    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBjajZ4SGVkMFFpSy04Q0ZfWDhINjVaN1ljdERjQ0JPNF9ESHctcGJ0NzJZZFBQMU1YUmZNTE00MVREMGN4bDlDWVFENmFRa3V2R0NPa0ZKY0FUQnfSAWBBVV95cUxNVXNSZmw5Q1NpbkVuOTVUdUtIc0VYVVZiWTl6TWdTeXltajJta3RHZkRJOC1vY1h3bjdSMGUzTzJqZDdwekI1anhTX3R3aU1WdmtOamVIelZqQ0F3c2ZDZUI?oc=5",
-    "title": "정부 \"청년 '쉬었음' 감소세…훈련-구직-취업사다리 복원 신호\"(종합)",
-    "summary": [
-      "정부 \"청년 '쉬었음' 감소세…훈련-구직-취업사다리 복원 신호\"(종합) 연합뉴스."
-    ],
-    "chips": [
-      "#취업"
-    ]
-  },
-  {
-    "id": "n64dc67f5",
-    "category": "IT",
-    "source": "유니콘팩토리",
-    "time": "124일 전",
-    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1ORFIxM2VUWmNQaWh2Z0xiY2xXeUlzZFZvT3l4dGwyNFdvdXlyZ0lJdGtNT2cyYjFaU0pNX0FUcnRQelZxZzBXZDZ0Qi1OSWt4V3lCUFRhWXBYZ0g1M0EzTVVmMTZTVEVIeW5ISA?oc=5",
-    "title": "수도권 쏠림 깨기 나선 중기부…창업도시 4곳서 스타트업 278곳 키운다",
-    "summary": [
-      "수도권 쏠림 깨기 나선 중기부…창업도시 4곳서 스타트업 278곳 키운다 유니콘팩토리."
-    ],
-    "chips": [
-      "#스타트업"
-    ]
-  },
-  {
     "id": "nb9bdfdfb",
     "category": "스포츠",
     "source": "푸드투데이",
@@ -284,17 +270,30 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n80dc1407",
-    "category": "스포츠",
-    "source": "중앙일보",
-    "time": "228일 전",
-    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1kSmhBTDdKY1NsbWktSU80SFYtRWN3VGpnQjRNeEpaNF9LZVo0ZS1wb19tbkZxQUJMOU1NYjVTdVpPLW9aMW9hN0ZRQXVWY3hjQl81MG1R?oc=5",
-    "title": "축구는 손흥민, 야구는 이정후…대표팀 주장의 품격",
+    "id": "n37646dcf",
+    "category": "IT",
+    "source": "유니콘팩토리",
+    "time": "149일 전",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5KV2k5SXVJM0hUUlJLbHg3U2hqak90M0dETHQ2dmd2M2w1QWtKb2Qzd2VsRG50N1dIWGkzZUVfUU5Ld1lSRFlzS1NhclJEcGJKanlRRGc2alhtNHM4aUVCWWhpMEU4bllEQ3RMRA?oc=5",
+    "title": "\"유니콘 배출보다 중요한 건 ○○\"…중기부가 보는 '모두의 창업'은",
     "summary": [
-      "축구는 손흥민, 야구는 이정후…대표팀 주장의 품격 중앙일보."
+      "\"유니콘 배출보다 중요한 건 ○○\"…중기부가 보는 '모두의 창업'은 유니콘팩토리."
     ],
     "chips": [
-      "#손흥민",
+      "#스타트업"
+    ]
+  },
+  {
+    "id": "n783ebe44",
+    "category": "스포츠",
+    "source": "테크M",
+    "time": "206일 전",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4zeE1CWFFHZzZrMjhfLXJoWERMeW9jVzI5eF91RWV1NUxXelFvT1U5YWpyRjZaQ1NqclNTR1hoRWEwYl9qQmc4WTh5Q29TSWROU3ptQ1ZmXy1rajBVczZ1T1A0RXZ0UdIBakFVX3lxTE4tUUs3ak9IVFI3ZEtUQmg5NUpZbWRwdUN5OEFTU2JqaWN4WWJzMVJVc0pLU1U0UzVZTkRKMlRZSUIyNmhPVjVWMzBTVGxocHc2VUdVZl9rRWdUaXVxTjFSdUpzTzFPdEZHdnc?oc=5",
+    "title": "'야구·축구·골프'로 갈라진 국내 OTT...스포츠 팬덤 경쟁 격화",
+    "summary": [
+      "'야구·축구·골프'로 갈라진 국내 OTT...스포츠 팬덤 경쟁 격화 테크M."
+    ],
+    "chips": [
       "#KBO"
     ]
   },
@@ -313,322 +312,322 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n3e8e9c96",
+    "id": "n87043fa8",
     "category": "사회",
     "source": "뉴시스",
-    "time": "8분 전",
-    "url": "https://www.newsis.com/view/NISX20261024_0003839734",
-    "title": "'피 한 방울' 사기범' 다큐 흥행…'이익 나눠달라' 요구까지 들어줬다",
+    "time": "3분 전",
+    "url": "https://www.newsis.com/view/NISX20261023_0003839286",
+    "title": "코로나 백신 소송 6건에 비용 청구…\"부적절\" 비판도",
     "summary": [
-      "[서울=뉴시스]박영환 기자 = '미국 독립영화사 A24가 투자 사기범 엘리자베스 홈스를 다룬 다큐멘터리를 극비리에 제작한 뒤 영화제에서 깜짝 공개해 흥행에 성공했다.",
-      "23일(현지 시간) 미국 월스트리트저널(WSJ)은 A24가 다큐멘터리 '유 캔 시 에브리싱(You Can See Everything)'을 제작하는 동안 이 사실을 아는 직원이 전체 300명 가운데 10명 미만이었다고 보도했다.",
-      "미국 영화 흥행 집계 사이트 박스오피스 모조에 따르면."
+      "[서울=뉴시스] 구무서 기자 = 정부가 코로나19 백신 예방접종 피해보상 관련 소송에서 승소한 이후 소송 비용을 회수 중인 사례가 6건으로 나타났다.",
+      "사실상 반강제적으로 백신을 접종해야 했던 시대적 상황에서 피해를 입었던 개인이 국가를 상대로 한 소송에서까지 비용을 회수하는 건 부적절하다는 목소리도 나온다.",
+      "25일 국회 보건복지위원회 소속 김윤 더불어민주당 의원이 질병관리청으로부터 제출받은 자료에 따르면 8월 말 기준 정부에 제기된 코로나19."
     ],
     "chips": [
-      "#뉴스"
+      "#정치",
+      "#의료"
     ]
   },
   {
-    "id": "n167d882f",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "8분 전",
-    "url": "https://www.newsis.com/view/NISX20261024_0003839562",
-    "title": "카즈하, 미니스커트 아래 드러난 늘씬한 각선미…뉴욕서 우아한 몸매 눈길",
-    "summary": [
-      "[서울=뉴시스]장인혜 인턴 기자 = 그룹 르세라핌 카즈하가 늘씬한 각선미와 균형 잡힌 몸매로 시선을 사로잡았다.",
-      "카즈하는 지난 22일 자신의 사회관계망서비스(SNS)에 뉴욕에서 촬영한 사진 여러 장을 공개했다.",
-      "브라운과 베이지 색상의 체크 재킷에 미니스커트, 시스루 스타킹을 매치해 클래식하면서도 세련된 분위기를 연출했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n6ae2b8a5",
-    "category": "부동산",
-    "source": "뉴시스",
-    "time": "8분 전",
-    "url": "https://www.newsis.com/view/NISX20261023_0003838794",
-    "title": "아이 신발 벗겨지자 \"야!\" 고함…어린이집 교사들 \"감시받는 기분\"",
-    "summary": [
-      "[서울=뉴시스]김혜경 기자, 진민아 인턴기자 = 아파트 단지 내 어린이집에서 근무하며 학부모들의 감시와 과도한 민원에 시달렸다는 전직 교사의 사연이 온라인에서 눈길을 끌고 있다.",
-      "다른 교사들도 비슷한 경험을 털어놓으면서 보육 현장의 어려움에 공감하는 반응이 이어지고 있다.",
-      "지난 21일 사회관계망서비스(SNS)에는 자신을 8년 차 전직 어린이집 교사라고 소개한 A씨의 글이 올라왔다."
-    ],
-    "chips": [
-      "#부동산"
-    ]
-  },
-  {
-    "id": "na6041111",
-    "category": "경제",
-    "source": "뉴시스",
-    "time": "23분 전",
-    "url": "https://www.newsis.com/view/NISX20261025_0003839740",
-    "title": "프랑스 전역서 41만명 시위…파리 등 곳곳서 충돌",
-    "summary": [
-      "[서울=뉴시스] 문예성 기자 = 프랑스 전역에서 고물가와 교육 여건 개선 등을 요구하는 대규모 시위가 벌어져 약 41만명이 거리로 나섰다.",
-      "시위는 대체로 평화롭게 진행됐지만 수도 파리를 비롯한 주요 도시에서 경찰과 시위대 간 충돌이 발생했다.",
-      "24일(현지 시간) CNN 등에 따르면 프랑스 내무부는 이날 전국 시위 참가자를 약 41만명으로 집계했다."
-    ],
-    "chips": [
-      "#교육"
-    ]
-  },
-  {
-    "id": "n6d3163ba",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "1시간 전",
-    "url": "https://www.chosun.com/sports/world-baseball/2026/10/25/GIZTAYJQMVTDSNZWMU2WMZBQGQ/",
-    "title": "'이승엽 절친' 성골 감독이 코치로 복귀한다고? 친정팀 파격 결단, 대체 왜?",
-    "summary": [
-      "[스포츠조선 박상경 기자] 다카하시 요시노부 전 요미우리 자이언츠 감독이 9년 만에 현장에 복귀한다.",
-      "닛칸스포츠 등 일본 언론들은 24일 다카하시의 수석 코치 취임 소식을 전했다.",
-      "요미우리는 23일 레전드 출신인 마쓰이 히데키 감독을 새롭게 선임하고 기자회견을 실시한 바 있다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n103271a9",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "1시간 전",
-    "url": "https://www.chosun.com/culture-life/performance-arts/2026/10/25/ILDMEGVRC5EYHIVJQYQTV76Y4Q/",
-    "title": "부산 오페라하우스 삐끗할 때… 상하이는 3주 연속 ‘월클’ 잔치",
-    "summary": [
-      "상하이는 샤오룽빠오나 훠궈를 먹고 와이탄 야경 구경이나 하는 수준을 훌쩍 뛰어넘은 것같다.",
-      "지난 주말(10월 17일) 개관한 상하이 그랜드 오페라 하우스(상해대가극원)를 보면서 든 생각이다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n23b4e406",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "1시간 전",
-    "url": "https://www.chosun.com/national/national_general/2026/10/25/WU65QHQ5MNCYRBPGSMUDQBCQW4/",
-    "title": "김혜자, 유지인, 장미희… ‘3850만원’으로 1980년대 소득 1위는 누구",
-    "summary": [
-      "김혜자, 유지인, 장미희… ‘3850만원’으로 1980년대 소득 1위는 누구."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nb51c9866",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "1시간 전",
-    "url": "https://www.chosun.com/economy/weeklybiz/2026/10/25/VVGCZVL2JVCAFF3UL2MED25CQA/",
-    "title": "창업이냐, 직장 생활이냐… 기로에 선 당신에게",
-    "summary": [
-      "창업이냐, 직장 생활이냐… 기로에 선 당신에게."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nedfd6fe1",
+    "id": "n44f84be5",
     "category": "사회",
     "source": "연합뉴스",
-    "time": "1시간 전",
-    "url": "https://www.yna.co.kr/view/AKR20261025001200085",
-    "title": "프랑스 극우 국민연합 대표에 '르펜 후계자' 바르델라 재선",
+    "time": "4분 전",
+    "url": "https://www.yna.co.kr/view/AKR20261023106100053",
+    "title": "APEC 성과 이을 후속 사업 어쩌나…\"정부 관심·국비 지원 절실\"",
     "summary": [
-      "(런던=연합뉴스) 김지연 특파원 = 프랑스 극우 정당 국민연합(RN)의 조르당 바르델라(31) 대표가 24일(현지시간) 오를레앙에서 열린 전당대..."
+      "(안동·경주=연합뉴스) 이승형 기자 = 경주 아시아태평양경제협력체(APEC) 정상회의 이후 1년간 관광객 증가 등 가시적인 효과가 뚜렷하게 나타..."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n8a2ff2c7",
+    "id": "nbaa16314",
     "category": "사회",
     "source": "연합뉴스",
-    "time": "1시간 전",
-    "url": "https://www.yna.co.kr/view/AKR20261025001100072",
-    "title": "머스크 변심에 놀란 美동맹들…'스타링크 탈출' 위성 독립 경쟁",
+    "time": "4분 전",
+    "url": "https://www.yna.co.kr/view/AKR20261023118400053",
+    "title": "[르포] 자전거 타고 한복 입고…경주 황리단길엔 외국인 '북적'",
     "summary": [
-      "(뉴욕=연합뉴스) 임수정 특파원 = 일론 머스크 스페이스X 최고경영자(CEO)가 우크라이나군의 위성통신 서비스 이용에 갑작스럽게 제한을 가한 사..."
+      "(경주=연합뉴스) 손대성 기자 = \"요새 외국인들 정말 많이 와요.",
+      "작년에 아시아태평양경제협력체(APEC) 정상회의 개최하고 난 뒤로 외국인 손..."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "ndf682713",
+    "id": "nb2c4bfe0",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "4분 전",
+    "url": "https://www.yna.co.kr/view/AKR20261023135500073",
+    "title": "日연구진 \"5세기 나가노 지배층 男, 가야 女유골과 7촌 혈연\"",
+    "summary": [
+      "(도쿄=연합뉴스) 조성미 특파원 = 지난해 7월 베이징에서 열린 국제분자생물진화학회 학술대회에서 흥미로운 주제가 발표됐다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n042f5b71",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "4분 전",
+    "url": "https://www.yna.co.kr/view/AKR20261023163800504",
+    "title": "北 IT인력, AI로 신분 위조해 해외취업…韓기업에 채용된 정황도",
+    "summary": [
+      "(서울=연합뉴스) 민선희 기자 = 북한 정보기술(IT) 노동자가 국내 민간 업체에 위장취업해 개발 업무를 수행한 정황이 포착되면서, 이들의 해외..."
+    ],
+    "chips": [
+      "#AI",
+      "#채용",
+      "#취업"
+    ]
+  },
+  {
+    "id": "nf0dd221a",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "4분 전",
+    "url": "https://www.newsis.com/view/NISX20261023_0003838990",
+    "title": "건설노동자 퇴직공제금 5년간 1216곳 누락…뒤늦게 3억 적립",
+    "summary": [
+      "[서울=뉴시스]박정영 기자 = 최근 5년간 건설노동자의 민원 제기로 퇴직공제금 적립에 필요한 근로일수 누락·과소신고가 확인돼 정정된 건설현장이 1200곳을 넘는 것으로 나타났다.",
+      "이 과정에서 추가로 적립된 퇴직공제금만 3억6000만원에 달했다.",
+      "25일 국회 기후에너지환경노동위원회 소속 어기구 더불어민주당 의원실이 건설근로자공제회에서 제출받은 자료에 따르면 2022년부터 올해 8월까지 노동자들의 근로일수 누락 관련 민원을 통해 실제 누락·과소신고."
+    ],
+    "chips": [
+      "#정치",
+      "#환경"
+    ]
+  },
+  {
+    "id": "n0eed2fdd",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "4분 전",
+    "url": "https://www.newsis.com/view/NISX20261023_0003839146",
+    "title": "생사기로 환자 어쩌나…'중증외상센터' 예산삭감",
+    "summary": [
+      "[서울=뉴시스] 류난영 기자 = 정부의 지방 국립대병원 국비 지원이 2022년 대비 2026년 4배로 급증했지만, 생명과 직결된 중증외상환자 진료 지원은 사실상 제자리걸음에 그친 것으로 나타났다.",
+      "특히 2026년 정부 예산안에서는 중증외상 지원을 받는 국립대병원 5곳 중 4곳의 국비 지원액이 전년보다 일제히 줄었다.",
+      "25일 국회 보건복지위원회 소속 허종식 더불어민주당 의원이 보건복지부로부터 제출 받은 '지방 국립대병원 정부지원 현황' 자료를 분."
+    ],
+    "chips": [
+      "#정치",
+      "#의료"
+    ]
+  },
+  {
+    "id": "na27830a7",
     "category": "경제",
     "source": "머니투데이",
-    "time": "1시간 전",
-    "url": "https://www.mt.co.kr/entertainment/2026/10/25/2026102502354888251",
-    "title": "\"하루 6끼 먹고 키웠다\" 최산, 52㎏에 콤플렉스에 '벌크업'",
+    "time": "5분 전",
+    "url": "https://www.mt.co.kr/stock/2026/10/25/2026102423503752583",
+    "title": "남들 망할 때 한 베팅으로 대박…미국의 다이소 '올리스'를 아시나요",
     "summary": [
-      "그룹 에이티즈 최산이 데뷔 초 몸무게가 52㎏에 불과했던 반전 과거를 공개했다.",
-      "마른 체형에 대한 콤플렉스가 있던 최산은 하루 6끼씩 먹고 고칼로리 과자까지 챙기면서 4년간 꾸준히 운동해 현재의 근육질 몸매를 만들었다.",
-      "24일 방영된 MBC '전지적 참견 시점' 421회에서는 에이티즈 멤버 최산과 홍중이 출연해 일상을 공개했다."
+      "[반준환의 미국 스몰캡(44)] 숫자 뒤 스토리를 읽어야 진짜 투자가 보입니다.",
+      "한국주식도 미국 스몰캡 생태계를 알면 α를 낼 수 있습니다.",
+      "기술의 언어를 투자의 언어로 풀어내는 전문기자와 글로벌 특화분석 원리서치의 투자 나침반으로 여러분을 안내하겠습니다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n2ac94e50",
+    "id": "nbfeb27a8",
+    "category": "경제",
+    "source": "머니투데이",
+    "time": "5분 전",
+    "url": "https://www.mt.co.kr/entertainment/2026/10/25/2026102310014330327",
+    "title": "\"올해 74세라고?\" 이수만 또 통했다...걸그룹 '초고속 1등' 비결은",
+    "summary": [
+      "이수만 A2O엔터테인먼트 키 프로듀서가 선보인 신인 걸그룹이 데뷔와 동시에 음원 차트 정상에 오르며 돌풍을 일으키고 있다.",
+      "짧은 곡과 따라 하기 쉬운 안무가 주목받는 K팝 시장에서 고음과 칼군무를 앞세운 이른바 '이수만식' 아이돌 제작 방식이 다시 관심을 끌고 있다.",
+      "A2O 라이트(A2O LITE)의 데뷔곡 '니온'(NEON)은 지난 13일 오후 6시 발매된 후 29시간 만에 멜론 메인 차트 톱100 1위에 올랐다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n4c75152b",
     "category": "IT",
-    "source": "테크M",
-    "time": "1시간 전",
-    "url": "https://www.techm.kr/news/articleView.html?idxno=156468",
-    "title": "[가봤다] 네이버웍스가 판 벌인 세종런...공무원 2000여명 '초록물결'",
+    "source": "머니투데이",
+    "time": "5분 전",
+    "url": "https://www.mt.co.kr/future/2026/10/25/2026101915054962909",
+    "title": "GIST 반도체 혁신기술 2종 뜬다…'유리 기판·2차원 소재' 눈길",
     "summary": [
-      "24일 15도 안팎의 선선한 날씨에 세종중앙공원은 이른 아침부터 초록빛으로 넘실댔다.",
-      "단체 티셔츠를 입은 수천명이 한곳에 운집한 모습은 역동성을 형상화한 무언가를 연상하게 했다.이들이 공원에 모인 까닭은 '네이버웍스와 함께하는 세종런 26'에 참가하기 위해서다.",
-      "세종런은 5km와 10km의 비교적 가벼운 코스로 구성돼 부모님을 동반한 학생들부터 연인과 부부 동반 참가자까지 다양한 연령층이 함께하는 축제의 장으로 자리했다."
+      "[2026 K-프리미어 딥테크 페스타 : 광주과학기술원(GIST)] 전기먹는 하마 AI 반도체 열·손실 잡는다…'특수유리 기판' 뭐길래 김복현 광주과학기술원(GIST) 고등광기술연구원 수석연구원 '반도체 글라스 기판용 저유전 유리소재 기술' 개발 구리 배선 대신 빛으로 연결…광인터커넥트로 확장 AI(인공지능) 반도체의 성능 경쟁이 칩을 넘어 '기판'으로 확대되고 있다.",
+      "하나의 패키지 안에 여러 연산 칩과 고대역폭메모리(HBM)를 결합하면서 반도."
     ],
     "chips": [
-      "#네이버"
+      "#AI",
+      "#반도체"
     ]
   },
   {
-    "id": "n458be0da",
+    "id": "n6ce6c765",
     "category": "경제",
     "source": "머니투데이",
-    "time": "1시간 전",
-    "url": "https://www.mt.co.kr/entertainment/2026/10/25/2026102502204517482",
-    "title": "최산, 에이티즈 데뷔 후 집안 빚 변제 \"지금은 해피엔딩\"",
+    "time": "5분 전",
+    "url": "https://www.mt.co.kr/world/2026/10/25/2026102313583955152",
+    "title": "시진핑 4연임 분수령까지 1년…中 5중전회서 조직 정비",
     "summary": [
-      "그룹 에이티즈 최산이 데뷔 후 번 돈으로 집안의 빚을 모두 갚았다고 고백했다.",
-      "최산은 고등학교 시절 어머니에게 어려워진 가정형편을 듣고 하루빨리 돈을 벌어 가족을 돕겠다고 결심했고 현재는 빚을 모두 청산한 상태다.",
-      "24일 방영된 MBC '전지적 참견 시점' 421회에서는 에이티즈 멤버 최산과 홍중이 출연해 일상을 공개했다."
+      "중국 공산당이 오는 26일부터 나흘간 '제20기 중앙위원회 제5차 전체회의(이하 5중전회)'를 열고 당 기강과 반부패 강화 방안을 논의한다.",
+      "시진핑 중국 국가주석의 당 총서기 4연임 분수령인 내년 제21차 당대회를 약 1년 앞두고 당 조직의 결속과 간부들의 정책 집행력을 다질 것으로 보인다.",
+      "25일 중국 관영 신화통신에 따르면 중국 공산당은 5중전회를 오는 26~29일 베이징에서 개최한다."
     ],
     "chips": [
-      "#교육"
+      "#정책"
     ]
   },
   {
-    "id": "nf69cff98",
+    "id": "nb1eed60a",
     "category": "경제",
-    "source": "머니투데이",
-    "time": "1시간 전",
-    "url": "https://www.mt.co.kr/entertainment/2026/10/25/2026102500074051538",
-    "title": "'가슴춤' 최산, 광고계 러브콜 폭주 \"종목별로 쓸어 담는 중\"",
+    "source": "아시아경제",
+    "time": "5분 전",
+    "url": "https://view.asiae.co.kr/article/2026102310091726797",
+    "title": "[사이언스 스코프]암 진단 원료 만드는 국산 가속기…20년 기술개발의 결실",
     "summary": [
-      "그룹 에이티즈 최산이 화제의 '가슴춤'으로 광고계의 뜨거운 러브콜을 받고 있다.",
-      "최산은 다양한 분야의 광고를 촬영했으며 아직 공개되지 않은 광고도 있다고 밝혀 인기를 실감케 했다.",
-      "24일 방영된 MBC '전지적 참견 시점' 421회에서는 에이티즈 멤버 최산과 홍중이 출연해 바쁜 일상을 공개했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n3cc21055",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "2시간 전",
-    "url": "https://www.yna.co.kr/view/AKR20261025001000079",
-    "title": "후티 반군 \"사우디 수도 리야드 공항·동서 송유관 등 타격\"",
-    "summary": [
-      "(카이로=연합뉴스) 김상훈 특파원 = 예멘의 친이란 반군 후티가 사우디아라비아의 대규모 공습에 대한 보복으로 리야드 킹 칼리드 국제공항과 핵심 ..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n69ee2f35",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "2시간 전",
-    "url": "https://www.yna.co.kr/view/AKR20261025000700081",
-    "title": "[르포] 엘리제궁 앞에 장갑차…\"그래도 우린 시위 안멈춰요\"",
-    "summary": [
-      "(파리=연합뉴스) 황윤정 특파원 = 24일(현지시간) 프랑스 파리의 포르트 디탈리(Porte d'Italie)."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n469b0305",
-    "category": "스포츠",
-    "source": "머니투데이",
-    "time": "3시간 전",
-    "url": "https://www.mt.co.kr/sports/2026/10/25/2026102421105097418",
-    "title": "'허구연 총재 3연임 청신호' 이종훈 전 KBSA 회장, 돌연 KBO 총재 후보 사퇴",
-    "summary": [
-      "차기 한국야구위원회(KBO) 총재에서 갑작스럽게 후보로 나섰던 이종훈(58) 전 대한야구소프트볼협회장이 최종 불출마를 선언했다.",
-      "24일 야구계에 따르면 이종훈 전 회장은 전날(23일) KBO 사무국에 차기 총재 선거 불출마 의사를 전달했다.",
-      "KBO 사무국은 이 같은 사실을 프로야구 10개 구단에 알린 것으로 전해졌다."
-    ],
-    "chips": [
-      "#KBO",
-      "#정치"
-    ]
-  },
-  {
-    "id": "n247c4baf",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "3시간 전",
-    "url": "https://www.donga.com/news/Entertainment/article/all/20261025/134901498/1",
-    "title": "킴 카다시안, 화이트 드레스 뚫고 나온 볼륨감…탄탄한 몸매 관리 비결은",
-    "summary": [
-      "할리우드 사업가 킴 카다시안이 화이트 드레스를 입고 남다른 볼륨감을 드러내 화제다.17일(현지 시간) AP통신 보도에 따르면 킴 카다시안은 2026 아카데미 뮤지엄 갈라 행사에 참석했다.",
-      "이날 그는 몸매의 곡선을 강조하는 화이트톤 드레스를 착용하고 등장했다.",
-      "목에는 의상과 조화를 이루는 실버 주얼리를 더해 세련된 분위기를 연출했다.킴 카다시안은 평소 볼륨감 있는 체형으로 잘 알려져 있다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n0ca16489",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "3시간 전",
-    "url": "https://www.donga.com/news/Entertainment/article/all/20261025/134901495/1",
-    "title": "유재석, 당일 녹화 취소 여파에 난감…“아직도 문자 와”",
-    "summary": [
-      "방송인 유재석이 감기 몸살로 녹화를 당일 취소했던 당시를 떠올리며 건강 이상설을 일축했다.24일 방송된 MBC 예능 프로그램 ‘놀면 뭐하니?’는 ‘먹쪄 모임’ 특집으로 꾸며졌다.",
-      "게스트로는 정준하와 곽범이 출연했다.이날 유재석은 정준하와 이야기를 나누던 중 자신의 건강 상태를 언급했다.그는 “나도 목감기인데 사람들이 쓰러진 줄 안다”며 “문자를 어제도 받았다.",
-      "한 달이 됐는데”라고 말했다.그러면서 “마음은 고마운데 별일 아니라고 후속 기사를 좀."
+      "편집자주'사이언스스코프(Science Scope)'는 특정 과학기술 현상을 깊이 있게 들여다보고, 그 의미와 미래를 분석하는 기획입니다.",
+      "스위스 제약사 노바티스는 방사성동위원소를 활용한 전립선암 치료제 '플루빅토' 하나로 2025년 19억9400만달러(약 2조6400억원)의 매출을 올렸다.",
+      "병원에서 암세포의 위치를 찾아내는 영상진단에도 방사성동위원소가 쓰인다."
     ],
     "chips": [
       "#의료"
     ]
   },
   {
-    "id": "n76aa8e01",
-    "category": "스포츠",
-    "source": "동아일보",
-    "time": "3시간 전",
-    "url": "https://www.donga.com/news/Entertainment/article/all/20261025/134901492/1",
-    "title": "이준, 1000만뷰 야구장 댄스 재현…김종민 “자꾸 벗으려고 그래”",
+    "id": "n9054b8f5",
+    "category": "IT",
+    "source": "연합뉴스(경제)",
+    "time": "5분 전",
+    "url": "https://www.yna.co.kr/view/AKR20261024004400030",
+    "title": "\"닫힌 지갑 열어라\"…유통가, AI·이색 상품으로 연말 승부수",
     "summary": [
-      "배우 이준이 조회수 1000만회를 넘긴 야구장 댄스 당시의 민소매 차림을 다시 선보인다.25일 오후 6시 10분 방송되는 KBS 2TV 예능물 ‘1박 2일 시즌4’에서는 충남 서산으로 떠난 여섯 멤버의 ‘벌금 청산 레이스’ 두 번째 이야기가 공개된다.이날 멤버들은 단체 로봇 댄스를 추며 퀴즈 정답을 맞히는 저녁 식사 복불복 미션에 도전한다.미션을 앞두고 춤을 연습하던 이준은 갑자기 “민소매 입어도 돼요? 춤출 때 민소매 입어야 한다”며 상의를."
+      "(서울=연합뉴스) 조민정 기자 = 증시 변동과 경기 둔화 속에 가계의 지갑이 닫히고 있다."
     ],
     "chips": [
-      "#KBO"
+      "#AI"
     ]
   },
   {
-    "id": "n89316922",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "3시간 전",
-    "url": "https://www.donga.com/news/Entertainment/article/all/20261025/134901487/1",
-    "title": "안유진, 체크 투피스 사이 선명한 복근…1일 1식 대신 택한 관리법",
+    "id": "n6b290af4",
+    "category": "부동산",
+    "source": "뉴시스",
+    "time": "5분 전",
+    "url": "https://www.newsis.com/view/NISX20261023_0003839212",
+    "title": "삼성 대출에 성과급 기대까지…경기 남부 집값 불붙었다[부동산 머니무브②]",
     "summary": [
-      "그룹 아이브 안유진이 신곡 ‘룩스 캔 킬’(Looks Can Kill)로 활동 중인 가운데, 잘록한 허리와 선명한 복근이 드러난 근황 사진을 공개해 눈길을 끌고 있다.지난 22일 안유진은 자신의 소셜미디어(SNS)에 “커피가 필요할 때”라는 글과 함께 여러 장의 사진을 올렸다.",
-      "공개된 사진 속 안유진은 갈색 계열의 체크무늬 투피스를 입고 다양한 자세를 취했다.",
-      "짧은 상의 아래로 드러난 잘록한 허리와 선명한 복근이 눈길을 끈다.안유진은 지난 19."
+      "[서울=뉴시스]이종성 기자 = 반도체 기업의 사내 주택구입 대출과 내년 성과급 지급 기대 속에 동탄·영통을 중심으로 한 경기 남부 집값 상승세가 주변 지역으로 번지고 있다.",
+      "분당·수지 등 선호 주거지로 향하는 매수도 늘어나는 가운데 병점·군포 등 상대적으로 저렴한 지역도 강세를 보이고 있다.",
+      "자금 여력이 커진 주택 보유자의 갈아타기와 가격 부담을 낮추려는 실수요자의 움직임이 맞물리고 있다는 분석이다."
+    ],
+    "chips": [
+      "#반도체",
+      "#부동산"
+    ]
+  },
+  {
+    "id": "n9087d22b",
+    "category": "경제",
+    "source": "조선일보",
+    "time": "5분 전",
+    "url": "https://www.chosun.com/economy/stock-finance/2026/10/25/GU2DAMTCMMYTQYZQGBQTSNBTGM/",
+    "title": "이름만 남은 ‘서민금융 우수 대부’… 은행 외면에 연 금리 20%",
+    "summary": [
+      "저신용자 대출을 지원하기 위해 도입된 ‘서민금융 우수 대부업체’ 제도가 은행권의 자금 공급 부족으로 제 역할을 못 한다는 지적이 나온다.",
+      "저신용자를 위한 상품임에도 대출 금리는 법정 최고 금리인 20%에 가까워지고 있다.",
+      "25일 한국대부금융협회에 따르면 우수 대부업체가 공급하는 서민금융 상품의 평균 금리는 연 19~20%다."
+    ],
+    "chips": [
+      "#금리"
+    ]
+  },
+  {
+    "id": "nd91417a7",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "6분 전",
+    "url": "https://www.chosun.com/jp/culture-life-jp/2026/10/25/ZE6KYRGOUFEGVHT2Z3D67ZVOWU/",
+    "title": "DJ SODA、台湾台風被害を茶化したと物議…薄着で大笑い",
+    "summary": [
+      "【OSEN＝チャン・ウヨン記者】DJソーダが、台北を直撃した台風被害を伝える過程で、コンテンツのために危険な行動を取ったとして批判を受けている。DJソーダは24日、自身のSNSに「台湾に来るたびに地震に台風まで経験する私。非常食を買いに少し外に出たら、ひどい目に遭って帰ってきました」として動画を公開した。動画には、台北に到着したDJソーダが非常食を買うため一時、道."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "na51686b7",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "6분 전",
+    "url": "https://www.chosun.com/entertainments/broadcast/2026/10/25/GJQTQNRZMRTGMYTFGRRTGN3BG4/",
+    "title": "DJ소다, 대만 태풍 피해 희화화 논란..하의실종→박장대소 '눈살' [Oh!쎈 이슈]",
+    "summary": [
+      "[OSEN=장우영 기자] DJ 소다가 타이베이를 강타한 태풍 피해를 전하는 과정에서 콘텐츠를 위해 위험한 행동을 했다며 지적을 받고 있따.DJ 소다는 24일 자신의 SNS에 \"대만 올 때마다 지진에 태풍까지 겪는 나.",
+      "비상식량 사러 잠깐 나갔다가 호되게 당하고 왔어요\"라며 영상을 공개했다.영상에는 타이베이에 도착한 DJ 소다가 비상식량을 사기 위해 잠시 길."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "na1edc072",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "11분 전",
+    "url": "https://www.chosun.com/jp/sports-jp/2026/10/25/FQBDQZR73NCXBMRARQQKDEJMKM/",
+    "title": "トッテナム、チェルシーの敵地で8年6カ月ぶり2－0勝利…GKのオウンゴールにパーマー退場",
+    "summary": [
+      "［OSEN＝チョン・スンウ記者］トッテナム・ホットスパーがついにチェルシー遠征のジンクスを破った。相手GKの致命的なミスとマティス・テルのダメ押しゴールを武器に、実に8年6カ月ぶりにスタンフォード・ブリッジで勝利を挙げた。ロベルト・デ・ゼルビ監督率いるトッテナムは25日（韓国時間）、英ロンドンのスタンフォード・ブリッジで行われた2026－2027シーズンのイングランド・プレミアリーグ第8節、チェルシーとのアウェー."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n34d35a75",
+    "category": "사회",
+    "source": "연합뉴스(경제)",
+    "time": "20분 전",
+    "url": "https://www.yna.co.kr/view/AKR20261023186900003",
+    "title": "석유 최고가격제 장기화 딜레마…재정부담에 출구전략 고민",
+    "summary": [
+      "(서울=연합뉴스) 장보인 기자 = 석유 최고가격제가 시행 7개월을 넘기면서 제도 장기화에 따른 부작용과 재정 부담을 우려하는 목소리가 커지고 있..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n90758cea",
+    "category": "경제",
+    "source": "연합뉴스(경제)",
+    "time": "24분 전",
+    "url": "https://www.yna.co.kr/view/AKR20261024044100003",
+    "title": "대형 건설사들, 중대재해 영업정지에 '취소소송' 후 계속 수주",
+    "summary": [
+      "(서울=연합뉴스) 오예진 기자 = 대형 건설사들이 공사 현장에서 발생한 중대재해로 영업정지 처분을 받고도 잇따라 취소 소송을 제기해 사실상 정상..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n1586927d",
+    "category": "경제",
+    "source": "연합뉴스(경제)",
+    "time": "30분 전",
+    "url": "https://www.yna.co.kr/view/AKR20261024027000030",
+    "title": "[반려동물] '깐깐해진 집사'에 반려묘 간식·영양제 시장 성장세",
+    "summary": [
+      "(서울=연합뉴스) 김세린 기자 = 반려묘 간식 제품의 매출이 두 자릿수 증가율을 기록하는 등 성장세를 보이면서 식품업계가 반려묘 사업 확대에 나..."
     ],
     "chips": [
       "#뉴스"
@@ -641,20 +640,20 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2720건",
-    "trend": "+315%"
+    "mentions": "2330건",
+    "trend": "+255%"
   },
   {
     "rank": 2,
-    "tag": "엔비디아",
-    "mentions": "1680건",
-    "trend": "+155%"
+    "tag": "AI",
+    "mentions": "1810건",
+    "trend": "+175%"
   },
   {
     "rank": 3,
-    "tag": "KBO",
-    "mentions": "1550건",
-    "trend": "+135%"
+    "tag": "엔비디아",
+    "mentions": "1680건",
+    "trend": "+155%"
   }
 ];
 // ====AUTO-GENERATED-END====
