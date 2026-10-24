@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-10-24 02:25:52
+// 마지막 업데이트: 2026-10-24 07:43:10
 window.NEWS_DB = [
   {
     "id": "n748f506e",
     "category": "경제",
     "source": "산경투데이",
-    "time": "1일 전",
+    "time": "2일 전",
     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1JNUVuejFwMk0wSzNpRTVKU1JiTGt3cjNvRVE2Y1RTazNhNTdIczlXZ190MTE4R3VPRk52STVXN0VOakdtRzRPaEgxb2RtbWJsZl9OZlJDLXdrcTFmWmNsajVGbzA1NFh4SlhMa3hXZU3SAXRBVV95cUxPUFM5Zy02M3lZeklRMGpaQVh5REZzVHFCRXZCMno4M05IenVlM0taanlyWkkwSjk3NDFpVzVXOFB3UExBQUxud1A3eG12NGNMREZ3VFhycS16cnd5NkhDYUs4UFItb1NDNHlna01QVTBMcXR2bw?oc=5",
     "title": "코스피 3%대 급락에도 환율 5일째 연저점…1,324원대 하락",
     "summary": [
@@ -19,7 +19,7 @@ window.NEWS_DB = [
     "id": "n6a41cc9c",
     "category": "사회",
     "source": "한국사회복지저널",
-    "time": "1일 전",
+    "time": "2일 전",
     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5jTUtaSjFBMkZuaVlzemFaSzUyNGRKNHozbk1GU2hOamNJZVhzZW9kVjhSR3VrYlNpQlRWU2ZZT29JZFFXN0cxMVg1RzhUa2VSN2FQcDJ5RUNyTEFudW5XYXdyS1JmTkw4LWhv?oc=5",
     "title": "중구, 28일 일자리박람회…15개 기업서 156명 모집",
     "summary": [
@@ -34,7 +34,7 @@ window.NEWS_DB = [
     "id": "n4e830733",
     "category": "IT",
     "source": "조선일보",
-    "time": "1일 전",
+    "time": "2일 전",
     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQXzAySzZGd24teEdYclhfUzg2OU5tU2xUeDZhUlotMVVKMW9VaEZXYUVmWEdZaWpPOTVMLXdWX3lCZzZyTl9qcEZZbjlUMFlISGNzZ09uZnBzenZLcS1SUThodWpaT2dKdVRiQmVLSEVLTkZPSEpDeFhfMDJrSEhLQ1hTWQ?oc=5",
     "title": "고객사 넘어서 부품사까지… 엔비디아, AI 공급망 선점 나섰다",
     "summary": [
@@ -81,7 +81,7 @@ window.NEWS_DB = [
     "id": "n7f0bbf0b",
     "category": "사회",
     "source": "잡포스트",
-    "time": "2일 전",
+    "time": "3일 전",
     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE50eGgzUzE5Vm9EQ0RiNDRFQ19NRXRpTWJHQV9yeG9PQlZxZElnN083bFhLZHJmZkhNOFFOUUJOU1gxM2tLQkh2MHFCdDkwNDVlc1A4THRzUmZFenpLa3hfUzJpWV8tT0xBUjl0b0lNclk5UdIBckFVX3lxTE50eGgzUzE5Vm9EQ0RiNDRFQ19NRXRpTWJHQV9yeG9PQlZxZElnN083bFhLZHJmZkhNOFFOUUJOU1gxM2tLQkh2MHFCdDkwNDVlc1A4THRzUmZFenpLa3hfUzJpWV8tT0xBUjl0b0lNclk5UQ?oc=5",
     "title": "성북구, 26일 '일자리 한마당' 개최…20여 개 기업 현장 채용",
     "summary": [
@@ -96,7 +96,7 @@ window.NEWS_DB = [
     "id": "nc5fca548",
     "category": "IT",
     "source": "서울이코노미뉴스",
-    "time": "2일 전",
+    "time": "3일 전",
     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE82UzhNS3BJcHNkcGk1NHR5b2gtMk1Vb1A1MzFlRENqdm9TVWpLbWhNUUR5NFM1MnJ6bzhId2ViMHk1NEVoUUl2bVM5NV9YMERBdWZadlVGblVublRIU0VKWEdYdVFBSjZNMUhqNUtB?oc=5",
     "title": "삼성·SK하이닉스, 美엔비디아 HBM 공정표준화 요청에 대처…승부처는 1c D램",
     "summary": [
@@ -112,7 +112,7 @@ window.NEWS_DB = [
     "id": "n6dfe9e4c",
     "category": "IT",
     "source": "연합뉴스",
-    "time": "2일 전",
+    "time": "3일 전",
     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBWcHZfMFRmYW84X1JrY2MzQU5FbGF1Y1RhZU5INEhLb1FYV0x5b21Kd1J1RGFVZnRzU1pudUNVX3RWeGM5ZmhIeldpRkFRY0VQS0JLdERnVEtzWEdtZVNjR9IBYEFVX3lxTFBWcHZfMFRmYW84X1JrY2MzQU5FbGF1Y1RhZU5INEhLb1FYV0x5b21Kd1J1RGFVZnRzU1pudUNVX3RWeGM5ZmhIeldpRkFRY0VQS0JLdERnVEtzWEdtZVNjRw?oc=5",
     "title": "공정 바꾸고 대체품까지…'금값' AI메모리에 빅테크 대응 몸부림",
     "summary": [
@@ -169,7 +169,7 @@ window.NEWS_DB = [
     "id": "n7c0b8434",
     "category": "IT",
     "source": "스트레이트뉴스",
-    "time": "3일 전",
+    "time": "4일 전",
     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE43d2tuV2xBZl96SF9iMUJQOUdjV2dkbHVSbmZXSk43WXFJOFljT2tLWVZwZzhHMlZQTGJ4VU1XamcySEt3Qi1iWjMzaUdTMEtsM1V5bUpWWFJ3a2p5Q0F1NFdFVXVSNWdkZFNiSXRtZXB1NXPSAXdBVV95cUxNZDc5SFp0dTZOSTJsZG5oOE1qaFl6NUJiS1BLaFlNVTlOSWRsT2hfLTMtZzlWbXpPQzZWYkUwZzk2dklVX1p5ZDRhSWFSX3B1OXBTOGJiMzE2N2M0NWZONHZ3R0FaVkhQcGZuX0Z5OXpLOGlMal9UZw?oc=5",
     "title": "삼성, 엔비디아 HBM에 TSMC 3나노 쓴다…자체 파운드리 전략은 유지",
     "summary": [
@@ -184,7 +184,7 @@ window.NEWS_DB = [
     "id": "n9f89c52e",
     "category": "부동산",
     "source": "경인방송 뉴스",
-    "time": "3일 전",
+    "time": "4일 전",
     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5hTGtaTjd3UkVySkFocW43aGNPS2paSkxrZWFZY0lrQ2hxVERmWm9yX0pBTy1EZ05xUUlqUzlNcGdDaWhXczRPdXhhdGNTYkZOa1hBeExzZ0hWYjlISmRPUTk4VUzSAWhBVV95cUxOMi05bVdQRHJ0YU5MdHNKekdPblNLS3k1WjZ3ZEdwSU91eHEtNGZYRFo3UzdFQWh5WGJ6dXRaellNWlhrakp2Um5ZYzM5Nnp0eS0tWjNhbzNDN0g3LU44algxYnUxYXpvUg?oc=5",
     "title": "수도권 집값 다시 들썩이는데, 내 집 마련은 더 멀어져…매매·전세·분양 '삼중 부담'",
     "summary": [
@@ -242,7 +242,7 @@ window.NEWS_DB = [
     "id": "n689e4e53",
     "category": "IT",
     "source": "관악FM",
-    "time": "23일 전",
+    "time": "24일 전",
     "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5XRXA4X1ZRU1VLLXU1VDN6a0JmdmxDbW5BdXRua0hVQzNpSXAtbjF6bFRkMkE3amdpMDVsWm0wcEtnTFAzR0xQZTBpVQ?oc=5",
     "title": "“관악S밸리에서 미래 유니콘의 꿈을!” 관악구, 2026년 제3차 신규 입주기업 최대 20개사 모집",
     "summary": [
@@ -257,7 +257,7 @@ window.NEWS_DB = [
     "id": "na6d22b09",
     "category": "스포츠",
     "source": "경기일보",
-    "time": "31일 전",
+    "time": "32일 전",
     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE11U1hseFNuTzV6YUoyOWxkOURqZjlTV1FEWEo1S09LazhsM2FnNTRLQk4zWjVETkZXLXphOHRxMldQazEzMVhJN2RLV3p5MUphUThhYmZvOE41R1U?oc=5",
     "title": "추석 연휴, 프로야구·축구 현장도 열기 ‘팔팔’",
     "summary": [
@@ -271,7 +271,7 @@ window.NEWS_DB = [
     "id": "nb9bdfdfb",
     "category": "스포츠",
     "source": "푸드투데이",
-    "time": "147일 전",
+    "time": "148일 전",
     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9BVmpLTU1zOFZsU1RWVmVOSXppaWhDWFBBRkF4akI3WHBIcXIyX2pXa3JaeXplMm9vbmE4cU1PclhFTXVZdURxQ0RCYTF3aFNsbmRKcTZ5VE9na0cwakQ2XzNuWlJ5QQ?oc=5",
     "title": "‘손흥민 월드콘.KBO몽쉘’ 축구.야구팬 다 잡자...롯데웰푸드, 스포츠마케팅 총력",
     "summary": [
@@ -286,7 +286,7 @@ window.NEWS_DB = [
     "id": "n783ebe44",
     "category": "스포츠",
     "source": "테크M",
-    "time": "205일 전",
+    "time": "206일 전",
     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4zeE1CWFFHZzZrMjhfLXJoWERMeW9jVzI5eF91RWV1NUxXelFvT1U5YWpyRjZaQ1NqclNTR1hoRWEwYl9qQmc4WTh5Q29TSWROU3ptQ1ZmXy1rajBVczZ1T1A0RXZ0UdIBakFVX3lxTE4tUUs3ak9IVFI3ZEtUQmg5NUpZbWRwdUN5OEFTU2JqaWN4WWJzMVJVc0pLU1U0UzVZTkRKMlRZSUIyNmhPVjVWMzBTVGxocHc2VUdVZl9rRWdUaXVxTjFSdUpzTzFPdEZHdnc?oc=5",
     "title": "'야구·축구·골프'로 갈라진 국내 OTT...스포츠 팬덤 경쟁 격화",
     "summary": [
@@ -375,253 +375,255 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n6d12f304",
+    "id": "n7862bac2",
+    "category": "경제",
+    "source": "아시아경제",
+    "time": "1분 전",
+    "url": "https://view.asiae.co.kr/article/2026102416391208370",
+    "title": "편의점 돌며 \"할랄 제품 없다\" 짜증낸 무슬림 여성",
+    "summary": [
+      "한국의 편의점에서 이슬람교 식품 기준에 맞는 제품을 찾지 못해 짜증을 낸 무슬림 여성의 영상이 화제가 되면서 누리꾼들의 비판이 쏟아졌다.",
+      "24일 사회관계망서비스(SNS) 엑스(X·옛 트위터)에는 \"무슬림 여성이 한국 편의점 식품이 '하람'에 해당한다며 화를 낸다\"는 설명과 함께 영상이 공유됐다.",
+      "'하람'은 이슬람 율법에서 금지하는 음식을 의미한다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nd38a5b26",
     "category": "사회",
     "source": "동아일보",
-    "time": "4분 전",
-    "url": "https://www.donga.com/news/Politics/article/all/20261024/134900718/1",
-    "title": "장동혁, 국방부 남북회담 제안에 “초강력 굴종…李에 안보 맡겨선 안 돼”",
+    "time": "1분 전",
+    "url": "https://www.donga.com/news/Politics/article/all/20261024/134901075/1",
+    "title": "김정은 전격 방중…트럼프 대화 손짓 속 北·中 밀착 과시",
     "summary": [
-      "장동혁 국민의힘 대표는 24일 국방부가 북한에 군사당국회담을 공식 제안한 것을 두고 “북한은 지뢰 도발 사과조차 하지 않는데 이 정권은 대화 구걸에 나섰다”고 비판했다.장동혁 대표는 이날 페이스북에 “입으로만 강력한 대응, 실제로는 초강력 굴종”이라며 “북한 요구만 다 들어줄 회담이라면 차라리 안 하는 게 낫다”고 말했다.그는 “지난 2년 6개월 동안 북한이 매설한 지뢰가 96만개에 달한다고 한다.",
-      "군사분계선(MDL) 남측에 묻은 지뢰도 수백발."
+      "김정은 북한 국무위원장이 24일 전격 방중했다.",
+      "지난해 9월 베이징에서 시진핑 중국 국가주석과 정상회담을 한 지 1년 1개월 만이다.",
+      "도널드 트럼프 미국 대통령이 연내 북미대화 재개를 추진하는 가운데 김정은이 다음 달 19일 중국 선전에서 열리는 아시아태평양경제협력체(APEC) 회의를 앞두고 중국을 찾으면서 북중 정상이 다시 마주앉을 것이란 전망이 나온다."
     ],
     "chips": [
       "#정치"
     ]
   },
   {
-    "id": "nbc04089d",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "4분 전",
-    "url": "https://www.donga.com/news/Culture/article/all/20261024/134900714/1",
-    "title": "85세 김혜자, 건강 우려 속 밝은 근황…“나 지금이 제일 예쁘다”",
-    "summary": [
-      "배우 김혜자가 건강 이상설이 제기된 가운데 밝은 모습으로 근황을 전했다.지난 23일 메이크업 아티스트 이경민의 유튜브 채널 ‘안녕~모두의 경민 언니예요’에는 ‘주름도 찬란한 단 하나의 배우 김혜자.(feat 여전히 찬란하게)’라는 제목의 영상이 공개됐다.영상에서 김혜자는 이경민에게 메이크업을 받으며 외모와 나이 등에 관한 이야기를 나눴다.이경민이 인생에서 가장 아름다웠던 시기를 묻자 김혜자는 “나 지금이 제일 예쁘다”고 답했다.이경민이 예상하지."
-    ],
-    "chips": [
-      "#의료"
-    ]
-  },
-  {
-    "id": "n50f1cf45",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "7분 전",
-    "url": "https://www.newsis.com/view/NISX20261024_0003839481",
-    "title": "美, 요르단·레바논·카타르·UAE 4국 대사관 인력 감축 발표",
-    "summary": [
-      "[워싱턴=AP/뉴시스] 유세진 기자 = 국무부는 이란이 중동 및 기타 지역에서 미국 인사를 표적으로 삼는 노력을 강화했다는 정보를 입수함에 따라 요르단, 레바논, 카타르, 아랍에미리트(UAE) 등 중동 4국의 미 대사관 4곳의 인력을 감축하고 있다고 23일(현지시각) 밝혔다.",
-      "제이 클레이튼 국가정보국장(NI)은 이날 마코 루비오 국무장관에게 보낸 메모에서 \"이란이 미국 인력을 표적으로 삼는 노력을 크게 강화했다는 정보를 입수했다\"고 밝혔다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n9f607333",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "8분 전",
-    "url": "https://www.chosun.com/national/welfare-medical/2026/10/24/KOFM5IKO5ZCNLFQTR4EJRKHIWM/",
-    "title": "[단독] 곰팡이·플라스틱 나온 초콜릿 업체, 이번엔 달걀 알레르기 표시 누락… 해썹 인증은 유지",
-    "summary": [
-      "[단독] 곰팡이·플라스틱 나온 초콜릿 업체, 이번엔 달걀 알레르기 표시 누락… 해썹 인증은 유지."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n152aa75c",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "8분 전",
-    "url": "https://www.chosun.com/jp/politics-national-jp/2026/10/24/L7OXFD7GEBHDHIX2J6ZG763KOI/",
-    "title": "【独自】カビ・プラスチック検出のチョコ業者、卵表示漏れでもHACCP維持",
-    "summary": [
-      "【独自】カビ・プラスチック検出のチョコ業者、卵表示漏れでもHACCP維持."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n767d07f1",
-    "category": "스포츠",
-    "source": "동아일보",
-    "time": "9분 전",
-    "url": "https://www.donga.com/news/Society/article/all/20261024/134900694/2",
-    "title": "고속도로서 사고 현장 수습하던 경찰관, 화물차 치여 중상",
-    "summary": [
-      "고속도로에서 교통사고 현장을 수습하던 경찰관이 화물차에 치여 크게 다쳤다.24일 경찰과 소방 등에 따르면 이날 오전 4시경 경기 여주시 영동고속도로 인천 방향 여주휴게소 인근에서 경기남부경찰청 고속도로순찰대 소속 경위가 6.5t(톤) 화물차에 치였다.이 경찰관은 발목이 절단되는 중상을 입고 병원으로 옮겨졌다.",
-      "그는 앞서 발생한 대형 트레일러와 스포츠유틸리티차량(SUV) 간 추돌사고 현장에서 교통 통제를 하던 중 2차 사고를 당한 것으로 파악됐다."
-    ],
-    "chips": [
-      "#의료"
-    ]
-  },
-  {
-    "id": "nfe9c8acc",
+    "id": "n7cc349e6",
     "category": "사회",
     "source": "아시아경제",
-    "time": "14분 전",
-    "url": "https://view.asiae.co.kr/article/2026102411045477715",
-    "title": "\"빨리 취업하고 오래 근속하면 보상 주자\"…자발적 퇴사 '실업급여' 직격한 청원",
+    "time": "2분 전",
+    "url": "https://view.asiae.co.kr/article/2026102416254283985",
+    "title": "국민의힘 \"李대통령, 사익추구 경계? 김현지 국감장 나와야\"",
     "summary": [
-      "정부가 35세 미만 청년의 자발적 퇴사에도 생애 한 차례 구직급여 지급을 검토한다는 소식이 알려진 가운데 국민신문고에 실업 급여를 지급하는 대신 재취업과 장기근속에 관한 보상을 검토하자는 제안이 올라왔다.",
-      "정부 온라인 청원 시스템 '청원 24'에는 최근 '실업급여·국민취업지원제도의 전면적인 재검토와 '근속·취업 보상형' 지원체계로의 전환을 촉구합니다'라는 제목의 글이 올라왔다.",
-      "글쓴이는 \"현재 정부의 취업 지원제도는 실직자와 취약계층의 생계를."
+      "국민의힘은 24일 김현지 청와대 부속실장 관련 의혹에 대해 \"이재명 대통령은 개혁이 사익 추구에 악용돼선 안 된다고 강조하면서 정작 가장 가까운 곳에서 권력과 사익이 결합한 것이 아니냔 의혹이 제기되는 데 왜 침묵하나\"라며 \"김현지 실장을 즉각 경질해야 한다\"고 했다.",
+      "최은석 국민의힘 원내수석대변인은 이날 논평을 내고 \"(김현지 실장에 대한) 국민적 의혹이 한낱 기우라 생각한다면, 김현지 실장이 직접 국정감사장에 해명해야 한다."
     ],
     "chips": [
-      "#취업",
-      "#고용"
+      "#정치"
     ]
   },
   {
-    "id": "na4685eb6",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "14분 전",
-    "url": "https://www.newsis.com/view/NISX20261024_0003839446",
-    "title": "조갑제, 오세훈 무죄에 \"판사가 나라 구해…오·한 '양훈 제휴'\"",
+    "id": "n37d3f9c1",
+    "category": "스포츠",
+    "source": "한국경제",
+    "time": "7분 전",
+    "url": "https://www.hankyung.com/article/2026102425237",
+    "title": "\"김기동 나가\" 야유 듣더니…서울에 10년 만의 우승 안겼다",
     "summary": [
-      "[서울=뉴시스]전민영 인턴 기자 = 조갑제 조갑제닷컴 대표가 오세훈 서울시장의 무죄 선고를 두고 \"판사가 사실과 법리의 힘으로 나라를 구한 사례\"라고 평가했다.",
-      "조 대표는 23일 자신의 페이스북에 \"오세훈 무죄 선고로 정통보수는 살고 장동혁 당권파는 치명상을 입었으며 민주당도 속으로는 안도하고 있을지 모른다\"고 했다.",
-      "그는 \"'명태균 증언은 전체로 믿을 수 없다, 일부 의심 가는 대목이 있다 해도 그러한 때는 피고인에게 유리하게 판단해야 한다는."
+      "\"김기동 나가\" 야유 듣더니…서울에 10년 만의 우승 안겼다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "naf04cba4",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "15분 전",
-    "url": "https://www.newsis.com/view/NISX20261024_0003839483",
-    "title": "\"소설 속 현장 찾아 떠났어요\" 여주중, 가을 문학기행",
+    "id": "ndf62eb3d",
+    "category": "부동산",
+    "source": "동아일보",
+    "time": "8분 전",
+    "url": "https://www.donga.com/news/Society/article/all/20261024/134900965/1",
+    "title": "흉기로 약혼녀 위협해 성폭행하고 100만 원 뺏은 30대…법원은 집행유예 선고",
     "summary": [
-      "[여주=뉴시스] 이준구 기자 = 여주중학교(교장 구광준)는 23일 학생·학부모·교직원 34명이 참여한 가운데 교육공동체 가을 문학기행을 진행했다.",
-      "경기도교육청 RAS(독서·예술·체육) 교육과 연계한 이번 행사는 임실치즈마을 체험에 이어 양평 황순원문학촌 소나기마을을 찾아 함께 읽은 소설 '소나기'의 무대를 직접 체험하는 방식으로 진행됐다.",
-      "참가자들은 인공소나기를 맞으며 작품 속 장면을 떠올리고, 문화해설사의 설명을 들으며 작가의 삶과 작품 세계."
+      "결혼을 약속한 여자친구를 성폭행하고 흉기로 위협해 금품을 빼앗은 30대 남성이 1심에서 징역형의 집행유예를 선고받았다.",
+      "법원은 범행 수법과 죄질이 매우 불량하다면서도 피고인이 반성하고 피해자와 합의해 처벌을 원하지 않는 점을 참작했다.청주지법 충주지원 형사1부(부장판사 빈태욱)는 강간과 특수강도 등의 혐의로 구속 기소된 35세 남성에게 징역 3년에 집행유예 5년을 선고했다고 24일 밝혔다.",
+      "이 남성은 8월 충북 충주시의 한 아파트에서 밤에 여자."
+    ],
+    "chips": [
+      "#부동산"
+    ]
+  },
+  {
+    "id": "ne0aec3b2",
+    "category": "경제",
+    "source": "한국경제",
+    "time": "8분 전",
+    "url": "https://www.hankyung.com/article/2026102425227",
+    "title": "[속보] 여권 관계자 \"김정은, 오늘 방중 일정 끝내고 귀국할 듯\"",
+    "summary": [
+      "[속보] 여권 관계자 \"김정은, 오늘 방중 일정 끝내고 귀국할 듯\"."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n60b6a4d9",
+    "category": "경제",
+    "source": "아시아경제",
+    "time": "8분 전",
+    "url": "https://view.asiae.co.kr/article/2026102416302091463",
+    "title": "\"민원 들어와서\" 김병만, 직접 만든 '병만랜드' 정리했다",
+    "summary": [
+      "코미디언 김병만이 직접 꾸몄던 제주 '병만랜드&공방'의 구조물들을 정리했다고 밝혔다.",
+      "김병만은 최근 인스타그램을 통해 자신이 직접 운영하는 체험형 테마 공간 '병만랜드&공방'의 최근 모습을 담은 사진을 별다른 설명 없이 올렸다.",
+      "기존 '병만랜드&공방' 앞마당을 채우고 있던 구조물들이 다 사라지고 휑하게 비어 있는 모습이 눈에 띄었다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n3c8b1173",
+    "category": "경제",
+    "source": "아시아경제",
+    "time": "9분 전",
+    "url": "https://view.asiae.co.kr/article/2026102416293987774",
+    "title": "\"마약 거래자가 화장실 점거\"…美 셀프 빨래방 창업자들의 현실",
+    "summary": [
+      "미국에서 셀프 빨래방이 새로운 창업 아이템으로 주목받고 있다.",
+      "그러나 실제 운영자들은 장비 고장과 유지보수 등 예상치 못한 문제에 고전하는 것으로 알려졌다.",
+      "월스트리트저널(WSJ)은 23일(현지시간) 미국에서 셀프 빨래방을 운영하는 사업자들이 사회관계망서비스(SNS) 소개된 수익 사례만 보고 창업에 나섰지만, 현실적인 어려움을 겪고 있다고 보도했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n56bdd01a",
+    "category": "스포츠",
+    "source": "동아일보",
+    "time": "10분 전",
+    "url": "https://www.donga.com/news/Sports/article/all/20261024/134901123/1",
+    "title": "김기동 감독, 서울서 첫 리그 챔피언…3년 차에 완성한 우승",
+    "summary": [
+      "김기동 감독이 FC서울에서 지도자 생활 첫 리그 우승을 달성했다.",
+      "포항 스틸러스에서 FA컵 우승과 K리그1 준우승을 경험했던 김 감독은 서울 부임 3년 차에 리그 정상에 오르며 지도자 경력에 새로운 이정표를 세웠다.",
+      "서울 역시 2016년 이후 10년 만에 K리그1 우승을 차지하면서 김 감독 영입 당시 내걸었던 ‘명가 재건’의 목표를 이뤘다.김기동 감독이 이끄는 서울은 24일 서울월드컵경기장에서 열린 강원과의 경기에서 1-1로 비겼다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n83b4f5a7",
+    "category": "스포츠",
+    "source": "동아일보",
+    "time": "11분 전",
+    "url": "https://www.donga.com/news/Sports/article/all/20261024/134901118/1",
+    "title": "‘원맨쇼’아닌 하모니…FC서울 우승 이끈 힘은 ‘팀’",
+    "summary": [
+      "프로축구 K리그1 FC서울의 10년 만의 우승은 특출난 한 명의 ‘원맨쇼’가 아닌, 여러 선수가 함께 만들어 낸 ‘하모니’였다.서울은 24일 서울월드컵경기장에서 열린 하나은행 K리그1 2026 33라운드 강원FC와의 홈 경기에서 무승부를 거두면서 2016년 이후 10년 만에 정상에 올랐다.서울은 남은 파이널 라운드 5경기 결과와 관계없이 우승을 확정하며 길었던 기다림에 마침표를 찍었다.서울이 시즌 내내 선두를 질주할 수 있었던 원동력은 특정 선."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n31caae39",
+    "category": "스포츠",
+    "source": "연합뉴스",
+    "time": "13분 전",
+    "url": "https://www.yna.co.kr/view/AKR20261024037451007",
+    "title": "FC서울, 강원과 비기고 우승 축포…10년 만에 통산 7번째 우승(종합2보)",
+    "summary": [
+      "(서울=연합뉴스) 안홍석 오명언 기자 = 프로축구 K리그1 FC서울이 10년 만에 리그 정상을 탈환하며 안방에서 우승 축포를 쏘아 올렸다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "ncb9441cd",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "14분 전",
+    "url": "https://www.chosun.com/sports/football/2026/10/24/HFRDENZWHAZWKNBZG5QTQYRTMQ/",
+    "title": "티아고가 살렸다...전북, 후반 추가시간 극장 동점골 폭발, 안양 원정서 1-1 극적 무승부",
+    "summary": [
+      "[OSEN=정승우 기자] 패배 직전까지 몰렸던 전북 현대가 티아고의 극적인 동점골로 승점 1점을 챙겼다.",
+      "경기 종료 직전까지 FC안양에 끌려갔지만, 후반 추가시간 집중력을 발휘하며 패배를 면했다.전북 현대는 24일 오후 2시 안양종합운동장에서 열린 하나은행 K리그1 2026 33라운드 FC안양과 원정 경기에서 1-1로 비겼다.전북은 경기 막판까지 0-1로."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n2e52783d",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "14분 전",
+    "url": "https://www.chosun.com/jp/sports-jp/2026/10/24/PCNVM7VZLJFMZNMQ7XMCDYFXUQ/",
+    "title": "チアゴが救った全北現代、後半追加時間に劇的同点弾…敵地・安養で1－1",
+    "summary": [
+      "【OSEN＝チョン・スンウ記者】敗戦寸前まで追い込まれていた全北現代が、チアゴの劇的な同点ゴールで勝ち点1を手にした。試合終了直前までFC安養にリードを許していたが、後半アディショナルタイムに集中力を発揮し、敗戦を免れた。全北現代は24日午後2時、安養総合運動場で行われたハナ銀行Kリーグ1・2026第33ラウンド、FC安養とのアウェー戦で1－1で引き分けた。全北は試合終盤まで0－1で."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "na9b38c8e",
+    "category": "스포츠",
+    "source": "연합뉴스",
+    "time": "14분 전",
+    "url": "https://www.yna.co.kr/view/AKR20261024040000007",
+    "title": "[프로축구 중간순위] 24일",
+    "summary": [
+      "[프로축구 중간순위] 24일."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n384de18e",
+    "category": "사회",
+    "source": "한국경제",
+    "time": "14분 전",
+    "url": "https://www.hankyung.com/article/2026102425147",
+    "title": "무죄 다음날 국회 찾은 오세훈…\"총선 다가온다, 국힘 통합에 최선\"",
+    "summary": [
+      "무죄 다음날 국회 찾은 오세훈…\"총선 다가온다, 국힘 통합에 최선\"."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n60ac1591",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "15분 전",
+    "url": "https://www.chosun.com/entertainments/broadcast/2026/10/24/GQ2GCYTFGIYDEYRWMY2GGYJUGA/",
+    "title": "황연주 터졌다..김연경, 한일전 뼈아픈 패배 딛고 '소름 돋는 용병술' ('신인감독2')",
+    "summary": [
+      "[OSEN=최이정 기자] 김연경이 과감한 용병술로 한일전 리벤지 매치의 역전 불씨를 살린다.오는 25일 오후 9시 10분 방송되는 MBC 예능 프로그램 ‘신인감독 김연경2’ 3회에서는 시청자들의 가슴을 졸이게 만들었던 ‘필승 원더독스(이하 원더독스)’와 일본 명문 슈지츠 고등학교의 맞대결 최종 결과가 마침내 베일을 벗는다.앞서 원더독스는 시즌2 첫 경기부터."
     ],
     "chips": [
       "#교육"
     ]
   },
   {
-    "id": "n1ba39a40",
-    "category": "경제",
-    "source": "연합뉴스(경제)",
-    "time": "15분 전",
-    "url": "https://www.yna.co.kr/view/AKR20261023146400062",
-    "title": "춘천시, 중소기업 직장인 점심값 20％ 지원…300명으로 확대",
-    "summary": [
-      "(춘천=연합뉴스) 이상학 기자 = 강원 춘천시가 고물가로 인한 직장인들의 식비 부담을 덜고 지역 외식업계의 소비를 촉진하기 위해 점심값 지원사업..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n99553588",
-    "category": "스포츠",
-    "source": "연합뉴스",
-    "time": "18분 전",
-    "url": "https://www.yna.co.kr/view/AKR20261024024200007",
-    "title": "IPC 선수위원 원유민, APC 선수위원도 당선…2030년까지 활동",
-    "summary": [
-      "(나고야=연합뉴스) 김동한 기자 = 국제패럴림픽위원회(IPC) 선수위원회 부위원장 원유민(38·BDH 파라스 노르딕스키팀)이 아시아패럴림픽위원회..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n3e9273ad",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "20분 전",
-    "url": "https://www.yna.co.kr/view/AKR20261024021500009",
-    "title": "중동 다시 D-데이…트럼프 \"재타격 할수도\" 이란 \"레드라인없다\"",
-    "summary": [
-      "(서울=연합뉴스) 오수진 기자 = 중동 호르무즈 해협을 맞불 봉쇄한 채로 미국과 이란이 한동안 직접적으로는 대화도 충돌도 없는 대치 상황을 이어..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n690df0aa",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "21분 전",
-    "url": "https://www.yna.co.kr/view/AKR20261024023500073",
-    "title": "'슈퍼 마리오 아버지'에 日정부 문화훈장…게임 분야 처음",
-    "summary": [
-      "(도쿄=연합뉴스) 조성미 특파원 = 세계에서 제일 유명한 비디오 게임 캐릭터 중 하나인 '슈퍼 마리오' 개발자가 게임 분야에서는 처음으로 일본 ..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n46739093",
+    "id": "n6cdca148",
     "category": "사회",
     "source": "조선일보",
-    "time": "22분 전",
-    "url": "https://www.chosun.com/jp/economy-jp/2026/10/24/KOPK6ON3O5E3BHRIPDLVN34FOA/",
-    "title": "ポスコ労組、11月2日から無期限ストへ…賃金交渉決裂",
+    "time": "17분 전",
+    "url": "https://www.chosun.com/jp/sports-jp/2026/10/24/73KQVKJLAVCVVLYM2TAMRHRYY4/",
+    "title": "善戦の江原FCに負傷者…チョン・ギョンホ監督「優勝を心から祝福、ファン・ムンギ骨折疑い」",
     "summary": [
-      "ポスコ労組、11月2日から無期限ストへ…賃金交渉決裂."
+      "【OSEN＝ソウルワールドカップ競技場、チョン・スンウ記者】江原FCがFCソウルの優勝決定が懸かった試合で勝ち点1を手にした。試合序盤からソウルに強い圧力をかけ、先制点を許した後もすぐに同点に追い付いたが、勝利には届かなかった。チョン・ギョンホ監督率いる江原FCは24日午後2時、ソウルワールドカップ競技場で行われたハナ銀行Kリーグ1 2026第33節、FCソウルとの対戦で1－."
     ],
     "chips": [
       "#뉴스"
-    ]
-  },
-  {
-    "id": "n0030a021",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "22분 전",
-    "url": "https://www.chosun.com/economy/2026/10/24/TGMBQGZBHJGKFHABCBGXI34HWY/",
-    "title": "포스코 노조, 내달 2일부터 무기한 파업…임금 교섭 결렬",
-    "summary": [
-      "포스코 노조, 내달 2일부터 무기한 파업…임금 교섭 결렬."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n7bca524e",
-    "category": "사회",
-    "source": "한국경제",
-    "time": "22분 전",
-    "url": "https://www.hankyung.com/article/2026102423207",
-    "title": "北 연계 의심 해킹조직, 'PHP 취약점' 공격 준비 정황…정부·금융 타깃",
-    "summary": [
-      "北 연계 의심 해킹조직, 'PHP 취약점' 공격 준비 정황…정부·금융 타깃."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n1cf5e462",
-    "category": "사회",
-    "source": "아시아경제",
-    "time": "23분 전",
-    "url": "https://view.asiae.co.kr/article/2026102410594561638",
-    "title": "지하 금고까지 찼다…세계 자산가들 새로운 금 보관처 된 '이곳'",
-    "summary": [
-      "전쟁과 정치적 불확실성, 주요국의 재정 악화 우려가 커지면서 전 세계 고액 자산가들이 보유한 금괴를 싱가포르로 옮기고 있다.",
-      "스위스 등 기존 귀금속 보관 거점에 집중됐던 수요가 싱가포르로 분산되는 움직임이 나타나고 있다.",
-      "23일(현지시간) 미 경제매체 블룸버그에 따르면 최근 들어 미국과 유럽, 중동의 부유층이 실물 금 보관 장소로 싱가포르를 선택하는 사례가 늘고 있다."
-    ],
-    "chips": [
-      "#정치"
     ]
   }
 ];
@@ -631,8 +633,8 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2720건",
-    "trend": "+315%"
+    "mentions": "2850건",
+    "trend": "+335%"
   },
   {
     "rank": 2,
