@@ -1,18 +1,32 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-10-27 13:01:39
+// 마지막 업데이트: 2026-10-27 19:03:05
 window.NEWS_DB = [
   {
-    "id": "n50d9478b",
-    "category": "경제",
-    "source": "연합뉴스",
-    "time": "5시간 전",
-    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE42MVNvb0VDLTJhRFUyX2hRSDhBTGJSSUJEeWdvc056cldGOUpjcHFsQXlsUG9ybE9sX1BlcW1RYl9yS2xzRjlsX3hnWkdwM0w0b1NQcl94QUJ3WHU5RE1Rb9IBYEFVX3lxTE42MVNvb0VDLTJhRFUyX2hRSDhBTGJSSUJEeWdvc056cldGOUpjcHFsQXlsUG9ybE9sX1BlcW1RYl9yS2xzRjlsX3hnWkdwM0w0b1NQcl94QUJ3WHU5RE1Rbw?oc=5",
-    "title": "원/달러 환율, 미 금리 결정 경계감 속 1,320원대 보합권",
+    "id": "n350ed814",
+    "category": "사회",
+    "source": "글로컬타임스",
+    "time": "6시간 전",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBYa3Nhb1k2TVdTWHp1Vm5xa044bVh5SG4zYVJHd2hGem5HcVA2bll5NXJ0d3lPS2lHVjJNekZtdXIzRUtHZHhqcGNJb2FoZk15S2FyMldpNjJJcVhFWENaNTN6ZXc1ZDBXUWfSAWxBVV95cUxNdFVtRW9NVVFVUHUwUi1lbVpFZHM2SlNZQ0lCWDgzLU1FbHBKajV5a2Z3Z0FwbWlDRGt1c3pRN3FwMm1iQ2hvLTdGQ0VZOXRYQ2lvdGhVNEJZd01KX1h6WVcxR1dNZkNqbllIYVU?oc=5",
+    "title": "천안서 ‘충남 일자리 박람회’...73개 기업 860명 채용",
     "summary": [
-      "원/달러 환율, 미 금리 결정 경계감 속 1,320원대 보합권 연합뉴스."
+      "천안서 ‘충남 일자리 박람회’...73개 기업 860명 채용 글로컬타임스."
     ],
     "chips": [
-      "#금리",
+      "#채용",
+      "#고용"
+    ]
+  },
+  {
+    "id": "n96c45db4",
+    "category": "경제",
+    "source": "산경투데이",
+    "time": "10시간 전",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBYVEYwS1dScnlKZ0Jwb0pVVk1zcUdsWWlTdWZJT2pXTUtBWS02UDgza1Z6VnVhcXZJSnhYaW9UNmhTejNYdE5SemZ6UDQtellGclZBUFNiMzFrSHUzOWJOYWZPT0cyV3U3MWcyNXI5SUTSAXRBVV95cUxON1VTNEpBZDJoTGJpU3hhOW0tZ0YzYlRibndDQXZKN0RUOEtBQk15WnFjMGxnSXVqVE1JeU9ENk1jNTlENjRqSWg2NFBybUZOeEpDQ0tCb0ZuNzg4NFdOeGhDNzQ2cTF6MUwtTHdIdElCeTBHSQ?oc=5",
+    "title": "원·달러 환율 1,323.7원 마감…FOMC 경계감에 하락 제동",
+    "summary": [
+      "원·달러 환율 1,323.7원 마감…FOMC 경계감에 하락 제동 산경투데이."
+    ],
+    "chips": [
       "#환율"
     ]
   },
@@ -20,7 +34,7 @@ window.NEWS_DB = [
     "id": "nf89ff071",
     "category": "IT",
     "source": "경인방송 뉴스",
-    "time": "9시간 전",
+    "time": "15시간 전",
     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1CVFZNN2Y1TG9GcUQ3NHVYc1QyWFdZTWRnYnF0dWFmMnFUSmhMeS1uSXBkUjR5amtVUnZTc0Zoc2lpbG9GMEhBMl9aUDNIUFJTOTFHSWpHMm1QS19aeG15X2hnUjjSAWhBVV95cUxNZC0wVFU1ZWY1cHFPNWwtZlNQSFF0UzU2ZFV6M0JqSUo0ak9BdTktM2NkOTdwc3JKaHhDNG55Z2dfTkg2YUFkUl9kTUZqVjZubWJ2ci00RVFWclR1WDlfREtZNC1VVkR5Rg?oc=5",
     "title": "[美 중간선거 이후 금융시장] 삼성·SK하이닉스, 美 선거보다 AI 투자 향방이 더 무섭다…HBM 수요 '정치 리스크'",
     "summary": [
@@ -34,10 +48,25 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n2f2102cc",
+    "category": "IT",
+    "source": "지디넷코리아",
+    "time": "16시간 전",
+    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAyUHhqSC1GQXI4T3VJcFpzTHh1LU5fXy1GZlBaUFBBV0tERXo1UkhVOWUxR0NrdGRnY0ZCam5rc1FBZDZ3TU1BSGh5SHMzM1g2UmtITnJ3?oc=5",
+    "title": "[AI 고속도로] AWS, 엔비디아 '쿠다 생태계' 정조준…자체 AI 칩 확산 승부수",
+    "summary": [
+      "[AI 고속도로] AWS, 엔비디아 '쿠다 생태계' 정조준…자체 AI 칩 확산 승부수 지디넷코리아."
+    ],
+    "chips": [
+      "#AI",
+      "#엔비디아"
+    ]
+  },
+  {
     "id": "na70d3824",
     "category": "IT",
     "source": "블로터",
-    "time": "10시간 전",
+    "time": "16시간 전",
     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9VMDExb0ZtdnZYMEhsNzBfd1Y5SGZsbENpMEtWX2lJeFREd05odWV2REZGMDdLbFdvM2xNTHBBUUhKUloyT2xGWWlPYklkcUxteVY3SWkyeEM2SzlaWk1ucXhQT1JKVmdr0gFsQVVfeXFMUEpRdHdxX0hZTzg3SXBVWGVzMElqWmhXVlpibF9EY3VaQU9YbzkxOEZwUVk2c0ZZZ1NxTnU3Zjl3RlduaTNkQlpwSUtIU1cwV29XemdjRFZTdnRMaUdjWWFDa2RxNWtLVFZOQXpi?oc=5",
     "title": "엔비디아 43%·TSMC 33% 환원…삼성·SK도 움직일까",
     "summary": [
@@ -80,37 +109,6 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nff5768b8",
-    "category": "IT",
-    "source": "조선일보",
-    "time": "1일 전",
-    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOV1lKeElEVkctSDhlaWdneEhHbmhYV3UwMjRfNUtWWlZmNEptSjM0RjBlYVFTcEJVVFlYVVYtOHNxN1Rub1dJcmVfUWduN1lsTk1yQVJVdnZLbl9iT01nLTBPZU55dTdYOTFFcUQxX2NkUFFBbXluN1pyT1BGQ0pXcnJCZw?oc=5",
-    "title": "로봇 개발·훈련 도구 제공하는 엔비디아… AI 반도체처럼 글로벌 생태계 장악 노려",
-    "summary": [
-      "로봇 개발·훈련 도구 제공하는 엔비디아… AI 반도체처럼 글로벌 생태계 장악 노려 조선일보."
-    ],
-    "chips": [
-      "#AI",
-      "#반도체",
-      "#엔비디아"
-    ]
-  },
-  {
-    "id": "n6a41cc9c",
-    "category": "사회",
-    "source": "한국사회복지저널",
-    "time": "5일 전",
-    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5jTUtaSjFBMkZuaVlzemFaSzUyNGRKNHozbk1GU2hOamNJZVhzZW9kVjhSR3VrYlNpQlRWU2ZZT29JZFFXN0cxMVg1RzhUa2VSN2FQcDJ5RUNyTEFudW5XYXdyS1JmTkw4LWhv?oc=5",
-    "title": "중구, 28일 일자리박람회…15개 기업서 156명 모집",
-    "summary": [
-      "중구, 28일 일자리박람회…15개 기업서 156명 모집 한국사회복지저널."
-    ],
-    "chips": [
-      "#채용",
-      "#고용"
-    ]
-  },
-  {
     "id": "nd688b2d2",
     "category": "IT",
     "source": "머니투데이",
@@ -127,18 +125,17 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n4d7ad5a5",
-    "category": "IT",
-    "source": "비즈니스포스트",
+    "id": "n5f64d1b6",
+    "category": "경제",
+    "source": "용인신문",
     "time": "6일 전",
-    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9QYUpXOGVDWEpsZGhtRExsaVhCOHQwQjJ3VE5xQU5iV0R4R0FYdVlTSDUxVEoxa29GUUVzME5ZVXZON1JRYkNPVkRMU1lrTGdGR3RJR3RucndsWWd6djhJZUpSUmt1X0dObzdfLVZBMGxwZzQ?oc=5",
-    "title": "엔비디아 차기 HBM에 TSMC의 3나노 공정 제조 칩 활용 요구, 전영현 HBM 공급 전략 수정 불가피",
+    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5LUDV2aFQxQUg5X2tra1VWaV8wM2JBcUxHb0xCNEJCYldlYkpuQ1d1S3g2eWl1bjN6eGdreE5mMUF6dTVGN09Lbk1OeGNKQTRfZTlTS0FtaFgtN0F4cVROYUpQR2Q?oc=5",
+    "title": "“주가는 출렁이고, 금리는 불안하다”…한국 경제 어디로 가나",
     "summary": [
-      "엔비디아 차기 HBM에 TSMC의 3나노 공정 제조 칩 활용 요구, 전영현 HBM 공급 전략 수정 불가피 비즈니스포스트."
+      "“주가는 출렁이고, 금리는 불안하다”…한국 경제 어디로 가나 용인신문."
     ],
     "chips": [
-      "#반도체",
-      "#엔비디아"
+      "#금리"
     ]
   },
   {
@@ -187,6 +184,22 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n0be7f5b9",
+    "category": "IT",
+    "source": "녹색경제신문",
+    "time": "13일 전",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE16Tl9oTlJhWkFzZU5zdTdTb3hXLVAzMXZ1NVNzUC1yUWRLV3V1WEZzcDI0RmhYa3JOd2hwaFFIZHI3QnBHcngzR3JWcUhVeXZUZi1OMzNvakRfUUlFSENGMlpOd25XUzhV?oc=5",
+    "title": "[SEDEX 2026] 삼성전자 'zHBM' vs 하이닉스 'HBF'…AI 메모리 청사진 대결",
+    "summary": [
+      "[SEDEX 2026] 삼성전자 'zHBM' vs 하이닉스 'HBF'…AI 메모리 청사진 대결 녹색경제신문."
+    ],
+    "chips": [
+      "#AI",
+      "#반도체",
+      "#삼성전자"
+    ]
+  },
+  {
     "id": "ne41d0f16",
     "category": "IT",
     "source": "경기일보",
@@ -226,20 +239,6 @@ window.NEWS_DB = [
     ],
     "chips": [
       "#KBO"
-    ]
-  },
-  {
-    "id": "n9e2a4d38",
-    "category": "경제",
-    "source": "KB Think",
-    "time": "61일 전",
-    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5fQy1DZnp0bUZyT1VRSW44ZTB2WF91c19YOTFicTFpYXpQdFJiZ0NjOUNaM1JhT1JBYzRTYkNVWXdTaUtKUWlLUFd1SjJvQXBaanNQZGFKbGxvaUV5UklaSDEtX2ZGenNsSnlHQl9Ma015UQ?oc=5",
-    "title": "달러-원, 금통위 종료 후 1,380원대 초반…한은 총재 \"환율 어느 정도 안정\"(상보)",
-    "summary": [
-      "달러-원, 금통위 종료 후 1,380원대 초반…한은 총재 \"환율 어느 정도 안정\"(상보) KB Think."
-    ],
-    "chips": [
-      "#환율"
     ]
   },
   {
@@ -331,10 +330,208 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "ne6eb9dd6",
+    "category": "IT",
+    "source": "머니투데이",
+    "time": "1분 전",
+    "url": "https://www.mt.co.kr/stock/2026/10/28/2026102719510584634",
+    "title": "앤트로픽 소식에… 반도체 소부장 ETF 살아나나",
+    "summary": [
+      "최근 한달 평균수익률 -20% 불구 5000억대 자금 유입 AI(인공지능) 수익성 우려로 부진한 수익률을 보이던 반도체 소부장(소재·부품·장비) ETF(상장지수펀드)가 앤트로픽의 IPO(기업공개) 신청 소식에 상승했다.",
+      "증시부진에도 반도체 소부장 ETF로 자금이 계속 몰리던 상황에서 수익률 반전이 일어날지 주목된다.",
+      "코스콤 ETF체크에 따르면 27일 'SOL AI반도체소부장'은 전날 대비 1215원(5.76%) 오른 2만2300원에 거래를 마쳤."
+    ],
+    "chips": [
+      "#AI",
+      "#반도체"
+    ]
+  },
+  {
+    "id": "n3d4de571",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "2분 전",
+    "url": "https://www.newsis.com/view/NISX20261027_0003843435",
+    "title": "맑은 대구·경북 한파주의보…아침 최저 -3~4도 '쌀쌀'",
+    "summary": [
+      "[대구=뉴시스] 이상제 기자 = 28일 대구·경북은 대체로 맑고 기온이 큰 폭으로 떨어져 쌀쌀할 것으로 예상된다.",
+      "대구지방기상청은 이날 \"경북내륙, 경북북동산지를 중심으로 아침 기온이 영하권으로 내려가겠고 바람도 강하게 불어 체감온도는 더욱 낮아 춥겠다\"고 예보했다.",
+      "대구와 경북(영덕, 포항, 울진평지, 경주중북부, 경주동부, 경주남부 제외) 대부분 지역에는 한파주의보가 발효 중이다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nbcdb8b1b",
+    "category": "IT",
+    "source": "머니투데이",
+    "time": "2분 전",
+    "url": "https://www.mt.co.kr/industry/2026/10/28/2026102714274547212",
+    "title": "[알림]'SEP 2026' 오늘 개막…AI 시대 에너지 대전환과 안보",
+    "summary": [
+      "'스마트 에너지 플러스(SMART ENERGY PLUS·SEP) 2026'이 오늘 서울 삼성동 코엑스 B홀에서 개막된다.",
+      "오는 30일까지 사흘간 열리는 이 행사는 올해 8회째를 맞은 에너지·모빌리티(이동성) 기술 대전이다.",
+      "'AI(인공지능) 시대의 에너지 대전환', '급변하는 국제 정세 속 에너지 안보'를 주제로, 에너지가 곧 AI 경쟁력과 안보로 직결되는 시대상을 담아 곧 펼쳐질 미래를 먼저 들여다본다."
+    ],
+    "chips": [
+      "#AI"
+    ]
+  },
+  {
+    "id": "nfe55f821",
+    "category": "IT",
+    "source": "머니투데이",
+    "time": "2분 전",
+    "url": "https://www.mt.co.kr/world/2026/10/28/2026102719551632247",
+    "title": "\"안전한 AI 가치 지킨다\" 앤트로픽 창업자 7명 '슈퍼 의결권' 명시",
+    "summary": [
+      "IPO 투자설명서 분석 AI(인공지능)모델 '클로드'로 성공을 거둔 앤트로픽의 IPO(기업공개)는 여러 면에서 '역대급' 기록을 세울 전망이다.",
+      "기업가치평가액 2조달러(약 2700조원), 자금조달 1000억달러(약 133조원)라는 규모는 앞서 일론 머스크의 스페이스X가 세운 기록을 뛰어넘는다.",
+      "구글, 메타 등 AI 외 여러 비즈니스를 결합한 빅테크(대형 IT기업)와 달리 순수하게 AI모델 개발을 주력으로 하는 기업이 이 정도 성과를 냈다는 점이."
+    ],
+    "chips": [
+      "#AI"
+    ]
+  },
+  {
+    "id": "n5d2b97fa",
+    "category": "경제",
+    "source": "머니투데이",
+    "time": "2분 전",
+    "url": "https://www.mt.co.kr/finance/2026/10/28/2026102719542324926",
+    "title": "'사옥 판 돈' 얹은 신한카드... 2년만에 순이익 1위 탈환",
+    "summary": [
+      "3분기 73%↑ 2324억원…누적순익 삼성에 355억 앞서 4개社 모두 이자비용 증가… 대손비용도 늘어 부담 가중 카드업계 당기순이익 기준 1위가 2년 만에 바뀌었다.",
+      "신한카드가 사옥매각 대금을 일회성 이익으로 잡으면서 올해 3분기 당기순이익을 크게 끌어올렸다.",
+      "3분기까지 누적순이익으로도 삼성카드를 355억원 앞섰다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n8016db77",
+    "category": "IT",
+    "source": "연합뉴스",
+    "time": "11분 전",
+    "url": "https://www.yna.co.kr/view/AKR20261028005000091",
+    "title": "메타, 자금조달 129조원으로 확대…증자공모 5배 초과청약 흥행",
+    "summary": [
+      "(샌프란시스코=연합뉴스) 권영전 특파원 = 메타가 인공지능(AI)과 연산 인프라 구축을 위해 전날 발표했던 자금조달 규모를 25억 달러 늘리기로..."
+    ],
+    "chips": [
+      "#AI"
+    ]
+  },
+  {
+    "id": "ndf25acae",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "16분 전",
+    "url": "https://www.chosun.com/sports/baseball/2026/10/28/G4ZWMMRXHA4WKMLDMMYGCN3BHE/",
+    "title": "\"감독님께 전화 드려야겠다\" 이제는 '엄살'이 됐다…8년 만에 낀 글러브, 삼성 도파민 제대로 터졌다 [PO]",
+    "summary": [
+      "[대구=스포츠조선 이종서 기자] \"호수비가 100배 더 기뻐요.\" 최형우(43·삼성 라이온즈)의 포스트시즌은 하루하루가 기록이다.",
+      "27일 대구삼성라이온즈파크에 좌익수 겸 5번타자로 선발 출전하면서 역대 포스트시즌 최고령 경기 출전 기록을 42세 10개월 11일로 바꿨다.",
+      "종전 기록은 이호준 현 NC 다이노스 감독이 현역 시절 세웠던 41세8월13일."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nd3cac2ef",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "23분 전",
+    "url": "https://www.chosun.com/sports/baseball/2026/10/28/MU4GMZRQHBRDOY3CMVRGIYRZMM/",
+    "title": "“동네야구도 아니고 말이 안 된다” 임창용 작심 비판…'3타자 연속 사사구' KIA 이의리 기용에 직격탄 [PO2]",
+    "summary": [
+      "[OSEN=대구, 손찬익 기자] “동네야구도 아니고 지는 야구에도 쓰고 이기는 야구에도 쓰고 말이 안 된다”.전 프로야구 KIA 타이거즈 투수 임창용이 KIA 벤치의 마운드 운용을 강도 높게 비판했다.",
+      "삼성 라이온즈와의 플레이오프 1차전에서 승리 투수가 된 이의리를 하루 만에 다시 마운드에 올린 데다, 뒤지고 있는 상황에서 기용한 판단을 이해할 수 없다는."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
+    "id": "nf65c97d7",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "23분 전",
+    "url": "https://www.chosun.com/jp/sports-jp/2026/10/28/TORRSTYZJJG2BIKVDVOGVALVEI/",
+    "title": "「草野球じゃあるまいし」イム・チャンヨン氏、KIAのイ・ウィリ起用を痛烈批判",
+    "summary": [
+      "[OSEN＝大邱、ソン・チャンイク記者]「草野球でもあるまいし、負けている試合にも使い、勝っている試合にも使うなんて話にならない」。元プロ野球KIAタイガース投手のイム・チャンヨン氏が、KIAベンチの投手起用を強い調子で批判した。サムスン・ライオンズとのプレーオフ第1戦で勝利投手となったイ・ウィリをわずか1日で再びマウンドに上げたうえ、リードを許している状況で起用した判断は理解できないという."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n8eec8d20",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "23분 전",
+    "url": "https://www.newsis.com/view/NISX20261028_0003843748",
+    "title": "박빙의 이스라엘 총선…네타냐후 유임·교체 여부 결정 상당시간 필요할 수도",
+    "summary": [
+      "[서울=뉴시스] 구자룡 기자 = 이스라엘이 27일 3년 여 만에 총선 투표가 진행되고 있는 가운데 베냐민 네타냐후 총리 연임 혹은 교체 등은 상당 시간이 걸릴 수도 있다는 분석이 나온다.",
+      "이는 네타냐후 총리가 이끄는 집권 리쿠드당 중심의 연립정부와 이스라엘방위군(IDF) 참모총장 출신 가디 아이젠코트가 대표인 야샤르당 등 야당이 박빙의 승부를 펼치고 있는 것이 주요 요인이다.",
+      "하지만 이외 이스라엘은 다수의 소수당이 있어 선거 이후 복잡한 연립정."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n1770f3bc",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "27분 전",
+    "url": "https://www.yna.co.kr/view/AKR20261027076451009",
+    "title": "왓츠앱으로 브라질 대선 뒤집은 룰라…첫 '개인폰'은 갤럭시 S26(종합)",
+    "summary": [
+      "(서울·로스앤젤레스=연합뉴스) 곽민서 기자 김경윤 특파원 = 브라질 대선에서 극적인 역전승을 일군 루이스 이나시우 룰라 다시우바 대통령(81)의..."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "neb025500",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "31분 전",
+    "url": "https://www.yna.co.kr/view/AKR20261028003700072",
+    "title": "美선거 앞두고 트럼프 관련 기업들 '긴장'…변호사 잇달아 영입",
+    "summary": [
+      "(뉴욕=연합뉴스) 임수정 특파원 = 미국 중간선거를 앞두고 도널드 트럼프 대통령과 그 일가와 연관된 기업들이 민주당의 의회 조사에 대비해 변호사..."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n83f13e3f",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "35분 전",
+    "url": "https://www.yna.co.kr/view/AKR20261028004600099",
+    "title": "이란 \"호르무즈 해협서 기뢰 부딪힌 유조선 화재\"…美주장 반박",
+    "summary": [
+      "(요하네스버그=연합뉴스) 나확진 특파원 = 27일(현지시간) 호르무즈 해협 동쪽에서 위치적 장치를 끄고 해협을 통과하려던 유조선 한 척이 기뢰에..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
     "id": "n4c490e89",
     "category": "IT",
     "source": "테크M",
-    "time": "방금 전",
+    "time": "48분 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=156563",
     "title": "[게임즈 온 AWS 26] '게임 산업 AI 전환' 최전선...넥슨·크래프톤·카카오게임즈 현장 노하우 통했다(종합)",
     "summary": [
@@ -351,7 +548,7 @@ window.NEWS_DB = [
     "id": "nb0aa3438",
     "category": "IT",
     "source": "테크M",
-    "time": "방금 전",
+    "time": "1시간 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=156562",
     "title": "[카드뉴스] 보안 조사 업무 90% 감소...데이터독, AI 기술의 비밀은?",
     "summary": [
@@ -364,271 +561,82 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nc50be478",
-    "category": "IT",
-    "source": "테크M",
-    "time": "방금 전",
-    "url": "https://www.techm.kr/news/articleView.html?idxno=156555",
-    "title": "[가봤다] 홍대에 등장한 '체인소 맨'·'귀멸의 칼날'...크런치롤, 韓 팬심 공략 나섰다",
+    "id": "nb994b556",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "1시간 전",
+    "url": "https://www.donga.com/news/Entertainment/article/all/20261028/134921778/1",
+    "title": "플레이브, 美 ‘빌보드 200’ 31위…114계단 껑충 ‘자체 최고’",
     "summary": [
-      "서울 홍대 한복판에 인기 애니메이션 속 주인공들이 등장했다.",
-      "'체인소 맨'과 '귀멸의 칼날' 캐릭터들이 방문객을 맞이하고, 함께 사진을 찍을 수도 있다.",
-      "애니메이션 캐릭터가 담긴 굿즈도 얻고 응원 메시지를 남기는 것도 가능하다."
+      "버추얼 아이돌 그룹 ‘플레이브(PLAVE)’가 미국 빌보드 차트에서 K-팝 버추얼 그룹의 역사를 거듭 새로 쓰고 있다.27일(현지지간) 빌보드 차트에 따르면, 플레이브의 미니 5집 ‘하이퍼드라이브(HYPERDRIVE)’가 31일 자 빌보드 메인 앨범차트 ‘빌보드 200’에 31위로 데뷔했다.",
+      "플레이브는 전작인 네 번째 미니앨범 ‘칼리고 파트 투(Caligo Pt.2)’로 지난 5월2일 자 ‘빌보드 200’에 145위로 들어왔었다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n416b7688",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "2분 전",
-    "url": "https://www.chosun.com/sports/baseball/2026/10/27/XOYWIEZGCFAP3AXGMS6BTZKBWM/",
-    "title": "디아즈-최형우 홈런...삼성, KIA 8대3으로 꺾고 플레이오프 1승1패",
+    "id": "n8e18c38f",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "1시간 전",
+    "url": "https://www.donga.com/news/Entertainment/article/all/20261028/134921774/1",
+    "title": "서인영 “쥬얼리 모두 방광염 걸려…하루 행사 8개 뛴 적도”",
     "summary": [
-      "디아즈-최형우 홈런...삼성, KIA 8대3으로 꺾고 플레이오프 1승1패."
+      "가수 서인영이 ‘살롱드립’에서 바쁜 일정으로 방광염에 걸렸던 때를 언급했다.27일 유튜브 채널 ‘TEO 테오’를 통해 공개된 웹 예능 ‘살롱드립’에는 가수 서인영이 게스트로 출연했다.유튜브 ‘개과천선 서인영’으로 제2의 전성기를 맞이한 서인영.",
+      "이날 서인영은 최근 방송 중인 ‘서인영의 유행꼰대’부터 다음 달 공개되는 예능 ‘산독기 프로젝트’까지 예능 프로그램에서도 활약 중인 근황으로 눈길을 끌었다.서인영은 쥬얼리 활동 당시 하루에 8개의 행사를."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n1ad52889",
-    "category": "스포츠",
-    "source": "뉴시스",
-    "time": "3분 전",
-    "url": "https://www.newsis.com/view/NISX20261027_0003843589",
-    "title": "[KBO 포스트시즌 경기 결과]PO 2차전·10월27일(화)",
+    "id": "n2fc584b8",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "1시간 전",
+    "url": "https://www.donga.com/news/Society/article/all/20261028/134921770/1",
+    "title": "“‘밥값 해, 일부러 야근해?’ 막차 끊길 때까지 일 강요”…헤이지니 또 폭로",
     "summary": [
-      "[서울=뉴시스] [KBO]포스트시즌 플레이오프 2차전 결과<2026년 10월27일(화)> ▲KIA 3 - 8 삼성(대구) 패 아담 올러 승 아리엘 후라도."
+      "구독자 413만 명을 보유한 유명 키즈 크리에이터 헤이지니(본명 강혜진)가 운영하는 ‘키즈웍스’의 업무 환경을 둘러싼 추가 폭로가 나와 파문이 더욱 확산될 조짐이다.",
+      "앞서 직장 내 부당한 대우를 주장한 전 직원의 폭로에 이어 또 다른 퇴사자가 상습 강제 야근과 낮은 급여, 퇴사 과정에서의 가스라이팅 등을 주장하고 나섰다.27일 온라인 커뮤니티에는 “헤이지니 다른 전 근무 직원입니다.",
+      "추가 제보합니다”라는 제목의 글이 올라왔다.자신을 2020년대."
     ],
     "chips": [
-      "#KBO"
+      "#환경"
     ]
   },
   {
-    "id": "nde64f2c2",
-    "category": "경제",
-    "source": "아시아경제",
-    "time": "4분 전",
-    "url": "https://view.asiae.co.kr/article/2026102721570618333",
-    "title": "서울대병원 노사, 전면 파업 하루 전 임단협 잠정 합의",
+    "id": "n726ba8e2",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "1시간 전",
+    "url": "https://www.donga.com/news/Society/article/all/20261028/134921767/1",
+    "title": "구룡마을 화재, 큰 주불 잡혔다…“잔불 정리 중”",
     "summary": [
-      "서울대병원 노사가 27일 2026년 임금·단체협약에 잠정 합의했다.",
-      "서울대병원은 이날 오후 9시 대한의원 제1회의실에서 노조와 임단협 가(假)조인식을 열었다."
+      "27일 서울 강남구 개포동 구룡마을 화재와 관련해 소방당국이 큰불이 잡혔다고 밝혔다.",
+      "소방당국은 대응 2단계를 1단계로 하향했고, 현재 잔불을 정리하고 있다.",
+      "이날 화재 현장에는 소방과 경찰, 구청 등 940여명과 차량 140여대가 동원됐다."
     ],
     "chips": [
       "#의료"
     ]
   },
   {
-    "id": "nad053d6a",
-    "category": "스포츠",
-    "source": "뉴시스",
-    "time": "4분 전",
-    "url": "https://www.newsis.com/view/NISX20261027_0003843681",
-    "title": "'최형우 맹타·후라도 호투' 삼성, 2차전서 KIA 8-3 격파…1승 1패[PO]",
-    "summary": [
-      "[서울=뉴시스]박윤서 기자 = 프로야구 삼성 라이온즈가 플레이오프(PO·5전3선승제) 2차전을 승리로 장식하고 시리즈의 균형을 맞췄다.",
-      "삼성은 27일 대구 삼성라이온즈파크에서 열린 2026 신한 쏠 KBO 포스트시즌(PS) PO 2차전에서 KIA 타이거즈를 8-3으로 제압했다.",
-      "전날(26일) 벌어진 PO 1차전에서 1-5로 패배했던 삼성은 2차전을 이기면서 반격에 성공했다."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
-    "id": "n7eec39c7",
-    "category": "스포츠",
-    "source": "동아일보",
-    "time": "4분 전",
-    "url": "https://www.donga.com/news/Sports/article/all/20261027/134921204/1",
-    "title": "‘좌익수 최형우’ 승부수 적중…삼성, 최형우 공·수 맹활약에 PO 2차전 8-3 승리",
-    "summary": [
-      "“(최형우가) 수비가 그렇게 저평가된 선수는 아닌데, 지켜보시죠.”프로야구 삼성의 박진만 감독(50)은 27일 안방 대구삼성라이온즈파크에서 열린 KIA와의 플레이오프(PO·5전 3승제)를 앞두고 베테랑 최형우(43)의 좌익수 기용에 대한 우려를 묻는 질문에 이같이 답했다.",
-      "특유의 웃음은 잃지 않으면서도 “지켜보시죠”라는 말로 선수에 대한 믿음을 드러냈다.",
-      "전날 1차전에서 1-5로 패하며 코너에 몰린 삼성은 최형우를 5번타자 좌익수로 출전하는 승."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
-    "id": "n777a53a4",
+    "id": "nb6875478",
     "category": "사회",
     "source": "뉴시스",
-    "time": "5분 전",
-    "url": "https://www.newsis.com/view/NISX20261027_0003843637",
-    "title": "[속보]삼성, PO 2차전서 KIA 8-3으로 제압…1승 1패",
-    "summary": [],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nd7110e37",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "5분 전",
-    "url": "https://www.chosun.com/sports/baseball/2026/10/27/MMZGKZDCGM3DQZLFHA4TGYJSMY/",
-    "title": "‘좌익수 최형우? 괜찮겠어?’ 물음표를 느낌표로 바꾼 퉁버지, 쐐기 홈런은 덤…박진만의 자신감엔 이유가 있었다 [PO2]",
+    "time": "1시간 전",
+    "url": "https://www.newsis.com/view/NISX20261028_0003843747",
+    "title": "남부 올레시키는 휴전, 수도 키이우는 대학·다리·의료시설 등 맹폭",
     "summary": [
-      "[OSEN=대구, 손찬익 기자] 안 썼으면 어쩔 뻔했을까.프로야구 삼성 라이온즈의 ‘퉁버지’ 최형우가 공수 양면에서 존재감을 발휘하며 박진만 감독의 믿음에 화답했다.",
-      "특히 상대의 허를 찌르는 정확한 송구로 아웃카운트를 잡아낸 장면은 이날 경기의 백미였다.최형우는 27일 대구삼성라이온즈파크에서 열린 KIA 타이거즈와의 플레이오프 2차전에 5번 좌익수로 선발."
+      "[서울=뉴시스] 구자룡 기자 = 우크라이나 남부 헤르손주의 올레시키에 대해 27일 휴전이 발효된 가운데 수도 키이우에서는 대학 캠퍼스, 주요 다리, 행정 건물 및 의료 시설 등을 대상으로 한 대규모 타격이 계속됐다.",
+      "키이우인디펜던트(KI)는 러시아의 탄도 미사일이 26일에서 27일 새벽 사이 키이우 곳곳을 공격했다고 보도했다.",
+      "우크라이나 국가비상사태청(DSNS)은 러시아의 공격으로 최소 1명이 사망하고 15명이 부상했다고 밝혔다."
     ],
     "chips": [
-      "#KBO"
-    ]
-  },
-  {
-    "id": "n75795446",
-    "category": "스포츠",
-    "source": "뉴시스",
-    "time": "5분 전",
-    "url": "https://www.newsis.com/view/NISX20261027_0003843686",
-    "title": "수비도 타격도 완벽했다…삼성 최형우, 환상 보살에 대포까지 '쾅'[PO]",
-    "summary": [
-      "[대구=뉴시스]김희준 기자 = \"최형우가 수비에서 그렇게 저평가를 받는 선수는 아닌데…\" 플레이오프(PO·5전 3선승제) 2차전을 앞두고 박진만 삼성 라이온즈 감독이 최형우의 선발 좌익수 투입에 대해 이야기를 하던 중 꺼낸 말이다.",
-      "최형우는 자신의 수비력을 향한 우려를 무색하게 만드는 '환상 보살'을 선보였다.",
-      "리그 최정상급 타자 답게 타석에서도 7회 쐐기 홈런을 날리는 등 팀이 기대한 역할을 톡톡히 해냈다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n121d1e38",
-    "category": "사회",
-    "source": "아시아경제",
-    "time": "7분 전",
-    "url": "https://view.asiae.co.kr/article/2026102721533348789",
-    "title": "민주, 김건희 추가 구속에 당연한 판단…조국 \"조희대 탄핵해야\"(종합)",
-    "summary": [
-      "더불어민주당은 27일 대법원이 윤석열 전 대통령의 부인 김건희 여사에 대한 추가 구속영장을 발부한 것에 대해 \"국민 상식에 부합하는 당연한 판단\"이라며 신속하고 엄정한 판결을 촉구했다.",
-      "박성준 수석대변인은 이날 서면 브리핑에서 \"김건희는 반클리프 아펠 목걸이, 이우환 화백 그림, 금거북이 등을 받은 매관매직 혐의로 1심 징역 7년, 2심 징역 5년을 선고받았다\"며 \"김건희가 재판 지연으로 풀려날 뻔했다는 것 자체가 국민에게는 충격\"이라고 말했다."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n2ea12852",
-    "category": "스포츠",
-    "source": "연합뉴스",
-    "time": "9분 전",
-    "url": "https://www.yna.co.kr/view/AKR20261027169551083",
-    "title": "中서 음바페 '마오쩌둥 희화화' 논란…광고 줄취소·사과 요구(종합)",
-    "summary": [
-      "(베이징=연합뉴스) 정성조 특파원 = 중국 기업들이 마오쩌둥(毛澤東·1893∼1976)을 희화화했다는 논란에 휩싸인 프랑스 유명 축구선수 킬리안..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nb262e513",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "11분 전",
-    "url": "https://www.yna.co.kr/view/AKR20261027187300530",
-    "title": "서울대병원 노사, 전면 파업 하루 앞두고 임단협 잠정 합의",
-    "summary": [
-      "(서울=연합뉴스) 성서호 기자 = 서울대병원 노사가 노동조합의 전면 파업을 하루 앞둔 27일 2026년 임금·단체협약에 잠정 합의했다."
-    ],
-    "chips": [
+      "#교육",
       "#의료"
-    ]
-  },
-  {
-    "id": "n0104a207",
-    "category": "스포츠",
-    "source": "동아일보",
-    "time": "11분 전",
-    "url": "https://www.donga.com/news/Politics/article/all/20261027/134920591/1",
-    "title": "南 전망대 향한 포신… 자주포 훈련 이어간 北[청계천 옆 사진관]",
-    "summary": [
-      "북한 병사들이 27일 경기 김포시 애기봉과 약 1.4km 떨어진 황해북도 개풍군 일원에서 실사격에 사용되는 붉은 깃발을 흔들며 덕천포(M-1975 122mm 자주포) 정비 및 발사 준비 훈련을 진행했다.이날 북한 병사들은 철책 앞에 설치된 3문의 자주포를 오가며 포신을 취재진과 관광객들이 몰려있는 애기봉 평화생태공원 전망대로 조준하는 등 위협적인 행동을 이어갔다.",
-      "이들은 장갑 전면에 ‘미제 침략자들을 소멸하라’라고 적힌 자주포 뒤에서 분주히 움."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n07974456",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "18분 전",
-    "url": "https://www.yna.co.kr/view/AKR20261027186100001",
-    "title": "與, 김건희 추가 구속에 \"당연…대법원 신속·엄정 판결해야\"(종합)",
-    "summary": [
-      "(서울=연합뉴스) 정연솔 기자 = 더불어민주당 등 범여권은 27일 대법원이 윤석열 전 대통령의 부인 김건희 여사에 대한 추가 구속영장을 발부하자..."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n5c93b53b",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "20분 전",
-    "url": "https://www.donga.com/news/Inter/article/all/20261027/134921205/1",
-    "title": "네타냐후, 총선 매표 사건에 “아랍계 정당이 선거 훔치려 해”",
-    "summary": [
-      "이스라엘 조기 총선 투표가 진행 중인 27일(현지 시간), 아랍계 정당을 위해 유권자를 매수하려 한 혐의로 3명이 체포됐다.",
-      "베냐민 네타냐후 이스라엘 총리는 “선거를 훔치려하고 있다”고 맹비난했다.",
-      "미국 CNN 등 외신에 따르면 이스라엘 경찰은 남부 네게브 베두인 공동체 출신 남성 3명을 유권자 매수 혐의로 긴급 체포했다."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n142d9c2c",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "24분 전",
-    "url": "https://www.yna.co.kr/view/AKR20261027146551371",
-    "title": "與, 한·아프리카재단 통합안 비판…\"KF 산하 센터로 축소\"(종합)",
-    "summary": [
-      "(서울=연합뉴스) 성도현 기자 = 국회 외교통일위원회 여당 간사인 더불어민주당 홍기원 의원이 27일 종합국정감사에서 외교부가 추진 중인 한·아프..."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n259efb9e",
-    "category": "사회",
-    "source": "아시아경제",
-    "time": "32분 전",
-    "url": "https://view.asiae.co.kr/article/2026102721251508213",
-    "title": "\"220만 표 뒤지자 단톡방 하나 팠다\"…'1000만 군대' 모아 룰라 살려낸 대역전극",
-    "summary": [
-      "극적인 신승으로 브라질 정치의 역사를 새로 쓴 루이스 이나시우 룰라 다시우바 대통령의 뒤에는 무려 1000만명 규모의 '사회관계망서비스(SNS) 군대'가 있었던 것으로 전해졌다.",
-      "특히 이들을 이끈 건 좌파 성향의 40대 젊은 의원으로 알려져 관심이 쏠린다.",
-      "26일(현지시간) 미 뉴욕타임스(NYT)에 따르면, 1차 투표 2위 후보가 결선에서 최종 당선된 사례는 브라질 역사상 최초로 벌어진 일이다."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n56c81150",
-    "category": "경제",
-    "source": "아시아경제",
-    "time": "34분 전",
-    "url": "https://view.asiae.co.kr/article/2026102719342511872",
-    "title": "태닝 피부 때문에 불법 이민자로 오인…\"체포될 뻔했다\"",
-    "summary": [
-      "과도한 태닝으로 한때 유명세를 얻은 미국 여성이 '검은 피부 때문에 불법 이민자로 오인받았다'는 취지로 주장하고 나서 논란이 불거졌다.",
-      "지난 24일(현지시간) 미 폭스뉴스는 뉴저지 출신 패트리샤 크렌실의 사연을 전했다.",
-      "크렌실은 최근 팟캐스트 방송 '라이트 탠 업(Light Tan Up)'에 출연해 미 이민세관단속국(ICE) 요원들에게 체포당할 뻔했다며 주장했다."
-    ],
-    "chips": [
-      "#뉴스"
     ]
   }
 ];
@@ -637,9 +645,9 @@ window.NEWS_DB = [
 window.KEYWORD_TOP = [
   {
     "rank": 1,
-    "tag": "KBO",
-    "mentions": "1810건",
-    "trend": "+175%"
+    "tag": "AI",
+    "mentions": "2330건",
+    "trend": "+255%"
   },
   {
     "rank": 2,
@@ -649,9 +657,9 @@ window.KEYWORD_TOP = [
   },
   {
     "rank": 3,
-    "tag": "AI",
-    "mentions": "1680건",
-    "trend": "+155%"
+    "tag": "반도체",
+    "mentions": "1550건",
+    "trend": "+135%"
   }
 ];
 // ====AUTO-GENERATED-END====
