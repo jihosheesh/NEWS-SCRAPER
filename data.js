@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-10-28 16:20:10
+// 마지막 업데이트: 2026-10-28 21:25:11
 window.NEWS_DB = [
   {
     "id": "n7a9dfaa3",
     "category": "IT",
     "source": "스페셜경제",
-    "time": "8시간 전",
+    "time": "14시간 전",
     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE44R3hOOG9McVphN2VCczJRVVp4SlRsTnY3Vk44Rm9hU1NLSDRUOWJYV0lVYnVVdFA2ZS0tVExteVJPdTlwQldOMENzZExfSjZSMHU4V2ptNlRGcFNFZVF6YjdBX1BXekozcUttdA?oc=5",
     "title": "오픈AI, 구글 AI칩 도입 추진…엔비디아 독주 흔드나",
     "summary": [
@@ -20,7 +20,7 @@ window.NEWS_DB = [
     "id": "n50bb8614",
     "category": "IT",
     "source": "파이낸셜뉴스",
-    "time": "10시간 전",
+    "time": "15시간 전",
     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE05azN4UEM0LWJoeWpnMGxrUWFLMmxtaER3Zy1uZnRfRzVXWGlwTk9NVWFNRG9nRmRtLXgtVFRwQ1JZUW0tY2YwOHFzMXgxN2Q2eXdJNEVTbEE4QQ?oc=5",
     "title": "오픈AI, 구글 AI 반도체 구매 추진…엔비디아 의존도 낮춘다",
     "summary": [
@@ -36,7 +36,7 @@ window.NEWS_DB = [
     "id": "n8c7ec5bc",
     "category": "IT",
     "source": "전자신문",
-    "time": "13시간 전",
+    "time": "18시간 전",
     "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9UODRlRXg1dGZJN2VCam4zZkZXdDh1ZldnemxCZnBwMGVZQ25fcXNLempXd3k1R2JTalhVVU16NWY3ZXFQR3lQazFMaVZlQQ?oc=5",
     "title": "엔비디아, 삼성전기·앰코 등 6개사와 AI 반도체 공급망 대폭 확장",
     "summary": [
@@ -46,6 +46,21 @@ window.NEWS_DB = [
       "#AI",
       "#반도체",
       "#엔비디아"
+    ]
+  },
+  {
+    "id": "n350ed814",
+    "category": "사회",
+    "source": "글로컬타임스",
+    "time": "1일 전",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBYa3Nhb1k2TVdTWHp1Vm5xa044bVh5SG4zYVJHd2hGem5HcVA2bll5NXJ0d3lPS2lHVjJNekZtdXIzRUtHZHhqcGNJb2FoZk15S2FyMldpNjJJcVhFWENaNTN6ZXc1ZDBXUWfSAWxBVV95cUxNdFVtRW9NVVFVUHUwUi1lbVpFZHM2SlNZQ0lCWDgzLU1FbHBKajV5a2Z3Z0FwbWlDRGt1c3pRN3FwMm1iQ2hvLTdGQ0VZOXRYQ2lvdGhVNEJZd01KX1h6WVcxR1dNZkNqbllIYVU?oc=5",
+    "title": "천안서 ‘충남 일자리 박람회’...73개 기업 860명 채용",
+    "summary": [
+      "천안서 ‘충남 일자리 박람회’...73개 기업 860명 채용 글로컬타임스."
+    ],
+    "chips": [
+      "#채용",
+      "#고용"
     ]
   },
   {
@@ -66,17 +81,18 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n6a41cc9c",
+    "id": "nb1964e33",
     "category": "사회",
-    "source": "한국사회복지저널",
-    "time": "6일 전",
-    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5jTUtaSjFBMkZuaVlzemFaSzUyNGRKNHozbk1GU2hOamNJZVhzZW9kVjhSR3VrYlNpQlRWU2ZZT29JZFFXN0cxMVg1RzhUa2VSN2FQcDJ5RUNyTEFudW5XYXdyS1JmTkw4LWhv?oc=5",
-    "title": "중구, 28일 일자리박람회…15개 기업서 156명 모집",
+    "source": "필드뉴스",
+    "time": "2일 전",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBjcktQenpOVjRaUkhIVGVrUk5RNkFsUlFnTFBsVmVWZTR2RmVhNmVuZmp1T0pEMXhwODhxcFhIWHE2eVZpX3BuVURFQVVPaG84Z2tBdXhCTnkwSkdOV3ZENkdBS1otVnRvQW91ONIBbEFVX3lxTFBjcktQenpOVjRaUkhIVGVrUk5RNkFsUlFnTFBsVmVWZTR2RmVhNmVuZmp1T0pEMXhwODhxcFhIWHE2eVZpX3BuVURFQVVPaG84Z2tBdXhCTnkwSkdOV3ZENkdBS1otVnRvQW91OA?oc=5",
+    "title": "박관열 광주시장, 기업과 구직자 잇는 맞춤형 고용서비스 확대…현장 채용부터 진로지원까지",
     "summary": [
-      "중구, 28일 일자리박람회…15개 기업서 156명 모집 한국사회복지저널."
+      "박관열 광주시장, 기업과 구직자 잇는 맞춤형 고용서비스 확대…현장 채용부터 진로지원까지 필드뉴스."
     ],
     "chips": [
       "#채용",
+      "#취업",
       "#고용"
     ]
   },
@@ -154,19 +170,17 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nb16c3b86",
+    "id": "n103b5455",
     "category": "사회",
-    "source": "한국경제",
-    "time": "29일 전",
-    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9WRTVrbjVJTjdrdkI0WVZYc2RzdHdzRXZWT2daLVRRWkxKaDd6RmpOb2xlQlBiX2lLY2VaRjF2c25SbmlMN0s1RkNDYW9pSmlndlpkLW9BUldwQQ?oc=5",
-    "title": "\"경력직만 뽑고 AI가 일자리 대체\"…청년 구직자 '취업 한파' 체감",
+    "source": "뉴스핌",
+    "time": "15일 전",
+    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9LNTNsOXRVTUUzZkF3OU04Q1V3Uk52TmtSMk9ySVh3Ymgtc0Vob2NVbTVsa1NNaldYQi05NTdacVNZUlZCOGZfU2pqbWNYMGZkVUIxazIwcHFrdDVK?oc=5",
+    "title": "세종시 '내일이음 취업박람회' 16일 개최…충청 기업 114곳 참여",
     "summary": [
-      "\"경력직만 뽑고 AI가 일자리 대체\"…청년 구직자 '취업 한파' 체감 한국경제."
+      "세종시 '내일이음 취업박람회' 16일 개최…충청 기업 114곳 참여 뉴스핌."
     ],
     "chips": [
-      "#AI",
-      "#취업",
-      "#고용"
+      "#취업"
     ]
   },
   {
@@ -184,17 +198,32 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n6c4859cd",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "49일 전",
-    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBjajZ4SGVkMFFpSy04Q0ZfWDhINjVaN1ljdERjQ0JPNF9ESHctcGJ0NzJZZFBQMU1YUmZNTE00MVREMGN4bDlDWVFENmFRa3V2R0NPa0ZKY0FUQnfSAWBBVV95cUxNVXNSZmw5Q1NpbkVuOTVUdUtIc0VYVVZiWTl6TWdTeXltajJta3RHZkRJOC1vY1h3bjdSMGUzTzJqZDdwekI1anhTX3R3aU1WdmtOamVIelZqQ0F3c2ZDZUI?oc=5",
-    "title": "정부 \"청년 '쉬었음' 감소세…훈련-구직-취업사다리 복원 신호\"(종합)",
+    "id": "n2195e7e4",
+    "category": "스포츠",
+    "source": "뉴시안",
+    "time": "37일 전",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9uampqUGstQndtdUd5MzM3RU1KbmUxYzltTnViNVE1VjE4UDRGX0NGemgzZ1l1cWZlcEdLU0Jfei1BbnI0RWt3TGhVSDRicDBxV0RHZlBUVVZCNkl3WlBHOXd4TVFiR3FTVkE4?oc=5",
+    "title": "KBO 굿즈 매출 3배로… K-스포츠 굿즈, 소장템 부상",
     "summary": [
-      "정부 \"청년 '쉬었음' 감소세…훈련-구직-취업사다리 복원 신호\"(종합) 연합뉴스."
+      "KBO 굿즈 매출 3배로… K-스포츠 굿즈, 소장템 부상 뉴시안."
     ],
     "chips": [
-      "#취업"
+      "#KBO"
+    ]
+  },
+  {
+    "id": "n34c966ee",
+    "category": "경제",
+    "source": "경북매일",
+    "time": "40일 전",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBiZUtzYWdsdUFXQ19FeTJCNFNtaWQwc3ZIa2c5Z0RpYm03ekpKNTZyZi12Q1dybUlfbEE2YW5nM3JiMnZqREFJRDJZN3FPLWc5VVB1V3J2Y3NFdw?oc=5",
+    "title": "미국 금리 오르면 한국은 어디부터 흔들리나…대출·환율·증시 동시 압박",
+    "summary": [
+      "미국 금리 오르면 한국은 어디부터 흔들리나…대출·환율·증시 동시 압박 경북매일."
+    ],
+    "chips": [
+      "#금리",
+      "#환율"
     ]
   },
   {
@@ -209,21 +238,6 @@ window.NEWS_DB = [
     ],
     "chips": [
       "#환율"
-    ]
-  },
-  {
-    "id": "ndc7276da",
-    "category": "경제",
-    "source": "한국경제",
-    "time": "80일 전",
-    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1xdDBfZHgzbmV6S3pySWJnV3N0T1hKeHZBbGdGRTNyUFJMWXd6SDFjUE5oTGtsallEaXNUbmtVdW42T1FvX0o2WUNTU2ZIODJQaU5UMmU0VFZXdw?oc=5",
-    "title": "미 고용 쇼크 주식시장엔 호재…환율 하락 영향도 주목",
-    "summary": [
-      "미 고용 쇼크 주식시장엔 호재…환율 하락 영향도 주목 한국경제."
-    ],
-    "chips": [
-      "#환율",
-      "#고용"
     ]
   },
   {
@@ -285,356 +299,332 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n80dc1407",
-    "category": "스포츠",
-    "source": "중앙일보",
-    "time": "232일 전",
-    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1kSmhBTDdKY1NsbWktSU80SFYtRWN3VGpnQjRNeEpaNF9LZVo0ZS1wb19tbkZxQUJMOU1NYjVTdVpPLW9aMW9hN0ZRQXVWY3hjQl81MG1R?oc=5",
-    "title": "축구는 손흥민, 야구는 이정후…대표팀 주장의 품격",
-    "summary": [
-      "축구는 손흥민, 야구는 이정후…대표팀 주장의 품격 중앙일보."
-    ],
-    "chips": [
-      "#손흥민",
-      "#KBO"
-    ]
-  },
-  {
-    "id": "nbcfe41a7",
+    "id": "nbc27bc5a",
     "category": "IT",
-    "source": "연합뉴스TV",
-    "time": "247일 전",
-    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8wREZzcDhjdlBHWDRyS0l1YlIxdEszOHZaSjRrNFU1VlBPajQwc1AySHFmWFh4M2NfSVJNWnBaZXhXRHhGOExxZm12ZmZMdFl5WEhLX2owTzVNaWRYd3d0UzRSdndSY2c?oc=5",
-    "title": "\"K-방산 유니콘 키운다\"…스타트업 100개·벤처천억기업 30개 육성",
+    "source": "연합뉴스",
+    "time": "245일 전",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5UNnlsSTY5eHFYNEZ6ZktBM216dFF6Q0J5Z1NVYm56M3A2TUFNMDM0U081NTNsZVNJTy1MWklmVGc0cEdLVk5NRHFiTWtHbmx2b2ItSkVEV1A2ZFnSAWBBVV95cUxOV3Z3V2F3aWJvV3dDNDc4OXpfRmpyaDgtaExGWC1ZTUxvX2M4ZVZPNC1rZHpQeUtSNXlIZjc0dHdGWTdfUXpJQXdac1lZU3Mza3NvdHVweFFNYXhmdDMyZWs?oc=5",
+    "title": "스타트업·벤처를 유니콘으로…전북도, '창업 천국' 구상 발표",
     "summary": [
-      "\"K-방산 유니콘 키운다\"…스타트업 100개·벤처천억기업 30개 육성 연합뉴스TV."
+      "스타트업·벤처를 유니콘으로…전북도, '창업 천국' 구상 발표 연합뉴스."
     ],
     "chips": [
       "#스타트업"
     ]
   },
   {
-    "id": "n0b02fb20",
-    "category": "IT",
-    "source": "테크M",
-    "time": "방금 전",
-    "url": "https://www.techm.kr/news/articleView.html?idxno=156619",
-    "title": "LG전자 \"AIDC 수주 3조원 돌파...홈로봇 2030년 출시\"(종합)",
+    "id": "n968a123c",
+    "category": "스포츠",
+    "source": "뉴시스",
+    "time": "1분 전",
+    "url": "https://www.newsis.com/view/NISX20261029_0003845570",
+    "title": "이강인·모레노 감독, 스페인 고속열차 사망 사고에 애도 표해",
     "summary": [
-      "LG전자가 오는 4분기 시장 환경이 쉽지 않음을 인정했다.",
-      "전쟁과 경쟁 등 글로벌 정세 혼란이 여전하다.",
-      "LG전자 실적은 '상고하저'다."
-    ],
-    "chips": [
-      "#AI",
-      "#환경"
-    ]
-  },
-  {
-    "id": "nbec763c8",
-    "category": "IT",
-    "source": "테크M",
-    "time": "방금 전",
-    "url": "https://www.techm.kr/news/articleView.html?idxno=156617",
-    "title": "[우아콘 26] \"기다림 없는 배달을 향해\"...배민, AI·로봇으로 '멈추지 않는 도시' 그린다(종합)",
-    "summary": [
-      "배달의민족(배민)을 운영하는 우아한형제들이 인공지능(AI)과 로봇, 데이터 기술을 활용해 고객이 원하는 상품을 필요한 순간에 받아볼 수 있도록 응집된 배달 서비스 기술력을 공개했다.",
-      "주문부터 조리, 배달까지 이어지는 과정을 실시간으로 예측하고 최적화해 고객의 기다림을 최소화하겠다는 구상이다.",
-      "이를 위해 배민은 AI 기반 개인화 서비스를 고도화하는 한편, 배달로봇과 물류 시스템 등 실제 배달 현장에 적용되는 기술 역량을 강화하고 있다.우아한형제들."
-    ],
-    "chips": [
-      "#AI"
-    ]
-  },
-  {
-    "id": "nd0f10888",
-    "category": "IT",
-    "source": "테크M",
-    "time": "방금 전",
-    "url": "https://www.techm.kr/news/articleView.html?idxno=156618",
-    "title": "방미통위, 구글에 429억 애플에 208억원 과징금...앱 마켓 금지행위 위반",
-    "summary": [
-      "방송미디어통신위원회가 구글과 애플이 앱 마켓 분야 금지행위를 위반한 것으로 보고 시정명령과 함께 과징금을 부과하기로 했다.",
-      "구글에는 429억원, 애플에는 208억1000만원의 과징금을 부과한다.방미통위는 28일 전체회의를 개최하고 이같이 의결했다.",
-      "방미통위는 두 사업자의 ▲특정 결제방식 강제 ▲앱 심사 부당 지연 ▲이용자 이익 저해(애플만 해당) 등 앱 마켓 분야의 금지행위에 대해 지난 2022년부터 실태점검 및 사실조사를 진행한 바 있다."
+      "[서울=뉴시스]박지혁 기자 = 스페인 프로축구 무대에서 활약 중인 이강인(아틀레티코 마드리드)과 스페인 출신 로베르트 모레노 한국 축구대표팀 감독이 스페인 고속열차 사고 희생자들을 애도했다.",
+      "모레노 감독은 28일(현지시간) 자신의 소셜네트워크서비스(SNS)를 통해 \"톨레도 열차 사고 피해자분들의 가족, 친구들에게 깊은 애도를 표한다.",
+      "이번 비극으로 피해를 입은 모든 사람들에게 마음을 다해 위로와 지지를 보낸다\"고 썼다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "nc73b29b3",
-    "category": "IT",
-    "source": "테크M",
-    "time": "방금 전",
-    "url": "https://www.techm.kr/news/articleView.html?idxno=156614",
-    "title": "[퓨처링 26] 인플루언서 커머스 시장 뛰어든 카카오 \"잘 키운 3할이 매출 8할 책임\"",
-    "summary": [
-      "유명 인플루언서를 섭외하는 데 집중하기보다 새로운 파트너를 발굴하고 협업을 이어가는 카카오의 커머스 전략이 긍정적인 수치로 확인됐다.",
-      "연 4회 이상 협업한 인플루언서는 3명 중 1명에 그쳤지만 이들이 만들어낸 거래액은 전체의 80%에 달했다.심윤보 카카오 라이브 인플루언서 콘텐츠팀 리더는 28일 서울 강남구 아모리스 역삼에서 열린 소셜 마케팅 컨퍼런스 '퓨처링 26'에 참석해 이 같이 밝혔다.2021년 인플루언서 커머스를 시험한 카카오는 지난해."
-    ],
-    "chips": [
-      "#카카오"
-    ]
-  },
-  {
-    "id": "n40a3762e",
-    "category": "IT",
-    "source": "뉴시스",
-    "time": "2분 전",
-    "url": "https://www.newsis.com/view/NISX20261028_0003845220",
-    "title": "시총 1위 되찾은 애플…\"다음 시험대는 아이폰 수요 입증\"",
-    "summary": [
-      "[서울=뉴시스]이지영 기자 = 애플이 한때 엔비디아를 제치고 세계 시가총액 1위에 복귀했다.",
-      "다만 주가가 이미 크게 오른 만큼 향후 상승세를 이어가려면 다음 실적에서 아이폰 수요와 수익성을 다시 입증해야 한다는 분석이 나온다.",
-      "28일(현지시간) 미국 금융투자정보 전문매체 바차트에 따르면 애플 주가는 지난 23일 장중 351.73달러까지 오르며 사상 최고치를 기록했다."
-    ],
-    "chips": [
-      "#엔비디아"
-    ]
-  },
-  {
-    "id": "ncde6b280",
+    "id": "nbea67123",
     "category": "사회",
     "source": "뉴시스",
-    "time": "3분 전",
-    "url": "https://www.newsis.com/view/NISX20261029_0003845527",
-    "title": "美 이란 재공격·한파 우려에 유럽 가스값 4년 만에 100유로 돌파",
-    "summary": [
-      "[서울=뉴시스]박미선 기자 = 미국의 이란 재공격 가능성과 유럽의 한파 우려가 겹치면서 유럽 천연가스 가격이 약 4년 만에 처음으로 메가와트시(MWh)당 100유로를 넘어섰다.",
-      "28일(현지 시간) 파이낸셜타임스(FT)에 따르면 이날 네덜란드 천연가스 11월 인도분 가격은 2.9% 상승한 MWh당 100.30유로를 기록했다.",
-      "러시아의 우크라이나 전면 침공 이후 유럽 에너지 위기가 발생했던 2022년 12월 이후 처음이다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nf25b7d99",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "5분 전",
-    "url": "https://www.chosun.com/sports/volleyball/2026/10/29/MY4GENJWME2WCZDEGM3DKZBTGY/",
-    "title": "‘韓 최초’ 재미교포 출신 세터 탄생! 20% 확률의 기적, 오드리 박 어떻게 전체 1순위 영예 안았나",
-    "summary": [
-      "[OSEN=이후광 기자] V리그 여자부 사상 최초 재미교포 출신 세터가 탄생했다.",
-      "재미교포 오드리 박(24, 한국명 박혜린)은 28일 서울 강서구 메이필드호텔에서 개최된 2026-2027 KOVO 여자 신인선수 드래프트에서 전체 1순위로 IBK기업은행 지명을 받았다.",
-      "한국배구연맹은 지난해 12월 개최된 제22기 제3차 이사회에서 2026~2027시즌부터 외."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n42d21346",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "6분 전",
-    "url": "https://www.chosun.com/sports/baseball/2026/10/29/HEYGEZJTHA2GCYLFGUZTSMLDMU/",
-    "title": "이택근 유튜브에 탄로난 롯데의 거짓말",
-    "summary": [
-      "[스포츠조선 한동훈 기자] \"오늘 공식적으로 롯데 자이언츠의 단장이 되었습니다.\" 이택근 신임 롯데 단장이 23일부터 공식 업무를 시작했다고 밝혔다.",
-      "하지만 롯데가 발표를 한 시점과 다르다.",
-      "이 단장은 지난 27일 공개된 유튜브 영상에서 위와 같이 말했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "naa9b4efa",
-    "category": "스포츠",
-    "source": "머니투데이",
-    "time": "9분 전",
-    "url": "https://www.mt.co.kr/sports/2026/10/29/2026102823530362900",
-    "title": "\"도망친 여친 다시 잡아 목 졸랐다\" 美 경마계 '발칵' 유명 기수의 '두 얼굴'... 음주 전과까지 \"선수 생명 끝\"",
-    "summary": [
-      "미국 경마계 최대 행사인 '브리더스컵' 출전을 앞둔 유명 기수 리카르도 산타나(33)가 여자친구를 폭행한 혐의로 체포돼 선수 생명에 큰 위기를 맞았다.",
-      "영국 매체 '더선'은 28일(한국시간) \"산타나가 가정 폭력 혐의로 경찰에 체포됐고, 즉각 모든 기승 일정에서 제외됨과 동시에 기수 면허 정지 처분을 받았다\"고 보도했다.",
-      "매체에 따르면 산타나는 현지 시간으로 지난 26일 늦은 밤 여자친구의 목을 조르고 폭행한 혐의를 받는다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nb48b7300",
-    "category": "스포츠",
-    "source": "연합뉴스",
-    "time": "9분 전",
-    "url": "https://www.yna.co.kr/view/AKR20261029002100004",
-    "title": "[속보] 국힘 의원들, 올림픽공원 투표함 이송 저지 농성",
+    "time": "2분 전",
+    "url": "https://www.newsis.com/view/NISX20261028_0003845521",
+    "title": "[속보]송파구 투표지 공개검증 종료 5시간50분 만에 반출…국힘 반발",
     "summary": [],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "nf95a51de",
+    "id": "nd982fbaf",
+    "category": "사회",
+    "source": "아시아경제",
+    "time": "5분 전",
+    "url": "https://view.asiae.co.kr/article/2026102906195345570",
+    "title": "美, 北 IT 위장취업 관련 추가 제재",
+    "summary": [
+      "미국 정부가 북한 정보기술(IT) 인력의 위장 취업을 통한 불법 자금 조달에 관여한 개인 10명과 단체 1곳을 추가 제재했다.",
+      "북한이 이 같은 방식으로 벌어들인 자금을 대량살상무기(WMD)와 탄도미사일 개발에 활용하고 있다는 판단에서다.",
+      "28일(현지시간) 미국 재무부 해외자산통제국(OFAC)은 북한 IT 인력의 위장 취업과 불법 자금 조달에 관여한 개인 10명과 단체 1곳을 제재 대상으로 지정했다고 밝혔다."
+    ],
+    "chips": [
+      "#취업"
+    ]
+  },
+  {
+    "id": "nebb25f0a",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "6분 전",
+    "url": "https://www.newsis.com/view/NISX20261029_0003845568",
+    "title": "29일 전남광주 점차 흐리다가 저녁부터 10㎜ 안팎 비",
+    "summary": [
+      "[전남광주=뉴시스]변재훈 기자 = 29일 전남광주는 오후부터 빗방울이 떨어지기 시작해 10㎜ 안팎의 비가 내리겠다.",
+      "광주기상청에 따르면 이날 전남광주는 오전부터 차차 흐려지며 저녁부터 곳곳에 비가 내리겠다.",
+      "예상 강수량은 오는 30일까지 밤사이 5~10㎜다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n8537a6a7",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "8분 전",
+    "url": "https://www.yna.co.kr/view/AKR20261029014100064",
+    "title": "충북 흐리고 밤에는 비…낮 최고 12∼16도",
+    "summary": [
+      "(청주=연합뉴스) 전창해 기자 = 목요일인 29일 충북은 대체로 흐리고, 밤에는 비가 내리는 곳이 있겠다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n11b3402d",
     "category": "IT",
     "source": "연합뉴스",
     "time": "10분 전",
-    "url": "https://www.yna.co.kr/view/AKR20261029001500091",
-    "title": "깃허브, AI모델 조율 '코파일럿퓨전' 공개…에이전트 개발시대",
+    "url": "https://www.yna.co.kr/view/AKR20261029009951091",
+    "title": "MS 분기매출 19% 급증 124조원…'애저' 48% 폭풍 성장(종합)",
     "summary": [
-      "(샌프란시스코=연합뉴스) 권영전 특파원 = 세계 최대 개발자 플랫폼 깃허브가 다양한 인공지능(AI) 모델에 최적의 작업을 맡겨 효율성을 극대화할..."
+      "(샌프란시스코=연합뉴스) 권영전 특파원 = 세계 최대 소프트웨어(SW) 기업 마이크로소프트(MS)가 인공지능(AI)과 클라우드 부문 성장세에 힘..."
     ],
     "chips": [
       "#AI"
     ]
   },
   {
-    "id": "n72c9c980",
-    "category": "스포츠",
-    "source": "동아일보",
-    "time": "14분 전",
-    "url": "https://www.donga.com/news/Politics/article/all/20261029/134929197/2",
-    "title": "[속보]‘올공’ 투표지 247만 장 공개 검증, 12시간여 만에 종료",
+    "id": "n645c3ec0",
+    "category": "경제",
+    "source": "연합뉴스(경제)",
+    "time": "11분 전",
+    "url": "https://www.yna.co.kr/view/AKR20261028174000017",
+    "title": "대부업체·제약사·병원 줄줄이 해킹…해커 국내 활동 가능성",
     "summary": [
-      "중앙선거관리위원회를 둘러싼 각종 의혹을 규명하는 선관위 특검(특별검사 이태한)의 서울 올림픽공원 핸드볼경기장에 보관된 투표지 247만여 장과 현장 폐쇄회로(CC)TV 등에 대한 공개 임의검증 작업이 29일 새벽 12시간여 만에 종료됐다.",
-      "선관위 특검은 6·3지방선거가 치러진 지 147일 만인 28일 검증에 나섰다.",
-      "이 특검은 29일 오전 12시 38분경 검증을 마치고 “검증 과정에서 참관인들의 이의제기를 존중해 특정 투표지 박스 전체를 임의 제."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n5510c598",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "14분 전",
-    "url": "https://www.yna.co.kr/view/AKR20261029001400072",
-    "title": "UAE 유엔총장 후보, 한반도 평화 질문에 \"모든 분쟁 아우르겠다\"",
-    "summary": [
-      "(뉴욕=연합뉴스) 김연숙 특파원 = 차기 유엔 사무총장 선출전에 막판 합류, 유력 후보로 주목받고 있는 아랍에미리트(UAE) 라나 누세이베 국무..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nb99bf525",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "16분 전",
-    "url": "https://www.donga.com/news/Inter/article/all/20261029/134929297/1",
-    "title": "트럼프 “러·우 11~12월 회담”…이란 추가 공습엔 “무엇이든 가능”",
-    "summary": [
-      "도널드 트럼프 미국 대통령이 블라디미르 푸틴 러시아 대통령과 볼로디미르 젤렌스키 우크라이나 대통령의 회담이 오는 11~12월 중 이뤄질 것이라고 밝혔다.",
-      "이란 추가 공습에 대해서는 구체적 언급을 꺼리면서도 무엇이든 가능하다고 여지를 남겼다.",
-      "시진핑 중국 국가주석과는 11월 아시아태평양경제협력체(APEC)에서 만나 핵 군축 문제를 논의하겠다고 재차 언급했다.트럼프 대통령은 28일(현지시간) 새벽 텍사스주 유세를 마치고 돌아오는 길에 기자들과 만나."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n8f15b547",
-    "category": "스포츠",
-    "source": "머니투데이",
-    "time": "16분 전",
-    "url": "https://www.mt.co.kr/society/2026/10/29/2026102900543659592",
-    "title": "선관위 특검, 올림픽 공원 투표지 247만장 공개검증 종료…\"정밀 분석\"",
-    "summary": [
-      "(종합) 투표용지 부족 사태 등을 수사하는 선관위 특검(특별검사 이태한)이 진행하는 서울 올림픽공원 핸드볼경기장에서 진행한 투표용지 공개검증이 자정을 넘겨서야 마무리됐다.",
-      "선관위 특검은 28일 오전 11시49분쯤부터 공개검증을 시작해 29일 12시36분 검증을 마무리지었다.",
-      "이 특검은 공개검증을 마치면서 \"특검은 검증 과정에서 참관인의 이의제기를 존중해 특정 투표지 박스 전체를 임의제출 받은 것을 비롯해 추가 분석이 필요하다고 판단한 투표지 상."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n777bde93",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "17분 전",
-    "url": "https://www.donga.com/news/Inter/article/all/20261029/134929295/1",
-    "title": "유럽 가스값 100유로 돌파… 2022년 에너지 위기 이후 처음",
-    "summary": [
-      "유럽 천연가스 가격이 2022년 유럽 에너지 위기 이후 처음으로 100유로를 돌파했다.블룸버그통신에 따르면 28일(현지시간) 네덜란드 TTF거래소에서 거래된 천연가스 근월물 가격은 전날보다 4％ 넘게 오르면서 장중 ㎽h(메가와트시)당 100유로를 넘어섰다.유럽 가스값 벤치마크인 TTF 선물이 100유로를 넘긴 것은 우크라이나 전쟁으로 유럽이 에너지 위기를 맞았던 2022년 12월 이후 처음이다.TTF 선물은 이란전쟁 직전인 올해 2월만 해도 ㎽."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n0e9b87cc",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "19분 전",
-    "url": "https://www.newsis.com/view/NISX20261028_0003845049",
-    "title": "뇌졸중 후유증 편마비…\"방치하면 척추 뒤틀려요\"",
-    "summary": [
-      "[서울=뉴시스] 류난영 기자 = 어느날 갑자기 아침에 젓가락을 쥔 손에 힘이 빠지거나, 대화 중 갑자기 말이 어눌해지는 등 증상이 있다면 뇌졸중을 의심해 볼 수 있다.",
-      "뇌졸중의 위험성을 알리고 예방의 중요성을 되새기는 '세계 뇌졸중의 날'을 맞아, 뇌졸중 발병 이후 환자들이 겪는 후유증을 관리하는 방법에 대해 알아보자.",
-      "29일 의료계에 따르면 뇌졸중은 고비를 넘긴 뒤에도 언어장애, 삼킴장애 등 다양한 후유증을 남길 수 있다."
+      "(서울=연합뉴스) 오지은 기자 = 국내 대부업체와 제약회사, 병원 등 업종을 가리지 않고 기업과 기관을 겨냥한 연쇄 해킹이 발생해 내부 데이터가..."
     ],
     "chips": [
       "#의료"
     ]
   },
   {
-    "id": "nae5a097f",
-    "category": "스포츠",
-    "source": "아시아경제",
-    "time": "20분 전",
-    "url": "https://view.asiae.co.kr/article/2026102821091197201",
-    "title": "신상훈, 대상 포인트 1위 조기 확정한다",
+    "id": "n251002ea",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "12분 전",
+    "url": "https://www.newsis.com/view/NISX20261028_0003845154",
+    "title": "\"4400엔 내면 90분→20분\"…日 병원 '의료 패스트패스' 등장",
     "summary": [
-      "신상훈이 대상 포인트 1위 조기 확정에 도전한다.",
-      "그는 29일 인천 클럽72 컨트리클럽(파71)에서 열리는 한국프로골프(KPGA) 투어 렉서스 마스터즈(총상금 10억원)에서 우승을 노린다.",
-      "다음 달 5일 제주도 서귀포시 테디밸리 골프앤리조트에서 열리는 시즌 최종전 KPGA 투어챔피언십을 앞두고 열리는 마지막 대회다."
+      "[서울=뉴시스]김드보라 인턴 기자 = 일본에서 추가 요금을 내면 진료와 수납 절차를 우선 처리해 주는 '의료 패스트패스'를 도입하는 병원이 늘면서 의료 서비스의 형평성을 둘러싼 논란이 벌어지고 있다.",
+      "28일 일본 요미우리TV와 TBS 등 현지 매체에 따르면 도쿄의 일부 의료기관은 환자가 추가 비용을 지불하면 접수부터 진료, 수납까지 걸리는 시간을 줄여주는 우선 진료 제도를 운영하고 있다.",
+      "도쿄 신주쿠구의 한 정형외과는 4400엔(약 3만7000."
+    ],
+    "chips": [
+      "#의료"
+    ]
+  },
+  {
+    "id": "n4189007c",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "13분 전",
+    "url": "https://www.yna.co.kr/view/AKR20261028141700053",
+    "title": "[르포] 산불 상처 딛고 새생명 심는다…대구 함지산에 어린나무 4만그루",
+    "summary": [
+      "(대구=연합뉴스) 황수빈 기자 = \"땅이 수분을 머금고 있을 때 어린나무를 빨리 심어야 합니다.",
+      "곧 다가오는 겨울엔 땅이 굳어서 속도전이 생명입..."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "nf96d5d25",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "20분 전",
-    "url": "https://www.newsis.com/view/NISX20261028_0003844811",
-    "title": "김정은 방중 때 러 아우루스 안타고 벤츠 탄 까닭…전직 北 외교관의 분석",
+    "id": "n5c9b8c1f",
+    "category": "경제",
+    "source": "연합뉴스(경제)",
+    "time": "15분 전",
+    "url": "https://www.yna.co.kr/view/AKR20261028165800030",
+    "title": "외식 물가 부담에 냉동치킨 '인기'…식품업계, 차별화 경쟁 속도",
     "summary": [
-      "[서울=뉴시스] 김종민 기자 = 김정은 북한 국무위원장의 최근 중국 방문 배경을 두고 북중 양국의 경제적 관계 회복과 지방 발전 정책 달성을 위한 포석이라는 분석이 제기됐다.",
-      "28일 유튜브 채널 '머니인더트랩'에 출연한 북한 외교관 출신 이일규 국가안보전략연구원 연구위원은 김 위원장의 방중 행보와 대내외 현안에 대해 이같이 진단했다.",
-      "최근 확산한 김 위원장의 사망설이나 대역설 등 자극적인 가짜 뉴스 대신 외교적 실리와 통치 전략이라는 본질에 집."
+      "(서울=연합뉴스) 김세린 기자 = 외식 물가 상승과 간편식 수요 증가에 힘입어 냉동치킨 시장이 성장하면서 국내 식품업체들이 제품군 확대와 브랜드..."
     ],
     "chips": [
-      "#정책"
+      "#뉴스"
     ]
   },
   {
-    "id": "n9f16ce45",
+    "id": "nb908caea",
     "category": "사회",
-    "source": "연합뉴스",
-    "time": "26분 전",
-    "url": "https://www.yna.co.kr/view/AKR20261029000200004",
-    "title": "올림픽공원 투표지 검증 12시간만 종료…\"상당수 추가분석 필요\"",
+    "source": "아시아경제",
+    "time": "15분 전",
+    "url": "https://view.asiae.co.kr/article/2026102906093735811",
+    "title": "젤렌스키 \"미·러·우 3자 회담 내달 6~10일 개최해야\"…러시아는 신중",
     "summary": [
-      "(서울=연합뉴스) 최원정 기자 = 이태한 선거관리위원회 특별검사팀의 6·3 지방선거 송파지역 약 247만장 공개 검증이 12시간여 만에 종료됐다..."
+      "볼로디미르 젤렌스키 우크라이나 대통령이 미국과 러시아, 우크라이나가 참여하는 3자 종전 협상을 다음 달 6~10일 개최해야 한다고 밝혔다.",
+      "다만 러시아 측은 구체적인 일정이 확정되지 않았다며 신중한 입장을 보였다.",
+      "28일(현지시간) 우크라이나 매체 키이우인디펜던트에 따르면 젤렌스키 대통령은 이날 네덜란드 헤이그에서 롭 예턴 네덜란드 총리와 회담한 뒤 공동 기자회견을 열고 \"3자 회담은 11월 말까지 열려야 하며 가능하면 6~10일 사이에 개최돼."
     ],
     "chips": [
       "#정치"
     ]
   },
   {
-    "id": "nc5200205",
-    "category": "IT",
-    "source": "동아일보",
-    "time": "30분 전",
-    "url": "https://www.donga.com/news/It/article/all/20261029/134929277/1",
-    "title": "“베르다 LPU와 K-컴포저블 클러스터” 하이퍼엑셀이 제안하는 차세대 AI 데이터센터 인프라",
+    "id": "n5cf33b12",
+    "category": "부동산",
+    "source": "연합뉴스(경제)",
+    "time": "19분 전",
+    "url": "https://www.yna.co.kr/view/AKR20261028160300003",
+    "title": "서울 공급 부족 우려에도…LH, 비축용 토지 매입 4년간 '0'",
     "summary": [
-      "2026년 10월 27일, 서울 AI 허브에서 ‘K-클라우드 테크 데이 2026’이 열렸다.",
-      "이번 행사는 K-클라우드 기술개발 사업의 대표 과제 주관기관과 참여 기업들이 한자리에 모여 연구개발 진척 상황을 점검하고 기술 교류를 나누기 위해 마련했다.과학기술정보통신부와 정보통신기획평가원(IITP)이 추진하는 K-클라우드 기술개발 사업은 국산 AI 반도체 위에 상용 AI 컴퓨팅 인프라를 세우고 운영하는 데 쓸 데이터센터 하드웨어·소프트웨어 기술을."
+      "(서울=연합뉴스) 오예진 기자 = 한국토지주택공사(LH)가 재무개선을 이유로 중장기 사업용 토지 매입을 중단했다가 공급 부족이 현실화한 후에야 ..."
     ],
     "chips": [
-      "#AI",
-      "#반도체"
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n829f796c",
+    "category": "사회",
+    "source": "연합뉴스(경제)",
+    "time": "24분 전",
+    "url": "https://www.yna.co.kr/view/AKR20261028127600030",
+    "title": "농식품부, 유기농업자재 지원 확대…녹비작물 종자 2종 추가",
+    "summary": [
+      "(서울=연합뉴스) 한주홍 기자 = 농림축산식품부는 29일 친환경농업인 확대를 위해 유기농업자재 사업 지침을 개정키로 했다."
+    ],
+    "chips": [
+      "#환경"
+    ]
+  },
+  {
+    "id": "n2854af40",
+    "category": "경제",
+    "source": "조선비즈IT",
+    "time": "24분 전",
+    "url": "https://biz.chosun.com/it-science/ict/2026/10/29/3377VIE6X5GIDC525A7XQMNW5U/",
+    "title": "‘2조달러’ IPO 도전하는 앤트로픽… 공동창업자 7명 ‘35조원’ 부자 된다",
+    "summary": [
+      "‘2조달러’ IPO 도전하는 앤트로픽… 공동창업자 7명 ‘35조원’ 부자 된다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n429b6659",
+    "category": "경제",
+    "source": "아시아경제",
+    "time": "25분 전",
+    "url": "https://view.asiae.co.kr/article/2026102822081095460",
+    "title": "기업 체감경기, 4년2개월 만에 '낙관'으로…\"中企·내수도 장기평균↑\"",
+    "summary": [
+      "이달 기업 체감경기가 4년2개월 만에 '낙관'으로 돌아섰다.",
+      "대기업과 수출기업뿐 아니라 중소기업과 내수기업도 장기평균을 웃돌았다.",
+      "추석 연휴, 자동차 파업 여파 등 지난달 일시적으로 작용했던 부정적 요인이 해소된 데다, 반도체와 자동차, 조선 등 주력산업의 생산·투자 증가 영향이 후방산업으로도 이어진 결과다."
+    ],
+    "chips": [
+      "#반도체",
+      "#한은",
+      "#수출"
+    ]
+  },
+  {
+    "id": "n5983812b",
+    "category": "경제",
+    "source": "아시아경제",
+    "time": "25분 전",
+    "url": "https://view.asiae.co.kr/article/2026102816561363049",
+    "title": "로컬창업 소상공인, '립스' 통해 1227억원 투자 유치",
+    "summary": [
+      "2023년 이후 '립스(LIPS)'를 통해 로컬창업 소상공인 765개사에 1227억원의 민간 투자가 이뤄진 것으로 집계됐다.",
+      "립스는 중소벤처기업부가 지정한 운영사(민간투자사)가 지역의 고유한 자원, 문화, 특성을 가진 로컬창업 소상공인에게 먼저 투자하면, 중기부가 정책자금 및 사업화 자금을 매칭 지원하는 프로그램이다.",
+      "중기부는 29일 이 같은 내용을 담은 '로컬창업 소상공인 대상 민간투자 동향 및 분석 결과'를 발표했다."
+    ],
+    "chips": [
+      "#스타트업",
+      "#정책"
+    ]
+  },
+  {
+    "id": "n9ec279c5",
+    "category": "경제",
+    "source": "한국경제",
+    "time": "37분 전",
+    "url": "https://www.hankyung.com/article/202610291935i",
+    "title": "[단독] 미래에셋, 日산코증권 인수…일본 금융시장 공략 본격화",
+    "summary": [
+      "[단독] 미래에셋, 日산코증권 인수…일본 금융시장 공략 본격화."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "naf2965b2",
+    "category": "IT",
+    "source": "한국경제",
+    "time": "40분 전",
+    "url": "https://www.hankyung.com/article/202610291939i",
+    "title": "본업인 '검색' 매출 둔화한 구글…시간외 거래서 9% 하락",
+    "summary": [
+      "본업인 '검색' 매출 둔화한 구글…시간외 거래서 9% 하락."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n2449f83c",
+    "category": "경제",
+    "source": "한국경제",
+    "time": "1시간 전",
+    "url": "https://www.hankyung.com/article/202610291927i",
+    "title": "월가, '12월 금리 인상' 확률 85%…\"이번에 왜 안 올렸나\" 비판도 [Fed워치]",
+    "summary": [
+      "월가, '12월 금리 인상' 확률 85%…\"이번에 왜 안 올렸나\" 비판도 [Fed워치]."
+    ],
+    "chips": [
+      "#금리"
+    ]
+  },
+  {
+    "id": "nf3ea2b0b",
+    "category": "경제",
+    "source": "ZDNet Korea",
+    "time": "1시간 전",
+    "url": "https://zdnet.co.kr/view/?no=20261029045440",
+    "title": "미 연준 '매파적' 금리 동결…2027년부터 회의 체계 전면 개편",
+    "summary": [
+      "[지디넷코리아]미국 연방준비제도(연준)가 27~28일(현지시간) 연 공개시장위원회(FOMC)에서 연방기금금리 범위를 현행과 같은 수준인 3.75%~4.00%로 동결하기로 결정했다.인플레이션 우려 속에서도 지난 9월 금리를 0.25%p 상향 조정한 이후, 금융 및 신용 여건이 긴축됐다는 점에서 금리를 유지하기로 했다.",
+      "이번 결정은 FOMC 위원 12명 중 2명이 금리 동결에 반대했다.",
+      "FOMC 위원 12명 중 2명인 리사 쿡 연준이사와 베스 해맥."
+    ],
+    "chips": [
+      "#금리"
+    ]
+  },
+  {
+    "id": "n1272c7b1",
+    "category": "경제",
+    "source": "동아일보",
+    "time": "1시간 전",
+    "url": "https://www.donga.com/news/Inter/article/all/20261029/134929418/1",
+    "title": "연준, 美 중간선거 앞두고 기준금리 동결…‘12월 인상’ 시장 전망은 85%",
+    "summary": [
+      "미국 연방준비제도(Fed·연준)가 28일(현지 시간) 연방공개시장위원회(FOMC) 정례회의에서 기준금리를 연 3.75~4.00%로 동결했다.",
+      "12월 금리 인상에 대해서도 명확한 신호를 내놓지 않았다.",
+      "지난달 3년 2개월 만의 금리 인상 이후 일단 속도 조절에 나선 것이다.연준은 이날 FOMC에서 위원들의 찬성 10, 반대 2의 의견으로 기준금리 동결을 결정했다고 밝혔다."
+    ],
+    "chips": [
+      "#금리",
+      "#정치"
     ]
   }
 ];
@@ -649,15 +639,15 @@ window.KEYWORD_TOP = [
   },
   {
     "rank": 2,
-    "tag": "AI",
-    "mentions": "2070건",
-    "trend": "+215%"
-  },
-  {
-    "rank": 3,
     "tag": "반도체",
     "mentions": "1680건",
     "trend": "+155%"
+  },
+  {
+    "rank": 3,
+    "tag": "AI",
+    "mentions": "1550건",
+    "trend": "+135%"
   }
 ];
 // ====AUTO-GENERATED-END====
