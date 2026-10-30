@@ -1,42 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-10-30 10:32:45
+// 마지막 업데이트: 2026-10-30 16:51:35
 window.NEWS_DB = [
-  {
-    "id": "n3b890fe1",
-    "category": "사회",
-    "source": "위키트리",
-    "time": "2시간 전",
-    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9EaWRMT0ZYaUlpa2NYR05wNVNsVGRfc2I2ZEhnMWtPVzVVWm5RR2JHNHNOZVdkTGVtSGNKTzl6ZVdsUjlwN0RBTlJxaXJDMlFseXlESkt3?oc=5",
-    "title": "영종구, 출범 후 첫 일자리 박람회…기업 40곳·구직자 400명 '취업 열기'",
-    "summary": [
-      "영종구, 출범 후 첫 일자리 박람회…기업 40곳·구직자 400명 '취업 열기' 위키트리."
-    ],
-    "chips": [
-      "#취업",
-      "#고용"
-    ]
-  },
-  {
-    "id": "n93a60d04",
-    "category": "사회",
-    "source": "비즈월드",
-    "time": "3시간 전",
-    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1FZXFzTWpvazdVVWM1WXBDaERYbUZvQk5XUVFCaHAwbDNGMzc5MlhUYUFuRnBBazBPWTNOLTFqMERmNzlnMzlDT2dzbmNfbnBCWjNVWmF5RWlucnljemxaS3h3d2gtNzRDOGM4?oc=5",
-    "title": "시흥시 일자리박람회, 구직 열기 채용으로…360명 취업 성과",
-    "summary": [
-      "시흥시 일자리박람회, 구직 열기 채용으로…360명 취업 성과 비즈월드."
-    ],
-    "chips": [
-      "#채용",
-      "#취업",
-      "#고용"
-    ]
-  },
   {
     "id": "n085ffdfe",
     "category": "IT",
     "source": "Chosunbiz",
-    "time": "4시간 전",
+    "time": "10시간 전",
     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNUmozM2llclRLYkV2RFdfandqWXN2MlpudXNxbE81Rkp2bGZLOUFJZ0dueElXckpUaHBNOFlOTHZIWHhiNDVwVDhZX0plMS1UdmRZRkNfVzAyX0RxRjlqUHRHQ2VxZTd4SEhhTmc5R2Eya2NJZjkwTmZwYVdFNEF2OGxn0gGWAUFVX3lxTE5YR0tGUS1NNHVzTkh4TWlOeVJqTk1pd2dQVjIzOWp0TXBNWmszaDFQcy01aFhqbFRVdklPR3NJYW5ZMlFSLVVzYjBlX1RkdE5EU0g1VlY1RGtBdXdRbW9HU19SYU5hTmgyWmFrVmE4OEpEU2FIV0pDT2taZlJES2ROcEJ5c05ZSmZjeG9ESXY5V2NWN2FxZw?oc=5",
     "title": "삼성전자·SK하이닉스, 역대급 실적에도 다른 셈법… HBM·투자·주주환원 전략 비교해보니",
     "summary": [
@@ -49,11 +18,11 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nb3f3f0ba",
+    "id": "n45f100e5",
     "category": "IT",
     "source": "머니투데이",
-    "time": "5시간 전",
-    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9rVUJQb3hCT1prV3ExNktsc3k5OTVVejRoZzlRbl9WV0diX3dmZk5BcVNKeV9xckxLd05JdEFmbl9QLUh6bWNiNFg3UEZmVGtCYkN0V2ZMbEl6dkNrUTR0SnB2R2pZaHV60gFuQVVfeXFMTllHaDVNbXhnOGk3LVdjem0zb3ZrWHVFWDh2cU1wQXpsQno4VkdPVno3eFZydWZFOTd1TS1qYVBWSFRCUlpyVXU3dVhNenpTdXJMaFJpRDJBTjBZd2k0dldmXzdSdmxRNjVHRGgyUlE?oc=5",
+    "time": "11시간 전",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5ZR2g1TW14ZzhpNy1XY3ptM292a1h1RVg4dnFNcEF6bEJ6OFZHT1Z6N3hWcnVmRTk3dU0tamFQVkhUQlJaclV1N3VYTXp6U3VyTGhSaUQyQU4wWXdpNHZXZl83UnZsUTY1R0RoMlJR0gFuQVVfeXFMTllHaDVNbXhnOGk3LVdjem0zb3ZrWHVFWDh2cU1wQXpsQno4VkdPVno3eFZydWZFOTd1TS1qYVBWSFRCUlpyVXU3dVhNenpTdXJMaFJpRDJBTjBZd2k0dldmXzdSdmxRNjVHRGgyUlE?oc=5",
     "title": "中 GPU기업 \"엔비디아 H200 성능 추월\"…美 수출허가 10개월만 - 머니투데이",
     "summary": [
       "中 GPU기업 \"엔비디아 H200 성능 추월\"…美 수출허가 10개월만 - 머니투데이 머니투데이."
@@ -64,25 +33,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n44462256",
-    "category": "사회",
-    "source": "경인매일",
-    "time": "6시간 전",
-    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE96ZDNGdEVSRmROdktmaW9KSDZKSWRxdzNhN2tNOHpfRzB5SHhzX2p2dnF1aG5kQlNUMWdHSmhfWW9jblQ5TjRpbGN2QlBlcE9ILWtSbERqeF9KSl9ZRjdhdzViajlWLVBk?oc=5",
-    "title": "인천 영종구, 청년부터 중장년까지 400여 명 참여한 일자리 박람회서 취업 기회 제공",
-    "summary": [
-      "인천 영종구, 청년부터 중장년까지 400여 명 참여한 일자리 박람회서 취업 기회 제공 경인매일."
-    ],
-    "chips": [
-      "#취업",
-      "#고용"
-    ]
-  },
-  {
     "id": "n15ef80d0",
     "category": "IT",
     "source": "비즈니스포스트",
-    "time": "7시간 전",
+    "time": "14시간 전",
     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1HYWc0aGdnX3VUQXM3dDkyanNTVEx1RWdrdmV0OUhkbXRsNWpNMTNUTk5ZSnJMbWp0S2xCcnVoYS10aVRZN0pONzRyaHBwSTU0ZG10YWFXSGVFOWs0dW9wei1MUVd1RXlBM2psUnlhTWh1LTg?oc=5",
     "title": "엔비디아 AI 반도체 수명이 빅테크 실적에 변수, \"교체 1년 앞당기면 360억 달러 손실\"",
     "summary": [
@@ -98,7 +52,7 @@ window.NEWS_DB = [
     "id": "n95d6ce79",
     "category": "IT",
     "source": "연합뉴스TV",
-    "time": "9시간 전",
+    "time": "15시간 전",
     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE15Q3FNUmN3LXhHNVNiclJTcWFkNXBMTEZZNkQ0cFpKSmk3OEtkOXdocU1kdkRnNHZoNmttY0lzLS1JS043OUR3TTRob2c4ZUZJXzc1VjlMSGRCY0tqREw3WnJDQXFkclU?oc=5",
     "title": "中 AI 반도체, 엔비디아 H200 성능 추월 주장…독립 검증은 미완료",
     "summary": [
@@ -108,6 +62,36 @@ window.NEWS_DB = [
       "#AI",
       "#반도체",
       "#엔비디아"
+    ]
+  },
+  {
+    "id": "n79f43da7",
+    "category": "IT",
+    "source": "데이터솜",
+    "time": "17시간 전",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE84clFDRUQ4bHVHY184M0o3dzAxd0Y0NnAzLUpQbnVBMV9xVVFJNzVjS1Y1VDBpQTBZNVdSaUd3bWVmVFM1b1FkRGJ5NVQ2NkZIRWszS09WSHhWZWlfRzNwUE0waU56VGdlUGswRdIBcEFVX3lxTFBLMm5hSkU1SWNZWFRRd1lnNnZlOGk4N0cyVW5IRW9Pamp0X1N5a0l3OHU2R0JPNHB3VFI2TGtQVlNuSGZOMjE5UWRzT2hZRS1uRUJRSjZtZVRLTWNsT2RiYlVZY3JQRllLTVh1UHMzbl8?oc=5",
+    "title": "[분석] 삼성·SK하이닉스의 2027년 투자전략",
+    "summary": [
+      "[분석] 삼성·SK하이닉스의 2027년 투자전략 데이터솜."
+    ],
+    "chips": [
+      "#SK하이닉스"
+    ]
+  },
+  {
+    "id": "nd6977de7",
+    "category": "IT",
+    "source": "더팩트",
+    "time": "1일 전",
+    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1TdWVJRmk4NWhOYmhqem5rSENGa20yZ0hEbDhhajVYQ0FPU2MyTWUxaGZMM0pOM3E4UVIxYWo4SzA2MmpPcV8xYVc3VjFhWWNNNFJYdtIBVEFVX3lxTE1TdWVJRmk4NWhOYmhqem5rSENGa20yZ0hEbDhhajVYQ0FPU2MyTWUxaGZMM0pOM3E4UVIxYWo4SzA2MmpPcV8xYVc3VjFhWWNNNFJYdg?oc=5",
+    "title": "토스증권, AI 시대 메모리 반도체 산업 분석…삼성·SK하이닉스 HBM 전략 비교",
+    "summary": [
+      "토스증권, AI 시대 메모리 반도체 산업 분석…삼성·SK하이닉스 HBM 전략 비교 더팩트."
+    ],
+    "chips": [
+      "#AI",
+      "#반도체",
+      "#SK하이닉스"
     ]
   },
   {
@@ -122,37 +106,6 @@ window.NEWS_DB = [
     ],
     "chips": [
       "#스타트업"
-    ]
-  },
-  {
-    "id": "n84a2f8de",
-    "category": "IT",
-    "source": "주간한국",
-    "time": "1일 전",
-    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5PUGlkQU9DLWlBalFjV0dLaVRWNUNKc0lRYkp5ZnQ5VjFOMXFVUFJrdHRpRURyejBqTGRUUFZtdHd6OEZlNGE2NTJuZ2lhdzZ4VVRDeE9ZeGJ4Rmg5YTJ4VU9CcmQ2S2JTSUtVXzBjYzLSAXRBVV95cUxQU2Rhbm0wLWMwQlRJNjlEaURkdFpLT1BubGZoTXNJdmwzWFRZWlloeEVmck1NbnBNVTlLU3hwRkVMRnN4eTR6VTV1SnNlNTI2Y3RqZ0VaZkNYM1RSY0F5Z0JXM2ZURWVwWnNhajRzdzBUYXU3NA?oc=5",
-    "title": "토스증권 ”삼전닉스 HBM 전략 엇갈려...진폭 작아질 것\"",
-    "summary": [
-      "토스증권 ”삼전닉스 HBM 전략 엇갈려...진폭 작아질 것\" 주간한국."
-    ],
-    "chips": [
-      "#반도체"
-    ]
-  },
-  {
-    "id": "nf89ff071",
-    "category": "IT",
-    "source": "경인방송 뉴스",
-    "time": "3일 전",
-    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1CVFZNN2Y1TG9GcUQ3NHVYc1QyWFdZTWRnYnF0dWFmMnFUSmhMeS1uSXBkUjR5amtVUnZTc0Zoc2lpbG9GMEhBMl9aUDNIUFJTOTFHSWpHMm1QS19aeG15X2hnUjjSAWhBVV95cUxNZC0wVFU1ZWY1cHFPNWwtZlNQSFF0UzU2ZFV6M0JqSUo0ak9BdTktM2NkOTdwc3JKaHhDNG55Z2dfTkg2YUFkUl9kTUZqVjZubWJ2ci00RVFWclR1WDlfREtZNC1VVkR5Rg?oc=5",
-    "title": "[美 중간선거 이후 금융시장] 삼성·SK하이닉스, 美 선거보다 AI 투자 향방이 더 무섭다…HBM 수요 '정치 리스크'",
-    "summary": [
-      "[美 중간선거 이후 금융시장] 삼성·SK하이닉스, 美 선거보다 AI 투자 향방이 더 무섭다…HBM 수요 '정치 리스크' 경인방송 뉴스."
-    ],
-    "chips": [
-      "#AI",
-      "#반도체",
-      "#SK하이닉스",
-      "#정치"
     ]
   },
   {
@@ -215,6 +168,22 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "nb16c3b86",
+    "category": "사회",
+    "source": "한국경제",
+    "time": "31일 전",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9WRTVrbjVJTjdrdkI0WVZYc2RzdHdzRXZWT2daLVRRWkxKaDd6RmpOb2xlQlBiX2lLY2VaRjF2c25SbmlMN0s1RkNDYW9pSmlndlpkLW9BUldwQQ?oc=5",
+    "title": "\"경력직만 뽑고 AI가 일자리 대체\"…청년 구직자 '취업 한파' 체감",
+    "summary": [
+      "\"경력직만 뽑고 AI가 일자리 대체\"…청년 구직자 '취업 한파' 체감 한국경제."
+    ],
+    "chips": [
+      "#AI",
+      "#취업",
+      "#고용"
+    ]
+  },
+  {
     "id": "na6d22b09",
     "category": "스포츠",
     "source": "경기일보",
@@ -241,6 +210,20 @@ window.NEWS_DB = [
     "chips": [
       "#금리",
       "#환율"
+    ]
+  },
+  {
+    "id": "n6c4859cd",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "51일 전",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBjajZ4SGVkMFFpSy04Q0ZfWDhINjVaN1ljdERjQ0JPNF9ESHctcGJ0NzJZZFBQMU1YUmZNTE00MVREMGN4bDlDWVFENmFRa3V2R0NPa0ZKY0FUQnfSAWBBVV95cUxNVXNSZmw5Q1NpbkVuOTVUdUtIc0VYVVZiWTl6TWdTeXltajJta3RHZkRJOC1vY1h3bjdSMGUzTzJqZDdwekI1anhTX3R3aU1WdmtOamVIelZqQ0F3c2ZDZUI?oc=5",
+    "title": "정부 \"청년 '쉬었음' 감소세…훈련-구직-취업사다리 복원 신호\"(종합)",
+    "summary": [
+      "정부 \"청년 '쉬었음' 감소세…훈련-구직-취업사다리 복원 신호\"(종합) 연합뉴스."
+    ],
+    "chips": [
+      "#취업"
     ]
   },
   {
@@ -316,6 +299,21 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "nb04cef68",
+    "category": "사회",
+    "source": "경기일보",
+    "time": "259일 전",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBOUDhhZnRmZXk0TTlkckltUkRLdVZSbXNBVWZ6QlVOTDRKY1lwc1NzVUZLX1k3aUp6SExpZnU1VmdYSWVUNUFlTWhRV3NQRnZxOHEtSGNSa0VoYVk?oc=5",
+    "title": "남양주시, ‘구인·구직 매칭데이’로 중소기업 인력난 정면 돌파…합동 운영 시너지 기대",
+    "summary": [
+      "남양주시, ‘구인·구직 매칭데이’로 중소기업 인력난 정면 돌파…합동 운영 시너지 기대 경기일보."
+    ],
+    "chips": [
+      "#채용",
+      "#취업"
+    ]
+  },
+  {
     "id": "na747581d",
     "category": "스포츠",
     "source": "테크M",
@@ -362,10 +360,55 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n168bf7cf",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "6분 전",
+    "url": "https://www.chosun.com/jp/culture-life-jp/2026/10/31/B5FQID4BYZFEPKAHYLEBD2SNJA/",
+    "title": "「一家に1人エリック・ナム」7年ぶり驚きの近況…映画4本・80都市ツアー",
+    "summary": [
+      "【OSEN＝キム・スヒョン記者】歌手エリック・ナムが7年ぶりに戻り、驚くべき海外活動の近況を公開した。30日に放送されたKBS 2TV『ソン・シギョンの鼓膜彼氏』にはエリック・ナムがゲスト出演し、これまでの活動と恋愛観を率直に語った。この日、ソン・シギョンは7年ぶりに戻ってきたエリック・ナムを温かく迎えた。2011年にオーディション番組を通じて顔を知られるようになったエリック・ナムは、2013年『天国の扉』で."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n3f8192cc",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "6분 전",
+    "url": "https://www.chosun.com/entertainments/music/2026/10/31/MUYDGMLGGVQTSZDBMZTDCYTDMM/",
+    "title": "\"1가정 1에릭남\" 7년 만에 깜짝 근황…영화 4편·80개 도시 투어 ('고막남친')",
+    "summary": [
+      "[OSEN=김수형 기자] 가수 에릭남이 7년 만에 돌아와 놀라운 해외 활동 근황을 공개했다.30일 방송된 KBS 2TV '성시경의 고막남친'에는 에릭남이 게스트로 출연해 그동안의 활동과 연애관을 솔직하게 털어놨다.이날 성시경은 7년 만에 돌아온 에릭남을 반갑게 맞이했다.",
+      "지난 2011년 오디션 프로그램을 통해 얼굴을 알린 에릭남은 2013년 '천국의 문'으."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n1eb6531b",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "7분 전",
+    "url": "https://www.chosun.com/sports/baseball/2026/10/30/GE2TOYRYHAZWGYZUGIZDMMTGGI/",
+    "title": "동점 득점 또 동점 득점, 멀티안타에 호수비 또 호수비...AVG .438, 김도영 2번카드 대적중 [PO4]]",
+    "summary": [
+      "[OSEN=광주, 이선호 기자] KIA 타이거즈 슈퍼스타가 2번임무를 완벽하게 소화했다.",
+      "김도영은 30일 광주-기아 챔피언스필드에서 열린 2026 신한 SOL KBO 포스트시즌 삼성 라이온즈와의 플레이오프 4차전에 출전해 5타수 2안타 2득점을 올렸다.",
+      "팀의 4-2 역전극을 이끌어냈다."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
     "id": "na4cd61f3",
     "category": "IT",
     "source": "테크M",
-    "time": "방금 전",
+    "time": "11분 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=156735",
     "title": "SOOP, '고배당기업' 지위 잇는다...2026년 결산배당 계획 공시",
     "summary": [
@@ -377,260 +420,219 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n4ca8be4e",
+    "id": "naed04a0f",
     "category": "사회",
-    "source": "뉴시스",
-    "time": "2분 전",
-    "url": "https://www.newsis.com/view/NISX20261030_0003848963",
-    "title": "조여정, 20대에 배우 그만두려했다?…\"늘 한 발 빼놨다\"",
+    "source": "동아일보",
+    "time": "11분 전",
+    "url": "https://www.donga.com/news/Society/article/all/20261031/134940953/2",
+    "title": "비만약 투약 후 담석증-급성췌장염 늘어… 시력 손상도 잇달아",
     "summary": [
-      "[서울=뉴시스] 남정현 기자 = 배우 조여정이 연기 인생의 터닝포인트와 달라진 연기 철학을 공개했다.",
-      "29일 유튜브 채널 '피디씨 by PDC'에는 조여정이 출연했다.",
-      "이날 조여정은 30대를 인생의 중요한 전환점으로 꼽으며 \"서른 살에 영화 '방자전'이 나왔다\"고 말했다."
+      "“비만약을 맞은 뒤 속이 울렁거리고 어지러워서 넘어질 뻔한 적이 있어요.” 직장인 김모 씨(31)는 넉 달째 비만치료제 마운자로를 투약 중이다.",
+      "석 달간 체중이 5kg가량 줄었는데도 살을 더 빼고 싶어 한 달 전부터 용량을 2.5mg에서 5mg으로 늘렸다.",
+      "그때부터 메스꺼움이 심해져 끼니를 거르기 일쑤였고, 증상이 심할 때면 기운이 없어 외출도 꺼리게 됐다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n359b9787",
+    "id": "nc12dcd25",
     "category": "사회",
-    "source": "연합뉴스",
-    "time": "3분 전",
-    "url": "https://www.yna.co.kr/view/AKR20261030069600064",
-    "title": "공소청, 불법선거운동 혐의 신용한 충북지사 측근 2명 영장 청구",
+    "source": "동아일보",
+    "time": "11분 전",
+    "url": "https://www.donga.com/news/Politics/article/all/20261031/134941699/2",
+    "title": "‘자폭드론’ 날린 北, 韓 GP모형 때렸다",
     "summary": [
-      "(청주=연합뉴스) 이성민 기자 = 청주지방공소청은 30일 6·3 지방선거 당시 신용한 충북지사 선거 캠프의 불법 선거 운동을 주도한 혐의(공직선..."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n9ea133cc",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "5분 전",
-    "url": "https://www.newsis.com/view/NISX20261030_0003849019",
-    "title": "과거 보러 가던 문경새재서 합격 기원 축제 열린다",
-    "summary": [
-      "[문경=뉴시스] 김진호 기자 = 경북 문경새재에서 옛 선비들의 과거 급제길을 걸으며 합격을 기원하는 행사가 열린다.",
-      "수능을 앞둔 수험생뿐만 아니라 새로운 목표에 도전하는 사람들에게 희망과 응원의 메시지를 전하기 위해서다.",
-      "문경시는 다음달 7일 문경새재도립공원 일원에서 '2026 문경새재 합격의 길 명소화 사업' 행사를 개최한다고 30일 밝혔다."
-    ],
-    "chips": [
-      "#교육"
-    ]
-  },
-  {
-    "id": "n583e241f",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "6분 전",
-    "url": "https://www.yna.co.kr/view/AKR20261030175600085",
-    "title": "ECB 떠나는 라가르드, 프랑스 대선판 뛰어드나",
-    "summary": [
-      "(런던=연합뉴스) 김지연 특파원 = 크리스틴 라가르드(70) 유럽중앙은행(ECB) 총재가 내년 2월 조기 사임을 발표하면서 프랑스 정계에 복귀할..."
+      "북한이 김정은 국무위원장이 참관한 가운데 한국 최전방 감시초소(GP)와 미군 전차 모형을 자폭 드론으로 타격하는 훈련 사진을 30일 공개했다.",
+      "정부가 제안한 군사회담을 거부하고 적반하장식 보복 위협을 쏟아낸 데 이어 ‘게임체인저’로 불리는 드론 등 대남 타격 무기를 대거 공개하며 무력 과시에 나선 것이다.",
+      "북한은 29일 ‘무인항공기술발전―2026’ 전시회를 열고 스텔스 드론과 자폭 드론 등 전략·작전·전술 드론을 대거 공개했고 전술순항비행탄 발."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n65057000",
-    "category": "경제",
-    "source": "아시아경제",
-    "time": "6분 전",
-    "url": "https://view.asiae.co.kr/article/2026103019254362645",
-    "title": "靑 \"北 MDL 철책은 정전협정 위반…국경선으로 인정 안 해\"",
+    "id": "n3f1a1449",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "11분 전",
+    "url": "https://www.donga.com/news/Society/article/all/20261031/134941840/2",
+    "title": "한국 평균 근속 6.6년… OECD 27개국중 26위",
     "summary": [
-      "청와대는 30일 북한이 군사분계선(MDL) 일대에 설치한 철책 등 시설물에 대해 \"정전협정 위반\"이라며 \"국경선으로 인정하지 않는다\"고 밝혔다.",
-      "북미 정상회담 가능성에 대해서는 현재까지 특별한 정황이 없다면서도 대화 가능성을 열어두고 미국과의 공조에 대비하고 있다고 설명했다.",
-      "청와대 고위관계자는 이날 기자들과 만나 북한의 MDL 일대 철책 설치 문제에 대해 \"지금처럼 가면 MDL에 대한 여러 버전이 존재하고 현실적으로는 철책선이 존재하는 상황이."
+      "국내 임금근로자의 평균 근속기간이 경제협력개발기구(OECD) 회원국 중 최하위권인 것으로 나타났다.",
+      "반면 일하는 시간은 네 번째로 길었다.",
+      "30일 고용노동부의 ‘2025 통계로 보는 우리나라 노동시장의 모습’에 따르면 지난해 한국 임금근로자의 평균 근속기간은 6.6년으로 OECD 비교 대상 27개국 가운데 26위였다."
     ],
     "chips": [
-      "#뉴스"
+      "#고용"
     ]
   },
   {
-    "id": "nba4b3581",
+    "id": "nab147950",
     "category": "사회",
-    "source": "아시아경제",
-    "time": "8분 전",
-    "url": "https://view.asiae.co.kr/article/2026103019213680131",
-    "title": "140일 만에…포스코 노사, 기본급 2.6%↑ 임금교섭 잠정 합의",
+    "source": "동아일보",
+    "time": "11분 전",
+    "url": "https://www.donga.com/news/Culture/article/all/20261031/134941838/2",
+    "title": "무대 안에서나 밖에서나 ‘우리 시대의 아버지’였다",
     "summary": [
-      "포스코 노사가 기본급 2.6%와 일시금 600만원 지급 등을 조건으로 임금 협약에 잠정 합의했다.",
-      "양측은 30일 오전 10시30분부터 포항 본사에서 본교섭을 진행했고 오후 늦게 잠정 합의안을 도출했다.",
-      "교섭이 시작된 지 140일 만이다."
+      "《“행복이 멀리 있지 않다.",
+      "행복이란 놈이 거기 있을 거다.”자신을 기억할 이들에게 ‘국민 아버지’로서 남긴 메시지였을까.",
+      "30일 배우 최불암(본명 최영한) 씨의 빈소가 마련된 서울아산병원을 찾은 유인촌 전 문화체육관광부 장관은 ‘고인으로부터 생전 들었던 대사’라며 이런 말을 전했다."
     ],
     "chips": [
       "#의료"
     ]
   },
   {
-    "id": "n811612e0",
-    "category": "경제",
-    "source": "뉴시스",
-    "time": "8분 전",
-    "url": "https://www.newsis.com/view/NISX20261030_0003848969",
-    "title": "유로존 3분기 0.4% 성장…독일 0.2% 이탈리아 0.0% 스페인 0.6%",
-    "summary": [
-      "[서울=뉴시스] 김재영 기자 = 유로존 21개국 경제가 3분기(7월~9월) 동안 직전분기 대비 0.4% 플러스 성장했다고 유럽연합(EU) 통계국 유로스탯이 30일 발표했다.",
-      "유로존은 올 들어 1분기에 0.0% 제로 성장에 그쳤으나 2분기에는 0.6%의 높은 성장을 기록했다.",
-      "인플레 감안 실질 기준으로 3분기 총 국내총생산(GDP) 규모가 직전분기보다 0.4% 커졌다는 뜻이다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n4f57f7fe",
-    "category": "사회",
-    "source": "아시아경제",
-    "time": "13분 전",
-    "url": "https://view.asiae.co.kr/article/2026103019154756197",
-    "title": "'응급실 압수수색' 경찰 사과했지만…소아응급센터장 결국 사표",
-    "summary": [
-      "아주대병원 소아전문응급의료센터 압수수색을 둘러싼 의료계의 반발이 이어지고 있는 가운데 이지숙 아주대병원 소아전문응급의료센터장이 사직서를 제출했다.이 센터장은 30일 서울 용산구 대한의사협회회관에서 열린 대한소아응급의학회·전국소아응급의료센터협의회 공동 기자회견에서 \"어제 병원장께 사표를 제출했다\"며 \"이번 사직이 숙고 끝에 내린 개인적인 결정\"이라고 밝혔다.",
-      "이어 그는 \"센터는 정상적으로 진료하고 있다\"며 \"의료진의 사직을 특정한 목적을 위한 집."
-    ],
-    "chips": [
-      "#의료"
-    ]
-  },
-  {
-    "id": "n1a4936f9",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "13분 전",
-    "url": "https://www.newsis.com/view/NISX20261030_0003849015",
-    "title": "與, '관행적 농지 임대·불법 전용 양성화' 특별법 발의…연내 입법 추진",
-    "summary": [
-      "[서울=뉴시스]김윤영 기자 = 더불어민주당이 30일 관행적인 농지 임대차와 불법 농지 전용 등을 양성화하는 '특정농지 등 정리에 관한 특별조치법안(농지특별조치법)'을 발의했다.",
-      "민주당 소속 윤준병 농해수정책조정위원장이 대표발의한 농지특별조치법에는 현행 농지법에 부합하지 않는 농지의 소유·이용에 관한 특례가 담겼다.",
-      "농지전용허가 등을 받지 않고 전용한 농지에 대해서도 처분 특례를 두고, 일정 요건을 충족한 불법 농업시설은 사후 허가를 통해 양성화."
-    ],
-    "chips": [
-      "#정책"
-    ]
-  },
-  {
-    "id": "n27372e65",
+    "id": "nc28b4250",
     "category": "사회",
     "source": "연합뉴스",
     "time": "16분 전",
-    "url": "https://www.yna.co.kr/view/AKR20261030175400083",
-    "title": "中베이징서 맛보는 K-라이프스타일…한국문화원, '광화동' 개설",
+    "url": "https://www.yna.co.kr/view/AKR20261031001400099",
+    "title": "옛 식민지 차드에 손 내민 프랑스…러와 영향력 경쟁",
     "summary": [
-      "(베이징=연합뉴스) 정성조 특파원 = 중국 베이징 시내에서 한국의 패션·공예·뷰티·음식 등을 직접 체험할 수 있는 문화시설 '광화동'(光化洞)이..."
+      "(요하네스버그=연합뉴스) 나확진 특파원 = 중부 아프리카 차드가 과거 자국을 식민 통치한 프랑스와 단절했던 군사협력 관계를 다시 복원하려는 움직..."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n908f57d3",
+    "id": "nde765be6",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "18분 전",
+    "url": "https://www.chosun.com/sports/baseball/2026/10/31/GA2GCNBTGJRDSYJZGYZGGOJZMM/",
+    "title": "\"어깨로 온 그 어려운 공을…\" '슈퍼스타'도 혀를 내둘렀다.. '43세 해결사' 향한 진심어린 존경심[PO4 현장]",
+    "summary": [
+      "[광주=스포츠조선 정현석 기자]\"어깨 쪽에서 출발한 공을 때려 담장을 넘기다니… 정말 대단하고 존경스럽습니다.\" 결정적인 순간, '클래스'는 영원했다.",
+      "삼성 라이온즈 최형우가 플레이오프 4차전에서 또 한번 결정적인 홈런포로 포스트시즌 최고령 홈런 기록을 새로 컸다.",
+      "KIA 타이거즈의 까마득한 후배들마저 감탄을 금치 못했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nf4cdbda3",
+    "category": "경제",
+    "source": "머니투데이",
+    "time": "19분 전",
+    "url": "https://www.mt.co.kr/entertainment/2026/10/31/2026103023383743930",
+    "title": "김민, 90년 된 집에 소머리 장식? \"옆 동네에서 잡았다\" 경악",
+    "summary": [
+      "배우 김민이 집 안에 걸린 소머리 장식의 정체를 두고 무지개 회원들을 깜짝 놀라게 했다.",
+      "30일 방영된 MBC '나 혼자 산다' 671회에서는 김민이 동두천의 90년 된 집에서 보내는 일상이 공개됐다.",
+      "이날 김민은 이전 방송에서 소개했던 고택에서 아침을 맞이했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nb1630ac5",
     "category": "사회",
     "source": "연합뉴스",
-    "time": "17분 전",
-    "url": "https://www.yna.co.kr/view/AKR20261030173700055",
-    "title": "전북대 총장 예비후보자 논문 '경미한 연구 위반'…\"이의 제기\"",
-    "summary": [
-      "(전주=연합뉴스) 나보배 기자 = 전북대학교 연구윤리진실성위원회(이하 연구윤리위)가 총장선거 예비후보자의 논문 한 편이 경미한 연구 진실성 위반..."
-    ],
-    "chips": [
-      "#정치",
-      "#교육"
-    ]
-  },
-  {
-    "id": "nead8c776",
-    "category": "경제",
-    "source": "아시아경제",
-    "time": "18분 전",
-    "url": "https://view.asiae.co.kr/article/2026103019003648845",
-    "title": "\"하루에 두번 분유 먹여\" 17개월 딸 학대치사 혐의 친부 구속",
-    "summary": [
-      "생후 17개월 된 딸을 집에 홀로 둔 채 출근하고 하루 두 번 분유만 먹이는 등 방임해 숨지게 한 30대 친부가 구속됐다.30일 수원지법 평택지원(김규화 영장전담판사)은 아동학대치사 혐의를 받는 A씨에 대한 구속 전 피의자 심문(영장실질심사)을 진행한 뒤 \"도망할 염려 및 증거를 인멸할 우려가 있다\"며 구속영장을 발부했다.",
-      "A씨는 이달 초 아내가 다툼 끝에 집을 나간 뒤 평택시 자택에 생후 17개월 된 딸 B양을 홀로 둔 채 출근하고, 출근 전."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n1b9bb773",
-    "category": "사회",
-    "source": "조선일보",
     "time": "19분 전",
-    "url": "https://www.chosun.com/entertainments/broadcast/2026/10/30/GJQWKYTFMIZGKNBVMJRTQOBQMM/",
-    "title": "박성광♥ 또 반하겠네…'이혼설 일축' 이솔이, 연예인 뺨치는 '극세사' 각선미",
+    "url": "https://www.yna.co.kr/view/AKR20261031001500072",
+    "title": "\"바이낸스 털어간 北…가상화폐 최대 절도범 지위 굳힐 듯\"",
     "summary": [
-      "[OSEN=박근희 기자] 개그맨 박성광의 아내 이솔이가 연예인급 비주얼을 자랑했다.30일 이솔이는 자신의 SNS를 통해 “아니 반팔 입고 다니는 사람들 모야”라는 유쾌한 글과 함께 사진을 게재했다.공개된 사진 속 이솔이는 가을 분위기가 물씬 풍기는 갈색 코트에 세련된 물방울무늬 가디건을 매치한 감각적인 패션을 선보였다.",
-      "특히 마른 다리가 고스란히 드러나는."
+      "(뉴욕=연합뉴스) 김연숙 특파원 = 세계 최대 가상화폐 거래소 바이낸스에서 발생한 해킹 사건의 배후로 북한이 지목된 가운데, 이번 사건으로 북한..."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n97847614",
+    "id": "n1ab07e73",
     "category": "사회",
-    "source": "조선일보",
-    "time": "19분 전",
-    "url": "https://www.chosun.com/entertainments/broadcast/2026/10/30/GQ4WGZRYMVRGKNZVMFSWCOBVG4/",
-    "title": "박명수, 정형돈 ‘질투’ 고백..“‘무도’ 때 주도 바뀌어, 빵빵 터져” (할명수)",
+    "source": "연합뉴스",
+    "time": "23분 전",
+    "url": "https://www.yna.co.kr/view/AKR20261030156251079",
+    "title": "사우디 \"성지 메카 상공서 후티 드론 격추\"…후티는 부인(종합)",
     "summary": [
-      "[OSEN=박하영 기자] 방송인 박명수가 과거 '무한도전' 촬영 당시 정형돈을 질투했다고 고백했다.",
-      "30일 유튜브 채널 ‘할명수’에는 ‘“역시 난 광대야 킥킥” 평생 웃기기 위해 살아온 사람들 | 박명수의 입방정’이라는 제목의 영상이 게재됐다.이날 ‘박명수의 입방정’ 코너에는 최다니엘, 김지유, 찰스엔터(김찬미)가 게스트로 등장했다."
+      "(카이로=연합뉴스) 김상훈 특파원 = 예멘의 친이란 반군 후티가 이슬람 최고 성지인 사우디아라비아 메카를 겨냥해 무인기(드론) 공격을 시도했다고..."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n5eca780d",
+    "id": "naae48f81",
+    "category": "스포츠",
+    "source": "머니투데이",
+    "time": "40분 전",
+    "url": "https://www.mt.co.kr/sports/2026/10/31/2026103019131839295",
+    "title": "'역대급' 韓 축구 국제망신 \"손흥민 왕따설·협회 경찰 조사·96파벌... 끝없는 나락\" 英 유력지 집중 분석",
+    "summary": [
+      "해외 유력지마저 집중 조명할 정도다.",
+      "라커룸 내 파벌 갈등과 주장 손흥민(34·LAFC) 왕따설, 여기에 경찰 압수수색과 수뇌부 공백 사태까지 겹친 한국 축구의 절망적인 현주소가 만천하에 공개됐다.",
+      "영국 유력 매체 '가디언'은 30일(한국시간) \"선수단 불화, 경찰 압수수색, 그리고 손흥민의 불확실한 미래가 한국 축구를 중대한 갈림길로 내몰았다\"며 \"비참했던 월드컵 참사 이후 한국 축구는 끝없는 나락으로 떨어지고 있다."
+    ],
+    "chips": [
+      "#손흥민"
+    ]
+  },
+  {
+    "id": "n222975bf",
     "category": "사회",
-    "source": "조선일보",
-    "time": "20분 전",
-    "url": "https://www.chosun.com/entertainments/broadcast/2026/10/30/MNTGIYRRG4YTKN3DGM2GKN3BGM/",
-    "title": "'금동이' 임호 \"故최불암, 아프다가 돌아가셔서 더 마음 아파\" 먹먹한 가족사진",
+    "source": "뉴시스",
+    "time": "42분 전",
+    "url": "https://www.newsis.com/view/NISX20261031_0003849122",
+    "title": "독일 10월 실업률 6.4% 유지…\"실업자 301.6만으로 4000명 늘어\"",
     "summary": [
-      "[OSEN=최이정 기자] 배우 임호가 ‘국민 아버지’ 故 최불암의 별세 소식에 안타까움과 비통한 심경을 전했다.임호는 30일 자신의 SNS에 “#전원일기 #수사반장 우리의국민아버지께서영면하셨습니다..",
-      "최불암 선생님, 아버지, 아프시다가 돌아가셔서 더 마음이 아프네요.",
-      "저녁에 뵈러가겠습니다..”라는 글과 함께 여러 장의 사진을 게재했다.공개된 사진 속에는 생."
+      "[서울=뉴시스]이재준 기자 = 독일 10월 실업자 수(계절조정) 실업자 수는전월보다 14000명 늘어난 301만6000명에 달했다.",
+      "AFP와 dpa 통신, 마켓워치, RTT 뉴스에 따르면 독일 연방고용청은 30일(현지시간) 10월 실업률(계절조정)이 6.4%를 기록했다고 발표했다.",
+      "시장에서는 실업자 수가 5000명 증가한다고 예상했지만 실제로는 이를 1000명 밑돌았다."
     ],
     "chips": [
-      "#뉴스"
+      "#고용"
     ]
   },
   {
-    "id": "n37a53747",
+    "id": "na3759d80",
+    "category": "부동산",
+    "source": "연합뉴스",
+    "time": "45분 전",
+    "url": "https://www.yna.co.kr/view/AKR20261031000800004",
+    "title": "서울 길음동 아파트 지하주차장 화재…인명피해 없어",
+    "summary": [
+      "(서울=연합뉴스) 윤민혁 기자 = 서울 성북구 길음동 한 아파트 지하 주차장에서 불이 났다."
+    ],
+    "chips": [
+      "#부동산"
+    ]
+  },
+  {
+    "id": "nfb5f751b",
     "category": "사회",
-    "source": "조선일보",
-    "time": "20분 전",
-    "url": "https://www.chosun.com/jp/culture-life-jp/2026/10/30/OHQ5B36AUBAZFMXGQRE3ZUCOWY/",
-    "title": "「クムドン」イム・ホ、故チェ・ブラムさん追悼「闘病の末、胸痛む」",
+    "source": "뉴시스",
+    "time": "50분 전",
+    "url": "https://www.newsis.com/view/NISX20261030_0003848839",
+    "title": "성두경·이형록·임석제·박영숙 사진, 英 테이트 모던에 걸렸다",
     "summary": [
-      "【OSEN＝チェ・イジョン記者】俳優イム・ホが「国民の父」故チェ・ブラムさんの訃報に、悲しみと痛切な思いを伝えた。イム・ホは30日、自身のSNSに「#田園日記 #捜査班長 私たちの国民の父が永眠されました…。チェ・ブラム先生、父さん、闘病の末に亡くなられたので、なおさら胸が痛みます。夕方に会いに行きます…」という文章と共に複数の写真を掲載した。公開された写真には、生."
+      "[서울=뉴시스] 박현주 미술전문 기자 = 1955년 서울 한강변.",
+      "강가에 작은 배들이 놓여 있고, 그 사이로 한 사람이 걸어간다.",
+      "사진가 이형록이 포착한 ‘강변, 서울 한강’이다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n2f3e9f95",
-    "category": "경제",
-    "source": "연합뉴스(경제)",
-    "time": "35분 전",
-    "url": "https://www.yna.co.kr/view/AKR20261030091152003",
-    "title": "국토장관 \"연내 서울민간정비 3.1만호 착공…용적률 1.2배 협의\"(종합2보)",
+    "id": "n1f46b23e",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "50분 전",
+    "url": "https://www.newsis.com/view/NISX20261030_0003848543",
+    "title": "\"살빠지고 눈이 노랗게 변했어요\"…혹시 췌장암?[몸의경고]",
     "summary": [
-      "(세종·서울=연합뉴스) 오진송 김동규 기자 = 홍지선 국토교통부 장관은 \"상계2구역을 포함한 민간 정비사업을 통해 서울에 연말까지 3만1천가구를..."
+      "[서울=뉴시스] 류난영 기자 = 원인 모를 체중 감소·황달·복통 등이 있다면 췌장암을 의심해 볼 수 있다.",
+      "하지만 췌장에 발생하는 악성 종양인 췌장암은 초기 증상이 뚜렷하지 않아 조기 발견이 어렵고, 진단 당시 진행 정도에 따라 치료 선택지가 제한될 수 있어 각별한 주의가 필요하다.",
+      "31일 보건복지부와 중앙암등록본부의 국가암등록통계에 따르면 2023년 국내 췌장암 신규 발생자는 9748명으로 전체 암 발생의 3.4%를 차지했다."
     ],
     "chips": [
-      "#뉴스"
+      "#의료"
     ]
   }
 ];
@@ -640,18 +642,18 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2720건",
-    "trend": "+315%"
+    "mentions": "2590건",
+    "trend": "+295%"
   },
   {
     "rank": 2,
-    "tag": "반도체",
+    "tag": "AI",
     "mentions": "1550건",
     "trend": "+135%"
   },
   {
     "rank": 3,
-    "tag": "AI",
+    "tag": "반도체",
     "mentions": "1420건",
     "trend": "+115%"
   }
