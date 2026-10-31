@@ -1,6 +1,52 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-10-31 14:00:29
+// 마지막 업데이트: 2026-10-31 18:19:03
 window.NEWS_DB = [
+  {
+    "id": "n6fcfdafd",
+    "category": "IT",
+    "source": "스타트업투데이",
+    "time": "1일 전",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5uSXhJREcxZ0QyU09vdXV6amMyNnI0NTM5MWRzZEVUNVFqRVFhRmZHY1FCTWpZaXRscC15U29KWjFMZUQ5YWFNWlJJXzQ1RXpBamxGUHdyNnl2V0VEa3ZCdGlZUmV5YzFyOVkzZml3?oc=5",
+    "title": "뤼튼 찾은 중소벤처기업부, AI 유니콘 키우려면 공공 실증부터 열어야",
+    "summary": [
+      "뤼튼 찾은 중소벤처기업부, AI 유니콘 키우려면 공공 실증부터 열어야 스타트업투데이."
+    ],
+    "chips": [
+      "#AI",
+      "#스타트업"
+    ]
+  },
+  {
+    "id": "n93a60d04",
+    "category": "사회",
+    "source": "비즈월드",
+    "time": "1일 전",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1FZXFzTWpvazdVVWM1WXBDaERYbUZvQk5XUVFCaHAwbDNGMzc5MlhUYUFuRnBBazBPWTNOLTFqMERmNzlnMzlDT2dzbmNfbnBCWjNVWmF5RWlucnljemxaS3h3d2gtNzRDOGM4?oc=5",
+    "title": "시흥시 일자리박람회, 구직 열기 채용으로…360명 취업 성과",
+    "summary": [
+      "시흥시 일자리박람회, 구직 열기 채용으로…360명 취업 성과 비즈월드."
+    ],
+    "chips": [
+      "#채용",
+      "#취업",
+      "#고용"
+    ]
+  },
+  {
+    "id": "n44462256",
+    "category": "사회",
+    "source": "경인매일",
+    "time": "1일 전",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE96ZDNGdEVSRmROdktmaW9KSDZKSWRxdzNhN2tNOHpfRzB5SHhzX2p2dnF1aG5kQlNUMWdHSmhfWW9jblQ5TjRpbGN2QlBlcE9ILWtSbERqeF9KSl9ZRjdhdzViajlWLVBk?oc=5",
+    "title": "인천 영종구, 청년부터 중장년까지 400여 명 참여한 일자리 박람회서 취업 기회 제공",
+    "summary": [
+      "인천 영종구, 청년부터 중장년까지 400여 명 참여한 일자리 박람회서 취업 기회 제공 경인매일."
+    ],
+    "chips": [
+      "#취업",
+      "#고용"
+    ]
+  },
   {
     "id": "n15ef80d0",
     "category": "IT",
@@ -34,17 +80,19 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n64b12d7e",
+    "id": "n5696619e",
     "category": "IT",
-    "source": "뉴스핌",
+    "source": "더팩트",
     "time": "2일 전",
-    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE42LUpXU3llSmZxNUNVV3ZwY0xzT2t1OF9qUVNZejllZ0hldVJrRko1RFFxbjB2MnFtcWNubUpKVm1lQ21BOGZrcG9PUml5VEVCNnJaRnFtX0pWWWR4?oc=5",
-    "title": "[컨콜] 삼성 파운드리 \"내년 8나노 이하 가동률 100% 넘는다\"…2나노 수주 2배",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9tQ2p6STRGNEcyY1VXS0lzSG9ydFpUVXpJWFZCNFFzRUVtNzRRNEFha2pGaFgteHhZWGdlWm9MQ0RFZjN2Qi00WmNIaGhyTlduTmw2eFdGWjhPQdIBVEFVX3lxTE1TdWVJRmk4NWhOYmhqem5rSENGa20yZ0hEbDhhajVYQ0FPU2MyTWUxaGZMM0pOM3E4UVIxYWo4SzA2MmpPcV8xYVc3VjFhWWNNNFJYdg?oc=5",
+    "title": "토스증권, AI 시대 메모리 반도체 산업 분석…삼성·SK하이닉스 HBM 전략 비교",
     "summary": [
-      "[컨콜] 삼성 파운드리 \"내년 8나노 이하 가동률 100% 넘는다\"…2나노 수주 2배 뉴스핌."
+      "토스증권, AI 시대 메모리 반도체 산업 분석…삼성·SK하이닉스 HBM 전략 비교 더팩트."
     ],
     "chips": [
-      "#반도체"
+      "#AI",
+      "#반도체",
+      "#SK하이닉스"
     ]
   },
   {
@@ -78,6 +126,20 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n96c45db4",
+    "category": "경제",
+    "source": "산경투데이",
+    "time": "4일 전",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBYVEYwS1dScnlKZ0Jwb0pVVk1zcUdsWWlTdWZJT2pXTUtBWS02UDgza1Z6VnVhcXZJSnhYaW9UNmhTejNYdE5SemZ6UDQtellGclZBUFNiMzFrSHUzOWJOYWZPT0cyV3U3MWcyNXI5SUTSAXRBVV95cUxON1VTNEpBZDJoTGJpU3hhOW0tZ0YzYlRibndDQXZKN0RUOEtBQk15WnFjMGxnSXVqVE1JeU9ENk1jNTlENjRqSWg2NFBybUZOeEpDQ0tCb0ZuNzg4NFdOeGhDNzQ2cTF6MUwtTHdIdElCeTBHSQ?oc=5",
+    "title": "원·달러 환율 1,323.7원 마감…FOMC 경계감에 하락 제동",
+    "summary": [
+      "원·달러 환율 1,323.7원 마감…FOMC 경계감에 하락 제동 산경투데이."
+    ],
+    "chips": [
+      "#환율"
+    ]
+  },
+  {
     "id": "nf89ff071",
     "category": "IT",
     "source": "경인방송 뉴스",
@@ -95,6 +157,22 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n66666cf0",
+    "category": "사회",
+    "source": "필드뉴스",
+    "time": "5일 전",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE56OEswemRjekF6TUZtZFJ5dmVzLVZtV0kta3UzdnlMbmhvRlRLVnNQNGhXcmU2c1JXYTV2dEZQQnFPcWRaNGhjeWhJMTk5ZjlBSHRYSWg2NmtRYmFtVjlvblZpdk1rX29M0gFsQVVfeXFMUGNyS1B6ek5WNFpSSEhUZWtSTlE2QWxSUWdMUGxWZVZlNHZGZWE2ZW5manVPSkQxeHA4OHFwWEhYcTZ5VmlfcG5VREVBVU9obzhna0F1eEJOeTBKR05XdkQ2R0FLWi1WdG9Bb3U4?oc=5",
+    "title": "박관열 광주시장, 기업과 구직자 잇는 맞춤형 고용서비스 확대…현장 채용부터 진로지원까지",
+    "summary": [
+      "박관열 광주시장, 기업과 구직자 잇는 맞춤형 고용서비스 확대…현장 채용부터 진로지원까지 필드뉴스."
+    ],
+    "chips": [
+      "#채용",
+      "#취업",
+      "#고용"
+    ]
+  },
+  {
     "id": "n456fa784",
     "category": "부동산",
     "source": "용인신문",
@@ -107,6 +185,20 @@ window.NEWS_DB = [
     "chips": [
       "#부동산",
       "#전세"
+    ]
+  },
+  {
+    "id": "n5f64d1b6",
+    "category": "경제",
+    "source": "용인신문",
+    "time": "10일 전",
+    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5LUDV2aFQxQUg5X2tra1VWaV8wM2JBcUxHb0xCNEJCYldlYkpuQ1d1S3g2eWl1bjN6eGdreE5mMUF6dTVGN09Lbk1OeGNKQTRfZTlTS0FtaFgtN0F4cVROYUpQR2Q?oc=5",
+    "title": "“주가는 출렁이고, 금리는 불안하다”…한국 경제 어디로 가나",
+    "summary": [
+      "“주가는 출렁이고, 금리는 불안하다”…한국 경제 어디로 가나 용인신문."
+    ],
+    "chips": [
+      "#금리"
     ]
   },
   {
@@ -154,22 +246,6 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nb16c3b86",
-    "category": "사회",
-    "source": "한국경제",
-    "time": "32일 전",
-    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9WRTVrbjVJTjdrdkI0WVZYc2RzdHdzRXZWT2daLVRRWkxKaDd6RmpOb2xlQlBiX2lLY2VaRjF2c25SbmlMN0s1RkNDYW9pSmlndlpkLW9BUldwQQ?oc=5",
-    "title": "\"경력직만 뽑고 AI가 일자리 대체\"…청년 구직자 '취업 한파' 체감",
-    "summary": [
-      "\"경력직만 뽑고 AI가 일자리 대체\"…청년 구직자 '취업 한파' 체감 한국경제."
-    ],
-    "chips": [
-      "#AI",
-      "#취업",
-      "#고용"
-    ]
-  },
-  {
     "id": "na6d22b09",
     "category": "스포츠",
     "source": "경기일보",
@@ -184,61 +260,45 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n34c966ee",
-    "category": "경제",
-    "source": "경북매일",
-    "time": "43일 전",
-    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBiZUtzYWdsdUFXQ19FeTJCNFNtaWQwc3ZIa2c5Z0RpYm03ekpKNTZyZi12Q1dybUlfbEE2YW5nM3JiMnZqREFJRDJZN3FPLWc5VVB1V3J2Y3NFdw?oc=5",
-    "title": "미국 금리 오르면 한국은 어디부터 흔들리나…대출·환율·증시 동시 압박",
+    "id": "n3bf091c2",
+    "category": "스포츠",
+    "source": "한국경제",
+    "time": "40일 전",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9nY3BENG1heVF4amFVRDZ5M0Q3V09uYWZTRmZEZlcxZTJzc08zU2RBM3BRSEh6aTZPVDR2blc0YjZrNUhnMHNDUVN0M0pKMTBDVWxlUWhtZ1Zudw?oc=5",
+    "title": "\"손흥민 533만원·페이커 1100만원\"…해외선 없어서 못 산다",
     "summary": [
-      "미국 금리 오르면 한국은 어디부터 흔들리나…대출·환율·증시 동시 압박 경북매일."
+      "\"손흥민 533만원·페이커 1100만원\"…해외선 없어서 못 산다 한국경제."
     ],
     "chips": [
-      "#금리",
-      "#환율"
+      "#손흥민"
     ]
   },
   {
-    "id": "n6c4859cd",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "52일 전",
-    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBjajZ4SGVkMFFpSy04Q0ZfWDhINjVaN1ljdERjQ0JPNF9ESHctcGJ0NzJZZFBQMU1YUmZNTE00MVREMGN4bDlDWVFENmFRa3V2R0NPa0ZKY0FUQnfSAWBBVV95cUxNVXNSZmw5Q1NpbkVuOTVUdUtIc0VYVVZiWTl6TWdTeXltajJta3RHZkRJOC1vY1h3bjdSMGUzTzJqZDdwekI1anhTX3R3aU1WdmtOamVIelZqQ0F3c2ZDZUI?oc=5",
-    "title": "정부 \"청년 '쉬었음' 감소세…훈련-구직-취업사다리 복원 신호\"(종합)",
+    "id": "nbca6067d",
+    "category": "IT",
+    "source": "유니콘팩토리",
+    "time": "57일 전",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9fZWpFeTlzMEFNN1Q4cHB4RWtuVHZEZDNiekpVUTg5VGJVSFMwVHFLMFlfSFhZMEpYTWJoZGhuOG9yWXdnSWxJR1JXNGZINklRY2dOT2Z2NjJpRHZuRjJJQ19UYmd6bmpsMVowOQ?oc=5",
+    "title": "시리즈벤처스, 창업도약패키지 '팁스 브릿지' 킥오프…스케일업 지원",
     "summary": [
-      "정부 \"청년 '쉬었음' 감소세…훈련-구직-취업사다리 복원 신호\"(종합) 연합뉴스."
+      "시리즈벤처스, 창업도약패키지 '팁스 브릿지' 킥오프…스케일업 지원 유니콘팩토리."
     ],
     "chips": [
-      "#취업"
+      "#스타트업"
     ]
   },
   {
-    "id": "n9e2a4d38",
+    "id": "n657e0140",
     "category": "경제",
-    "source": "KB Think",
+    "source": "연합뉴스TV",
     "time": "65일 전",
-    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5fQy1DZnp0bUZyT1VRSW44ZTB2WF91c19YOTFicTFpYXpQdFJiZ0NjOUNaM1JhT1JBYzRTYkNVWXdTaUtKUWlLUFd1SjJvQXBaanNQZGFKbGxvaUV5UklaSDEtX2ZGenNsSnlHQl9Ma015UQ?oc=5",
-    "title": "달러-원, 금통위 종료 후 1,380원대 초반…한은 총재 \"환율 어느 정도 안정\"(상보)",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1rdGZhcGJlUmFqWjByaGFpZG1TZHEtUnpFbjM5NF9QdzlWOXliTW0tX0ZYa0pEQXdHbUt3S3pPYVNzUGJJZEtqZHotSHZDVTVFTTlNaW1UZUstNjFGTEt2Rk1hWmZ5MjA?oc=5",
+    "title": "7,000선 넘보던 코스피…금리 인상에 상승폭 축소",
     "summary": [
-      "달러-원, 금통위 종료 후 1,380원대 초반…한은 총재 \"환율 어느 정도 안정\"(상보) KB Think."
+      "7,000선 넘보던 코스피…금리 인상에 상승폭 축소 연합뉴스TV."
     ],
     "chips": [
-      "#환율"
-    ]
-  },
-  {
-    "id": "nabfa15b0",
-    "category": "경제",
-    "source": "YTN",
-    "time": "143일 전",
-    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE50bVBaMGNlWG1LRkQ2OEh1YUF0cjlWc1EwdS1URDE1ZzJpajQzYmtTdUpGZk9yOWc0V1REZF9fNmVWOU4yVFVhbzhtQzNzMUg3b0ZfVkhVd1dxVGl0OXc?oc=5",
-    "title": "\"韓 적정 환율은 얼마일까?\" 환율 vs 금리 vs 증시 상관관계 집중해부",
-    "summary": [
-      "\"韓 적정 환율은 얼마일까?\" 환율 vs 금리 vs 증시 상관관계 집중해부 YTN."
-    ],
-    "chips": [
-      "#금리",
-      "#환율"
+      "#금리"
     ]
   },
   {
@@ -257,283 +317,187 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n80dc1407",
+    "id": "nd96584d2",
+    "category": "경제",
+    "source": "뉴시스",
+    "time": "19분 전",
+    "url": "https://www.newsis.com/view/NISX20261031_0003849316",
+    "title": "\"주식은 기업에 투자하는 것…손절매·익절만 생각하는 건 도박\"",
+    "summary": [
+      "[서울=뉴시스]이지우 인턴 기자 = 주식시장의 변동성이 커지면서 투자자들의 불안감이 높아지는 가운데, 단기적인 주가 등락에 흔들리기보다 기업의 가치를 살펴보고 장기적인 관점에서 투자해야 한다는 조언이 나왔다.",
+      "31일 존리 존리의부자학교 대표는 자신의 유튜브 채널에 '주식이 싫어졌다면? 이 영상 꼭 보고 판단하세요'라는 제목의 영상을 올렸다.",
+      "존리 대표는 \"아직도 주식 투자를 가격을 맞추는 것으로 생각한다\"며 \"기업에 투자했다는 사실을 자꾸 잊어."
+    ],
+    "chips": [
+      "#교육"
+    ]
+  },
+  {
+    "id": "n1878c1e2",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "19분 전",
+    "url": "https://www.chosun.com/politics/2026/11/01/Y2WIXPZ3IZBKNPSQYOGKUQFB7Y/",
+    "title": "李 정부 자주 외교가 소환한 6·25 에치슨 라인의 악몽",
+    "summary": [
+      "李 정부 자주 외교가 소환한 6·25 에치슨 라인의 악몽."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nfe2b03f6",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "19분 전",
+    "url": "https://www.chosun.com/national/people/2026/11/01/Z3SO5GUP75EOZN37G4IXQWX5XQ/",
+    "title": "사업 실패로 무너졌지만…‘천재 비자’ 쥐고 뉴욕서 재도전",
+    "summary": [
+      "사업 실패로 무너졌지만…‘천재 비자’ 쥐고 뉴욕서 재도전."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n4b4b6b11",
+    "category": "IT",
+    "source": "조선일보",
+    "time": "19분 전",
+    "url": "https://www.chosun.com/economy/weeklybiz/2026/11/01/G7PY37UJQZDSDKECFHEP4VQVYI/",
+    "title": "AI가 다 해준다는데, 양자컴퓨터는 왜 필요할까",
+    "summary": [
+      "AI가 다 해준다는데, 양자컴퓨터는 왜 필요할까."
+    ],
+    "chips": [
+      "#AI"
+    ]
+  },
+  {
+    "id": "n62f61870",
     "category": "스포츠",
-    "source": "중앙일보",
-    "time": "234일 전",
-    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1kSmhBTDdKY1NsbWktSU80SFYtRWN3VGpnQjRNeEpaNF9LZVo0ZS1wb19tbkZxQUJMOU1NYjVTdVpPLW9aMW9hN0ZRQXVWY3hjQl81MG1R?oc=5",
-    "title": "축구는 손흥민, 야구는 이정후…대표팀 주장의 품격",
-    "summary": [
-      "축구는 손흥민, 야구는 이정후…대표팀 주장의 품격 중앙일보."
-    ],
-    "chips": [
-      "#손흥민",
-      "#KBO"
-    ]
-  },
-  {
-    "id": "nbc27bc5a",
-    "category": "IT",
-    "source": "연합뉴스",
-    "time": "248일 전",
-    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5UNnlsSTY5eHFYNEZ6ZktBM216dFF6Q0J5Z1NVYm56M3A2TUFNMDM0U081NTNsZVNJTy1MWklmVGc0cEdLVk5NRHFiTWtHbmx2b2ItSkVEV1A2ZFnSAWBBVV95cUxOV3Z3V2F3aWJvV3dDNDc4OXpfRmpyaDgtaExGWC1ZTUxvX2M4ZVZPNC1rZHpQeUtSNXlIZjc0dHdGWTdfUXpJQXdac1lZU3Mza3NvdHVweFFNYXhmdDMyZWs?oc=5",
-    "title": "스타트업·벤처를 유니콘으로…전북도, '창업 천국' 구상 발표",
-    "summary": [
-      "스타트업·벤처를 유니콘으로…전북도, '창업 천국' 구상 발표 연합뉴스."
-    ],
-    "chips": [
-      "#스타트업"
-    ]
-  },
-  {
-    "id": "nbcfe41a7",
-    "category": "IT",
-    "source": "연합뉴스TV",
-    "time": "250일 전",
-    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8wREZzcDhjdlBHWDRyS0l1YlIxdEszOHZaSjRrNFU1VlBPajQwc1AySHFmWFh4M2NfSVJNWnBaZXhXRHhGOExxZm12ZmZMdFl5WEhLX2owTzVNaWRYd3d0UzRSdndSY2c?oc=5",
-    "title": "\"K-방산 유니콘 키운다\"…스타트업 100개·벤처천억기업 30개 육성",
-    "summary": [
-      "\"K-방산 유니콘 키운다\"…스타트업 100개·벤처천억기업 30개 육성 연합뉴스TV."
-    ],
-    "chips": [
-      "#스타트업"
-    ]
-  },
-  {
-    "id": "nb04cef68",
-    "category": "사회",
-    "source": "경기일보",
-    "time": "260일 전",
-    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBOUDhhZnRmZXk0TTlkckltUkRLdVZSbXNBVWZ6QlVOTDRKY1lwc1NzVUZLX1k3aUp6SExpZnU1VmdYSWVUNUFlTWhRV3NQRnZxOHEtSGNSa0VoYVk?oc=5",
-    "title": "남양주시, ‘구인·구직 매칭데이’로 중소기업 인력난 정면 돌파…합동 운영 시너지 기대",
-    "summary": [
-      "남양주시, ‘구인·구직 매칭데이’로 중소기업 인력난 정면 돌파…합동 운영 시너지 기대 경기일보."
-    ],
-    "chips": [
-      "#채용",
-      "#취업"
-    ]
-  },
-  {
-    "id": "n7b70533d",
-    "category": "사회",
-    "source": "아시아경제",
-    "time": "1분 전",
-    "url": "https://view.asiae.co.kr/article/2026103122582128237",
-    "title": "민선 지방체육회, ‘보조금 족쇄’ 풀까…경기도의회서 자립 해법 모색",
-    "summary": [
-      "민선 체제로 바뀐 지방체육회가 실질적인 자율성을 확보하려면 지방자치단체 보조금에 의존하는 재정 구조부터 개선해야 한다는 지적이 나왔다.",
-      "대회 성적 중심의 사업을 생활체육과 건강·복지 분야로 넓히고, 공공체육시설 명칭사용권과 기업 후원 등을 통해 자체 재원을 확보해야 한다는 것이다.",
-      "지난 30일 경기도의회 대회의실에서 열린 '민선 지방체육회의 자율성·책임성 제고와 안정적 체육재정 확보를 위한 정책세미나'에서다."
-    ],
-    "chips": [
-      "#정책",
-      "#의료"
-    ]
-  },
-  {
-    "id": "n11c19bf3",
-    "category": "IT",
-    "source": "뉴시스",
-    "time": "12분 전",
-    "url": "https://www.newsis.com/view/NISX20261031_0003849447",
-    "title": "캐나다·EU '미래동맹' 출범…캐나다, 유럽 슈퍼컴퓨터망 합류",
-    "summary": [
-      "[서울=뉴시스]박영환 기자 = 캐나다와 유럽연합(EU)이 ‘미래를 위한 동맹’을 출범시키고 인공지능(AI)과 무역·안보 협력을 확대하기로 했다.",
-      "30일(현지시간) 영국 가디언에 따르면 마크 카니 캐나다 총리와 우르줄라 폰데어라이엔 EU 집행위원장은 이틀간의 몬트리올 정상회의를 마친 뒤 새 동맹 출범을 발표했다.",
-      "양측은 뜻을 같이하는 다른 국가에도 참여를 제안했다."
-    ],
-    "chips": [
-      "#AI",
-      "#수출"
-    ]
-  },
-  {
-    "id": "na3f902aa",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "14분 전",
-    "url": "https://www.yna.co.kr/view/AKR20261031049100108",
-    "title": "올레시키 대피 주민 우크라 도착…젤렌스키 \"멜라니아에 감사\"",
-    "summary": [
-      "(이스탄불=연합뉴스) 김동호 특파원 = 러시아 점령지인 우크라이나 남부 올레시키에서 닷새째 휴전이 이어지는 가운데 31일(현지시간) 대피한 주민..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "na147605f",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "15분 전",
-    "url": "https://www.yna.co.kr/view/AKR20261031044651004",
-    "title": "'핼러윈' 토요일밤 홍대 13만·이태원 3만명…질서 속 자유(종합)",
-    "summary": [
-      "(서울=연합뉴스) 정지수 양수연 기자 = 4년 전 10·29 이태원 참사 이후 처음으로 주말과 핼러윈이 겹친 31일, 밤이 될수록 이태원과 홍대..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "ndff3fafb",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "18분 전",
-    "url": "https://www.yna.co.kr/view/AKR20261031048700108",
-    "title": "美 공격 재개설 속 이란 최고지도자, 군사 대비태세 주문",
-    "summary": [
-      "(이스탄불=연합뉴스) 김동호 특파원 = 이란 최고지도자인 아야톨라 세예드 모즈타바 하메네이가 31일(현지시간) 미국에 대한 군사적 대비 태세를 ..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n8bab338b",
-    "category": "사회",
     "source": "조선일보",
     "time": "19분 전",
-    "url": "https://www.chosun.com/entertainments/broadcast/2026/10/31/G5RWGOLDG5RWEZBWGBSDEYZSME/",
-    "title": "홍혜걸♥여에스더, 두바이 호텔 날렸다 \"아프리카 여행 경유지로 예약했는데 환불 못 받아\"('에스더TV')",
+    "url": "https://www.chosun.com/sports/sports_general/2026/11/01/E7MGWDIXF5HORMWWXCDXLZF5NM/",
+    "title": "이승만·김구가 우승컵 기증…1회 춘마 그 시절 그 풍경",
     "summary": [
-      "[OSEN=오세진 기자] '여에스더의 에스더TV' 홍혜걸과 여에스더 부부가 환갑 기념으로 아프리카, 터키 여행을 떠나게 됐다.지난 30일 의사 여에스더의 유튜브 채널에서는 \"여에스더, 홍혜걸 드디어 아프리카 갑니다!(여행 준비, 짐 싸기, 구독자 댓글 이벤트)\"라는 제목의 영상이 공개됐다.이날 홍혜걸은 여에스더가 내내 바빠서 가지 못했던 여행을 드디어 가게."
+      "이승만·김구가 우승컵 기증…1회 춘마 그 시절 그 풍경."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "ncaebb06e",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "19분 전",
-    "url": "https://www.chosun.com/jp/culture-life-jp/2026/10/31/5ZG4H6MW65HFLMOXJMUJBNIDBA/",
-    "title": "ホン・ヘゴル＆ヨ・エスター夫妻、ドバイのホテル代戻らず「経由地で予約」",
-    "summary": [
-      "【OSEN＝オ・セジン記者】「ヨ・エスターのエスターTV」のホン・ヘゴル、ヨ・エスター夫妻が還暦記念としてアフリカ、トルコ旅行に出掛けることになった。30日、医師ヨ・エスターのユーチューブチャンネルで「ヨ・エスター、ホン・ヘゴル、ついにアフリカへ行きます！（旅行準備、荷造り、登録者コメントイベント）」と題した動画が公開された。この日、ホン・ヘゴルは、ヨ・エスターがずっと忙しくて行けなかった旅行にようやく行くことに."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n97378c08",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "21분 전",
-    "url": "https://www.chosun.com/politics/assembly/2026/10/31/S2TRIIHRSBCNREWRXWB5VC6WZA/",
-    "title": "정청래 “김민석, 취임 100일이면 판가름… 그때 난 어떤 깃발 들지 생각 중”",
-    "summary": [
-      "정청래 “김민석, 취임 100일이면 판가름… 그때 난 어떤 깃발 들지 생각 중”."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n026d4366",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "21분 전",
-    "url": "https://www.chosun.com/jp/politics-national-jp/2026/10/31/LWFSOKP7VZD6NHLPTZSIXR5RDY/",
-    "title": "共に民主党・鄭清来前代表「金民錫体制、就任100日で見極め…掲げる旗を考え中」",
-    "summary": [
-      "共に民主党・鄭清来前代表「金民錫体制、就任100日で見極め…掲げる旗を考え中」."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nec48f601",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "26분 전",
-    "url": "https://www.donga.com/news/Politics/article/all/20261031/134942931/1",
-    "title": "조현, 독일·폴란드 외교장관과 회담…“방산 협력 강화 기대”",
-    "summary": [
-      "조현 외교부 장관은 독일·폴란드 외교장과 만나 방산 등 분야에서 협력을 강화해 나가자고 밝혔다.외교부에 따르면 조 장관은 30일(현지시간) 미국 애틀랜타에서 열린 주요 20개국(G20) 외교장관회의 참석을 계기로 요한 바데풀 독일 외교장관과 회담했다.조 장관은 프리드리히 메르츠 독일 총리 방한을 계기로 양국이 ‘강화된 전략적 동반자 관계’를 최초 수립한 것을 평가했다.또 “국방·방산, 경제, 첨단산업 등 제반 분야에서의 협력을 더욱 강화해 나가."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n49e4bb92",
+    "id": "nfbbf3f04",
     "category": "사회",
     "source": "뉴시스",
-    "time": "29분 전",
-    "url": "https://www.newsis.com/view/NISX20261031_0003849432",
-    "title": "[美 중간선거 D-3]트럼프, 불복 가능성 시사…부정선거 공세 확산",
+    "time": "27분 전",
+    "url": "https://www.newsis.com/view/NISX20261101_0003849465",
+    "title": "美국무 \"트럼프, 김정은과 대화 열려 있어…예정 회담은 없어\"",
     "summary": [
-      "[서울=뉴시스] 이재은 기자 = 미국 중간선거가 사흘 앞으로 다가온 가운데 도널드 트럼프 대통령이 선거 결과에 조건부 승복 입장을 밝히면서 선거 이후 불복 가능성에 대한 우려가 커지고 있다.",
-      "트럼프 행정부가 부정선거 의혹을 잇달아 제기하고 법무부의 선거 관련 조사와 감시 활동을 확대하면서 선거 결과를 둘러싼 정치적 갈등이 격화할 수 있다는 관측이 나온다.",
-      "CNN은 30일(현지 시간) 선거일이 임박하면서 트럼프 대통령이 제기해 온 부정선거 주장이."
+      "[서울=뉴시스]고재은 기자 = 마코 루비오 미국 국무장관이 31일(현지 시간) 도널드 트럼프 미국 대통령이 김정은 북한 국무위원장과 대화에 열려 있지만 아직 예정된 일정은 없다고 밝혔다.",
+      "루비오 장관은 이날 조지아주 애틀랜타에서 주요 20개국 외교장관회의를 맞아 기자회견을 열고 \"대통령의 관점은 미국과 한국 등 우리의 동맹국이 우려하는 문제에 대해 북한과 김 위원장이 대화할 준비가 돼 있다면, 그러한 대화에 열려 있다는 것\"이라고 말했다."
     ],
     "chips": [
       "#정치"
     ]
   },
   {
-    "id": "n320be029",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "31분 전",
-    "url": "https://www.newsis.com/view/NISX20261031_0003849439",
-    "title": "오지명, 60년 절친 故 최불암 애도…\"내가 먼저 죽어야 되는데\"",
+    "id": "n94a7aae8",
+    "category": "경제",
+    "source": "연합뉴스",
+    "time": "40분 전",
+    "url": "https://www.yna.co.kr/view/AKR20261101001800091",
+    "title": "바이낸스, 탈취자산 90% 보충 완료…\"1일 입출금 재개\"",
     "summary": [
-      "[서울=뉴시스]강주희 기자 = 배우 오지명이 고(故) 최불암의 빈소를 찾아 오랜 친구를 먼저 떠나보낸 슬픔을 전했다.",
-      "오지명은 31일 서울 송파구 서울아산병원 장례식장에 마련된 고인의 빈소를 찾았다.",
-      "그는 조문을 마친 뒤 기자들과 만나 \"(고인과는) 제일 친한 친구였는데 내가 먼저 죽을 줄 알았는데 이 친구가 먼저 가니 아주 내가 괜히 미안하다."
-    ],
-    "chips": [
-      "#의료"
-    ]
-  },
-  {
-    "id": "ne315c415",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "31분 전",
-    "url": "https://www.newsis.com/view/NISX20261031_0003849445",
-    "title": "G20 참가국 3분의 1, 러 라브로프와 사진 거부…공동성명도 불투명(종합)",
-    "summary": [
-      "[서울=뉴시스]박영환 기자 = 미국 애틀랜타에서 열린 주요 20개국(G20) 외교장관회의에서 참가국 약 3분의 1이 러시아 대표와의 단체사진 촬영을 거부해 공식 촬영이 취소됐고, 우크라이나 전쟁과 회원국 문제를 둘러싼 갈등으로 공동성명 채택도 어려울 것이라는 전망이 나왔다.",
-      "영국 가디언은 31일(현지시간) 마코 루비오 미국 국무장관이 유럽연합(EU) 회원국과 영국, 호주 등이 세르게이 라브로프 러시아 외무장관과 함께 사진을 찍지 않겠다고 밝히자."
+      "(샌프란시스코=연합뉴스) 권영전 특파원 = 사상 최대 규모 해킹 사건으로 63억 달러(약 8조4천억원)의 자산을 탈취당한 가상화폐 거래소 바이낸..."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n098234ae",
-    "category": "경제",
-    "source": "아시아경제",
-    "time": "51분 전",
-    "url": "https://view.asiae.co.kr/article/2026103122091724387",
-    "title": "청년 뮤지션 30팀, 춘천 가을 물들였다…‘강원 뮤직 페스티벌’ 성료",
+    "id": "n8eaa0d29",
+    "category": "IT",
+    "source": "뉴시스",
+    "time": "41분 전",
+    "url": "https://www.newsis.com/view/NISX20261030_0003848557",
+    "title": "\"148㎝·132㎏, AI 아닙니다\"…日 걸그룹 오디션 참가자 화제",
     "summary": [
-      "강원 청년 뮤지션들의 공연 기회를 넓히기 위해 마련된 '2026 강원 뮤직 페스티벌'이 30~31일 춘천 의암공원 일원에서 열렸다.",
-      "공개모집과 온라인 오디션을 거쳐 선발된 청년 뮤지션 30팀이 무대에 올라 다양한 장르의 음악을 선보였다.",
-      "강원특별자치도(도지사 우상호)는 이번 축제가 지난 9월 우상호 도지사와 강원 거주 청년 뮤지션들의 소통간담회에서 나온 현장 의견을 반영해 마련됐다고 31일 밝혔다."
+      "[서울=뉴시스]이지우 인턴 기자 = 일본에서 키 148㎝·몸무게 132㎏인 여성이 걸그룹 오디션에 참가해 화제를 모으고 있다.",
+      "지난 18일 일본 연예매체 엔카운트는 플러스사이즈 걸그룹 멤버를 선발하는 오디션에 참가한 여성 '로마'가 온라인에서 주목받고 있다고 보도했다.",
+      "아이돌 지망생 로마는 최근 소셜미디어(SNS)를 통해 무대에서 공연하는 모습과 전신 사진을 공개했다."
     ],
     "chips": [
-      "#채용"
+      "#AI"
     ]
   },
   {
-    "id": "n8b06e7b9",
+    "id": "n97fc60c1",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "42분 전",
+    "url": "https://www.yna.co.kr/view/AKR20261101002000071",
+    "title": "美국무, 韓의원 비자 문제에 \"수십년전 행동 관련…해결할 것\"",
+    "summary": [
+      "(워싱턴=연합뉴스) 박성민 특파원 = 마코 루비오 미국 국무장관은 31일(현지시간) 일부 한국 국회의원들에 대한 미국 입국 비자가 거절되는 등의..."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n341a7813",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "46분 전",
+    "url": "https://www.newsis.com/view/NISX20261101_0003849468",
+    "title": "[속보] 美국무 \"韓비자 문제, 수십년 전 행동 관련…협의 통해 해결할 것\"",
+    "summary": [
+      "후속기사가 이어집니다 ◎공감언론 뉴시스 jeko@newsis.com."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n16d1aaa1",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "48분 전",
+    "url": "https://www.yna.co.kr/view/AKR20261101001900108",
+    "title": "젤렌스키, 에르도안 만나 \"러, 흑해 상황 악화시켜\" 비난",
+    "summary": [
+      "(이스탄불=연합뉴스) 김동호 특파원 = 볼로디미르 젤렌스키 우크라이나 대통령은 31일(현지시간) 레제프 타이이프 에르도안 튀르키예 대통령을 만나..."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n2fab56d3",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "1시간 전",
+    "url": "https://www.yna.co.kr/view/AKR20261101001700071",
+    "title": "美국무 \"트럼프, 김정은과 대화 준비돼…아직 회담 일정 없어\"",
+    "summary": [
+      "(워싱턴=연합뉴스) 박성민 특파원 = 마코 루비오 미국 국무장관은 31일(현지시간) 도널드 트럼프 미국 대통령이 김정은 북한 국무위원장과 만날 ..."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n250ef871",
     "category": "사회",
     "source": "아시아경제",
-    "time": "51분 전",
-    "url": "https://view.asiae.co.kr/article/2026103122084720208",
-    "title": "'농어촌 기본소득' 간절함 안고 경북 찾은 李 \"더 많은 지역으로\"",
+    "time": "1시간 전",
+    "url": "https://view.asiae.co.kr/article/2026103008071720220",
+    "title": "[르포]美 하원 놓고 제프리스·존슨 신경전…'트럼프 심판'vs'정치보복'[美 중간선거]",
     "summary": [
-      "이재명 대통령이 31일 농어촌 기본소득을 더 많은 지역으로 확대하겠다는 의지를 밝혔다.",
-      "인구 감소와 지역소멸에 대응하기 위한 핵심 정책으로 농어촌 기본소득을 육성하겠다는 구상이다.",
-      "다만 제도를 둘러싼 정치적 논쟁으로 정책의 지속가능성이 불투명하다는 점을 인정하며 안정적인 재원 확보와 현장에서의 실효성 입증이 앞으로 과제라고 했다."
+      "\"이제는 도널드 트럼프나 극단적인 마가(MAGA·미국을 다시 위대하게) 정책이 아니라 지역 주민들을 최우선으로 생각하는 사람이 필요하다.\" 하킴 제프리스 민주당 하원 원내대표는 지난 24일(현지시간) 뉴욕주 픽스킬에서 연방 하원 제17선거구에 출마한 민주당 케이트 콘리 후보 지원 유세에서 아시아경제의 '2024년 대선에서 카멀라 해리스 후보를 지지하면서도 하원 선거에서 공화당을 선택한 유권자들의 표심을 이번에는 어떻게 바꿀 수 있느냐'는 질문에."
     ],
     "chips": [
       "#정책",
@@ -541,89 +505,124 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "ne40c8067",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "56분 전",
-    "url": "https://www.donga.com/news/Society/article/all/20261031/134942915/1",
-    "title": "전 연인에 “불 지르겠다” 협박한 20대 구속영장 기각",
+    "id": "nce862be0",
+    "category": "스포츠",
+    "source": "머니투데이",
+    "time": "2시간 전",
+    "url": "https://www.mt.co.kr/sports/2026/11/01/2026110100200033331",
+    "title": "\"이강인 어디에 써야 하나\" 시메오네도 모레노와 같은 고민... 스페인 현지 \"공 잡으면 위협적, 최적의 자리 찾는 중\"",
     "summary": [
-      "헤어진 연인의 집을 찾아가 자신의 몸에 인화성 물질을 뿌리고 불을 지르겠다며 협박한 혐의를 받는 20대 여성이 구속을 면했다.",
-      "서울남부지법 박찬석 부장판사는 31일 오후 3시 스토킹처벌법 위반, 특수협박, 주거침입, 현주건조물방화예비 혐의를 받는 20대 여성 권씨에 대한 구속 전 피의자 심문(영장실질심사)을 연 후 구속영장을 기각했다.",
-      "박 부장판사는 “범행에 이른 경위와 잠정조치 전후 피해자의 태도, 둘 사이의 교류의 경과, 범행의 구체적인 내."
+      "한국 축구대표팀 '에이스' 이강인(25·아틀레티코 마드리드)의 최적 포지션은 어디일까.",
+      "로베르트 모레노 한국 대표팀 감독에 이어 소속팀 디에고 시메오네 아틀레티코 감독도 같은 고민을 안고 있는 것으로 보인다.",
+      "시메오네 감독이 이끄는 아틀레티코는 31일 오후 10시(한국시간) 스페인 발렌시아의 에스타디오 시우다드 데 발렌시아에서 열린 레반테와 2026~2027시즌 스페인 프리메라리가 11라운드 원정 경기에서 2-0으로 승리했다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n5ed76811",
+    "id": "n933768dd",
+    "category": "스포츠",
+    "source": "머니투데이",
+    "time": "2시간 전",
+    "url": "https://www.mt.co.kr/sports/2026/11/01/2026103115200846710",
+    "title": "초유의 '대변 실금 사태'→기어이 '또' 증명했다, \"우승은 우승\" 女 세계 최강 논란에도 끄떡 없다... '압도적 金' 화려한 복귀전",
+    "summary": [
+      "경기 도중 다리에 배설물이 흘러내리는 상태로 공용 장비를 사용해 전 세계적인 공분을 샀던 하이록스 세계기록 보유자가 복귀전에서 압도적인 기량으로 정상에 올랐다.",
+      "쏟아지는 비난과 스폰서 퇴출 등 거센 후폭풍 끝에 머리를 숙였던 선수가 복귀전 우승으로 실력을 뽐냈다.",
+      "영국 매체 '가디언'은 31일(한국시간) \"경기 중 대변을 논란 이후에도 완주해 공분을 일으켰던 조안나 비에트르지크(24)가 복귀전인 독일 함부르크 개막전에서 완벽한 승리를 거두며 화."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "neff7103f",
+    "category": "스포츠",
+    "source": "머니투데이",
+    "time": "2시간 전",
+    "url": "https://www.mt.co.kr/sports/2026/11/01/2026110100200715247",
+    "title": "여성 심판의 스윗한 배려 \"선수 넘어질까 손부터 뻗었다\"... NBA 스타 브런슨과 '쿵'→팬들 주목",
+    "summary": [
+      "미국프로농구(NBA)에서 여성 심판의 뜻밖의 배려가 화제다.",
+      "미국 농구 전문매체 바스켓볼네트워크는 10월 31일(한국시간) \"뉴욕 닉스의 제일런 브런슨과 여성 심판의 예상치 못한 충돌이 농구 팬들 사이에서 화제가 되고 있다\"고 전했다.",
+      "뉴욕은 이날 미국 펜실베이니아주 필라델피아의 엑스피니티 모바일 아레나에서 필라델피아 세븐티식서스의 2026~2027시즌 NBA 맞대결을 펼쳤다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "ne573c335",
+    "category": "경제",
+    "source": "아시아경제",
+    "time": "2시간 전",
+    "url": "https://view.asiae.co.kr/article/2026110100261958900",
+    "title": "지하철 6호선 이태원역 무정차 통과…'핼러윈' 인파 혼잡 영향",
+    "summary": [
+      "31일 오후 11시 47분부터 지하철 6호선 열차가 이태원역을 무정차 통과했다.",
+      "용산구는 재난문자를 통해 \"현재 용산구 이태원 세계음식문화거리 주변 인파 혼잡으로 23시 47분 이태원역 무정차 통과 예정\"이라고 안내했다.",
+      "용산구는 이태원역으로의 진입 자제를 요청하고 인근 녹사평역 또는 한강진역을 이용할 것을 안내했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n72a3c7bb",
+    "category": "경제",
+    "source": "아시아경제",
+    "time": "3시간 전",
+    "url": "https://view.asiae.co.kr/article/2026103123350638214",
+    "title": "[르포]\"골목길 끝없는 인파\" 발묶인 시민들…이태원역 무정차 통과",
+    "summary": [
+      "\"제발 들여보내 주세요! 저기 눈앞에 클럽이 보이잖아요.",
+      "제 짐이 다 저 안에 있다고요.\"\"상황을 보고 3~5분 간격으로 조금씩 열어 드립니다.",
+      "뒤로 물러서세요!\" 핼러윈 당일인 31일 오후 10시께 서울 용산구 이태원 세계음식문화거리."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n4d1c2c2c",
+    "category": "스포츠",
+    "source": "머니투데이",
+    "time": "3시간 전",
+    "url": "https://www.mt.co.kr/sports/2026/11/01/2026103111580014732",
+    "title": "'충격' 도핑 적발→금메달 무려 2개 박탈된 슈퍼스타, 42세에 사망 \"응급실 도착했지만 이미...\"",
+    "summary": [
+      "아시안게임 3관왕에 오르며 세계 정상급 기량을 뽐냈으나 도핑 적발로 금메달을 박탈당했던 인도의 패럴림픽 간판스타가 42세라는 비교적 젊은 나이에 숨진 채 발견되는 비극이 일어났다.",
+      "한때 아시아 기록을 갈아치우며 국위선양의 영웅으로 칭송받던 선수가 도핑 징계와 메달 박탈의 늪에서 끝내 헤어나오지 못한 채 돌연 세상을 떠나면서 충격을 안겼다.",
+      "영국 매체 '인디펜던트'는 30일(한국시간) \"도핑으로 4년 자격정지 징계를 받고 있던 금메달리스트 패럴림."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n09df2aa7",
     "category": "경제",
     "source": "한국경제",
-    "time": "1시간 전",
-    "url": "https://www.hankyung.com/article/2026103177177",
-    "title": "사형용 약물 두 번 맞고도 살아났다…50대 女 '기막힌 생존'",
+    "time": "3시간 전",
+    "url": "https://www.hankyung.com/article/2026101992377",
+    "title": "[오늘의 운세] 오늘 뭐 먹지?…11월 1일 띠별 추천 점심메뉴",
     "summary": [
-      "사형용 약물 두 번 맞고도 살아났다…50대 女 '기막힌 생존'."
+      "[오늘의 운세] 오늘 뭐 먹지?…11월 1일 띠별 추천 점심메뉴."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n5ac46870",
+    "id": "ncfbeedc7",
     "category": "경제",
     "source": "한국경제",
-    "time": "1시간 전",
-    "url": "https://www.hankyung.com/article/2026103177167",
-    "title": "이란 매체 \"美, 호르무즈서 어선 2척 공격\"…미군은 답변 없어",
+    "time": "3시간 전",
+    "url": "https://www.hankyung.com/article/2026101993357",
+    "title": "[오늘의 운세] 2026년 11월 1일 오행별 행운의 컬러",
     "summary": [
-      "이란 매체 \"美, 호르무즈서 어선 2척 공격\"…미군은 답변 없어."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "ne5a6b342",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "1시간 전",
-    "url": "https://www.donga.com/news/Entertainment/article/all/20261031/134942875/1",
-    "title": "‘놀토’ 엔믹스·아일릿, 서로 향한 팬심 고백…훈훈한 칭찬 릴레이",
-    "summary": [
-      "그룹 엔믹스(NMIXX)와 아일릿(ILLIT) 멤버들이 서로를 향한 칭찬으로 훈훈한 분위기를 자아냈다.31일 오후 방송된 tvN 예능 프로그램 ‘놀라운 토요일’은 ‘2026 천생연분’ 특집으로 꾸며졌다.",
-      "이날 게스트로는 엔믹스 멤버 릴리와 설윤, 아일릿 멤버 윤아와 원희가 출연해 예능감을 뽐냈다.이날 붐은 두 그룹에게 평소 서로를 어떻게 생각했는지 물었다.",
-      "먼저 릴리는 아일릿을 향해 “팬들의 마음을 사로잡는 방법을 너무 잘 알고 있다”라고 칭찬."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nffbe5f1a",
-    "category": "IT",
-    "source": "ZDNet Korea",
-    "time": "1시간 전",
-    "url": "https://zdnet.co.kr/view/?no=20261031211002",
-    "title": "경이로운 7대 미래도시 글로벌 투표 공식 개시",
-    "summary": [
-      "[지디넷코리아] 두바이, 아랍에미리트, 2026년 10월 31일 /PRNewswire/ -- 필리핀 뉴 클라크 시티(New Clark City)가 '스위치온' 행사를 개최하며, 뉴세븐원더스(New7Wonders)가 www.7wondersfc.com에서 우리의 미래를 만들어 갈 도시 개발 사업을 선정하는 전 세계 대중 투표를 시작했다.",
-      "7 Wonders Future Cities voting switch-on 뉴세븐원더스는 이날 세계 도시의 날을."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n91fedb71",
-    "category": "경제",
-    "source": "한국경제",
-    "time": "1시간 전",
-    "url": "https://www.hankyung.com/article/2026103177087",
-    "title": "1248회 로또 1등 '16, 18, 27, 36, 38, 42'…15명 19.3억씩",
-    "summary": [
-      "1248회 로또 1등 '16, 18, 27, 36, 38, 42'…15명 19.3억씩."
+      "[오늘의 운세] 2026년 11월 1일 오행별 행운의 컬러."
     ],
     "chips": [
       "#뉴스"
@@ -636,14 +635,14 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2850건",
-    "trend": "+335%"
+    "mentions": "2590건",
+    "trend": "+295%"
   },
   {
     "rank": 2,
     "tag": "AI",
-    "mentions": "1680건",
-    "trend": "+155%"
+    "mentions": "1940건",
+    "trend": "+195%"
   },
   {
     "rank": 3,
