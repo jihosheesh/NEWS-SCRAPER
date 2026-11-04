@@ -1,20 +1,6 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-11-03 23:46:29
+// 마지막 업데이트: 2026-11-04 03:50:22
 window.NEWS_DB = [
-  {
-    "id": "n8afdaaf6",
-    "category": "IT",
-    "source": "머니투데이",
-    "time": "15시간 전",
-    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE02STdULS1uSm5VZzRGQS1pREVTUVdlYm5iNjFYcUdMUEREMTlDTkhMR2dwTlpKOFlJeFZxeVFlNXJ6Q2J1SDh4Y3dlemhBN21jRnN2Rllaakg1T1dUQ2pWYW5IQUIwbFVmcFZXZU5B0gFuQVVfeXFMTTZJN1QtLW5KblVnNEZBLWlERVNRV2VibmI2MVhxR0xQREQxOUNOSExHZ3BOWko4WUl4VnF5UWU1cnpDYnVIOHhjd2V6aEE3bWNGc3ZGWVpqSDVPV1RDalZhbkhBQjBsVWZwVldlTkE?oc=5",
-    "title": "엔비디아, 협력업체에 \"중국 고객 비중 절반 이하로 줄여라\" 요구 - 머니투데이",
-    "summary": [
-      "엔비디아, 협력업체에 \"중국 고객 비중 절반 이하로 줄여라\" 요구 - 머니투데이 머니투데이."
-    ],
-    "chips": [
-      "#엔비디아"
-    ]
-  },
   {
     "id": "n13f297da",
     "category": "IT",
@@ -32,33 +18,33 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nbde6fd43",
+    "id": "n8515e0c0",
     "category": "IT",
-    "source": "아주경제",
+    "source": "이투데이",
     "time": "2일 전",
-    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9hVkpSS0V0cmhIY0xDRE9qU2VlNWY1Szg0ODA0bnFmNDlDR3Q3UG5aZVgyMUQ5NVJtdmE5ak5mZWFtQTRzdkpGbmp3SkFfUVRiVDFzSXpQSkvSAVhBVV95cUxPYVZKUktFdHJoSGNMQ0RPalNlZTVmNUs4NDgwNG5xZjQ5Q0d0N1BuWmVYMjFEOTVSbXZhOWpOZmVhbUE0c3ZKRm5qd0pBX1FUYlQxc0l6UEpL?oc=5",
-    "title": "경산시, 임당유니콘파크 성공 개소 위해 입주기업 유치 TF 본격 운영",
+    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5ra0o0V0xBVl9EUzVOaXhYdGRiOXprMlZ1ekYwR1pja0F1Wjg5NElYSHpFUklHOG1ycENLa3FoTFJJS1lKWXFoQUxCbEVWU2dPNkFvQw?oc=5",
+    "title": "경산시, 임당유니콘파크 ‘입주기업유치 TF’ 운영",
     "summary": [
-      "경산시, 임당유니콘파크 성공 개소 위해 입주기업 유치 TF 본격 운영 아주경제."
+      "경산시, 임당유니콘파크 ‘입주기업유치 TF’ 운영 이투데이."
     ],
     "chips": [
       "#스타트업"
     ]
   },
   {
-    "id": "n93a60d04",
-    "category": "사회",
-    "source": "비즈월드",
-    "time": "4일 전",
-    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1FZXFzTWpvazdVVWM1WXBDaERYbUZvQk5XUVFCaHAwbDNGMzc5MlhUYUFuRnBBazBPWTNOLTFqMERmNzlnMzlDT2dzbmNfbnBCWjNVWmF5RWlucnljemxaS3h3d2gtNzRDOGM4?oc=5",
-    "title": "시흥시 일자리박람회, 구직 열기 채용으로…360명 취업 성과",
+    "id": "ncce70857",
+    "category": "IT",
+    "source": "머니투데이",
+    "time": "3일 전",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBLN0x0Z2ZJN0Yxc0hNZ1RyREhobkZWYjdxc24xN0wwV2dUWjZqU01VR3liUVhkOHNpdkNxNWZ4NVotN0FTVHdwRVdVbGI0TWUyUlhsOW1FU1NMRlJGUXpYY01TVmd5UDVl0gFuQVVfeXFMT3doYXN1bU8wdDdPVFRJRzFqeWNPRjNRV3l3RWYtTE5JeEV3ZDdDVmNMV1lxenV6NkM5bWZJTU0tZF82V05TUU1FcjltZm5jcWs0UHQyS1VCWFJjWXRLVmRLYU1rSVFsektmTlNUQVE?oc=5",
+    "title": "AI 반도체는 금융자산이 될 수 있을까?…엔비디아·브로드컴의 도전 - 머니투데이",
     "summary": [
-      "시흥시 일자리박람회, 구직 열기 채용으로…360명 취업 성과 비즈월드."
+      "AI 반도체는 금융자산이 될 수 있을까?…엔비디아·브로드컴의 도전 - 머니투데이 머니투데이."
     ],
     "chips": [
-      "#채용",
-      "#취업",
-      "#고용"
+      "#AI",
+      "#반도체",
+      "#엔비디아"
     ]
   },
   {
@@ -80,7 +66,7 @@ window.NEWS_DB = [
     "id": "n15ef80d0",
     "category": "IT",
     "source": "비즈니스포스트",
-    "time": "4일 전",
+    "time": "5일 전",
     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1HYWc0aGdnX3VUQXM3dDkyanNTVEx1RWdrdmV0OUhkbXRsNWpNMTNUTk5ZSnJMbWp0S2xCcnVoYS10aVRZN0pONzRyaHBwSTU0ZG10YWFXSGVFOWs0dW9wei1MUVd1RXlBM2psUnlhTWh1LTg?oc=5",
     "title": "엔비디아 AI 반도체 수명이 빅테크 실적에 변수, \"교체 1년 앞당기면 360억 달러 손실\"",
     "summary": [
@@ -121,33 +107,31 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "naa901cbc",
+    "id": "n748f506e",
     "category": "경제",
-    "source": "머니투데이",
-    "time": "7일 전",
-    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9ISFhqQkE2WTVYYm1jTGhqOU9BRl9uWFJDTjI4NWh0eTZlMmJkb0xUaGJzZldwc0tuTmpoNnI5czdzSWk1TjJPSDFzVTVNcWdUS1BHaXBENHBSeU5aR1Y0cEZqLXRSN3p6cWfSAW9BVV95cUxQQkNiQ1ZvUGYySXU1MVhRc0FhaHRmMmJMM0R0YUNRQUo2SW5yZ3VwOFVYczBWSHM0a3RwUjRCb1lKeGxJWTZQQ1dLWEJFVndTODNWNVJUMENvSWRaWGJTNmw0ZzYxblZIeVhvZm9BaGM?oc=5",
-    "title": "\"창업정책 성적표, '지원 건수' 아닌 '스케일업 전환율'로 평가해야\" - 머니투데이",
+    "source": "산경투데이",
+    "time": "12일 전",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1JNUVuejFwMk0wSzNpRTVKU1JiTGt3cjNvRVE2Y1RTazNhNTdIczlXZ190MTE4R3VPRk52STVXN0VOakdtRzRPaEgxb2RtbWJsZl9OZlJDLXdrcTFmWmNsajVGbzA1NFh4SlhMa3hXZU3SAXRBVV95cUxPUFM5Zy02M3lZeklRMGpaQVh5REZzVHFCRXZCMno4M05IenVlM0taanlyWkkwSjk3NDFpVzVXOFB3UExBQUxud1A3eG12NGNMREZ3VFhycS16cnd5NkhDYUs4UFItb1NDNHlna01QVTBMcXR2bw?oc=5",
+    "title": "코스피 3%대 급락에도 환율 5일째 연저점…1,324원대 하락",
     "summary": [
-      "\"창업정책 성적표, '지원 건수' 아닌 '스케일업 전환율'로 평가해야\" - 머니투데이 머니투데이."
+      "코스피 3%대 급락에도 환율 5일째 연저점…1,324원대 하락 산경투데이."
     ],
     "chips": [
-      "#환율",
-      "#정책"
+      "#환율"
     ]
   },
   {
-    "id": "n456fa784",
-    "category": "부동산",
+    "id": "n5f64d1b6",
+    "category": "경제",
     "source": "용인신문",
-    "time": "13일 전",
-    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5mX055bjZJUjRFbENEQmxTUVVFaWdhQUFDUnlsVkJicHpXc2JSTHM4TlhKQUF2UVFIa1dfOHN2QWViQTRIR3l4WV94NU5taEZ2RVpCQjFnbW0tMlFQc242d09CWlg?oc=5",
-    "title": "전세가 사라진다 … 서울 아파트 절반 ‘월세",
+    "time": "14일 전",
+    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5LUDV2aFQxQUg5X2tra1VWaV8wM2JBcUxHb0xCNEJCYldlYkpuQ1d1S3g2eWl1bjN6eGdreE5mMUF6dTVGN09Lbk1OeGNKQTRfZTlTS0FtaFgtN0F4cVROYUpQR2Q?oc=5",
+    "title": "“주가는 출렁이고, 금리는 불안하다”…한국 경제 어디로 가나",
     "summary": [
-      "전세가 사라진다 … 서울 아파트 절반 ‘월세 용인신문."
+      "“주가는 출렁이고, 금리는 불안하다”…한국 경제 어디로 가나 용인신문."
     ],
     "chips": [
-      "#부동산",
-      "#전세"
+      "#금리"
     ]
   },
   {
@@ -226,6 +210,20 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n334dce2c",
+    "category": "부동산",
+    "source": "대구일보",
+    "time": "21일 전",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBrVmNya2dTekE5bl95a3UySWxhZUM4OEktVnN2a3dtX3o3RnNXaEZpZ2YzVXREaWFzVUN2V3JrMWxmOHZmVm9LQWJnanFGTGo2UGgtMlVuV2NxRzF6ZFphSjNtdnhhODQx?oc=5",
+    "title": "대구 분양 기대 꺾이고 집값은 ‘제자리’…전셋값만 오른다",
+    "summary": [
+      "대구 분양 기대 꺾이고 집값은 ‘제자리’…전셋값만 오른다 대구일보."
+    ],
+    "chips": [
+      "#부동산"
+    ]
+  },
+  {
     "id": "na6d22b09",
     "category": "스포츠",
     "source": "경기일보",
@@ -240,32 +238,17 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n9e2a4d38",
-    "category": "경제",
-    "source": "KB Think",
-    "time": "68일 전",
-    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5fQy1DZnp0bUZyT1VRSW44ZTB2WF91c19YOTFicTFpYXpQdFJiZ0NjOUNaM1JhT1JBYzRTYkNVWXdTaUtKUWlLUFd1SjJvQXBaanNQZGFKbGxvaUV5UklaSDEtX2ZGenNsSnlHQl9Ma015UQ?oc=5",
-    "title": "달러-원, 금통위 종료 후 1,380원대 초반…한은 총재 \"환율 어느 정도 안정\"(상보)",
+    "id": "n6c4859cd",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "55일 전",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBjajZ4SGVkMFFpSy04Q0ZfWDhINjVaN1ljdERjQ0JPNF9ESHctcGJ0NzJZZFBQMU1YUmZNTE00MVREMGN4bDlDWVFENmFRa3V2R0NPa0ZKY0FUQnfSAWBBVV95cUxNVXNSZmw5Q1NpbkVuOTVUdUtIc0VYVVZiWTl6TWdTeXltajJta3RHZkRJOC1vY1h3bjdSMGUzTzJqZDdwekI1anhTX3R3aU1WdmtOamVIelZqQ0F3c2ZDZUI?oc=5",
+    "title": "정부 \"청년 '쉬었음' 감소세…훈련-구직-취업사다리 복원 신호\"(종합)",
     "summary": [
-      "달러-원, 금통위 종료 후 1,380원대 초반…한은 총재 \"환율 어느 정도 안정\"(상보) KB Think."
+      "정부 \"청년 '쉬었음' 감소세…훈련-구직-취업사다리 복원 신호\"(종합) 연합뉴스."
     ],
     "chips": [
-      "#환율"
-    ]
-  },
-  {
-    "id": "ndc7276da",
-    "category": "경제",
-    "source": "한국경제",
-    "time": "86일 전",
-    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1xdDBfZHgzbmV6S3pySWJnV3N0T1hKeHZBbGdGRTNyUFJMWXd6SDFjUE5oTGtsallEaXNUbmtVdW42T1FvX0o2WUNTU2ZIODJQaU5UMmU0VFZXdw?oc=5",
-    "title": "미 고용 쇼크 주식시장엔 호재…환율 하락 영향도 주목",
-    "summary": [
-      "미 고용 쇼크 주식시장엔 호재…환율 하락 영향도 주목 한국경제."
-    ],
-    "chips": [
-      "#환율",
-      "#고용"
+      "#취업"
     ]
   },
   {
@@ -299,346 +282,353 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n80dc1407",
+    "id": "n783ebe44",
     "category": "스포츠",
-    "source": "중앙일보",
-    "time": "237일 전",
-    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1kSmhBTDdKY1NsbWktSU80SFYtRWN3VGpnQjRNeEpaNF9LZVo0ZS1wb19tbkZxQUJMOU1NYjVTdVpPLW9aMW9hN0ZRQXVWY3hjQl81MG1R?oc=5",
-    "title": "축구는 손흥민, 야구는 이정후…대표팀 주장의 품격",
+    "source": "테크M",
+    "time": "216일 전",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4zeE1CWFFHZzZrMjhfLXJoWERMeW9jVzI5eF91RWV1NUxXelFvT1U5YWpyRjZaQ1NqclNTR1hoRWEwYl9qQmc4WTh5Q29TSWROU3ptQ1ZmXy1rajBVczZ1T1A0RXZ0UdIBakFVX3lxTE4tUUs3ak9IVFI3ZEtUQmg5NUpZbWRwdUN5OEFTU2JqaWN4WWJzMVJVc0pLU1U0UzVZTkRKMlRZSUIyNmhPVjVWMzBTVGxocHc2VUdVZl9rRWdUaXVxTjFSdUpzTzFPdEZHdnc?oc=5",
+    "title": "'야구·축구·골프'로 갈라진 국내 OTT...스포츠 팬덤 경쟁 격화",
     "summary": [
-      "축구는 손흥민, 야구는 이정후…대표팀 주장의 품격 중앙일보."
+      "'야구·축구·골프'로 갈라진 국내 OTT...스포츠 팬덤 경쟁 격화 테크M."
     ],
     "chips": [
-      "#손흥민",
       "#KBO"
     ]
   },
   {
-    "id": "ne2cbdbb2",
-    "category": "경제",
-    "source": "테크M",
-    "time": "방금 전",
-    "url": "https://www.techm.kr/news/articleView.html?idxno=156880",
-    "title": "쿠팡 화재 손실 빼도 3Q 적자…김범석 \"고객 돌아온다\" 수익성 회복 자신(종합)",
-    "summary": [
-      "쿠팡이 역대 최대 수준의 분기 매출을 기록하고도 적자에서 벗어나지 못했다.",
-      "개인정보 유출 사고 이후 고객 복귀와 신규 회원 유입이 이어지며 외형 성장세는 회복되고 있지만, 이를 뒷받침하기 위한 마케팅 비용과 물류시설 고정비 부담이 수익성을 짓누르고 있다.",
-      "여기에 인천 물류센터 화재 손실과 대만 사업 투자까지 겹치면서 실적 부담이 커졌다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n4f049419",
-    "category": "사회",
-    "source": "테크M",
-    "time": "방금 전",
-    "url": "https://www.techm.kr/news/articleView.html?idxno=156879",
-    "title": "대만서 '한국식 로켓배송' 통했다…쿠팡 와우 회원 2배 늘자 투자 가속",
-    "summary": [
-      "쿠팡이 대만에서 한국형 로켓배송 모델을 빠르게 확산시키며 해외 사업 확대에 속도를 내고 있다.",
-      "새벽배송 서비스가 대만 인구의 절반 이상을 대상으로 제공되고 와우 멤버십 회원 수는 1년 만에 두 배 이상 증가했다.",
-      "쿠팡은 현지 물류 인프라에 대한 투자를 추가로 확대하며 대만을 한국에 이은 새로운 성장 거점으로 육성한다는 구상이다.4일 쿠팡Inc의 3분기 실적발표 컨퍼런스콜에 따르면 대만 와우 멤버십 회원 수는 전년 동기 대비 100% 이상 증가했."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n0202414f",
-    "category": "사회",
-    "source": "테크M",
-    "time": "방금 전",
-    "url": "https://www.techm.kr/news/articleView.html?idxno=156878",
-    "title": "쿠팡, 화재 손실 빼도 수익성 '뒷걸음'…고객 이탈에 마케팅비 부담까지",
-    "summary": [
-      "쿠팡의 수익성 악화가 물류센터 화재에 따른 일회성 손실만의 문제가 아닌 것으로 나타났다.",
-      "개인정보 유출 사고 이후 고객을 되찾기 위한 마케팅 비용이 늘어난 데다 물동량 감소에 따른 물류시설 고정비 부담까지 겹치면서 주력 사업의 이익률이 크게 떨어졌다.",
-      "쿠팡은 일시적인 비용 증가라는 입장이지만 고객 회복 속도가 향후 실적 개선의 핵심 변수가 될 전망이다.4일 쿠팡Inc의 3분기 실적발표 컨퍼런스콜에 따르면 쿠팡의 연결 매출은 전년 동기 대비 7%."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n2a9aac54",
-    "category": "사회",
-    "source": "테크M",
-    "time": "방금 전",
-    "url": "https://www.techm.kr/news/articleView.html?idxno=156877",
-    "title": "김범석 쿠팡 의장 \"떠났던 고객 돌아온다\"…쿠팡 와우 멤버십 역대 최대",
-    "summary": [
-      "개인정보 유출 사고로 고객 이탈을 겪었던 쿠팡이 와우 멤버십을 앞세워 이용자 회복에 속도를 내고 있다.",
-      "사고 이후 서비스를 떠났던 고객들이 다시 돌아오고 신규 가입자도 늘어나면서 와우 멤버십 회원 수가 역대 최고치를 기록했다.",
-      "김범석 쿠팡Inc 의장은 멤버십 혜택과 상품 경쟁력에 대한 투자를 확대해 고객 충성도를 더욱 높이겠다는 구상을 밝혔다.4일 쿠팡Inc의 3분기 실적발표 컨퍼런스콜에 따르면 김 의장은 \"와우 멤버십이 전년 동기와 전 분기."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n6f87d2ef",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "방금 전",
-    "url": "https://www.donga.com/news/Society/article/all/20261104/134962157/1",
-    "title": "대구 신격동 도금공장서 새벽 화재…인명피해 없어",
-    "summary": [
-      "대구시 북구 산격동의 도금 공장에서 불이나 소방대에 의해 1시간여만에 진화됐다.대구소방본부에 따르면 4일 오전 3시43분께 공장에서 불꽃이 보인다는 신고에 소방차 38대가 출동해 오전 5시에 모두 진화했다.인명피해는 없는 것으로 확인됐으며 소방당국은 화재원인과 재산피해를 조사 중이다.[대구=뉴시스]."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nd6743d6f",
-    "category": "스포츠",
-    "source": "머니투데이",
-    "time": "방금 전",
-    "url": "https://www.mt.co.kr/sports/2026/11/04/2026110407463223325",
-    "title": "\"이쪽 택하면 저쪽 놓친다\" 김상식 감독도 '초비상'... 아시안컵 연기→U-23 아시안컵과 18일 겹친다, 베트남 '심각한 고민'",
-    "summary": [
-      "김상식 베트남 축구대표팀 감독에게 뜻밖의 고민이 생겼다.",
-      "2027 아시아축구연맹(AFC) 아시안컵이 약 1년 연기되면서 2028 AFC 23세 이하(U-23) 아시안컵과 일정이 겹치게 됐다.",
-      "AFC는 3일(한국시간) 공식 홈페이지를 통해 2027 사우디아라비아 아시안컵 개최 일정을 변경한다고 발표했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n005454e2",
-    "category": "경제",
-    "source": "아시아경제",
-    "time": "1분 전",
-    "url": "https://view.asiae.co.kr/article/2026110408001607549",
-    "title": "[오늘의신상]\"라떼 한 잔에 생크림 듬뿍\"…빽다방 '시그니처 딥크림라떼'",
-    "summary": [
-      "빽다방이 라떼 한 잔의 약 30%를 생크림으로 채운 신메뉴 '시그니처 딥크림라떼'를 출시한다고 4일 밝혔다.",
-      "이 제품은 라떼 전용 우유인 서울우유 바리스타즈 밀크와 국산 유크림 100%로 만든 서울우유 생크림을 7대3 비율로 배합하고, 여기에 스페셜티 원두 20%를 포함한 빽다방 시그니처 블렌드 원두로 추출한 에스프레소를 더한 제품이다.",
-      "브라질 원두 특유의 풍미에 생크림 바디감, 비정제 설탕 단맛이 어우러진다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n68c113ef",
-    "category": "스포츠",
-    "source": "동아일보",
-    "time": "1분 전",
-    "url": "https://www.donga.com/news/Sports/article/all/20261104/134962153/1",
-    "title": "사격 반효진, 세계선수권 2연패…LA 올림픽 출전권 확보",
-    "summary": [
-      "한국 사격의 ‘간판’ 반효진(대구시설공단)이 세계사격선수권대회 2연패를 달성하며 2028 로스앤젤레스(LA) 올림픽 출전권까지 확보했다.반효진은 4일(한국시간) 카타르 도하에서 열린 2026 국제사격연맹(ISSF) 세계사격선수권대회 여자 10m 공기소총 결선에서 253.1점을 기록, 정상에 올랐다.중국의 한자위가 252.2점으로 은메달, 왕쯔페이가 231.0점으로 동메달을 차지했다.2024 파리 올림픽에서 한국 선수 역대 최연소 하계 올림픽 금."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nce8e95a5",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "2분 전",
-    "url": "https://www.newsis.com/view/NISX20261104_0003853738",
-    "title": "갤버즈로 귀 상태 검사한다…청력 체크·케어 기능, 식약처 허가",
-    "summary": [
-      "[서울=뉴시스]윤현성 기자 = 삼성전자 무선 이어폰 '갤럭시 버즈'로 직접 청력 상태를 검사하고, 잘 들리지 않는 소리는 개인 청력 수준에 맞춰 키워 들을 수 있게 된다.",
-      "삼성전자는 갤럭시 버즈에 적용하는 '청력 체크'와 '청력 케어' 기능이 식품의약품안전처의 의료기기 허가를 받았다고 4일 밝혔다.",
-      "이번 허가에 따라 갤럭시 버즈4 프로와 갤럭시 버즈3 프로 사용자는 기존 이어폰을 청력 검사와 청력 지원 용도로 활용할 수 있다."
-    ],
-    "chips": [
-      "#삼성전자",
-      "#의료"
-    ]
-  },
-  {
-    "id": "n183bd2be",
-    "category": "경제",
-    "source": "아시아경제",
-    "time": "2분 전",
-    "url": "https://view.asiae.co.kr/article/2026110408040100777",
-    "title": "[오늘의신상]\"치킨버거에 쯔란이\"… 버거킹, '쯔란로제 크리스퍼'",
-    "summary": [
-      "버거킹이 이국적인 향신료 쯔란과 부드러운 로제 소스를 접목한 신제품을 선보인다.",
-      "버거킹은 '쯔란로제 크리스퍼' 2종을 출시했다고 4일 밝혔다.",
-      "이번 신제품은 기존 치킨버거에서는 쉽게 접하기 어려웠던 조합으로, 각 개성이 뚜렷한 쯔란과 로제 소스를 치킨버거에 어울리는 감칠맛으로 재해석했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nca52ca29",
-    "category": "사회",
-    "source": "머니투데이",
-    "time": "2분 전",
-    "url": "https://www.mt.co.kr/living/2026/11/04/2026110408280997160",
-    "title": "김범석 쿠팡Inc 의장 \"와우 멤버십 회원, 역대 최대...투자 지속 확대\"",
-    "summary": [
-      "쿠팡 와우 멤버십 회원 수가 역대 최대를 기록했다.",
-      "개인정보 유출 사고 이후 이탈했던 고객들의 복귀와 신규 회원 유입이 맞물린 결과다.",
-      "쿠팡은 멤버십 혜택에 대한 투자를 지속 확대해 고객 확보와 유지에 집중한다는 방침이다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nc6150c7f",
+    "id": "nbc27bc5a",
     "category": "IT",
-    "source": "뉴시스",
-    "time": "2분 전",
-    "url": "https://www.newsis.com/view/NISX20261104_0003853741",
-    "title": "춘식이·잔망루피를 손끝으로…카카오, 점자달력 무료 배포",
+    "source": "연합뉴스",
+    "time": "251일 전",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5UNnlsSTY5eHFYNEZ6ZktBM216dFF6Q0J5Z1NVYm56M3A2TUFNMDM0U081NTNsZVNJTy1MWklmVGc0cEdLVk5NRHFiTWtHbmx2b2ItSkVEV1A2ZFnSAWBBVV95cUxOV3Z3V2F3aWJvV3dDNDc4OXpfRmpyaDgtaExGWC1ZTUxvX2M4ZVZPNC1rZHpQeUtSNXlIZjc0dHdGWTdfUXpJQXdac1lZU3Mza3NvdHVweFFNYXhmdDMyZWs?oc=5",
+    "title": "스타트업·벤처를 유니콘으로…전북도, '창업 천국' 구상 발표",
     "summary": [
-      "[서울=뉴시스]윤정민 기자 = 시각장애인이 춘식이와 잔망루피 등 인기 이모티콘 캐릭터 모습을 손끝으로 느낄 수 있는 달력이 나왔다.",
-      "캐릭터 형태를 촉각으로 표현하고 생김새와 감정을 설명하는 점자를 함께 담았다.",
-      "카카오는 '2027 카카오 점자달력'을 제작해 전국 시각장애 특수학교와 관련 기관 등에 8000부를 무료 배포한다고 4일 밝혔다."
+      "스타트업·벤처를 유니콘으로…전북도, '창업 천국' 구상 발표 연합뉴스."
     ],
     "chips": [
-      "#카카오",
+      "#스타트업"
+    ]
+  },
+  {
+    "id": "n30efd7d5",
+    "category": "IT",
+    "source": "테크M",
+    "time": "방금 전",
+    "url": "https://www.techm.kr/news/articleView.html?idxno=156913",
+    "title": "한컴, 토펙엔지니어링과 에이전틱 OS 업무혁약...특화 AI 에이전트 개발",
+    "summary": [
+      "한컴이 에이전틱 운영체제(OS) 적용 영역을 건설·엔지니어링 분야로 넓힌다.한컴은 토펙엔지니어링건축사사무소와 에이전틱 OS 사업 협력을 위한 업무협약(MOU)을 체결했다고 4일 밝혔다.양사는 업무 환경과 데이터를 기반으로 엔지니어링 문서 작성에 특화된 AI 에이전트를 개발한다.",
+      "개념검증(PoC)을 통해 활용 가능성도 검증한다.이번 실증은 발주처가 제시한 과업 요구사항을 분석하고 엔지니어링 문서 작성을 지원하는 데 초점을 맞춘다."
+    ],
+    "chips": [
+      "#AI",
+      "#환경"
+    ]
+  },
+  {
+    "id": "n6d93726f",
+    "category": "IT",
+    "source": "테크M",
+    "time": "방금 전",
+    "url": "https://www.techm.kr/news/articleView.html?idxno=156911",
+    "title": "\"고객·수익 동반 성장\" 카카오뱅크, 수익구조 다변화 '속도'...ROE 15% 향해 '성큼'(종합)",
+    "summary": [
+      "카카오뱅크가 올해 3분기 개인사업자 대출 확대와 결제·투자 등 플랫폼 사업의 성장에 힘입어 견조한 실적을 거뒀다.",
+      "특히 고객수와 월간 활성 이용자수(MAU)가 역대 최대치를 기록하고 수신 잔액도 처음으로 70조원을 돌파하는 등 금융 플랫폼으로서의 성장 기반을 확대했다.",
+      "카카오뱅크는 이를 기반으로 기업금융과 비이자수익 사업을 강화하고 인공지능(AI) 금융 서비스와 글로벌 사업 확장에도 속도를 낼 계획이다.3분기 순이익 27% ↑...개인사업자 대."
+    ],
+    "chips": [
+      "#AI",
+      "#카카오"
+    ]
+  },
+  {
+    "id": "n0953eff6",
+    "category": "IT",
+    "source": "테크M",
+    "time": "방금 전",
+    "url": "https://www.techm.kr/news/articleView.html?idxno=156912",
+    "title": "리얼월드, 최고운영책임자에 IBM·맥킨지 출신 김민정 선임",
+    "summary": [
+      "리얼월드가 신임 최고운영책임자(COO) 선임을 계기로 로보틱스 파운데이션 모델(RFM) 기술 상용화와 글로벌 사업 확대에 속도를 낸다.리얼월드는 김민정 전 한국IBM 컨설팅 대표를 차기 COO로 선임한다고 4일 밝혔다.김민정 신임 COO는 한국IBM 컨설팅 대표를 지낸 뒤 IBM 컨설팅 아시아태평양 지역 기업전략 부문 부사장(EVP)을 역임했다.",
+      "해당 기간 기업의 디지털 전환(DX)을 주도하고 글로벌 사업 운영 체계를 개편했다.맥킨지앤드컴퍼니."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nbfc15a85",
+    "category": "IT",
+    "source": "테크M",
+    "time": "방금 전",
+    "url": "https://www.techm.kr/news/articleView.html?idxno=156907",
+    "title": "'AI 보안' 시장 잡아라...크라우드스트라이크, 스타트업에 5억달러 베팅",
+    "summary": [
+      "크라우드스트라이크가 AI 에이전트의 행동을 추적하고 취약점을 검사하는 기술을 확보하는 데 약 5억달러를 투입한다.",
+      "기업들의 AI 활용이 늘면서 성장하는 보안시장을 겨냥한 행보로 풀이된다.크라우드스트라이크는 3일(현지시간) 스페인 바르셀로나에서 개최 중인 자사 보안 컨퍼런스 '팔콘 유럽 2026'을 통해 피들러AI와 드레드노드 인수 계획을 발표했다.",
+      "외신에 따르면 이들의 인수 자금은 약 4억9500만달러(약 6600억원)로 추정된다."
+    ],
+    "chips": [
+      "#AI",
+      "#스타트업"
+    ]
+  },
+  {
+    "id": "nd1db538e",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "4분 전",
+    "url": "https://www.newsis.com/view/NISX20261104_0003854230",
+    "title": "[美중간선거]한국계 댄 고, 美하원 입성…고경주 前차관보 아들",
+    "summary": [
+      "[워싱턴=뉴시스] 이윤희 특파원 = 3일(현지 시간) 치러진 미국 중간선거에서 새로운 한국계 의원의 당선 소식이 들려왔다.",
+      "한국계 댄 고(41·한국명 고원영) 민주당 후보가 미국 연방 하원의원에 당선됐다.",
+      "이날 AP통신 등 외신에 따르면 고 후보는 매사추세츠 제6선거구에서 미카 퀴니 존스 공화당 후보를 꺾었다."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "na87c43e7",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "4분 전",
+    "url": "https://www.newsis.com/view/NISX20261104_0003854333",
+    "title": "브라이언, 800만원 명품 백팩 300만원에 구매…\"짠돌이 맞다\"",
+    "summary": [
+      "[서울=뉴시스]강주희 기자 = 가수 브라이언이 명품을 저렴하게 구매한 비결을 전했다.",
+      "3일 브라이언의 유튜브 채널에는 '집에 전 재산 쏟아부은 브라이언이 명품 싸게 득템하는 법'이라는 제목의 영상이 게재됐다.",
+      "영상에서 브라이언은 그동안 모은 명품 가방들을 공개하며 \"돈 자랑하려고 하는 게 아니라 제가 살면서 모으고 모았던 컬렉션\"이라고 말했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n596a5f5f",
+    "category": "경제",
+    "source": "아시아경제",
+    "time": "6분 전",
+    "url": "https://view.asiae.co.kr/article/2026110211255143625",
+    "title": "아들과 결혼한 비극의 여인 이오카스테, 무대의 주인공 되다",
+    "summary": [
+      "그리스 신화를 대표하는 비극적 인물 오이디푸스의 어머니 이오카스테를 조명하는 연극 두 편이 잇달아 무대에 올라 눈길을 끈다.",
+      "국립극단이 지난달 28일 명동예술극장에서 개막해 오는 21일까지 공연하는 '이오카스테'와 서울문화재단이 대학로극장 쿼드에서 오는 14일부터 12월6일까지 선보이는 '화염'이다.",
+      "오이디푸스는 고대 그리스 극작가 소포클레스의 희곡 '오이디푸스 왕'의 주인공이다."
+    ],
+    "chips": [
       "#교육"
     ]
   },
   {
-    "id": "nede509a8",
-    "category": "경제",
-    "source": "아시아경제",
-    "time": "2분 전",
-    "url": "https://view.asiae.co.kr/article/2026110408061358500",
-    "title": "[오늘의신상]\"균형 영양에 식후 혈당 상승 억제까지\"…'한끼식사 당밸런스 호두맛'",
+    "id": "nebc6c157",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "7분 전",
+    "url": "https://www.donga.com/news/Inter/article/all/20261104/134963634/2",
+    "title": "美민주, 중간선거서 연방 하원 다수당 예측",
     "summary": [
-      "서울우유협동조합이 신제품 '한끼식사 당밸런스 호두맛'(190㎖)을 출시했다고 4일 밝혔다.",
-      "신제품은 탄수화물, 단백질, 지방, 비타민, 무기질 등 5대 영양소를 한 팩에 균형 있게 구성했으며, 식후 혈당 상승 억제에 도움을 줄 수 있는 기능성 원료인 바나바잎 추출물을 함유했다.",
-      "기능성표시식품으로 선보이는 이번 제품은 동·식물성 단백질 10g과 칼슘, 식이섬유 등을 채우고 당과 나트륨 함량은 낮췄다."
+      "미국 중간선거에서 민주당이 연방 하원 다수당 지위를 확보할 것으로 전망됐다.",
+      "앞서 상원에서도 공화당이 차지하고 있던 일부 의석을 민주당이 탈환할 가능성이 제기되면서 도널드 트럼프 미국 대통령의 남은 임기 국정 운영의 상당한 제약이 예상된다.",
+      "3일(현지시간) CNBC는 자체 선거분석팀의 예측 결과 민주당이 하원 전체 435석 중 최소 218석 이상을 차지할 것으로 예상된다고 보도했다."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n20e7f161",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "9분 전",
+    "url": "https://www.chosun.com/jp/sports-jp/2026/11/04/3FZLWMWLUFBETAZJXZG5MTA2BU/",
+    "title": "「悪質な反則」で選手死亡、警察がGKを捜査…スペイン検察「刑事罰は困難」",
+    "summary": [
+      "［OSEN＝コ・ソンファン記者］試合中に相手選手を死亡に至らせた衝突事故が、ついに警察の捜査に発展した。スペイン・プロサッカー、FCアンドラのGKヘスス・オウォノ（25）が刑事処罰を受ける可能性まで取り沙汰されている。スペインの「EFE通信」は3日（以下、韓国時間）、「警察がCDテネリフェの選手ヘスス・デ・ミゲルの死亡経緯を調べており、現在の捜査は司法当局の."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "nd9b81fa7",
+    "id": "n2cd09768",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "9분 전",
+    "url": "https://www.chosun.com/sports/world-football/2026/11/04/HAZWKNZVGFSDKMRXGRSDSOBSMU/",
+    "title": "'악질 반칙'으로 선수 사망...죽음 부른 GK, 경찰 수사받는다 '최대 징역 4년 가능성'→스페인 검찰 \"형사 처벌 매우 어려워\"",
+    "summary": [
+      "[OSEN=고성환 기자] 경기 도중 상대 선수를 사망에 이르게 한 충돌 사고가 결국 경찰 수사로 이어졌다.",
+      "스페인 프로축구 FC 안도라의 골키퍼 헤수스 오워노(25)가 형사처벌을 받을 가능성까지 거론되고 있다.",
+      "스페인 'EFE 통신'은 3일(이하 한국시간) \"경찰이 CD 테네리페 선수 헤수스 데 미겔의 사망 경위를 조사하고 있으며, 현재 수사는 사법당국의."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "ndf1ce81f",
     "category": "사회",
     "source": "뉴시스",
-    "time": "3분 전",
-    "url": "https://www.newsis.com/view/NISX20261104_0003853789",
-    "title": "\"학교가 살아야 봉화가 산다\"…교육혁신선도지역 선정",
+    "time": "9분 전",
+    "url": "https://www.newsis.com/view/NISX20261104_0003854409",
+    "title": "[美중간선거] 조지아 주지사 민주 승리…첫 흑인 여성 주지사 탄생",
     "summary": [
-      "[봉화=뉴시스] 김진호 기자 = 경북 봉화군이 교육부의 교육혁신선도지역으로 선정돼 최대 5년간 100억원을 지원받는다.",
-      "학생 수 감소로 존립 위기에 놓인 작은 학교들을 연결하고, 지역 산업과 교육을 결합해 인구 유출을 막는 교육 생태계 구축에 나선다.",
-      "4일 봉화군에 따르면 교육부는 전날 전국 43개 지방자치단체를 2027년도 교육혁신선도지역으로 선정했다."
+      "[서울=뉴시스] 최홍 기자 = 미국 조지아주 중간선거에서 민주당 케이샤 랜스 바텀스 후보가 주지사에 당선됐다.",
+      "미국 첫 흑인 여성 주지사다.",
+      "3일(현지시간) 외신 등에 따르면 82.8% 개표 상황에서 바텀스 후보는 199만6919표(54.4%)를 득표해 공화당 릭 잭슨 후보(167만6852표·45.6%)를 크게 앞섰다."
     ],
     "chips": [
-      "#교육"
+      "#정치"
     ]
   },
   {
-    "id": "na1bc0156",
-    "category": "경제",
-    "source": "아시아경제",
-    "time": "3분 전",
-    "url": "https://view.asiae.co.kr/article/2026110408401300805",
-    "title": "[오늘의신상]\"햇매실로 깊은 풍미 구현\"… 롯데칠성음료, 제로슈거 매실수 '설중매'",
-    "summary": [
-      "롯데칠성음료가 전남 광양에서 수확한 햇매실을 사용해 매실 특유의 싱그러운 향과 깊은 풍미를 구현한 제로슈거 매실주 '설중매'를 새롭게 선보인다.",
-      "롯데칠성음료는 원료의 품질과 당류 함량 등을 꼼꼼히 살피는 소비 트렌드에 맞춰 매실주 최초로 제로슈거를 적용한 설중매를 출시했다고 4일 밝혔다.",
-      "리뉴얼된 설중매는 기존 제품보다 매실침출주의 비중을 높여 매실 본연의 진한 맛과 향이 더욱 풍부하고 제로슈거 특유의 산뜻하면서 깔끔한 음용감을 더해 맛의 완성."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "ne7b4f44d",
-    "category": "부동산",
-    "source": "뉴시스",
-    "time": "3분 전",
-    "url": "https://www.newsis.com/view/NISX20261104_0003853730",
-    "title": "서울 아파트 매물 8만개 넘었다…강남 이어 강북까지 확산",
-    "summary": [
-      "[서울=뉴시스]이종성 기자 = 서울 아파트 매물이 8만건을 넘어섰다.",
-      "지난 8월 정부의 세제개편안 발표 이후 석 달 만에 2만건 넘게 늘어난 것으로, 강남3구뿐 아니라 성북·강서·노원 등 서울 외곽까지 매물 증가세가 확산하고 있다.",
-      "4일 부동산 빅데이터 업체 아실에 따르면 이날 서울 아파트 매물은 8만430건으로 집계됐다."
-    ],
-    "chips": [
-      "#부동산"
-    ]
-  },
-  {
-    "id": "nd6f3d9e8",
+    "id": "n472c60aa",
     "category": "사회",
-    "source": "연합뉴스(경제)",
-    "time": "3분 전",
-    "url": "https://www.yna.co.kr/view/AKR20261104028000530",
-    "title": "노동장관 \"지역 일자리 정책, 지방이 주도하고 중앙은 지원만\"",
+    "source": "뉴시스",
+    "time": "9분 전",
+    "url": "https://www.newsis.com/view/NISX20261104_0003854426",
+    "title": "6명 숨진 부산 리조트 화재 시공사 경영진 징역8년 구형",
     "summary": [
-      "(서울=연합뉴스) 옥성구 기자 = 김영훈 고용노동부 장관이 4일 \"지역 일자리 정책의 패러다임을 바꿔야 한다\"며 \"지방 정부가 아이디어를 내면 ..."
-    ],
-    "chips": [
-      "#정책",
-      "#고용"
-    ]
-  },
-  {
-    "id": "n99ac5fa4",
-    "category": "경제",
-    "source": "머니투데이",
-    "time": "3분 전",
-    "url": "https://www.mt.co.kr/society/2026/11/04/2026110408323258373",
-    "title": "\"축의금 환불해드립니다\" 122만뷰 찍은 '이혼식' 현장, 어땠길래?",
-    "summary": [
-      "결혼식이 아닌 '이혼식'으로 새로운 출발을 기념한 조승연 작가의 특별한 행사가 화제를 모으고 있다.",
-      "최근 인스타그램 등 주요 SNS 채널에 조 작가의 유쾌한 '이혼식' 현장이 공개돼 눈길을 끌었다.",
-      "이혼식 행사 장면이 담긴 영상은 조회 수 122만 회를 넘겼다."
+      "[부산=뉴시스]김민지 기자 = 6명이 숨진 부산 반얀트리 리조트 화재의 시공사 경영진에게 공소청이 중형을 구형했다.",
+      "4일 법조계에 따르면 부산지방공소청 동부지청은 최근 부산지법 동부지원 형사2부(부장판사 김병주) 심리로 열린 삼정기업 박정오 회장과 삼정이엔시 박상천 대표의 중대재해처벌등에관한법률(산업재해치사) 위반 등 혐의사건 결심공판에서 각각 징역 8년을 구형했다.",
+      "공소청은 또 현장소장 2명에게는 각각 징역 4년과 3년을, 하청업체 대표와 작."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n46050b64",
+    "id": "n4890c954",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "10분 전",
+    "url": "https://www.chosun.com/sports/world-baseball/2026/11/04/GU3DMNDDGI4WCMJVGJRGGYZVGY/",
+    "title": "‘선수와 딱 1살 차이’ 시애틀, 36살 신임감독 파격 선임…창단 50년 WS 0회 굴욕 끝낼까",
+    "summary": [
+      "[OSEN=길준영 기자] 시애틀 매리너스가 감독 경험이 전무한 제이슨 칸즐러(36)를 신임 감독으로 선임했다.",
+      "메이저리그 공식매체 MLB.com은 4일(한국시간) “시애틀 매리너스가 새로운 감독을 찾았다.",
+      "프로와 아마추어를 통틀어 어디에서도 감독을 맡은 경험이 없는 초보 감독이다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n916e6313",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "10분 전",
+    "url": "https://www.chosun.com/jp/sports-jp/2026/11/04/TFBI6FIO4FGEZE57YBKL2DKRXM/",
+    "title": "選手と1歳差、マリナーズが36歳新監督抜てき…創設50年WS進出ゼロに終止符？",
+    "summary": [
+      "［OSEN＝キル・ジュンヨン記者］シアトル・マリナーズが監督経験の全くないジェイソン・カンズラー（36）を新監督に選任した。メジャーリーグ公式メディアのMLB.comは4日（韓国時間）、「シアトル・マリナーズが新監督を見つけた。プロ、アマを問わず、どこでも監督を務めた経験のない新人監督だ。過去3シーズンにわたりシカゴ・カブスで選手育成ディレクターを務めていたジェイソン・カンズラーを."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n32bbb9dc",
     "category": "사회",
     "source": "연합뉴스",
-    "time": "4분 전",
-    "url": "https://www.yna.co.kr/view/AKR20261104027000017",
-    "title": "8년만에 부제목만 밝혔다…'엘더 스크롤 VI: 센티널' 공개",
+    "time": "11분 전",
+    "url": "https://www.yna.co.kr/view/AKR20261104082851001",
+    "title": "조작기소 특검법안 與주도로 법사위 상정…국힘 반발·퇴장(종합)",
     "summary": [
-      "(서울=연합뉴스) 김주환 기자 = 오픈월드 역할수행게임(RPG)계에 한 획을 그은 '엘더 스크롤' 시리즈의 차기작 제목이 8년 만에 '엘더 스크..."
+      "(서울=연합뉴스) 최평천 노선웅 기자 = 윤석열 정부 검찰의 조작기소 의혹을 수사하는 이른바 '조작기소 특검법(안)'이 4일 더불어민주당 주도로..."
+    ],
+    "chips": [
+      "#정책"
+    ]
+  },
+  {
+    "id": "nac46e183",
+    "category": "IT",
+    "source": "연합뉴스",
+    "time": "12분 전",
+    "url": "https://www.yna.co.kr/view/AKR20261104092500073",
+    "title": "日 은행들, 사이버 보안 강화…'카드없는 은행' 설립",
+    "summary": [
+      "(도쿄=연합뉴스) 이도연 특파원 = 일본에서 사이버 공격에 의한 개인정보 유출이 끊이지 않자 시중 은행들이 보안 강화에 나서고 있다고 니혼게이자..."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "na79e7698",
+    "id": "n1dda0abb",
     "category": "사회",
-    "source": "연합뉴스(경제)",
-    "time": "4분 전",
-    "url": "https://www.yna.co.kr/view/AKR20261104026200017",
-    "title": "불법유통에 거짓광고까지…의료기기 부당광고 156건 적발",
+    "source": "연합뉴스",
+    "time": "13분 전",
+    "url": "https://www.yna.co.kr/view/AKR20261104092900054",
+    "title": "70대 운전자 몰던 승용차 카페로 돌진…인명피해 없어",
     "summary": [
-      "(서울=연합뉴스) 신선미 기자 = 의료기기 불법 유통 광고와 거짓·과대 광고 등이 규제당국에 무더기로 적발됐다."
+      "(전남광주=연합뉴스) 정다움 기자 = 4일 오전 11시 23분께 전남광주 광산구 장덕동에서 A(70대)씨가 몰던 승용차가 카페로 돌진했다."
     ],
     "chips": [
-      "#정책",
-      "#의료"
+      "#뉴스"
     ]
   },
   {
-    "id": "nd750a577",
-    "category": "IT",
-    "source": "조선비즈IT",
-    "time": "4분 전",
-    "url": "https://biz.chosun.com/it-science/ict/2026/11/04/TXBPOSSRVNDL5B6XP6IZTBEXJQ/",
-    "title": "[속보] 카카오게임즈, 3분기 영업손실 263억원…적자폭 확대",
+    "id": "nd8e62948",
+    "category": "경제",
+    "source": "아시아경제",
+    "time": "14분 전",
+    "url": "https://view.asiae.co.kr/article/2026110412314000663",
+    "title": "상주시의회, 제242회 임시회 폐회…조례안·일반안건 17건 처리",
     "summary": [
-      "[속보] 카카오게임즈, 3분기 영업손실 263억원…적자폭 확대."
+      "경북 상주시의회가 2027년도 시정 주요 사업을 점검하고 정책 대안을 제시하는 등 의정활동을 마무리했다.상주시의회는 4일 제242회 임시회 제8차 본회의를 열고 상정된 안건을 모두 처리한 뒤 10일간의 회기를 마쳤다고 밝혔다.",
+      "이번 임시회에서는 집행부의 2027년도 부서별 주요 업무 추진계획 375건을 보고받았다.",
+      "신규사업 114건과 주요 업무 261건을 대상으로 사업 추진의 타당성과 실효성을 점검하고, 예상되는 문제점과 개선 방향을 집중 논의."
     ],
     "chips": [
-      "#카카오"
+      "#정책"
+    ]
+  },
+  {
+    "id": "n945969fb",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "15분 전",
+    "url": "https://www.yna.co.kr/view/AKR20261104055152504",
+    "title": "北, 美중간선거 당일 '대화 선택지' 언급하더니 '미사일 도발'(종합2보)",
+    "summary": [
+      "(서울=연합뉴스) 전명훈 기자 = 북한이 4일 오전 동해상으로 미사일 여러 발을 발사했다고 합동참모본부가 밝혔다."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n9e338dfc",
+    "category": "경제",
+    "source": "아시아경제",
+    "time": "15분 전",
+    "url": "https://view.asiae.co.kr/article/2026110412220892998",
+    "title": "구미시, 누적 매출 407억 '먹깨비'…골목상권 상생",
+    "summary": [
+      "경북 구미시가 누적 매출 407억원을 돌파한 공공배달앱 '먹깨비'의 활성화를 위해 운영사 및 지역 외식업계와 협력체계를 구축했다.시는 지난 3일 시청 국제통상협력실에서 ㈜먹깨비, 한국외식업중앙회 구미시지부, 대한제과협회 구미시지부와 공공배달앱 운영 활성화를 위한 업무협약을 체결했다고 밝혔다.",
+      "이번 협약은 소상공인의 배달플랫폼 이용 부담을 줄이고 시민 혜택을 확대해 지역 소비가 골목상권 매출로 이어지는 상생 기반을 마련하기 위해 추진됐다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nef1cb363",
+    "category": "IT",
+    "source": "연합뉴스(경제)",
+    "time": "16분 전",
+    "url": "https://www.yna.co.kr/view/AKR20261104087300030",
+    "title": "KGC, AI 품질검사·태양광 설비 확대…스마트팩토리 고도화",
+    "summary": [
+      "(서울=연합뉴스) 한주홍 기자 = KGC가 인공지능(AI) 기반 품질검사와 태양광 발전 설비를 확대하며 스마트팩토리 고도화에 나선다."
+    ],
+    "chips": [
+      "#AI"
     ]
   }
 ];
@@ -648,20 +638,20 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2720건",
-    "trend": "+315%"
+    "mentions": "2200건",
+    "trend": "+235%"
   },
   {
     "rank": 2,
-    "tag": "엔비디아",
-    "mentions": "1550건",
-    "trend": "+135%"
+    "tag": "AI",
+    "mentions": "1810건",
+    "trend": "+175%"
   },
   {
     "rank": 3,
     "tag": "반도체",
-    "mentions": "1420건",
-    "trend": "+115%"
+    "mentions": "1550건",
+    "trend": "+135%"
   }
 ];
 // ====AUTO-GENERATED-END====
