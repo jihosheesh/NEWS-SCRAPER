@@ -1,30 +1,15 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-11-06 16:28:08
+// 마지막 업데이트: 2026-11-06 21:51:51
 window.NEWS_DB = [
   {
-    "id": "n94376116",
+    "id": "nacec623b",
     "category": "IT",
-    "source": "데일리안",
-    "time": "8시간 전",
-    "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQOHRKRHp0bjNMT3I4TW5pTlRqd3ljOFpRSlJBS195WlJUN2l4amNQbjU3QmdkZTU2ZVpoSmprOGc5STNCNk5FVkhNU19kREMxSkZLaEZ3d2pDYXdxUEZ5UEU5bGJheDY4TE56MnZUXzUyXzlDMUwzOUtZY2RHMm9CTWZCRkJWUm9yZjR2M05EUzdpTFFPdVNUSEcwdnpwSVlxRXFlTzRNb1MxU3hUZVJEQTgzbnVEOF9xZUZrSHFsWXdqWjdGaVZvQ1B6ci14bHFGV3prZHBYTHJxV1dwam1RZVhYVUVqeEhndFFKNk5sOXlWX0tVc0t2OTJUbWpfT3pFZ0ZJ?oc=5",
-    "title": "154억원대 엔비디아 반도체 실은 트럭 증발…美경찰 두 달째 추적 실패",
+    "source": "제민일보",
+    "time": "1시간 전",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9GU2JmZkptUFBLNkRPbDFLOEhkRFFLZ3N4QTMxRmRYU2lkeFJVaFhaNnlfN0NNOUpjb2ZxaEtiMTNGRUlkRjdkRVZjR1JYR1dGdllkWVIwcjRsLUJuRkdZd3ZDalJlOHc?oc=5",
+    "title": "엔비디아, 급락 충격 딛고 반등 시도… AI 반도체 투자심리 다시 살아나나",
     "summary": [
-      "154억원대 엔비디아 반도체 실은 트럭 증발…美경찰 두 달째 추적 실패 데일리안."
-    ],
-    "chips": [
-      "#반도체",
-      "#엔비디아"
-    ]
-  },
-  {
-    "id": "nad121e59",
-    "category": "IT",
-    "source": "경향신문",
-    "time": "8시간 전",
-    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1IRnRvajVSSUc0UEU5cFBkRUNwMXluVGpJQ2twUU85bUpwU0lSX2wxVXBrN0RpU0U2YXJsa1NjNk83MXp3UjVzU3RFQTZjQmJWWlBLYVlvLThVZ9IBX0FVX3lxTE1iaGpkWmw5aGRoMWgtTGZuM3p2WmJSS1NERFBZc1ZCSHdvS1ZNOTBHM3hNVy14UjBMNVBJT0hEaWxEMldPWVdrWHZpc1U1Mzl3bFpWTi1GRkU3dzJkeldN?oc=5",
-    "title": "엔비디아 AI 반도체 운송 중 도난···154억원어치 화물 ‘증발’",
-    "summary": [
-      "엔비디아 AI 반도체 운송 중 도난···154억원어치 화물 ‘증발’ 경향신문."
+      "엔비디아, 급락 충격 딛고 반등 시도… AI 반도체 투자심리 다시 살아나나 제민일보."
     ],
     "chips": [
       "#AI",
@@ -33,16 +18,34 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nc3593735",
+    "id": "n578632a6",
     "category": "IT",
-    "source": "경기일보",
-    "time": "8시간 전",
-    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1YWm5ZRUdPVWxoTVhza1I0d2F6TS0ta1F1N2gxZWppalFCOFZ4SkJ0Rk1sclRMWGJTdEN4YnNLd1B2WEN6clhTQXFiRkplR3NqclB4MXpwU0Y5TU0?oc=5",
-    "title": "젠슨 황, 하루 만에 22조 증발…세계 10대 부자 탈락 '엔비디아 급락 여파'",
+    "source": "IT조선",
+    "time": "10시간 전",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9oSDBZeGcxdWJGbkRMT3lUeDlzekNBNmtBWDFaaUllbWJZN095Q1FNdEMwbXJXUnRUSng5NXZ3ZjVNckNNRFEtU0dKbVo5ZV9JTmc0eWw1T3ZiUUhucmg1RVFGcjVvQ1hGYjZYVUxQV3TSAXRBVV95cUxPVlN0WVl6YnJheGg0UTVsZXQ2RnNpcTAxVTdHbnRZcGNMVExuZDBsRnJQS3NrMmNmeFJ6dEpzYkptWHNwcVVFLWVyU3lheTVkeVBxS2pHWmlwNE16ZTRWNWtpMW9yWEh5VDN1Y0J4dTZ3Z09hRA?oc=5",
+    "title": "엔비디아, 동남아 AI 반도체 추적 강화… 밀수 차단 나서",
     "summary": [
-      "젠슨 황, 하루 만에 22조 증발…세계 10대 부자 탈락 '엔비디아 급락 여파' 경기일보."
+      "엔비디아, 동남아 AI 반도체 추적 강화… 밀수 차단 나서 IT조선."
     ],
     "chips": [
+      "#AI",
+      "#반도체",
+      "#엔비디아"
+    ]
+  },
+  {
+    "id": "nad121e59",
+    "category": "IT",
+    "source": "경향신문",
+    "time": "13시간 전",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1IRnRvajVSSUc0UEU5cFBkRUNwMXluVGpJQ2twUU85bUpwU0lSX2wxVXBrN0RpU0U2YXJsa1NjNk83MXp3UjVzU3RFQTZjQmJWWlBLYVlvLThVZ9IBX0FVX3lxTE1iaGpkWmw5aGRoMWgtTGZuM3p2WmJSS1NERFBZc1ZCSHdvS1ZNOTBHM3hNVy14UjBMNVBJT0hEaWxEMldPWVdrWHZpc1U1Mzl3bFpWTi1GRkU3dzJkeldN?oc=5",
+    "title": "엔비디아 AI 반도체 운송 중 도난···154억원어치 화물 ‘증발’",
+    "summary": [
+      "엔비디아 AI 반도체 운송 중 도난···154억원어치 화물 ‘증발’ 경향신문."
+    ],
+    "chips": [
+      "#AI",
+      "#반도체",
       "#엔비디아"
     ]
   },
@@ -76,21 +79,6 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n3b890fe1",
-    "category": "사회",
-    "source": "위키트리",
-    "time": "7일 전",
-    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9EaWRMT0ZYaUlpa2NYR05wNVNsVGRfc2I2ZEhnMWtPVzVVWm5RR2JHNHNOZVdkTGVtSGNKTzl6ZVdsUjlwN0RBTlJxaXJDMlFseXlESkt3?oc=5",
-    "title": "영종구, 출범 후 첫 일자리 박람회…기업 40곳·구직자 400명 '취업 열기'",
-    "summary": [
-      "영종구, 출범 후 첫 일자리 박람회…기업 40곳·구직자 400명 '취업 열기' 위키트리."
-    ],
-    "chips": [
-      "#취업",
-      "#고용"
-    ]
-  },
-  {
     "id": "nf8efe27f",
     "category": "사회",
     "source": "경기일보",
@@ -102,6 +90,22 @@ window.NEWS_DB = [
     ],
     "chips": [
       "#취업"
+    ]
+  },
+  {
+    "id": "nc5fca548",
+    "category": "IT",
+    "source": "서울이코노미뉴스",
+    "time": "16일 전",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE82UzhNS3BJcHNkcGk1NHR5b2gtMk1Vb1A1MzFlRENqdm9TVWpLbWhNUUR5NFM1MnJ6bzhId2ViMHk1NEVoUUl2bVM5NV9YMERBdWZadlVGblVublRIU0VKWEdYdVFBSjZNMUhqNUtB?oc=5",
+    "title": "삼성·SK하이닉스, 美엔비디아 HBM 공정표준화 요청에 대처…승부처는 1c D램",
+    "summary": [
+      "삼성·SK하이닉스, 美엔비디아 HBM 공정표준화 요청에 대처…승부처는 1c D램 서울이코노미뉴스."
+    ],
+    "chips": [
+      "#반도체",
+      "#엔비디아",
+      "#SK하이닉스"
     ]
   },
   {
@@ -132,21 +136,6 @@ window.NEWS_DB = [
     "chips": [
       "#부동산",
       "#전세"
-    ]
-  },
-  {
-    "id": "n1011fbc2",
-    "category": "IT",
-    "source": "서울경제",
-    "time": "19일 전",
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA3WldhTWZaaEVTWHNENi1FYXF3OERPQmN2ekIxMjhZd044R0dldVNDNkQzZ05lU3IxY253aGVXMV82U0xfT0dtM1lEV1duLU1PMmfSAVNBVV95cUxOUUpRSU10YXg2LXh0MDRsMEt0WGtveGNqVXJOSmJ2c3N5NHpXYTZvM0Z3TTAxZ2xmT01NRXdTRHlVVjhzTUxURFYtalpYWEFlcW9RUQ?oc=5",
-    "title": "[단독] 삼성전자, ‘차세대 HBM’ TSMC와 함께 만든다",
-    "summary": [
-      "[단독] 삼성전자, ‘차세대 HBM’ TSMC와 함께 만든다 서울경제."
-    ],
-    "chips": [
-      "#반도체",
-      "#삼성전자"
     ]
   },
   {
@@ -219,6 +208,20 @@ window.NEWS_DB = [
     "chips": [
       "#금리",
       "#환율"
+    ]
+  },
+  {
+    "id": "n6c4859cd",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "58일 전",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBjajZ4SGVkMFFpSy04Q0ZfWDhINjVaN1ljdERjQ0JPNF9ESHctcGJ0NzJZZFBQMU1YUmZNTE00MVREMGN4bDlDWVFENmFRa3V2R0NPa0ZKY0FUQnfSAWBBVV95cUxNVXNSZmw5Q1NpbkVuOTVUdUtIc0VYVVZiWTl6TWdTeXltajJta3RHZkRJOC1vY1h3bjdSMGUzTzJqZDdwekI1anhTX3R3aU1WdmtOamVIelZqQ0F3c2ZDZUI?oc=5",
+    "title": "정부 \"청년 '쉬었음' 감소세…훈련-구직-취업사다리 복원 신호\"(종합)",
+    "summary": [
+      "정부 \"청년 '쉬었음' 감소세…훈련-구직-취업사다리 복원 신호\"(종합) 연합뉴스."
+    ],
+    "chips": [
+      "#취업"
     ]
   },
   {
@@ -309,6 +312,38 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n8295c7c3",
+    "category": "IT",
+    "source": "테크M",
+    "time": "방금 전",
+    "url": "https://www.techm.kr/news/articleView.html?idxno=157041",
+    "title": "[라그나로크 페스타] 크루즈 위에 펼쳐진 화합의 장...\"우리는 모두 라그나로크였다\"",
+    "summary": [
+      "태국 방콕의 밤이 '라그나로크'를 중심으로 하나로 이어졌다.",
+      "서로 다른 언어와 문화를 가진 사람들이 한 자리에 모였지만, 게임이라는 공통 분모 아래 자연스럽게 교류하며 시종일관 즐거운 표정이었다.",
+      "밝은 웃음과 인사가 오가는 교류를 통해 국경을 넘어 게임 중심의 소통이 이뤄지는 자리였다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nda32a194",
+    "category": "스포츠",
+    "source": "테크M",
+    "time": "방금 전",
+    "url": "https://www.techm.kr/news/articleView.html?idxno=157040",
+    "title": "[라그나로크 페스타] 언더독의 반란 꿈꾸는 '블랙 앵거스', ROS 디펜딩 챔피언 '모닝스타'와 격돌",
+    "summary": [
+      "'언더독의 반란'을 꿈꾸는 블랙 앵거스가 라그나로크 온라인 글로벌 e스포츠 대회 '라그나로크 온라인 스타즈(ROS)'의 최강팀으로 꼽히는 태국의 '모닝스타'와 맞붙는다.",
+      "국내 최강팀을 꺾고 태국 파이널 무대에 오른 블랙 앵거스가 디펜딩 챔피언을 상대로 이변을 연출할 준비를 하고 있다.",
+      "그라비티는 6일(현지시간) 태국 방콕에서 열린 '게더링 나잇' 행사에서 '라그나로크 페스타 2026'의 대진표 추첨을 진행했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
     "id": "n5454a8be",
     "category": "IT",
     "source": "테크M",
@@ -325,292 +360,245 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nc93475ff",
-    "category": "IT",
-    "source": "테크M",
-    "time": "방금 전",
-    "url": "https://www.techm.kr/news/articleView.html?idxno=157037",
-    "title": "6000억 과징금 소송서 반격 나선 쿠팡…법원, 2011억원 효력정지 결정",
+    "id": "n3e52bf50",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "2분 전",
+    "url": "https://www.newsis.com/view/NISX20261107_0003858727",
+    "title": "'입동' 전북 밤사이 서리·얼음…낮 9~13도 '맑음'",
     "summary": [
-      "개인정보보호위원회로부터 6000억원이 넘는 과징금을 부과받은 쿠팡이 법적 대응 과정에서 의미 있는 성과를 거뒀다.",
-      "법원이 이용자 온라인 활동기록 수집 문제로 부과된 2011억원 규모의 과징금에 대해 집행정지를 결정하면서다.",
-      "쿠팡이 제기한 손해 발생 우려와 처분 정지의 긴급성이 인정된 것으로, 향후 본안 소송에서도 개인정보 처리의 적법성과 제재 절차를 둘러싼 치열한 법리 공방이 예상된다.6일 법조계에 따르면 서울행정법원 행정1부(부장판사 양상윤)."
+      "[전북=뉴시스]고석중 기자 = \"겨울이 시작된다\"는 절기 '입동(立冬)'이자 주말인 7일 전북은 이동하는 고기압의 영향을 받아 대체로 맑겠다.",
+      "새벽부터 아침 사이 북부와 동부에 서리가 내리고 내륙을 중심으로 영하권 추위 속에 얼음이 어는 곳이 있어, 시설물 관리와 농작물 저온 피해 예방에 유의해야 한다.",
+      "이날 아침 최저기온은 -2~3도 전날보다 5~9도 떨어지고, 낮 최고기온은 9~13도로 전날보다 3도께 낮다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n561fb5d6",
-    "category": "IT",
-    "source": "테크M",
-    "time": "방금 전",
-    "url": "https://www.techm.kr/news/articleView.html?idxno=157034",
-    "title": "CJ올리브네트웍스, 스마트 스페이스 AX 매출 2배...3Q 영업익 9%↑",
+    "id": "n4e48fb16",
+    "category": "스포츠",
+    "source": "뉴시스",
+    "time": "3분 전",
+    "url": "https://www.newsis.com/view/NISX20261107_0003858729",
+    "title": "북한 레슬링 선수 도핑 검사 적발",
     "summary": [
-      "CJ올리브네트웍스가 AI 팩토리와 물류 등이 속한 스마트 스페이스 AX 사업에서 전년 동기 대비 2배 이상 매출을 올렸다.",
-      "신규 수주가 늘면서 회사 전체 매출과 영업이익도 증가했다.",
-      "역대 3분기 실적 중 최고치다.CJ올리브네트웍스는 올해 3분기 매출 2242억원, 영업이익 165억원을 기록했다고 6일 밝혔다."
+      "[서울=뉴시스] 강영진 기자 = 지난달 아시안게임에 출전했으나 아무런 설명 없이 출전이 금지됐던 북한 레슬링 선수가 금지 약물 사용을 이유로 잠정 출전 정치 처분을 받았다고 미국의 북한 전문 매체 NK 뉴스(NK NEWS)가 6일(현지시각) 보도했다.",
+      "국제검사기구(ITA)는 지난 3일 발표한 보도자료에서 북한 레슬링 선수 로유철에게 '분석 결과 이상 소견'을 통보했다고 밝혔다.",
+      "지난해 3월 경기 기간 외 약물검사를 실시하는 과정에서 푸로세미드."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n18f995cd",
+    "category": "IT",
+    "source": "아시아경제",
+    "time": "4분 전",
+    "url": "https://view.asiae.co.kr/article/2026110516151055280",
+    "title": "차는 더 팔아도 이익은 줄고…현대차의 '로봇' 승부수[주末머니]",
+    "summary": [
+      "차를 더 팔면 이익도 늘까.",
+      "메리츠증권이 그린 현대차의 내년 성적표는 이 공식에서 비켜나 있다.",
+      "판매량은 소폭 늘어도 영업이익은 줄어들 것으로 봤다."
     ],
     "chips": [
       "#AI"
     ]
   },
   {
-    "id": "na5540042",
-    "category": "부동산",
-    "source": "테크M",
-    "time": "방금 전",
-    "url": "https://www.techm.kr/news/articleView.html?idxno=157032",
-    "title": "'명불허전' 배틀그라운드...대작 홍수 속 스팀 전세계 매출 1위",
+    "id": "n6c87f806",
+    "category": "경제",
+    "source": "아시아경제",
+    "time": "6분 전",
+    "url": "https://view.asiae.co.kr/article/2026110706452074371",
+    "title": "남해군, ‘2027 코리아둘레길 활성화 공모’ 선정… 사업비 5억원 확보",
     "summary": [
-      "크래프톤을 대표하는 배틀로얄 슈터 'PUBG: 배틀그라운드(이하 배틀그라운드)'가 전세계 최고 인기 슈팅 게임의 명성을 뽐냈다.6일 게임업계에 따르면, 배틀그라운드는 스팀 전세계 최고 인기 게임 순위 1위에 올랐다.",
-      "실시간 매출 기록을 나타내는 순위로, 스팀 내 유·무료 모든 게임을 꺾고 1위 자리를 차지했다.특히, 출시 3일 만에 판매량 400만장을 돌파한 '팬텀 블레이드 제로', 세계적인 인기를 자랑하는 슈팅 게임 프랜차이즈 '콜 오브 듀티."
-    ],
-    "chips": [
-      "#전세"
-    ]
-  },
-  {
-    "id": "ne94e16b7",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "5분 전",
-    "url": "https://www.donga.com/news/Society/article/all/20261107/134982797/1",
-    "title": "[날씨]입동 아침 최저 -6도…강풍에 체감온도 ‘뚝’",
-    "summary": [
-      "절기상 겨울의 시작을 알리는 ‘입동’(立冬)이자 토요일인 7일은 북서쪽에서 찬 공기가 내려오면서 올가을 들어 가장 추운 날씨를 보이겠다.",
-      "서울은 아침 최저기온이 영하 1도까지 떨어지며 올가을 첫 영하권 추위가 찾아올 전망이다.기상청은 이날 예보에서 “북서쪽에서 찬 공기가 남하하면서 아침 기온은 오늘보다 5~10도가량 큰 폭으로 떨어지겠고, 바람도 강하게 불어 체감온도는 더욱 낮아 춥겠다”고 밝혔다.중부지방과 전북동부, 경상권내륙을 중심으로 아침."
+      "경남 남해군이 코리아 둘레길을 활용한 걷기 관광 활성화 사업에 선정돼 국비를 포함한 총 5억원의 사업비를 확보했다.",
+      "군과 남해 관광문화재단은 문화체육관광부와 한국관광공사가 주관하는 '2027 코리아 둘레길 하이라이트 구간 활성화 공모사업'에 최종 선정됐다고 7일 밝혔다.",
+      "이번 사업은 코리아 둘레길의 주요 구간을 중심으로 걷기 여행 프로그램을 개발하고, 관광객의 지역 체류와 소비를 유도하기 위해 추진된다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "naa8d6fd0",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "5분 전",
-    "url": "https://www.donga.com/news/Entertainment/article/all/20261107/134982794/1",
-    "title": "류효영, 8살 연상 이태성에 돌직구 고백…“호감 있어, 남자로서 좋아”",
-    "summary": [
-      "배우 류효영이 이태성에게 호감을 드러냈다.6일 방송된 채널A 예능 프로그램 ‘신랑수업2’에서는 이태성, 류효영, 김요한, 오연희의 한강 회동이 그려졌다.이날 류효영은 과거 드라마에서 호흡을 맞췄던 이태성에 대해 “이제까지 촬영 현장에서 이렇게 예의 바르고 인성 좋고 젠틀한 사람이 없었다”고 극찬했다.이어 “촬영장에서 태성 오빠랑 둘이서 주연이었다.",
-      "나는 혼자 가서 의지할 데가 없었는데 자연스레 태성 오빠한테 의지하는 부분이 더 컸다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n93d63d8a",
+    "id": "n617629a1",
     "category": "IT",
     "source": "연합뉴스",
-    "time": "13분 전",
-    "url": "https://www.yna.co.kr/view/AKR20261107001700072",
-    "title": "美증시 급락에 헤지펀드도 '백기'…10여년만에 최대 포지션 축소",
+    "time": "7분 전",
+    "url": "https://www.yna.co.kr/view/AKR20261107008551072",
+    "title": "뉴욕증시, AI 기술주 폭락 후 저가 매수세…나스닥 1.1%↑(종합)",
     "summary": [
-      "(뉴욕=연합뉴스) 임수정 특파원 = 미국 뉴욕증시를 덮친 인공지능(AI) 관련주 급락에 월가 대형 헤지펀드들마저 휘청이고 있다."
+      "(뉴욕=연합뉴스) 임수정 특파원 = 미국 뉴욕증시가 6일(현지시간) 인공지능(AI) 관련 기술주를 중심으로 전날 급락에 따른 저가 매수세가 유입..."
     ],
     "chips": [
       "#AI"
     ]
   },
   {
-    "id": "neb76265e",
-    "category": "스포츠",
-    "source": "머니투데이",
-    "time": "13분 전",
-    "url": "https://www.mt.co.kr/sports/2026/11/07/2026110610472363068",
-    "title": "'첫 6이닝 8득점→23이닝 3득점이라니' 득점·타율·출루율 1위 KT 방망이 왜 식었나 [KS3 현장]",
+    "id": "n4fdb4e8c",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "11분 전",
+    "url": "https://www.yna.co.kr/view/AKR20261107009200055",
+    "title": "입동에 전북 아침기온 '영하권'…낮에도 9∼13도 머물러",
     "summary": [
-      "첫 경기 6이닝 동안 8점을 뽑아냈던 방망이는 어디로 갔을까.",
-      "정규시즌 득점·타율·출루율 모두 1위였던 KT 위즈의 타선이 한국시리즈(KS)에서 급격히 식어버렸다.",
-      "KT는 6일 대구삼성라이온즈파크에서 열린 2026 신한 SOL KBO 한국시리즈(7전 4선승제) 3차전에서 삼성 라이온즈에 1-5로 패했다."
+      "(전주=연합뉴스) 나보배 기자 = 절기상 겨울의 시작을 알리는 입동인 7일 전북은 대체로 맑겠다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n80c6e9a4",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "12분 전",
+    "url": "https://www.chosun.com/jp/sports-jp/2026/11/07/MYXTAEOOTRCSTID65MSWPNBVRI/",
+    "title": "「日本にキム・ドヨン知らぬスタッフいない」李承燁氏証言…東京ドーム3度目へ",
+    "summary": [
+      "【OSEN＝大邱、チョ・ヒョンレ記者】「日本でキム・ドヨンを知らないスタッフがいないほどだ。すでに韓国のレベルではない」。韓国野球の伝説的な長距離打者、「国民打者」イ・スンヨプ前斗山ベアーズ監督。現役時代はサムスン一筋で、シーズン最多本塁打（56本塁打）記録に加え、韓国で通算467本塁打を放った。また日本プロ野球の舞台でも長距離打者として活躍し、159本塁打を記録した."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n73ee8f48",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "12분 전",
+    "url": "https://www.chosun.com/sports/baseball/2026/11/07/GFQTEZJQHE4TCYZZHA2DGNZTGY/",
+    "title": "'와' 국민타자 생생 증언, \"김도영 모르는 사람 없어\"…'어나더 클래스' 슈퍼스타, 도쿄돔 3번째 쇼케이스 준비",
+    "summary": [
+      "[OSEN=대구, 조형래 기자] \"일본에서 김도영을 모르는 스탭들이 없을 정도다.",
+      "이미 우리나라 레벨 아니다.”한국야구의 전설적인 거포, ‘국민타자’ 이승엽 전 두산 베어스 감독.",
+      "현역 시절 삼성 원클럽맨으로 단일시즌 최다 홈런(56홈런) 기록에 더해 한국에서 통산 467개의 아치를 그렸다."
     ],
     "chips": [
       "#KBO"
     ]
   },
   {
-    "id": "n1fc9ecb5",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "14분 전",
-    "url": "https://www.chosun.com/sports/world-football/2026/11/07/GZSWMM3FG5SWIZLFME3WKYLBMY/",
-    "title": "\"최종 은퇴는 다른 모습이길 바란다\" 무리뉴, 23년 대표팀 생활 끝낸 옛 제자에게 의미심장한 조언...英 언론은 독설 폭발",
-    "summary": [
-      "[OSEN=정승우 기자] \"그의 최종 은퇴는 이번과 다른 모습이기를 바란다.\"크리스티아누 호날두(41)가 포르투갈 국가대표팀 은퇴를 선언한 가운데 과거 그를 지도했던 조제 무리뉴 레알 마드리드 감독이 입을 열었다.",
-      "영국 언론에서는 호날두의 마지막 행보를 두고 '축구계의 도널드 트럼프'라는 비판까지 나온 상황이다.",
-      "무리뉴 감독은 옛 제자의 결정을 존중하면서도."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n5934cbdd",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "14분 전",
-    "url": "https://www.chosun.com/jp/sports-jp/2026/11/07/G6EFB7SJEFG5LFGPT6YBZ76O5Y/",
-    "title": "代表引退のロナウドにモウリーニョ監督「最後は今回と違う形に」…英紙酷評",
-    "summary": [
-      "【OSEN＝チョン・スンウ記者】「彼の最終的な引退は、今回とは違う形であってほしい」。クリスティアーノ・ロナウド（41）がポルトガル代表からの引退を表明する中、かつて同選手を指導したレアル・マドリードのジョゼ・モウリーニョ監督が口を開いた。英国メディアからは、ロナウドの最後の歩みをめぐり「サッカー界のドナルド・トランプ」との批判まで出ている状況だ。モウリーニョ監督はかつての教え子の決断を尊重しつつも."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nf05bff78",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "14분 전",
-    "url": "https://www.chosun.com/sports/baseball/2026/11/07/GA4WGNZUGU4DMNZXGBSDANZSGQ/",
-    "title": "구자욱 치명타 그 한 방에 끝났다 → \"그 공이 올 것이라 확신했다\" [KS3 현장]",
-    "summary": [
-      "[대구=스포츠조선 한동훈 기자] 구자욱의 한 방에 끝난 경기였다.",
-      "삼성 라이온즈가 6일 대구 삼성 라이온즈파크에서 열린 2026 KBO리그 포스트시즌 KT 위즈와 한국시리즈 4차전서 5대1로 승리했다.",
-      "삼성이 2-1로 앞선 2회말 2사 1, 3루서 구자욱이 우측 담장을 직격하는 싹쓸이 3루타를 때렸다."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
-    "id": "n0fc32edc",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "23분 전",
-    "url": "https://www.chosun.com/international/international_general/2026/11/07/MM3DGZLEGBSTKNDFG43TAZTDMU/",
-    "title": "트럼프, 안보팀과 이란 공격 재개 여부 논의",
-    "summary": [
-      "트럼프, 안보팀과 이란 공격 재개 여부 논의."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "ne2b60e18",
+    "id": "n7515f156",
     "category": "사회",
     "source": "뉴시스",
-    "time": "27분 전",
-    "url": "https://www.newsis.com/view/NISX20261106_0003858438",
-    "title": "\"코를 골며 자더니 갑자기 조용\"…숨이 멈췄다?[몸의경고]",
+    "time": "16분 전",
+    "url": "https://www.newsis.com/view/NISX20261107_0003858726",
+    "title": "부산, 맑은 날씨…낮 최고기온 12도",
     "summary": [
-      "[서울=뉴시스] 류난영 기자 = \"밤에 코를 심하게 골다가 갑자기 조용해집니다.",
-      "그러다 숨을 몰아쉬는데 문제가 없는 걸까요.\" 코콜이는 수면 중 호흡이 반복적으로 막히는 '폐쇄성 수면무호흡증'의 신호일 수 있어 주의해야 한다.",
-      "7일 의료계에 따르면 폐쇄성 수면무호흡증은 수면 중 숨을 쉬려는 노력이 계속됨에도 불구하고, 상기도(코, 인두, 후두 등)가 일시적으로 막히면서 10초 이상 호흡이 중단되는 상태가 반복되는 질환을 의미한다."
+      "[부산=뉴시스]원동화 기자 = 7일 부산지역은 맑은 날씨를 보이겠다고 부산기상청은 예보했다.",
+      "낮 최고기온은 12도, 8일 아침 최저기온은 4도로 예상됐다.",
+      "이날 오전까지 부산 해안에는 순간풍속 초속 15m 안팎으로 바람이 강하게 불겠고 당분간 너울에 의한 높은 물결이 백사장으로 강하게 밀려오거나 갯바위나 방파제를 넘겠다고 부산기상청은 전했다."
     ],
     "chips": [
-      "#의료"
+      "#뉴스"
     ]
   },
   {
-    "id": "n6002981b",
+    "id": "n5a02a878",
     "category": "IT",
-    "source": "뉴시스",
-    "time": "28분 전",
-    "url": "https://www.newsis.com/view/NISX20261106_0003858125",
-    "title": "\"히로시마 원폭 23개분 에너지 발생 우려\"…텍사스 민심까지 흔든 데이터센터 논란",
+    "source": "연합뉴스(경제)",
+    "time": "18분 전",
+    "url": "https://www.yna.co.kr/view/AKR20261106022200017",
+    "title": "[AI돋보기] 한국도 일본도 뚫렸다…고객정보 샌 '작은 문'",
     "summary": [
-      "[서울=뉴시스]김혜경 기자 = 인공지능(AI) 산업의 급성장과 함께 전 세계적으로 데이터센터 건설이 확대되는 가운데 막대한 전력과 물 소비, 환경 문제를 둘러싼 주민들의 반발도 커지고 있다.",
-      "◆공화당 텃밭 텍사스서 민주당 주지자 탄생…데이터센터 규제 쟁점 부상 미국 텍사스에서는 지난 3일(현지 시간) 치러진 중간선거에서 데이터센터 규제를 내건 지나 히노호사 민주당 후보가 현직 주지사 그레그 애벗을 꺾고 주지사에 당선되는 이변이 일어났다."
+      "(서울=연합뉴스) 심재훈 기자 = 최근 한일 양국이 연이어 터지는 해킹에 의한 대규모 개인 정보 유출에 시달리고 있다."
     ],
     "chips": [
-      "#AI",
-      "#정책",
-      "#정치",
-      "#환경"
+      "#AI"
     ]
   },
   {
-    "id": "nd70c41b5",
-    "category": "사회",
+    "id": "ne1de3489",
+    "category": "부동산",
     "source": "뉴시스",
-    "time": "28분 전",
-    "url": "https://www.newsis.com/view/NISX20261106_0003857906",
-    "title": "'세계 최고 레스토랑 50곳'에 韓식당 '밍글스·온지음' 올라",
+    "time": "18분 전",
+    "url": "https://www.newsis.com/view/NISX20261107_0003858725",
+    "title": "'이용자 360만명' 아파트 플랫폼 아파트너, 입주민 휴대전화번호 유출",
     "summary": [
-      "[서울=뉴시스]장인혜 인턴 기자 = 서울의 한식당 '밍글스'와 '온지음'이 '2026 세계 50대 레스토랑'에서 각각 17위와 41위를 차지하며 나란히 세계 50위권에 진입했다.",
-      "지난 5일(현지 시간) 페루 일간 엘코메르시오가 보도한 순위에 따르면 한국 식당 두 곳이 세계 각국의 유명 레스토랑과 경쟁해 상위 50곳에 이름을 올렸다.",
-      "이번 순위는 하루 앞선 4일 페루 수도 리마의 시립극장에서 열린 시상식에서 공개됐다."
+      "[서울=뉴시스] 강세훈 기자 = 국내 최대 아파트 생활 플랫폼 '아파트너'에서 일부 이용자의 개인정보가 유출됐다.",
+      "유출된 정보는 휴대전화번호로, 성명이나 거주지 등 다른 개인정보는 포함되지 않은 것으로 알려졌다.",
+      "6일 아파트너 운영사인 두꺼비세상은 최근 보안 점검 과정에서 외부의 비인가 접근으로 일부 이용자의 휴대전화번호가 담긴 파일이 외부로 반출된 사실을 확인했다고 밝혔다."
+    ],
+    "chips": [
+      "#부동산"
+    ]
+  },
+  {
+    "id": "n3be1fc24",
+    "category": "경제",
+    "source": "동아일보",
+    "time": "19분 전",
+    "url": "https://www.donga.com/news/Inter/article/all/20261107/134982874/1",
+    "title": "유가 6일 소폭 상승, 주간 기준 큰 폭 하락 마감",
+    "summary": [
+      "국제 유가가 6일(현지시각) 소폭 상승했으나 주간 기준으로 큰 폭의 하락을 기록했다.미 CNBC에 따르면 브렌트유 선물은 배럴당 3센트 상승한 98.32 달러로, 서부텍사스중질유(WTI) 선물은 배럴당 31센트 오른 90.83 달러로 마감했다.",
+      "브렌트유는 이번 주 16% 넘게 하락했고, 미국산 원유는 약 13% 떨어졌다.투자자들은 미국 중간선거가 끝나면서 이란에 대한 미국의 새로운 군사행동이 있을 지를 가늠하고 있다."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n5832e4bd",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "21분 전",
+    "url": "https://www.yna.co.kr/view/AKR20261107009100062",
+    "title": "'입동' 강원 대체로 맑고 추워…동해안 풍랑·너울 주의",
+    "summary": [
+      "(춘천=연합뉴스) 류호준 기자 = 토요일이자 절기상 입동인 7일 강원 지역은 대체로 맑겠으나 기온이 낮아 춥겠다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n06931974",
+    "id": "n057bee85",
     "category": "사회",
-    "source": "뉴시스",
-    "time": "28분 전",
-    "url": "https://www.newsis.com/view/NISX20261106_0003857899",
-    "title": "마술로 배우는 양자과학…부산과학관, 전시 연계 행사",
+    "source": "머니투데이",
+    "time": "21분 전",
+    "url": "https://www.mt.co.kr/society/2026/11/07/2026110623132197128",
+    "title": "\"미친X이네, 이거\"…차량서 초등생 머리 휴대전화로 내리친 관장",
     "summary": [
-      "[부산=뉴시스] 이아름 기자 = 미래 핵심 전략 기술로 주목받고 있는 양자과학기술을 쉽게 배울 수 있는 프로그램이 부산과 대전에서 열린다.",
-      "7일 국립부산과학관(과학관)에 따르면 과학관은 한국표준과학연구원과 함께 이달 두 차례에 걸쳐 '양자 마법학교-전시 연계 프로그램'을 운영한다.",
-      "먼저 14일에는 초등학교 4학년 이상 참가자 35명이 대전 한국표준과학연구원을 방문해 국가 연구 현장을 직접 살펴볼 수 있는 견학프로그램이 진행된다."
+      "경남 진주에서 태권도장 관장이 초등학생 제자의 머리를 휴대전화로 내려쳐 다치게 한 사건이 발생한 가운데 피해 학생은 과거 몽키스패너로도 머리를 맞은 적이 있다고 알려 논란이 일고 있다.",
+      "지난 6일 JTBC '사건반장'에 따르면 지난달 29일 오후 6시 50분쯤 경남 진주시에 거주하는 제보자 A씨의 집 앞에 태권도장 하원 버스가 도착했다.",
+      "차량에서 내린 초등학교 4학년 아들 B군은 머리를 부여잡고 있었으며 머리에서는 피가 흐르고 있었다."
     ],
     "chips": [
       "#교육"
     ]
   },
   {
-    "id": "nedac92f5",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "31분 전",
-    "url": "https://www.yna.co.kr/view/AKR20261107001300071",
-    "title": "美·英 등 10개국, 조슈아 웡 징역 10년에 \"부당기소 중단을\"",
-    "summary": [
-      "(워싱턴=연합뉴스) 백나리 특파원 = 미국과 영국 등 10개국이 홍콩 민주화 활동가 조슈아 웡(30)에 대한 징역 10년 선고와 관련해 부당한 ..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n77cf10ec",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "35분 전",
-    "url": "https://www.yna.co.kr/view/AKR20261106172151109",
-    "title": "우크라 발전소 때리는 러…혹한기 앞두고 정전 피해 잇달아(종합)",
-    "summary": [
-      "(로마=연합뉴스) 민경락 특파원 = 혹한기를 앞두고 러시아의 집요한 에너지시설 공격으로 우크라이나에 정전 피해가 속출하고 있다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n6fe53f77",
-    "category": "IT",
-    "source": "연합뉴스",
-    "time": "43분 전",
-    "url": "https://www.yna.co.kr/view/AKR20261106178551085",
-    "title": "유럽 곳곳서 데이터센터 반대 시위…네덜란드 MS 공사장 난입(종합)",
-    "summary": [
-      "(런던=연합뉴스) 김지연 특파원 = 미국 중간선거에서 인공지능데이터센터(AIDC) 건설에 반대하는 후보들이 잇따라 승리한 가운데, 유럽에서는 1..."
-    ],
-    "chips": [
-      "#AI",
-      "#정치"
-    ]
-  },
-  {
-    "id": "n3508ba27",
-    "category": "IT",
+    "id": "n7c889dbd",
+    "category": "경제",
     "source": "머니투데이",
-    "time": "45분 전",
-    "url": "https://www.mt.co.kr/world/2026/11/07/2026110700401269255",
-    "title": "\"AI는 노다지, 거부하는 건 멍청한 짓\"…트럼프, 민주당에 맹포격",
+    "time": "21분 전",
+    "url": "https://www.mt.co.kr/industry/2026/11/07/2026110610365125281",
+    "title": "\"이 경제성에 이런 럭셔리\"..제네시스 회심작 'GV80 HEV'[시승기]",
     "summary": [
-      "미국 중간선거에서 연방의회 상·하원을 석권한 민주당이 AI(인공지능) 데이터센터 규제 방침을 공식화하자 도널드 트럼프 미국 대통령이 AI 속도론을 재차 강조하고 나섰다.",
-      "트럼프 대통령은 6일(현지시간) 소셜미디어 트루스소셜에 올린 글에서 \"대통령으로서 슈퍼지능(SI·트럼프 대통령이 AI를 대체해 사용하는 표현)을 100% 지지한다\"며 \"SI를 통해 부유해지길 원하는 주들과 적극 협력할 것\"이라고 밝혔다.",
-      "이어 \"SI는 황금 같은 기회\"라며 \"어."
+      "럭셔리 자동차에 '경제성'까지 요구하는 것은 과도한 욕심일까.",
+      "제네시스의 첫 하이브리드 모델 GV80 하이브리드는 이런 물음에 단호히 \"아니다\"고 말한다.",
+      "7000만원대 중반 출고가(개별소비세 5% 기준 7680만원)의 이 모델은 복합연비 12㎞/ℓ(19인치 2WD 5인승 모델 기준)까지 갖춰 높은 경제성을 강조한다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n02374b49",
+    "category": "IT",
+    "source": "아시아경제",
+    "time": "21분 전",
+    "url": "https://view.asiae.co.kr/article/2026110520402188211",
+    "title": "[AI세계속으로]美 중간선거 AI 규제론자 대거 당선…규제 강화 전망",
+    "summary": [
+      "미국 트럼프 행정부의 중간평가 성격을 띤 2026년 중간선거에서 민주당이 대승을 거두면서 글로벌 인공지능(AI) 업계에도 변화가 불가피해졌다.",
+      "AI 규제 방침을 내세운 민주당 후보들이 잇따라 당선되면서 AI 규제 완화 기조를 내세웠던 트럼프 행정부의 정책에 제동이 걸릴 것으로 전망된다.",
+      "7일 IT 업계와 주요 외신 보도를 종합하면 이번 중간선거에서 민주당 다수 후보들은 AI 데이터센터 건설과 첨단 AI 모델 개발을 억제하겠다는 공약을 내세워 승."
     ],
     "chips": [
       "#AI",
@@ -619,16 +607,32 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n156816af",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "55분 전",
-    "url": "https://www.donga.com/news/Inter/article/all/20261107/134982698/1",
-    "title": "존 록펠러 4세 전 웨스트버지니아 주지사 겸 상원의원 별세",
+    "id": "n26dd9401",
+    "category": "경제",
+    "source": "머니투데이",
+    "time": "30분 전",
+    "url": "https://www.mt.co.kr/entertainment/2026/11/07/2026110706040372714",
+    "title": "이기찬, 배두나 덕에 할리우드 진출 기회 \"10년 지나도 고마워\"",
     "summary": [
-      "미국 역사상 가장 부유한 가문을 일군 ‘석유왕’ 존 D.",
-      "록펠러(1839~1937)의 증손자이며 미국 50개 주 중 낙후되고 가난한 지역으로 꼽히는 웨스트버지니아주를 기반으로 평생을 공공 서비스에 헌신한 존 록펠러 4세 전 웨스트버지니아 주지사 겸 상원의원이 6일(현지 시간) 수도 워싱턴 자택에서 타계했다.",
-      "그는 가문의 거대한 부와 명성에 안주하지 않고 가난한 이들을 위한 사회복지 활동에 평생을 헌신했다는 평가를 받고 있다."
+      "가수 겸 배우 이기찬이 배두나 덕분에 할리우드 작품의 오디션을 볼 수 있었던 특별한 인연을 공개했다.",
+      "이기찬은 약 10년 전 배두나가 출연하는 작품에서 남동생 역할에 도전할 기회를 얻었다며 이후에도 할리우드 진출의 꿈을 놓지 않고 꾸준히 오디션을 보고 있다고 전했다.",
+      "6일 방영된 KBS2 '더 시즌즈-성시경의 고막남친' 30회에서는 데뷔 30년 차 이기찬이 게스트로 출연해 해외 연기 활동부터 최근 근황까지 다양한 이야기를 전했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n40cb139a",
+    "category": "스포츠",
+    "source": "머니투데이",
+    "time": "41분 전",
+    "url": "https://www.mt.co.kr/entertainment/2026/11/07/2026110623345379640",
+    "title": "류효영, 이태성 짝사랑 고백…\"기회 놓칠까 봐 용기 냈다\"",
+    "summary": [
+      "배우 류효영이 상대역이었던 배우 이태성에 대한 호감을 고백했다.",
+      "지난 6일 방송된 채널A '신랑수업2'에는 이태성과 전 배구선수 김요한, 배우 류효영과 오연희가 함께한 모임이 공개됐다.",
+      "방송에서 김요한은 1985년생 동갑내기 친구 이태성을 데리러 왔다."
     ],
     "chips": [
       "#뉴스"
@@ -641,20 +645,20 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2330건",
-    "trend": "+255%"
+    "mentions": "2460건",
+    "trend": "+275%"
   },
   {
     "rank": 2,
     "tag": "AI",
-    "mentions": "1680건",
-    "trend": "+155%"
+    "mentions": "1810건",
+    "trend": "+175%"
   },
   {
     "rank": 3,
     "tag": "반도체",
-    "mentions": "1550건",
-    "trend": "+135%"
+    "mentions": "1680건",
+    "trend": "+155%"
   }
 ];
 // ====AUTO-GENERATED-END====
