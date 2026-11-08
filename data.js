@@ -1,11 +1,42 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-11-08 10:52:19
+// 마지막 업데이트: 2026-11-08 16:50:29
 window.NEWS_DB = [
+  {
+    "id": "n236a5b66",
+    "category": "IT",
+    "source": "메트로신문",
+    "time": "10시간 전",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE10QTdvZlV3WEp4WVNXakxsLWs1R3hjRkJMNFA3WXBQd2k5U1lBWGZMNlR2dVJ3UmIyOVd3cVdTTkVxOUloNnpUb2dJQ0hka29ETkQ1ZzhjRElDMmhNM1VPZQ?oc=5",
+    "title": "엔비디아, AI 메모리 설계 영향력 확대…삼전닉스 생산 전략 주목",
+    "summary": [
+      "엔비디아, AI 메모리 설계 영향력 확대…삼전닉스 생산 전략 주목 메트로신문."
+    ],
+    "chips": [
+      "#AI",
+      "#엔비디아"
+    ]
+  },
+  {
+    "id": "n30e1d922",
+    "category": "IT",
+    "source": "뉴스1",
+    "time": "11시간 전",
+    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE4xNmdjRUo3LTJ4Qm9oYUNJekZUdllOS1JzMEgya2lLaXJJUUViOXBpYVNEMC15M0JPb2RTTkk1aUtHck16dUdtZzQ1TWV0RXFFb1p5MVNiVjFmWFZnZlh6NDFiWTc?oc=5",
+    "title": "'中 스파이 연루' 엔비디아…AI·반도체 산업계 영향 '촉각'",
+    "summary": [
+      "'中 스파이 연루' 엔비디아…AI·반도체 산업계 영향 '촉각' 뉴스1."
+    ],
+    "chips": [
+      "#AI",
+      "#반도체",
+      "#엔비디아"
+    ]
+  },
   {
     "id": "nc01a3d5b",
     "category": "IT",
     "source": "브릿지경제",
-    "time": "6시간 전",
+    "time": "12시간 전",
     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9aQVJsYUxiYTFZMTdPWGZuRWV6TlhlSUlLNkszZ29TNFdabGdRUFN5TjdPcTFubk9rSFFIblBwdVEzTkV4X01tSFp0a19xNzMyOVd1d2ViaW9ZQQ?oc=5",
     "title": "엔비디아 생태계 확장 K기업들⋯반도체 넘어 피지컬 AI·로봇으로",
     "summary": [
@@ -18,33 +49,17 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n3e7c44b6",
+    "id": "n179e5770",
     "category": "IT",
-    "source": "이데일리",
-    "time": "6시간 전",
-    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNM3NvQnNiemtjTVdONnJLSFRTWlQ4OHpSSWptYzE3cmh2WTB2Z2xXbGJ2SWxLSFY0SmtiZjg3ek02MmJ6R2lvcmxNSjhlWVpocG5WaWFwakNQSnZVbjk5VXNUSUdYRGU3N0oxMEhnRmJERWxsWFJQRElnck9yNjdwSQ?oc=5",
+    "source": "마켓인",
+    "time": "12시간 전",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5hWTNGdnNBekk2eVpoeDZLOUdWUDJYQjh4MVNfRXNsajEtUDNLMmZPSGRLa0s0TGVvWE9JYTlMR3ZSSlFETGNoM1lDaGZYUjVTRVB1R0ZXOElidlFpZ0dRTFFhdFgtcVpEejE2MXJzNFp0bFE?oc=5",
     "title": "TSMC, HBM 이웃 되나…\"첨단 메모리 직접 생산 검토\"",
     "summary": [
-      "TSMC, HBM 이웃 되나…\"첨단 메모리 직접 생산 검토\" 이데일리."
+      "TSMC, HBM 이웃 되나…\"첨단 메모리 직접 생산 검토\" 마켓인."
     ],
     "chips": [
       "#반도체"
-    ]
-  },
-  {
-    "id": "n9bc19901",
-    "category": "IT",
-    "source": "CBC뉴스",
-    "time": "9시간 전",
-    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB5MXVxUXFjRUgyeWg1bHREQ0VjWWc0UXZpNXpnZG1HWTJTYmZkQ1ZUZl9EUjZ5REZYWGJXSWJqUHJUX0hBQ3JQWTkzUEZ0aS1OalNGQWRUZHJfeXlGbDZNNmY3a19Hd2g3?oc=5",
-    "title": "AMD, 2027년 매출 80% 이상 성장 전망…엔비디아 겨냥 AI 반도체 공급 확대",
-    "summary": [
-      "AMD, 2027년 매출 80% 이상 성장 전망…엔비디아 겨냥 AI 반도체 공급 확대 CBC뉴스."
-    ],
-    "chips": [
-      "#AI",
-      "#반도체",
-      "#엔비디아"
     ]
   },
   {
@@ -82,7 +97,7 @@ window.NEWS_DB = [
     "id": "n3103465f",
     "category": "사회",
     "source": "경충일보",
-    "time": "2일 전",
+    "time": "3일 전",
     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBxZHVDRlIxNDlkM0hHRzVTbXU5Ym1VMGo0NWhMTENkcHo2anRuZ3cySGdUdEZWSzlQZjlRQU5ick9rRF90UmRDaWdaWUVEakpKMTZZV2xGWnM?oc=5",
     "title": "순천향대, 충남 일자리 박람회서 청년 구직자 1대1 취업 상담",
     "summary": [
@@ -91,6 +106,20 @@ window.NEWS_DB = [
     "chips": [
       "#취업",
       "#고용"
+    ]
+  },
+  {
+    "id": "n52102ce4",
+    "category": "IT",
+    "source": "아시아투데이",
+    "time": "6일 전",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5xQktmeTVaVXplNy1pTmRHYVlEekJxVHBDX1BBNFhhS2JyQnVndFNycjRvVmt1UTN6YlFTNnBVUkpFUDZ4OGhkLW9ZLTFueTY2MzV3Ql9qNFFNNmdRMzdiTGtYTXh4UGZVOEZhX1FB?oc=5",
+    "title": "“HBM 없어서 못 판다”… 메모리 3사, 증설 경쟁 본격화",
+    "summary": [
+      "“HBM 없어서 못 판다”… 메모리 3사, 증설 경쟁 본격화 아시아투데이."
+    ],
+    "chips": [
+      "#반도체"
     ]
   },
   {
@@ -105,37 +134,6 @@ window.NEWS_DB = [
     ],
     "chips": [
       "#취업"
-    ]
-  },
-  {
-    "id": "nc5fca548",
-    "category": "IT",
-    "source": "서울이코노미뉴스",
-    "time": "18일 전",
-    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE82UzhNS3BJcHNkcGk1NHR5b2gtMk1Vb1A1MzFlRENqdm9TVWpLbWhNUUR5NFM1MnJ6bzhId2ViMHk1NEVoUUl2bVM5NV9YMERBdWZadlVGblVublRIU0VKWEdYdVFBSjZNMUhqNUtB?oc=5",
-    "title": "삼성·SK하이닉스, 美엔비디아 HBM 공정표준화 요청에 대처…승부처는 1c D램",
-    "summary": [
-      "삼성·SK하이닉스, 美엔비디아 HBM 공정표준화 요청에 대처…승부처는 1c D램 서울이코노미뉴스."
-    ],
-    "chips": [
-      "#반도체",
-      "#엔비디아",
-      "#SK하이닉스"
-    ]
-  },
-  {
-    "id": "n4d7ad5a5",
-    "category": "IT",
-    "source": "비즈니스포스트",
-    "time": "18일 전",
-    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9QYUpXOGVDWEpsZGhtRExsaVhCOHQwQjJ3VE5xQU5iV0R4R0FYdVlTSDUxVEoxa29GUUVzME5ZVXZON1JRYkNPVkRMU1lrTGdGR3RJR3RucndsWWd6djhJZUpSUmt1X0dObzdfLVZBMGxwZzQ?oc=5",
-    "title": "엔비디아 차기 HBM에 TSMC의 3나노 공정 제조 칩 활용 요구, 전영현 HBM 공급 전략 수정 불가피",
-    "summary": [
-      "엔비디아 차기 HBM에 TSMC의 3나노 공정 제조 칩 활용 요구, 전영현 HBM 공급 전략 수정 불가피 비즈니스포스트."
-    ],
-    "chips": [
-      "#반도체",
-      "#엔비디아"
     ]
   },
   {
@@ -360,10 +358,143 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "nedb6f0c0",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "20분 전",
+    "url": "https://www.yna.co.kr/view/AKR20261109001000071",
+    "title": "거대 야당에 강성 백악관까지…韓 정부·기업 '좌표설정' 이중고",
+    "summary": [
+      "(워싱턴=연합뉴스) 박성민 특파원 = 미국 중간선거로 인해 미국 정치권의 지형도가 크게 변화하면서 한국 정부나 기업으로선 향후 대미 정책에서 더..."
+    ],
+    "chips": [
+      "#정책",
+      "#정치"
+    ]
+  },
+  {
+    "id": "n468c1c46",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "23분 전",
+    "url": "https://www.chosun.com/sports/football/2026/11/09/GQYTGNJXGA4TQMTFMNQTGMTGHE/",
+    "title": "또 다시 증명한 이정효, 물방울로 '기대+수원병'이라는 바위를 뚫었다[수원 승격]",
+    "summary": [
+      "[스포츠조선 박찬준 기자]이정효의 축구인생은 늘 벼랑 끝 승부였다.",
+      "그는 무려 100명의 취재진이 함께한 1월 취임 기자회견에서도 이렇게 말했다.",
+      "\"지금도 내가 안되길 바라는 분들이 많다."
+    ],
+    "chips": [
+      "#채용"
+    ]
+  },
+  {
+    "id": "n279acb15",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "23분 전",
+    "url": "https://www.chosun.com/international/international_general/2026/11/09/GA3WMYJYGQ2GGOJWMRSGMMBSGA/",
+    "title": "이집트서 열차 추돌 후 탈선…“최소 4명 숨지고 88명 부상”",
+    "summary": [
+      "이집트 수도 카이로 인근에서 열차 2대가 추돌해 최소 4명이 숨지고 80여명이 다치는 사고가 발생했다.",
+      "8일(현지 시각) 이집트 국영철도청(ENR)에 따르면, 이날 카이로 남부 기자주 카프르 암마르역과 알라카역 사이 구간에서 파이윰으로 향하던 여객열차가 아스완행 열차의 후미를 들이받아 객차 여러 량이 탈선했다.",
+      "이집트 보건부는 이번 사고로 최소 4명이 숨."
+    ],
+    "chips": [
+      "#의료"
+    ]
+  },
+  {
+    "id": "n9d20cbc1",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "23분 전",
+    "url": "https://www.chosun.com/jp/international-jp/2026/11/09/B6Z7ILGGWNFJTCRS7UGBVAL5ZQ/",
+    "title": "カイロ近郊で列車追突・脱線、少なくとも4人死亡・88人負傷",
+    "summary": [
+      "エジプトの首都カイロ近郊で列車2本が追突し、少なくとも4人が死亡、80人余りが負傷する事故が発生した。8日（現地時間）、エジプト国鉄（ENR）によると、同日、カイロ南部ギザ県のカフル・アンマール駅とアラカ駅の間で、ファイユームに向かっていた旅客列車がアスワン行き列車の後部に衝突し、複数の客車が脱線した。エジプト保健省は今回の事故で少なくとも4人が死亡."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nc6375279",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "25분 전",
+    "url": "https://www.yna.co.kr/view/AKR20261109000900087",
+    "title": "엘살바도르군·용병 투입된 아이티…갱단은 사면초가",
+    "summary": [
+      "(멕시코시티=연합뉴스) 송광호 특파원 = 수천 명의 엘살바도르 군과 유엔이 지원하는 갱단진압부대(GSF) 등이 투입된 아이티에서 악명 높은 갱단..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n2963c627",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "26분 전",
+    "url": "https://www.newsis.com/view/NISX20261109_0003859573",
+    "title": "프랑스 외무 \"우크라 종전 회담에 유럽도 참여\"…美·러 밀착 견제",
+    "summary": [
+      "[서울=뉴시스] 이재은 기자 = 프랑스가 미국의 중재로 아랍에미리트(UAE) 아부다비에서 열리는 우크라이나 종전 협상에 유럽 대표단도 참석한다고 밝혔다.",
+      "유럽을 배제한 채 미국과 러시아가 우크라이나 전쟁의 향방을 결정할 수 있다는 우려가 커지자 유럽의 협상 참여 의지를 분명히 한 것이다.",
+      "프랑스24에 따르면 장노엘 바로 프랑스 외무장관은 8일(현지 시간) RTL 라디오 인터뷰에서 \"유럽 국가들은 대표단을 파견할 것이며, 프랑스도 아부다비에서 열."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n03d3dfcf",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "29분 전",
+    "url": "https://www.yna.co.kr/view/AKR20261109000400071",
+    "title": "'측근도 출마 만류' 흔들리는 밴스…디샌티스·크루즈 기지개",
+    "summary": [
+      "(워싱턴=연합뉴스) 박성민 특파원 = 지난 3일(현지시간) 미국 중간선거에서 공화당이 참패하자 JD 밴스 미 부통령은 오랜 측근으로부터 문자 메..."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n39673f23",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "30분 전",
+    "url": "https://www.chosun.com/jp/sports-jp/2026/11/09/HZ4LWE4AYNFYFA4RIR2W6MG5P4/",
+    "title": "307億ウォン捨てMLB挑戦、ノ・シファンが監督に謝罪メール",
+    "summary": [
+      "【OSEN＝宮崎（日本）、チョ・ウンヘ記者】「今はノ・シファンがいる、いないということを考えたくないのだが……」。KBOは先月31日、「ハンファ・イーグルス球団の要請により、ノ・シファン選手をMLB30球団にポスティングするようMLB事務局に要請した」と公式発表した。MLB事務局はノ・シファンをポスティング選手として公示し、韓国時間で来月2日午前7時まで交渉を続け."
+    ],
+    "chips": [
+      "#KBO"
+    ]
+  },
+  {
+    "id": "nbc70f393",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "35분 전",
+    "url": "https://www.yna.co.kr/view/AKR20261108055451079",
+    "title": "이집트서 열차간 추돌후 탈선…정부 \"4명 사망·88명 부상\"(종합)",
+    "summary": [
+      "(카이로=연합뉴스) 김상훈 특파원 = 8일(현지시간) 이집트 수도 카이로 남부 기자주에서 주행 중이던 두 열차가 추돌해 최소 4명이 숨지고 80..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
     "id": "n051ef0c4",
     "category": "스포츠",
     "source": "테크M",
-    "time": "방금 전",
+    "time": "35분 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=157064",
     "title": "[블루 아카이브 5주년] \"우리의 여름은 지금\"...신규 이벤트·메인 스토리 업데이트 예고",
     "summary": [
@@ -376,259 +507,134 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nc1ff2e7c",
-    "category": "부동산",
-    "source": "뉴시스",
-    "time": "2분 전",
-    "url": "https://www.newsis.com/view/NISX20261108_0003859534",
-    "title": "與 \"종부세 기본공제 14억, 실거주 구분 말아야\"…정부에 강력 요구",
-    "summary": [
-      "[서울=뉴시스]신재현 정금민 기자 = 더불어민주당이 8일 1세대 1주택자 종합부동산세 기본 공제액을 거주 여부와 관계없이 14억원으로 적용해야 한다고 정부에 요구했다.",
-      "박성준 수석대변인은 이날 국회 소통관에서 제12차 고위당정협의회 결과 브리핑을 마치고 취재진과 만나 \"당에서 강력하게 주문을 했다\"며 \"한정애 사무총장도 14억원에 대한 부분은 거주, 비거주를 나누지 않는 게 좋겠다는 의견이 있었다\"고 말했다.",
-      "박 수석대변인은 \"내년 7월 주택에."
-    ],
-    "chips": [
-      "#부동산",
-      "#정치"
-    ]
-  },
-  {
-    "id": "nb20f1188",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "6분 전",
-    "url": "https://www.donga.com/news/Politics/article/all/20261108/134985621/1",
-    "title": "靑 신임 국정상황실장에 김태근…2기 참모진 개편 속도",
-    "summary": [
-      "신임 청와대 국정상황실장에 김태근 자치발전비서관이 8일 임명됐다.",
-      "임광현 대통령비서실장 체제로 전환되면서 청와대 2기 참모진 개편이 가속화되고 있다.8일 청와대에 따르면 김정우 전 국정상황실장은 전날 청와대 근무를 마쳤고 이날부터 김 신임 실장이 근무하고 있다.",
-      "국정상황실장은 국정 전반 정보를 취합해 대통령에게 보고하는 청와대 내 핵심 보직 중 하나다."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n23c20e59",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "10분 전",
-    "url": "https://www.donga.com/news/It/article/all/20261108/134987832/1",
-    "title": "강원 인제산지 대설주의보 발효…설악산 적설 2.8㎝",
-    "summary": [
-      "기상청은 8일 오후 7시를 기해 인제산지에 대설주의보를 발효했다고 밝혔다.이날 오후 6시 기준 적설량은 설악산 2.8㎝, 철원 임남 1.9㎝, 향로봉 1.5㎝, 광덕산 0.7㎝, 구룡령 0.2㎝ 등이다.대설주의보는 24시간 동안 내린 눈의 양이 5㎝ 이상으로 예상될 때 내려진다.(강원=뉴스1)."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n6fef3a28",
+    "id": "n0adf6870",
     "category": "스포츠",
-    "source": "동아일보",
-    "time": "12분 전",
-    "url": "https://www.donga.com/news/Sports/article/all/20261108/134987827/1",
-    "title": "‘KS MVP’ 구자욱 “LG는 롤렉스 시계 주던데 우리도 기대하겠다”",
+    "source": "머니투데이",
+    "time": "39분 전",
+    "url": "https://www.mt.co.kr/sports/2026/11/09/2026110823464418810",
+    "title": "'열도 경악' 안세영에 세계 2위 '日 월클 완패' 충격 \"유일한 대항마도 도저히 못 이기네... 아무도 꺾을 수 없을 것\"",
     "summary": [
-      "2015년과 2024년 한국시리즈 준우승.",
-      "두 번의 아픔을 간직한 삼성 라이온즈 구자욱이 주장으로 팀을 이끌며 마침내 우승의 꿈을 이뤘다.",
-      "한국시리즈 최우수선수(MVP)로 선정된 구자욱은 “LG 트윈스는 우승하니까 (한국시리즈 MVP에) 롤렉스 시계를 주더라."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
-    "id": "ne6e2da6d",
-    "category": "부동산",
-    "source": "뉴시스",
-    "time": "13분 전",
-    "url": "https://www.newsis.com/view/NISX20261108_0003859424",
-    "title": "\"집값보다 현금 흐름 봐야\"…부동산 전문가가 짚은 영끌족의 함정",
-    "summary": [
-      "[서울=뉴시스]김성은 인턴 기자 = 대출을 최대한 끌어모아 집을 산 이른바 '영끌족'이라면 금리 상승에 따른 이자 부담과 소득 감소에 대비해야 한다는 조언이 나왔다.",
-      "집값이 오르더라도 매달 갚아야 할 대출금과 생활비를 감당하지 못하면 주택 자체가 부담이 될 수 있다는 것이다.",
-      "7일 구독자 283만명을 보유한 유튜브 채널 '신사임당'에 출연한 김신비 부동산 경공매 전업투자자는 \"지금 이자를 낼 수 있느냐만 보시면 안 되고, 소득이 줄거나 예상하지."
-    ],
-    "chips": [
-      "#부동산",
-      "#금리"
-    ]
-  },
-  {
-    "id": "naebb8f54",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "13분 전",
-    "url": "https://www.yna.co.kr/view/AKR20261108048900001",
-    "title": "국힘, 당정 '미래대응기금 통한 소방지원'에 \"秋 망언 물타기용\"",
-    "summary": [
-      "(서울=연합뉴스) 노선웅 기자 = 국민의힘은 8일 정부·여당이 미래대응기금을 통한 소방 예산 지원을 검토하겠다고 밝힌 데 대해 \"추미애 지사의 ..."
+      "'배드민턴 여제' 안세영(삼성생명)이 사상 최초로 2년 연속 단일 시즌 11승이라는 금자탑을 쌓아 올리며 코리아오픈 왕좌를 되찾자, 숙적 일본 열도마저 경악과 탄식을 금치 못하고 있다.",
+      "세계 2위 야마구치 아카네(일본)마저 안세영의 벽을 넘지 못하자 현지에서는 \"이제 안세영을 막을 선수는 전 세계에 아무도 없다\"는 격양된 반응까지 쏟아졌다.",
+      "세계랭킹 1위 안세영은 8일 전남 여수 진남체육관에서 열린 2026 세계배드민턴연맹(BWF) 월드투어 코."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "nf7197a67",
+    "id": "n202f7cc5",
     "category": "사회",
-    "source": "동아일보",
-    "time": "14분 전",
-    "url": "https://www.donga.com/news/Economy/article/all/20261108/134985631/1",
-    "title": "내 퇴직연금만 제자리? 운용방식 따라 수익률 최대 5.4배差",
+    "source": "아시아경제",
+    "time": "41분 전",
+    "url": "https://view.asiae.co.kr/article/2026110901090734516",
+    "title": "美 '블루 쓰나미'에 트럼프 1조5000억달러 국방 예산 '빨간불'",
     "summary": [
-      "이르면 2028년 상반기(1~6월)부터 전문기관이 여러 기업의 퇴직연금을 한데 묶어 굴리는 ‘기금형 퇴직연금’이 시행되며 542조 원 규모의 퇴직연금 수익률 경쟁이 본격화된다.",
-      "실제 예·적금 같이 원리금을 보장하는 상품과 펀드·채권 등 실적에 따라 성과가 달라지는 상품에 투자했을 때 수익률이 최대 5.4배 차이가 났다.",
-      "앞으로 금융기관들이 수익률 경쟁에 나서며 국민연금, 개인연금과 함께 ‘노후 3층 안전망’으로 꼽히는 퇴직연금의 수익 격차가 더."
+      "미국 민주당이 중간선거에서 의회를 장악화면서 도널드 트럼프 미국 대통령이 추진하는 1조5000억달러(약 2100조원) 규모의 국방예산 증액 계획에 제동이 걸릴 전망이다.",
+      "이란 전쟁에 대한 부정적인 여론이 공화당의 선거 패배로 이어진 가운데 민주당이 대규모 국방비 증액에 반대하면서 트럼프 행정부의 핵심 국방사업도 차질을 빚을 가능성이 커졌다.",
+      "8일(현지시간) 블룸버그통신에 따르면 민주당은 지난 3일 중간선거에서 상·하원 과반 의석을 확보한 이후."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n3e253d13",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "49분 전",
+    "url": "https://www.newsis.com/view/NISX20261106_0003858406",
+    "title": "\"농민들은 제값, 소비자는 할인\"…모두가 웃었다[같이의 가치]",
+    "summary": [
+      "[서울=뉴시스]강은정 기자 = 생산자는 최소한 본전은 받고 싶고 소비자는 최대한 싸게 사고 싶어 한다.",
+      "누구나 알고 있는 이치지만, 현실에서 모두 만족할 수 있는 가격을 찾기란 쉽지 않은 일이다.",
+      "농협경제지주는 이 같은 난제를 7년 전부터 차근차근 해결해 오고 있다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "ne6e23847",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "15분 전",
-    "url": "https://www.newsis.com/view/NISX20261108_0003859530",
-    "title": "홍천 서면 캠핑장서 불…양초 취급 부주의 추정",
+    "id": "nc3fa60ae",
+    "category": "경제",
+    "source": "아시아경제",
+    "time": "1시간 전",
+    "url": "https://view.asiae.co.kr/article/2026110900492830027",
+    "title": "트럼프 \"중간선거 결과로 미국 역사적 후퇴\"",
     "summary": [
-      "[홍천=뉴시스]이덕화 기자 = 강원 홍천군 서면의 한 캠핑장에서 불이 나 텐트 3동과 차량 일부 등이 소실됐다.",
-      "8일 소방당국에 따르면 이날 오전 6시28분께 홍천군 서면 모곡리의 한 캠핑장에서 화재가 발생해 텐트 3동과 차량 일부, 가재도구 등을 태우고 진화됐다.",
-      "소방당국은 양초 취급 부주의로 불이 난 것으로 추정하고 정확한 화재 원인을 조사하고 있다."
+      "도널드 트럼프 미국 대통령이 8일(현지시간) 민주당의 중간선거 압승으로 미국이 역사적인 후퇴를 겪었다고 주장했다.",
+      "중간선거 직후 뉴욕증시가 급락한 것을 민주당의 승리와 연결 지으며 비판한 것이다.",
+      "트럼프 대통령은 이날 자신의 트루스소셜에 \"미국은 지난 선거 결과로 역사적으로 거대한 후퇴를 겪었다\"며 \"트럼프 집권 이후 로켓처럼 치솟았던 주식시장조차 단 하루 만에 3조달러의 손실을 입었다\"고 밝혔다."
     ],
     "chips": [
-      "#뉴스"
+      "#정치"
     ]
   },
   {
-    "id": "nf34b7338",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "19분 전",
-    "url": "https://www.newsis.com/view/NISX20261108_0003859529",
-    "title": "홍천 기도원서 70대 작업자 추락…심정지 병원 이송",
+    "id": "ncd8c74bf",
+    "category": "경제",
+    "source": "머니투데이",
+    "time": "1시간 전",
+    "url": "https://www.mt.co.kr/sports/2026/11/09/2026110823263668713",
+    "title": "\"아빠, 너무 고통스러워\" 24세 유망주 비극, 분명 건강했는데 갑자기 왜... \"도저히 믿을 수가 없다\" 가족마저 오열",
     "summary": [
-      "[홍천=뉴시스]이덕화 기자 = 강원 홍천군 북방면의 한 기도원에서 작업 중이던 70대 남성이 사다리에서 떨어져 심정지 상태로 병원에 이송됐다.",
-      "8일 소방당국에 따르면 이날 오전 11시15분께 홍천군 북방면의 한 기도원에서 작업하던 A(73)씨가 약 3m 높이 사다리에서 추락했다.",
-      "이 사고로 A씨가 심정지 상태에 빠졌으며 두부 골절 등 중상을 입어 출동한 구급대에 의해 홍천지역 병원으로 이송됐다."
+      "사망한 조부를 기리고 파킨슨병 환우들을 돕기 위해 마라톤 풀코스 완주에 도전했던 24세 전직 대학 필드하키 유망주가 결승선을 단 3.5km 남겨두고 쓰러져 숨지는 비극이 일어났다.",
+      "극심한 근육 파괴 속에서도 아버지에게 마지막 문자를 남기며 끝까지 달렸던 청춘의 안타까운 사연이다.",
+      "미국 매체 '폭스 뉴스'는 최근 \"24세의 레이첼 아파가 지난 1일 열린 뉴욕 마라톤에 참가해 달리던 중 희귀 근육 질환에 따른 합병증으로 쓰러져 결국 사망했다\"며 \"."
     ],
     "chips": [
+      "#교육",
       "#의료"
     ]
   },
   {
-    "id": "nf42e966b",
+    "id": "n77a0b333",
+    "category": "경제",
+    "source": "뉴시스",
+    "time": "1시간 전",
+    "url": "https://www.newsis.com/view/NISX20261109_0003859570",
+    "title": "트럼프 \"선거 결과로 美 역사상 후퇴…더 강하게 돌아올 것\"",
+    "summary": [
+      "[서울=뉴시스] 이재은 기자 = 도널드 트럼프 미국 대통령이 중간선거 결과를 두고 미국이 역사적으로 큰 후퇴를 겪었다고 주장했다.",
+      "트럼프 대통령은 8일 트루스소셜에 \"미국은 지난 선거 결과로 역사상 거대한 후퇴를 했다\"고 밝혔다.",
+      "이어 \"트럼프 집권 아래 로켓처럼 치솟았던 주식시장조차 하루 만에 3조 달러의 손실을 입었다\"고 주장했다."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "nfc10db23",
     "category": "IT",
-    "source": "연합뉴스",
-    "time": "19분 전",
-    "url": "https://www.yna.co.kr/view/AKR20261108050600083",
-    "title": "中, AI 악용·선정적 숏폼 드라마 연말까지 집중단속",
+    "source": "동아일보",
+    "time": "1시간 전",
+    "url": "https://www.donga.com/news/Economy/article/all/20261108/134987373/2",
+    "title": "‘블루 쓰나미’ 휩쓸린 美 AI산업, 뒤돌아 웃는 中",
     "summary": [
-      "(베이징=연합뉴스) 한종구 특파원 = 중국 정부가 인공지능(AI)을 활용한 저질·선정적 콘텐츠 등 숏폼 드라마에 대한 특별단속에 나섰다."
+      "미국 중간선거를 민주당이 휩쓴 ‘블루 웨이브’ 여파로 미중 첨단산업 경쟁 구도에 변화가 불가피할 것으로 보인다.",
+      "인공지능(AI) 인프라 확충이 미국에서는 둔화 조짐을 보이는 반면에 중국은 국가 주도로 속도를 내고 있기 때문이다.",
+      "이 과정에서 ‘탈(脫)미국’ 데이터센터 수요를 둘러싼 국가 간 경쟁이 격화될 것이라는 전망도 나온다."
     ],
     "chips": [
-      "#AI"
+      "#AI",
+      "#정치"
     ]
   },
   {
-    "id": "n4fc8fcf7",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "21분 전",
-    "url": "https://www.yna.co.kr/view/AKR20261108050500062",
-    "title": "인제에 올가을 첫 대설주의보…밤사이 1∼5㎝ 추가 적설 예보(종합)",
+    "id": "n00e380c5",
+    "category": "IT",
+    "source": "동아일보",
+    "time": "1시간 전",
+    "url": "https://www.donga.com/news/Economy/article/all/20261108/134987384/2",
+    "title": "110억달러 조달한 ‘오픈AI’… 전체 목표 200억달러로 낮춰",
     "summary": [
-      "(인제=연합뉴스) 양지웅 기자 = 강원 인제군에 올가을 들어 첫 대설특보가 내려졌다."
+      "오픈AI가 신규 투자 유치 목표를 100억 달러 이상 낮췄다.",
+      "미국 중간선거에서 민주당이 압승하면서 인공지능(AI) 규제가 강화될 것이란 우려도 커져, 경쟁사 앤스로픽 역시 상장을 앞두고 기업가치가 낮게 평가되는 등 압박을 받고 있다.",
+      "6일(현지 시간) 로이터통신 등에 따르면 오픈AI는 최근 기업가치 1조2500억 달러를 인정받아 110억 달러를 조달했다."
     ],
     "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nd5cf2487",
-    "category": "경제",
-    "source": "한국경제",
-    "time": "21분 전",
-    "url": "https://www.hankyung.com/article/2026110833847",
-    "title": "조작기소특검에 380억원 이상 투입될 듯",
-    "summary": [
-      "조작기소특검에 380억원 이상 투입될 듯."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n377783d8",
-    "category": "경제",
-    "source": "한국경제",
-    "time": "27분 전",
-    "url": "https://www.hankyung.com/article/2026110833407",
-    "title": "설마 또 '코스피 대탈출'?…외인들 일주일 새 8조 던졌다",
-    "summary": [
-      "설마 또 '코스피 대탈출'?…외인들 일주일 새 8조 던졌다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nf0a5a7be",
-    "category": "스포츠",
-    "source": "연합뉴스",
-    "time": "30분 전",
-    "url": "https://www.yna.co.kr/view/AKR20261108049300007",
-    "title": "강민호와 우승 약속 지킨 '금돼지' 최형우 \"올해 난 100점\"",
-    "summary": [
-      "(대구=연합뉴스) 이대호 기자 = \"예전에는 제게 100점을 준 적이 없는데, 올해는 100점을 줘도 되지 않을까요.",
-      "이 나이에 가을야구에서 수..."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
-    "id": "nf25230e3",
-    "category": "사회",
-    "source": "아시아경제",
-    "time": "40분 전",
-    "url": "https://view.asiae.co.kr/article/2026110819114528768",
-    "title": "[속보] 與 \"정부에 '종부세 14억, 실거주 구분 없이 적용' 강력 요구\"",
-    "summary": [
-      "[속보] 與 \"정부에 '종부세 14억, 실거주 구분 없이 적용' 강력 요구\"."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "ncd3be333",
-    "category": "경제",
-    "source": "한국경제",
-    "time": "48분 전",
-    "url": "https://www.hankyung.com/article/202611071855i",
-    "title": "이창용 섰던 그 자리에 선 日 우에다… 美 흑자 압박에 '반론' 제기[워싱턴나우+]",
-    "summary": [
-      "이창용 섰던 그 자리에 선 日 우에다… 美 흑자 압박에 '반론' 제기[워싱턴나우+]."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n05d964c3",
-    "category": "사회",
-    "source": "아시아경제",
-    "time": "52분 전",
-    "url": "https://view.asiae.co.kr/article/2026110819000807673",
-    "title": "당정 \"소방 필수 투자에 2조원 재정지원…지방부담 완화 검토\"",
-    "summary": [
-      "중앙정부가 소방에 관련된 긴급한 필수 투자를 위해 2조원 수준의 재정지원을 검토하기로 했다.",
-      "더불어민주당과 정부, 청와대는 8일 서울 삼청동 국무총리 공관에서 고위당정협의회를 열어 이러한 지방정부 소방 재정 부담 완화 방안을 논의했다고 박성준 민주당 수석대변인이 국회 브리핑에서 밝혔다.",
-      "현재 소방 예산은 국비 비중이 10% 안팎에 불과하다."
-    ],
-    "chips": [
+      "#AI",
+      "#정책",
       "#정치"
     ]
   }
@@ -638,21 +644,21 @@ window.NEWS_DB = [
 window.KEYWORD_TOP = [
   {
     "rank": 1,
-    "tag": "뉴스",
-    "mentions": "2200건",
-    "trend": "+235%"
+    "tag": "AI",
+    "mentions": "1810건",
+    "trend": "+175%"
   },
   {
     "rank": 2,
-    "tag": "반도체",
-    "mentions": "1680건",
-    "trend": "+155%"
+    "tag": "뉴스",
+    "mentions": "1810건",
+    "trend": "+175%"
   },
   {
     "rank": 3,
-    "tag": "AI",
-    "mentions": "1550건",
-    "trend": "+135%"
+    "tag": "정치",
+    "mentions": "1810건",
+    "trend": "+175%"
   }
 ];
 // ====AUTO-GENERATED-END====
