@@ -1,11 +1,25 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-11-10 16:40:59
+// 마지막 업데이트: 2026-11-10 22:01:46
 window.NEWS_DB = [
+  {
+    "id": "n79c24075",
+    "category": "IT",
+    "source": "Chosunbiz",
+    "time": "6시간 전",
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPUnZXdmI0eHpKMDdsTzA2dGJjTGgxT0VmdkFTN2l1UjlxZWp6THBnS2hzOEd1ZXU2c3hHRl9aOFhZakxsTEVyTW4xbkd6ZkZSMEJIcTM5amllVzdXQ3lfX1VrS0g5MDRfc2EwemtvWlh4UlNXRmtqNG5SR2RNczdUa1F2U09kUU9Q0gGcAUFVX3lxTE9ObER5Sm9WT0NpRzNMTTY3VFFnTGVOV3FNalZvcFJqWnZCOHRpREl2SHhXeTZHSWVNNFlqNjd4X0VJVFZUeEVlWWhOeEMyaHlfaVpWd1pFYWdzUHFORnY2aXhYMnNvUUVBckpIQ2tVaE05TEQ5S3VfRXBUQ1IyYzdiNnIwNFJTbFp1RW13TzZzT19RZEVyc2RscTQ1cA?oc=5",
+    "title": "“떨어진 주가 배상하라” 집단소송 당한 젠슨 황",
+    "summary": [
+      "“떨어진 주가 배상하라” 집단소송 당한 젠슨 황 Chosunbiz."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
   {
     "id": "n22928dff",
     "category": "IT",
     "source": "코리아포스트 한글판",
-    "time": "4시간 전",
+    "time": "9시간 전",
     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5zSUhucFg2bHVWRTNHRl9BUHhLYUFLWlkzbkFpaGRqRmV2aGpZZ3lvUTNRRlNnQ2J1NVdvOGVCX3E5Zi12U2o1bW1MaF9rZjN6RlFaWkZLTEp5UVI5MjFzQ01NcURFaE9qU3ZrUmVB?oc=5",
     "title": "[이슈/ AI 반도체 주도권 경쟁 어디로?] TSMC 10월 매출 60% 급증…삼성전자·SK하이닉스, HBM4 ,메모리·파운드리 동시 공략",
     "summary": [
@@ -19,11 +33,11 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nc3ed4058",
+    "id": "n461d9823",
     "category": "IT",
     "source": "경향신문",
-    "time": "5시간 전",
-    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1lRlBDNmhDVHlIREJLZWV4dzdiRGU3V3VHdXpINjFSUE5FN2lZRlp6TTgyYmQ1RUdxWjl2QUxVOEZtM09Hb29TXzFGSmlJT3dPTlBSQXVzSDhBZw?oc=5",
+    "time": "10시간 전",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1lRlBDNmhDVHlIREJLZWV4dzdiRGU3V3VHdXpINjFSUE5FN2lZRlp6TTgyYmQ1RUdxWjl2QUxVOEZtM09Hb29TXzFGSmlJT3dPTlBSQXVzSDhBZ9IBX0FVX3lxTE51Ym40ejJXT1pNQ0x2Si1SZVNKSlZ6RzZ0ZzlmQm9xUnlhSEUzUGZBMWM4VEY1S01sX0dzOGItX1d0Z243VEJhM2FYcUJNN2FhdTFrQW9hSXJjemx5LURj?oc=5",
     "title": "엔비디아 ‘오너 리스크’ 틈탄 구글, AMD와 AI 생태계 확장",
     "summary": [
       "엔비디아 ‘오너 리스크’ 틈탄 구글, AMD와 AI 생태계 확장 경향신문."
@@ -37,7 +51,7 @@ window.NEWS_DB = [
     "id": "nc24fa463",
     "category": "IT",
     "source": "대전일보",
-    "time": "7시간 전",
+    "time": "12시간 전",
     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBMeDBuSjd5M3JZTGxnSXZ4OE5uOEJWempnOXZLOERSWG9wOElQYmx0OWV5NFI0ODJLVDIwSXhsdldhdDY2QlVKMDFHTGJzcGVET2dyazVPYlRUeDl0OWl5UjRjOGhWeW95VlYwYjBtaw?oc=5",
     "title": "\"AI 지능 원천은 메모리…자본 힘 엔비디아 크지만, 기술적 기회는 삼성\"",
     "summary": [
@@ -52,7 +66,7 @@ window.NEWS_DB = [
     "id": "n42c94e82",
     "category": "IT",
     "source": "오피니언뉴스",
-    "time": "10시간 전",
+    "time": "16시간 전",
     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBVMVQtZlo4c1BsMTJQdjB3NlpNXzJUR3pybV9fTmNCdEpDNm8wTndQNXYtRHkxaGhqVVh6VE91bG9HMFNuWVR6a3Jzd1RzWU4tTDNTV3RlUmFfYVJSV1ZtSDk5emFKcEs1SUREb3VHWVo?oc=5",
     "title": "젠슨 황 논란, 美 의회 '對中 반도체 규제 강화' 급물살…삼성전자·SK하이닉스 기회 될까",
     "summary": [
@@ -66,26 +80,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n2340082e",
-    "category": "IT",
-    "source": "뉴스토마토",
-    "time": "11시간 전",
-    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1PNW92MFg0V3lQUlRwTUtqS0FxWlozQkc2TG5IakZVYThubVFoR1pkTlRTSWtIRjRkRjAzUi0xVmJFSDhtcEZYWF9TMVQxaXpfQXpjRnpDaEhqajdUVmpQaA?oc=5",
-    "title": "구글, 올해만 AI 반도체 4종 출시…타깃은 ‘엔비디아 고객사’",
-    "summary": [
-      "구글, 올해만 AI 반도체 4종 출시…타깃은 ‘엔비디아 고객사’ 뉴스토마토."
-    ],
-    "chips": [
-      "#AI",
-      "#반도체",
-      "#엔비디아"
-    ]
-  },
-  {
     "id": "n3fb2e0ed",
     "category": "IT",
     "source": "뉴스핌",
-    "time": "11시간 전",
+    "time": "16시간 전",
     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE81cmNPVTF6bUpzdnRqQUNRZ05DbWFOQjlkUk1FNEZVSmo0dzBySUhvem9YU0M5MjFUaGpldEw0b1RocXpwRkFFcFhNX3k1XzdBd2NYb1ZsWHZkOFlH?oc=5",
     "title": "테슬라 AI칩에 HBM 추진…삼성·SK하이닉스 납품 각축 예고",
     "summary": [
@@ -101,7 +99,7 @@ window.NEWS_DB = [
     "id": "n3f86cbf5",
     "category": "사회",
     "source": "한국사회적경제신문",
-    "time": "12시간 전",
+    "time": "17시간 전",
     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9fb2drMHVGVXEtTERQVy0tRXJJYkdQclRFQ2sxVGdCeFFWOXI0M0lCTVBSU1dGeHpPSVBVb3gxZ2luendtcERRcWpmUjQwX1RsdzVwRVpIcGU4YTllbldJ?oc=5",
     "title": "“일자리? 여기서 잡(JOB)아!”… 송파구, 5개 기업 50명 현장 채용",
     "summary": [
@@ -110,20 +108,6 @@ window.NEWS_DB = [
     "chips": [
       "#채용",
       "#고용"
-    ]
-  },
-  {
-    "id": "naabb388e",
-    "category": "경제",
-    "source": "비즈한국",
-    "time": "1일 전",
-    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1DTUhCeU9CbEpJYXZGUkdvd050V1o2T0tYLXZISmxJMHNVX2oxS25KSGptbzVScUFrY1N3c2dWZkFNQUM0NlAwcTBMLUJNdlJoTklqanBpbmhQOUdzZWt1RFZJYVpMT1V6RlpmaGtVOHltUHA1TXc?oc=5",
-    "title": "[부동산 인사이트] 코스피 이틀 새 11% 폭락, 부동산은 ‘다음 차례’일까",
-    "summary": [
-      "[부동산 인사이트] 코스피 이틀 새 11% 폭락, 부동산은 ‘다음 차례’일까 비즈한국."
-    ],
-    "chips": [
-      "#부동산"
     ]
   },
   {
@@ -230,6 +214,21 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n34c966ee",
+    "category": "경제",
+    "source": "경북매일",
+    "time": "53일 전",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBiZUtzYWdsdUFXQ19FeTJCNFNtaWQwc3ZIa2c5Z0RpYm03ekpKNTZyZi12Q1dybUlfbEE2YW5nM3JiMnZqREFJRDJZN3FPLWc5VVB1V3J2Y3NFdw?oc=5",
+    "title": "미국 금리 오르면 한국은 어디부터 흔들리나…대출·환율·증시 동시 압박",
+    "summary": [
+      "미국 금리 오르면 한국은 어디부터 흔들리나…대출·환율·증시 동시 압박 경북매일."
+    ],
+    "chips": [
+      "#금리",
+      "#환율"
+    ]
+  },
+  {
     "id": "n9e2a4d38",
     "category": "경제",
     "source": "KB Think",
@@ -333,312 +332,307 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n73f81312",
-    "category": "IT",
-    "source": "테크M",
-    "time": "방금 전",
-    "url": "https://www.techm.kr/news/articleView.html?idxno=157179",
-    "title": "넥슨게임즈 3Q 숨고르기...'던파 키우기' 등 신작 개발 속도",
-    "summary": [
-      "넥슨게임즈가 올해 3분기 게임 매출 하향 안정화가 지속되며 숨고르기를 이어갔다.",
-      "넥슨게임즈는 10일 올해 3분기 매출 386억원, 영업손실 221억원을 기록했다고 밝혔다.",
-      "매출은 전년 동기 대비 22.9% 감소했으며, 영업적자가 지속됐다.부문별 매출은 모바일 109억원, PC·콘솔 261억원, 기타 부문 16억원을 각각 기록했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nebda9b7c",
-    "category": "IT",
-    "source": "테크M",
-    "time": "방금 전",
-    "url": "https://www.techm.kr/news/articleView.html?idxno=157176",
-    "title": "\"업스테이지 선정, 국민 눈높이 맞나\"...野 지적에 정부 '독파모' 재해명",
-    "summary": [
-      "하정우 국가인공지능전략위원회 상근부위원장이 기술고문역을 맡았던 업스테이지가 '독자 AI 파운데이션 모델 개발' 사업에 참여해 5개 주관기업 중 한 곳으로 선정된 일련의 과정이 국민적 상식에 부합하지 않는다는 지적이 또다시 수면으로 부상했다.",
-      "정부는 '독파모' 업체 선정 과정이 공정하게 진행됐다고 재차 의혹을 일축했다.조배숙 국민의힘 의원은 10일 국회 예산결산특별위원회 경제부처 부별심사에서 하 부위원장이 네이버 재직 당시 업스테이지의 기술고문을."
-    ],
-    "chips": [
-      "#AI",
-      "#네이버",
-      "#정치"
-    ]
-  },
-  {
-    "id": "nf15f079d",
-    "category": "IT",
-    "source": "테크M",
-    "time": "방금 전",
-    "url": "https://www.techm.kr/news/articleView.html?idxno=157178",
-    "title": "시프트업 3Q 영업이익 207억원...신작 '프로젝트 스피릿' 공개 연기",
-    "summary": [
-      "시프트업이 3분기 자사 주요 지식재산권(IP) 매출 감소로 인해 실적 하락을 피하지 못했다.",
-      "회사 측은 '스텔라 블레이드' 플랫폼 다각화로 수익성을 개선하는 한편, '스텔라 블레이드: 블러드 레인(블러드 레인)', '프로젝트 스피릿' 등 신작 완성도 극대화에 최선을 다한다는 방침이다.",
-      "시프트업은 10일 올해 3분기 매출 462억원, 영업이익 207억원을 기록했다고 밝혔다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "na4c7dd28",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "10분 전",
-    "url": "https://www.yna.co.kr/view/AKR20261111000251079",
-    "title": "이스라엘 새 의회 개원…연정 물밑 협상도 본격화(종합)",
-    "summary": [
-      "(카이로=연합뉴스) 김상훈 특파원 = 지난달 27일(현지시간) 치러진 총선을 통해 선출된 이스라엘의 제26대 크네세트(의회)가 10일 공식 출범..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "ne4064618",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "10분 전",
-    "url": "https://www.chosun.com/sports/world-baseball/2026/11/11/GEYWMNZVMY2TCOBWMNQWIODBHE/",
-    "title": "\"주전 기용 재고해라\" 충격 평가, 이정후 수비 이렇게 무시하다니…트레이드도 어렵다, 팬 사랑과 잔여 연봉 때문에",
-    "summary": [
-      "[OSEN=이상학 객원기자] 샌프란시스코 자이언츠가 수비를 제대로 강화하려면 이정후(28)를 붙박이 주전으로 쓰지 말아야 한다는 의견이 나왔다.",
-      "현실적으로 트레이드도 어려운 선수라 샌프란시스코의 이정후 활용법에 대한 고민이 클 듯하다.",
-      "미국 ‘디애슬레틱’은 지난 10일(이하 한국시간) 메이저리그 단장회의를 앞두고 샌프란시스코가 해결해야 할 과제를 짚었다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n648410dc",
-    "category": "경제",
-    "source": "조선일보",
-    "time": "12분 전",
-    "url": "https://www.chosun.com/international/international_general/2026/11/11/ME2GGZTGHBTDKYJQGY3WCNJYMY/",
-    "title": "뉴욕증시, 물가 상승 압력에 약세… 3대 지수 하락 출발",
-    "summary": [
-      "미국 뉴욕증시의 3대 주요 지수가 일제히 하락세로 출발했다.",
-      "시장 예상치를 웃돈 10월 소비자물가지수(CPI)와 크리스토퍼 월러 미국 연방준비제도(Fed·연준) 이사의 발언 등이 투자심리에 영향을 미친 것으로 풀이된다.",
-      "10일(현지시각) 오전 11시 16분 기준 뉴욕증권거래소(NYSE)에서 다우존스30산업평균지수는 전 거래일보다 339.95포인트(0.65."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nc443c083",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "13분 전",
-    "url": "https://www.yna.co.kr/view/AKR20261111002000085",
-    "title": "미 국무 \"이란에 대한 대규모 군사작전 지금은 필요 없어\"",
-    "summary": [
-      "(런던=연합뉴스) 김지연 특파원 = 마코 루비오 미국 국무장관이 10일(현지시간) 이란에 대한 대규모 군사 작전이 지금으로선 필요하지 않다고 말..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nb8babd63",
+    "id": "n19f4061d",
     "category": "스포츠",
     "source": "머니투데이",
-    "time": "13분 전",
-    "url": "https://www.mt.co.kr/sports/2026/11/11/2026111019495589379",
-    "title": "[오피셜] '김도영 유격수 마침내 현실화' KIA 전격 초빙한 주인공 누구? WBC 日 대표팀 코치가 왔다",
+    "time": "방금 전",
+    "url": "https://www.mt.co.kr/sports/2026/11/11/2026111101554847158",
+    "title": "\"할머니가 한국인... 韓 대표로 뛰고 싶었다\" 태극마크 끝내 못 단 한국계 3세, 1512억 대박 계약→ML 신인왕 3위로 우뚝",
     "summary": [
-      "현역 시절 좋은 수비력을 보여줬던 소요기 에이신이 KIA 타이거즈 인스트럭터로 나선다.",
-      "KIA는 \"오키나와 마무리 캠프 훈련에 일본프로야구(NPB) 출신 소요기 에이신을 수비 인스트럭터로 초빙한다\"고 공식 발표했다.",
-      "소요기 에이신은 2006년 히로시마 도요카프에 입단해 2017년까지 11년간 현역 선수로 활약한 후 은퇴했다."
+      "한국계 3세 JJ 웨더홀트(24·세인트루이스 카디널스)가 빅리그 첫 시즌부터 강렬한 존재감을 남겼다.",
+      "태극마크의 꿈은 이루지 못했으나, 메이저리그(MLB) 데뷔 첫해 내셔널리그(NL) 신인왕 투표에서 3위까지 올랐다.",
+      "메이저리그 공식 홈페이지 MLB.com은 10일(한국시간) 미국야구기자협회(BBWAA)가 선정한 2026 양대 리그 신인왕 투표 결과를 공개했다."
     ],
     "chips": [
       "#KBO"
     ]
   },
   {
-    "id": "n56f93a23",
-    "category": "경제",
-    "source": "한국경제",
-    "time": "14분 전",
-    "url": "https://www.hankyung.com/article/202611118709i",
-    "title": "美 물가 예상 웃돌자 국채금리 급등…12월 '빅스텝' 부상 [월가 업&다운]",
+    "id": "n50e504fc",
+    "category": "스포츠",
+    "source": "머니투데이",
+    "time": "1분 전",
+    "url": "https://www.mt.co.kr/sports/2026/11/11/2026111019171485903",
+    "title": "대한체육회, 빌리브세웅병원과 업무협약 체결... 김택수 선수촌장 \"긴밀한 협력 체계 구축해 나가길 기대\"",
     "summary": [
-      "美 물가 예상 웃돌자 국채금리 급등…12월 '빅스텝' 부상 [월가 업&다운]."
+      "대한체육회(회장 유승민)가 10일 빌리브세웅병원과 국가대표 선수 및 지도자, 대한체육회 임직원에 대한 의료서비스 지원을 위한 업무협약을 체결했다.",
+      "협약식은 이날 오후 1시 진천 국가대표선수촌 행정동에서 김택수 국가대표선수촌장, 김정민 빌리브세웅병원 경영기획본부장 등 양 기관 관계자들이 참석한 가운데 열렸다.",
+      "대한체육회는 빌리브세웅병원에 관해 \"부산광역시 동래구에 위치한 종합병원으로, 16개의 진료과 및 스포츠재활센터를 운영하고 있다\"며 \"특히."
+    ],
+    "chips": [
+      "#의료"
+    ]
+  },
+  {
+    "id": "nfce65536",
+    "category": "스포츠",
+    "source": "뉴시스",
+    "time": "1분 전",
+    "url": "https://www.newsis.com/view/NISX20261110_0003862712",
+    "title": "'축제는 끝났다' 삼성, 큰 숙제 마주한다…'구자욱·원태인 잡아라'",
+    "summary": [
+      "[서울=뉴시스]김희준 기자 = 축제는 끝났다.",
+      "12년 만에 한국시리즈(7전 4선승제) 우승 트로피를 들어올린 삼성 라이온즈는 스토브리그 개막과 동시에 최대 과제를 마주한다.",
+      "프랜차이즈 스타이자 삼성이 12년 만에 한국시리즈 정상에 서는데 중추적인 역할을 한 구자욱과 원태인을 눌러앉혀야 하는 숙제를 안았다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n0d266a23",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "1분 전",
+    "url": "https://www.newsis.com/view/NISX20261110_0003862716",
+    "title": "에너지바우처 예산 500억 남는데…기초수급 10곳 중 3곳 지원 못받아",
+    "summary": [
+      "[세종=뉴시스]손차민 기자 = 올해 에너지바우처 예산 가운데 약 500억원이 불용될 것으로 예상된다.",
+      "예산이 남아돌고 있으나, 정작 지원이 필요한 기초생활수급 가구 10곳 중 3곳은 에너지바우처를 받지 못하는 것으로 나타났다.",
+      "소득 기준을 충족하더라도 노인이나 영유아, 장애인 등 세대원 요건까지 갖춰야 바우처를 받을 수 있기 때문이다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n7be058ee",
+    "category": "IT",
+    "source": "뉴시스",
+    "time": "1분 전",
+    "url": "https://www.newsis.com/view/NISX20261110_0003862812",
+    "title": "'5천피 이탈' 겪은 코스피…증권가 '바닥론' 공방 팽팽",
+    "summary": [
+      "[서울=뉴시스] 김진아 임다빈 기자 = 코스피가 미국 중간선거 직후 후폭풍으로 한때 5000선을 이탈하는 등 연쇄 급락세를 이어가다 반등에 성공한 가운데, 극심한 변동성에 놓인 증시 향방을 둘러싼 논쟁이 이어지고 있다.",
+      "최근 급락을 기점으로 지수가 바닥을 다진 만큼 저가 매수가 유효하다는 의견이 제기되는 반면, 시장에 잔존하는 인공지능(AI) 투자 관련 우려가 잦아들 때까지 신중히 접근해야 한다는 전망이 공존하는 상황이다."
+    ],
+    "chips": [
+      "#AI",
+      "#정치"
+    ]
+  },
+  {
+    "id": "nfafcff5f",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "1분 전",
+    "url": "https://www.newsis.com/view/NISX20261110_0003862021",
+    "title": "Sh수협은행, 오늘 4차 행추위…차기 은행장 결정되나",
+    "summary": [
+      "[서울=뉴시스] 이정필 기자 = Sh수협은행의 차기 은행장 선정을 위한 4번째 회의가 11일 열린다.",
+      "이번에도 결론이 안 날 경우 향후 일정상 후보군 재공모 절차에 들어갈 전망이다.",
+      "금융권에 따르면 수협은행은 이날 오후 4차 은행장추천위원회(행추위)를 진행할 예정이다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n23d4c1b3",
+    "category": "경제",
+    "source": "머니투데이",
+    "time": "1분 전",
+    "url": "https://www.mt.co.kr/world/2026/11/11/2026111106403922694",
+    "title": "예상 웃돈 물가에 젠슨황 여진까지…기술주 또 휘청[뉴욕마감]",
+    "summary": [
+      "뉴욕증시 3대 지수가 10일(현지시간) 시장 예상치를 웃도는 10월 물가 지표 영향으로 일제히 하락했다.",
+      "이날 뉴욕증권거래소에서 S&P500지수는 전장보다 29.01포인트(0.38%) 하락한 7520.93에, 나스닥종합지수는 187.26포인트(0.74%) 하락한 2만5065.87에 각각 거래를 마쳤다.",
+      "다우존스30산업평균지수도 전장보다 157.86포인트(0.30%) 떨어진 5만2231.89에 마감했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "naa630897",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "4분 전",
+    "url": "https://www.chosun.com/international/us/2026/11/11/EFRZWGAMSJAKHOAY37Z2CYILEA/",
+    "title": "젠슨황 스캔들 파장 확산… “트럼프, 5월 ‘中스파이 연루’ 보고 받아”",
+    "summary": [
+      "젠슨황 스캔들 파장 확산… “트럼프, 5월 ‘中스파이 연루’ 보고 받아”."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n93093300",
+    "category": "IT",
+    "source": "동아일보",
+    "time": "4분 전",
+    "url": "https://www.donga.com/news/Inter/article/all/20261111/135003336/1",
+    "title": "美 민주, 아마존·애플·구글 등 ‘트럼프 기부’ 빅테크 전방위 조사",
+    "summary": [
+      "미국 중간선거에서 상·하원을 모두 휩쓸며 압승을 거둔 민주당이 도널드 트럼프 미국 대통령과 유착 의혹이 제기되는 대기업들을 상대로 즉각적이고 전방위적인 조사에 착수했다.",
+      "민주당은 주요 기업들에 조사 서한을 보내 새 의회 개회 첫날인 내년 1월 4일까지 관련 자료를 제출하도록 요구했다.",
+      "10일(현지시간) 월스트리트저널(WSJ)에 따르면 민주당은 트럼프 대통령의 정책 사업 및 재단, 취임식에 거액을 기부한 대기업을 상대로 정경유착 의혹을 규명하기."
+    ],
+    "chips": [
+      "#정책",
+      "#정치"
+    ]
+  },
+  {
+    "id": "n28299ae0",
+    "category": "IT",
+    "source": "머니투데이",
+    "time": "7분 전",
+    "url": "https://www.mt.co.kr/world/2026/11/11/2026111106370882172",
+    "title": "코어위브, 매출·손실 모두 급증세…실적 전망 상향에 주가 약 2% 상승",
+    "summary": [
+      "네오클라우드인 코어위브가 10일(현지시간) 장 마감 후 시장 예상보다 좋은 올 3분기 실적을 발표하면서 시간외거래에서 주가가 상승하고 있다.",
+      "코어위브는 올 3분기 매출액이 36억6000만달러로 전년 동기 대비 168% 급증했다고 밝혔다.",
+      "이는 LSEG가 집계한 애널리스트들의 전망치 35억5000만달러를 웃도는 것이다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nf9e769b2",
+    "category": "경제",
+    "source": "동아일보",
+    "time": "10분 전",
+    "url": "https://www.donga.com/news/Inter/article/all/20261111/135003318/1",
+    "title": "美 10월 물가도 예상치 상회…12월 FOMC ‘빅스텝’도 거론",
+    "summary": [
+      "9월에 이어 미국의 10월 소비자물가지수(CPI)가 시장 예상을 웃돌면서 인플레이션 확대 우려가 커지고 있다.",
+      "같은 날 미 연방준비제도(Fed·연준) 고위 인사들이 12월 기준금리를 한 번에 0.5%포인트 올리는 ‘빅스텝’ 가능성까지 거론하면서 미 국채금리가 급등하고 뉴욕 증시도 하락세를 나타냈다.10일(현지 시간) 미 노동통계국에 따르면 10월 CPI는 전월 대비 0.4% 상승해 시장 전망치(0.3%)를 웃돌았다.",
+      "변동성이 큰 식품과 에너지를."
     ],
     "chips": [
       "#금리"
     ]
   },
   {
-    "id": "n2008686b",
-    "category": "부동산",
-    "source": "한국경제",
-    "time": "15분 전",
-    "url": "https://www.hankyung.com/article/2026111086411",
-    "title": "국내 첫 '지분적립형' 청약 100대 1",
-    "summary": [
-      "국내 첫 '지분적립형' 청약 100대 1."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n1cefbee1",
+    "id": "n088086dd",
     "category": "사회",
     "source": "연합뉴스",
-    "time": "17분 전",
-    "url": "https://www.yna.co.kr/view/AKR20261111001800109",
-    "title": "젤렌스키, 3자 종전협상에 \"건설적이고 실질적\" 평가",
+    "time": "10분 전",
+    "url": "https://www.yna.co.kr/view/AKR20261111013400004",
+    "title": "강남 구룡마을서 또 화재…소방 진화 작업 중",
     "summary": [
-      "(로마=연합뉴스) 민경락 특파원 = 미국의 중재로 10일(현지시간) 9개월 만에 재개된 러시아·우크라이나 간 종전협상에서 포로 석방, 우크라이나..."
+      "(서울=연합뉴스) 윤민혁 기자 = 11일 새벽 서울 강남구 개포동 구룡마을에서 또다시 불이 나 소방 당국이 진화에 나섰다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "nc927b34d",
+    "id": "n1203d41c",
     "category": "스포츠",
     "source": "조선일보",
-    "time": "20분 전",
-    "url": "https://www.chosun.com/sports/world-baseball/2026/11/11/MJSTENDFMIYGIY3GMM2WGZLFMM/",
-    "title": "'키움 복귀 전격 무산?' 세상에 이런 대반전이 있나 \"핵심 역할 맡길 예정\"",
+    "time": "11분 전",
+    "url": "https://www.chosun.com/sports/football/2026/11/11/G4ZDSN3EGVSGCYRYMM4TSMRXGA/",
+    "title": "“너무 들뜨지 않았으면 좋겠다”…이정효 감독, 수원삼성 승격행사도 생략 요청 “팬들도 더 높은 곳 바라봤으면”",
     "summary": [
-      "[스포츠조선 나유리 기자]이러면 한국에 올 이유가 전혀 없다.",
-      "김하성이 미국에서 새로운 팀을 찾을 수 있을 것으로 보인다.",
-      "미국 'NBC스포츠 필라델피아' 짐 샐리스버리 기자는 10일(이하 한국시각) \"소식통에 따르면 필라델피아 필리스가 FA 내야수 김하성 영입에 중점을 두고 있다."
+      "[OSEN=서정환 기자] 3년 만에 K리그1 승격이라는 목표를 달성한 이정효 감독이 기쁨에 취하기보다 더 높은 곳을 바라봤다.이정효 감독은 수원삼성의 승격을 자축하는 행사까지 생략하며 선수단과 팬들에게 냉정한 현실 인식을 주문했다.",
+      "1부리그 복귀는 끝이 아니라 새로운 출발이라는 메시지다.수원삼성은 지난 8일 수원월드컵경기장에서 열린 하나은행 K리그2 202."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "nb613a28a",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "21분 전",
-    "url": "https://www.newsis.com/view/NISX20261111_0003862919",
-    "title": "후티 반군 \"사우디 수도 공항·아람코 시설 등 공격 \"",
+    "id": "n0ef5a100",
+    "category": "IT",
+    "source": "연합뉴스",
+    "time": "19분 전",
+    "url": "https://www.yna.co.kr/view/AKR20261111011500071",
+    "title": "\"트럼프, 5월 중국행전용기서 '젠슨황 中스파이 연루' 보고받아\"",
     "summary": [
-      "[서울=뉴시스] 김예진 기자 = 예멘의 친이란 후티 반군이 사우디아라비아 수도 리야드의 국제공항과 금융 중심지, 아브카이크의 아람코 석유시설 등을 공격했다고 10일(현지 시간) 주장했다.",
-      "이라크 샤파크뉴스에 따르면 후티 반군의 야히야 사리 군사 대변인은 이날 소셜미디어 엑스(X·옛 트위터)를 통해 탄도미사일과 드론(무인기)를 동원해 4차례 군사작전을 수행했다고 밝혔다.",
-      "그는 첫 번째 작전에서 리야드의 킹칼리드 국제공항과 동서 송유관의 여러 펌프."
+      "(워싱턴=연합뉴스) 이유미 특파원 = 도널드 트럼프 미국 대통령이 지난 5월 중국으로 가던 전용기 에어포스원에서 젠슨 황 엔비디아 최고경영자(C..."
     ],
     "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n95185129",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "21분 전",
-    "url": "https://www.chosun.com/entertainments/broadcast/2026/11/11/GA3WEOLGHAYDINBSGY4WEOLDGI/",
-    "title": "데이트 또 포착..이광수♥이선빈, 9년 차 커플의 '부부 바이브' [핫피플]",
-    "summary": [
-      "[OSEN=김수형 기자] 배우 이광수와 이선빈이 한강 데이트에 이어 또 한 번 데이트 목격 사진으로 화제를 모으고 있다.",
-      "공개 열애 9년 차에도 변함없이 함께하는 두 사람의 자연스러운 모습이 눈길을 끈다.최근 온라인 커뮤니티를 중심으로 이광수와 이선빈의 데이트 모습이라는 사진들이 공유됐다.",
-      "쇼핑몰과 매장, 해외 거리 등에서 두 사람이 함께 시간을 보내는 모."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "na8f72ac6",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "25분 전",
-    "url": "https://www.newsis.com/view/NISX20261111_0003862920",
-    "title": "美국무 \"이란 대규모 공격 필요없다…경제적 압박 심화\"",
-    "summary": [
-      "[워싱턴=뉴시스] 이윤희 특파원 = 마코 루비오 미국 국무장관이 10일(현지 시간) 이란과 관련해 \"경제적 압박이 너무나도 치명적이어서 현재로서는 대규모 전투작전을 펼칠 필요가 전혀 없다\"고 밝혔다.",
-      "루비오 장관은 이날 프랑스 파리에서 열린 주요 7개국(G7) 외무장관회의 후 기자들과 만나 이같이 말하며 \"대통령도 지난 며칠동안 그런 취지의 얘기를 했고, 오늘 이곳에서 우리 동맹국들에게도 바로 그점을 전달했다\"고 설명했다."
-    ],
-    "chips": [
+      "#엔비디아",
       "#정치"
     ]
   },
   {
-    "id": "n8b33d98c",
-    "category": "스포츠",
-    "source": "머니투데이",
-    "time": "29분 전",
-    "url": "https://www.mt.co.kr/sports/2026/11/11/2026111018392718336",
-    "title": "[오피셜] 드디어 '숙명의 한일전 열린다' 2026 APBC 중계 어디서 보나",
-    "summary": [
-      "2026 아시아 프로야구 챔피언십(APBC)의 국내 TV 및 OTT 중계사와 극장 생중계 계획이 확정됐다.",
-      "오는 12일 일본 도쿄돔에서 막을 올리는 이번 대회는 KBO 리그를 중계하는 TV 채널과 OTT 플랫폼은 물론, 극장에서도 생생하게 만나볼 수 있다.",
-      "한국야구위원회(KBO)는 \"TV 중계는 KBO 리그 중계 방송사인 KBSN스포츠, MBC스포츠플러스, SBS스포츠와 SPOTV 채널을 통해 대한민국 대표팀이 출전하는 4경기를 포함한 대회 전."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
-    "id": "n8b7cf5de",
+    "id": "n26b95662",
     "category": "사회",
     "source": "연합뉴스",
-    "time": "38분 전",
-    "url": "https://www.yna.co.kr/view/AKR20261111001000099",
-    "title": "'월드컵 돌풍' 카보베르데 15일 대선…첫 여성 후보 도전",
+    "time": "22분 전",
+    "url": "https://www.yna.co.kr/view/AKR20261111012400064",
+    "title": "영동 공장서 펜스 설치하던 50대, 7ｍ 아래 구덩이 추락해 중상",
     "summary": [
-      "(요하네스버그=연합뉴스) 나확진 특파원 = 서부 아프리카 섬나라 카보베르데가 오는 15일(현지시간) 대통령 선거를 실시한다."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "ncc1c0aeb",
-    "category": "사회",
-    "source": "머니투데이",
-    "time": "39분 전",
-    "url": "https://www.mt.co.kr/sports/2026/11/11/2026111019180236780",
-    "title": "'충격' 하룻밤 사이 '금메달 박탈' 피해 선수 '반전 근황'... 대통령까지 만났다 \"미칠 것 같은 기분\"",
-    "summary": [
-      "초유의 금메달 박탈 사태 피해자가 국가의 위로를 받았다.",
-      "지도자들의 치명적인 행정 미숙으로 공식 금메달을 어처구니없이 인정받지 못했던 야스미나 톡산바예바(21·카자흐스탄)가 카자흐스탄 국가 훈장을 수여받았다.",
-      "카자흐스탄 매체 '카진폼'은 10일(한국시간) \"카심조마르트 토카예프 대통령이 제20회 아이치·나고야 아시안게임 및 제5회 장애인아시안게임 입상자들에게 국가 훈장을 수여하는 법령에 서명했다\"고 대통령궁 언론 발표를 인용해 보도했다."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n2900a2e5",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "39분 전",
-    "url": "https://www.newsis.com/view/NISX20261110_0003862323",
-    "title": "빼빼로데이 달콤한 유혹…아이 평생 쓸 치아 위협",
-    "summary": [
-      "[서울=뉴시스] 류난영 기자 = 빼빼로데이는 매년 11월 11일 초콜릿 과자인 빼빼로를 주고받는 기념일이다.",
-      "숫자 1111이 네 개의 빼빼로를 세워 놓은 모양을 닮았다는 점에서 유래했다.",
-      "하지만 단 것을 지나치게 많이 먹을 경우 조심해야 할 것이 있다."
-    ],
-    "chips": [
-      "#의료",
-      "#환경"
-    ]
-  },
-  {
-    "id": "n83fb18ee",
-    "category": "스포츠",
-    "source": "아시아경제",
-    "time": "40분 전",
-    "url": "https://view.asiae.co.kr/article/2026111017484902086",
-    "title": "세계랭킹 3위 유해란, 3승 도전…'부상 후유증은 없다'",
-    "summary": [
-      "세계랭킹 3위 유해란이 시즌 3승에 도전한다.",
-      "유해란은 13일(한국시간) 미국 플로리다주 벨에어의 펠리컨 골프 클럽(파70·6349야드)에서 열리는 미국여자프로골프(LPGA) 투어 디 안니카 드리븐에 출전한다.",
-      "'골프 전설' 안니카 소렌스탐(스웨덴)이 호스트로 나서는 대회다."
+      "(영동=연합뉴스) 김형우 기자 = 10일 오후 1시 6분께 충북 영동군 용산면 백자전리의 한 공장에서 펜스 설치 작업을 하던 50대 남성 노동자..."
     ],
     "chips": [
       "#뉴스"
+    ]
+  },
+  {
+    "id": "n4bb3c9e2",
+    "category": "IT",
+    "source": "동아일보",
+    "time": "26분 전",
+    "url": "https://www.donga.com/news/Inter/article/all/20261111/135003308/1",
+    "title": "美상원 민주당 원내대표 “트럼프, 젠슨 황 두둔은 안보 직무유기”",
+    "summary": [
+      "척 슈머 민주당 상원 원내대표가 중국 정보기관 첩자 연루 의혹을 받는 젠슨 황 엔비디아 최고경영자(CEO)를 두둔한 도널드 트럼프 미국 대통령을 향해 “국가 안보 직무 유기”라며 강도 높은 비판과 함께 철저한 진상 규명을 요구했다.로이터 통신에 따르면 슈머 원내대표는 10일(현지 시간) 성명을 통해 트럼프 대통령이 이미 1년 전 젠슨 황 CEO와 중국계 스파이 의혹 여성(앨리스 황)과의 부적절한 관계를 보고받았음에도 아무런 국가 안보 조치를 취."
+    ],
+    "chips": [
+      "#엔비디아",
+      "#정치"
+    ]
+  },
+  {
+    "id": "n44b02a8b",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "26분 전",
+    "url": "https://www.yna.co.kr/view/AKR20261111011900062",
+    "title": "울진 축산항 인근 해상서 어선 불…동해해경청, 승선원 4명 구조",
+    "summary": [
+      "(동해=연합뉴스) 강태현 기자 = 동해지방해양경찰청은 새벽 조업 중이던 어선에서 화재가 발생해 인근 어선과 함께 승선원 4명을 구조했다고 11일..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n95eef8b9",
+    "category": "경제",
+    "source": "연합뉴스(경제)",
+    "time": "46분 전",
+    "url": "https://www.yna.co.kr/view/AKR20261110133700030",
+    "title": "올해 가장 많이 오른 외식 메뉴는 김밥…생선회·도시락도 상승",
+    "summary": [
+      "(서울=연합뉴스) 정수연 기자 = 올해 주요 외식 메뉴 가운데 가격이 가장 가파르게 오른 것은 김밥으로 나타났다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n77c82274",
+    "category": "경제",
+    "source": "연합뉴스(경제)",
+    "time": "48분 전",
+    "url": "https://www.yna.co.kr/view/AKR20261111008700072",
+    "title": "국제유가 하락세 지속…8월 31일 이후 최저",
+    "summary": [
+      "(뉴욕=연합뉴스) 김연숙 특파원 = 10일(현지시간) 국제유가가 하락세를 이어가며 8월 31일 이후 최저 수준으로 내려갔다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n59c9d4e8",
+    "category": "IT",
+    "source": "ZDNet Korea",
+    "time": "51분 전",
+    "url": "https://zdnet.co.kr/view/?no=20261111061014",
+    "title": "퀀티넘, 캔터 컨버전스 제4회 암호화폐•핀테크•AI•에너지 인프라 콘퍼런스 참가",
+    "summary": [
+      "[지디넷코리아] 브룸필드, 콜로라도, 2026년 11월 11일 /PRNewswire/ -- 양자컴퓨팅 선도 기업 퀀티넘(Quantinuum Inc., 나스닥: QNT, 이하 '회사')의 경영진이 2026년 11월 10일부터 12일까지 플로리다주 마이애미에서 열리는 캔터 컨버전스 제4회 연례 암호화폐•핀테크•AI•에너지 인프라 콘퍼런스(Cantor Convergence 4th Annual Crypto, FinTech, AI & Energy Inf."
+    ],
+    "chips": [
+      "#AI"
     ]
   }
 ];
@@ -648,8 +642,8 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2590건",
-    "trend": "+295%"
+    "mentions": "2720건",
+    "trend": "+315%"
   },
   {
     "rank": 2,
@@ -659,9 +653,9 @@ window.KEYWORD_TOP = [
   },
   {
     "rank": 3,
-    "tag": "KBO",
-    "mentions": "1550건",
-    "trend": "+135%"
+    "tag": "엔비디아",
+    "mentions": "1420건",
+    "trend": "+115%"
   }
 ];
 // ====AUTO-GENERATED-END====
