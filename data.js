@@ -1,34 +1,18 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-11-11 09:59:17
+// 마지막 업데이트: 2026-11-11 17:43:38
 window.NEWS_DB = [
   {
-    "id": "nc36e722e",
+    "id": "n01d52fa1",
     "category": "IT",
-    "source": "비즈니스포스트",
-    "time": "2시간 전",
-    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1hOU1sZ1M3ODNhb3duTmRvN2JsaUNGdzVRUENHY0p5LXdUQWJ3ZHVkcmRQWUtkRG9Fc184Q0swZ2c0NVhfTlpDZDFNQlR1UlVmUm9UbmxRdm1rRWlrTUhnOGxfNjFPckI2VGtkelpWd2MxNHc?oc=5",
-    "title": "외신 \"엔비디아 H200 블랙리스트 오른 중국 군 연계 대학이 구입, 미국 정부 수출통제에 허점\"",
+    "source": "한겨레",
+    "time": "8시간 전",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBUdUJ5MnNoaXJXYmttbEZBOVlRSlpDQjV1eFpKeXBmRmc5bmkxQy1JYVhHdGplMGoxY2FJUVYzZWJCRHdSUXBfOEZoSVV2WWdLbGs0YnVjRzl6VUwyOWZidEwzek1leWtRUnc?oc=5",
+    "title": "[사설] 국내 AI 생태계, 엔비디아 과도한 의존 줄여야",
     "summary": [
-      "외신 \"엔비디아 H200 블랙리스트 오른 중국 군 연계 대학이 구입, 미국 정부 수출통제에 허점\" 비즈니스포스트."
+      "[사설] 국내 AI 생태계, 엔비디아 과도한 의존 줄여야 한겨레."
     ],
     "chips": [
-      "#엔비디아",
-      "#수출",
-      "#교육"
-    ]
-  },
-  {
-    "id": "nc7973e4b",
-    "category": "IT",
-    "source": "이데일리",
-    "time": "5시간 전",
-    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNRFpreEw3WEdzWG5aZjYyZHNOaVg4WXRzbnNjOVNlZHdEVHh4eFl6cENCR3BnOXlJVDVKVS15N2dfTGkyTkk4ckdYbDJCZ0tjcWVEdDI4Y3FVTVFvbncxMFRIemxSMGRBQWF1TFJFcVBQUnNFamE4dmNGbVI1T0JxZw?oc=5",
-    "title": "“엔비디아 주춤할 때”…‘최대 4조원’ 알리바바 반도체 증시 추진",
-    "summary": [
-      "“엔비디아 주춤할 때”…‘최대 4조원’ 알리바바 반도체 증시 추진 이데일리."
-    ],
-    "chips": [
-      "#반도체",
+      "#AI",
       "#엔비디아"
     ]
   },
@@ -36,7 +20,7 @@ window.NEWS_DB = [
     "id": "n2b5941f8",
     "category": "사회",
     "source": "더펜뉴스",
-    "time": "7시간 전",
+    "time": "15시간 전",
     "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBTejlKTVB3cVFiY0s2Z0txT3ItZ3A3MVdvSUgwRWZwejdsclVkMVJWZURaMUZtUnZfX0VWN0NpaXpOamhaNGtmSGdpRm9BSlQ0Z3BSaks2cTQ1UHJYOVRWU3hUQQ?oc=5",
     "title": "장수군, 18일 구인·구직 만남의 날…지역 기업·기관 8곳 채용 나서",
     "summary": [
@@ -48,25 +32,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "ncfd22bd1",
-    "category": "IT",
-    "source": "전자신문",
-    "time": "10시간 전",
-    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBQa1czM1NFOTdvdXViZG9reWNXQU5uV2NjNnI2ZUFrLVhlVVhGSXlGdDBONzJWTXRWMVNPTm9FeEZ0QVFPcmRjWWVJSnBwZw?oc=5",
-    "title": "“젠슨 황 외도 상대 앨리스 황, 10조원 엔비디아 AI칩 中 밀반입”",
-    "summary": [
-      "“젠슨 황 외도 상대 앨리스 황, 10조원 엔비디아 AI칩 中 밀반입” 전자신문."
-    ],
-    "chips": [
-      "#AI",
-      "#엔비디아"
-    ]
-  },
-  {
     "id": "n3226ed4b",
     "category": "IT",
     "source": "월요신문",
-    "time": "10시간 전",
+    "time": "18시간 전",
     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE81eFg2NTdnTy1tcjdKSzBOMm1jeTY1SVpOeGZZYlRHcDlORzdxUFFNY3BEaXU3MEEzenMxWHJMNlNqeE5acHB1X3R2aGlUWmUzaFR3cDdIYmZPYmtZbVVTcllKTUJOOEtQcGc?oc=5",
     "title": "구글도 자체 AI칩 확대…삼성·SK하이닉스에 기회인가, 위기인가",
     "summary": [
@@ -78,10 +47,25 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "ncfd22bd1",
+    "category": "IT",
+    "source": "전자신문",
+    "time": "19시간 전",
+    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBQa1czM1NFOTdvdXViZG9reWNXQU5uV2NjNnI2ZUFrLVhlVVhGSXlGdDBONzJWTXRWMVNPTm9FeEZ0QVFPcmRjWWVJSnBwZw?oc=5",
+    "title": "“젠슨 황 외도 상대 앨리스 황, 10조원 엔비디아 AI칩 中 밀반입”",
+    "summary": [
+      "“젠슨 황 외도 상대 앨리스 황, 10조원 엔비디아 AI칩 中 밀반입” 전자신문."
+    ],
+    "chips": [
+      "#AI",
+      "#엔비디아"
+    ]
+  },
+  {
     "id": "n22928dff",
     "category": "IT",
     "source": "코리아포스트 한글판",
-    "time": "21시간 전",
+    "time": "1일 전",
     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5zSUhucFg2bHVWRTNHRl9BUHhLYUFLWlkzbkFpaGRqRmV2aGpZZ3lvUTNRRlNnQ2J1NVdvOGVCX3E5Zi12U2o1bW1MaF9rZjN6RlFaWkZLTEp5UVI5MjFzQ01NcURFaE9qU3ZrUmVB?oc=5",
     "title": "[이슈/ AI 반도체 주도권 경쟁 어디로?] TSMC 10월 매출 60% 급증…삼성전자·SK하이닉스, HBM4 ,메모리·파운드리 동시 공략",
     "summary": [
@@ -91,22 +75,6 @@ window.NEWS_DB = [
       "#AI",
       "#반도체",
       "#삼성전자",
-      "#SK하이닉스"
-    ]
-  },
-  {
-    "id": "n3fb2e0ed",
-    "category": "IT",
-    "source": "뉴스핌",
-    "time": "1일 전",
-    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE81cmNPVTF6bUpzdnRqQUNRZ05DbWFOQjlkUk1FNEZVSmo0dzBySUhvem9YU0M5MjFUaGpldEw0b1RocXpwRkFFcFhNX3k1XzdBd2NYb1ZsWHZkOFlH?oc=5",
-    "title": "테슬라 AI칩에 HBM 추진…삼성·SK하이닉스 납품 각축 예고",
-    "summary": [
-      "테슬라 AI칩에 HBM 추진…삼성·SK하이닉스 납품 각축 예고 뉴스핌."
-    ],
-    "chips": [
-      "#AI",
-      "#반도체",
       "#SK하이닉스"
     ]
   },
@@ -123,6 +91,37 @@ window.NEWS_DB = [
     "chips": [
       "#채용",
       "#고용"
+    ]
+  },
+  {
+    "id": "nf5fb0667",
+    "category": "IT",
+    "source": "뉴스핌",
+    "time": "1일 전",
+    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5adkJlYU05WW9RY0VjbElvVnY1THEyYkJtS0FvUElvbXB3dTZvMHBPU1hOOHNkLTFaU0VUeW1Xa3BQekhIbXRsZ3U5X01HRUpvU01GdDFUNmtodGds?oc=5",
+    "title": "구글, 추론용 AI칩 성능 2배…삼성·SK HBM 수요 커진다",
+    "summary": [
+      "구글, 추론용 AI칩 성능 2배…삼성·SK HBM 수요 커진다 뉴스핌."
+    ],
+    "chips": [
+      "#AI",
+      "#반도체"
+    ]
+  },
+  {
+    "id": "nfde66a74",
+    "category": "IT",
+    "source": "경향신문",
+    "time": "2일 전",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBqRDNaTFhzMnhhc2txRGd2N2NPSkxZMEEwR195SGE4RkE1cmRYSUMwdFJSODRsNlZ3TjRMVmRCNE9FZEI3SUdZRXM4Nk9WRXdpN3AxSmZQOE40UdIBX0FVX3lxTFBodGN4ZnRqMWZ5WloyTjBrWTlpdkFFdm9RMVJOS0FBc21uN1NnRGd4b2NtdGlQTmQzNE5lY25vS2FwSW9SVjZjYm9LbWJrRTJGWjJEc1p3Tkxfc1RvTlNv?oc=5",
+    "title": "국산 AI 반도체, 엔비디아 생태계 올라탄다···SKT-리벨리온 3자 협력",
+    "summary": [
+      "국산 AI 반도체, 엔비디아 생태계 올라탄다···SKT-리벨리온 3자 협력 경향신문."
+    ],
+    "chips": [
+      "#AI",
+      "#반도체",
+      "#엔비디아"
     ]
   },
   {
@@ -315,330 +314,329 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nfa8884a8",
+    "id": "neba2cb6f",
     "category": "IT",
     "source": "테크M",
     "time": "방금 전",
-    "url": "https://www.techm.kr/news/articleView.html?idxno=157229",
-    "title": "박병무의 엔씨 체질개선 통했다...성장엔진 3개 달고 '퀀텀점프' 달린다(종합)",
+    "url": "https://www.techm.kr/news/articleView.html?idxno=157234",
+    "title": "\"챗GPT가 우리 회사 언급했나?\"...호프만에이전시, GEO 설루션 출시",
     "summary": [
-      "엔씨가 기존 IP의 경쟁력 강화와 신규 IP의 글로벌 확장을 통해 3분기 반등을 이끌어냈다.",
-      "올해부터 추진하고 있는 모바일 캐주얼 사업 육성까지 포함해 3대축을 앞세워 기업 체질개선에 나선다는 전략이다.",
-      "엔씨는 올해 3분기 연결기준 영업이익이 1196억원을 기록해 전년 동기 대비 흑자전환했다고 11일 밝혔다."
+      "생성형 AI가 특정 브랜드를 얼마나 자주 언급하고 어떤 정보를 근거로 설명하는지 분석하는 설루션이 국내에 출시된다.호프만에이전시코리아는 자체 개발 설루션 'GEDI™'를 공식 론칭한다고 11일 밝혔다.",
+      "이 설루션을 이용하면 12개 주요 생성형 AI 엔진을 대상으로 동일한 질문을 자동 테스트하고 결과를 교차 분석할 수 있다.",
+      "챗GPT, 제미나이, 클로드, 그록, 딥시크 등이 포함된다."
+    ],
+    "chips": [
+      "#AI"
+    ]
+  },
+  {
+    "id": "n4bb4b57a",
+    "category": "경제",
+    "source": "테크M",
+    "time": "방금 전",
+    "url": "https://www.techm.kr/news/articleView.html?idxno=157233",
+    "title": "파이오링크 편입 효과...이글루코퍼레이션, 3Q 매출 76% 증가",
+    "summary": [
+      "파이오링크를 연결 자회사로 편입하면서 이글루코퍼레이션의 매출이 큰 폭으로 뛰었다.",
+      "영업이익도 두 자릿수 성장률을 기록했다.",
+      "누적 영업이익은 적자로 돌아섰다.이글루코퍼레이션은 연결 기준 3분기 매출 471억원, 영업이익 17억원을 기록했다고 11일 공시했다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "ncddf27fd",
-    "category": "스포츠",
+    "id": "ne13803cf",
+    "category": "IT",
     "source": "테크M",
     "time": "방금 전",
-    "url": "https://www.techm.kr/news/articleView.html?idxno=157225",
-    "title": "KISA는 공공기관, 금보원은 사단법인...보안업계 \"금융 공격이 따로 있나\"",
+    "url": "https://www.techm.kr/news/articleView.html?idxno=157231",
+    "title": "파이오링크, 3분기 영업이익 전년比 399% 증가...'연말 특수'까지 정조준",
     "summary": [
-      "금융회사 3000여곳의 정보보호 실태를 점검하는 금융보안원에서 해커가 금융감독원 수준의 접근 권한을 확보해 48개 금융회사 관련 자료를 빼냈다.",
-      "금융권 보안 전문기관의 자체 보안관리 문제를 드러낸 사례라는 지적이 잇따른다.",
-      "책임주체와 후속 대응 문제도 불거진다.취약점 점검 기관, 우회 접근 표본으로...자체 권한 관리 허점11일 금융권에 따르면 금융보안원은 이틀 전 정보보호 상시평가 시스템에서 외부의 비정상적인 접근으로 정보가 유출된 사실을 확."
+      "파이오링크의 3분기 영업이익이 큰폭으로 개선됐다.",
+      "상반기에 드리웠던 적자의 그늘도 걷어냈다.",
+      "연말에는 매출이 집중되면서 시기적 수혜가 뒤따를 것으로 전망 중이다.파이오링크는 연결 기준 3분기 매출액 188억원, 영업이익 26억원을 기록했다고 11일 밝혔다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n6795126f",
+    "id": "n55a2d693",
     "category": "IT",
     "source": "테크M",
     "time": "방금 전",
-    "url": "https://www.techm.kr/news/articleView.html?idxno=157212",
-    "title": "\"10조 정책 효과 1%만 높여도 1000억\"...GPT 쓴 공익연구 실사례 나온다",
+    "url": "https://www.techm.kr/news/articleView.html?idxno=157230",
+    "title": "정부, '로봇 두뇌' 개발에 550억 신규 투입...판단·학습 능력 높인다",
     "summary": [
-      "막대한 예산이 투입되는 정책의 효과를 AI로 예측할 수 있다면 어떨까?오픈AI의 지원 아래 GPT로 데이터를 분석하는 연구가 실제로 이뤄지고 있다.",
-      "지난해 국내에서 시행된 민생회복 소비쿠폰을 대상으로 소비 진작 효과를 예측하는 실험이다.",
-      "연구 초기 25%에 이르던 예측 오차율도 10% 안팎까지 줄었다.권혁구 싱가포르 난양공과대학교 정보시스템학과 석좌교수는 11일 서울 강남구 오픈AI 사무실에서 열린 '오픈AI 인사이트' 미디어 세션에 참석해 \"."
+      "새로운 작업도 스스로 수행할 수 있도록 고도화한 '로봇 두뇌' 기술을 개발하는 데 정부가 자금을 집행한다.",
+      "작업에 실패하면 원인을 분석하고 재시도할 수 있는 범용 AI 모델을 개발할 계획이다.",
+      "이를 위해 투입되는 내년도 신규 연구개발(R&D)비 규모는 5개 과제, 550억원에 이른다.문형돈 정보통신기획평가원(IITP) 본부장은 11일 서울 중구 대한상공회의소에서 열린 '2027 AI·ICT 기술전망 컨퍼런스'에서 이 같은 내용이 담긴 내년도 정."
+    ],
+    "chips": [
+      "#AI"
+    ]
+  },
+  {
+    "id": "n56aeff44",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "9분 전",
+    "url": "https://www.yna.co.kr/view/AKR20261112002300071",
+    "title": "강경화 \"韓핵잠 건조·원자력 협력 진전시 한미 안보협력 강화\"",
+    "summary": [
+      "(워싱턴=연합뉴스) 이유미 특파원 = 강경화 주미대사는 11일(현지시간) 미국의 한국 핵추진잠수함 건조 지원과 한미 간 민간 원자력 협력이 진전..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n46204978",
+    "category": "IT",
+    "source": "머니투데이",
+    "time": "15분 전",
+    "url": "https://www.mt.co.kr/opinion/2026/11/12/2026111008451544330",
+    "title": "AI 성장 경제의 착시와 분노한 표심[MT시평]",
+    "summary": [
+      "지난 9월 말 도널드 트럼프 미국 대통령은 행정명령을 통해 연방 정부의 공문서에 AI(인공지능) 대신 SI(슈퍼지능)라는 용어를 사용하도록 강제했다.",
+      "최근에는 SI 대신 AI를 쓰면 적으로 간주하겠다고 으름장을 놓았다.",
+      "트럼프의 행동은 AI 예찬론을 반영한다."
     ],
     "chips": [
       "#AI",
-      "#정책",
+      "#정치"
+    ]
+  },
+  {
+    "id": "n40198426",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "18분 전",
+    "url": "https://www.yna.co.kr/view/AKR20261112002100071",
+    "title": "백악관, 野조사예고에 \"범죄 될수도\"…野 \"헌법이 조사권 부여\"",
+    "summary": [
+      "(워싱턴=연합뉴스) 박성민 특파원 = 미국 중간선거에서 야당인 민주당이 압승하며 차기 의회에서 도널드 트럼프 미국 행정부에 대한 대대적 조사를 ..."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n8a3d872a",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "21분 전",
+    "url": "https://www.yna.co.kr/view/AKR20261112003000079",
+    "title": "네타냐후 \"美 군사원조 '단계적' 축소\"…트럼프와 엇박자",
+    "summary": [
+      "(카이로=연합뉴스) 김상훈 특파원 = 도널드 트럼프 미국 대통령이 이스라엘에 대한 군사 원조를 올해 안으로 종료하겠다고 밝혔지만, 이스라엘 과도..."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n8e8f7e38",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "25분 전",
+    "url": "https://www.newsis.com/view/NISX20261112_0003864593",
+    "title": "APEC 앞두고 美中 외교수장 통화…\"양국관계 실질적 진전 이뤄야\"",
+    "summary": [
+      "[서울=뉴시스] 권성근 기자 = 중국 선전에서 열리는 아시아태평양경제협력체(APEC) 정상회의를 1주일 앞으로 미중 외교 수장이 전화 통화를 통해 양국 관계와 정상 간 교류를 논의했다.",
+      "왕이(王毅) 중국공산당 중앙정치국 위원 겸 외교부장은 이날 마코 루비오 미국 국무부 장관과 통화했다.",
+      "마오닝 중국 외교부 대변인에 따르면 왕 부장은 루비오 장관에게 \"중국은 미국 측과 소통과 협력을 강화하고 이견과 민감한 사안을 해결할 준비가 돼 있다\"고 말했다."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "nedfe4a0c",
+    "category": "스포츠",
+    "source": "동아일보",
+    "time": "26분 전",
+    "url": "https://www.donga.com/news/Sports/article/all/20261112/135011056/1",
+    "title": "우리카드, 대한항공 꺾고 3연승…GS, 현대건설 3연패 몰아",
+    "summary": [
+      "남자 프로배구 우리카드가 풀세트까지 가는 접전 끝에 대한항공을 누르고 3연승 행진을 벌였다.우리카드는 서울 장충체육관에서 열린 2026~2027 HK흥국금융 V리그 남자부 홈 경기에서 대한항공을 세트 점수 3-2(18-25 25-22 25-16 22-25 15-12)로 꺾었다.개막 후 3연승(승점 8)을 달린 우리카드는 단독 선두를 질주했다.‘디펜딩 챔피언’ 대한항공은 1승 2패(승점 4)로 4위를 유지했다.우리카드 외국인 선수 하파엘 아라우조."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nf6d852d8",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "29분 전",
+    "url": "https://www.chosun.com/sports/world-baseball/2026/11/12/MFRTONZRMQ4DOMZUGBSWINRTGI/",
+    "title": "'한화가 만든 노시환' 대반전 평가! 정말 뉴욕행 비행기 타나…美매체 \"장타력+3루 수비 굿\" 긍정 전망 나왔다",
+    "summary": [
+      "[스포츠조선 박상경 기자] 메이저리그 포스팅을 진행 중인 노시환(25·한화 이글스)을 향한 긍정적인 전망이 미국 현지에서 나왔다.",
+      "뉴욕 메츠 소식을 다루는 어메이징에비뉴는 11일(한국시각) 노시환의 이력과 타격 스타일을 상세하게 전했다.",
+      "그동안 미국 현지 매체들이 노시환의 포스팅 소식을 전하면서 메이저리그에서의 활약 여부에 물음표를 붙였던 것과 달리, 어메."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n7f732a31",
+    "category": "사회",
+    "source": "머니투데이",
+    "time": "43분 전",
+    "url": "https://www.mt.co.kr/opinion/2026/11/12/2026111110002287851",
+    "title": "위정자들이 배워야 할 이창호 승부철학[딥포인트]",
+    "summary": [
+      "2000승 돌파는 결과보다 과정이 소중 적수 배려와 절제, 정치판엔 없는 미덕 국회,이9단-의원 친선대국 주선 어떨까 프로 바둑계 최초의 2000승.",
+      "입단 후 40년 세월 동안 쌓아 올린 금자탑의 묵직한 울림은 단순히 '승수'의 경지를 넘어선다.",
+      "\"2500승까지는 하고 싶다."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n94592515",
+    "category": "사회",
+    "source": "머니투데이",
+    "time": "43분 전",
+    "url": "https://www.mt.co.kr/opinion/2026/11/12/2026111113384570444",
+    "title": "교육과 일자리 잇는 미래투자[청계광장/배상훈]",
+    "summary": [
+      "취업못한 청년들 구직 포기 많아져 인턴십 확대, 사회 진입할 기회 줘야 미래대응기금 일부 투자 검토할만 나는 믿는다.",
+      "다음 선거에서 청년의 마음을 헤아리고 그들에게 희망과 비전을 제시하는 정치 세력이 국민의 마음을 얻을 것이다.",
+      "청년의 미래는 그들을 자녀와 손주로 둔 부모와 조부모에게도 절실한 관심사다."
+    ],
+    "chips": [
+      "#취업",
+      "#고용",
+      "#정치",
       "#교육"
     ]
   },
   {
-    "id": "nba6326c1",
-    "category": "IT",
-    "source": "테크M",
-    "time": "방금 전",
-    "url": "https://www.techm.kr/news/articleView.html?idxno=157219",
-    "title": "정신아·김도영, '홍콩·싱가포르' 투자자 직접 만난다...인적분할 공감대 형성 총력",
-    "summary": [
-      "카카오가 인적분할을 앞두고 국내에 이어 해외 투자자들과의 소통 확대에 나섰다.",
-      "정신아 카카오 대표와 김도영 카카오X 대표 내정자가 직접 홍콩과 싱가포르를 방문해 인적분할의 취지와 분할 이후 양사의 성장 전략을 설명하기로 했다.",
-      "국내 소액주주 간담회를 비롯해 분할 이후 기업가치 저평가와 주주환원 등에 대한 우려가 이어지고 있는 가운데 인적분할에 대한 국내외 투자자들의 이해와 공감대를 넓히기 위함이다."
-    ],
-    "chips": [
-      "#카카오"
-    ]
-  },
-  {
-    "id": "nac4a4df4",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "1분 전",
-    "url": "https://www.donga.com/news/Society/article/all/20261111/135009051/1",
-    "title": "내일부터 해외 처방 비만치료제 최대 3개월치 국내 반입 허용",
-    "summary": [
-      "12일부터 해외에서 처방받아 구입한 비만치료제 등 자가 치료용 의약품을 최대 3개월분까지 국내에 직접 갖고 들어올 수 있다.",
-      "‘스시자로’자고 불리며 국내보다 싼 가격으로 인기를 끌고 있는 일본의 마운자로 등도 12개까지 반입이 허용된다.",
-      "식품의약품안전처와 관세청은 12일부터 개인이 본인 치료 목적의 의약품을 휴대해 국내로 반입하는 것을 허용한다고 11일 밝혔다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n28fd1317",
-    "category": "경제",
-    "source": "아시아경제",
-    "time": "1분 전",
-    "url": "https://view.asiae.co.kr/article/2026111118571997652",
-    "title": "엔씨 \"신작·모바일 캐주얼 확대…내년 매출 3.4조원 목표\"(종합)",
-    "summary": [
-      "'리니지 클래식'과 '아이온2' 호조에 힘입어 올해 3분기 실적 개선을 이뤄낸 엔씨가 내년 매출 3조원 돌파를 목표로 세웠다.",
-      "신작 출시와 모바일 캐주얼 사업 확대를 통해 2028년 폭발적인 성장을 이루겠다는 각오다.",
-      "엔씨는 올해 3분기 연결기준 영업이익이 1196억원으로 잠정 집계됐다고 11일 공시했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n78198d16",
+    "id": "n6ccb4ea7",
     "category": "사회",
     "source": "뉴시스",
-    "time": "2분 전",
-    "url": "https://www.newsis.com/view/NISX20261111_0003864453",
-    "title": "靑 여야 초청 유튜브 방송서 '조작기소특검·대법관 재제청' 공방",
+    "time": "43분 전",
+    "url": "https://www.newsis.com/view/NISX20261111_0003863365",
+    "title": "시장 장사로 애지중지 키웠더니…\"유산 내놔\" 폭언 쏟아낸 아들",
     "summary": [
-      "[서울=뉴시스]조재완 기자 = 청와대는 11일 김용남 더불어민주당 전 의원과 신주호 국민의힘 전 상근부대변인을 초청해 정치적 견해 차이와 진영 갈등을 넘어 우리 사회가 나아가야 할 국민통합의 방향을 논의했다.",
-      "청와대는 이날 오후 허은아 국민통합비서관이 진행을 맡은 유튜브 방송 '대화가 필요해'에서 정치의 역할과 의미, 우리 사회의 정치 불신과 대립, 온라인 환경이 정치에 미치는 영향, 정치적 극단주의를 넘어 국민통합으로 나아가기 위한 방안 등을."
+      "[서울=뉴시스]김성은 인턴 기자 = 아들을 귀하게 여기며 키운 어머니가 병든 뒤, 손을 잡아달라는 부탁마저 거절당한 채 재산을 미리 달라는 요구와 욕설까지 들어야 했다는 사연이 전해져 충격을 주고 있다.",
+      "10일 JTBC '사건반장'에서는 3남매 중 장녀인 50대 여성 A씨가 전한 가족 이야기가 소개됐다.",
+      "A씨의 어머니는 시장에서 장사하며 세 자녀를 어렵게 키웠다."
     ],
     "chips": [
-      "#정치",
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nd89c5171",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "1시간 전",
+    "url": "https://www.yna.co.kr/view/AKR20261112002200109",
+    "title": "러 외무부 \"다르치예프 주미 대사 사망\"",
+    "summary": [
+      "(로마=연합뉴스) 민경락 특파원 = 러시아 외무부는 11일(현지시간) 알렉산드르 다르치예프 주미 러시아 대사(66)가 사망했다고 밝혔다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n46954232",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "1시간 전",
+    "url": "https://www.chosun.com/international/international_general/2026/11/12/IVY32H6BJBGARNH334SDJBV52I/",
+    "title": "기후총회서 세 과시한 이란… 페제시키안 “美·이스라엘, 기후위기 대응에 역행”",
+    "summary": [
+      "기후총회서 세 과시한 이란… 페제시키안 “美·이스라엘, 기후위기 대응에 역행”."
+    ],
+    "chips": [
       "#환경"
     ]
   },
   {
-    "id": "n0cd17389",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "3분 전",
-    "url": "https://www.newsis.com/view/NISX20261111_0003864452",
-    "title": "BNK경남은행, 을지연습 또 우수기관… 4년 연속 선정 등[경남소식]",
-    "summary": [
-      "[창원=뉴시스]홍정명 기자 = BNK경남은행은 지난 8월 실시한 올해 '을지연습' 우수기관으로 선정됐다고 11일 밝혔다.",
-      "특히 2023년부터 4년 연속 우수기관 선정이다.",
-      "은행장을 중심으로 비상소집훈련과 전시 직제편성훈련, 금융 관련 현안과제 토의, 전국 민방공 대피훈련 등을 체계적으로 진행했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n5f6c04f4",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "6분 전",
-    "url": "https://www.newsis.com/view/NISX20261111_0003864454",
-    "title": "'스토킹 신고' 前연인 보복살인 강성은 재판행…구속기소",
-    "summary": [
-      "[제주=뉴시스] 김수환 기자 = 스토킹 경찰 신고에 앙심을 품고 전(前) 연인을 흉기로 살해한 강성은(61)이 구속 상태로 재판에 넘겨졌다.",
-      "제주공소청 형사1부(부장검사 이대성)는 강성은을 특정범죄 가중처벌 등에 관한 법률 위반(보복살인 등), 특수감금, 현주건조물방화예비, 특수주거침입, 스토킹 범죄의 처벌 등에 관한 법률 위반 등 혐의로 구속 기소했다고 11일 밝혔다.",
-      "강성은은 지난달 12일 오전 1시38분께 제주시 연동의 한 인도에서 전 연."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nb1623c7f",
-    "category": "IT",
-    "source": "아시아경제",
-    "time": "7분 전",
-    "url": "https://view.asiae.co.kr/article/2026111118515191450",
-    "title": "이상일 시장 “부서 칸막이 깨고 예산 확보 총력”…‘용인 2040’ 닻 올렸다",
-    "summary": [
-      "세계적인 반도체 메카로 도약 중인 경기 용인특례시가 미래 20년을 내다본 중장기 발전 전략 '용인비전 2040'의 세부 청사진을 구체화했다.",
-      "총 58개 중점 과제를 선정하고 오는 2027년부터 본격적인 현장 실행에 들어간다.",
-      "용인시는 11일 시청 영상회의실에서 이상일 시장 주재로 '미래도시 발전전략 용인비전 2040 세부사업 실행계획 수립 보고회'를 열고 사업별 최종 로드맵을 점검했다고 밝혔다."
-    ],
-    "chips": [
-      "#반도체"
-    ]
-  },
-  {
-    "id": "n5bfdfd77",
+    "id": "n53456c5f",
     "category": "사회",
     "source": "조선일보",
-    "time": "9분 전",
-    "url": "https://www.chosun.com/entertainments/music/2026/11/11/MUYGMY3GMMZGGMJYGYYGKMZTGY/",
-    "title": "NCT DREAM의 반전매력..'원더킬포'서 'Boogie Woogie' 퍼포먼스 공개",
+    "time": "1시간 전",
+    "url": "https://www.chosun.com/jp/international-jp/2026/11/12/5X4UDO4PCVG3LBXWU52E6BRRQQ/",
+    "title": "COP31で存在感誇示のイラン…「米・イスラエルは気候危機対応に逆行」",
     "summary": [
-      "[OSEN=김나연 기자] NCT DREAM(엔시티 드림)이 특별한 신곡 퍼포먼스로 팬들의 마음을 사로잡는다.오늘(11일) 저녁 8시 1theK(원더케이) 공식 유튜브 채널 1theK Originals에는 NCT DREAM이 출연한 오리지널 콘텐츠 ‘원더킬포(1theKILLPO)’가 공개된다.1theK 오리지널 ‘원더킬포’는 팬들의 투표를 통해 한 곡에서 가."
+      "COP31で存在感誇示のイラン…「米・イスラエルは気候危機対応に逆行」."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "ndc5f68df",
-    "category": "경제",
-    "source": "아시아경제",
-    "time": "9분 전",
-    "url": "https://view.asiae.co.kr/article/2026111117535543838",
-    "title": "\"그걸 왜 잘라\"…아동 성착취물 혐의 英 왕자비 부친, 결국 재구금",
-    "summary": [
-      "영국 해리 왕자와 결혼한 메건 마클 왕자비의 부친 토머스 마클(82)이 아동 성 착취물 소지 혐의로 가택연금 조치를 받은 상태에서 전자발찌를 잘라내 체포됐다.",
-      "AP통신과 BBC방송에 따르면 아동 성 착취물 소지 혐의를 받는 마클은 10일(현지시간) 오전 1시 45분께 발목의 전자 감시장치를 끊어 다시 구금되었다.",
-      "앞서 수사당국은 마클이 필리핀 자택에 아동 성 학대 의심 자료 수백~수천장을 보관하고 있으며 LA에도 창고를 임대했다는 제보를 받았다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n74cd1d68",
-    "category": "IT",
-    "source": "한경IT",
-    "time": "10분 전",
-    "url": "https://www.hankyung.com/article/202611110968i",
-    "title": "마운자로 열두 병 챙긴다…해외서 처방받은 약 반입 허용",
-    "summary": [
-      "마운자로 열두 병 챙긴다…해외서 처방받은 약 반입 허용."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n2a2a715e",
-    "category": "사회",
-    "source": "연합뉴스(경제)",
-    "time": "12분 전",
-    "url": "https://www.yna.co.kr/view/AKR20261111163101017",
-    "title": "정부, GS건설 아파트 시스템 침해사고에 직권조사한다(종합)",
-    "summary": [
-      "(서울=연합뉴스) 박형빈 기자 = 과학기술정보통신부는 GS건설[006360]의 아파트 커뮤니티 시설 예약·관리 시스템에서 발생한 침해사고의 피해..."
-    ],
-    "chips": [
-      "#부동산"
-    ]
-  },
-  {
-    "id": "n7ae39b69",
+    "id": "n3a35daaa",
     "category": "스포츠",
     "source": "조선일보",
-    "time": "12분 전",
-    "url": "https://www.chosun.com/sports/sports_general/2026/11/11/HEZGMZBTGY2WIYZYGVQTIZTDGM/",
-    "title": "'피겨요정' 이해인에게 성희롱이라니...소속사 법적 대응 예고 \"어떠한 합의나 선처도 없을 것\"",
+    "time": "1시간 전",
+    "url": "https://www.chosun.com/sports/world-baseball/2026/11/12/GA4DAZRTGM2TCYZWMM2WEYJVGQ/",
+    "title": "'대반전' 고작 24억에 한화행 거절했다고? 숨은 이유 있었다 \"유일한 방법\"",
     "summary": [
-      "[OSEN=서정환 기자] 피겨스케이팅 국가대표 이해인(21)이 악의적인 비방과 성희롱에 시달려왔다는 충격적인 사실이 드러났다.",
-      "이해인의 소속사 디제이매니지먼트는 11일 공식 입장을 통해 \"오랜 기간 온라인 커뮤니티, 포털사이트, SNS, 영상 플랫폼 및 개인 메시지(DM) 등을 통해 이해인 선수를 향한 악의적인 비방, 모욕, 성희롱, 허위사실 유포 행위가."
+      "[스포츠조선 나유리 기자]라이언 와이스가 메이저리그에 남는다.",
+      "연봉 24억원이 크지 않아보일 수 있지만, 그에게는 올 시즌이 또다른 베팅이다.",
+      "미국 'ESPN'은 11일(이하 한국시각) 샌디에이고 파드리스가 우완 투수 와이스를 영입했다고 보도했다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n03128429",
+    "id": "n783d0854",
     "category": "사회",
     "source": "뉴시스",
-    "time": "13분 전",
-    "url": "https://www.newsis.com/view/NISX20261111_0003864455",
-    "title": "부산 공장 사무실서 불, 1명 연기흡입…500만원 재산피해",
+    "time": "1시간 전",
+    "url": "https://www.newsis.com/view/NISX20261112_0003864588",
+    "title": "G7 외교장관, 北 러시아 군사 지원 규탄…병력 철수 촉구",
     "summary": [
-      "[부산=뉴시스] 하경민 기자 = 11일 오후 1시8분께 부산 사상구의 한 공장 2층 사무실에서 불이 났다.",
-      "이날 불로 직원 1명이 연기를 흡입해 인근 병원으로 옮겨져 치료를 받고 있다.",
-      "불은 공장 내부와 집기 등을 태워 500만원(소방서 추산) 상당의 재산피해를 내고 50여분 만에 진화됐다."
+      "[서울=뉴시스] 권성근 기자 = 주요 7개국(G7) 외교장관들은 11일(현지 시간) 북한이 대러시아 군사 지원을 즉각 중단하고 병력을 철수할 것을 촉구했다.",
+      "미국의 북한 전문매체 미국의소리(VOA) 등에 따르면 G7 외교장관들은 지난 9~10일 프랑스 파리에서 열린 G7 외교장관회의 이후 이날 발표한 공동성명에서 북러 협력 확대가 유럽과 인도·태평양 안보에 심각한 영향을 미친다며 이같이 밝혔다.",
+      "장관들은 또 북한의 불법 핵·탄도미사일 프로그램을."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nb2c18b70",
+    "category": "사회",
+    "source": "머니투데이",
+    "time": "1시간 전",
+    "url": "https://www.mt.co.kr/sports/2026/11/12/2026111123365737060",
+    "title": "미모의 22세 기수, 끔찍 낙마 사고로 끝내 '영면'... 유가족, '장기 기증' 숭고한 결단 \"상실감 속 큰 위안\"",
+    "summary": [
+      "불의의 낙마 사고로 22세에 사망한 기수 이지 닐이 장기 기증으로 다른 환자들에게 새 생명을 구한다.",
+      "영국 '더선'은 11일(한국시간) \"호주 경마 대회 도중 낙마 사고로 목숨을 잃은 닐이 유가족 뜻에 따라 장기를 기증할 예정\"이라고 보도했다.",
+      "닐은 지난 8일 호주 워렌에서 열린 경주 도중 끔찍한 사고를 당했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n4d41f799",
+    "category": "경제",
+    "source": "아시아경제",
+    "time": "1시간 전",
+    "url": "https://view.asiae.co.kr/article/2026111118483627783",
+    "title": "\"몸무게만으론 비만 판단 못해\"…84만명 분석해 새 진단기준 검증[과학을읽다]",
+    "summary": [
+      "비만을 진단할 때 체중과 키로 계산하는 체질량지수(BMI)뿐 아니라 허리둘레와 장기 기능까지 함께 평가해야 한다는 연구 결과가 나왔다.",
+      "4개국 성인 84만여명을 분석한 결과, 새로운 기준을 적용하면 기존보다 비만으로 분류되는 사람이 늘어나고 실제 건강 손상 여부에 따라 사망 위험에도 차이가 나타났다.",
+      "다만 새로운 진단체계가 치료 효과까지 높이는지는 추가 검증이 필요해 보인다."
     ],
     "chips": [
       "#의료"
-    ]
-  },
-  {
-    "id": "nfa3f40d3",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "13분 전",
-    "url": "https://www.chosun.com/international/international_general/2026/11/11/MYSRL7IBURAKHJRAER7NK4SNGQ/",
-    "title": "이란, 지하 깊숙이 새롭게 만든 ‘미사일 도시’ 공개",
-    "summary": [
-      "이란, 지하 깊숙이 새롭게 만든 ‘미사일 도시’ 공개."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nf15c53ea",
-    "category": "경제",
-    "source": "머니투데이",
-    "time": "14분 전",
-    "url": "https://www.mt.co.kr/industry/2026/11/11/2026111115233183581",
-    "title": "약손명가, 일반인 고객 모델 선발대회 2차 면접 성료…21일 위촉식 진행",
-    "summary": [
-      "글로벌 에스테틱 브랜드 약손명가가 '2026 약손명가 공식 모델(약손 뷰티 엠버서더) 공개오디션'의 2차 면접을 성황리에 마치고, 오는 21일 위촉식을 개최한다고 밝혔다.",
-      "만 19세 이상 실제 고객을 대상으로 한 이번 대회는 1차 서류부터 전국 각지에서 지원자가 몰리며 치열한 경쟁을 기록했다.",
-      "2차 면접에서는 브랜드 이해도와 변화 스토리, 표현력 등을 다각도로 평가했으며, 지원자들은 진솔한 경험담으로 공감을 끌어냈다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "ne9458cc2",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "14분 전",
-    "url": "https://www.yna.co.kr/view/AKR20261111169300504",
-    "title": "조현, G7서 청해부대 확대 설명…\"호르무즈 항행자유보장 긴요\"",
-    "summary": [
-      "(서울=연합뉴스) 김지헌 기자 = 조현 외교부 장관이 주요 7개국(G7) 외교장관회의에 참석해 정부가 최근 결정한 청해부대 역할 확대 등 항행자..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "ncfb9a604",
-    "category": "경제",
-    "source": "머니투데이",
-    "time": "14분 전",
-    "url": "https://www.mt.co.kr/entertainment/2026/11/11/2026111118374141361",
-    "title": "한수아 '친분 팔이' 악플 쏟아지자…카리나 \"모두 소중한 존재\"",
-    "summary": [
-      "그룹 에스파 멤버 카리나가 절친한 배우 한수아를 향한 악성 댓글(악플)이 이어지자 직접 입장을 밝혔다.",
-      "11일 카리나는 팬 소통 플랫폼을 통해 \"말을 할까 말까 고민을 많이 했다\"며 \"마이(팬덤명)도 멤버도 가족도 친구도 나한테는 다 너무 소중한 존재이고 그 누구도 상처받지 않았으면 좋겠다\"고 밝혔다.",
-      "이어 \"내 사랑은 한쪽에만 기울지 않고 나는 내가 주는 사랑만큼 받는다고 생각한다\"며 \"많이 사랑받아서 행복하고 그 행복을 가볍게 생각하지 않아."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nef257668",
-    "category": "경제",
-    "source": "머니투데이",
-    "time": "15분 전",
-    "url": "https://www.mt.co.kr/society/2026/11/11/2026111117443865829",
-    "title": "\"어딜 가도 널 생각\"…20년전 일기장에 선생님 답글 '뭉클'[오따뉴]",
-    "summary": [
-      "우리가 사는 세상은 아직 따뜻합니다.",
-      "[오따뉴 : 오늘의 따뜻한 뉴스]를 통해 그 온기와 감동을 만나보세요.",
-      "20여년 전 초등학교 2학년 제자의 일기장에 남긴 담임교사의 따뜻한 답글이 공개돼 감동을 주고 있다."
-    ],
-    "chips": [
-      "#교육"
     ]
   }
 ];
@@ -648,20 +646,20 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2720건",
-    "trend": "+315%"
+    "mentions": "2330건",
+    "trend": "+255%"
   },
   {
     "rank": 2,
     "tag": "AI",
-    "mentions": "1550건",
-    "trend": "+135%"
+    "mentions": "2070건",
+    "trend": "+215%"
   },
   {
     "rank": 3,
-    "tag": "반도체",
-    "mentions": "1420건",
-    "trend": "+115%"
+    "tag": "정치",
+    "mentions": "1680건",
+    "trend": "+155%"
   }
 ];
 // ====AUTO-GENERATED-END====
