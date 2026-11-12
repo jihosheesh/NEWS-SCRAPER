@@ -1,33 +1,52 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-11-11 23:49:35
+// 마지막 업데이트: 2026-11-12 04:50:00
 window.NEWS_DB = [
   {
-    "id": "naa5f7948",
+    "id": "n23b43526",
     "category": "IT",
-    "source": "지이코노미",
-    "time": "3시간 전",
-    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBsZXB2SVNFcktxVzQ3MXFvRXY2RnZPLU1QV3Z2VGR4NHRxLVkxTnpVRXBpRTVuTnBsVEJjZU9GbS0zNVA1cGplWTNHWV9vdUhKSy0wLTVPUTQyVkl4OFExN0gyYVVCWjg?oc=5",
-    "title": "'젠슨 황 스캔들' 앨리스 황, 10조원대 AI칩 중국 반입 의혹…엔비디아 안보 리스크 확산",
+    "source": "조선일보",
+    "time": "41분 전",
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQcFg5Y2lrc2dKUnVJb1dtdkdpZWVNRmJMMUdNak0tMUtlTVdqaFBmTmpYOTU4M1VNNmJ6aWFrRzJrbXhTU0d2NGJpZ2dmeUw4MTV1Z3RBb09wclp6LVAwdDV2eUZ0QlFfZ1U0SFZJUDFoMkJMSV9YSGxELUJRbW43aVpYTQ?oc=5",
+    "title": "구멍 뚫린 美 수출 규제… 블랙리스트 中 군사대학도 엔비디아 칩 구매",
     "summary": [
-      "'젠슨 황 스캔들' 앨리스 황, 10조원대 AI칩 중국 반입 의혹…엔비디아 안보 리스크 확산 지이코노미."
+      "구멍 뚫린 美 수출 규제… 블랙리스트 中 군사대학도 엔비디아 칩 구매 조선일보."
+    ],
+    "chips": [
+      "#엔비디아",
+      "#정책",
+      "#수출",
+      "#교육"
+    ]
+  },
+  {
+    "id": "n3cb568ad",
+    "category": "IT",
+    "source": "아시아경제",
+    "time": "2시간 전",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5pSWtYTnNQYTJkZkNPZVdOTmFWQUYwOVhnaEswdHk0TjJrMFFkYXlveDc4Q1ZOVnZ5TTZJRjF6VFdFVzlOX1VNbWF6NUdocHVidU9yUVJwWkViZmVqV3Z4eg?oc=5",
+    "title": "엔비디아, 젠슨 황 해임 추진…AI 반도체 시장 충격(종합)",
+    "summary": [
+      "엔비디아, 젠슨 황 해임 추진…AI 반도체 시장 충격(종합) 아시아경제."
     ],
     "chips": [
       "#AI",
+      "#반도체",
       "#엔비디아"
     ]
   },
   {
-    "id": "n01d52fa1",
+    "id": "n8553ac29",
     "category": "IT",
-    "source": "한겨레",
-    "time": "14시간 전",
-    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBUdUJ5MnNoaXJXYmttbEZBOVlRSlpDQjV1eFpKeXBmRmc5bmkxQy1JYVhHdGplMGoxY2FJUVYzZWJCRHdSUXBfOEZoSVV2WWdLbGs0YnVjRzl6VUwyOWZidEwzek1leWtRUnc?oc=5",
-    "title": "[사설] 국내 AI 생태계, 엔비디아 과도한 의존 줄여야",
+    "source": "메트로신문",
+    "time": "2시간 전",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5melBSang5V1gtdExzMTBFX0sybUNGUFBaZ2xsT1VONFRJcnRETC1ydktCMnJmb2RUSlIzOGJOSGZNRVpqNXNnX2plQ0VBTHRldkl0RllpLWsybElsa281Vw?oc=5",
+    "title": "[메트로 AM뉴스] 엔비디아 CEO 교체 가능성에 AI·반도체 업계 파장 주목 외",
     "summary": [
-      "[사설] 국내 AI 생태계, 엔비디아 과도한 의존 줄여야 한겨레."
+      "[메트로 AM뉴스] 엔비디아 CEO 교체 가능성에 AI·반도체 업계 파장 주목 외 메트로신문."
     ],
     "chips": [
       "#AI",
+      "#반도체",
       "#엔비디아"
     ]
   },
@@ -35,7 +54,7 @@ window.NEWS_DB = [
     "id": "n2b5941f8",
     "category": "사회",
     "source": "더펜뉴스",
-    "time": "21시간 전",
+    "time": "1일 전",
     "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBTejlKTVB3cVFiY0s2Z0txT3ItZ3A3MVdvSUgwRWZwejdsclVkMVJWZURaMUZtUnZfX0VWN0NpaXpOamhaNGtmSGdpRm9BSlQ0Z3BSaks2cTQ1UHJYOVRWU3hUQQ?oc=5",
     "title": "장수군, 18일 구인·구직 만남의 날…지역 기업·기관 8곳 채용 나서",
     "summary": [
@@ -84,7 +103,7 @@ window.NEWS_DB = [
     "id": "n3f86cbf5",
     "category": "사회",
     "source": "한국사회적경제신문",
-    "time": "1일 전",
+    "time": "2일 전",
     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9fb2drMHVGVXEtTERQVy0tRXJJYkdQclRFQ2sxVGdCeFFWOXI0M0lCTVBSU1dGeHpPSVBVb3gxZ2luendtcERRcWpmUjQwX1RsdzVwRVpIcGU4YTllbldJ?oc=5",
     "title": "“일자리? 여기서 잡(JOB)아!”… 송파구, 5개 기업 50명 현장 채용",
     "summary": [
@@ -99,7 +118,7 @@ window.NEWS_DB = [
     "id": "nf5fb0667",
     "category": "IT",
     "source": "뉴스핌",
-    "time": "1일 전",
+    "time": "2일 전",
     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5adkJlYU05WW9RY0VjbElvVnY1THEyYkJtS0FvUElvbXB3dTZvMHBPU1hOOHNkLTFaU0VUeW1Xa3BQekhIbXRsZ3U5X01HRUpvU01GdDFUNmtodGds?oc=5",
     "title": "구글, 추론용 AI칩 성능 2배…삼성·SK HBM 수요 커진다",
     "summary": [
@@ -108,22 +127,6 @@ window.NEWS_DB = [
     "chips": [
       "#AI",
       "#반도체"
-    ]
-  },
-  {
-    "id": "nfde66a74",
-    "category": "IT",
-    "source": "경향신문",
-    "time": "2일 전",
-    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBqRDNaTFhzMnhhc2txRGd2N2NPSkxZMEEwR195SGE4RkE1cmRYSUMwdFJSODRsNlZ3TjRMVmRCNE9FZEI3SUdZRXM4Nk9WRXdpN3AxSmZQOE40UdIBX0FVX3lxTFBodGN4ZnRqMWZ5WloyTjBrWTlpdkFFdm9RMVJOS0FBc21uN1NnRGd4b2NtdGlQTmQzNE5lY25vS2FwSW9SVjZjYm9LbWJrRTJGWjJEc1p3Tkxfc1RvTlNv?oc=5",
-    "title": "국산 AI 반도체, 엔비디아 생태계 올라탄다···SKT-리벨리온 3자 협력",
-    "summary": [
-      "국산 AI 반도체, 엔비디아 생태계 올라탄다···SKT-리벨리온 3자 협력 경향신문."
-    ],
-    "chips": [
-      "#AI",
-      "#반도체",
-      "#엔비디아"
     ]
   },
   {
@@ -153,21 +156,6 @@ window.NEWS_DB = [
     ],
     "chips": [
       "#스타트업"
-    ]
-  },
-  {
-    "id": "ne28d88bd",
-    "category": "경제",
-    "source": "뉴스핌",
-    "time": "15일 전",
-    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE54XzM4VEhUSGJ5MmJzd09JZkN1dy1oMTJEbDJZa3V2UUxjNXZuVUJhWHBuY1EwRzEyMGFoNXJidDdMb09TZUdGRmJhZ0VtOTViZVdYQUhnM0lwQksz?oc=5",
-    "title": "[아! 코스피] ⑦ 금리·전쟁·환율 충격 같은데…한국 증시, 왜 더 흔들렸나",
-    "summary": [
-      "[아! 코스피] ⑦ 금리·전쟁·환율 충격 같은데…한국 증시, 왜 더 흔들렸나 뉴스핌."
-    ],
-    "chips": [
-      "#금리",
-      "#환율"
     ]
   },
   {
@@ -229,6 +217,21 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n34c966ee",
+    "category": "경제",
+    "source": "경북매일",
+    "time": "54일 전",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBiZUtzYWdsdUFXQ19FeTJCNFNtaWQwc3ZIa2c5Z0RpYm03ekpKNTZyZi12Q1dybUlfbEE2YW5nM3JiMnZqREFJRDJZN3FPLWc5VVB1V3J2Y3NFdw?oc=5",
+    "title": "미국 금리 오르면 한국은 어디부터 흔들리나…대출·환율·증시 동시 압박",
+    "summary": [
+      "미국 금리 오르면 한국은 어디부터 흔들리나…대출·환율·증시 동시 압박 경북매일."
+    ],
+    "chips": [
+      "#금리",
+      "#환율"
+    ]
+  },
+  {
     "id": "n9e2a4d38",
     "category": "경제",
     "source": "KB Think",
@@ -272,6 +275,21 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n5c288f24",
+    "category": "IT",
+    "source": "벤처스퀘어",
+    "time": "156일 전",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBrMnMtbXdJbGE2WGZ4c2JTSHBYcy1seDlxVm1udXpKN3BscUdRamVHcVN5YVlURzlFX2xHV1N4NkJ1OWNpMnl5RE5tTXdmSXlmVWZkaDFvZTRiTG14V3dR?oc=5",
+    "title": "2026년 경기 스타트업 아카데미 글로벌 유니콘 캠퍼스 과정 참여기업 모집 공고",
+    "summary": [
+      "2026년 경기 스타트업 아카데미 글로벌 유니콘 캠퍼스 과정 참여기업 모집 공고 벤처스퀘어."
+    ],
+    "chips": [
+      "#스타트업",
+      "#채용"
+    ]
+  },
+  {
     "id": "nb9bdfdfb",
     "category": "스포츠",
     "source": "푸드투데이",
@@ -302,339 +320,326 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nbc27bc5a",
+    "id": "n8ee6ff90",
     "category": "IT",
-    "source": "연합뉴스",
-    "time": "259일 전",
-    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5UNnlsSTY5eHFYNEZ6ZktBM216dFF6Q0J5Z1NVYm56M3A2TUFNMDM0U081NTNsZVNJTy1MWklmVGc0cEdLVk5NRHFiTWtHbmx2b2ItSkVEV1A2ZFnSAWBBVV95cUxOV3Z3V2F3aWJvV3dDNDc4OXpfRmpyaDgtaExGWC1ZTUxvX2M4ZVZPNC1rZHpQeUtSNXlIZjc0dHdGWTdfUXpJQXdac1lZU3Mza3NvdHVweFFNYXhmdDMyZWs?oc=5",
-    "title": "스타트업·벤처를 유니콘으로…전북도, '창업 천국' 구상 발표",
-    "summary": [
-      "스타트업·벤처를 유니콘으로…전북도, '창업 천국' 구상 발표 연합뉴스."
-    ],
-    "chips": [
-      "#스타트업"
-    ]
-  },
-  {
-    "id": "n4a6d3985",
-    "category": "사회",
-    "source": "머니투데이",
+    "source": "테크M",
     "time": "방금 전",
-    "url": "https://www.mt.co.kr/politics/2026/11/12/2026111208100371251",
-    "title": "김민석 \"李대통령에 민간 소비진작 강력대책 제안…의원들 만남도 추진\"",
+    "url": "https://www.techm.kr/news/articleView.html?idxno=157264",
+    "title": "네이버, AI 서비스·팩토리 '투트랙'...플랫폼 사업 수익화 영역 넓힌다(종합)",
     "summary": [
-      "[the300]김민석 민주당 대표 \"민생 경제 현안 논의…몇몇 아이디어 오가\" 김민석 더불어민주당 대표는 이재명 대통령과의 청와대 만찬과 관련해 \"민간 소비가 상대적으로 낮은 상황을 어떻게 풀어갈지, 예산 항목 중 서로 관심 있는 부분에 관해 이야기를 나눴다\"고 밝혔다.",
-      "김 대표는 12일 당 유튜브 채널 '민티07'에 출연해 '전날(11일) 청와대 만찬에서 어떤 이야기가 오갔느냐'는 질문에 이같이 답했다.",
-      "그는 \"예산과 경제 이야기를 많이 했다."
+      "네이버가 커머스와 금융, 글로벌 개인간거래(C2C) 등 주요 사업의 고른 성장에 힘입어 올해 3분기 두 자릿수 매출 증가세를 기록했다.",
+      "인공지능(AI) 인프라와 콘텐츠, 오프라인 사업 등에 대한 투자 확대로 영업이익은 감소했지만, 기존 플랫폼 사업의 경쟁력을 강화하는 동시에 새로운 수익원 확보에 속도를 낸다는 방침이다.",
+      "특히 연내 개인형 AI 에이전트 출시와 물류 전문 자회사 설립을 통해 커머스 생태계를 확대하고, 엔비디아·브룩필드와 추진하는."
     ],
     "chips": [
-      "#정치"
+      "#AI",
+      "#엔비디아",
+      "#네이버"
     ]
   },
   {
-    "id": "n1c6d7d96",
-    "category": "경제",
-    "source": "머니투데이",
+    "id": "n0f7e78b8",
+    "category": "부동산",
+    "source": "테크M",
     "time": "방금 전",
-    "url": "https://www.mt.co.kr/stock/2026/11/12/2026111208462135770",
-    "title": "이마트, 자회사 정상화·재무구조 개선 필요…목표가↓-신한",
+    "url": "https://www.techm.kr/news/articleView.html?idxno=157268",
+    "title": "엔씨 '쓰론 앤 리버티' 글로벌 직접 서비스...'아이온2' 성공 노하우 쏟는다",
     "summary": [
-      "신한투자증권이 이마트에 대해 자회사 정상화와 재무구조 개선을 통한 불확실성 해소가 필요하다며 목표주가를 기존 9만원에서 7만8000원으로 하향조정한다고 12일 밝혔다.",
-      "이마트의 3분기 매출은 전년동기대비 1.2% 증가한 7조4919억원, 영업손실은 461억원을 기록했다.",
-      "시장 컨센서스를 하회한 수치다."
+      "엔씨는 12일 MMORPG '쓰론 앤 리버티(TL)' 글로벌 서비스를 통합하고, 직접 서비스에 나선다고 밝혔다.",
+      "'아이온2' 전세계 흥행을 이끈 회사의 글로벌 서비스 역량을 TL에 이식하며 흥행을 도모한다는 계획이다.",
+      "특히, 아이온2의 성공을 이끈 세심한 소통 운영 방침을 TL에서도 이어갈 계획을 밝혀 기대가 모인다.PC·콘솔 전체 플랫폼 통합 환경 제공엔씨는 지난 11일 이전까지 아마존 게임 스튜디오가 담당해온 TL의 자사 글로벌 서비스 이관."
     ],
     "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n2e666e87",
-    "category": "사회",
-    "source": "아시아경제",
-    "time": "1분 전",
-    "url": "https://view.asiae.co.kr/article/2026111208482486549",
-    "title": "현대로템, ESG 평가 3년 연속 최고등급 'A+'",
-    "summary": [
-      "현대로템이 3년 연속 국내 ESG(환경·사회·지배구조) 평가에서 최고 등급을 받았다.",
-      "현대로템은 한국ESG기준원(KCGS)이 발표한 '2026 상장기업 ESG 평가 및 등급 공표 결과'에서 통합 A+(매우 우수) 등급을 받았다고 12일 밝혔다.",
-      "2024년 처음 통합 A+를 받은 뒤 3년째 최고 등급을 지켰다."
-    ],
-    "chips": [
+      "#전세",
       "#환경"
     ]
   },
   {
-    "id": "n2155ba10",
-    "category": "사회",
-    "source": "아시아경제",
-    "time": "1분 전",
-    "url": "https://view.asiae.co.kr/article/2026111208480172853",
-    "title": "이제서야 북한지뢰 대비하겠다는 육군[양낙규의 Defence Club]",
+    "id": "n04dda53d",
+    "category": "부동산",
+    "source": "테크M",
+    "time": "방금 전",
+    "url": "https://www.techm.kr/news/articleView.html?idxno=157259",
+    "title": "게임 흥행 역사 다시 쓰는 'GTA6'...국내 게임업계도 예의주시",
     "summary": [
-      "육군이 뒤늦게 북한 지뢰 폭발에 대비한 장구류 강화에 나섰다.",
-      "2015년 8월 비무장지대(DMZ) 지뢰 폭발사건에 이어 올해 9월에 25보병사단 지뢰 폭발이 연이어 발생하자 장병 안전을 위한 대책에 나선 셈이다.",
-      "12일 군에 따르면 북한의 목함지뢰의 폭약인 TNT는 약 220g이 들어간다."
+      "오는 19일 출시 예정인 락스타게임즈의 신작 '그랜드 테프트 오토6(GTA6)'가 출시 전부터 전세계를 들썩이게 만들고 있다.",
+      "지스타 26의 개막일에 전 세계 동시 출시되는 만큼 국내 게임업계도 신작을 예의주시하는 모습이다.",
+      "시리즈 전작이 수립한 '출시 후 24시간 동안 가장 많이 팔린 비디오게임' 기네스 기록을 새롭게 쓰는 것이 확실시되고 있어 주목된다.GTA6 사전 판매 1000만장, 전작 기네스 기록 경신 확실시GTA6는 범죄를 주제로 한."
     ],
     "chips": [
-      "#뉴스"
+      "#전세"
     ]
   },
   {
-    "id": "n02b9c890",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "1분 전",
-    "url": "https://www.newsis.com/view/NISX20261112_0003864816",
-    "title": "\"씰리 할인가에 사세요\"…'블랙프라이데이' 개최",
-    "summary": [
-      "[서울=뉴시스]강은정 기자 = 씰리침대는 이달 22일까지 '블랙프라이데이' 프로모션을 열고 주요 제품을 할인한다고 12일 밝혔다.",
-      "연말 쇼핑 시즌을 맞아 마련된 이번 프로모션에서는 온라인 판매 전용 매트리스 '메리미2'를 포함해 '아델', '베루스' 등을 할인가에 선보인다.",
-      "유로탑 토퍼가 적용된 베루스는 행사 특가에 신규 회원 대상 10% 할인 쿠폰과 선착순 11% 할인 쿠폰을 중복 사용할 수 있다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "na267642d",
+    "id": "n463fefd4",
     "category": "IT",
+    "source": "테크M",
+    "time": "방금 전",
+    "url": "https://www.techm.kr/news/articleView.html?idxno=157265",
+    "title": "[인텔 AI 서밋] \"AI 혼자 할 수 없다\" 배태원 인텔코리아 대표, K-AI 생태계 협력 강조",
+    "summary": [
+      "인텔이 국내 기업과 스타트업, 개발자를 연결하는 AI 생태계 협력을 강화한다.",
+      "국산 서버 기반의 개방형 인프라 구축과 유망 스타트업의 성장 지원을 통해 한국 기업들의 AI 적용과 글로벌 사업 확장에 협력한다는 방향이다.배태원 인텔코리아 대표이사는 12일 서울 강남구 코엑스 오디토리움에서 열린 '인텔 AI 서밋 서울 2026' 환영사에서 \"좋은 아이디어와 기술이 있어도 요즘은 혼자 할 수는 없다\"며 \"인텔은 한국 AI 생태계와 함께 성장하는 것을."
+    ],
+    "chips": [
+      "#AI",
+      "#스타트업"
+    ]
+  },
+  {
+    "id": "nc81c6c83",
+    "category": "부동산",
+    "source": "아시아경제",
+    "time": "1분 전",
+    "url": "https://view.asiae.co.kr/article/2026111213283673972",
+    "title": "'의용소방대 산불교육' 332명 불과…\"안전시스템 근본 점검\"",
+    "summary": [
+      "전남광주통합특별시의회가 소방 대원들의 현장 안전 불감증과 공무원 교육기관의 중복 운영 문제를 도마 위에 올리며, 통합 시정에 걸맞은 강도 높은 쇄신과 대책 마련을 촉구하고 나섰다.",
+      "박성재 전남광주통합특별시의회 행정소방위원장(더불어민주당·해남2)은 지난 11일 소방본부를 비롯해 전남인재개발원, 광주인재교육원을 대상으로 한 2026년도 행정사무감사에서 재난 현장의 철저한 대원 안전 확보와 통합 시정에 부합한 교육기관의 특화 및 협력 체계 구축을 주."
+    ],
+    "chips": [
+      "#재건축",
+      "#교육"
+    ]
+  },
+  {
+    "id": "n7671f325",
+    "category": "사회",
     "source": "뉴시스",
     "time": "1분 전",
-    "url": "https://www.newsis.com/view/NISX20261112_0003864819",
-    "title": "\"젠슨 황 결핍 파고든 '맞춤형 스파이' 가능성 99.9%\"…전문가가 본 노림수",
+    "url": "https://www.newsis.com/view/NISX20261112_0003865517",
+    "title": "산청군, 복권기금 활용 밀원수 조림…내년 15㏊",
     "summary": [
-      "[서울=뉴시스] 김종민 기자 = 엔비디아 최고경영자(CEO) 젠슨 황이 '앨리스 황(Alice Huang·중국명 황러)'과의 사적 관계를 시인한 가운데, 경제학자 김대호 글로벌이코노믹 연구소장은 유튜브 시사 채널 '김현정의 고수다'에 출연해 이번 사태를 \"중국 정보기관이 젠슨 황이라는 특정 인물의 성장 배경과 심리적 약점을 파악해 투입한 맞춤형 타깃 공작\"으로 규정했다.",
-      "김 박사는 앨리스 황이 단순한 사업 파트너나 내연 관계를 넘어 기획된 스파."
-    ],
-    "chips": [
-      "#엔비디아"
-    ]
-  },
-  {
-    "id": "n3d65f7ab",
-    "category": "사회",
-    "source": "아시아경제",
-    "time": "2분 전",
-    "url": "https://view.asiae.co.kr/article/2026111208361391798",
-    "title": "\"오늘도 패딩 입고 운전했는데\"…\"큰일난다\" 전문가 경고, 겨울철 운전자 주의보",
-    "summary": [
-      "기온이 떨어지면서 패딩을 입은 채 운전하거나 차량에 탑승하는 일이 잦아지고 있다.",
-      "하지만 두꺼운 겨울 외투가 교통사고 발생 시 탑승자의 신체를 보호하기는커녕 오히려 중상 위험을 높이는 결정적 원인이 될 수 있다는 전문가들의 경고가 잇따르고 있다.",
-      "안전벨트와 신체 사이에 생기는 유격으로 인해 보호 기능이 크게 저하되면서 충돌 순간 내부 장기 손상이나 체외 이탈 등 치명적인 결과로 이어질 수 있다는 지적이다."
+      "[산청=뉴시스] 서희원 기자 = 경남 산청군이 복권기금을 활용해 밀원수 조림사업을 추진한다.",
+      "12일 산청군에 따르면 지역 양봉산업의 안정적인 생산 기반을 마련하고 산림의 공익적 기능을 증진하기 위해 복권기금을 활용한 밀원수 조림사업을 추진하고 잇다.",
+      "군은 지난해 군유림 10㏊에 쉬나무 등 3종 3만본을 식재했으며 올해에도 단성면 청계리 군유림 일원 10㏊에 밀원수종 아까시나무 3만본을 식재하는 등 20ha 규모의 밀원 숲을 조성했다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "nd01b7900",
+    "id": "nb3f41875",
     "category": "사회",
     "source": "뉴시스",
     "time": "2분 전",
-    "url": "https://www.newsis.com/view/NISX20261112_0003864763",
-    "title": "오사카에 8만명 몰려…무신사, 日 팝업 역대 최대 흥행",
+    "url": "https://www.newsis.com/view/NISX20261112_0003865519",
+    "title": "공군 11전비, 두번째 전투태세훈련…적 무인기 대응점검",
     "summary": [
-      "[서울=뉴시스]권민지 기자 = 무신사가 일본 오사카에서 진행한 팝업스토어에 17일간 약 8만명이 방문하며 현지에서 개최한 역대 팝업 중 최대 방문객 수를 기록했다.",
-      "오프라인에서의 관심이 온라인 구매로도 이어지면서 일본 시장 확대에 속도를 내는 모습이다.",
-      "무신사는 지난달 23일부터 이달 8일까지 일본 오사카 우메다의 복합문화공간 'VS.'에서 운영한 '무신사 오사카 팝업 스토어 2026'이 역대 최대 집객 성과를 거뒀다고 12일 밝혔다."
+      "[대구=뉴시스]정재익 기자 = 공군 제11전투비행단은 전시 작전 수행 능력을 높이기 위한 올해 두번째 전투태세훈련을 마쳤다고 12일 밝혔다.",
+      "지난 9일부터 나흘간 진행된 이번 훈련은 지휘관·참모의 위기 대응을 위한 전투지휘소 연습과 장병·군무원의 전시 임무 숙달을 위한 야외기동훈련으로 이뤄졌다.",
+      "11전비는 기지 침투와 인질극을 가정한 대테러 종합훈련, 화생방 공격에 대비한 재난통제·핵전 대응 훈련, 야간 기지방호 훈련 등을 실시했다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n6650ab8b",
+    "id": "n12619ac4",
     "category": "경제",
-    "source": "머니투데이",
+    "source": "뉴시스",
     "time": "2분 전",
-    "url": "https://www.mt.co.kr/stock/2026/11/12/2026111208380739714",
-    "title": "\"삼양식품, 베트남 공장 증설로 중장기 매출 6조원 돌파 가능\"-키움",
+    "url": "https://www.newsis.com/view/NISX20261112_0003865512",
+    "title": "'코스닥 상·하한가 폐지설'에 금융당국 \"사실무근…허위정보 엄정 조치\"(종합)",
     "summary": [
-      "키움증권, 삼양식품 밸류에이션 상승 전망 투자 '매수' 의견·목표주가 185만원 유지 키움증권이 삼양식품의 베트남 해외 공장 증설로 중장기 연 매출이 6조원을 돌파할 것으로 전망, 목표가 185만원을 유지했다.",
-      "박상준 키움증권 연구원은 12일 리포트에서 \"삼양식품이 최대 8개 라인을 증설할 수 있다는 점을 고려하면 전체 투자금액은 총 3500억원 이상으로 늘어날 수 있다.",
-      "생산능력은 현재 28억6000만식에서 내년 1월 39억6000만식, 20."
+      "[서울=뉴시스]김민수 강수윤 기자 = 금융당국이 코스닥 시장의 가격제한폭을 완화하거나 단계적으로 폐지하는 방안을 검토하고 있다는 소문에 대해 사실이 아니라고 밝혔다.",
+      "근거 없는 풍문을 유포하는 행위가 자본시장법상 불공정거래에 해당할 수 있다며 위법 행위가 확인되면 엄정 조치하겠다고 경고했다.",
+      "12일 금융위원회와 금융감독원은 최근 인터넷과 사회관계망서비스(SNS)에서 유포되고 있는 '13일 코스닥 추가 대책 발표' 관련 내용은 전혀 사실이 아니라."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n9648bbe7",
-    "category": "경제",
-    "source": "아시아경제",
-    "time": "2분 전",
-    "url": "https://view.asiae.co.kr/article/2026111208354261613",
-    "title": "\"신고 아니고 진로 상담이요\"…지구대로 뛰어든 초등생의 반전 용건",
-    "summary": [
-      "지구대로 급히 뛰어든 초등학생이 경찰관에게 요청한 것은 신고가 아니라 진로 상담이었다.",
-      "\"경찰이 꿈이에요\"…지구대 문 두드린 초등학생 경찰청은 11일 공식 유튜브 채널 '대한민국 경찰청'에 지난 9월 28일 대전의 한 지구대에서 찍힌 영상을 올렸다.",
-      "영상 속 한 아이가 지구대로 급히 뛰어오자 놀란 경찰관이 문을 열고 무슨 일인지 물었다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nbf5cac8d",
-    "category": "경제",
-    "source": "머니투데이",
-    "time": "2분 전",
-    "url": "https://www.mt.co.kr/tech/2026/11/12/2026111208451647453",
-    "title": "지니언스, 3분기 누적 영업익 274% 급증…영업이익률 20.9%",
-    "summary": [
-      "NAC·EDR 동반 성장…매출 24% 늘어난 387억원 지니언스가 올해 3분기 누적 기준 매출과 영업이익 모두 큰 폭으로 성장했다.",
-      "지니언스는 2026년 3분기 누적 연결 매출 387억원, 영업이익 81억원을 기록했다고 12일 밝혔다.",
-      "전년 동기 대비 매출은 24.0%, 영업이익은 273.9% 증가했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nfcf22b0b",
+    "id": "neb9e2135",
     "category": "사회",
     "source": "뉴시스",
-    "time": "3분 전",
-    "url": "https://www.newsis.com/view/NISX20261112_0003864768",
-    "title": "\"우리 바다의 맛을 담았다\" 풀무원, 김·미역 신제품 4종 선봬",
+    "time": "2분 전",
+    "url": "https://www.newsis.com/view/NISX20261112_0003865420",
+    "title": "[현장] 이부진·델핀 아르노 '팔짱에 ♥'…정의선·신동빈·신유열도 한자리",
     "summary": [
-      "[서울=뉴시스]김상윤 기자 = 풀무원식품은 해남산 재래김과 고흥산 김밥김, 남해안 김가루, 완도산 미역 등 지역별 원초의 특성을 살린 해조류 신제품 4종을 출시했다고 12일 밝혔다.",
-      "풀무원에 따르면 이번 신제품은 해조류 브랜드 '우리바다'를 새롭게 선보이며 출시한 첫 제품으로 김 3종과 미역 1종으로 구성됐다.",
-      "풀무원은 원초의 두께와 조직감, 풍미 등 산지별 특성을 고려해 제품 용도에 적합한 원료를 선정했다."
+      "[서울=뉴시스]동효정 기자 = 이부진 호텔신라 사장이 델핀 아르노 크리스찬 디올 회장의 팔짱을 끼고 나란히 서서 손가락 하트를 만들었다.",
+      "두 사람은 다른 참석자들과 함께 사진을 찍는 데 그치지 않고 별도로 단둘이 사진을 촬영하며 친분을 드러냈다.",
+      "12일 서울 서대문구 이화여자대학교에서 열린 아르노 회장의 명예 경영학박사 학위 수여식에는 이부진 사장을 비롯한 국내 재계 주요 인사들도 대거 참석했다."
     ],
     "chips": [
-      "#뉴스"
+      "#교육"
     ]
   },
   {
-    "id": "n3f1c7cb8",
+    "id": "n610286f0",
     "category": "부동산",
     "source": "동아일보",
-    "time": "3분 전",
-    "url": "https://www.donga.com/news/Politics/article/all/20261112/135011405/1",
-    "title": "김민석, ‘신천지 내홍’에 “정청래 만나 대화로 풀겠다”",
+    "time": "4분 전",
+    "url": "https://www.donga.com/news/Economy/article/all/20261112/135013501/1",
+    "title": "HM그룹, 美뉴욕 트라이베카 개발사업 착공…김한모 회장 “K-디벨로퍼 영역 확장”",
     "summary": [
-      "김민석 더불어민주당 대표가 신천지 연루 의혹 및 당내 갈등을 빚고 있는 정청래 의원과 직접 만나 소통하겠다는 의지를 내비쳤다.",
-      "아울러 최근 당정 간 논란이 됐던 종합부동산세(종부세) 기본공제 상향 조정설에 대해서는 공식 건의가 아니었다며 선을 그었다.김 대표는 12일 민주당 공식 유튜브 채널에 출연해 최근 불거진 ‘신천지 내홍’ 사태와 관련해 정청래 의원과의 만남 추진 계획을 밝혔다.",
-      "그는 “(정 의원을) 만나서 대화로 풀어가자고 생각하고 있고."
+      "부동산 개발업체 HM그룹이 미국 뉴욕 맨해튼 트라이베카 일대에 고급 콘도미니엄을 조성하는 사업에 착수했다.",
+      "규모는 지하 2층~지상 10층 1개동 23가구로, 최상층 2가구는 펜트하우스로 조성된다.",
+      "총 사업비는 약 1800억 원이다."
     ],
     "chips": [
       "#부동산"
     ]
   },
   {
-    "id": "n556d3cac",
+    "id": "n6a5a6c63",
     "category": "IT",
-    "source": "연합뉴스",
-    "time": "6분 전",
-    "url": "https://www.yna.co.kr/view/AKR20261112020752072",
-    "title": "\"엔비디아 이사회, 젠슨황 해임 준비…거취결정 회의 예정\"(종합)",
+    "source": "조선일보",
+    "time": "5분 전",
+    "url": "https://www.chosun.com/international/international_general/2026/11/12/KPVBS5XBERCZFMNWA7ABPJ7TEQ/",
+    "title": "“젠슨 황 해임, 엔비디아엔 1조 달러짜리 딜레마”",
     "summary": [
-      "(뉴욕·샌프란시스코=연합뉴스) 임수정 권영전 특파원 = 젠슨 황 엔비디아 최고경영자(CEO)가 외도 사실을 시인한 지 불과 3일 만에 이사회가 ..."
+      "“젠슨 황 해임, 엔비디아엔 1조 달러짜리 딜레마”."
     ],
     "chips": [
       "#엔비디아"
     ]
   },
   {
-    "id": "n6f7c5af1",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "7분 전",
-    "url": "https://www.yna.co.kr/view/AKR20261112030100063",
-    "title": "단국대 천안캠퍼스, 새 랜드마크 '정문·상징탑' 준공",
+    "id": "n13665721",
+    "category": "스포츠",
+    "source": "아시아경제",
+    "time": "5분 전",
+    "url": "https://view.asiae.co.kr/article/2026111213442097773",
+    "title": "HLB제약, 경기 화성 향남 신공장 기공식…의약품 생산능력 확대",
     "summary": [
-      "(천안=연합뉴스) 유의주 기자 = 단국대는 11일 천안캠퍼스에서 '정문 및 상징탑 건립 기념식'을 열었다고 12일 밝혔다."
+      "HLB제약이 경기 화성시 향남 신공장 기공식을 열었다.",
+      "진양곤 HLB그룹 이사회 의장은 12일 축사에서 \"HLB는 지난 19년간 끊임없는 도전과 위기 극복을 통해 글로벌 항암신약 개발에 성공했다\"며 \"향남 신공장이 우수한 의약품을 전 세계에 안정적으로 공급하고, 인류의 삶을 더 낫게 만들겠다는 HLB의 기업정신을 실현하는 핵심 생산거점이 되기를 기대한다\"고 밝혔다.",
+      "향남 신공장은 총 550억원을 투입해 건립하는 의약품 생산시설로, 약 3만124."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n5f1c868a",
+    "id": "n65d9e7c4",
+    "category": "경제",
+    "source": "아시아경제",
+    "time": "6분 전",
+    "url": "https://view.asiae.co.kr/article/2026111213214553240",
+    "title": "영암자동차경주장 총체적 부실…공사 '하세월' 혈세 '펑펑'",
+    "summary": [
+      "전남광주통합특별시 영암 국제자동차경주장의 긴급 안전보강 공사가 확정된 지 1년 10개월이 지나도록 첫 삽조차 뜨지 못한 가운데, 스스로 수익을 내야 하는 '자립수익형' 위탁 운영사에 수억 원의 혈세가 지원된 것으로 드러나 논란이 일고 있다.",
+      "12일 전남광주통합특별시의회에 따르면 박재선 의원(더불어민주당·완도1)은 지난 10일 열린 문화관광체육위원회 소관 관광국 행정사무감사에서 영암 국제자동차경주장의 긴급 안전보강 공사 지연 문제와 위탁 운영사에."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "ncf1cdbb0",
+    "category": "경제",
+    "source": "아시아경제",
+    "time": "6분 전",
+    "url": "https://view.asiae.co.kr/article/2026111213432260942",
+    "title": "\"세계에서 가장 안전한 LCC\"…홍콩익스프레스, 성수동서 브랜드 행사 개최",
+    "summary": [
+      "홍콩 유일의 저비용 항공사(LCC) 홍콩익스프레스(HK Express)가 한국 시장에서의 인지도 확장에 나섰다.",
+      "홍콩익스프레스는 12일 서울 성수동에서 국내 첫 오프라인 소비자 대상 브랜드 행사를 개최했다.",
+      "이번 행사는 홍콩익스프레스가 동북아시아 주요 시장 중 하나인 한국에서 고객과의 소통을 확대하기 위해 마련됐다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nc7900aff",
+    "category": "경제",
+    "source": "연합뉴스",
+    "time": "6분 전",
+    "url": "https://www.yna.co.kr/view/AKR20261112107600527",
+    "title": "한국가스공사 3분기 영업이익 5천878억원…작년 대비 51.1%↑",
+    "summary": [
+      "(서울=연합뉴스) 코스피 상장사 한국가스공사[036460]는 연결 기준 올해 3분기 영업이익이 5천878억원으로 지난해 동기보다 51.1% 증가..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n4e5edd4a",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "7분 전",
+    "url": "https://www.chosun.com/entertainments/broadcast/2026/11/12/GJSWMYJZMM2DEMZSMYZWMOJTG4/",
+    "title": "이진영, '엄마가 미쳤어요' OST 가창..어쿠스틱 발라드 '왜 이제야' 14일 발매",
+    "summary": [
+      "[OSEN=장우영 기자] ‘의사 가수’ 이진영이 ‘엄마가 미쳤어요’ 서사에 몰입도를 더한다.이진영이 가창한 KBS1 일일드라마 ‘엄마가 미쳤어요’ OST ‘왜 이제야’가 오는 14일 각종 음원 사이트를 통해 발매된다.‘왜 이제야’는 서정적인 어쿠스틱 기타 리듬과 이진영 특유의 따뜻하고 호소력 있는 보컬이 어우러진 어쿠스틱 발라드 장르의 곡이다.현직 피부과."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n58607b3e",
     "category": "사회",
     "source": "연합뉴스",
     "time": "8분 전",
-    "url": "https://www.yna.co.kr/view/AKR20261112028800008",
-    "title": "NH증권 \"코스맥스, 명확한 양적·질적 성장…목표가↑\"",
+    "url": "https://www.yna.co.kr/view/AKR20261112105000371",
+    "title": "[동포의 창] 한국·외국인 청년들, 충주서 K-헬스케어 산업·문화 탐방",
     "summary": [
-      "(서울=연합뉴스) 김태종 기자 = NH투자증권은 12일 K-뷰티 업체 코스맥스[192820]에 대해 \"양적, 질적 성장이 기대된다\"며 투자의견 ..."
+      "(서울=연합뉴스) 성도현 기자 = 한국 대학생과 외국인 유학생, 이주민 청년들이 충북 충주의 바이오·헬스케어 산업 현장을 찾아 진로와 지역 정착..."
     ],
     "chips": [
-      "#뉴스"
+      "#교육"
     ]
   },
   {
-    "id": "n390a1e82",
-    "category": "스포츠",
-    "source": "연합뉴스",
-    "time": "9분 전",
-    "url": "https://www.yna.co.kr/view/AKR20261112028400530",
-    "title": "오늘 서울·경기 미세먼지 '나쁨'…낮 최고 21도 '포근'",
-    "summary": [
-      "(서울=연합뉴스) 이재영 기자 = 12일 서울과 경기는 초미세먼지(PM2.5) 농도가 '나쁨' 수준으로 짙겠다.",
-      "경기내륙을 비롯한 내륙을 중심으..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n42a6a61b",
-    "category": "스포츠",
+    "id": "n1b9d2842",
+    "category": "사회",
     "source": "조선일보",
     "time": "9분 전",
-    "url": "https://www.chosun.com/sports/world-baseball/2026/11/12/MI4DEZDBGUZGCZLCMUYTMY3CGQ/",
-    "title": "‘돈이 없는건 아니다’ 다저스, 왜 ‘스쿠발 어게인’ 어렵나…토론토·메츠·샌디에이고 영입 경쟁 뜨겁다",
+    "url": "https://www.chosun.com/international/international_general/2026/11/12/GTEDTCCE25GSZIKPF6F3CYBO74/",
+    "title": "APEC 앞두고 미·중 외교수장 통화… 中, 핵군축엔 신중",
     "summary": [
-      "[OSEN=길준영 기자] LA 다저스가 2년 연속 사이영상을 수상한 타릭 스쿠발(30)과 다시 한 번 함께 하기 위해 나설 수 있다는 전망이 나왔다.",
-      "미국매체 MLB트레이드루머스는 12일(한국시간) “LA 다저스가 FA 최대어 타릭 스쿠발 영입전에 뛰어들었지만, 최종 계약의 형태가 매우 중요한 변수가 될 전망”이라고 전했다.",
-      "스쿠발은 메이저리그 통산 163."
+      "APEC 앞두고 미·중 외교수장 통화… 中, 핵군축엔 신중."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n31f678b3",
-    "category": "사회",
-    "source": "연합뉴스(경제)",
-    "time": "10분 전",
-    "url": "https://www.yna.co.kr/view/AKR20261112028100030",
-    "title": "오뚜기프렌즈, 창립 5주년…장애인 고용 25명으로 확대",
-    "summary": [
-      "(서울=연합뉴스) 한주홍 기자 = 오뚜기[007310]의 자회사형 장애인 표준사업장 오뚜기프렌즈가 창립 5주년을 맞아 지난 11일 기념식을 열었..."
-    ],
-    "chips": [
-      "#고용"
-    ]
-  },
-  {
-    "id": "ne6dce784",
+    "id": "ne0e98b05",
     "category": "IT",
-    "source": "연합뉴스(경제)",
-    "time": "11분 전",
-    "url": "https://www.yna.co.kr/view/AKR20261112030000005",
-    "title": "AI와 저작권의 상생 논의…'2026 서울 저작권 포럼'",
+    "source": "연합뉴스",
+    "time": "9분 전",
+    "url": "https://www.yna.co.kr/view/AKR20261112051400017",
+    "title": "[AI픽] AI 오류·위험 국민이 찾는다…'AI 안전 지킴이' 출범",
     "summary": [
-      "(서울=연합뉴스) 임순현 기자 = 문화체육관광부와 한국저작권위원회는 12일 서울 중구 앰배서더 서울 풀만 호텔에서 '2026 서울 저작권 포럼'..."
+      "(서울=연합뉴스) 권하영 기자 = 인공지능(AI)이 생성하는 잘못된 정보나 편향된 답변, 보안 취약점 등을 국민이 직접 찾아내고 제보하는 상시 ..."
     ],
     "chips": [
       "#AI"
     ]
   },
   {
-    "id": "n8739d56a",
+    "id": "nb6018bf7",
     "category": "스포츠",
-    "source": "조선비즈IT",
-    "time": "11분 전",
-    "url": "https://biz.chosun.com/it-science/ict/2026/11/12/5Y3H6SUTMJDIZGQVIGQXLDK3AU/",
-    "title": "삼성전자·IOC, 아프리카 첫 청소년 올림픽서 미래 혁신가 지원",
+    "source": "동아일보",
+    "time": "10분 전",
+    "url": "https://www.donga.com/news/list/article/all/20261112/135013401/2",
+    "title": "맥라렌 서울, 스타필드 하남에 브랜드 체험형 팝업 운영",
     "summary": [
-      "삼성전자·IOC, 아프리카 첫 청소년 올림픽서 미래 혁신가 지원."
+      "맥라렌 오토모티브 한국 공식 리테일 파트너인 맥라렌 서울은 연말까지 경기도 스타필드 하남에서 ‘맥라렌 브랜드 익스피리언스’ 팝업을 운영한다고 12일 밝혔다.이번 팝업은 보다 다양한 고객층이 일상에서 맥라렌 브랜드 가치와 제품 경쟁력을 경험할 수 있도록 기획됐다.",
+      "차량 전시를 비롯해 모터스포츠 헤리티지, 라이프스타일 제품, 구매 상담 공간 등을 한곳에 마련해 단순한 신차 전시를 넘어 브랜드 전반을 체험할 수 있도록 했다.스타필드 하남 2층에 조성."
     ],
     "chips": [
-      "#삼성전자"
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n6328b69e",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "10분 전",
+    "url": "https://www.yna.co.kr/view/AKR20261112106400063",
+    "title": "대전 서구 이어 대덕구도 '구청장 직통민원' 운영",
+    "summary": [
+      "(대전=연합뉴스) 이재림 기자 = 대전 대덕구는 주민들의 생활 불편 민원을 문자 메시지로 간편하게 접수할 수 있는 '구청장 바로 문자 민원 서비..."
+    ],
+    "chips": [
+      "#뉴스"
     ]
   }
 ];
@@ -644,14 +649,14 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2590건",
-    "trend": "+295%"
+    "mentions": "2330건",
+    "trend": "+255%"
   },
   {
     "rank": 2,
     "tag": "AI",
-    "mentions": "1680건",
-    "trend": "+155%"
+    "mentions": "1810건",
+    "trend": "+175%"
   },
   {
     "rank": 3,
