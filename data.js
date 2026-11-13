@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-11-13 10:17:42
+// 마지막 업데이트: 2026-11-13 18:16:49
 window.NEWS_DB = [
   {
     "id": "nfb880965",
     "category": "IT",
     "source": "서울파이낸스",
-    "time": "2시간 전",
+    "time": "10시간 전",
     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5nNUtFODRweFNPMEFQQ2NtWWJCd3Y4bWU1M29qTjFCRGEtWlNyckNxVl9xS0RzTmg3MFI3NFdYWk00MmhIRWY5a2NiQUpMU3BtV2s1NEZoVGlLYzVnQUQzNnZLb2k5RURhX2c?oc=5",
     "title": "[AI제국의 위기 ③] 젠슨 황 퇴장에 HBM 경쟁 새 국면···삼성 반격·SK 수성",
     "summary": [
@@ -20,7 +20,7 @@ window.NEWS_DB = [
     "id": "n321751bf",
     "category": "IT",
     "source": "비즈니스포스트",
-    "time": "2시간 전",
+    "time": "10시간 전",
     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5SbnBneTZEaWkwZnlpSUs0WHdBNk9XdHRWek1OM080Mm5McWlpaUUtbVVJOHdfVEFQd2hEdFZEWHVpMHFNV3hKWEN3WkIycHZubWF5ZmtIVmZ4bzd5ZkdvMUZrRW1Za3RldUlqQ3FXbWFIemc?oc=5",
     "title": "엔비디아판 '콘클라베' 결과가 AI 산업 전반에 변수, 젠슨 황 역할 대체하기 쉽지 않아",
     "summary": [
@@ -35,7 +35,7 @@ window.NEWS_DB = [
     "id": "nd50a941e",
     "category": "IT",
     "source": "OhmyNews",
-    "time": "3시간 전",
+    "time": "11시간 전",
     "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE53YVZOV1doSnM0UzY0Z2VyaENtbXF6YVh1NS1xMVExbk9YMXVsYnd2eXUtSXk4QjNFUVJRaklxRTlKd1ZiTGJHanV3V2tqUjZ4alZxSFN0aER5T24wWE1VeGo1OW9hMFJJTXhBeGRvRXU0Z2tWQTBv?oc=5",
     "title": "젠슨 황 사임에 정부 긴급 회의... 국산 AI 반도체 육성 가속화",
     "summary": [
@@ -51,7 +51,7 @@ window.NEWS_DB = [
     "id": "n9187ef6f",
     "category": "IT",
     "source": "뉴스핌",
-    "time": "3시간 전",
+    "time": "11시간 전",
     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE40LVRjX3FHVDNWN1FtOWFSTUNPSG50U1RkSXBHeFl1bmFxT2t4YXhwVU0yRHdfTkFFYjBSVDFJS2hQelpKM0VCdGJjdnprWFRFakwwWnduZjMxU0Vk?oc=5",
     "title": "엔비디아 위기, 삼성·SK엔 기회…HBM 공급망 재편 촉각",
     "summary": [
@@ -63,16 +63,17 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "ndb7f5ea3",
+    "id": "n8e8d8296",
     "category": "IT",
-    "source": "머니투데이",
-    "time": "4시간 전",
-    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBxYk9DM3lPc3Q2THZKLU10NUpPNXhDdlMwLXhLc0dlZXVsMG9fT0k5bDlXdl9Jd21GRV9iOTE3S0wwbWZFV0tEOWtvQkpFRHpBWTZKVHNJcGxyTFlyR0FzOHVPaVZldF9S0gFuQVVfeXFMUDNkOEFVWnRCd3pNenk4c1lxSl9HaTFhbmE3eUZBbkZUR1VGTkRmVGJ6NC1rMjlsSE1ob1lwQnYwSnhZZkpsQWtuS1J5dHpaN2NULWJiYzNJVXpvcF9SZndnZFJoR3RwZWZDTHJ1U3c?oc=5",
-    "title": "흔들리는 엔비디아…구글·AMD, 칩 시장 '지각변동' 일으키나 - 머니투데이",
+    "source": "매일경제 마켓",
+    "time": "13시간 전",
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBiZTJjclJpaDlfblJGcDNtcm4zZUxyR25ReXFTZXJLZE5nckZTWF94UkZ5V3pKYU9uVEp1RVdyT2RjR2xKVHF0X1czamd0QjVxakE?oc=5",
+    "title": "엔비디아 떨어져도 오르는 ‘삼전닉스’…“관건은 AI 투자 지속 여부”",
     "summary": [
-      "흔들리는 엔비디아…구글·AMD, 칩 시장 '지각변동' 일으키나 - 머니투데이 머니투데이."
+      "엔비디아 떨어져도 오르는 ‘삼전닉스’…“관건은 AI 투자 지속 여부” 매일경제 마켓."
     ],
     "chips": [
+      "#AI",
       "#엔비디아"
     ]
   },
@@ -80,7 +81,7 @@ window.NEWS_DB = [
     "id": "n9724fc96",
     "category": "IT",
     "source": "데일리연합",
-    "time": "6시간 전",
+    "time": "14시간 전",
     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9SZmxSTDNFRF9DeXdRc2xORERWSk15cVFlSHdta2R1M1AtclpacWo3UHNLWTJDQ0NMal9HREV6VFlwbkdNeHpkRm5mTTZsQW5McmhtUTFCbXdrYnM?oc=5",
     "title": "젠슨 황 퇴진, 엔비디아 독주 흔들리나…삼성전자·SK하이닉스·국내 AI 반도체 새로운 기회",
     "summary": [
@@ -97,7 +98,7 @@ window.NEWS_DB = [
     "id": "n7dc9ec31",
     "category": "IT",
     "source": "캐어유 뉴스",
-    "time": "7시간 전",
+    "time": "15시간 전",
     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1FQ29uMHRGaTg2X3pHV2loLXpIdGpsLXZPcHdLNUh1TnBIQUJERnAzR1pBNTdIN2JYOUV5ME1LSGRTQ0c3MF8xbEV4RjlORE9NM2tFTDFpU3loeFRtZjYzSmRteXN0Z1BWZEVTbWxR?oc=5",
     "title": "될성부른 AI 스타트업에 100억 원 이상, 정부가 2030년까지 유니콘 20곳 키웁니다",
     "summary": [
@@ -238,21 +239,6 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n34c966ee",
-    "category": "경제",
-    "source": "경북매일",
-    "time": "56일 전",
-    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBiZUtzYWdsdUFXQ19FeTJCNFNtaWQwc3ZIa2c5Z0RpYm03ekpKNTZyZi12Q1dybUlfbEE2YW5nM3JiMnZqREFJRDJZN3FPLWc5VVB1V3J2Y3NFdw?oc=5",
-    "title": "미국 금리 오르면 한국은 어디부터 흔들리나…대출·환율·증시 동시 압박",
-    "summary": [
-      "미국 금리 오르면 한국은 어디부터 흔들리나…대출·환율·증시 동시 압박 경북매일."
-    ],
-    "chips": [
-      "#금리",
-      "#환율"
-    ]
-  },
-  {
     "id": "n1b86d5ce",
     "category": "부동산",
     "source": "한국주택경제신문",
@@ -267,14 +253,28 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n9e2a4d38",
+    "id": "nab6b4c6a",
+    "category": "IT",
+    "source": "연합뉴스",
+    "time": "75일 전",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9VQnkyall4bHhWNTJzZTJwdGc5Y1d6eFNpTXBBWGxhOGkyWWJMTFh1Y0Q0UmZhbXB4ay1FaTdiMmhuTnpmMkJwYjlFV2RGdk5kWFJQRHdmLXZTVE3SAWBBVV95cUxNMDE5NmNGZlRab2VJV1pacjVrVnVYWDZwZXVZUW1jMkNrR0czazktam9hbDBnUmY0MzBiV3l5N1NmZ1Jmcjh3YlNMRUtqWS13azI2c1A2WkIyeWhZcVZER3c?oc=5",
+    "title": "원화 강세 힘받나…IIF \"반도체 호조로 코로나 전 수준 회복\"",
+    "summary": [
+      "원화 강세 힘받나…IIF \"반도체 호조로 코로나 전 수준 회복\" 연합뉴스."
+    ],
+    "chips": [
+      "#반도체"
+    ]
+  },
+  {
+    "id": "nf6ba93fa",
     "category": "경제",
     "source": "KB Think",
-    "time": "78일 전",
-    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5fQy1DZnp0bUZyT1VRSW44ZTB2WF91c19YOTFicTFpYXpQdFJiZ0NjOUNaM1JhT1JBYzRTYkNVWXdTaUtKUWlLUFd1SjJvQXBaanNQZGFKbGxvaUV5UklaSDEtX2ZGenNsSnlHQl9Ma015UQ?oc=5",
-    "title": "달러-원, 금통위 종료 후 1,380원대 초반…한은 총재 \"환율 어느 정도 안정\"(상보)",
+    "time": "131일 전",
+    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9IZEZWNjl2UGQ3SDR2MEl6anNtM1h4MmdfOTVLOGJnMGQzc2t3dGt4RDNnMEI5LU0zWlcteEowRGw1bmNpRGVTYjBsR1haRkYxbnRQcjQxVGNyN0xNLXhvUEN3ZWJMR21LdkFLelNMemU4Zw?oc=5",
+    "title": "[채권-주간] 코스피·환율 바라기…24시간 돌아가는 외환시장",
     "summary": [
-      "달러-원, 금통위 종료 후 1,380원대 초반…한은 총재 \"환율 어느 정도 안정\"(상보) KB Think."
+      "[채권-주간] 코스피·환율 바라기…24시간 돌아가는 외환시장 KB Think."
     ],
     "chips": [
       "#환율"
@@ -311,6 +311,22 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n2d6efb0e",
+    "category": "IT",
+    "source": "테크M",
+    "time": "방금 전",
+    "url": "https://www.techm.kr/news/articleView.html?idxno=157347",
+    "title": "'라그나로크 IP'로 실적 키운 그라비티...3Q 영업익 35% '껑충'",
+    "summary": [
+      "그라비티가 라그나로크 IP를 앞세워 올해 3분기 호실적을 달성했다.",
+      "내년에는 글로벌 신작 출시를 확대하고 이용자 제작 콘텐츠(UGC)와 HTML5 기반 플랫폼 사업까지 영역을 넓혀 수익 기반을 다변화한다는 전략이다.그라비티는 올해 3분기 영업이익이 287억원을 기록해 전년 동기 대비 35% 성장했다고 13일 밝혔다.",
+      "같은기간 매출액은 1971억원으로 41.9% 뛰었다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
     "id": "n0d38404a",
     "category": "IT",
     "source": "테크M",
@@ -330,7 +346,7 @@ window.NEWS_DB = [
     "id": "n4ec4ce5b",
     "category": "IT",
     "source": "테크M",
-    "time": "방금 전",
+    "time": "3분 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=157344",
     "title": "노타, 3분기 매출 전년比 51% 증가...영업손실폭도 일부 감소",
     "summary": [
@@ -347,7 +363,7 @@ window.NEWS_DB = [
     "id": "na66029ba",
     "category": "IT",
     "source": "테크M",
-    "time": "방금 전",
+    "time": "3분 전",
     "url": "https://www.techm.kr/news/articleView.html?idxno=157343",
     "title": "이스트소프트, 3분기 매출 전년 대비 9.5% 증가...영업손실도 절반 이하로",
     "summary": [
@@ -360,278 +376,259 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nd172793e",
+    "id": "n46faddc5",
     "category": "IT",
-    "source": "테크M",
-    "time": "방금 전",
-    "url": "https://www.techm.kr/news/articleView.html?idxno=157341",
-    "title": "영림원소프트랩, 3분기 영업이익 8.6% 성장...대형 ERP 사업 수행 영향",
-    "summary": [
-      "영림원소프트랩이 대형 전사적자원관리(ERP) 프로젝트 수행의 영향으로 3분기 매출과 영업이익 모두 성장했다.영림원소프트랩은 3분기 연결 기준 매출 217억원, 영업이익 14억원, 당기순이익 14억원을 기록했다고 13일 밝혔다.",
-      "전년 동기 대비 매출은 5.6%, 영업이익은 8.6% 증가했다.3분기 누적 매출은 631억원으로 전년 동기 대비 12.2% 증가했고, 영업이익은 16억원으로 같은 기간 40.3% 감소했다.",
-      "대형 프로젝트 수행이 확대되면서."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n06694384",
-    "category": "스포츠",
     "source": "뉴시스",
-    "time": "1분 전",
-    "url": "https://www.newsis.com/view/NISX20261113_0003867816",
-    "title": "경기도, 42.2조 내년 예산안 '지각 제출'…지방채·기금 동원",
+    "time": "8분 전",
+    "url": "https://www.newsis.com/view/NISX20261114_0003867928",
+    "title": "美재무 \"유럽 슈퍼마켓 냉장고 해킹에 中 AI 모델 사용\"",
     "summary": [
-      "[수원=뉴시스] 이병희 기자 = 경기도가 42조1946억원 규모의 2027년도 새해 예산안을 법정기한을 이틀 넘긴 13일 도의회에 제출했다.",
-      "가용재원 감소로 지방채와 기금까지 동원했지만, 법정경비 일부와 공무원 인건비 3개월분은 반영하지 못했다.",
-      "도는 이날 오후 6시께 올해 본예산 40조577억원보다 2조1369억원(5.3%) 증가한 2027년도 예산안을 도의회에 넘겼다."
+      "[서울=뉴시스] 문예성 기자 = 스콧 베선트 미국 재무장관이 최근 프랑스 슈퍼마켓의 냉장·냉동고를 마비시킨 사이버 공격에 중국 인공지능(AI) 모델이 사용됐다고 주장했다.",
+      "13일 대만 중앙통신 등에 따르면 베선트 장관은 최근 미국 싱크탱크 헤리티지재단에서 열린 행사에서 유럽 슈퍼마켓을 겨냥한 사이버 공격과 관련해 이같이 밝혔다.",
+      "베선트 장관은 \"프랑스의 슈퍼마켓 150곳에서 냉장시설이 꺼진 사건을 본 사람이 있는지 모르겠다\"면서 \"여기에 중국."
+    ],
+    "chips": [
+      "#AI"
+    ]
+  },
+  {
+    "id": "nfd80ae91",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "16분 전",
+    "url": "https://www.newsis.com/view/NISX20261113_0003866542",
+    "title": "\"애 없이 살아봐라\" 아내 내쫓은 남편…아이 데려간 아내·장모 고소",
+    "summary": [
+      "[서울=뉴시스]전민영 인턴 기자 = 아내가 집을 비운 사이 짐을 현관 밖에 내놓고 두 살 아들을 시댁으로 보낸 남편이 아이를 데려간 아내와 장모를 형사 고소했다는 사연이 전해졌다.",
+      "12일 JTBC '사건반장'에는 세 살 연하 남편과 결혼해 두 살 아들을 키우는 30대 여성의 제보가 소개됐다.",
+      "제보자에 따르면 남편은 연애 시절부터 감정적으로 의존하는 성향이 강했다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n087849b3",
-    "category": "경제",
-    "source": "연합뉴스(경제)",
-    "time": "2분 전",
-    "url": "https://www.yna.co.kr/view/AKR20261113166651004",
-    "title": "빌리프랩·쏘스뮤직, 민희진 상대 20억 손배소 1심서 패소(종합)",
+    "id": "n99c45a2c",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "16분 전",
+    "url": "https://www.chosun.com/international/2026/11/14/T3OGJLBPEFH4NAF2H7S2GKUZSM/",
+    "title": "‘유고의 그림자’ 90㎞… 발칸의 전쟁 상처 여전하다",
     "summary": [
-      "(서울=연합뉴스) 정지수 이태수 기자 = 하이브 산하 레이블 빌리프랩이 민희진 전 어도어 대표에게 제기한 손해배상소송 1심에서 패소했다."
+      "‘유고의 그림자’ 90㎞… 발칸의 전쟁 상처 여전하다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "na2bc42fa",
+    "id": "n6f6eeb5d",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "16분 전",
+    "url": "https://www.chosun.com/culture-life/food-taste/2026/11/14/XZOYWAHYDZEDXNCKX2HRPLTPKQ/",
+    "title": "4가지 재료로 200년 맛 재해석… 올드패션드가 사랑 받는 이유",
+    "summary": [
+      "4가지 재료로 200년 맛 재해석… 올드패션드가 사랑 받는 이유."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n411b9663",
+    "category": "IT",
+    "source": "조선일보",
+    "time": "16분 전",
+    "url": "https://www.chosun.com/economy/weeklybiz/2026/11/14/JDUAJSA27FFFZPTRPVODCKUKPA/",
+    "title": "코스피는 사실상 반도체 지수… AI와 거리두기 해야",
+    "summary": [
+      "코스피는 사실상 반도체 지수… AI와 거리두기 해야."
+    ],
+    "chips": [
+      "#AI",
+      "#반도체"
+    ]
+  },
+  {
+    "id": "nac4e270c",
+    "category": "IT",
+    "source": "조선일보",
+    "time": "16분 전",
+    "url": "https://www.chosun.com/economy/weeklybiz/2026/11/14/HYZ3SB4FABF67APMMUV75YNQY4/",
+    "title": "“AI 신뢰할만 하다” 설문에 얼마나 동의했을까",
+    "summary": [
+      "“AI 신뢰할만 하다” 설문에 얼마나 동의했을까."
+    ],
+    "chips": [
+      "#AI"
+    ]
+  },
+  {
+    "id": "nda496f58",
+    "category": "스포츠",
+    "source": "연합뉴스",
+    "time": "20분 전",
+    "url": "https://www.yna.co.kr/view/AKR20261114003800007",
+    "title": "'사우디전 패배' 모레노 \"실망스러운 결과…카타르전 반전 준비\"",
+    "summary": [
+      "(도하·서울=연합뉴스) 이영호 최송아 기자 = 11월 A매치 첫 경기에서 사우디아라비아에 21년 만에 덜미를 잡히는 수모를 겪은 한국 축구 대표..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n7702ab2e",
     "category": "스포츠",
     "source": "머니투데이",
-    "time": "7분 전",
-    "url": "https://www.mt.co.kr/society/2026/11/13/2026111318540715938",
-    "title": "\"이재성은 왜 끼워 넣었나\"…박문성, 대표팀 공동입장문에 일침",
+    "time": "26분 전",
+    "url": "https://www.mt.co.kr/sports/2026/11/14/2026111401364121373",
+    "title": "왜 또 황희찬 뽑았냐고? 사우디전 한국 최고 '평점 8.0'... 1도움에 기회 창출 4회 '양 팀 최다'",
     "summary": [
-      "박문성 축구 해설위원이 대한민국 축구 대표팀의 이른바 '92·96라인 내분설'과 관련해 발표된 공동 입장문을 두고 일침을 가했다.",
-      "박문성은 지난 12일 유튜브 채널 '달수네 라이브'를 통해 같은 날 공개된 대표팀 선수들의 공동 입장문에 대한 생각을 밝혔다.",
-      "최근 남자 축구 대표팀 내부에서 1992년생 손흥민·이재성과 1996년생 김민재·황인범·황희찬 사이에 갈등이 있다는 이른바 '92라인-96라인' 갈등설이 불거졌다."
+      "재발탁을 두고 물음표가 붙었던 황희찬(30·샬케)이 사우디아라비아전에서 양 팀을 통틀어 가장 많은 득점 기회를 만들었다.",
+      "로베르트 모레노 임시 감독이 이끄는 한국 축구대표팀은 13일 오후 11시 30분(한국시간) 카타르 도하의 자심 빈 하마드 스타디움에서 열린 사우디아라비아와의 평가전에서 2-3으로 패했다.",
+      "한국은 전반 추가시간 마르완 알사하피에게 선제골을 내줬지만, 후반 2분 오현규(베식타시)가 설영우의 크로스를 오른발 발리슛으로 마무리해 1."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nfd3e9313",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "28분 전",
+    "url": "https://www.yna.co.kr/view/AKR20261114003600087",
+    "title": "'노벨문학상' 아스투리아스, 사후 52년만에 고국 품으로",
+    "summary": [
+      "(멕시코시티=연합뉴스) 송광호 특파원 = 1967년 노벨문학상을 수상한 고(故) 미겔 앙헬 아스투리아스(1899~1974)의 유해가 고국 과테말..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "ndb2f3379",
+    "category": "IT",
+    "source": "연합뉴스",
+    "time": "31분 전",
+    "url": "https://www.yna.co.kr/view/AKR20261114002400072",
+    "title": "NYT \"젠슨 황 몰락으로 아시아 'AI 대사' 잃었다\"",
+    "summary": [
+      "(뉴욕=연합뉴스) 임수정 특파원 = 젠슨 황 엔비디아 전 최고경영자(CEO)의 몰락으로 아시아가 미국과의 인공지능(AI) 산업 협력을 이끌어온 ..."
+    ],
+    "chips": [
+      "#AI",
+      "#엔비디아"
+    ]
+  },
+  {
+    "id": "n39d50a73",
+    "category": "IT",
+    "source": "연합뉴스",
+    "time": "39분 전",
+    "url": "https://www.yna.co.kr/view/AKR20261114002900072",
+    "title": "베선트 \"메가스피드 제재 권한은 상무부\"…러트닉 공개 저격",
+    "summary": [
+      "(뉴욕=연합뉴스) 김연숙 특파원 = 스콧 베선트 미국 재무부 장관은 13일(현지시간) 젠슨 황 전 엔비디아 최고경영자(CEO)의 '중국 스파이 ..."
+    ],
+    "chips": [
+      "#엔비디아"
+    ]
+  },
+  {
+    "id": "nf8e14444",
+    "category": "스포츠",
+    "source": "뉴시스",
+    "time": "1시간 전",
+    "url": "https://www.newsis.com/view/NISX20261114_0003867920",
+    "title": "'사우디전 동점골' 오현규…결정력은 '합격'·연계는 '글쎄'",
+    "summary": [
+      "[서울=뉴시스] 하근수 기자 = 주장 손흥민(로스앤젤레스FC)의 파트너 자리를 꿰차고 있는 공격수 오현규(베식타시)가 사우디아라비아전에서 장단점을 동시에 드러냈다.",
+      "오현규는 13일(한국 시간) 카타르 도하의 자심 빈 하마드 스타디움에서 열린 사우디와의 11월 A매치 2연전 중 첫 경기에 선발 출전한 뒤 0-1로 끌려가던 후반 2분 동점골을 넣었다.",
+      "전반 종료 직전 선제골을 내준 상황 오현규는 황인범(포르투)의 압박에 이은 설영우(아우크스부르크)."
     ],
     "chips": [
       "#손흥민"
     ]
   },
   {
-    "id": "nb7986304",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "7분 전",
-    "url": "https://www.yna.co.kr/view/AKR20261113169100109",
-    "title": "앨 고어 \"사우디 등 산유국이 유엔 기후협상 방해\"",
-    "summary": [
-      "(로마=연합뉴스) 민경락 특파원 = 기후 위기 대응에 목소리를 높여온 앨 고어 전 미국 부통령이 13일(현지시간) 사우디아라비아 등 산유국들이 ..."
-    ],
-    "chips": [
-      "#환경"
-    ]
-  },
-  {
-    "id": "nf859ad60",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "8분 전",
-    "url": "https://www.donga.com/news/Society/article/all/20261113/135022656/1",
-    "title": "목포서 1톤 탑차 훔쳐 타고 83㎞ 무면허 운전한 10대",
-    "summary": [
-      "전남광주 목포에서 도로 갓길에 주차된 1톤 탑차를 훔쳐 무면허로 운전한 10대가 경찰에 붙잡혔다.전남 목포경찰서는 절도·도로교통법 위반(무면허 운전) 혐의로 A 군(16)을 긴급체포했다고 13일 밝혔다.A 군은 이날 오전 10시 40분쯤 전남광주 목포시의 한 도로 갓길에 주차된 탑차를 훔쳐 83㎞가량을 무면허 상태로 운전한 혐의를 받는다.",
-      "당시 차량 안에는 열쇠가 꽂혀 있었다.경찰은 인근 폐쇄회로(CC)TV 영상으로 이동 경로를 추적하고 관할."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n802bc1aa",
-    "category": "부동산",
-    "source": "동아일보",
-    "time": "9분 전",
-    "url": "https://www.donga.com/news/Society/article/all/20261113/135022651/1",
-    "title": "천안 발달장애 아들 살해 친모, ‘손발 결박’ 학대 정황",
-    "summary": [
-      "충남 천안에서 발달장애 아들을 살해한 혐의로 긴급 체포된 친모가 아들을 결박하는 등 학대한 정황이 포착됐다.13일 경찰과 소방 등에 따르면 충남경찰청은 장애가 있는 아들을 학대해 숨지게 한 혐의로 친모 A 씨(40·여)를 붙잡아 조사 중이다.A 씨는 지난 12일 오전 8시 27분께 천안 서북구의 한 아파트에서 아들 B 군(15)을 학대해 숨지게 한 혐의를 받고 있다.A 씨는 B 군이 아침에 의식을 잃고 일어나지 않자 119에 신고했다."
-    ],
-    "chips": [
-      "#부동산"
-    ]
-  },
-  {
-    "id": "nf90b1a03",
-    "category": "부동산",
-    "source": "연합뉴스",
-    "time": "9분 전",
-    "url": "https://www.yna.co.kr/view/AKR20261113169900054",
-    "title": "\"죽고 싶어서\" 아파트 방화로 14명 다치게 한 40대 구속영장",
-    "summary": [
-      "(전남광주=연합뉴스) 정다움 기자 = 극단적인 선택을 하기 위해 아파트에 불을 내 다수의 인명 피해를 낸 40대에 대해 경찰이 구속영장을 신청했..."
-    ],
-    "chips": [
-      "#부동산"
-    ]
-  },
-  {
-    "id": "n3e3ba98c",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "9분 전",
-    "url": "https://www.donga.com/news/Politics/article/all/20261113/135022384/1",
-    "title": "종합특검 첫 공판서 피식 웃은 尹…“군 철수시켰는데 내란 존속?” 반발",
-    "summary": [
-      "2차종합특검(특별검사 권창영)이 12·3 비상계엄에 따른 내란 행위가 종료된 시점을 계엄 해제 시점이 아닌 대통령 탄핵소추안 가결로 판단한 데 대해, 윤석열 전 대통령이 13일 “계엄 상황이 다 해제됐는데 그다음에 (탄핵소추시까지 내란이) 존속된다는 건 이해하기 어렵다”고 반박했다.",
-      "윤 전 대통령은 이 과정에서 피식 웃기도 했다.윤 전 대통령은 13일 서울중앙지법 형사합의38-1부(부장판사 장성진) 심리로 열린 자신의 직권남용권리행사방해 혐의."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "ne2e21ac9",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "10분 전",
-    "url": "https://www.newsis.com/view/NISX20261113_0003867815",
-    "title": "국토장관 \"본격적인 추위 시작…도로 제설대책 이행 철저\"",
-    "summary": [
-      "[서울=뉴시스] 변해정 기자 = 홍지선 국토교통부 장관은 13일 \"본격적인 추위가 시작됐다\"며 겨울철 제설대책 이행에 만전을 기해줄 것을 주문했다.",
-      "홍 장관은 이날 오후 수원국토관리사무소 현장을 찾아 도로 제설 대응 태세를 점검하면서 이같이 말했다.",
-      "이날 점검은 겨울철 도로제설 대책기간(11월 15일~2027년 3월 15일)을 이틀 앞두고 강설 시 교통 혼잡이 우려되는 수도권의 도로 제설 준비상황을 살피고 직원들의 애로를 청취하기 위해 마련됐다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n488b5f75",
-    "category": "사회",
-    "source": "머니투데이",
-    "time": "11분 전",
-    "url": "https://www.mt.co.kr/culture/2026/11/13/2026111318314121619",
-    "title": "'취권' 성룡과 맞붙었던 황정리…월남전 참전 국가유공자였다",
-    "summary": [
-      "영화 '취권'에서 성룡과 맞대결을 펼쳤던 원로 액션 배우 고(故) 황정리가 월남전에 참전한 국가유공자였다는 사실이 알려졌다.",
-      "13일 뉴스1, 뉴시스 등에 따르면 황정리는 지난 12일 서울성모병원에서 별세했다.",
-      "이날 배우 한지일은 자신의 SNS(소셜미디어)를 통해 빈소 사진을 공개하며 고인을 추모했다."
-    ],
-    "chips": [
-      "#정치",
-      "#의료"
-    ]
-  },
-  {
-    "id": "nbc134580",
-    "category": "부동산",
-    "source": "머니투데이",
-    "time": "11분 전",
-    "url": "https://www.mt.co.kr/society/2026/11/13/2026111318493915308",
-    "title": "부부싸움 하다 남편 흉기로 찌른 40대 아내…구속영장",
-    "summary": [
-      "부부싸움 중 남편에게 흉기를 휘두른 40대 여성에 대해 경찰이 구속영장을 신청했다.",
-      "13일 뉴스1에 따르면 충북 청주청원경찰서는 살인미수 혐의로 A씨에 대해 구속영장을 신청했다.",
-      "A씨는 이날 오전 1시쯤 청주시 청원구 내덕동의 한 아파트에서 남편 B씨(40대)에게 흉기를 휘둘러 다치게 한 혐의를 받는다."
-    ],
-    "chips": [
-      "#부동산"
-    ]
-  },
-  {
-    "id": "nb9ad2abf",
-    "category": "경제",
-    "source": "머니투데이",
-    "time": "12분 전",
-    "url": "https://www.mt.co.kr/society/2026/11/13/2026111317373747222",
-    "title": "\"용돈 5만원이 뭐냐\" 친형에 따지려다…말리는 노모 폭행한 50대",
-    "summary": [
-      "추석 용돈으로 자신에게 5만원을 준 친형에게 항의하려다 이를 말리는 80대 어머니를 폭행한 50대 아들이 징역형 집행유예를 선고받았다.",
-      "13일 법조계에 따르면 창원지법 형사4단독 석동우 판사는 특수존속폭행 혐의로 기소된 A씨(51)에게 징역 1년에 집행유예 2년을 선고하고 보호관찰과 가정폭력 치료 강의 40시간 수강을 명령했다.",
-      "A씨는 지난 9월 10일 오후 3시50분쯤 창원시 진해구에 있는 어머니 B씨(81)의 집에서 목에 두르고 있던 수건을."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n21fc4837",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "12분 전",
-    "url": "https://www.newsis.com/view/NISX20261113_0003867811",
-    "title": "바가이 이란 외무부 대변인 \"뱁새가 황사 쫓아가려다가는 가랑이 찢어진다\"",
-    "summary": [
-      "[서울=뉴시스] 유세진 기자 = 에스마일 바가이 이란 외무부 대변인이 12일 밤(현지시간) 자신의 X 계정에 '일부 국가들이 미국의 지역 개발 및 호르무즈 해협 개입 압력에 굴복할 가능성'에 대한 보도에 대해 \"뱁새가 황새를 쫓아가려다가는 가랑이가 찢어다\"(A sparrow that tries to fly after a stork will eventually break its legs)는 한국 속담을 인용해 \"이란에 대한 공격 행위나 비인도적인."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nbbe38ed5",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "13분 전",
-    "url": "https://www.yna.co.kr/view/AKR20261113168700005",
-    "title": "불시착한 세 쌍의 예상치 못한 여행…영화 '레이오버 호텔'",
-    "summary": [
-      "(서울=연합뉴스) 박원희 기자 = 영국 런던으로 향하던 비행기가 엔진 이상으로 일본 기타큐슈에 들른다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nbf707fcd",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "16분 전",
-    "url": "https://www.newsis.com/view/NISX20261113_0003867350",
-    "title": "이현욱, 식사 중 코피 쏟았다…전현무 \"코에 휴지 꽂아도 멋져\"",
-    "summary": [
-      "[서울=뉴시스] 이종희 기자 = 배우 이현욱이 단골 맛집에서 코피를 쏟았다.",
-      "13일 방송되는 MBN·채널S '전현무계획4'에는 대하드라마 '문무'의 주인공인 이현욱이 출연해 전현무, 곽튜브와 함께 서울에서 '단골의 품격' 특집을 선보인다.",
-      "이날 전현무는 모서리살 맛집이 있는 종로로 모두를 이끈다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nc0a59fa3",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "17분 전",
-    "url": "https://www.donga.com/news/Politics/article/all/20261113/135022636/1",
-    "title": "장동혁, ‘韓 복당 비판’ 안철수와 회동…오세훈은 이준석 만나",
-    "summary": [
-      "장동혁 국민의힘 대표가 13일 한동훈 무소속 의원의 복당 문제를 두고 ‘차라리 창당하길 바란다’고 비판한 안철수 국민의힘 의원과 국회 의원회관에서 만났다.",
-      "같은 날 오세훈 서울시장은 이준석 개혁신당 의원과 만났다.정치권에 따르면 장 대표는 이날 안 의원과 국회 의원회관에서 회동했다.",
-      "회동 초반 안 의원에게 전날 페이스북 메시지에 대해 고맙다는 뜻을 전했고, 한 의원 문제는 그 이후 거론되지 않은 것으로 전해졌다.앞서 안 의원은 전날 페이스북에."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n9746eebd",
-    "category": "사회",
+    "id": "na50b3f55",
+    "category": "스포츠",
     "source": "아시아경제",
-    "time": "17분 전",
-    "url": "https://view.asiae.co.kr/article/2026111318594417072",
-    "title": "IRGC \"호르무즈 해협서 대형 폭발…가스운반선 기뢰 충돌\"",
+    "time": "1시간 전",
+    "url": "https://view.asiae.co.kr/article/2026111402024822676",
+    "title": "'42년 만에 사우디전 3실점' 모레노호 2-3 패배",
     "summary": [
-      "호르무즈 해협에서 가스운반선이 기뢰와 충돌해 대형 폭발하는 사고가 발생했다.",
-      "이란 이슬람혁명수비대(IRGC) 해군은 13일(현지시간) 이같은 내용을 발표했다.",
-      "혁명수비대 해군 공보실은 성명을 통해 \"수 시간 전 호르무즈 해협 동부에서 한 액화가스 운반선이 거듭된 경고를 무시하고 허가되지 않은 남부 항로를 통과하려다 해군 기뢰를 접촉해 대형 폭발과 화재가 발생했다\"고 밝혔다."
+      "한국 축구대표팀이 사우디아라비아에 세 골을 내주며 로베르트 모레노 감독 체제에서 두 번째 패배를 당했다.",
+      "사우디아라비아를 상대로 3골 이상 허용한 것은 42년 만이다.",
+      "모레노 감독이 이끄는 한국 축구대표팀은 13일(한국시간) 카타르 도하 자심 빈 하마드 스타디움에서 열린 사우디아라비아와 평가전에서 2-3으로 졌다."
     ],
     "chips": [
       "#뉴스"
+    ]
+  },
+  {
+    "id": "nf8036e7a",
+    "category": "스포츠",
+    "source": "뉴시스",
+    "time": "1시간 전",
+    "url": "https://www.newsis.com/view/NISX20261113_0003867909",
+    "title": "회심의 슈팅 하늘로…손흥민, 선발 풀타임에도 A매치 60호골 실패",
+    "summary": [
+      "[서울=뉴시스] 하근수 기자 = 축구 국가대표 주장 손흥민(로스앤젤레스FC)이 A매치 통산 60번째 득점을 노렸지만 사우디아라비아를 뚫지 못하고 좌절했다.",
+      "손흥민은 13일(한국 시간) 카타르 도하의 자심 빈 하마드 스타디움에서 열린 사우디와의 11월 A매치 2연전 중 첫 경기에 선발 출전했지만 침묵에 그친 채 2-3 패배를 지켜봤다.",
+      "한 달 만에 태극마크를 단 손흥민이 대표팀 내분설을 종식하고 사우디전에 나섰다."
+    ],
+    "chips": [
+      "#손흥민"
+    ]
+  },
+  {
+    "id": "na9dd843f",
+    "category": "스포츠",
+    "source": "머니투데이",
+    "time": "1시간 전",
+    "url": "https://www.mt.co.kr/sports/2026/11/14/2026111400555593681",
+    "title": "불과 3분 동안 '1-1→1-3', 그 두 골이 뼈아팠다... 한국, 오현규·이재성 골에도 사우디에 2-3 패배",
+    "summary": [
+      "한국이 오현규(베식타시)의 동점골과 이재성(마인츠)의 추격골에도 사우디아라비아에 한 골 차로 패했다.",
+      "로베르트 모레노 임시 감독이 이끄는 한국 축구대표팀은 13일 오후 11시 30분(한국시간) 카타르 도하의 자심 빈 하마드 스타디움에서 열린 사우디아라비아와의 평가전에서 2-3으로 졌다.",
+      "모레노호는 지난 9~10월 국내에서 치른 A매치 4연전에서 2승 1무 1패를 기록했다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n981baf03",
+    "category": "경제",
+    "source": "한국경제",
+    "time": "1시간 전",
+    "url": "https://www.hankyung.com/article/202611146106i",
+    "title": "젠슨 황, 떠나기 전 임원과 갈등?…\"주주들은 오히려 좋을수도\"[박신영의 개장전 요것만]",
+    "summary": [
+      "젠슨 황, 떠나기 전 임원과 갈등?…\"주주들은 오히려 좋을수도\"[박신영의 개장전 요것만]."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nba39ae64",
+    "category": "스포츠",
+    "source": "머니투데이",
+    "time": "2시간 전",
+    "url": "https://www.mt.co.kr/sports/2026/11/14/2026111323280225330",
+    "title": "아, 오현규 동점골 기쁨도 잠시... 한국, 사우디에 3분 동안 두 골 내주며 후반 '1-3 열세'",
+    "summary": [
+      "한국 축구가 오현규(베식타시)의 오른발 발리골로 균형을 맞췄지만, 사우디아라비아에 3분 사이 두 골을 내줬다.",
+      "로베르트 모레노 임시 감독이 이끄는 한국 축구대표팀은 13일 오후 11시 30분(한국시간) 카타르 도하의 자심 빈 하마드 스타디움에서 킥오프한 사우디아라비아와의 평가전에서 후반 1-3으로 뒤져 있다.",
+      "한국은 손흥민(LAFC)과 오현규를 투톱으로 내세웠다."
+    ],
+    "chips": [
+      "#손흥민"
     ]
   }
 ];
@@ -640,21 +637,21 @@ window.NEWS_DB = [
 window.KEYWORD_TOP = [
   {
     "rank": 1,
+    "tag": "AI",
+    "mentions": "2460건",
+    "trend": "+275%"
+  },
+  {
+    "rank": 2,
     "tag": "뉴스",
     "mentions": "2330건",
     "trend": "+255%"
   },
   {
-    "rank": 2,
-    "tag": "AI",
+    "rank": 3,
+    "tag": "반도체",
     "mentions": "1810건",
     "trend": "+175%"
-  },
-  {
-    "rank": 3,
-    "tag": "부동산",
-    "mentions": "1680건",
-    "trend": "+155%"
   }
 ];
 // ====AUTO-GENERATED-END====
