@@ -1,11 +1,26 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-11-14 23:29:34
+// 마지막 업데이트: 2026-11-15 03:43:35
 window.NEWS_DB = [
+  {
+    "id": "n889f5c32",
+    "category": "IT",
+    "source": "머니투데이",
+    "time": "1시간 전",
+    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9MTl9JZGw0cU9nRjQ2blZVMHhKTWdTUG95MEtXd2p2YkZyNUFHcnJLellxOFBVb0xpTWtDZWdOa1d2bDE5NkxGN2VteGg4MktEajdZeGwzQm5sbU8yX2sxR01kQkZlbTQ0dGJsTXRCaWV5QTBV0gF6QVVfeXFMUENXSDE5LW1Ec0d3NDhMMm5PV0NOZ3l2cnhIZWE0bFE5RzF2LWdPWlNVVlI4ZDB2dlVsUWE0UFRUOTdnVjZGVnhVVzJjN0FzcVZtNmJXYnVoYy1iUXdsN0kyS3dodEVxaldGSElYMzRjcURkUTdaQUZRbnc?oc=5",
+    "title": "\"구글 AI칩, 엔비디아 못지않다\"…젠슨 황 퇴진에 판 뒤집히나 [IT썰] - 머니투데이",
+    "summary": [
+      "\"구글 AI칩, 엔비디아 못지않다\"…젠슨 황 퇴진에 판 뒤집히나 [IT썰] - 머니투데이 머니투데이."
+    ],
+    "chips": [
+      "#AI",
+      "#엔비디아"
+    ]
+  },
   {
     "id": "n37e51350",
     "category": "IT",
     "source": "뉴시스",
-    "time": "4시간 전",
+    "time": "8시간 전",
     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBVWDd1SlhtZ2NLNW9pOE1kWktlN0NaeTIzWnY4UlFHWkFWSDFWUmo4TThWNk9Lb013MnNrT3VEc1AyUl9WZ0FodERlTzd4Wk1MeEh5eFZsMmV5bWZDelNwetIBeEFVX3lxTFA3andtQkUtc1YxRkEzRWVyYXFTSEFhSzJSdUVtZTAyWjVLRzRTNUNXcDZHcUlWVVRWaFdNekZoTmt4MnVfLS12eWVJOFk0cGdmRUZwaWZmQnk0YWN0aEtCaWFLMXp3bnVkVnVsZkV5Wi1KZjFzSm00Tg?oc=5",
     "title": "\"구글·AMD가 엔비디아 치고 올라와도\"…웃는 건 결국 삼전닉스인 이유",
     "summary": [
@@ -19,7 +34,7 @@ window.NEWS_DB = [
     "id": "nfad19631",
     "category": "IT",
     "source": "경기일보",
-    "time": "10시간 전",
+    "time": "14시간 전",
     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB0YXdRUnRlZGJWS1Q0Sjh5RmRsSFczM2FtcDBoOFBVOEpGZm5Tc2tiVmt6N196cXZFbzRfMXUyUEY1N3NKdkxLNkNmMzNrb0VJZE1LTG1MWEh4UVU?oc=5",
     "title": "트럼프, 엔비디아 주식 최대 67억어치 사들인 뒤 AI 반도체 규제 폐지 논란",
     "summary": [
@@ -30,23 +45,6 @@ window.NEWS_DB = [
       "#반도체",
       "#엔비디아",
       "#정책"
-    ]
-  },
-  {
-    "id": "n2da6ba75",
-    "category": "IT",
-    "source": "연합뉴스",
-    "time": "14시간 전",
-    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9YeUhFV0JzUVZNNkIxNFFDQVkwQnktZEE5OTJudWVfeHlGb0tCaUVRbjFiODhyVm5Ma1dYWl9McDFrSFJIOUNGczBqVV8zeDZ4cFl3Znd0eHRsNDjSAWBBVV95cUxNMHhWOHJpVXdSRmhyNmhsRkwtX0EzcGlrNDlEQm8wVm9JaFhDYWVsX1RfY1lRRC1ZU0VPeVRXZzZ0NFVZYTlqYkhURDVsVUhfdEMwdzR1SWM0ZXlJYm0xbUU?oc=5",
-    "title": "\"트럼프, AI 반도체 수출통제 풀며 엔비디아 주식 샀다\"",
-    "summary": [
-      "\"트럼프, AI 반도체 수출통제 풀며 엔비디아 주식 샀다\" 연합뉴스."
-    ],
-    "chips": [
-      "#AI",
-      "#반도체",
-      "#엔비디아",
-      "#수출"
     ]
   },
   {
@@ -83,7 +81,7 @@ window.NEWS_DB = [
     "id": "n9724fc96",
     "category": "IT",
     "source": "데일리연합",
-    "time": "1일 전",
+    "time": "2일 전",
     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9SZmxSTDNFRF9DeXdRc2xORERWSk15cVFlSHdta2R1M1AtclpacWo3UHNLWTJDQ0NMal9HREV6VFlwbkdNeHpkRm5mTTZsQW5McmhtUTFCbXdrYnM?oc=5",
     "title": "젠슨 황 퇴진, 엔비디아 독주 흔들리나…삼성전자·SK하이닉스·국내 AI 반도체 새로운 기회",
     "summary": [
@@ -100,7 +98,7 @@ window.NEWS_DB = [
     "id": "n7dc9ec31",
     "category": "IT",
     "source": "캐어유 뉴스",
-    "time": "1일 전",
+    "time": "2일 전",
     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1FQ29uMHRGaTg2X3pHV2loLXpIdGpsLXZPcHdLNUh1TnBIQUJERnAzR1pBNTdIN2JYOUV5ME1LSGRTQ0c3MF8xbEV4RjlORE9NM2tFTDFpU3loeFRtZjYzSmRteXN0Z1BWZEVTbWxR?oc=5",
     "title": "될성부른 AI 스타트업에 100억 원 이상, 정부가 2030년까지 유니콘 20곳 키웁니다",
     "summary": [
@@ -109,6 +107,20 @@ window.NEWS_DB = [
     "chips": [
       "#AI",
       "#스타트업"
+    ]
+  },
+  {
+    "id": "n4fb9c978",
+    "category": "스포츠",
+    "source": "중앙신문",
+    "time": "2일 전",
+    "url": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxPVENlZnZhX1oyUG9ZS3pEVDUzdjg3a1lEN1JtdTFGQkZGOTNXbEFxOHJjaWRJMkJLVFI0b04xd2t4eGJ0Y3RidEFMeHY0cXZQU1FyUGRKRF9jSEd3c3c1cDN6MGdlWjU4YzlYZzBlZGt3dVU0aElxdENaU3pxZjU0YjhEODRXT1M2UHpwdXVyWTB3Q0k4YkFCQVZGM2dTSExlQ0dRaU5zY1UxWUpSaEh2ZUVKamI0WnBYWUs5ZWc0bzBMSU42a0hmMmY0em9McTZOeWhfeDlaU1BGWWFnRExfRmlZVThrbk8wRjB6R2t3NXp6NnFXdm05SUVqN3F1amdjM1o5OUhIbUFwWTFTSDByMUhwRVhnSGJKRmZDQ2hPbDY1WjNxTjhOaVdSVmNVSWJhUWxabFFXVVBOR1U?oc=5",
+    "title": "LG 오스틴, 200만 달러에 재계약…KBO 외국인 타자 최고 대우",
+    "summary": [
+      "LG 오스틴, 200만 달러에 재계약…KBO 외국인 타자 최고 대우 중앙신문."
+    ],
+    "chips": [
+      "#KBO"
     ]
   },
   {
@@ -213,20 +225,6 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n3bf091c2",
-    "category": "스포츠",
-    "source": "한국경제",
-    "time": "54일 전",
-    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9nY3BENG1heVF4amFVRDZ5M0Q3V09uYWZTRmZEZlcxZTJzc08zU2RBM3BRSEh6aTZPVDR2blc0YjZrNUhnMHNDUVN0M0pKMTBDVWxlUWhtZ1Zudw?oc=5",
-    "title": "\"손흥민 533만원·페이커 1100만원\"…해외선 없어서 못 산다",
-    "summary": [
-      "\"손흥민 533만원·페이커 1100만원\"…해외선 없어서 못 산다 한국경제."
-    ],
-    "chips": [
-      "#손흥민"
-    ]
-  },
-  {
     "id": "n34c966ee",
     "category": "경제",
     "source": "경북매일",
@@ -314,318 +312,333 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n86f19fea",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "1분 전",
-    "url": "https://www.newsis.com/view/NISX20261115_0003868320",
-    "title": "주거환경 개선·공익일자리 창출…'클린하우스' 일석이조",
+    "id": "na58648f4",
+    "category": "스포츠",
+    "source": "테크M",
+    "time": "방금 전",
+    "url": "https://www.techm.kr/news/articleView.html?idxno=157360",
+    "title": "[롤드컵 브리핑] LCK 독식 끝났다...'바이퍼' 앞세운 BLG, LCK 4팀 모두 꺾고 롤드컵 우승",
     "summary": [
-      "[전남광주=뉴시스]양시원 기자 = 전남광주통합특별시 5개 자치구가 원룸·주택가 골목마다 반복하는 쓰레기 무단투기 근절을 위해 도입한 '클린하우스'가 주민들의 호응을 얻고 있다.",
-      "주민들의 추가 설치 요구가 이어지고 있지만 자치구들이 재정난을 이유로 확충에 어려움을 겪으면서 국가 차원의 지원이 필요하다는 목소리가 나오고 있다.",
-      "15일 전남광주통합특별시 등에 따르면 지난 10월 기준 광주 5개 자치구에 설치된 클린 하우스는 총 75개다."
+      "빌리빌리 게이밍(BLG)이 젠지 e스포츠를 꺾고 2026 리그 오브 레전드 월드 챔피언십(롤드컵) 챔피언 자리에 올랐습니다.",
+      "한국 시각으로 15일 미국 뉴욕 바클레이스 센터에서 열린 롤드컵 결승전에서 젠지는 치열한 접전 끝에 세트 스코어 1대3으로 패하며 9년 만의 정상 탈환이 좌절됐습니다.",
+      "반면 BLG는 창단 첫 롤드컵 우승을 차지함과 동시에 지난 4년간 이어져 온 리그오브레전드 챔피언스 코리아(LCK)의 롤드컵 독식을 깨고 중국 LPL의 부."
     ],
     "chips": [
-      "#고용",
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nee1d6c91",
+    "category": "IT",
+    "source": "테크M",
+    "time": "방금 전",
+    "url": "https://www.techm.kr/news/articleView.html?idxno=157352",
+    "title": "LG유플러스 \"2027년 토큰팩토리 진출...'질의·답변·인프라' 효율 극대화\"",
+    "summary": [
+      "LG유플러스가 2027년 토큰 팩토리 진출을 선언했다.",
+      "이로써 통신 3사 모두가 토큰 팩토리 사업을 공식화했다.",
+      "토큰 팩토리는 인공지능(AI) 연산 단위인 토큰의 비용 효율화가 목표다."
+    ],
+    "chips": [
+      "#AI"
+    ]
+  },
+  {
+    "id": "n18c6f27e",
+    "category": "스포츠",
+    "source": "테크M",
+    "time": "방금 전",
+    "url": "https://www.techm.kr/news/articleView.html?idxno=157359",
+    "title": "[롤드컵 브리핑] 매서운 BLG의 스노우볼...젠지, 한타 역전패로 3세트 내주며 '벼랑 끝'",
+    "summary": [
+      "젠지가 빌리빌리 게이밍(BLG)의 치밀한 운영과 거센 한타 집중력에 밀려 역전패를 당했습니다.",
+      "한국 시각으로 15일 미국 뉴욕 바클레이스 센터에서 열린 2026 리그 오브 레전드 월드 챔피언십 결승전 3세트에서 젠지는 초반 오브젝트 싸움에서 우위를 점하고도 중반 이후 연달아 교전에서 패하며 세트 스코어 1대2 역전을 허용, 매치 포인트를 내주고 말았습니다.경기 초반 양팀은 팽팽한 신경전을 이어가며 엎치락뒤치락하는 양상을 보였습니다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "na290e745",
+    "category": "스포츠",
+    "source": "테크M",
+    "time": "방금 전",
+    "url": "https://www.techm.kr/news/articleView.html?idxno=157358",
+    "title": "[롤드컵 브리핑] 53분 혈투 끝에 내준 2세트...젠지, 치열한 장기전 끝에 BLG에 패하며 승부 원점",
+    "summary": [
+      "젠지가 53분에 달하는 치열한 장기전 끝에 빌리빌리 게이밍(BLG)에 2세트를 내주며 승부는 원점으로 돌아갔습니다.",
+      "한국 시각으로 15일 미국 뉴욕 바클레이스 센터에서 열린 2026 리그 오브 레전드 월드 챔피언십(롤드컵) 결승전 2세트에서 젠지는 불리한 경기를 후반까지 끌고 가는 투혼을 발휘했습니다.",
+      "젠지가 장로 드래곤 스틸 등 여러 역전 기회에도 불구하고 끝까지 집중력을 잃지 않은 BLG의 공세를 막아내지 못하며 아쉬운 패배를 기록했습니다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "na75f8122",
+    "category": "사회",
+    "source": "머니투데이",
+    "time": "1분 전",
+    "url": "https://www.mt.co.kr/economy/2026/11/15/2026111511072052984",
+    "title": "수도권 데이터센터 문턱 높아진다…전력 수요 지방 분산 유도",
+    "summary": [
+      "정부가 수도권에 들어서는 데이터센터의 전력계통영향평가 통과 점수를 70점에서 75점으로 높인다.",
+      "대규모 전력수요를 지방으로 분산하기 위한 조치다.",
+      "기후에너지환경부는 15일 '전력계통영향평가 제도 운영에 관한 규정'을 제정해 16일부터 시행한다고 밝혔다."
+    ],
+    "chips": [
       "#환경"
     ]
   },
   {
-    "id": "n503b7d8e",
-    "category": "사회",
+    "id": "nbcd92ee6",
+    "category": "IT",
     "source": "뉴시스",
     "time": "2분 전",
-    "url": "https://www.newsis.com/view/NISX20261115_0003868326",
-    "title": "北, 김정은 최측근 '조용원 방러' 보도…\"동맹관계 날로 공고화\"",
+    "url": "https://www.newsis.com/view/NISX20261115_0003868527",
+    "title": "삼전·닉스에 빚투 7조…변동성 키우는 뇌관 되나",
     "summary": [
-      "[서울=뉴시스] 옥승욱 기자 = 북한 매체가 15일 김정은 북한 국무위원장의 최측근인 조용원 노동당 중앙위원회 비서의 러시아 방문 소식을 보도했다.",
-      "북한 대외매체 조선중앙통신은 이날 \"자주와 정의를 공동의 이념으로 하는 조로(북러) 두 나라 사이의 전투적 우의와 친선, 동맹적 관계가 날로 더욱 공고화되고 있는 속에 전로씨야 정당 '통일로씨야'(통합러시아) 위원장 드미뜨리 메드베제브 동지의 초청에 따라 조선민주주의인민공화국 당 및 정부대표단이 로."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nc771e985",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "2분 전",
-    "url": "https://www.newsis.com/view/NISX20261115_0003868308",
-    "title": "\"피해 심하면 소나무림 바꾼다\"…안동시, 재선충병 방제 세분화",
-    "summary": [
-      "[안동=뉴시스] 김진호 기자 = 경북 안동시가 소나무재선충병 확산을 막기 위해 산림을 피해 정도와 관리 목적에 따라 4개 권역으로 나눠 맞춤형 방제에 나선다.",
-      "감염목을 일률적으로 제거하는 기존 방식에서 벗어나 피해가 심한 지역은 소나무를 다른 수종으로 바꾸고, 피해가 적은 지역은 예방 중심으로 관리하는 등 산림 여건에 맞춰 방제 효과를 높이겠다는 구상이다.",
-      "안동시는 올해 하반기부터 내년 상반기까지 피해 극심 지역, 피해 경미 지역, 주요 관리지."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nf21b0c2d",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "2분 전",
-    "url": "https://www.newsis.com/view/NISX20261115_0003868313",
-    "title": "제주 특산품부터 생활용품까지…온라인몰 '컬리'서 30% 할인전",
-    "summary": [
-      "[제주=뉴시스] 우장호 기자 = 제주지역 유망 기업 6곳이 생산한 우수 제품을 전국 소비자에게 알리고 온라인 판로를 넓히기 위한 대규모 할인 행사가 열린다.",
-      "제주도와 제주창조경제혁신센터는 16일부터 30일까지 보름간 온라인 쇼핑몰 '컬리'에서 '제주 로컬브랜드×컬리 특별기획전'을 운영한다고 15일 밝혔다.",
-      "지난 9월 열린 1차 기획전에 이어 두 번째로 마련된 이번 행사는 제주 고유의 자원에 창의적인 아이디어를 접목한 지역 기업의 온라인 매출 확."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nb0b1e7c4",
-    "category": "스포츠",
-    "source": "머니투데이",
-    "time": "4분 전",
-    "url": "https://www.mt.co.kr/sports/2026/11/15/2026111507272091398",
-    "title": "\"안세영 있으면 중국·일본 모두 준우승 다툴 뿐\" 여제 위상 이 정도... \"냉혹한 현실이지만 사실\" 中 매체도 인정",
-    "summary": [
-      "중국 매체가 한국 배드민턴 '여제' 안세영(24·삼성생명)의 불참을 자국 선수들의 우승 기회로 꼽았다.",
-      "중국 베이징청년보 스포츠 채널은 14일 2026 세계배드민턴연맹(BWF) 월드투어 구마모토 마스터스(슈퍼 500) 여자단식과 관련해 \"이번 대회는 중국 대표팀이 여자단식 우승을 차지할 가장 좋은 기회다.",
-      "냉혹한 현실이지만 사실\"이라며 \"안세영이 출전하면 중국이든 일본이든 다른 나라 선수들이든 사실상 준우승을 다툴 뿐\"이라고 평가했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n1f0c445d",
-    "category": "경제",
-    "source": "연합뉴스",
-    "time": "7분 전",
-    "url": "https://www.yna.co.kr/view/AKR20261115010600007",
-    "title": "크로, PGA 투어 오스틴 챔피언십 3R서 한 타차 선두",
-    "summary": [
-      "(서울=연합뉴스) 최태용 기자 = 트레이스 크로(미국)가 미국프로골프(PGA) 투어 오스틴 챔피언십(총상금 600만 달러)에서 첫 우승의 기회를..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n2cfbf372",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "14분 전",
-    "url": "https://www.yna.co.kr/view/AKR20261115009900055",
-    "title": "전북소방, 겨울철 폭설 고립 우려 16개 마을 집중 관리",
-    "summary": [
-      "(전주=연합뉴스) 정경재 기자 = 전북특별자치도 소방본부는 겨울철 많은 눈에 고립 우려가 큰 16개 마을, 219가구를 집중적으로 관리한다고 1..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "na4a08ff1",
-    "category": "경제",
-    "source": "머니투데이",
-    "time": "14분 전",
-    "url": "https://www.mt.co.kr/entertainment/2026/11/15/2026111508157290086",
-    "title": "'100일의 거짓말' 박진영, 김유정 밀정 정체 알고도 사랑 시작…시청률 8.0% [종합]",
-    "summary": [
-      "'100일의 거짓말' 김유정이 마침내 박진영을 향한 진심을 깨달았다.",
-      "지난 14일 방송한 tvN 20주년 특별기획 토일드라마 '100일의 거짓말' 11회에서는 이가경(김유정)을 향한 김태웅/사토 히데오(박진영)의 의심이 확신으로 굳어졌다.",
-      "금서희와 사토 히데오라는 거짓 이름 뒤에 숨어 있던 두 사람은 비로소 이가경과 김태웅이라는 진짜 이름으로 서로를 마주했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nb0ead78d",
-    "category": "경제",
-    "source": "머니투데이",
-    "time": "14분 전",
-    "url": "https://www.mt.co.kr/economy/2026/11/15/2026111307540237263",
-    "title": "오징어 수출하던 나라가 반도체 중심국으로…수출 1조달러의 역사",
-    "summary": [
-      "[수출 1조 달러 시대]② 1956년 무역 통계 집계 이후 70년.",
-      "대한민국 수출이 미국, 중국, 독일에 이어 전세계에서 4번째로 '1조 달러' 돌파를 앞두고 있다.",
-      "자원이 전혀 나지 않는 척박한 땅에서 글로벌 무역 강국으로 도약하기까지 수출이 걸어온 발자취를 돌아본다."
+      "[서울=뉴시스] 김경택 기자 = 삼성전자와 SK하이닉스에 개인투자자들의 '빚투(빚내서 투자)' 자금이 7조원 가까이 몰린 것으로 나타났다.",
+      "전체 신용융자 잔고가 줄어드는 상황에서도 반도체 투톱에 대한 빚투 비중이 높은 수준으로 유지되고 있는 것이다.",
+      "금융당국이 증권사의 담보유지비율 규제를 한시적으로 완화하며 반대매매를 억제하고 있지만, 신용융자 쏠림에 따른 잠재적 수급 부담이 증시 변동성의 뇌관으로 작용할 것이란 우려가 나온다."
     ],
     "chips": [
       "#반도체",
-      "#전세",
-      "#수출"
-    ]
-  },
-  {
-    "id": "nee3df672",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "18분 전",
-    "url": "https://www.donga.com/news/Politics/article/all/20261115/135024716/2",
-    "title": "李, 천준호 공개 격려…“가장 힘든 일은 등 뒤에서 날아오는 화살”",
-    "summary": [
-      "이재명 대통령이 과거 당 대표 시절 자신의 비서실장을 지낸 더불어민주당 천준호 원내운영수석부대표를 공개적으로 격려하면서 “언제나 그렇듯 가장 힘든 일은 등 뒤에서 날아오는 화살”이라고 말했다.이 대통령은 14일 자신의 엑스(X·옛 트위터)에 천 수석부대표가 민주당 유튜브 채널 ‘민티07’에 출연한 영상을 공유하고 “지난 수년간 흉기살해테러, 조작기소를 통한 사법살인시도, 전대미문의 고강도 정치탄압이라는 그 크고 깊은 강을 건너올 동안 비서실장으."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "nb15d6b28",
-    "category": "사회",
-    "source": "머니투데이",
-    "time": "18분 전",
-    "url": "https://www.mt.co.kr/world/2026/11/15/2026111507532343736",
-    "title": "알래스카, 美민주당 주지사 당선…트럼프 압박 '韓 LNG 투자' 변수로",
-    "summary": [
-      "미국 민주당이 11·3 중간선거에서 알래스카 주지사까지 배출하면서 도널드 트럼프 대통령이 한국 등의 참여를 압박하는 액화천연가스(LNG) 개발사업 투자에 변수가 될지 이목이 쏠린다.",
-      "14일(현지시간) AP통신에 따르면 알래스카 주지사 선거 개표 결과 조너선 크라이스-톰킨스 알래스카 주지사 민주당 후보가 공화당 후보 3명을 꺾고 당선을 확정했다.",
-      "크라이스-톰킨스 후보는 득표율 50.8%로 과반을 넘기면서 알래스카주가 채택한 선호투표제에 따라 2순."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n0143bbaa",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "19분 전",
-    "url": "https://www.yna.co.kr/view/AKR20261113161500062",
-    "title": "강원산림과학연구원, 산림 지리정보 활용 경진대회 우수상",
-    "summary": [
-      "(춘천=연합뉴스) 이재현 기자 = 강원도산림과학연구원이 산림병해충 예찰·방제 업무에 지리정보시스템을 활용하는 교육 매뉴얼로 경진대회에서 우수상을..."
-    ],
-    "chips": [
-      "#교육"
-    ]
-  },
-  {
-    "id": "n405bd8f8",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "20분 전",
-    "url": "https://www.yna.co.kr/view/AKR20261113132000063",
-    "title": "충남도청 이전 효과 '뚝' 떨어진 내포신도시…새 성장 동력 확보 과제",
-    "summary": [
-      "(홍성=연합뉴스) 김준범 기자 = 충남 내포신도시의 성장이 주변 시군의 일자리 증가로 이어지는 효과가 최근 크게 약해졌다는 연구 결과가 나왔다."
-    ],
-    "chips": [
-      "#고용"
-    ]
-  },
-  {
-    "id": "nf132ec99",
-    "category": "스포츠",
-    "source": "동아일보",
-    "time": "21분 전",
-    "url": "https://www.donga.com/news/Economy/article/all/20261115/135024710/1",
-    "title": "부자가 되는 2가지 길… 나는 사업가형일까 투자자형일까",
-    "summary": [
-      "부자가 되는 길은 여러 갈래가 있다.",
-      "사업에 성공하면 부자가 될 수 있고 의사, 변호사, 회계사 등 전문직으로 성공해도 부자가 될 가능성이 크다.",
-      "스포츠선수가 예능인으로 성공해도 부자가 될 수 있으며, 기업에 들어가 임원으로 오래 일해도 부자가 될 확률이 높다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "na53f1246",
-    "category": "부동산",
-    "source": "연합뉴스(경제)",
-    "time": "23분 전",
-    "url": "https://www.yna.co.kr/view/AKR20261115004300003",
-    "title": "주택공급 속도내는 정부…수도권 전세수급은 여전히 불균형",
-    "summary": [
-      "(서울=연합뉴스) 임기창 기자 = 주택 공급 속도전에 나선 정부가 최근 서울 전월세 매물 증가세를 시장 안정 지표의 하나로 언급했지만 수도권 전..."
-    ],
-    "chips": [
-      "#전세"
-    ]
-  },
-  {
-    "id": "n1696a68a",
-    "category": "경제",
-    "source": "연합뉴스(경제)",
-    "time": "29분 전",
-    "url": "https://www.yna.co.kr/view/AKR20261114048800004",
-    "title": "웹툰작가·배달기사·검침원…공통소망은 '표준계약서 의무화'",
-    "summary": [
-      "(서울=연합뉴스) 이의진 기자 = 웹툰 작가, 대리 운전기사, 검침원 등 흔히 프리랜서라 불리는 비정형 노무 제공자가 가장 바라는 지원 정책은 ..."
-    ],
-    "chips": [
+      "#삼성전자",
+      "#SK하이닉스",
       "#정책"
     ]
   },
   {
-    "id": "n3bdd0ebe",
-    "category": "경제",
-    "source": "한국경제",
-    "time": "34분 전",
-    "url": "https://www.hankyung.com/article/2026111567997",
-    "title": "'빚투' 개미 자금 30%가 삼전닉스에 몰렸다",
+    "id": "n6b7c6c3e",
+    "category": "IT",
+    "source": "뉴시스",
+    "time": "2분 전",
+    "url": "https://www.newsis.com/view/NISX20261115_0003868520",
+    "title": "中매체 \"젠슨 황 퇴진은 美중간선거 여파…당파 갈등에 휘말려\"",
     "summary": [
-      "'빚투' 개미 자금 30%가 삼전닉스에 몰렸다."
+      "[서울=뉴시스] 신효령 기자 = 젠슨 황 전 엔비디아 최고경영자(CEO)의 퇴진에 미국 중간선거 이후 여야 갈등이 영향을 미쳤다는 주장이 중국 관영매체에서 나왔다.",
+      "중국 매체들은 황 전 CEO의 퇴진이 미국의 대중국 인공지능(AI) 칩 수출 정책에 변화를 가져올 수 있다고 봤다.",
+      "미국이 규제를 강화하면 중국 기업들의 자체 개발 칩 도입이 빨라질 수 있다고도 전망했다."
     ],
     "chips": [
-      "#뉴스"
+      "#AI",
+      "#엔비디아",
+      "#정책",
+      "#수출"
     ]
   },
   {
-    "id": "n66d11f24",
-    "category": "경제",
-    "source": "한국경제",
-    "time": "35분 전",
-    "url": "https://www.hankyung.com/article/202611156731i",
-    "title": "\"뉴욕서 한잔에 5만원\"…미쉐린 3스타 홀린 '이 술' [황정수의 인(人) 뉴욕]",
-    "summary": [
-      "\"뉴욕서 한잔에 5만원\"…미쉐린 3스타 홀린 '이 술' [황정수의 인(人) 뉴욕]."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n490c29a5",
+    "id": "n8cec69e9",
     "category": "사회",
-    "source": "동아일보",
-    "time": "38분 전",
-    "url": "https://www.donga.com/news/Society/article/all/20261115/135024686/1",
-    "title": "경주 선박 부품공장서 60대 남성 크레인 고리에 맞아 숨져",
+    "source": "머니투데이",
+    "time": "3분 전",
+    "url": "https://www.mt.co.kr/politics/2026/11/15/2026111511221661757",
+    "title": "최민희 \"신천지 논란은 제 잘못과 별개...진상규명하고 책임져야\"",
     "summary": [
-      "14일 오전 9시 2분쯤 경북 경주시 외동읍의 선박 부품 제조공장에서 60대 A 씨가 크레인에서 빠진 고리에 맞았다.A 씨는 심정지 상태로 병원으로 이송됐으나 결국 숨졌다.경찰과 노동 당국 등은 작업자 등을 상대로 자세한 사고 경위를 조사 중이다.(경주=뉴스1)."
+      "[the300] 이재명 대통령이 윤석열 전 대통령 탄핵에 반대했다는 취지의 과거 발언으로 논란을 빚은 최민희 더불어민주당 최고위원이 \"제 잘못과 신천지 논란은 별개\"라며 관련 의혹에 대한 진상 규명을 당 지도부에 거듭 요구했다.",
+      "최 최고위원은 15일 SNS(소셜미디어)에 \"제가 비공개 당원 방에 늘 올린 기조대로 먼저 진상규명을 위해 태스크포스(TF) 보고서 전체를 공개하고 우려되는 모든 점에 대해 공개 확인해야 한다\"며 \"그동안 민주당은 어떤."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "n5bb954b9",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "3분 전",
+    "url": "https://www.newsis.com/view/NISX20261115_0003868409",
+    "title": "이세영, '겨울 공주' 비주얼…'고강도 운동·유연한 식단'으로 관리",
+    "summary": [
+      "[서울=뉴시스]이준형 인턴 기자 = 배우 이세영이 공주 같은 비주얼을 자랑했다.",
+      "13일 이세영은 자신의 사회관계망서비스(SNS)를 통해 여러 사진을 공개하며 근황을 전했다.",
+      "공개된 사진 속 이세영은 반짝이는 트리 장식을 배경으로 회색 패딩 점퍼의 후드를 눌러쓴 채 카메라를 응시하고 있다."
     ],
     "chips": [
       "#의료"
     ]
   },
   {
-    "id": "nf1765756",
-    "category": "사회",
-    "source": "연합뉴스(경제)",
-    "time": "44분 전",
-    "url": "https://www.yna.co.kr/view/AKR20261114033800017",
-    "title": "\"한국 IP 대역 유망\"…북한 라자루스, 국내 서버 30곳 노렸다",
+    "id": "n2a2d7fc9",
+    "category": "경제",
+    "source": "조선일보",
+    "time": "4분 전",
+    "url": "https://www.chosun.com/sports/world-baseball/2026/11/15/MQ4GMZJZGJSDIMDGMU3DGMDCMU/",
+    "title": "1년 268억 → .116인데, 또 잡는다고? 김하성 초대박! PHI 이어 ATL까지 영입 검토, 예상 밖 관심 이유는",
     "summary": [
-      "(서울=연합뉴스) 오지은 기자 = 북한 정찰총국과 연계된 것으로 알려진 해킹조직 '라자루스'(Lazarus)가 한국의 정부·금융·통신 등 주요 ..."
+      "[스포츠조선 박상경 기자] 최악의 시즌을 보낸 김하성에게 예상 밖의 관심이 이어지고 있다.",
+      "미국 뉴욕포스트의 존 헤이먼 기자는 13일(한국시각) '유격수가 필요한 애틀랜타가 부진한 공격력을 보였던 김하성을 다시 데려오는데 관심이 있다.",
+      "필라델피아 필리스 역시 김하성에게 관심을 보이고 있다'고 전했다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "nb4bd7442",
-    "category": "IT",
-    "source": "한국경제",
-    "time": "44분 전",
-    "url": "https://www.hankyung.com/article/2026111567957",
-    "title": "엔비디아 투자자, 젠슨황 복귀 요구 서한…\"AI산업 후퇴 우려\"",
+    "id": "n25cca139",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "5분 전",
+    "url": "https://www.newsis.com/view/NISX20261115_0003868526",
+    "title": "美 하버드서 글로벌 CEO 200명이 토론한 K-안경 ‘브리즘’ 전략",
     "summary": [
-      "엔비디아 투자자, 젠슨황 복귀 요구 서한…\"AI산업 후퇴 우려\"."
+      "[서울=뉴시스]김정환 조인서 인턴 기자 = 스마트 글라스한국 맞춤 안경 브랜드 ‘브리즘’(Breezm)의 가격 정책과 성장 전략이 미국 하버드 경영대학원(HBS)에서 글로벌 기업 최고경영자(CEO) 200여 명의 토론 주제가 됐다.",
+      "브리즘을 운영하는 콥틱(공동대표 성우석·박형진)의 박형진 공동대표가 지난달 26일(현지시간) HBS 최고경영자과정인 ‘OPM’(Owner/President Management)의 경영 사례 수업에 참여했다."
+    ],
+    "chips": [
+      "#정책",
+      "#교육"
+    ]
+  },
+  {
+    "id": "n9e52b242",
+    "category": "부동산",
+    "source": "연합뉴스(경제)",
+    "time": "5분 전",
+    "url": "https://www.yna.co.kr/view/AKR20261115025500003",
+    "title": "'피터팬의 좋은방 구하기' 개인정보 유출…\"일부 회원 특정정보\"",
+    "summary": [
+      "(서울=연합뉴스) 오예진 기자 = 부동산 직거래 플랫폼 '피터팬의 좋은 방 구하기'(이하 피터팬)에서 일부 고객 정보가 유출된 것으로 확인됐다."
+    ],
+    "chips": [
+      "#부동산"
+    ]
+  },
+  {
+    "id": "n7ccc552e",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "7분 전",
+    "url": "https://www.yna.co.kr/view/AKR20261115025600527",
+    "title": "경북 앞바다·동해남부먼바다에 풍랑주의보",
+    "summary": [
+      "(울산=연합뉴스) 기상청은 15일 오후 2시 30분을 기해 동해남부북쪽안쪽먼바다에 풍랑주의보를 발효한다고 밝혔다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n37be8325",
+    "category": "IT",
+    "source": "연합뉴스",
+    "time": "10분 전",
+    "url": "https://www.yna.co.kr/view/AKR20261115020551004",
+    "title": "세무사 수석 합격자 AI 부정행위 자수…초소형 카메라로 촬영(종합)",
+    "summary": [
+      "(서울=연합뉴스) 김채린 기자 = 경찰이 제63회 세무사 시험에서 인공지능(AI)을 이용해 부정행위를 저지른 수석 합격자의 자수서를 접수하고 수..."
+    ],
+    "chips": [
+      "#AI"
+    ]
+  },
+  {
+    "id": "n76b39a42",
+    "category": "IT",
+    "source": "연합뉴스",
+    "time": "11분 전",
+    "url": "https://www.yna.co.kr/view/AKR20261115023500530",
+    "title": "세무사시험 감독관 코앞서 AI 부정행위…국가자격시험 관리 '구멍'",
+    "summary": [
+      "(서울=연합뉴스) 옥성구 기자 = 올해 세무사 시험 수석 합격자가 초소형 카메라와 생성형 인공지능(AI) 등을 이용한 부정행위를 시인하면서 국가..."
+    ],
+    "chips": [
+      "#AI"
+    ]
+  },
+  {
+    "id": "nf5d256c3",
+    "category": "사회",
+    "source": "동아일보",
+    "time": "12분 전",
+    "url": "https://www.donga.com/news/Politics/article/all/20261115/135025570/2",
+    "title": "윤상현 “갈라진 보수로는 이길 수 없어…장동혁 결단해 달라”",
+    "summary": [
+      "윤상현 국민의힘 의원은 15일 장동혁 대표를 향해 “갈라진 보수로는 이길 수 없다”며 보수 통합을 위한 결단을 내려달라고 촉구했다.윤 의원은 이날 서울 여의도 국회 소통관에서 기자회견을 열고 “국민은 정부·여당에 대한 견제를 요구하고 있지만, 그 기대가 정작 제1야당인 국민의힘에 대한 지지로 이어지지 않고 있다”며 이같이 밝혔다.윤 의원은 한국갤럽이 10∼12일 전국 만 18세 이상 1002명을 대상으로 실시해 13일 발표한 여론조사(전화면접."
+    ],
+    "chips": [
+      "#정치"
+    ]
+  },
+  {
+    "id": "nda4d44fd",
+    "category": "스포츠",
+    "source": "머니투데이",
+    "time": "12분 전",
+    "url": "https://www.mt.co.kr/sports/2026/11/15/2026111511070323881",
+    "title": "\"한국, 42년 만의 굴욕\" 日도 짚었다... 손흥민·김민재 모두 내고도 사우디에 3실점 패배",
+    "summary": [
+      "일본 언론도 한국 축구대표팀의 사우디아라비아전 패배를 '42년 만의 굴욕'으로 평가했다.",
+      "일본 닛칸스포츠는 14일 \"한국이 사우디아라비아에 굴욕적인 패배를 당했다\"며 \"손흥민(LAFC) 등 주전들이 모두 선발로 나섰지만 3실점하며 패했다\"고 전했다.",
+      "로베르트 모레노 임시 감독이 이끄는 한국 축구대표팀은 지난 13일 카타르 도하의 자심 빈 하마드 스타디움에서 열린 사우디아라비아와의 평가전에서 2-3으로 패했다."
+    ],
+    "chips": [
+      "#손흥민"
+    ]
+  },
+  {
+    "id": "n3c547201",
+    "category": "IT",
+    "source": "동아일보",
+    "time": "13분 전",
+    "url": "https://www.donga.com/news/Economy/article/all/20261115/135025551/1",
+    "title": "젠슨 황 떠나도 韓과 약속 지킨다…GPU 26만장 공급 그대로",
+    "summary": [
+      "젠슨 황 엔비디아 최고경영자(CEO)가 불명예 퇴진하면서 한국 기업들과 진행 중인 인공지능(AI)·그래픽처리장치(GPU) 관련 사업에 영향이 미칠지 주목된다.",
+      "그러나 정부가 엔비디아 측과 직접 접촉해 한국에 약속한 GPU 26만 장 공급과 기존 협력 사업을 예정대로 추진한다는 방침을 재확인하면서 국내 사업에 미칠 영향은 제한적일 것으로 전망된다.13일 IT업계에 따르면 엔비디아는 젠슨 황 CEO가 엔비디아의 CEO와 이사직에서 물러났다고 밝혔다."
     ],
     "chips": [
       "#AI",
       "#엔비디아"
+    ]
+  },
+  {
+    "id": "n2fe0f576",
+    "category": "경제",
+    "source": "아시아경제",
+    "time": "16분 전",
+    "url": "https://view.asiae.co.kr/article/2026111512265515496",
+    "title": "[디깅 트래블]관청 마당에 잔칫집 문이 섰다…억새·동백 사이, '제주다움'의 속사정",
+    "summary": [
+      "관청 마당에 잔칫집 문이 섰다.",
+      "제주목 관아 앞에 소나무 가지를 엮어 만든 '솔문'이 사람을 맞았다.",
+      "예전 제주에서는 혼례를 앞둔 집 대문에 솔문을 세웠다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n0592a74d",
+    "category": "경제",
+    "source": "머니투데이",
+    "time": "18분 전",
+    "url": "https://www.mt.co.kr/society/2026/11/15/2026111512184525733",
+    "title": "\"더 작은 집으로 간다\"…'다비치' 강민경, 8년산 집 떠나며 '눈물'",
+    "summary": [
+      "여성 듀오 '다비치'의 멤버 강민경이 이사 비화를 공개하며 돌연 눈물을 쏟았다.",
+      "강민경은 지난 13일 공식 유튜브 채널에 '집 내놨음..",
+      "물건도 다 내놨음'이라는 제목의 영상을 선보였다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nc4d84eaf",
+    "category": "경제",
+    "source": "아시아경제",
+    "time": "28분 전",
+    "url": "https://view.asiae.co.kr/article/2026111511564563245",
+    "title": "\"커피는 몸속 수분 빼앗는다? 적당량은 수분 공급\"",
+    "summary": [
+      "커피를 마시면 카페인의 이뇨 작용으로 몸속 수분이 빠져나간다고 알려졌지만, 적당량의 커피는 물처럼 체내 수분을 보충하는 데 도움이 된다는 전문가들의 설명이 나왔다.",
+      "14일 한국식품커뮤니케이션포럼(KOFRUM)에 따르면 미국 라이프스타일 전문매체 마사 스튜어트는 지난 10월 3일 '커피도 하루 물 섭취량에 포함될까? 전문가들의 답변'이라는 제목의 기사에서 이 같은 내용을 전했다.",
+      "앨리사 스몰렌·로렌 매너커 미국 공인 영양사는 커피도 하루 수분 섭."
+    ],
+    "chips": [
+      "#뉴스"
     ]
   }
 ];
@@ -634,21 +647,21 @@ window.NEWS_DB = [
 window.KEYWORD_TOP = [
   {
     "rank": 1,
-    "tag": "뉴스",
+    "tag": "AI",
     "mentions": "2330건",
     "trend": "+255%"
   },
   {
     "rank": 2,
-    "tag": "AI",
-    "mentions": "1810건",
-    "trend": "+175%"
+    "tag": "뉴스",
+    "mentions": "1940건",
+    "trend": "+195%"
   },
   {
     "rank": 3,
     "tag": "엔비디아",
-    "mentions": "1680건",
-    "trend": "+155%"
+    "mentions": "1810건",
+    "trend": "+175%"
   }
 ];
 // ====AUTO-GENERATED-END====
