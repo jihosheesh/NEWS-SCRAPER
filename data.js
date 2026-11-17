@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-11-17 13:57:43
+// 마지막 업데이트: 2026-11-17 21:59:38
 window.NEWS_DB = [
   {
     "id": "n5f0b82f7",
     "category": "IT",
     "source": "한겨레",
-    "time": "2시간 전",
+    "time": "10시간 전",
     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFAya255N29VRXlpdkoyRVh5S084ZXJucVhreFpwZy1rS1hzcFJzQzhWQWZNTDM4cWx0QkJtNnhqdmNfM3BXbGRNdENHVHN6ZGkxM1ZnSklYeGk0Z1poU3VwWndET0dJaHJpXzRzVTZ1Zw?oc=5",
     "title": "정상회담 앞두고…미 ‘중, AI반도체 원격 이용’ 뒷북 차단",
     "summary": [
@@ -17,10 +17,25 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n0f7879b1",
+    "category": "IT",
+    "source": "파이낸셜뉴스",
+    "time": "12시간 전",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE15b2tyRHF4UFZDRVVPeFdnUzJyeUptZG5fbmdOZFhERlp1a29GSmhEMGFacEhzQWdQSk8yZERyc0ZyekVHLXZtUTBBX21RNE52LWlkS05UMXdydw?oc=5",
+    "title": "美, AI반도체 中 원격접속 차단",
+    "summary": [
+      "美, AI반도체 中 원격접속 차단 파이낸셜뉴스."
+    ],
+    "chips": [
+      "#AI",
+      "#반도체"
+    ]
+  },
+  {
     "id": "n572d8951",
     "category": "IT",
     "source": "BBS불교방송",
-    "time": "12시간 전",
+    "time": "21시간 전",
     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5lNUtZQm03Z0xacFNHQnM4QVVlSXA4OEhvaW5vYlk3bFdZa1QwcG5FYXNWcFh6U2pXZUJjdi1keUtIQkhGVk9Cdk92M2hsTEY1c3JuTnF0aFN1SW5KZ3puSXRORHdCajAwOWcw?oc=5",
     "title": "미국, 엔비디아 AI칩 중국 원격 접속도 통제",
     "summary": [
@@ -35,7 +50,7 @@ window.NEWS_DB = [
     "id": "n67ad765b",
     "category": "IT",
     "source": "에너지안전신문",
-    "time": "14시간 전",
+    "time": "22시간 전",
     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9UWm1WdExlcmxEcU9fRVhCMTBOU0pybFpudzlKTEdUSmtReUl1dndkYkw3em5tbFVXa29HTDFjMTREV0tPS2ZLczN3T2JkVE80RjZvcXJXT0p3V3YxMkxrSzVxcVM?oc=5",
     "title": "\"한국을 가장 가고 싶은 나라로\"… 커넥트 스타트업, 유니콘 도전장",
     "summary": [
@@ -43,21 +58,6 @@ window.NEWS_DB = [
     ],
     "chips": [
       "#스타트업"
-    ]
-  },
-  {
-    "id": "n0542b77e",
-    "category": "IT",
-    "source": "경기일보",
-    "time": "16시간 전",
-    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA5R0JLZGxNY0pNTjhaczVMOEFzYVBzaWFVS3kxSWNuanhnaWJZR0xhWF9LTUE4cXRRZ2drbWw4TDB3SzR1SW41bVVUdmRWRnkwZ01XTEkyTkVFM0E?oc=5",
-    "title": "미국, 해외 AI 반도체·서버 이용한 ‘중국 원격 접속’ 차단...데이터센터 포함",
-    "summary": [
-      "미국, 해외 AI 반도체·서버 이용한 ‘중국 원격 접속’ 차단...데이터센터 포함 경기일보."
-    ],
-    "chips": [
-      "#AI",
-      "#반도체"
     ]
   },
   {
@@ -108,21 +108,6 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n7dc9ec31",
-    "category": "IT",
-    "source": "캐어유 뉴스",
-    "time": "4일 전",
-    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1FQ29uMHRGaTg2X3pHV2loLXpIdGpsLXZPcHdLNUh1TnBIQUJERnAzR1pBNTdIN2JYOUV5ME1LSGRTQ0c3MF8xbEV4RjlORE9NM2tFTDFpU3loeFRtZjYzSmRteXN0Z1BWZEVTbWxR?oc=5",
-    "title": "될성부른 AI 스타트업에 100억 원 이상, 정부가 2030년까지 유니콘 20곳 키웁니다",
-    "summary": [
-      "될성부른 AI 스타트업에 100억 원 이상, 정부가 2030년까지 유니콘 20곳 키웁니다 캐어유 뉴스."
-    ],
-    "chips": [
-      "#AI",
-      "#스타트업"
-    ]
-  },
-  {
     "id": "nc841e0cc",
     "category": "IT",
     "source": "유니콘팩토리",
@@ -134,20 +119,6 @@ window.NEWS_DB = [
     ],
     "chips": [
       "#스타트업"
-    ]
-  },
-  {
-    "id": "nf8efe27f",
-    "category": "사회",
-    "source": "경기일보",
-    "time": "19일 전",
-    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE05TWdiUnFocFlmYXhjblZpSHpKeERDVzZkUUk4dTI4V3BZTUtsbkFGdGVyZEU3YW5ram9lNDJIbmM1QTAwZEIzVlQ5ZUFLR28yRVR2b2xxWXNQa2s?oc=5",
-    "title": "경동대 취업박람회에 700여명 몰려… 뜨거운 구직열기",
-    "summary": [
-      "경동대 취업박람회에 700여명 몰려… 뜨거운 구직열기 경기일보."
-    ],
-    "chips": [
-      "#취업"
     ]
   },
   {
@@ -180,6 +151,20 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "ne41d0f16",
+    "category": "IT",
+    "source": "경기일보",
+    "time": "35일 전",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5CcjVuM0xocG02b3VBeDNzRTVVUURjakVQSXVTYUU0UUJxbzQ4YkdLSllvRGdjekNZVTlzeUlHV3pWcFVHY09lcDB5V2JBRG9jWWFXREZIZVIxWk0?oc=5",
+    "title": "“내일의 유니콘 꿈꾼다”…300명 모인 경기 스타트업 축제 ‘후끈’",
+    "summary": [
+      "“내일의 유니콘 꿈꾼다”…300명 모인 경기 스타트업 축제 ‘후끈’ 경기일보."
+    ],
+    "chips": [
+      "#스타트업"
+    ]
+  },
+  {
     "id": "n334dce2c",
     "category": "부동산",
     "source": "대구일보",
@@ -205,6 +190,22 @@ window.NEWS_DB = [
     ],
     "chips": [
       "#취업"
+    ]
+  },
+  {
+    "id": "nb16c3b86",
+    "category": "사회",
+    "source": "한국경제",
+    "time": "49일 전",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9WRTVrbjVJTjdrdkI0WVZYc2RzdHdzRXZWT2daLVRRWkxKaDd6RmpOb2xlQlBiX2lLY2VaRjF2c25SbmlMN0s1RkNDYW9pSmlndlpkLW9BUldwQQ?oc=5",
+    "title": "\"경력직만 뽑고 AI가 일자리 대체\"…청년 구직자 '취업 한파' 체감",
+    "summary": [
+      "\"경력직만 뽑고 AI가 일자리 대체\"…청년 구직자 '취업 한파' 체감 한국경제."
+    ],
+    "chips": [
+      "#AI",
+      "#취업",
+      "#고용"
     ]
   },
   {
@@ -308,319 +309,324 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "ne6e258e3",
-    "category": "IT",
-    "source": "테크M",
-    "time": "방금 전",
-    "url": "https://www.techm.kr/news/articleView.html?idxno=157458",
-    "title": "[카드뉴스] 게임에서 글로벌 콘텐츠로.. K게임, 콘솔로 넓히고 AI로 혁신한다",
-    "summary": [
-      "국내 게임산업의 성공 공식이 빠르게 바뀌고 있습니다.",
-      "과거 MMORPG와 모바일 중심으로 성장했던 K게임은 이제 액션·슈팅 등 다양한 장르와 PC·콘솔 시장으로 영역을 넓히고 있습니다.",
-      "여기에 메이플스토리와 배틀그라운드, 라그나로크 등 인기 게임을 활용한 IP 사업이 확대되고, AI가 게임 개발 방식까지 바꾸고 있습니다.글로벌 시장에서 새로운 성장동력을 찾고 있는 K게임의 변화와 미래 경쟁력은 무엇일까요?."
-    ],
-    "chips": [
-      "#AI"
-    ]
-  },
-  {
-    "id": "n57b8d9b8",
-    "category": "IT",
-    "source": "테크M",
-    "time": "방금 전",
-    "url": "https://www.techm.kr/news/articleView.html?idxno=157459",
-    "title": "애플페이, '수수료·데이터' 과다 논란 '재점화'...업계 \"소비자 피해 우려\"",
-    "summary": [
-      "'애플페이' 수수료 논란이 재점화했다.",
-      "신용카드에 이어 체크카드로 전선이 확대했다.",
-      "국내 결제 관련 산업과 데이터 유출 우려도 커졌다.17일 업계에 따르면 카카오뱅크는 체크카드 등에 애플페이를 도입했다."
-    ],
-    "chips": [
-      "#카카오"
-    ]
-  },
-  {
-    "id": "n8c0cdc3b",
-    "category": "IT",
-    "source": "테크M",
-    "time": "방금 전",
-    "url": "https://www.techm.kr/news/articleView.html?idxno=157457",
-    "title": "SK AX, 동반성장데이 개최...120여개 협력사 참석",
-    "summary": [
-      "SK AX는 17일 경기도 성남 SK u-타워에서 '2026 동반성장 데이'를 열고 협력사들과의 상생협력 성과를 공유했다고 밝혔다.",
-      "이날 행사에는 120여개 협력사 관계자들이 참석했다.",
-      "SK AX는 협력사를 대상으로 그간 기술·금융 지원과 인재 육성 등 다양한 동반성장 프로그램을 운영해 왔다."
-    ],
-    "chips": [
-      "#AI"
-    ]
-  },
-  {
-    "id": "n07e8cda8",
-    "category": "IT",
-    "source": "테크M",
-    "time": "방금 전",
-    "url": "https://www.techm.kr/news/articleView.html?idxno=157456",
-    "title": "AI 추론 수요 증가에 최적화 SW 업계도 경쟁력 확보 '잰걸음'",
-    "summary": [
-      "AI 추론 효율화 기업 노타가 금융권 코딩 에이전트에 공급한 AI 모델의 처리 효율을 최대 95% 높였다.",
-      "같은 GPU로 더 많은 요청을 처리할 수 있도록 소프트웨어(SW)를 최적화한 결과다.",
-      "AI 추론 수요가 늘면서 기존 장비의 처리 능력을 높이고 서로 다른 반도체를 효율적으로 활용하기 위한 SW 기업들의 기술 개발과 사업 확대에도 속도가 붙고 있다.17일 SW 업계에 따르면 노타는 최근 금융 IT 기업 두베에 AI 코딩 에이전트용 대규모언어."
-    ],
-    "chips": [
-      "#AI",
-      "#반도체"
-    ]
-  },
-  {
-    "id": "n284010f2",
-    "category": "IT",
-    "source": "조선일보",
-    "time": "4분 전",
-    "url": "https://www.chosun.com/national/national_general/2026/11/17/JNABAMT4UJF2JBYV25DBZUZQYA/",
-    "title": "‘AI 커닝’ 세무사 수석 합격자, 13시간 만에 경찰 조사 마쳐",
-    "summary": [
-      "‘AI 커닝’ 세무사 수석 합격자, 13시간 만에 경찰 조사 마쳐."
-    ],
-    "chips": [
-      "#AI"
-    ]
-  },
-  {
-    "id": "nf54d9904",
+    "id": "na59cb5b8",
     "category": "사회",
-    "source": "조선일보",
-    "time": "4분 전",
-    "url": "https://www.chosun.com/politics/politics_general/2026/11/17/L55BYY5S7VA3RKWZNE64YEPNRM/",
-    "title": "李대통령, 필리핀 대통령 주최 만찬서 美 트럼프와 대화",
+    "source": "머니투데이",
+    "time": "방금 전",
+    "url": "https://www.mt.co.kr/society/2026/11/18/2026111806273621326",
+    "title": "여고생에 흉기 휘두른 남성 \"피해자 특정 안해…교도소 가려고\"",
     "summary": [
-      "李대통령, 필리핀 대통령 주최 만찬서 美 트럼프와 대화."
+      "부산 길거리에서 흉기를 휘두른 남성이 범행 동기를 묻는 말에 충격적인 발언을 해 논란이다.",
+      "지난 17일 방송된 JTBC '사건반장'에서는 13일 오후 부산에서 발생한 흉기 난동 사건이 다뤄졌다.",
+      "이날 오후 4시 40분께 부산 지하철 1호선 부산대역 역무실로 \"흉기를 소지한 남성이 있다\"는 신고가 접수됐다."
     ],
     "chips": [
-      "#정치"
+      "#뉴스"
     ]
   },
   {
-    "id": "n972ebe66",
+    "id": "n173137f0",
     "category": "스포츠",
-    "source": "뉴시스",
-    "time": "7분 전",
-    "url": "https://www.newsis.com/view/NISX20261117_0003872269",
-    "title": "화성시장 \"악의적 정보공개청구…제도개선해 막아야\"",
+    "source": "머니투데이",
+    "time": "5분 전",
+    "url": "https://www.mt.co.kr/entertainment/2026/11/18/2026111806151367272",
+    "title": "\"좋아합니다\"...장나라, 6세 연하 남편에 돌직구 승부수",
     "summary": [
-      "[화성=뉴시스] 문영호 기자 = 정명근 경기 화성시장이 반복적이고 악의적인 정보공개 청구로 인한 행정력 낭비를 막기 위한 제도 개선을 건의했다.",
-      "화성시에서 특정인의 대량 정보공개 청구로 행정업무 부담이 커진 사례를 계기로, 개별 지자체 차원의 대응을 넘어 전국 공공기관에 적용할 수 있는 제도적 장치를 마련해야 한다는 취지다.",
-      "정 시장은 17일 안양아트센터 컨벤션홀에서 열린 경기도시장군수협의회 민선9기 제1차 정기회의에서 '정보공개제도 악의적·반."
+      "배우 장나라가 6세 연하 촬영감독 남편에게 먼저 고백했던 러브스토리를 공개했다.",
+      "장나라는 지난 17일 유튜브 예능프로그램 '살롱드립'에서 \"남편이 촬영감독인데 현장에서 연락할 핑계를 만들어 문자를 했다\"며 \"스틸 사진이 나왔다면서 사진을 보내기도 하고 연락을 주고받았다.",
+      "서로 좋은 사람이라는 이야기가 오갔다\"고 회상했다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "ndf1c7955",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "7분 전",
-    "url": "https://www.chosun.com/entertainments/broadcast/2026/11/17/MY3GCOJSMRSWENTCHBQWMOBUGI/",
-    "title": "변우석, 훈훈 비주얼에 고운 손까지..“볼 때마다 새로워”",
+    "id": "nd943418c",
+    "category": "IT",
+    "source": "동아일보",
+    "time": "6분 전",
+    "url": "https://www.donga.com/news/Inter/article/all/20261118/135043367/1",
+    "title": "젠슨 황 “이사회가 원하면 기꺼이 복귀”…사임 후 첫 입장",
     "summary": [
-      "[OSEN=박하영 기자] 배우 변우석이 훈훈한 외모를 뽐냈다.17일 변우석은 자신의 SNS에 “새로운 나를 향한 대담한 도전”이라는 글과 함께 사진과 영상을 게재했다.사진 속 변우석은 검정색 브이넥 니트를 착용한 채 목걸이, 반지 등 액세서리로 포인트 매치한 모습이 담겼다.",
-      "카메라를 응시한 채 고운 손을 뽐낸 그는 남다른 카리스마를 뽐내기도 했다.무엇보다."
+      "불륜과 중국 정보기관 연계 의혹 등으로 사임한 젠슨 황 전 엔비디아 최고경영자(CEO)가 이사회가 요청하면 CEO로 복귀할 의사가 있다고 밝혔다.",
+      "황 전 CEO가 입장을 내놓은 것은 사임 이후 처음이다.월스트리트저널(WSJ)은 17일(현지시간) 황 전 CEO가 성명을 내고 “이사회가 나의 복귀가 주주와 직원, 회사, 미국을 위해 최선의 선택이라고 판단한다면 기꺼이 CEO직에 복귀하겠다”고 밝혔다고 보도했다.",
+      "사임 후 처음 내놓은 공개 입장이다."
     ],
     "chips": [
-      "#뉴스"
+      "#엔비디아"
     ]
   },
   {
-    "id": "n8227c7fa",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "8분 전",
-    "url": "https://www.chosun.com/entertainments/broadcast/2026/11/17/GY2TCMRRHE2GGMRUMNSWCYJRGI/",
-    "title": "입담도 아버지 다 됐네..조각미남 고수, 확신의 '예능캐' 활약 ('틈만나면')",
-    "summary": [
-      "[OSEN=김수형 기자] 배우 고수가 '틈만나면,'에서 예상 밖의 예능감을 폭발시키며 유재석마저 당황하게 했다.17일 방송된 SBS 예능 '틈만나면,'에서는 배우 고수와 육성재가 게스트로 출연해 유재석, 유연석과 함께 경기 용인 수지 일대를 찾았다.이날 고수는 자신의 차량을 직접 운전해 촬영장에 도착했다고 밝혀 눈길을 끌었다.",
-      "어쩌다 보니 홀로 출근하게 됐."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n203951c9",
+    "id": "n767e8cf1",
     "category": "사회",
     "source": "뉴시스",
-    "time": "8분 전",
-    "url": "https://www.newsis.com/view/NISX20261117_0003872268",
-    "title": "트럼프 “10개월내 美 희토류 생산, 中 따라잡을 것”",
+    "time": "6분 전",
+    "url": "https://www.newsis.com/view/NISX20261118_0003872344",
+    "title": "태안 앞바다 어선 연락 두절…해경, 광역구조본부 가동해 수색 총력",
     "summary": [
-      "[서울=뉴시스] 구자룡 기자 = 도널드 트럼프 대통령은 17일 미국의 희토류 생산량이 내년 안에 중국과 비슷해질 것이라고 주장했다.",
-      "트럼프 대통령은 미국이 이전에는 결코 생산하지 못했던 수준으로 희토류를 생산하고 있다면서 이같이 말했다고 CNN은 보도했다.",
-      "트럼프 대통령은 중국 광둥성 선전에서 열리는 아시아태평양경제협의체(APEC) 정상회담 참석을 위해 아시아 순방길에 올랐으며 이날 필리핀 마닐라에서 열리는 쿼드(Quad) 정상회담에 참석했다."
+      "[인천=뉴시스] 함상환 기자 = 충남 태안 앞바다에서 어선 1척이 연락 두절돼 해양경찰이 광역구조본부를 가동하고 대대적인 수색에 나섰다.",
+      "중부해양경찰청에 따르면 18일 오전 1시 9분께 충남 태안 선적 A호(7.93t급·연안통발)가 연락되지 않는다는 신고가 태안어선안전조업국을 통해 접수됐다.",
+      "해당 선박에는 선박 출입항 시스템상 승선원 7명이 탑승한 것으로 파악됐다."
     ],
     "chips": [
-      "#정치"
+      "#뉴스"
     ]
   },
   {
-    "id": "n7ba03603",
-    "category": "스포츠",
-    "source": "한국경제",
-    "time": "8분 전",
-    "url": "https://www.hankyung.com/article/2026111730821",
-    "title": "수능 감독관 8400명 추가 배치…재난문자로 미제출 폰 적발",
+    "id": "n43338a00",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "7분 전",
+    "url": "https://www.newsis.com/view/NISX20261118_0003872346",
+    "title": "수능 D-1 전남광주 최저기온 8도…오후부터 5㎜ 비",
     "summary": [
-      "수능 감독관 8400명 추가 배치…재난문자로 미제출 폰 적발."
+      "[전남광주=뉴시스]이영주 기자 = 수능을 하루 앞둔 18일 전남광주는 대체로 흐리고 기온이 떨어지는 가운데 오후부터 비가 내리겠다.",
+      "광주기상청에 따르면 이날 전남광주는 중국 북부지방에서 확장하는 찬 대륙고기압의 영향을 받으면서 흐리겠다.",
+      "아침 최저기온은 8~11도, 낮 최고기온은 11~14도 사이 분포를 보이면서 평년과 비슷하거나 약간 낮겠다."
     ],
     "chips": [
       "#교육"
     ]
   },
   {
-    "id": "n72f31a8a",
-    "category": "경제",
-    "source": "뉴시스",
-    "time": "9분 전",
-    "url": "https://www.newsis.com/view/NISX20261117_0003872274",
-    "title": "EU, 유로존 올해 성장률 전망 1.2%로 상향…독일 1.3%↑",
+    "id": "nd1df4d36",
+    "category": "스포츠",
+    "source": "연합뉴스",
+    "time": "7분 전",
+    "url": "https://www.yna.co.kr/view/AKR20261118013600007",
+    "title": "한국 축구와 보낸 힘겨웠던 66일…모레노 감독 '절반의 성공'",
     "summary": [
-      "[서울=뉴시스]이재준 기자 = 유럽연합(EU) 집행위원회는 17일 유로존 21개국 올해 경제성장률 전망치를 1.2%로 상향 조정했다.",
-      "세계적인 인공지능(AI) 투자 붐에 힘입어 수출이 늘어난 데다 에너지 가격이 높은 수준을 유지하는 상황에서도 역내 경제가 견조한 흐름을 보이고 있다는 판단에서다.",
-      "마켓워치와 NTT 뉴스, dpa 통신에 따르면 EU 집행위는 이날 발표한 추계 경제전망에서 유로존 2026년 국내총생산(GDP) 증가율을 1.2%로 제."
+      "(도하[카타르]=연합뉴스) 이영호 기자 = 9월 13일 입국해 11월 17일 마지막 경기를 치를 때까지 66일 동안 태극전사와 동고동락한 로베르..."
     ],
     "chips": [
-      "#AI",
-      "#수출"
+      "#뉴스"
     ]
   },
   {
-    "id": "nc4b21d8e",
+    "id": "ncca7cf2c",
     "category": "경제",
     "source": "한국경제",
-    "time": "9분 전",
-    "url": "https://www.hankyung.com/article/2026111730807",
-    "title": "잠수장비 착용, 전복 훔친 교사…어민들 무고했다가 결국 '퇴출'",
+    "time": "8분 전",
+    "url": "https://www.hankyung.com/article/2026111832677",
+    "title": "\"이번 수능서 초소형카메라 반입하겠다\"…부정행위 예고글 파장",
     "summary": [
-      "잠수장비 착용, 전복 훔친 교사…어민들 무고했다가 결국 '퇴출'."
+      "\"이번 수능서 초소형카메라 반입하겠다\"…부정행위 예고글 파장."
     ],
     "chips": [
-      "#뉴스"
+      "#교육"
     ]
   },
   {
-    "id": "ne22ac873",
+    "id": "nafb36762",
     "category": "사회",
     "source": "연합뉴스",
-    "time": "9분 전",
-    "url": "https://www.yna.co.kr/view/AKR20261117176000079",
-    "title": "이란 매체 \"게슘섬에서 잇단 폭발음…상공에선 연기 관측\"",
+    "time": "8분 전",
+    "url": "https://www.yna.co.kr/view/AKR20261118014000017",
+    "title": "PHP 이어 '자바'서도 치명적 취약점…공공·기업 보안 비상",
     "summary": [
-      "(카이로=연합뉴스) 김상훈 특파원 = 이란 남부 연안에 있는 게슘섬 일대에서 원인을 알 수 없는 폭발음이 잇따라 들렸다고 파르스 통신이 17일(..."
+      "(서울=연합뉴스) 권하영 기자 = 최근 웹 개발 언어 PHP에서 심각한 보안 취약점이 발견된 데 이어 공공기관과 기업의 정보시스템에 널리 쓰이는..."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "nba770d2c",
+    "id": "n74390aa8",
     "category": "IT",
-    "source": "뉴시스",
+    "source": "아시아경제",
     "time": "9분 전",
-    "url": "https://www.newsis.com/view/NISX20261117_0003872259",
-    "title": "디카프리오 52세에 아빠 되나…모델 여친 임신설 알고 보니",
+    "url": "https://view.asiae.co.kr/article/2026111716053109224",
+    "title": "보험사 AI 경쟁 새 변수는 '토큰 비용'?",
     "summary": [
-      "[서울=뉴시스]정지연 인턴 기자 = 할리우드 배우 레오나르도 디카프리오의 연인인 이탈리아 출신 모델 비토리아 세레티를 둘러싼 임신설이 확산했지만 소문의 근거가 된 사진은 인공지능(AI)으로 만들어진 이미지인 것으로 밝혀졌다.",
-      "최근 사회관계망서비스(SNS)와 온라인 커뮤니티에서는 디카프리오와 세레티가 요트에서 함께 휴가를 보내는 모습이라며 사진 여러 장이 공유됐다.",
-      "사진 속 세레티는 배가 눈에 띄게 부풀어 있었고 디카프리오는 그의 배 위에 손을."
+      "보험사가 인공지능(AI) 활용을 확대하면서 연산 비용 관리가 새로운 과제로 떠오르고 있다.",
+      "복잡한 보험약관과 청구서류를 처리하기 위해 입력하는 정보가 많아질수록 토큰 사용량이 늘어나는 데다 AI 에이전트가 검색과 분석을 반복하면 단시간에 토큰이 대량 소모될 수 있어서다.",
+      "시험 운영 단계에서는 감당할 만했던 비용이 실제 대규모 업무에 적용되는 과정에서 수익성 부담으로 이어질 가능성이 제기된다."
     ],
     "chips": [
       "#AI"
     ]
   },
   {
-    "id": "n3f0c2830",
-    "category": "경제",
-    "source": "한국경제",
-    "time": "10분 전",
-    "url": "https://www.hankyung.com/article/2026111730847",
-    "title": "\"지금 주가는 가짜?\"…KB 수석 이코노미스트가 연말 매매 말린 이유",
-    "summary": [
-      "\"지금 주가는 가짜?\"…KB 수석 이코노미스트가 연말 매매 말린 이유."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n65342d14",
-    "category": "부동산",
-    "source": "연합뉴스",
-    "time": "11분 전",
-    "url": "https://www.yna.co.kr/view/AKR20261117115351001",
-    "title": "이용철 법무장관 후보, 한때 '3주택자'…\"공직 취임 전 일시적\"(종합)",
-    "summary": [
-      "(서울=연합뉴스) 최평천 기자 = 이용철 법무부 장관 후보자는 본인과 배우자, 자녀 명의 재산으로 총 39억4천265만원을 신고했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nd5b2d45c",
-    "category": "부동산",
-    "source": "아시아경제",
-    "time": "11분 전",
-    "url": "https://view.asiae.co.kr/article/2026111722431887616",
-    "title": "양산서 다툼 끝에 사실혼 아내 흉기 살해한 40대 남성 체포",
-    "summary": [
-      "경남 양산에서 사실혼 관계인 여성을 흉기로 살해한 40대 남성이 경찰에 붙잡혔다.",
-      "양산경찰서는 17일 40대 남성 A 씨를 살인 혐의로 체포해 조사 중이라고 밝혔다.",
-      "경찰에 따르면 A 씨는 이날 오전 5시 59분께 양산시의 한 다세대주택 주거지에서 사실혼 관계인 50대 여성 B 씨와 다투던 중 흉기를 휘둘러 살해한 혐의를 받고 있다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nea7b01a3",
-    "category": "스포츠",
-    "source": "연합뉴스",
-    "time": "13분 전",
-    "url": "https://www.yna.co.kr/view/AKR20261117175700007",
-    "title": "'득점 1위' 한국전력 쇼 \"이민규와 대화하며 빠르게 호흡 맞춰\"",
-    "summary": [
-      "(수원=연합뉴스) 김동한 기자 = 남자 프로배구 한국전력의 4연승 배경엔 리그 득점 1위를 달리는 쉐론 베논 에번스(등록명 쇼)가 있다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n9b2b15b2",
+    "id": "ndc02cd5d",
     "category": "사회",
-    "source": "연합뉴스",
-    "time": "15분 전",
-    "url": "https://www.yna.co.kr/view/AKR20261117042752001",
-    "title": "국힘 '투톱' 장동혁·정점식, 한동훈 장인상 조문(종합2보)",
+    "source": "뉴시스",
+    "time": "10분 전",
+    "url": "https://www.newsis.com/view/NISX20261118_0003872343",
+    "title": "[속보] 이스라엘 국회, 네타냐후 반대파 신임 의장 17일 선출",
     "summary": [
-      "(서울=연합뉴스) 김연정 권희원 노선웅 기자 = 국민의힘 장동혁 대표가 17일 무소속 한동훈 의원의 장인인 고(故) 진형구 전 대전고검장 빈소를..."
+      "[예루살렘= 신화/뉴시스] 차미례 기자 = 이스라엘 국회가 17일 밤(현지시간) 베냐민 네타냐후 총리에 반대하는 인물로 새 국회의장을 선출했다.",
+      "이로써 네타냐후 반대파들이 국회를 장악하고 앞으로 새 연립정부 구성을 위한 회담을 주도할 수 있게 되었다.",
+      "◎공감언론 뉴시스 cmr@newsis.com."
     ],
     "chips": [
-      "#뉴스"
+      "#정치"
     ]
   },
   {
-    "id": "n3f1e4079",
+    "id": "n064e1819",
+    "category": "IT",
+    "source": "아시아경제",
+    "time": "10분 전",
+    "url": "https://view.asiae.co.kr/article/2026111806483970835",
+    "title": "[뉴욕증시]엔비디아 실적 앞두고 2거래일 연속 급락",
+    "summary": [
+      "17일(현지시간) 뉴욕증시의 3대 지수는 일제히 급락 마감했다.",
+      "엔비디아의 분기 실적 발표를 앞두고 반도체주를 중심으로 매도세가 확산했다.",
+      "특히 나스닥 지수는 장중 약 7개월 만에 최저 수준까지 떨어졌다."
+    ],
+    "chips": [
+      "#반도체",
+      "#엔비디아"
+    ]
+  },
+  {
+    "id": "n5ad9c729",
+    "category": "IT",
+    "source": "뉴시스",
+    "time": "11분 전",
+    "url": "https://www.newsis.com/view/NISX20261118_0003872329",
+    "title": "엔비디아, 매출 155조원 '예상치 상회'…젠슨 황 사임 후 첫 실적발표",
+    "summary": [
+      "[서울=뉴시스]신정원 기자 = 미국 반도체 기업 엔비디아가 시장 예상치를 크게 웃도는 3분기 실적을 발표했다.",
+      "젠슨 황 전 최고경영자(CEO) 사임 후 처음 공개한 실적이다.",
+      "CNBC 등에 따르면 엔비디아는 17일(현지 시간) 장 마감 뒤 발표한 3분기 실적에서 조정 주당순이익(EPS)이 2.68달러를 기록했다고 밝혔다."
+    ],
+    "chips": [
+      "#반도체",
+      "#엔비디아"
+    ]
+  },
+  {
+    "id": "n1365e8f4",
     "category": "경제",
     "source": "머니투데이",
-    "time": "20분 전",
-    "url": "https://www.mt.co.kr/stock/2026/11/17/2026111721067082626",
-    "title": "[여의도 투자본부 2부] RFHIC vs 코리아써키트 vs 코스메카코리아 vs 동국제약, 공략법은?",
+    "time": "12분 전",
+    "url": "https://www.mt.co.kr/entertainment/2026/11/18/2026111806034752937",
+    "title": "'오참두비' 무엇?…있지 채령, 다이어트 식단 공개[셀럽웰빙]",
     "summary": [
-      "▶ 진행 - 이수연 앵커 ▶ 출연 - 배준호 MTNW 어드바이저 황민혁 MTNW 어드바이저 최태훈 MTNW 어드바이저 ▶▶▶ 마스터의 전략 배준호 관심주 ① RFHIC - 해외 방산 시장 납품 확대… 3Q 호실적 - 2000억 규모 수주잔고 확보 - 목표가 63,000원 / 손절가 50,000원 배준호 관심주 ② 코리아써키트 차세대 서버용 메모리 모듈 '소캠2' 성장 모멘텀 북미 이어 국내 고객사향 출하 확대 기대 목표가 105,000원 / 손."
+      "국내외 연예인과 인플루언서들의 피부 미용·식단·다이어트 등 건강 비법을 소개합니다.",
+      "그룹 있지(ITZY) 채령이 솔로 데뷔를 앞두고 몸매 관리할 때 즐겨 먹는 다이어트 식단을 공개했다.",
+      "최근 유튜브 채널 'ITZY'에는 채령의 솔로 데뷔 준비 과정을 담은 영상이 공개됐다."
+    ],
+    "chips": [
+      "#의료"
+    ]
+  },
+  {
+    "id": "nf5281c6b",
+    "category": "IT",
+    "source": "한국경제",
+    "time": "12분 전",
+    "url": "https://www.hankyung.com/article/202611183263i",
+    "title": "블룸버그 \"월가, 엔비디아 투자 의견 상향\" 전망…'신중론'도 나와",
+    "summary": [
+      "블룸버그 \"월가, 엔비디아 투자 의견 상향\" 전망…'신중론'도 나와."
+    ],
+    "chips": [
+      "#엔비디아"
+    ]
+  },
+  {
+    "id": "nf53aad4a",
+    "category": "IT",
+    "source": "한국경제",
+    "time": "13분 전",
+    "url": "https://www.hankyung.com/article/202611183264i",
+    "title": "엔비디아 투자약정 5180억달러…3개월 만에 41% 급증",
+    "summary": [
+      "엔비디아 투자약정 5180억달러…3개월 만에 41% 급증."
+    ],
+    "chips": [
+      "#엔비디아"
+    ]
+  },
+  {
+    "id": "n29e9ff41",
+    "category": "IT",
+    "source": "아시아경제",
+    "time": "15분 전",
+    "url": "https://view.asiae.co.kr/article/2026111806441966032",
+    "title": "\"젠슨 황 딸, 메가스피드 대응에 관여…아무도 'NO'라고 못해\"",
+    "summary": [
+      "젠슨 황 전 엔비디아 최고경영자(CEO)의 딸과 사위가 중국으로의 반도체 우회 반출 통로로 지목된 싱가포르 기업 메가스피드 관련 업무에 깊이 관여해온 것으로 드러났다.",
+      "황 전 CEO 일가가 엔비디아 내부에서 막강한 영향력을 행사하면서 기업 지배구조에 대한 우려도 커지고 있다.",
+      "17일(현지시간) 파이낸셜타임스(FT)는 내부 소식통을 인용해 황 전 CEO의 딸인 매디슨 황이 메가스피드 관련 의혹에 대한 엔비디아의 대외 대응을 주도하는 데 관여하고."
+    ],
+    "chips": [
+      "#반도체",
+      "#엔비디아"
+    ]
+  },
+  {
+    "id": "n7048c8a5",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "18분 전",
+    "url": "https://www.yna.co.kr/view/AKR20261118013700065",
+    "title": "심야 시간 인천 숙박업소서 화재…투숙객 60여명 대피",
+    "summary": [
+      "(인천=연합뉴스) 천정인 기자 = 심야 시간대 인천 한 숙박업소에서 불이 나 투숙객 60여명이 대피했다."
     ],
     "chips": [
       "#뉴스"
+    ]
+  },
+  {
+    "id": "nd44f72e8",
+    "category": "IT",
+    "source": "조선일보",
+    "time": "18분 전",
+    "url": "https://www.chosun.com/economy/tech_it/2026/11/18/IZPS2WKDFBA55B4EOZCQDKKCGM/",
+    "title": "젠슨 황 없는 엔비디아, 14분기 연속 사상 최대 실적...전년보다 두 배 증가",
+    "summary": [
+      "젠슨 황 없는 엔비디아, 14분기 연속 사상 최대 실적...전년보다 두 배 증가."
+    ],
+    "chips": [
+      "#엔비디아"
+    ]
+  },
+  {
+    "id": "n261e90ff",
+    "category": "부동산",
+    "source": "연합뉴스",
+    "time": "20분 전",
+    "url": "https://www.yna.co.kr/view/AKR20261118013500064",
+    "title": "청주 옥산면 단독주택서 화재…60대 거주자 사망",
+    "summary": [
+      "(청주=연합뉴스) 천경환 기자 = 17일 오후 9시 11분께 충북 청주시 옥산면의 한 단독주택에서 화재가 발생해 1시간여 만에 진화됐다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nb220543f",
+    "category": "IT",
+    "source": "아시아경제",
+    "time": "22분 전",
+    "url": "https://view.asiae.co.kr/article/2026111806364462353",
+    "title": "엔비디아, 3분기 매출 155조원…예상치 상회",
+    "summary": [
+      "엔비디아는 회계연도 3분기(8∼10월) 매출액이 전년 동기 대비 103% 늘어난 1158억 달러(약 155조원)를 기록했다고 17일(현지시간) 공시했다.",
+      "이는 시장조사기관 런던증권거래소그룹(LSEG)이 집계한 시장전망치 1091억 달러를 50억 달러 이상 뛰어넘는 수치다.",
+      "주당순이익(EPS)도 2.7달러로, 월가 예상치인 2.47달러를 웃돌았다."
+    ],
+    "chips": [
+      "#엔비디아"
+    ]
+  },
+  {
+    "id": "nc0fa4e73",
+    "category": "IT",
+    "source": "한국경제",
+    "time": "23분 전",
+    "url": "https://www.hankyung.com/article/202611183254i",
+    "title": "엔비디아 '루빈 효과' 본격화…4분기 매출 1300억달러 전망",
+    "summary": [
+      "엔비디아 '루빈 효과' 본격화…4분기 매출 1300억달러 전망."
+    ],
+    "chips": [
+      "#엔비디아"
     ]
   }
 ];
@@ -629,21 +635,21 @@ window.NEWS_DB = [
 window.KEYWORD_TOP = [
   {
     "rank": 1,
-    "tag": "AI",
-    "mentions": "2590건",
-    "trend": "+295%"
-  },
-  {
-    "rank": 2,
-    "tag": "뉴스",
+    "tag": "엔비디아",
     "mentions": "2330건",
     "trend": "+255%"
   },
   {
+    "rank": 2,
+    "tag": "AI",
+    "mentions": "1940건",
+    "trend": "+195%"
+  },
+  {
     "rank": 3,
     "tag": "반도체",
-    "mentions": "1680건",
-    "trend": "+155%"
+    "mentions": "1940건",
+    "trend": "+195%"
   }
 ];
 // ====AUTO-GENERATED-END====
