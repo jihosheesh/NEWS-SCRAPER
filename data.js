@@ -1,11 +1,26 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-11-21 07:50:36
+// 마지막 업데이트: 2026-11-21 15:45:16
 window.NEWS_DB = [
+  {
+    "id": "nc29dfbb1",
+    "category": "사회",
+    "source": "더코리아",
+    "time": "11시간 전",
+    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBGVWVtOENPSzNxaTA2cXprTjBtQW90MFlZRkdCUlNkSlNLaXdxaGhPX1NiNHZueGpOWnpaNFpzZXB6TncyUWh1dGNOSQ?oc=5",
+    "title": "수원특례시, 11월 ‘구인·구직의 날’ 개최 > 뉴스",
+    "summary": [
+      "수원특례시, 11월 ‘구인·구직의 날’ 개최 > 뉴스 더코리아."
+    ],
+    "chips": [
+      "#채용",
+      "#취업"
+    ]
+  },
   {
     "id": "n67e67c22",
     "category": "IT",
     "source": "브랜드뉴스",
-    "time": "3시간 전",
+    "time": "11시간 전",
     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1xMHRKc195OW9YRkNoVmZzN3FVMklOR1F0YVVDNHNyVVlmQnNJb0V6eW9vQmpvdnpLOTdqQWhlZ0lLVkZtX3VZb1MwclZTVU5lelFmN0ktNTZjb25RM25MbjUtVWxEMGlhTTR4Yg?oc=5",
     "title": "AI 반도체주 급락 도미노…美 반도체지수 5.3% 하락, 코스피 5000선 붕괴",
     "summary": [
@@ -20,7 +35,7 @@ window.NEWS_DB = [
     "id": "ncb260690",
     "category": "IT",
     "source": "연합뉴스",
-    "time": "9시간 전",
+    "time": "17시간 전",
     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE05RzBnazFPMk5iQVFManV2VWEzTW5YWkxxYjFleE5CNF9STlZhNEd3UUNQQllNMGl6ck85SlBjLUlSNERwYy0wblpUeko1SlNRZVJza3I1VWZnWEHSAWBBVV95cUxNV19HSXdCeXdOZEhHY0dPY1BqdVdZRVlGT3FzUVFhU2F0MlFDd1lxYll0SmJSMHd2d1dRWGl5WjdGUThaRTZrbjFIeU9nNGpQY2hGTTBEWVMzZ0k0Zm5DOWo?oc=5",
     "title": "트럼프 \"중국에 구형 칩만 판매…안팔면 中 스스로 만들것\"(종합)",
     "summary": [
@@ -34,7 +49,7 @@ window.NEWS_DB = [
     "id": "n01d7773f",
     "category": "IT",
     "source": "파이낸셜포스트",
-    "time": "1일 전",
+    "time": "2일 전",
     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBubTVQeURVYV9DcEF6ZFhVWUMxaEhOMDJ6TktQQW5Fa1dvWlM3d2xyeDczZlByb19CV1EwVXhpa0F5R3YwRm5RZmZ2aWxxSXBLSDNUYlMxV2JOcVhZRC11RTh5MXRoUlFLbEVKSHN2eTdQOFl5?oc=5",
     "title": "[분석] 앤트로픽 상장에 삼성·SK하이닉스 HBM 몸값 뛴다",
     "summary": [
@@ -43,6 +58,36 @@ window.NEWS_DB = [
     "chips": [
       "#반도체",
       "#SK하이닉스"
+    ]
+  },
+  {
+    "id": "nd5c9487a",
+    "category": "부동산",
+    "source": "한국주택경제신문",
+    "time": "2일 전",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5nUk43aHc2SFFoRUJBNS01SHFSQjAwTEhuOTQ5Nm5yQ2FqbWhLdnpPSmJBblhoOURJbXN2aHFJM2M1YmJPWXEtSjJGc2xhdDFtSTdYZTI2VnRubEFjbmpMdzNLU1RIVi1l?oc=5",
+    "title": "강남3구 집값 일제히 하락…서울 상승폭 ‘주춤’",
+    "summary": [
+      "강남3구 집값 일제히 하락…서울 상승폭 ‘주춤’ 한국주택경제신문."
+    ],
+    "chips": [
+      "#부동산"
+    ]
+  },
+  {
+    "id": "n7ecbd04d",
+    "category": "IT",
+    "source": "시사저널e",
+    "time": "2일 전",
+    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE15NnBmWUh2QXFpN1NGVy1ieUU5eUppaTFSWHdpS2NXVTRqMERDNVdoRWVEQ1dxZ2tLX3liSnE0SFoyaVY2TmRhaVF3MDRYM3JjVzBnWU12S3pjR2dWQmktLUs5S0o2QkhjeUN2UkRvTmNxUdIBdkFVX3lxTE5ud3NESl9rd1JwUDlqRU5jTkNuekhRY3pLYldfN3RIUzZMZFluck5Sc2lVaUN0TmotVVN5WGhJMGhxNENBZElya3gyX3g2TWNYc1M3MnluYU9CaXMyRnEyc1o5ZlhHUndCTjMxU1VrWm5ocXJrbWc?oc=5",
+    "title": "'AI거품론'이 거품이었나··· 엔비디아·AMD 반도체 공급망 ‘풀가동’",
+    "summary": [
+      "'AI거품론'이 거품이었나··· 엔비디아·AMD 반도체 공급망 ‘풀가동’ 시사저널e."
+    ],
+    "chips": [
+      "#AI",
+      "#반도체",
+      "#엔비디아"
     ]
   },
   {
@@ -59,22 +104,6 @@ window.NEWS_DB = [
       "#AI",
       "#반도체",
       "#삼성전자"
-    ]
-  },
-  {
-    "id": "n26186b03",
-    "category": "IT",
-    "source": "MBC 뉴스",
-    "time": "4일 전",
-    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5OM3R5ZFdqc01hTFRvam4yRHMtUHpnbklNbkh1eEEyenRaelQxaVFEVmxHcXM0dFpmb2FsSUhtRFQ3a3JBSW4zWjdOX0FZZDZyU3J3UW9FRm1WQThTbWQ0c05EOHdkeGZEOVZ3TVJKdHBZUzNT0gF0QVVfeXFMTTc3QzVMTi11UDFhVzFrN08yd1g1a0VCMjN5Qm85cDdrckNfWWZfbGxraEFUY3JkUld5NUg2b1Y2ZDY4aXRMYUNDUFdmZVdjZWRQYTV2bTBWZUowV19nckk4TDV4YXZock9EUmJoQjZSeTY2dnY?oc=5",
-    "title": "美, AI반도체 中원격접속 차단‥동남아 수출 땐 사전허가 통제",
-    "summary": [
-      "美, AI반도체 中원격접속 차단‥동남아 수출 땐 사전허가 통제 MBC 뉴스."
-    ],
-    "chips": [
-      "#AI",
-      "#반도체",
-      "#수출"
     ]
   },
   {
@@ -96,7 +125,7 @@ window.NEWS_DB = [
     "id": "ndf9a760c",
     "category": "스포츠",
     "source": "동아일보",
-    "time": "17일 전",
+    "time": "18일 전",
     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5TYnVPaDhES1plMVNkOHpudjdRVTVOMm9nVlE4T0lrWFNMcVU4V0VFUGhnNTVwcDAtTUJXWnlCOGxRa1VjT1FGNWFaSlJ1WGw4cHg3bndUUFFoZ0hlRTQ4Qmtac19ORFpocDVzR3NrcFNDMWs5X0HSAWZBVV95cUxOaVlCb2J6VVhLaDJXQlpCUkc5NDh6MTRHQWdmemxtZzE2ajNRQXNGcWNsS2FCVWNDRGd1N2g1X053U2Z5bVZHNi1iMXZZNzRiTEs0bmRoYWZnWFVtdXB3WC1OWF82MkE?oc=5",
     "title": "‘스포츠 명가’ 삼성의 부활…야구-축구-농구-배구 일제히 ‘파란 돌풍’",
     "summary": [
@@ -209,6 +238,20 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "nbca6067d",
+    "category": "IT",
+    "source": "유니콘팩토리",
+    "time": "78일 전",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9fZWpFeTlzMEFNN1Q4cHB4RWtuVHZEZDNiekpVUTg5VGJVSFMwVHFLMFlfSFhZMEpYTWJoZGhuOG9yWXdnSWxJR1JXNGZINklRY2dOT2Z2NjJpRHZuRjJJQ19UYmd6bmpsMVowOQ?oc=5",
+    "title": "시리즈벤처스, 창업도약패키지 '팁스 브릿지' 킥오프…스케일업 지원",
+    "summary": [
+      "시리즈벤처스, 창업도약패키지 '팁스 브릿지' 킥오프…스케일업 지원 유니콘팩토리."
+    ],
+    "chips": [
+      "#스타트업"
+    ]
+  },
+  {
     "id": "n9e2a4d38",
     "category": "경제",
     "source": "KB Think",
@@ -220,50 +263,6 @@ window.NEWS_DB = [
     ],
     "chips": [
       "#환율"
-    ]
-  },
-  {
-    "id": "n062f98b4",
-    "category": "부동산",
-    "source": "한국주택경제신문",
-    "time": "113일 전",
-    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9Sdmd3SUl0dmRQSWdTck5DVjJ5WXYxTTFmRnBBbEkwa09VclpLd0VsVWFTV2pPRm9sQm1sQmZDb3EyN2lwTVBvZ185RUVycVFnOEdYcHVrcVFnYTdwaGZfUDh2WkFWYndi?oc=5",
-    "title": "서울 아파트값 0.25% 상승… 똘똘한 ‘역세권·대단지’가 집값 견인",
-    "summary": [
-      "서울 아파트값 0.25% 상승… 똘똘한 ‘역세권·대단지’가 집값 견인 한국주택경제신문."
-    ],
-    "chips": [
-      "#부동산"
-    ]
-  },
-  {
-    "id": "nc01e8f2e",
-    "category": "사회",
-    "source": "브릿지경제",
-    "time": "145일 전",
-    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5yQUtrMktYZmNaT3JnbXZsb3lkeGxoVHZPQVZjSEloeXVNTmxxZTNlSTV1RC01U3RfZG01RG9uaE5LanhhcTJkb2dWb2lBV0NuWXZnTmlzdVlnZw?oc=5",
-    "title": "AI가 취업확률 분석하고 일자리 추천까지…고용24, 맞춤형 취업 서비스 시작",
-    "summary": [
-      "AI가 취업확률 분석하고 일자리 추천까지…고용24, 맞춤형 취업 서비스 시작 브릿지경제."
-    ],
-    "chips": [
-      "#AI",
-      "#취업",
-      "#고용"
-    ]
-  },
-  {
-    "id": "n64dc67f5",
-    "category": "IT",
-    "source": "유니콘팩토리",
-    "time": "152일 전",
-    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1ORFIxM2VUWmNQaWh2Z0xiY2xXeUlzZFZvT3l4dGwyNFdvdXlyZ0lJdGtNT2cyYjFaU0pNX0FUcnRQelZxZzBXZDZ0Qi1OSWt4V3lCUFRhWXBYZ0g1M0EzTVVmMTZTVEVIeW5ISA?oc=5",
-    "title": "수도권 쏠림 깨기 나선 중기부…창업도시 4곳서 스타트업 278곳 키운다",
-    "summary": [
-      "수도권 쏠림 깨기 나선 중기부…창업도시 4곳서 스타트업 278곳 키운다 유니콘팩토리."
-    ],
-    "chips": [
-      "#스타트업"
     ]
   },
   {
@@ -300,7 +299,7 @@ window.NEWS_DB = [
     "id": "nbc27bc5a",
     "category": "IT",
     "source": "연합뉴스",
-    "time": "268일 전",
+    "time": "269일 전",
     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5UNnlsSTY5eHFYNEZ6ZktBM216dFF6Q0J5Z1NVYm56M3A2TUFNMDM0U081NTNsZVNJTy1MWklmVGc0cEdLVk5NRHFiTWtHbmx2b2ItSkVEV1A2ZFnSAWBBVV95cUxOV3Z3V2F3aWJvV3dDNDc4OXpfRmpyaDgtaExGWC1ZTUxvX2M4ZVZPNC1rZHpQeUtSNXlIZjc0dHdGWTdfUXpJQXdac1lZU3Mza3NvdHVweFFNYXhmdDMyZWs?oc=5",
     "title": "스타트업·벤처를 유니콘으로…전북도, '창업 천국' 구상 발표",
     "summary": [
@@ -308,6 +307,54 @@ window.NEWS_DB = [
     ],
     "chips": [
       "#스타트업"
+    ]
+  },
+  {
+    "id": "n678c5751",
+    "category": "경제",
+    "source": "테크M",
+    "time": "방금 전",
+    "url": "https://www.techm.kr/news/articleView.html?idxno=157678",
+    "title": "'GTA6' 출시 첫날 매출 5조원...사전 판매 3250만장 '기염'",
+    "summary": [
+      "락스타게임즈의 오픈월드 액션 어드벤처 신작 '그랜드 테프트 오토VI(GTA6)'가 출시 첫날에만 5조원에 달하는 매출을 올린 것으로 드러났다.",
+      "GTA6가 사전 판매 3250만장 등 화려한 기록과 함께 영화를 포함한 엔터테인먼트 산업 흥행 역사를 다시 쓰고 있다.20일(현지시간) 락스타게임즈의 모회사 테이크투 인터랙티브에 따르면, 'GTA6'의 출시일 19일 하루 동안 기록한 매출은 37억9000만 달러에 달한다.",
+      "한화 약 5조1032억원을 출시."
+    ],
+    "chips": [
+      "#스타트업"
+    ]
+  },
+  {
+    "id": "n38ce2efb",
+    "category": "IT",
+    "source": "테크M",
+    "time": "방금 전",
+    "url": "https://www.techm.kr/news/articleView.html?idxno=157676",
+    "title": "[지스타 26] \"한국 게이머 목소리 듣겠다\"...3색 세계관 앞세운 넷이즈 부스 가보니",
+    "summary": [
+      "올해 지스타 2026 전시장을 둘러보다 보면 묘한 긴장감과 함께 발걸음을 멈추게 되는 곳이 있습니다.",
+      "제1전시장과 제2전시장에 걸쳐 무려 세 개의 독립 부스를 차린 중국 대형 게임사 '넷이즈게임즈'입니다.한 회사가 내놓은 작품이라고 보기 어려울 만큼 세부스의 색깔은 완전히 달랐습니다.",
+      "해양 판타지 모험부터 전통 무협, 기묘한 생존 게임까지 서로 다른 세계관을 각각 따로 구현해 낸 구성에서 한국 시장을 향한 남다른 진심이 읽혔습니다.거대한 문어가."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n955f1200",
+    "category": "IT",
+    "source": "테크M",
+    "time": "방금 전",
+    "url": "https://www.techm.kr/news/articleView.html?idxno=157677",
+    "title": "[지스타 26] 게임 보러 갔다가 경주차에 반했다...제2전시장 달군 현대차의 도전",
+    "summary": [
+      "게임을 보러 찾은 부산 벡스코 제2전시장 1층에서 뜻밖의 풍경이 발걸음을 멈춰 세웠습니다.",
+      "화려한 게임 캐릭터와 신작 영상 사이로 날렵한 고성능 자동차들이 나란히 서 있었기 때문입니다.",
+      "약 100부스 규모로 자리를 잡은 '현대자동차' 전시관입니다.올해 지스타 2026의 화두는 산업 간 경계를 허무는 외연 확장이었습니다."
+    ],
+    "chips": [
+      "#뉴스"
     ]
   },
   {
@@ -326,307 +373,256 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n57e37ebf",
-    "category": "IT",
-    "source": "테크M",
-    "time": "방금 전",
-    "url": "https://www.techm.kr/news/articleView.html?idxno=157674",
-    "title": "[지스타 26] 웹툰 속 지휘관 경험, 게임으로 완벽 전달...웹젠 '디겜폭' 팬심 저격",
+    "id": "n916d51b0",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "5분 전",
+    "url": "https://www.chosun.com/entertainments/broadcast/2026/11/22/HE2DGNDGMUYDMMZWMI4TAYRWMM/",
+    "title": "은가은, 배우 임은경 닮은꼴이었네..이요원·은지원도 인정 \"느낌 있어\"",
     "summary": [
-      "웹젠의 신작 '디펜스 게임의 폭군이 되었다: 라스트 스테이지(디겜폭)'이 21일 지스타 26 현장서 원작 지식재산권(IP) 속 주인공의 역할을 완벽하게 게임으로 풀어내 팬들의 시선을 사로잡고 있다.디겜폭은 웹젠크레빅스가 개발 중인 지휘 전략 RPG 신작이다.",
-      "동명의 인기 웹소설·웹툰 IP에 기반한 작품이다.",
-      "이용자들은 주인공 '애쉬'가 되어 원작과 마찬가지로 작중 제국의 최전선 요새 '크로스로드'를 지키는 임무를 수행하게 된다.실제 시연으로 만."
+      "[OSEN=임혜영 기자] 은가은이 배우 임은경 닮았다는 소리를 많이 들었다고 밝혔다.21일 방송된 KBS2 ‘살림하는 남자들 시즌2’(이하 살림남2)에는 률이 스페셜 게스트로 출연했다.이날 스튜디오에는 ‘은지원 닮은꼴’로 유명한 롱샷의 률이 출연했다.",
+      "이에 MC들은 은지원과 률의 얼굴을 번갈아 보며 신기하다는 반응을 보였다.박서진은 은가은에게 닮은꼴이 있는."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "nb7152ac0",
-    "category": "IT",
-    "source": "테크M",
-    "time": "방금 전",
-    "url": "https://www.techm.kr/news/articleView.html?idxno=157673",
-    "title": "[지스타 26] 동양 전통 액션 RPG 강렬한 존재감...핵앤슬래시의 정수 크래프톤 '타래'",
+    "id": "na41b7357",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "21분 전",
+    "url": "https://www.chosun.com/entertainments/2026/11/22/QFUL3JN2GRAN7EWZ3X6XK3PXGI/",
+    "title": "보복 운전 당한 김동현 \"창문 내리니까 덜덜 떨며 인사\"",
     "summary": [
-      "크래프톤의 '타래: 언바운드(타래)'가 21일 '지스타 26' 현장서 동양풍 다크 판타지 액션 RPG의 매력을 과시하고, 긴장감 넘치는 전투로 강한 존재감을 뽐냈다.개발사 바운더리가 개발 중인 '타래'는 핵앤슬래시 액션 RPG 장르의 신작이다.",
-      "주인공을 향해 몰려드는 수많은 적을 상대하며, 자유롭게 캐릭터를 육성할 수 있는 핵앤슬래시의 정수를 담았다.현장에서 만나본 타래는 해당 장르 매력에 한국·중국·일본·몽골 등 동양 전통 문화 요소를 대거."
+      "보복 운전 당한 김동현 \"창문 내리니까 덜덜 떨며 인사\"."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "nc6bc2bb7",
-    "category": "IT",
-    "source": "테크M",
-    "time": "방금 전",
-    "url": "https://www.techm.kr/news/articleView.html?idxno=157591",
-    "title": "[주말에 뭐보지] \"주말 순삭 예약\" 네이버·카카오 웹툰 8선, 수상작 매력에 신작 재미까지",
+    "id": "n194edd1c",
+    "category": "스포츠",
+    "source": "머니투데이",
+    "time": "23분 전",
+    "url": "https://www.mt.co.kr/sports/2026/11/22/2026112114115622786",
+    "title": "'충격 대반전' 女 동성 성추행 논란 슈퍼스타, 뒤늦은 고백 \"자살 충동 느껴, 머리도 다 빠졌다\"... 드디어 진실 밝혀졌다",
     "summary": [
-      "이번 주말에는 취향에 맞는 웹툰 한 편에 푹 빠져보는 건 어떨까.",
-      "손바닥만한 공룡과 함께하는 따뜻한 일상부터 마왕 토벌을 향한 짜릿한 모험, 운명을 바꾸기 위한 로맨스까지 다채로운 이야기가 기다리고 있다.",
-      "네이버웹툰에서는 작품성을 인정받은 '오늘의 우리만화' 수상작들을, 카카오페이지에서는 인기 판타지의 후속 시즌과 기대를 모으는 신작들을 만나볼 수 있다."
+      "성추행 혐의를 벗고 무죄를 선고받은 전 잉글랜드 럭비 국가대표 출신 방송 해설위원 다니카 프림(42)이 거짓 누명으로 인해 극단적 선택까지 고민했던 끔찍한 고통을 털어놨다.",
+      "영국 매체 '더선'은 21일(한국시간) \"BBC 럭비 리그 해설위원 프림이 크리켓 클럽 화장실 성추행 허위 고소를 당한 뒤 자살 충동에 시달리고 머리카락이 빠졌다며 커리어가 완전히 망가졌다고 밝혔다\"며 \"성추행 누명을 쓴 뒤 너무나 어두운 나락에 빠져 오."
     ],
     "chips": [
-      "#네이버",
-      "#카카오"
+      "#뉴스"
     ]
   },
   {
-    "id": "nb661ee5f",
+    "id": "nec573e18",
+    "category": "스포츠",
+    "source": "머니투데이",
+    "time": "41분 전",
+    "url": "https://www.mt.co.kr/sports/2026/11/22/2026112123424184060",
+    "title": "'日 미녀 스타' 미야자키 또 꺾었다... 中 왕즈이, 2주 연속 준결승서 2-0 완승→홍콩오픈 2연패까지 한 걸음",
+    "summary": [
+      "일주일 만에 다시 만났지만 결과는 같았다.",
+      "중국의 왕즈이(세계랭킹 3위)가 2주 연속 준결승에서 일본의 미야자키 도모카(세계 7위)를 꺾고 홍콩오픈 2연패까지 1승만 남겼다.",
+      "왕즈이는 21일(한국시간) 홍콩 카이탁 아레나에서 열린 2026 세계배드민턴연맹(BWF) 월드투어 홍콩오픈(슈퍼 500) 여자단식 준결승에서 미야자키를 2-0(21-15, 21-15)으로 꺾었다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n32c1e8ce",
+    "category": "스포츠",
+    "source": "머니투데이",
+    "time": "44분 전",
+    "url": "https://www.mt.co.kr/sports/2026/11/22/2026112118370880059",
+    "title": "\"격투기 인생, XX 재밌었다!\" 추성훈다운 은퇴 선언... 눈물과 함께 '아름다운 퇴장' [고척 현장]",
+    "summary": [
+      "20년간 케이지 위에서 치열하게 싸워온 추성훈(51)이 뜨거운 눈물과 거침없는 진심을 남기고 정든 글러브를 내려놓았다.",
+      "추성훈은 21일 오후 서울 고척스카이돔에서 열린 '블랙컴뱃 17: 벤타블랙(BLACK COMBAT 17: VANTABLACK)' 코메인 이벤트 크리스 리벤(46·미국)과 89kg 캐치웨이트 은퇴전에서 3라운드 난타전 끝에 1-2(28-29, 29-28, 28-29) 스플릿 판정패했다.",
+      "16년 만의 리매치에서 아쉽게 승리를 놓쳤."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nfa20ceb6",
+    "category": "스포츠",
+    "source": "동아일보",
+    "time": "45분 전",
+    "url": "https://www.donga.com/news/Culture/article/all/20261122/135065249/1",
+    "title": "51세 추성훈, 은퇴전서 아쉬운 판정패…22년 파이터 인생 마침표",
+    "summary": [
+      "이종격투기(MMA) 선수 겸 방송인 추성훈(51)이 22년간 이어온 현역 생활을 마무리했다.추성훈은 21일 서울 고척스카이돔에서 열린 ‘블랙컴뱃 17: 반타블랙’ 코메인 이벤트 89㎏ 계약 체중 매치에서 크리스 리벤(46·미국)과 3라운드 접전을 벌인 끝에 1-2(28-29 29-28 28-29)로 판정패했다.2010년 ‘UFC 116’ 패배 이후 16년 만에 성사된 재대결이었으나 설욕에는 실패했다.",
+      "이로써 2004년 MMA 무대에 뛰어든 추성."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n37614258",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "45분 전",
+    "url": "https://www.yna.co.kr/view/AKR20261122000100011",
+    "title": "[알림] 연합뉴스 콘텐츠 저작권 고지",
+    "summary": [
+      "연합뉴스가 제공하는 기사, 사진, 그래픽, 영상 등 모든 콘텐츠는 관련 법의 보호를 받습니다.",
+      "연합뉴스 콘텐츠를 사전허가 없이 전재·방송하거나 ..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n842f6a27",
+    "category": "경제",
+    "source": "머니투데이",
+    "time": "45분 전",
+    "url": "https://www.mt.co.kr/entertainment/2026/11/22/2026112116415467348",
+    "title": "허각, 20㎏ 폭풍 감량 성공했는데…성시경 \"정신 차려라\" 일침",
+    "summary": [
+      "가수 허각이 20㎏ 감량에 성공한 근황을 공개했지만 운동은 전혀 하지 않는다고 밝혀 성시경의 잔소리를 들었다.",
+      "성시경의 회 다이어트에 영향을 받았다는 허각은 술을 곁들여 먹었다고 털어놨고 성시경은 \"운동 안 하고 식사량으로만 빼면 영원히 요요가 기다린다\"며 걱정을 드러냈다.",
+      "20일 방영된 KBS2 '더 시즌즈-성시경의 고막남친' 32회에서는 허각이 게스트로 출연해 다이어트에 얽힌 이야기를 나눴다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nd07b70bb",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "45분 전",
+    "url": "https://www.newsis.com/view/NISX20261122_0003877856",
+    "title": "[알림]뉴시스 콘텐츠 저작권 고지",
+    "summary": [
+      "뉴시스가 제공하는 기사, 사진, 그래픽 이미지, 영상물 등 각종 콘텐츠는 저작권법 등 관련 법의 보호를 받습니다.",
+      "뉴시스 콘텐츠를 사전 허락 없이 무단 복사, 개작, 전재, 배포, 판매할 경우 민·형사상의 책임이 따를 수 있다는 것을 알려드립니다.",
+      "뉴시스 콘텐츠 사용에 대해서는 전화(02-721-7415) 또는 이메일(choihh@newsis.com)로 문의하시기 바랍니다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nca3947bf",
+    "category": "스포츠",
+    "source": "뉴시스",
+    "time": "45분 전",
+    "url": "https://www.newsis.com/view/NISX20261121_0003877850",
+    "title": "추성훈 '은퇴전'서 추사랑 오열…\"미안 이번엔 용돈 없다\"",
+    "summary": [
+      "[서울=뉴시스]이재훈 기자 = 22년간의 파이터 인생에 마침표를 찍은 추성훈(51)의 마지막 무대가 깊은 부성애로 물들었다.",
+      "22일 방송가에 따르면, 추성훈은 전날 서울 고척스카이돔에서 열린 '블랙컴뱃 17: 반타블랙' 은퇴전에서 크리스 리벤(미국)에게 1-2로 판정패했다.",
+      "비록 승리는 놓쳤지만, 경기 직후 케이지에 오른 딸 추사랑 양이 아빠와 부둥켜안고 참아왔던 눈물을 터뜨리면서 현장은 뭉클함으로 채워졌다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n8d485f25",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "45분 전",
+    "url": "https://www.newsis.com/view/NISX20261121_0003877826",
+    "title": "런던 사는 장윤주 \"영국 학부모 기싸움…서로 과시해\"",
+    "summary": [
+      "[서울=뉴시스] 손정빈 기자 = 모델 출신 방송인 장윤주가 영국 학부모 사이에서도 기싸움이 있다고 했다.",
+      "장윤주는 21일 자신의 유튜브 채널에서 유튜버 명예영국인을 만나 영국 생활에 관해 얘기했다.",
+      "그는 \"대화 시도를 이래저래 한다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "na71b4af8",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "49분 전",
+    "url": "https://www.yna.co.kr/view/AKR20261121052600099",
+    "title": "이란 \"美 F-16 전투기 공격…MQ-1 드론은 격추\" 주장",
+    "summary": [
+      "(요하네스버그=연합뉴스) 나확진 특파원 = 이란이 페르시아만 상공에서 미군의 F-16 전투기를 공격해 비상착륙하게 했으며 MQ-1 드론을 격추했..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nbfb66400",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "1시간 전",
+    "url": "https://www.chosun.com/sports/world-football/2026/11/21/MI2GEZBSGFRTIZDFHE4DANJWMI/",
+    "title": "'독일 무대에서 사라졌던 태극전사, 마침내 돌아왔다' 옌스 카스트로프, 시즌 22분 출전 설움 딛고 BVB전 선발",
+    "summary": [
+      "'독일 무대에서 사라졌던 태극전사, 마침내 돌아왔다' 옌스 카스트로프, 시즌 22분 출전 설움 딛고 BVB전 선발."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n5bf866ab",
+    "category": "경제",
+    "source": "한국경제",
+    "time": "1시간 전",
+    "url": "https://www.hankyung.com/article/202611211639i",
+    "title": "뉴욕총영사관, 한인 차세대 리더 네트워크 행사 개최",
+    "summary": [
+      "뉴욕총영사관, 한인 차세대 리더 네트워크 행사 개최."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n63b15976",
+    "category": "경제",
+    "source": "연합뉴스",
+    "time": "1시간 전",
+    "url": "https://www.yna.co.kr/view/AKR20261121052500082",
+    "title": "EU·인도네시아 무역협정 체결…관세 90％ 이상 철폐",
+    "summary": [
+      "(베를린=연합뉴스) 김계연 특파원 = 유럽연합(EU)과 인도네시아가 21일(현지시간) 90％ 이상 수출입품에 관세를 철폐하는 내용의 무역협정을 ..."
+    ],
+    "chips": [
+      "#수출"
+    ]
+  },
+  {
+    "id": "n82bd03c1",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "1시간 전",
+    "url": "https://www.yna.co.kr/view/AKR20261121052400007",
+    "title": "피겨 김유성, 5차 시니어 그랑프리 4위…개인 최고점",
+    "summary": [
+      "(서울=연합뉴스) 김경윤 기자 = 피겨스케이팅 기대주 김유성(수리고)이 시니어 그랑프리에서 개인 최고점을 경신하며 4위에 올랐다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "na04912a4",
     "category": "사회",
     "source": "동아일보",
-    "time": "7분 전",
-    "url": "https://www.donga.com/news/Society/article/all/20261121/135065007/1",
-    "title": "노래 안틀어준다고 단골식당 주인 폭행 70대, 집유",
+    "time": "1시간 전",
+    "url": "https://www.donga.com/news/Culture/article/all/20261121/135065221/1",
+    "title": "장원영·안유진, 레드카펫서 드러난 슬림한 실루엣…필라테스 효과도 관심",
     "summary": [
-      "식당에서 신청곡을 틀어주지 않는다는 이유로 식당주인을 폭행하고 경찰에 입건된 뒤 다시 찾아가 협박까지 한 70대 남성에게 징역형의 집행유예가 선고됐다.",
-      "의정부지법 남양주지원 형사1부(부장판사 김국식)는 특수폭행과 특정범죄 가중처벌 등에 관한 법률상 보복협박 혐의로 기소된 A(72)씨에게 징역 1년에 집행유예 2년을 선고했다고 21일 밝혔다.재판부는 A씨에게 40시간의 알코올 치료강의 수강과 보호관찰, 보호관찰 기간 피해자 접근금지도 명령했다.A."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n0ac7838c",
-    "category": "스포츠",
-    "source": "뉴시스",
-    "time": "8분 전",
-    "url": "https://www.newsis.com/view/NISX20261121_0003877674",
-    "title": "'자격 정지' 쇼트트랙 전 코치, 빙상연맹 상대 징계 무효 소송 1심 승소",
-    "summary": [
-      "[서울=뉴시스]문채현 기자 = 국제대회 기간 공금 처리 문제로 자격정지 징계를 받은 쇼트트랙 전 국가대표 코치가 대한빙상경기연맹을 상대로 낸 징계무효 소송에서 승소했다.",
-      "서울동부지법 민사13부(최수진 부장판사)는 지난 19일 A 코치가 빙상연맹을 상대로 제기한 징계처분 무효확인 청구 소송에서 원고 승소 판결을 내렸다.",
-      "이번 사건은 2024년 12월 중국 베이징에서 열린 2024~2025 국제빙상경기연맹(ISU) 쇼트트랙 월드투어 3차 대회 도중."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n5739c13a",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "10분 전",
-    "url": "https://www.yna.co.kr/view/AKR20261121041400009",
-    "title": "미 FBI 범죄정보망에 외부인 침입…\"농무부도 해킹당해\"(종합)",
-    "summary": [
-      "(서울=연합뉴스) 곽민서 고일환 기자 = 미국 연방수사국(FBI)의 범죄정보 데이터베이스에 해킹 의심 사고가 발생해 당국이 수사에 착수했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n29c0de85",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "11분 전",
-    "url": "https://www.donga.com/news/Society/article/all/20261121/135065004/2",
-    "title": "비닐하우스서 공기총 손질하다 ‘탕’…지나가던 행인 갈비뼈 부상",
-    "summary": [
-      "강원 평창의 한 비닐하우스에서 공기총 오발 사고가 발생해 인근을 지나던 60대 남성이 다쳤다.",
-      "21일 경찰과 소방당국에 따르면 이날 오전 11시경 평창 방림면의 한 비닐하우스에서 공기총 오발 사고가 발생했다.",
-      "당시 비닐하우스 안에서 공기총을 손질하던 60대 남성이 실수로 총을 발사한 것으로 전해졌다.이로 인해 인근을 지나던 다른 60대 남성이 좌측 갈비뼈 부근을 다쳐 원주의 한 대형병원으로 옮겨졌다."
-    ],
-    "chips": [
-      "#의료"
-    ]
-  },
-  {
-    "id": "n182a6af1",
-    "category": "사회",
-    "source": "아시아경제",
-    "time": "12분 전",
-    "url": "https://view.asiae.co.kr/article/2026112116375813974",
-    "title": "[부고] 임미애(더불어민주당 국회의원)씨 모친상",
-    "summary": [
-      "▲김숙자씨 별세, 임미애(더불어민주당 국회의원)씨 모친상 = 21일, 공생병원 장례식장 3분향소, 발인 23일 오전 8시 10분, 장지 의성 화장장 천주교묘원."
-    ],
-    "chips": [
-      "#정치",
-      "#의료"
-    ]
-  },
-  {
-    "id": "n2392142a",
-    "category": "스포츠",
-    "source": "연합뉴스",
-    "time": "13분 전",
-    "url": "https://www.yna.co.kr/view/AKR20261121041700007",
-    "title": "지소연 결승포…수원FC, 스포츠토토 잡고 W코리아컵 초대 챔피언",
-    "summary": [
-      "(서울=연합뉴스) 최송아 기자 = 여자 실업축구 WK리그의 수원FC 위민이 W코리아컵 초대 챔피언에 올랐다."
-    ],
-    "chips": [
-      "#고용"
-    ]
-  },
-  {
-    "id": "nadf4b1a3",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "13분 전",
-    "url": "https://www.newsis.com/view/NISX20261121_0003877764",
-    "title": "김민석 \"민주당, 큰 고민 중 하나는 청년…더 함께하고 싶다\"",
-    "summary": [
-      "[서울=뉴시스]정금민 기자 = 김민석 더불어민주당 대표는 21일 \"민주당이 갖고 있는 가장 큰 오늘의 고민 중의 하나는 어떻게 청년들과 함께할 것이냐\"라고 했다.",
-      "김 대표는 이날 서울 마포구 더블루 제2당사에서 열린 민주당 창당 71주년 기념 '1030 청년 연설대전'에 참석해 \"오늘 이 자리를 만든 것도, 또 오늘 이 행사를 만든 것도, 또 71주년의 대표적인 행사로서 오늘 행사를 기획한 것도 민주당이 보다 더 청년들과 함께하고 싶다는 절박한."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n706bec2f",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "15분 전",
-    "url": "https://www.yna.co.kr/view/AKR20261121041600063",
-    "title": "경부선 탈선사고 영상 보니…두차례 섬광 이후 선로 이탈 전철주 충돌",
-    "summary": [
-      "(세종=연합뉴스) 이주형 기자 = 주말인 21일 대규모 일반 열차 운행 중단·지연사태를 빚은 경부선 소정리역 화물열차 탈선사고는 열차 후미 부분..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n0eb139ae",
-    "category": "경제",
-    "source": "아시아경제",
-    "time": "16분 전",
-    "url": "https://view.asiae.co.kr/article/2026112116342009824",
-    "title": "김민석 “청년 통해 민주당이 할 일 깨닫길”…소통 확대 강조",
-    "summary": [
-      "김민석 더불어민주당 대표가 청년 당원들과 만나 당이 청년 세대와의 소통을 확대해야 한다고 강조했다.",
-      "김 대표는 민주당이 다소 고루해졌을 수 있다며 청년들의 목소리에 귀 기울이겠다는 뜻을 밝혔다.",
-      "김 대표는 21일 서울 마포구 합정역 인근 민주당 제2당사 '더블루'에서 열린 '1030 청년 연설대전'에 참석해 \"민주당이 가진 가장 큰 오늘의 고민 중 하나는 어떻게 청년들과 함께할 것이냐\"라고 말했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n49dbaaac",
-    "category": "사회",
-    "source": "머니투데이",
-    "time": "17분 전",
-    "url": "https://www.mt.co.kr/society/2026/11/21/2026112116210491848",
-    "title": "\"90도 펄펄, 온천탕에 빠졌다\"...60대 2도 화상, 헬기 이송",
-    "summary": [
-      "실수로 고온 온천탕에 빠진 60대 남성이 화상을 입고 병원으로 이송됐다.",
-      "21일 뉴스1에 따르면 이날 오전 10시41분쯤 전북 부안군 한 온천시설에서 이용객 A씨가 고온의 탕(80~90도)에 빠져 화상을 입었다.",
-      "이 사고로 A씨는 발등과 종아리 등 하반신에 2도 화상을 입고 인근 화상 전문병원으로 헬기 이송됐다."
-    ],
-    "chips": [
-      "#의료"
-    ]
-  },
-  {
-    "id": "n7e1edc7f",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "18분 전",
-    "url": "https://www.chosun.com/sports/sports_general/2026/11/21/P7EJ2YJ5QZG5JMSAL6PXQZFCUI/",
-    "title": "은퇴 시즌 맞나… ‘쇼트트랙 간판’ 최민정, 1000m 3연속 우승",
-    "summary": [
-      "은퇴 시즌 맞나… ‘쇼트트랙 간판’ 최민정, 1000m 3연속 우승."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n0648ffdc",
-    "category": "경제",
-    "source": "머니투데이",
-    "time": "18분 전",
-    "url": "https://www.mt.co.kr/industry/2026/11/21/2026112116252294843",
-    "title": "고려아연 \"영풍·MBK, 회계위반·홈플러스 사태 등 돌아봐야\"",
-    "summary": [
-      "고려아연이 경영권 분쟁 상대인 영풍·MBK파트너스에 경영책임 문제를 지적했다.",
-      "고려아연은 21일 낸 입장문에서 영풍·MBK가 금융당국의 제재와 투자기업 경영 논란을 외면한 채 고려아연에 대한 일방적인 의혹 제기에 집중하고 있다고 주장했다.",
-      "고려아연은 영풍이 지난 7월 금융위원회로부터 회계처리기준 위반으로 204억7410만원의 과징금을 부과받은 사실을 언급했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n1e877de5",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "19분 전",
-    "url": "https://www.newsis.com/view/NISX20261121_0003877746",
-    "title": "佛 드 빌팽 전 총리, 대선 출사표…마크롱 비판·르펜 경고",
-    "summary": [
-      "[서울=뉴시스] 이재은 기자 = 프랑스 도미니크 드 빌팽 전 총리가 2027년 대통령 선거 출마를 선언하며 샤를 드골의 정치적 유산을 계승하고 프랑스의 국제적 위상을 회복하겠다고 밝혔다.",
-      "극우 지도자 마린 르펜의 대선 승리 가능성에 대해서는 국가에 심각한 위협이 될 것이라고 경고했다.",
-      "CNN에 따르면 자크 시라크 대통령 시절 총리를 지낸 73세의 드 빌팽은 20일(현지 시간) 파리 기자회견에서 출마 계획을 발표하고 에마뉘엘 마크롱 대통령의 국정."
-    ],
-    "chips": [
-      "#정치"
-    ]
-  },
-  {
-    "id": "n86440e07",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "20분 전",
-    "url": "https://www.newsis.com/view/NISX20261121_0003877707",
-    "title": "김미려 \"대출 다 내 이름…내가 바깥양반으로 활동\"",
-    "summary": [
-      "[서울=뉴시스] 손정빈 기자 = 코미디언 김미려가 겨의 모든 대출이 자기 이름으로 돼 있다고 했다.",
-      "김미려는 21일 유튜브 예능프로그램 '뭐뭐머'에서 돈에 관해 애기했다.",
-      "김미려는 \"돈 문제가 있냐, 없냐\"는 질문을 받고 \"많다\"고 답했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nebe9e808",
-    "category": "경제",
-    "source": "머니투데이",
-    "time": "25분 전",
-    "url": "https://www.mt.co.kr/entertainment/2026/11/21/2026112116257241637",
-    "title": "‘전참시’ 유영우X리센느 원이X이선민, 가슴 벅찬 거제 콘서트 현장 공개",
-    "summary": [
-      "‘전지적 참견 시점’에서 유영우와 리센느의 원이 그리고 이선민이 무명의 설움을 딛고 한무대에 오르는 감격적인 거제 콘서트 현장을 공개한다.",
-      "오늘(21일) 방송되는 MBC 예능 프로그램 ‘전지적 참견 시점’(기획 노시용, 연출 채현석·김해니·이다운·서예나·강연주, 작가 여현전) 425회에서는 유영우, 리센느 원이, 이선민의 거제 합동 콘서트 비하인드가 펼쳐진다.",
-      "단 200석 모집에 무려 3만 5,000 명의 신청자가 몰리며 뜨거운 화제를 모은 이."
-    ],
-    "chips": [
-      "#채용"
-    ]
-  },
-  {
-    "id": "na6f77e93",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "25분 전",
-    "url": "https://www.chosun.com/sports/sports_general/2026/11/21/GRSWMYJQGMYDCOBRMM2TGYZXHA/",
-    "title": "‘이것이 월드클래스다!’ 최민정, 막판 대역전으로 1000m 우승…김길리는 아쉬운 충돌로 입상 불발 [오!쎈 목동]",
-    "summary": [
-      "[OSEN=목동, 서정환 기자] 쇼트트랙 여제 최민정(28, 성남시청)이 1000m에서 대역전 우승을 달성했다.",
-      "최민정은 21일 서울 목동 아이스링크에서 열린 KB금융 2026~27 국제빙상경기연맹(ISU) 쇼트트랙 월드투어 3차 대회 둘째날 여자 1000m 결승전에서 1분31초 050의 기록으로 결승선을 가장 먼저 통과해 우승을 확정지었다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n5a92d1b7",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "27분 전",
-    "url": "https://www.chosun.com/entertainments/broadcast/2026/11/21/GU2DCYTCMM4TIM3CHFTDAYZTHA/",
-    "title": "한가인, '30살 차이' 15세 올리비아 핫세 입었다..놀랍도록 똑닮은 미모[핫피플]",
-    "summary": [
-      "[OSEN=선미경 기자] 배우 한가인이 올리비아 핫세를 쏙 빼닮은 미모로 시선을 집중시켰다.",
-      "데뷔 시절부터 ‘한국의 올리비아 핫세’로 불렸던 한가인은 변함없는 미모로 줄리엣 비주얼을 자랑했다.한가인은 21일 오후 자신의 SNS에 별다른 설명 없이 여러 장의 사진을 게재했다.공개된 사진에는 올리비아 핫세로 변신한 한가인의 모습이 담겨 있었다."
+      "그룹 아이브(IVE)의 멤버 장원영과 안유진이 레드카펫에서 늘씬한 자태를 선보여 눈길을 끌었다.21일 장원영과 안유진은 일본 오사카 교세라돔 인근에서 열린 ‘2026 MAMA AWARDS’ 레드카펫 행사에 참석해 포즈를 취했다.장원영은 브라운 톤의 민소매 드레스를 착용했다.",
+      "민소매 디자인으로 군살 없이 매끈한 팔 라인이 드러났으며, 긴 드레스가 몸의 실루엣을 강조했다.",
+      "안유진은 블랙 드레스를 입고 등장했다."
     ],
     "chips": [
       "#뉴스"
@@ -639,14 +635,14 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2850건",
-    "trend": "+335%"
+    "mentions": "3500건",
+    "trend": "+435%"
   },
   {
     "rank": 2,
     "tag": "AI",
-    "mentions": "1680건",
-    "trend": "+155%"
+    "mentions": "1550건",
+    "trend": "+135%"
   },
   {
     "rank": 3,
