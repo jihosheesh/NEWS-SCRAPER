@@ -1,11 +1,11 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-11-21 15:45:16
+// 마지막 업데이트: 2026-11-21 21:17:53
 window.NEWS_DB = [
   {
     "id": "nc29dfbb1",
     "category": "사회",
     "source": "더코리아",
-    "time": "11시간 전",
+    "time": "16시간 전",
     "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBGVWVtOENPSzNxaTA2cXprTjBtQW90MFlZRkdCUlNkSlNLaXdxaGhPX1NiNHZueGpOWnpaNFpzZXB6TncyUWh1dGNOSQ?oc=5",
     "title": "수원특례시, 11월 ‘구인·구직의 날’ 개최 > 뉴스",
     "summary": [
@@ -17,32 +17,35 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n67e67c22",
+    "id": "n8f2ff933",
     "category": "IT",
-    "source": "브랜드뉴스",
-    "time": "11시간 전",
-    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1xMHRKc195OW9YRkNoVmZzN3FVMklOR1F0YVVDNHNyVVlmQnNJb0V6eW9vQmpvdnpLOTdqQWhlZ0lLVkZtX3VZb1MwclZTVU5lelFmN0ktNTZjb25RM25MbjUtVWxEMGlhTTR4Yg?oc=5",
-    "title": "AI 반도체주 급락 도미노…美 반도체지수 5.3% 하락, 코스피 5000선 붕괴",
+    "source": "연합뉴스",
+    "time": "1일 전",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8xcm9JRGJNbkJKdnZxVHJIUy1kTkN5NkZyMjExRzhtWklrb00zekVKaVlybzAyZ3ptNV8xb2Uxd0tXRHRlOG9SdndqbGQ0RTAwdUtnbW1aeG0tU2FKcG5mStIBYEFVX3lxTE8xcm9JRGJNbkJKdnZxVHJIUy1kTkN5NkZyMjExRzhtWklrb00zekVKaVlybzAyZ3ptNV8xb2Uxd0tXRHRlOG9SdndqbGQ0RTAwdUtnbW1aeG0tU2FKcG5mSg?oc=5",
+    "title": "[게시판] 하나운용, 엔비디아·AI 반도체 전망 웹세미나",
     "summary": [
-      "AI 반도체주 급락 도미노…美 반도체지수 5.3% 하락, 코스피 5000선 붕괴 브랜드뉴스."
+      "[게시판] 하나운용, 엔비디아·AI 반도체 전망 웹세미나 연합뉴스."
     ],
     "chips": [
       "#AI",
-      "#반도체"
+      "#반도체",
+      "#엔비디아"
     ]
   },
   {
-    "id": "ncb260690",
+    "id": "n31325494",
     "category": "IT",
-    "source": "연합뉴스",
-    "time": "17시간 전",
-    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE05RzBnazFPMk5iQVFManV2VWEzTW5YWkxxYjFleE5CNF9STlZhNEd3UUNQQllNMGl6ck85SlBjLUlSNERwYy0wblpUeko1SlNRZVJza3I1VWZnWEHSAWBBVV95cUxNV19HSXdCeXdOZEhHY0dPY1BqdVdZRVlGT3FzUVFhU2F0MlFDd1lxYll0SmJSMHd2d1dRWGl5WjdGUThaRTZrbjFIeU9nNGpQY2hGTTBEWVMzZ0k0Zm5DOWo?oc=5",
-    "title": "트럼프 \"중국에 구형 칩만 판매…안팔면 中 스스로 만들것\"(종합)",
+    "source": "머니투데이",
+    "time": "1일 전",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8wMHpndVF1N01xUmVyekFDamtTcHNTNVFEa193S05MOVRGSnpfTktES1doNVVqemY5MXR6d2x2RlZqemhmX2Jvc0FOcDJmRGUzcHpueDZCWnRPelJUZU5odGRGaWNOa3dD0gFuQVVfeXFMTmQ4OHdtd2d5YkwxWnIxWkE5SFVSTldFd1Q2UF9QYktNekdCc2VDaGN2ZzFOTFdFRm84Zk5jaGlaOUhtVE5aMk0wVF93RnBSb0xlYkoxUl9rNldmQm82QnkxTFpSRUZlb0FvUVVSUGc?oc=5",
+    "title": "중국행 반도체 막는다더니…미국, 엔비디아·AMD 칩 88만개 수출 허가 - 머니투데이",
     "summary": [
-      "트럼프 \"중국에 구형 칩만 판매…안팔면 中 스스로 만들것\"(종합) 연합뉴스."
+      "중국행 반도체 막는다더니…미국, 엔비디아·AMD 칩 88만개 수출 허가 - 머니투데이 머니투데이."
     ],
     "chips": [
-      "#뉴스"
+      "#반도체",
+      "#엔비디아",
+      "#수출"
     ]
   },
   {
@@ -88,37 +91,6 @@ window.NEWS_DB = [
       "#AI",
       "#반도체",
       "#엔비디아"
-    ]
-  },
-  {
-    "id": "n40d99ced",
-    "category": "IT",
-    "source": "한국신용신문",
-    "time": "2일 전",
-    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE4xV1FtUm5rcXNrR1BfSTZYNWlFY3VSbnBwYWZnYzRodUV5cTZVNDlualU1a3pwdTZWNXhlcndhTEY2a3hSRlhOaENrLWR5MGlFUVdndkRpUGVqMnI4Q1J5WVlRMzMzdk1iTkg4?oc=5",
-    "title": "삼성전자, 메타 AI 칩용 맞춤형 HBM 개발∙∙∙파운드리 일괄 공급",
-    "summary": [
-      "삼성전자, 메타 AI 칩용 맞춤형 HBM 개발∙∙∙파운드리 일괄 공급 한국신용신문."
-    ],
-    "chips": [
-      "#AI",
-      "#반도체",
-      "#삼성전자"
-    ]
-  },
-  {
-    "id": "na4dcaa0a",
-    "category": "IT",
-    "source": "브릿지경제",
-    "time": "6일 전",
-    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0tS3hRQ0t6Y21iVE5FXzI0NXdlWExpa01vY1pCN0xWMl8yM1d0WERyaVd0ZHktRTZRTFVFeUdDMTIwZExzU2NpZWppTmFYakxGaEZySkNXYXE4dw?oc=5",
-    "title": "HBM 다음은 첨단 패키징⋯ 삼성·SK, AI 반도체 주도권 경쟁 새 전선",
-    "summary": [
-      "HBM 다음은 첨단 패키징⋯ 삼성·SK, AI 반도체 주도권 경쟁 새 전선 브릿지경제."
-    ],
-    "chips": [
-      "#AI",
-      "#반도체"
     ]
   },
   {
@@ -193,6 +165,20 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n103b5455",
+    "category": "사회",
+    "source": "뉴스핌",
+    "time": "39일 전",
+    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9LNTNsOXRVTUUzZkF3OU04Q1V3Uk52TmtSMk9ySVh3Ymgtc0Vob2NVbTVsa1NNaldYQi05NTdacVNZUlZCOGZfU2pqbWNYMGZkVUIxazIwcHFrdDVK?oc=5",
+    "title": "세종시 '내일이음 취업박람회' 16일 개최…충청 기업 114곳 참여",
+    "summary": [
+      "세종시 '내일이음 취업박람회' 16일 개최…충청 기업 114곳 참여 뉴스핌."
+    ],
+    "chips": [
+      "#취업"
+    ]
+  },
+  {
     "id": "nb16c3b86",
     "category": "사회",
     "source": "한국경제",
@@ -223,32 +209,18 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n76b3a7e9",
-    "category": "사회",
-    "source": "공뉴스",
-    "time": "72일 전",
-    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1EQWl1ejNtb0k2MERHcmdsNkprRktneUZGeTVfQjZaMXlRazJOeWtReGdHcDhhUk0yYmZBNHlYSUpxQ1Zwd1hHR3JzY1ZyaDBRVzhLVE1RdTlvRG0weUVRUFZ2MDN1VXhfY2hCaA?oc=5",
-    "title": "김천 구인구직 현장에 93명 참여…“8명은 당날 바로 취업”",
-    "summary": [
-      "김천 구인구직 현장에 93명 참여…“8명은 당날 바로 취업” 공뉴스."
-    ],
-    "chips": [
-      "#채용",
-      "#취업"
-    ]
-  },
-  {
-    "id": "nbca6067d",
+    "id": "n0c0cab84",
     "category": "IT",
-    "source": "유니콘팩토리",
-    "time": "78일 전",
-    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9fZWpFeTlzMEFNN1Q4cHB4RWtuVHZEZDNiekpVUTg5VGJVSFMwVHFLMFlfSFhZMEpYTWJoZGhuOG9yWXdnSWxJR1JXNGZINklRY2dOT2Z2NjJpRHZuRjJJQ19UYmd6bmpsMVowOQ?oc=5",
-    "title": "시리즈벤처스, 창업도약패키지 '팁스 브릿지' 킥오프…스케일업 지원",
+    "source": "지디넷코리아",
+    "time": "67일 전",
+    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9Od0NZQmplSXVCZzdWLVdMWVAzdWxTMlItenMtelQyWlk0NXhVNkpYcmgxYm14YWZ5QkgxRnZrZ0ZPOU5RQkFfbF9NRkdfbHBCVHI4aVRB?oc=5",
+    "title": "삼성전자, 커스텀 HBM서 '핵심 칩' 공급망 변화…내부·TSMC '투트랙' 추진",
     "summary": [
-      "시리즈벤처스, 창업도약패키지 '팁스 브릿지' 킥오프…스케일업 지원 유니콘팩토리."
+      "삼성전자, 커스텀 HBM서 '핵심 칩' 공급망 변화…내부·TSMC '투트랙' 추진 지디넷코리아."
     ],
     "chips": [
-      "#스타트업"
+      "#반도체",
+      "#삼성전자"
     ]
   },
   {
@@ -263,6 +235,22 @@ window.NEWS_DB = [
     ],
     "chips": [
       "#환율"
+    ]
+  },
+  {
+    "id": "nccb73b86",
+    "category": "IT",
+    "source": "인베스트조선",
+    "time": "148일 전",
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNX0lmX1NsX0NYcjNadjZETFhfRV9RcTBraU5NNzlUbWs5akxla054RjNxdTI0UFVFNmQ5bjRuQ2NqOXZGTURsWDR4ZVRlNTNoZ2xCZzQ4MHczY25kUS1CV3ItUV8zLUtRNVhQaURRQ2RDUjJmb3BRSEk0MDRWcnJjUXNGMA?oc=5",
+    "title": "SK하이닉스의 '맞춤형' 채용, 삼성전자를 뒤흔들었다",
+    "summary": [
+      "SK하이닉스의 '맞춤형' 채용, 삼성전자를 뒤흔들었다 인베스트조선."
+    ],
+    "chips": [
+      "#삼성전자",
+      "#SK하이닉스",
+      "#채용"
     ]
   },
   {
@@ -296,6 +284,20 @@ window.NEWS_DB = [
     ]
   },
   {
+    "id": "n37646dcf",
+    "category": "IT",
+    "source": "유니콘팩토리",
+    "time": "177일 전",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5KV2k5SXVJM0hUUlJLbHg3U2hqak90M0dETHQ2dmd2M2w1QWtKb2Qzd2VsRG50N1dIWGkzZUVfUU5Ld1lSRFlzS1NhclJEcGJKanlRRGc2alhtNHM4aUVCWWhpMEU4bllEQ3RMRA?oc=5",
+    "title": "\"유니콘 배출보다 중요한 건 ○○\"…중기부가 보는 '모두의 창업'은",
+    "summary": [
+      "\"유니콘 배출보다 중요한 건 ○○\"…중기부가 보는 '모두의 창업'은 유니콘팩토리."
+    ],
+    "chips": [
+      "#스타트업"
+    ]
+  },
+  {
     "id": "nbc27bc5a",
     "category": "IT",
     "source": "연합뉴스",
@@ -310,319 +312,323 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n678c5751",
+    "id": "n771cd746",
     "category": "경제",
-    "source": "테크M",
-    "time": "방금 전",
-    "url": "https://www.techm.kr/news/articleView.html?idxno=157678",
-    "title": "'GTA6' 출시 첫날 매출 5조원...사전 판매 3250만장 '기염'",
+    "source": "연합뉴스(경제)",
+    "time": "2분 전",
+    "url": "https://www.yna.co.kr/view/AKR20261120179700003",
+    "title": "'수출 1조달러' 한국, 세계 4위 전망…반도체 빼면 세계 8위",
     "summary": [
-      "락스타게임즈의 오픈월드 액션 어드벤처 신작 '그랜드 테프트 오토VI(GTA6)'가 출시 첫날에만 5조원에 달하는 매출을 올린 것으로 드러났다.",
-      "GTA6가 사전 판매 3250만장 등 화려한 기록과 함께 영화를 포함한 엔터테인먼트 산업 흥행 역사를 다시 쓰고 있다.20일(현지시간) 락스타게임즈의 모회사 테이크투 인터랙티브에 따르면, 'GTA6'의 출시일 19일 하루 동안 기록한 매출은 37억9000만 달러에 달한다.",
-      "한화 약 5조1032억원을 출시."
+      "(서울=연합뉴스) 신창용 기자 = 한국이 올해 사상 처음으로 연간 수출 1조달러를 달성하며 세계 4위 수출강국 반열에 오를 전망이다."
     ],
     "chips": [
-      "#스타트업"
+      "#반도체",
+      "#수출"
     ]
   },
   {
-    "id": "n38ce2efb",
+    "id": "n90c5b55d",
     "category": "IT",
-    "source": "테크M",
-    "time": "방금 전",
-    "url": "https://www.techm.kr/news/articleView.html?idxno=157676",
-    "title": "[지스타 26] \"한국 게이머 목소리 듣겠다\"...3색 세계관 앞세운 넷이즈 부스 가보니",
+    "source": "연합뉴스",
+    "time": "2분 전",
+    "url": "https://www.yna.co.kr/view/AKR20261120131200017",
+    "title": "국내 대학 연쇄 해킹에 중국 해킹 커뮤니티 연관 AI 도구 흔적",
     "summary": [
-      "올해 지스타 2026 전시장을 둘러보다 보면 묘한 긴장감과 함께 발걸음을 멈추게 되는 곳이 있습니다.",
-      "제1전시장과 제2전시장에 걸쳐 무려 세 개의 독립 부스를 차린 중국 대형 게임사 '넷이즈게임즈'입니다.한 회사가 내놓은 작품이라고 보기 어려울 만큼 세부스의 색깔은 완전히 달랐습니다.",
-      "해양 판타지 모험부터 전통 무협, 기묘한 생존 게임까지 서로 다른 세계관을 각각 따로 구현해 낸 구성에서 한국 시장을 향한 남다른 진심이 읽혔습니다.거대한 문어가."
+      "(서울=연합뉴스) 권하영 기자 = 최근 국내 대학 20여 곳을 겨냥한 해킹 사건에서 중국 해킹 커뮤니티와 연관된 인공지능(AI) 기반 모의해킹 ..."
+    ],
+    "chips": [
+      "#AI",
+      "#교육"
+    ]
+  },
+  {
+    "id": "n0a09a988",
+    "category": "경제",
+    "source": "연합뉴스",
+    "time": "2분 전",
+    "url": "https://www.yna.co.kr/view/AKR20261121025400008",
+    "title": "지난달 개인 ETF 순매수액, 석달만 최다…이달도 4조 '사자'",
+    "summary": [
+      "(서울=연합뉴스) 고은지 기자 = 국내 증시가 주춤한 상황에도 지난달 개인 투자자의 상장지수펀드(ETF) 순매수액이 약 석 달 만에 최다를 기록..."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n955f1200",
-    "category": "IT",
-    "source": "테크M",
-    "time": "방금 전",
-    "url": "https://www.techm.kr/news/articleView.html?idxno=157677",
-    "title": "[지스타 26] 게임 보러 갔다가 경주차에 반했다...제2전시장 달군 현대차의 도전",
-    "summary": [
-      "게임을 보러 찾은 부산 벡스코 제2전시장 1층에서 뜻밖의 풍경이 발걸음을 멈춰 세웠습니다.",
-      "화려한 게임 캐릭터와 신작 영상 사이로 날렵한 고성능 자동차들이 나란히 서 있었기 때문입니다.",
-      "약 100부스 규모로 자리를 잡은 '현대자동차' 전시관입니다.올해 지스타 2026의 화두는 산업 간 경계를 허무는 외연 확장이었습니다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n307dee4e",
-    "category": "IT",
-    "source": "테크M",
-    "time": "방금 전",
-    "url": "https://www.techm.kr/news/articleView.html?idxno=157675",
-    "title": "캐릭터 소환 부담 덜어낸 '아주르 프로밀리아'...'픽뚫' 없앤 3000만 기대작이 온다",
-    "summary": [
-      "넥슨이 국내 서비스하는 서브컬처 RPG 신작 '아주르 프로밀리아(아주르)'가 정식 출시 프리뷰 방송을 통해 몬스터 '키보' 수집이라는 뚜렷한 개성과 완성도 높은 전투, 비주얼로 국내 이용자들의 시선을 사로잡았다.",
-      "특히, 캐릭터 소환 상품에서 픽업 캐릭터가 아닌 여타 최고 등급 캐릭터가 등장하는 이른바 '픽뚫'을 제외한 결정이 눈길을 끈다.21일 넥슨에 따르면 전날 방송을 통해 핵심 콘텐츠를 소개하고, 출시 후 캐릭터 출시 등 주요 계획을 밝혔다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n916d51b0",
+    "id": "n45b5a46a",
     "category": "사회",
-    "source": "조선일보",
+    "source": "연합뉴스",
+    "time": "2분 전",
+    "url": "https://www.yna.co.kr/view/AKR20261121048200001",
+    "title": "예산 처리시한 D-10…여야, 미래대응기금 놓고 벼랑끝 대치 가나",
+    "summary": [
+      "(서울=연합뉴스) 권희원 김정진 오규진 기자 = 내년도 예산안 처리의 법정시한이 22일로 10일 다가왔으나 주요 쟁점을 둘러싼 이견이 계속되면서..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n828d6e99",
+    "category": "경제",
+    "source": "연합뉴스(경제)",
+    "time": "4분 전",
+    "url": "https://www.yna.co.kr/view/AKR20261121043900003",
+    "title": "테슬라 돌풍에 對중국 자동차 무역적자 6조원 역대 최대",
+    "summary": [
+      "(서울=연합뉴스) 김윤구 기자 = 중국 상하이 공장에서 생산된 테슬라 전기차가 국내에서 돌풍을 일으키면서 올해 한국의 대(對)중국 자동차 수입액..."
+    ],
+    "chips": [
+      "#전기차",
+      "#수출"
+    ]
+  },
+  {
+    "id": "naf4bd9d5",
+    "category": "사회",
+    "source": "뉴시스",
     "time": "5분 전",
-    "url": "https://www.chosun.com/entertainments/broadcast/2026/11/22/HE2DGNDGMUYDMMZWMI4TAYRWMM/",
-    "title": "은가은, 배우 임은경 닮은꼴이었네..이요원·은지원도 인정 \"느낌 있어\"",
+    "url": "https://www.newsis.com/view/NISX20261121_0003877855",
+    "title": "초등학교 몰래 들어가 음악실에 불 지른 20대 실형",
     "summary": [
-      "[OSEN=임혜영 기자] 은가은이 배우 임은경 닮았다는 소리를 많이 들었다고 밝혔다.21일 방송된 KBS2 ‘살림하는 남자들 시즌2’(이하 살림남2)에는 률이 스페셜 게스트로 출연했다.이날 스튜디오에는 ‘은지원 닮은꼴’로 유명한 롱샷의 률이 출연했다.",
-      "이에 MC들은 은지원과 률의 얼굴을 번갈아 보며 신기하다는 반응을 보였다.박서진은 은가은에게 닮은꼴이 있는."
+      "[울산=뉴시스] 안정섭 기자 = 초등학교 건물에 몰래 들어가 음악실에 불을 지른 20대 남성이 실형을 선고받았다.",
+      "울산지법 형사11부(재판장 박동규 부장판사)는 현존건조물방화, 건조물침입 등의 혐의로 재판에 넘겨진 20대 남성 A씨에게 징역 2년을 선고했다고 22일 밝혔다.",
+      "A씨는 올해 4월 초 오후 울산의 한 초등학교 출입문으로 몰래 들어가 4층 음악실 안에서 종이를 모아 불을 지른 혐의로 기소됐다."
     ],
     "chips": [
-      "#뉴스"
+      "#교육"
     ]
   },
   {
-    "id": "na41b7357",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "21분 전",
-    "url": "https://www.chosun.com/entertainments/2026/11/22/QFUL3JN2GRAN7EWZ3X6XK3PXGI/",
-    "title": "보복 운전 당한 김동현 \"창문 내리니까 덜덜 떨며 인사\"",
-    "summary": [
-      "보복 운전 당한 김동현 \"창문 내리니까 덜덜 떨며 인사\"."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n194edd1c",
+    "id": "nb343d52f",
     "category": "스포츠",
     "source": "머니투데이",
-    "time": "23분 전",
-    "url": "https://www.mt.co.kr/sports/2026/11/22/2026112114115622786",
-    "title": "'충격 대반전' 女 동성 성추행 논란 슈퍼스타, 뒤늦은 고백 \"자살 충동 느껴, 머리도 다 빠졌다\"... 드디어 진실 밝혀졌다",
+    "time": "6분 전",
+    "url": "https://www.mt.co.kr/sports/2026/11/22/2026112206000048267",
+    "title": "롯데 초비상! 급박해지는 레이예스 상황, 협상 교착 상태서 한발 더 나아가 \"이미 관심 보이는 美·日 구단 있어\"",
     "summary": [
-      "성추행 혐의를 벗고 무죄를 선고받은 전 잉글랜드 럭비 국가대표 출신 방송 해설위원 다니카 프림(42)이 거짓 누명으로 인해 극단적 선택까지 고민했던 끔찍한 고통을 털어놨다.",
-      "영국 매체 '더선'은 21일(한국시간) \"BBC 럭비 리그 해설위원 프림이 크리켓 클럽 화장실 성추행 허위 고소를 당한 뒤 자살 충동에 시달리고 머리카락이 빠졌다며 커리어가 완전히 망가졌다고 밝혔다\"며 \"성추행 누명을 쓴 뒤 너무나 어두운 나락에 빠져 오."
+      "롯데 자이언츠의 '효자 외인' 빅터 레이예스(32)를 둘러싼 거취 문제가 급박하게 돌아가고 있다.",
+      "롯데와의 재계약 협상이 난항을 겪는 가운데, 미국과 일본 구단들이 이미 구체적인 관심을 보이고 있다는 현지 소식통의 전언이 나오면서 롯데 구단에 초비상이 걸렸다.",
+      "베네수엘라 야구 소식을 전문적으로 다루는 현지 소식통 '안데르 베이스볼'은 21일 밤(한국시간) 자신의 SNS(X·옛 트위터)를 통해 \"베네수엘라 출신 빅터 레이예스는 한국에서 3년간 엄."
     ],
     "chips": [
-      "#뉴스"
+      "#KBO"
     ]
   },
   {
-    "id": "nec573e18",
-    "category": "스포츠",
-    "source": "머니투데이",
-    "time": "41분 전",
-    "url": "https://www.mt.co.kr/sports/2026/11/22/2026112123424184060",
-    "title": "'日 미녀 스타' 미야자키 또 꺾었다... 中 왕즈이, 2주 연속 준결승서 2-0 완승→홍콩오픈 2연패까지 한 걸음",
-    "summary": [
-      "일주일 만에 다시 만났지만 결과는 같았다.",
-      "중국의 왕즈이(세계랭킹 3위)가 2주 연속 준결승에서 일본의 미야자키 도모카(세계 7위)를 꺾고 홍콩오픈 2연패까지 1승만 남겼다.",
-      "왕즈이는 21일(한국시간) 홍콩 카이탁 아레나에서 열린 2026 세계배드민턴연맹(BWF) 월드투어 홍콩오픈(슈퍼 500) 여자단식 준결승에서 미야자키를 2-0(21-15, 21-15)으로 꺾었다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n32c1e8ce",
-    "category": "스포츠",
-    "source": "머니투데이",
-    "time": "44분 전",
-    "url": "https://www.mt.co.kr/sports/2026/11/22/2026112118370880059",
-    "title": "\"격투기 인생, XX 재밌었다!\" 추성훈다운 은퇴 선언... 눈물과 함께 '아름다운 퇴장' [고척 현장]",
-    "summary": [
-      "20년간 케이지 위에서 치열하게 싸워온 추성훈(51)이 뜨거운 눈물과 거침없는 진심을 남기고 정든 글러브를 내려놓았다.",
-      "추성훈은 21일 오후 서울 고척스카이돔에서 열린 '블랙컴뱃 17: 벤타블랙(BLACK COMBAT 17: VANTABLACK)' 코메인 이벤트 크리스 리벤(46·미국)과 89kg 캐치웨이트 은퇴전에서 3라운드 난타전 끝에 1-2(28-29, 29-28, 28-29) 스플릿 판정패했다.",
-      "16년 만의 리매치에서 아쉽게 승리를 놓쳤."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nfa20ceb6",
-    "category": "스포츠",
-    "source": "동아일보",
-    "time": "45분 전",
-    "url": "https://www.donga.com/news/Culture/article/all/20261122/135065249/1",
-    "title": "51세 추성훈, 은퇴전서 아쉬운 판정패…22년 파이터 인생 마침표",
-    "summary": [
-      "이종격투기(MMA) 선수 겸 방송인 추성훈(51)이 22년간 이어온 현역 생활을 마무리했다.추성훈은 21일 서울 고척스카이돔에서 열린 ‘블랙컴뱃 17: 반타블랙’ 코메인 이벤트 89㎏ 계약 체중 매치에서 크리스 리벤(46·미국)과 3라운드 접전을 벌인 끝에 1-2(28-29 29-28 28-29)로 판정패했다.2010년 ‘UFC 116’ 패배 이후 16년 만에 성사된 재대결이었으나 설욕에는 실패했다.",
-      "이로써 2004년 MMA 무대에 뛰어든 추성."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n37614258",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "45분 전",
-    "url": "https://www.yna.co.kr/view/AKR20261122000100011",
-    "title": "[알림] 연합뉴스 콘텐츠 저작권 고지",
-    "summary": [
-      "연합뉴스가 제공하는 기사, 사진, 그래픽, 영상 등 모든 콘텐츠는 관련 법의 보호를 받습니다.",
-      "연합뉴스 콘텐츠를 사전허가 없이 전재·방송하거나 ..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n842f6a27",
+    "id": "n4a3eec7e",
     "category": "경제",
-    "source": "머니투데이",
-    "time": "45분 전",
-    "url": "https://www.mt.co.kr/entertainment/2026/11/22/2026112116415467348",
-    "title": "허각, 20㎏ 폭풍 감량 성공했는데…성시경 \"정신 차려라\" 일침",
+    "source": "연합뉴스(경제)",
+    "time": "7분 전",
+    "url": "https://www.yna.co.kr/view/AKR20261121023200030",
+    "title": "중·미 넘어 유럽·중남미까지…K-라면 연간 수출 20억달러 육박",
     "summary": [
-      "가수 허각이 20㎏ 감량에 성공한 근황을 공개했지만 운동은 전혀 하지 않는다고 밝혀 성시경의 잔소리를 들었다.",
-      "성시경의 회 다이어트에 영향을 받았다는 허각은 술을 곁들여 먹었다고 털어놨고 성시경은 \"운동 안 하고 식사량으로만 빼면 영원히 요요가 기다린다\"며 걱정을 드러냈다.",
-      "20일 방영된 KBS2 '더 시즌즈-성시경의 고막남친' 32회에서는 허각이 게스트로 출연해 다이어트에 얽힌 이야기를 나눴다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nd07b70bb",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "45분 전",
-    "url": "https://www.newsis.com/view/NISX20261122_0003877856",
-    "title": "[알림]뉴시스 콘텐츠 저작권 고지",
-    "summary": [
-      "뉴시스가 제공하는 기사, 사진, 그래픽 이미지, 영상물 등 각종 콘텐츠는 저작권법 등 관련 법의 보호를 받습니다.",
-      "뉴시스 콘텐츠를 사전 허락 없이 무단 복사, 개작, 전재, 배포, 판매할 경우 민·형사상의 책임이 따를 수 있다는 것을 알려드립니다.",
-      "뉴시스 콘텐츠 사용에 대해서는 전화(02-721-7415) 또는 이메일(choihh@newsis.com)로 문의하시기 바랍니다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nca3947bf",
-    "category": "스포츠",
-    "source": "뉴시스",
-    "time": "45분 전",
-    "url": "https://www.newsis.com/view/NISX20261121_0003877850",
-    "title": "추성훈 '은퇴전'서 추사랑 오열…\"미안 이번엔 용돈 없다\"",
-    "summary": [
-      "[서울=뉴시스]이재훈 기자 = 22년간의 파이터 인생에 마침표를 찍은 추성훈(51)의 마지막 무대가 깊은 부성애로 물들었다.",
-      "22일 방송가에 따르면, 추성훈은 전날 서울 고척스카이돔에서 열린 '블랙컴뱃 17: 반타블랙' 은퇴전에서 크리스 리벤(미국)에게 1-2로 판정패했다.",
-      "비록 승리는 놓쳤지만, 경기 직후 케이지에 오른 딸 추사랑 양이 아빠와 부둥켜안고 참아왔던 눈물을 터뜨리면서 현장은 뭉클함으로 채워졌다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n8d485f25",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "45분 전",
-    "url": "https://www.newsis.com/view/NISX20261121_0003877826",
-    "title": "런던 사는 장윤주 \"영국 학부모 기싸움…서로 과시해\"",
-    "summary": [
-      "[서울=뉴시스] 손정빈 기자 = 모델 출신 방송인 장윤주가 영국 학부모 사이에서도 기싸움이 있다고 했다.",
-      "장윤주는 21일 자신의 유튜브 채널에서 유튜버 명예영국인을 만나 영국 생활에 관해 얘기했다.",
-      "그는 \"대화 시도를 이래저래 한다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "na71b4af8",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "49분 전",
-    "url": "https://www.yna.co.kr/view/AKR20261121052600099",
-    "title": "이란 \"美 F-16 전투기 공격…MQ-1 드론은 격추\" 주장",
-    "summary": [
-      "(요하네스버그=연합뉴스) 나확진 특파원 = 이란이 페르시아만 상공에서 미군의 F-16 전투기를 공격해 비상착륙하게 했으며 MQ-1 드론을 격추했..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nbfb66400",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "1시간 전",
-    "url": "https://www.chosun.com/sports/world-football/2026/11/21/MI2GEZBSGFRTIZDFHE4DANJWMI/",
-    "title": "'독일 무대에서 사라졌던 태극전사, 마침내 돌아왔다' 옌스 카스트로프, 시즌 22분 출전 설움 딛고 BVB전 선발",
-    "summary": [
-      "'독일 무대에서 사라졌던 태극전사, 마침내 돌아왔다' 옌스 카스트로프, 시즌 22분 출전 설움 딛고 BVB전 선발."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n5bf866ab",
-    "category": "경제",
-    "source": "한국경제",
-    "time": "1시간 전",
-    "url": "https://www.hankyung.com/article/202611211639i",
-    "title": "뉴욕총영사관, 한인 차세대 리더 네트워크 행사 개최",
-    "summary": [
-      "뉴욕총영사관, 한인 차세대 리더 네트워크 행사 개최."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n63b15976",
-    "category": "경제",
-    "source": "연합뉴스",
-    "time": "1시간 전",
-    "url": "https://www.yna.co.kr/view/AKR20261121052500082",
-    "title": "EU·인도네시아 무역협정 체결…관세 90％ 이상 철폐",
-    "summary": [
-      "(베를린=연합뉴스) 김계연 특파원 = 유럽연합(EU)과 인도네시아가 21일(현지시간) 90％ 이상 수출입품에 관세를 철폐하는 내용의 무역협정을 ..."
+      "(서울=연합뉴스) 한주홍 기자 = 올해 들어 10개월 만에 라면 수출액이 지난해 연간 실적을 추월하며 연간 20억달러 돌파를 눈앞에 뒀다."
     ],
     "chips": [
       "#수출"
     ]
   },
   {
-    "id": "n82bd03c1",
+    "id": "n7a6e50de",
     "category": "사회",
-    "source": "연합뉴스",
-    "time": "1시간 전",
-    "url": "https://www.yna.co.kr/view/AKR20261121052400007",
-    "title": "피겨 김유성, 5차 시니어 그랑프리 4위…개인 최고점",
+    "source": "뉴시스",
+    "time": "7분 전",
+    "url": "https://www.newsis.com/view/NISX20261121_0003877804",
+    "title": "충북, 대체로 맑음…아침 최저 -10도",
     "summary": [
-      "(서울=연합뉴스) 김경윤 기자 = 피겨스케이팅 기대주 김유성(수리고)이 시니어 그랑프리에서 개인 최고점을 경신하며 4위에 올랐다."
+      "[청주=뉴시스] 연현철 기자 = 일요일인 22일 충북지역은 대체로 맑겠다.",
+      "청주기상지청에 따르면 이날 아침 최저기온은 -10~-3도로 전날보다 1도가량 낮다.",
+      "낮 최고기온은 4~6도로 전날보다 1~2도가량 높겠다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "na04912a4",
+    "id": "nd0f9b250",
     "category": "사회",
-    "source": "동아일보",
-    "time": "1시간 전",
-    "url": "https://www.donga.com/news/Culture/article/all/20261121/135065221/1",
-    "title": "장원영·안유진, 레드카펫서 드러난 슬림한 실루엣…필라테스 효과도 관심",
+    "source": "조선일보",
+    "time": "7분 전",
+    "url": "https://www.chosun.com/entertainments/broadcast/2026/11/22/GVRGIYZTGIYDCMRVMUZTAMRZG4/",
+    "title": "효연 \"유리·수영은 글렀다..나혼자 빛나고 싶어서 놀뭐 섭외 얘기NO\" 경쟁자 차단 [핫피플]",
     "summary": [
-      "그룹 아이브(IVE)의 멤버 장원영과 안유진이 레드카펫에서 늘씬한 자태를 선보여 눈길을 끌었다.21일 장원영과 안유진은 일본 오사카 교세라돔 인근에서 열린 ‘2026 MAMA AWARDS’ 레드카펫 행사에 참석해 포즈를 취했다.장원영은 브라운 톤의 민소매 드레스를 착용했다.",
-      "민소매 디자인으로 군살 없이 매끈한 팔 라인이 드러났으며, 긴 드레스가 몸의 실루엣을 강조했다.",
-      "안유진은 블랙 드레스를 입고 등장했다."
+      "[OSEN=하수정 기자] '놀면뭐하니' 효연이 효리수 멤버들을 언급하면서 돋보이고 싶은 마음을 드러냈다.21일 오후 방송된 MBC 예능 '놀면 뭐하니?'에서는 유재석 PD, 하하, 허경환, 주우재 작가가 '95 서울가요제 히든 참가자 섭외·미팅을 비롯해 참가자들의 선곡 회의 모습이 그려졌다.유재석과 멤버들은 곽범의 파트너를 찾기 위해서 와일드카드 미팅을 진."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n5d083b11",
+    "category": "스포츠",
+    "source": "조선일보",
+    "time": "7분 전",
+    "url": "https://www.chosun.com/sports/world-baseball/2026/11/22/HE2TKMRWGIYTQNZQGU2WGZDEG4/",
+    "title": "‘307억 포기 충격’ 노시환, 美 파격 제안 떴다! ML 30개 구단에 적극 추천 “3루수 필요해? 파워+수비력 갖춘 ROH 영입해”",
+    "summary": [
+      "[OSEN=이후광 기자] 포스팅을 통한 미국 진출을 선언한 노시환이 메이저리그 자유계약선수 시장의 최고 가성비 3루수 자원으로 선정됐다.",
+      "미국 매체 ‘야드바커’는 지난 21일(이하 한국시간) “3루수가 필요한 메이저리그 구단들에 노시환이 흥미로운 가성비 선택지가 될 수 있다”라며 노시환을 30개 구단에 적극 추천했다.",
+      "야드바커는 “한신 타이거스의 3루수 겸."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n9c700d92",
+    "category": "경제",
+    "source": "연합뉴스(경제)",
+    "time": "12분 전",
+    "url": "https://www.yna.co.kr/view/AKR20261121035000008",
+    "title": "같은 4,800선인데도…코스피 '1조클럽', 1월보다 11% 줄었다",
+    "summary": [
+      "(서울=연합뉴스) 김유향 기자 = 코스피가 급락하며 연초와 비슷한 4,800선으로 밀려났다.",
+      "유가증권시장에서 시가총액 1조원 이상인 상장 종목은..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "ned6236e6",
+    "category": "경제",
+    "source": "머니투데이",
+    "time": "12분 전",
+    "url": "https://www.mt.co.kr/society/2026/11/22/2026112122564829578",
+    "title": "5만원 받고 \"촉감 이상해\"…딱 걸린 남성이 찢어버린 돈 정체",
+    "summary": [
+      "편의점에서 5만원권 장난감 지폐를 내밀고 거스름돈을 챙기려던 60대 남성이 직원의 눈썰미에 덜미를 잡혔다.",
+      "22일 서울 양천경찰서에 따르면 지난 4일 오후 4시쯤 양천구 한 편의점에 들어온 A씨는 담배를 고른 뒤 직원에게 5만원권 지폐를 건넸다.",
+      "돈을 받은 직원은 지폐 촉감이 이상하다고 느꼈다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n02b0dc85",
+    "category": "IT",
+    "source": "뉴시스",
+    "time": "14분 전",
+    "url": "https://www.newsis.com/view/NISX20261120_0003877428",
+    "title": "커닝 걱정 없는 사고력 평가…교실부터 바꿔야[평가 시험대③]",
+    "summary": [
+      "[세종=뉴시스]용윤신 기자 = 인공지능(AI)이 문제를 풀고 답안까지 작성할 수 있는 상황에서 학생이 실제로 사고했는지 확인하는 평가 방식이 필요하다는 목소리가 커지고 있다.",
+      "교육계에서는 구술·토론과 수행 과정 확인 등 다양한 평가 방식을 대안으로 제시하지만, 이를 뒷받침할 교원 확충과 개별 피드백 시간 확보 등 해결해야 할 과제도 적지 않다.",
+      "22일 교육계에 따르면 교원단체들은 최근 교육이 당면한 문제로 대입 전형에 따른 교실 내 수업 태도."
+    ],
+    "chips": [
+      "#AI",
+      "#교육"
+    ]
+  },
+  {
+    "id": "n0c1a7fd8",
+    "category": "스포츠",
+    "source": "머니투데이",
+    "time": "15분 전",
+    "url": "https://www.mt.co.kr/sports/2026/11/22/2026112205191066525",
+    "title": "안세영 꺾고 우승한 게 유일했다... 결승만 7번째 오른 中 왕즈이, 홍콩서 8개월 만에 두 번째 우승 도전",
+    "summary": [
+      "중국의 왕즈이(세계랭킹 3위)가 올 시즌 앞선 여섯 번의 결승에서 우승컵을 든 건 딱 한 번이었다.",
+      "공교롭게도 그때 꺾은 상대가 올해 단 한 차례만 패한 '배드민턴 여제' 안세영(삼성생명)이었다.",
+      "왕즈이는 21일(한국시간) 홍콩 카이탁 아레나에서 열린 2026 세계배드민턴연맹(BWF) 월드투어 홍콩오픈(슈퍼 500) 여자단식 준결승에서 일본의 미야자키 도모카를 2-0(21-15, 21-15)으로 꺾었다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nc85836ac",
+    "category": "IT",
+    "source": "뉴시스",
+    "time": "15분 전",
+    "url": "https://www.newsis.com/view/NISX20261120_0003877235",
+    "title": "흔들리는 수능에 커지는 '폐지' 목소리[평가 시험대②]",
+    "summary": [
+      "[서울=뉴시스]정예빈 기자 = 인공지능(AI)을 활용한 부정행위가 국가자격시험과 대학별 고사, 대학수학능력시험(수능)까지 위협하면서 기존 시험 방식의 한계가 드러나고 있다.",
+      "초소형 카메라로 문제를 촬영해 AI에 답을 묻는 수법까지 등장하자, 정답을 빠르게 찾는 능력을 가리는 시험이 여전히 유효한지를 둘러싼 의문도 커지고 있다.",
+      "변별력 확보와 효율적인 시험 운영, 객관성을 이유로 현행 수능을 유지해야 한다는 목소리는 여전하다."
+    ],
+    "chips": [
+      "#AI",
+      "#교육"
+    ]
+  },
+  {
+    "id": "n0a814483",
+    "category": "IT",
+    "source": "조선비즈IT",
+    "time": "17분 전",
+    "url": "https://biz.chosun.com/it-science/ict/2026/11/21/S5B2TSNGFFGGXHFKEIPEVYA3G4/",
+    "title": "[비즈톡톡] 영업이익보다 법인세 더 낸 카카오… 두나무 지분 매각 영향",
+    "summary": [
+      "[비즈톡톡] 영업이익보다 법인세 더 낸 카카오… 두나무 지분 매각 영향."
+    ],
+    "chips": [
+      "#카카오"
+    ]
+  },
+  {
+    "id": "n4974e1dc",
+    "category": "경제",
+    "source": "머니투데이",
+    "time": "17분 전",
+    "url": "https://www.mt.co.kr/society/2026/11/22/2026112117003183558",
+    "title": "[오늘 날씨] 전국 대체로 맑고 영하권 추위…아침 기온 '뚝'",
+    "summary": [
+      "첫눈이 내린다는 절기상 '소설'(小雪)이자 일요일인 오늘(22일)은 전국 대부분 지역에서 아침 기온이 영하권으로 떨어지며 강추위가 이어지겠다.",
+      "기상청에 따르면 이날 전국이 대체로 맑겠으나 충남 서해안과 전라 서해안은 구름 많겠다.",
+      "또 북서쪽에서 찬 공기가 유입되면서 전국 대부분 지역의 아침 기온이 영하권으로 떨어질 전망이다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nab999ad8",
+    "category": "경제",
+    "source": "아시아경제",
+    "time": "17분 전",
+    "url": "https://view.asiae.co.kr/article/2026112021160699706",
+    "title": "신세계百 카테고릭, 오픈 5개월 만에 아태 100대 커피숍 13위",
+    "summary": [
+      "신세계백화점이 선보인 스페셜티 커피 브랜드 '카테고릭(Categorique)'이 오픈 5개월 만에 아시아·태평양 지역 대표 커피숍으로 선정됐다.",
+      "신세계백화점은 지난 6월 말 강남점 11층에 문을 연 카테고릭이 '아시아·태평양 100대 커피숍 2026'에서 13위를 기록했다고 22일 밝혔다.",
+      "국내 카페 중 2위, 서울 지역에서는 1위로, 백화점 입점 카페 가운데 유일하게 선정됐다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n9f534929",
+    "category": "부동산",
+    "source": "조선일보",
+    "time": "17분 전",
+    "url": "https://www.chosun.com/economy/realty/redevelop/2026/11/22/GMZDCMDFGYYWKOJXMYYGMMDCHA/",
+    "title": "광명에도 '디에이치' 들어서나…현대건설이 철산동에 눈독 들이는 이유",
+    "summary": [
+      "[땅집고] 현대건설이 경기 광명시 철산주공13단지 재건축사업에 단독 입찰하며 1조7000억원 규모의 시공권 확보에 한발 다가섰다.",
+      "철산역 일대가 재건축을 통해 국민평형(전용 84㎡) 신축 아파트값 20억원 시대를 열면서 남은 대규모 재건축사업을 공략하는 모습이다.",
+      "19일 정비업계에 따르면 철산주공13단지 재건축조합은 지난 17일 시공사 선정 1차 입찰이."
+    ],
+    "chips": [
+      "#부동산",
+      "#재건축"
+    ]
+  },
+  {
+    "id": "nae6e9958",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "47분 전",
+    "url": "https://www.chosun.com/politics/diplomacy-defense/2026/11/22/DWXOUU6NS5D5HL5EBO56QAGDVY/",
+    "title": "“대북 협상보다 통일부와의 內交가 더 힘들었다”",
+    "summary": [
+      "“대북 협상보다 통일부와의 內交가 더 힘들었다”."
     ],
     "chips": [
       "#뉴스"
@@ -635,20 +641,20 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "3500건",
-    "trend": "+435%"
+    "mentions": "2330건",
+    "trend": "+255%"
   },
   {
     "rank": 2,
     "tag": "AI",
-    "mentions": "1550건",
-    "trend": "+135%"
+    "mentions": "1680건",
+    "trend": "+155%"
   },
   {
     "rank": 3,
     "tag": "반도체",
-    "mentions": "1550건",
-    "trend": "+135%"
+    "mentions": "1680건",
+    "trend": "+155%"
   }
 ];
 // ====AUTO-GENERATED-END====
