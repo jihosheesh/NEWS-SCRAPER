@@ -1,11 +1,43 @@
 // ====AUTO-GENERATED-START====
-// 마지막 업데이트: 2026-11-25 15:07:53
+// 마지막 업데이트: 2026-11-25 23:52:56
 window.NEWS_DB = [
+  {
+    "id": "nf08bc38d",
+    "category": "경제",
+    "source": "업코리아",
+    "time": "1시간 전",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBtcUtXVjF3UDBKY1prbUdmZVJVQmd6X2VOQWw0Q2FselBKZ2dnUkVNZGxmeVRPeHktMTZDMEZ0dm03ZDJzMzF1bzMwSDhMYThkSFJpaC1NT2V3M3FZTFZZVkhoVFNNOXA0RlY5bXlB?oc=5",
+    "title": "[오늘 증시 전망] 코스피 6.16% 급락, 4,700선 붕괴…오늘 한국은행 금리 결정에 시장 촉각",
+    "summary": [
+      "[오늘 증시 전망] 코스피 6.16% 급락, 4,700선 붕괴…오늘 한국은행 금리 결정에 시장 촉각 업코리아."
+    ],
+    "chips": [
+      "#금리",
+      "#한은"
+    ]
+  },
+  {
+    "id": "ne2bb4804",
+    "category": "IT",
+    "source": "이데일리",
+    "time": "3시간 전",
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOUzdjbnQ4eFNhVEdsQ201SThFcFJEVlNPMGZfY2IzeUk0RU51VldtZmtmd01WTHZPbUxVcEdPZW42NUdwcG1oWml4SEhOM2NwZGQ2S2M2UDBNTENSSTZLSmY4NkJuTkhZT1U2VXhCOTZNRXN1MEU5NE5lY2VtR29WNw?oc=5",
+    "title": "[美특징주]엔비디아, 美 대중국 AI 반도체 규제 강화에 GPU 매물 급증",
+    "summary": [
+      "[美특징주]엔비디아, 美 대중국 AI 반도체 규제 강화에 GPU 매물 급증 이데일리."
+    ],
+    "chips": [
+      "#AI",
+      "#반도체",
+      "#엔비디아",
+      "#정책"
+    ]
+  },
   {
     "id": "nef226581",
     "category": "IT",
     "source": "뉴스핌",
-    "time": "10시간 전",
+    "time": "18시간 전",
     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9mOURlRUExMVdmaTJfRnJhVy10eHJ3TEpCWDlhS1FHWDg5cExuUHQ5N1RZQzVmRFpQbUM2amsyQVZlMEZ0VjdoMFU2aDlUbXVVNE0zOGYyX25tZFRW?oc=5",
     "title": "삼성, HBM값 하락 대비 고심...'커스텀 설계'로 수익성 방어키로",
     "summary": [
@@ -16,25 +48,10 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "nc5b0b425",
-    "category": "IT",
-    "source": "한국신용신문",
-    "time": "11시간 전",
-    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9NWmxWZFZKOTl0cUV5VG0zS1E1ZEplM3F5TEZuNFFoblN3NnpkMkdjX0VVOFNQWXdLWUo3SmUxcFFTQmpIMXdUSEx4NkoxMGlFLVB2TjNkQkFtT0tZeXFTcXVrQmdLQUFJVFpR?oc=5",
-    "title": "삼성전자, HBM 베이스다이 수요 2배 뛴다…평택·美테일러 라인 확대",
-    "summary": [
-      "삼성전자, HBM 베이스다이 수요 2배 뛴다…평택·美테일러 라인 확대 한국신용신문."
-    ],
-    "chips": [
-      "#반도체",
-      "#삼성전자"
-    ]
-  },
-  {
     "id": "n166e3b92",
     "category": "IT",
     "source": "서울경제",
-    "time": "13시간 전",
+    "time": "22시간 전",
     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE14THFlRlJCR1lrQV8zaUpTenBwa2NLSHBNZjhNQ2lSeExuLVJtZXVMb3Y1eGMtRzAyZnNqeUsxZWw2TnZxVkhoN0hQNEN6bmdYMWfSAVNBVV95cUxQOWg5Um9WTU9IMk1aNTNfNk5oaUp5MHZEX0JrWlFKTDlvUXF3WHIwX0FMU0lSNW4tQ3AzLTkyM1Ziai1IZmp3Umd5Wl9GLVVKY0RBUQ?oc=5",
     "title": "삼성전자, ‘적자 DX’ 임원 승진 31명 축소…HBM·파운드리는 대거 중용",
     "summary": [
@@ -49,7 +66,7 @@ window.NEWS_DB = [
     "id": "nfc044467",
     "category": "IT",
     "source": "네이버 프리미엄콘텐츠",
-    "time": "15시간 전",
+    "time": "1일 전",
     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPNUl6MGIwT1lrUTA0Q3hkbUd0dzhzQzQxRnVVTGhUaThaLW1YS2x5YTdaTzFINVdwbTliYTBLY2RXQzd4NDd3cUxyenl2WndidWFqOG9CZFBhcEMwaEtmUERFWEl0QldWcTFuRTdTMGV1Q0gzdG9PTldNOHhhSmpkZ0xXY0tYNHE2YUF3bWZiellXYU93?oc=5",
     "title": "내일 금통위, 기준금리 3.25%로 오를까… 반도체 호황이 부른 금리 인상, 과거 25번은 '왜 올리느냐'가 갈랐다",
     "summary": [
@@ -65,7 +82,7 @@ window.NEWS_DB = [
     "id": "nb7e6c7fd",
     "category": "사회",
     "source": "https://www.newsgb.co.kr/",
-    "time": "15시간 전",
+    "time": "1일 전",
     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1jazVaZWlJM2J5YWNjZ0laWTdWa0ZmZTBkWE1nb29pVXF2QlFCNzdHMFVyRG50YVNTdDVmYm5Tbklad3BWWkljZmc3bkZfSXNvQVZZQnByM1NrVVpYazBXeA?oc=5",
     "title": "강릉시 일자리지원센터, 지역청년 고용 활성화를 위한 구인·구직 만남의 날 운영",
     "summary": [
@@ -81,7 +98,7 @@ window.NEWS_DB = [
     "id": "n451e1af5",
     "category": "IT",
     "source": "알파경제",
-    "time": "16시간 전",
+    "time": "1일 전",
     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1Zc1pQQVB3LXF4WFdVTWNrTTBGWUdINjZ3c29Dajd4Sm1SSVJuMHBnQ3d5aXR5ellsSlBEQnl3U3pEMlJPRGZvbFU4UzZJeE1UOG5veEJ6N1R6NTlzMkRUdUFJRy03Rjh6X3pqcXVR?oc=5",
     "title": "中, 로봇 두뇌까지 엔비디아 의존...자체 AI 반도체 개발 속도 낸다",
     "summary": [
@@ -109,24 +126,25 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n74049fc3",
+    "id": "n12a81751",
     "category": "IT",
-    "source": "조선일보",
+    "source": "녹색경제신문",
     "time": "1일 전",
-    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQN0NRX01yQ2JDallUR0hnajBULTB6WElRTjR5ajJjMXVQSE8yUEpEME9HMU52Z2V0TDN3NklmTExaZXBuX29peTR1QjFTUmI4V2o4V2tOM0pheFlnakd4TGRzenN2dzE2VzMyUnR2eXl4aHlpM2dkS0lNNGJrTGFDRXhxbw?oc=5",
-    "title": "젠슨 황 돌아왔지만… 빅테크들 ‘엔비디아 추격’ 더 빨라진다",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5xU0dFVUpoZ09YRDJvVDR2MzV3TWNySEM4TWFBd0p4dHBZMkNtTmRudThGMy1zUnM0b3J4VUVyWHhNOUxBTUJrQUNCMkUybGwzeDBRczNMZTJjN1IwM1RadDloQjhXZDAw?oc=5",
+    "title": "삼성전자, 임원 131명 승진 인사…HBM·파운드리 핵심인재 전진 배치",
     "summary": [
-      "젠슨 황 돌아왔지만… 빅테크들 ‘엔비디아 추격’ 더 빨라진다 조선일보."
+      "삼성전자, 임원 131명 승진 인사…HBM·파운드리 핵심인재 전진 배치 녹색경제신문."
     ],
     "chips": [
-      "#엔비디아"
+      "#반도체",
+      "#삼성전자"
     ]
   },
   {
     "id": "n58de9bf6",
     "category": "부동산",
     "source": "네이버 프리미엄콘텐츠",
-    "time": "1일 전",
+    "time": "2일 전",
     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE90WWpNMmVLZzk2d1UyWXpiMkhjeUNEUzZuZ3dwWGFpN0xUcWRNdHJLSno5azBlNUdTZGNxNEFKam1Yb3YzUnZwOUlsZUM5LXRZcU92aVhFY0RQcU9XdDBVbnJVWmZmc3FHRUF1YUNlbDVkNzBaRnRILWctOU0?oc=5",
     "title": "84㎡ 7.8억 vs 11.5억 — 같은 소사본동 새 아파트, 12월 1일 소사 휴먼빌 청약이 분양가 눈높이를 가른다 (소사구 집값은 올해 +2.30%, 전세는 +4.54%)",
     "summary": [
@@ -168,20 +186,6 @@ window.NEWS_DB = [
       "#취업",
       "#고용",
       "#교육"
-    ]
-  },
-  {
-    "id": "n2cba91a3",
-    "category": "경제",
-    "source": "업코리아",
-    "time": "2일 전",
-    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1fTm9XMi1md1ZsbjZxb2lUX3NmMXFMVThNQUVpTWZjaG96eXM4ZDlXdW44VVR4dmFBU1czZ0d3Y0M2LXkwcHpoRE9GTW9URlB4TFhmbDdsR0t5REdrenQyd0VzaVYtM2c5YXdDUlpR?oc=5",
-    "title": "[오늘 증시 전망] 코스피 4,800선 후퇴…23일 외국인 매도세 진정 여부가 반등 관건",
-    "summary": [
-      "[오늘 증시 전망] 코스피 4,800선 후퇴…23일 외국인 매도세 진정 여부가 반등 관건 업코리아."
-    ],
-    "chips": [
-      "#뉴스"
     ]
   },
   {
@@ -313,325 +317,334 @@ window.NEWS_DB = [
     ]
   },
   {
-    "id": "n6f2ed7ee",
+    "id": "nb6f484ee",
+    "category": "경제",
+    "source": "테크M",
+    "time": "방금 전",
+    "url": "https://www.techm.kr/news/articleView.html?idxno=157818",
+    "title": "[크립토 브리핑] 비트코인, 8000만원대 횡보...금리인상 우려에 투심 '꽁꽁'",
+    "summary": [
+      "비트코인을 비롯한 주요 가상자산이 횡보 흐름을 이어가고 있다.",
+      "미국의 인플레이션 우려가 다시 커진데다 금리 인상 가능성이 부각되면서 시장 전반의 투자심리가 위축되는 모습이다.26일 코인마켓캡에 따르면 이날 오전 8시30분 기준 비트코인 가격은 전일 동시간 대비 0.32% 오른 8091만원을 기록했다.",
+      "알트코인도 동반 상승 흐름이다."
+    ],
+    "chips": [
+      "#금리"
+    ]
+  },
+  {
+    "id": "nacc34b0b",
     "category": "IT",
     "source": "테크M",
     "time": "방금 전",
-    "url": "https://www.techm.kr/news/articleView.html?idxno=157807",
-    "title": "엠게임 '귀혼키우기', 출시 하루 만에 인기 1위 등극...초반 흥행 '청신호'",
+    "url": "https://www.techm.kr/news/articleView.html?idxno=157817",
+    "title": "[템빨 MMORPG] 원작 IP 속 '세티스파이'를 직접 누빈다...'그리드'의 성장 판타지, 게임 플레이로 확장",
     "summary": [
-      "엠게임의 무협 방치형 RPG 신작 '귀혼키우기'가 정식 출시 하루만에 앱마켓 인기 순위 1위에 등극하며 초반 흥행에 성공했다.",
-      "원작 고유의 특색을 방치형 게임에 고스란히 담아낸 매력으로 이용자들을 공략하는 모습이다.",
-      "25일 모바일인덱스에 따르면 귀혼키우기는 국내 애플 앱스토어 인기 순위 1위를 차지했다."
+      "인기 웹소설과 웹툰을 게임으로 옮기는 과정에서 중요한 요소는 원작의 매력을 얼마나 새로운 재미로 전달하는지다.",
+      "게임이라는 새로운 세계에서 원작의 경험은 게임의 본질인 '이용자들의 재미'를 높일 수 있는 기본 요소이기 때문이다.",
+      "넥슨이 26일 0시에 서비스를 시작한 신작 MMORPG '템빨: 오버기어드'는 원작인 '템빨'의 주인공 '그리드'의 이야기를 재현하는 대신 이용자들이 직접 주인공이 되는 방식으로 해법을 찾았다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "n4338cd04",
+    "id": "n2b229a19",
     "category": "IT",
     "source": "테크M",
     "time": "방금 전",
-    "url": "https://www.techm.kr/news/articleView.html?idxno=157812",
-    "title": "해킹 홍역 치른 더존비즈온, 보안 자문위 출범...안랩과도 기술 협력",
+    "url": "https://www.techm.kr/news/articleView.html?idxno=157816",
+    "title": "[템빨 MMORPG] '장비가 곧 성장'...넥슨 '템빨: 오버기어드', 버려지는 아이템 없는 신개념 MMORPG",
     "summary": [
-      "지난달 해킹 사고로 홍역을 치른 더존비즈온이 외부 전문가들에게 보안 자문을 맡기기로 했다.",
-      "자문 결과는 최고경영자(CEO)와 이사회에 보고한다.",
-      "주요 소프트웨어(SW) 제품의 보안 기술은 안랩과 공동 연구한다.더존비즈온은 25일 서울 중구 더존을지타워에서 '사이버보안·정보보호 특별자문위원회' 출범식을 열었다고 밝혔다."
+      "넥슨의 신작 MMORPG '템빨: 오버기어드'는 장비의 획득부터 갱화, 제작, 개조, 재활용까지 성장 시스템 전반을 장비 중심으로 설계했다.",
+      "과거에는 원하는 장비를 획득하기 위해 일명 '노가라'라고 불리는 반복 사냥과 보스 공략을 이어갔지만, 이러한 부분을 최소화한 것.",
+      "특히 더 좋은 장비를 얻으면 기존 사용하던 아이템은 버려지던 점도 재활용으로 설계하며 새로운 시스템을 구축했다."
     ],
     "chips": [
-      "#교육"
+      "#뉴스"
     ]
   },
   {
-    "id": "n4c8b03bd",
+    "id": "n3995b026",
     "category": "IT",
     "source": "테크M",
     "time": "방금 전",
-    "url": "https://www.techm.kr/news/articleView.html?idxno=157813",
-    "title": "'오딘Q' 내년 1월 출시...카카오게임즈, '대작 MMORPG'로 글로벌 공략 박차",
+    "url": "https://www.techm.kr/news/articleView.html?idxno=157815",
+    "title": "[템빨 MMORPG] 넥슨 '템빨: 오버기어드' PC·모바일 출격...장비 성장부터 차원 경쟁까지 콘텐츠 풍성",
     "summary": [
-      "카카오게임즈가 대형 신작 '오딘Q: 발키리스콜' 정식 출시 일정을 밝히고 '도깨비의세계' 서비스 지역을 확장 하는 등 '대작 MMORPG'를 통한 글로벌 시장 공략을 예고해 관심이 쏠린다.오딘Q는 내년 1월 전작의 명성을 이어 장르 시장 최상위 수준의 그래픽·콘텐츠를 갖춘 MMORG로 이용자들을 만난다.",
-      "도깨비의세계는 한국 전통 문화와 다양한 연령층을 포용할 수 있는 콘텐츠 구성을 무기로 내년 2분기 글로벌 공략에 나설 방침이다.25일 카카오게."
+      "넥슨이 인기 웹소설·웹툰 IP '템빨'을 기반으로 한 신작 MMORPG '템빨: 오버기어드'를 정식 출시했다.",
+      "원작의 핵심 소재인 장비 제작과 성장 시스템을 게임으로 구현하고 개성 있는 전투, 서버 간 협력과 경쟁을 결합한 것이 특징이다.",
+      "원작의 세계관을 바탕으로 이용자가 주인공이 되는 신개념 MMORPG를 지향한다."
     ],
     "chips": [
-      "#카카오"
+      "#뉴스"
     ]
   },
   {
-    "id": "nd6786631",
+    "id": "n09a763c6",
     "category": "IT",
-    "source": "테크M",
+    "source": "머니투데이",
     "time": "방금 전",
-    "url": "https://www.techm.kr/news/articleView.html?idxno=157810",
-    "title": "원전·철강·금융도 AX...산업별 AI 수요 현장 확산",
+    "url": "https://www.mt.co.kr/society/2026/11/26/2026112607075123750",
+    "title": "\"남친 생겼는데 이혼 어떻게 말할까\"…아내의 AI 대화, 외도 증거될까",
     "summary": [
-      "업무에 특화된 AI 서비스 개발·검증 수요가 다양한 산업군에 걸쳐 나타나고 있다.네이버클라우드는 한국수력원자력, 한전KDN과 원전 분야 AI 전환(AX)을 위한 업무협약을 체결했다고 25일 밝혔다.네이버클라우드는 2024년 자체 AI 모델 '하이퍼클로바X'를 기반으로 한수원의 생성형 AI 플랫폼을 구축했다.",
-      "보안이 중요한 원전 업무 특성을 고려해 외부망과 분리된 한수원 데이터센터에 AI 모델을 설치했다.이번에는 직원이 원전 업무에 특화된 AI."
+      "아픈 아들을 제대로 돌보지 않던 아내가 AI(인공지능) 챗봇에 다른 남자와의 교제 사실과 이혼 고민을 털어놓고 있었다는 사연이 전해졌다.",
+      "26일 YTN 라디오 '조인섭 변호사의 상담소'에서는 결혼 16년 차 남성 A씨의 사연이 소개됐다.",
+      "A씨는 몇 년 전 회사의 지방 발령으로 아내와 주말부부 생활을 시작했다."
     ],
     "chips": [
       "#AI",
-      "#네이버"
-    ]
-  },
-  {
-    "id": "n151a648d",
-    "category": "스포츠",
-    "source": "머니투데이",
-    "time": "6분 전",
-    "url": "https://www.mt.co.kr/sports/2026/11/26/2026112514394456453",
-    "title": "'이럴수가' 아이만 최소 8명인데 미혼이었네! '537억' 日최고 몸값 외인, 이제서야 결혼식 올렸다",
-    "summary": [
-      "일본프로야구(NPB) 역대 외국인 선수 최고액 계약 기록을 새로 쓴 닛폰햄 파이터스의 '거포' 프란밀 레이예스(31)가 초대형 계약에 이어 결혼 소식까지 전하며 겹경사를 맞았다.",
-      "슬하에 이미 최소 8명의 자녀를 둔 미혼의 다둥이 아빠로 알려진 그가 뒤늦게 정식 웨딩마치를 울리며 현지 팬들의 이목이 쏠리고 있다.",
-      "2026시즌을 마치고 닛폰햄과 4년 최대 총액 4000만 달러(약 64억 엔·한화 약 537억 원)라는 NPB 사상 최대 규모 외국인."
-    ],
-    "chips": [
-      "#KBO"
-    ]
-  },
-  {
-    "id": "n5d121ebe",
-    "category": "스포츠",
-    "source": "머니투데이",
-    "time": "6분 전",
-    "url": "https://www.mt.co.kr/sports/2026/11/26/2026112519531965407",
-    "title": "\"강소휘 주라 했는데, 이윤정이 갑자기 라이트를 주더라\" 유쾌한 승장의 미소... '6연승+선두' 도공, 여유 찾았다 [화성 현장]",
-    "summary": [
-      "김영래(45) 한국도로공사 하이패스 감독이 파죽의 6연승과 함께 리그 선두로 올라선 소감을 전했다.",
-      "도로공사는 25일 오후 7시 화성종합실내체육관에서 열린 IBK기업은행과 'HK흥국금융 2026~2027 V-리그' 여자부 2라운드 원정에서 세트 스코어 3-0(25-23 25-16 25-22)으로 셧아웃 승리했다.",
-      "파죽의 6연승을 달린 도로공사는 승점 18(6승1패)로 리그 선두로 올라섰다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n5b95a333",
-    "category": "스포츠",
-    "source": "머니투데이",
-    "time": "6분 전",
-    "url": "https://www.mt.co.kr/sports/2026/11/26/2026112523421068784",
-    "title": "'무려 15년 걸린 2연패' 신진서, 박정환 꺾고 명인전 역전 우승... 이세돌과 동률 '4회 우승'",
-    "summary": [
-      "한국랭킹 1위 신진서(26) 9단이 박정환(33) 9단을 꺾고 명인전 정상에 오르며 대회 2연패를 달성했다.",
-      "신진서는 25일 경기도 성남시 판교 K바둑 스튜디오에서 인터넷 대국으로 펼쳐진 제49기 SG배 한국일보 명인전 결승 3번기 최종국에서 박정환에게 216수 만에 백 불계승을 거두며 종합전적 2-1로 우승을 차지했다.",
-      "초반 우상귀 접전에서 기선을 잡은 신진서는 중앙의 두터움을 활용해 전투에서 이득을 보며 차이를 벌렸다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "nb2b77288",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "6분 전",
-    "url": "https://www.newsis.com/view/NISX20261125_0003883187",
-    "title": "서울에 동전 1만6000개 숨긴 작가…이번엔 말하는 다람쥐와 두꺼비",
-    "summary": [
-      "[서울=뉴시스] 박현주 미술전문 기자 = 벽면 콘센트에서 다람쥐가 고개를 내밀고 말을 건넨다.",
-      "커다란 바위 아래에서는 두꺼비가 자신의 내면세계를 이야기한다.",
-      "악보에 붙인 스티커는 음악이 되고, '1톤'이라고 적힌 조형물은 풍선처럼 머리 위에 떠 있다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n3543dcef",
-    "category": "IT",
-    "source": "동아일보",
-    "time": "7분 전",
-    "url": "https://www.donga.com/news/Inter/article/all/20261126/135092350/1",
-    "title": "왕이 “네덜란드, 中기업에 공정한 경영 환경 마련하길”",
-    "summary": [
-      "왕이 중국 중앙외사판공실 주임 겸 외교부장이 25일 톰 베런슨 네덜란드 외교장관에게 “네덜란드가 중국 기업에 공정하고 투명하며 예측 가능한 경영 환경을 제공하길 바란다”고 말했다.중국 외교부에 따르면 왕 부장은 이날 베이징에서 열린 회담에서 양국 기업의 상호 투자 확대를 지지한다는 뜻을 밝혔다.",
-      "네덜란드 반도체 업체 넥스페리아와 중국 모회사 윙테크 간 경영권 분쟁은 양국 법정으로 번진 상태다.신화통신에 따르면 두 장관은 회담 뒤 공동성명에서 기."
-    ],
-    "chips": [
-      "#반도체",
-      "#환경"
-    ]
-  },
-  {
-    "id": "n5dcadbf7",
-    "category": "사회",
-    "source": "연합뉴스",
-    "time": "7분 전",
-    "url": "https://www.yna.co.kr/view/AKR20261126000100011",
-    "title": "[알림] 연합뉴스 콘텐츠 저작권 고지",
-    "summary": [
-      "연합뉴스가 제공하는 기사, 사진, 그래픽, 영상 등 모든 콘텐츠는 관련 법의 보호를 받습니다.",
-      "연합뉴스 콘텐츠를 사전허가 없이 전재·방송하거나 ..."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n7e5a2c30",
-    "category": "스포츠",
-    "source": "동아일보",
-    "time": "7분 전",
-    "url": "https://www.donga.com/news/Entertainment/article/all/20261126/135092347/1",
-    "title": "김민호 “‘신병 더무비’, 극장 개봉 행복…귀신과 케미 기대해주길”",
-    "summary": [
-      "배우 김민호가 ‘신병 더 무비: 군병원에 귀신이 산다’로 극장에서 관객들과 만나게 된 소감을 밝혔다.25일 서울 용산구 CGV 용산아이파크몰에서 진행된 영화 ‘신병 더 무비: 군병원에 귀신이 산다’(이하 ‘신병 더 무비’) 제작보고회에는 민진기 감독을 비롯해 김민호, 류경수, 유정연, 남태우, 김요한, 이정현, 장성범, 김희수, 김현규 등이 참석했다.이 자리에서 김민호는 “‘신병’ 시즌1이 많은 사랑을 받았을 때도 ‘시즌2 가는 거 아냐?’ 하."
-    ],
-    "chips": [
       "#의료"
     ]
   },
   {
-    "id": "n6e90f31f",
+    "id": "n35b8f294",
     "category": "사회",
     "source": "뉴시스",
-    "time": "7분 전",
-    "url": "https://www.newsis.com/view/NISX20261126_0003883584",
-    "title": "[알림]뉴시스 콘텐츠 저작권 고지",
+    "time": "1분 전",
+    "url": "https://www.newsis.com/view/NISX20261126_0003883826",
+    "title": "대한광통신, 티에프오네트웍스 흡수합병 결정",
     "summary": [
-      "뉴시스가 제공하는 기사, 사진, 그래픽 이미지, 영상물 등 각종 콘텐츠는 저작권법 등 관련 법의 보호를 받습니다.",
-      "뉴시스 콘텐츠를 사전 허락 없이 무단 복사, 개작, 전재, 배포, 판매할 경우 민·형사상의 책임이 따를 수 있다는 것을 알려드립니다.",
-      "뉴시스 콘텐츠 사용에 대해서는 전화(02-721-7415) 또는 이메일(choihh@newsis.com)로 문의하시기 바랍니다."
+      "[서울=뉴시스] 김경택 기자 = 광섬유·광케이블 전문기업 대한광통신은 경영 효율성 제고, 사업 경쟁력 강화를 위해 100% 자회사인 티에프오네트웍스를 흡수합병하기로 결정했다고 26일 밝혔다.",
+      "합병 비율은 1대 0으로 무증자 방식의 소규모 합병으로 진행된다.",
+      "합병기일은 내년 2월 1일, 합병 등기예정일은 내년 2월 12일이다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "nc4b26163",
+    "id": "n89d20b0b",
     "category": "사회",
     "source": "뉴시스",
-    "time": "7분 전",
-    "url": "https://www.newsis.com/view/NISX20261125_0003883549",
-    "title": "가인, 7년 만 복귀 심경 고백 \"나 다 잊었을까 봐…\"",
+    "time": "1분 전",
+    "url": "https://www.newsis.com/view/NISX20261126_0003883822",
+    "title": "부산시 신임 감사위원장은?…이정민 전 진심 대표변호사",
     "summary": [
-      "[서울=뉴시스] 남정현 기자 = 그룹 브라운아이드걸스 가인이 활동을 쉬는 동안 연예인으로서 무대에 서고 싶은 마음이 컸다고 털어놨다.",
-      "25일 유튜브 채널 '가족같은 브아걸'에는 '7년 만에 해동된 브아걸 완전체, 제아네에서 모이다'라는 제목의 영상이 공개됐다.",
-      "브라운아이드걸스 멤버들은 7년 만에 완전체로 촬영하며 오랜만의 만남을 기념했다."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n8dfa27e8",
-    "category": "사회",
-    "source": "뉴시스",
-    "time": "7분 전",
-    "url": "https://www.newsis.com/view/NISX20261125_0003883516",
-    "title": "정신과 전문의 \"연예인들, ADHD 많아\"",
-    "summary": [
-      "[서울=뉴시스] 남정현 기자 = 방송인 사유리가 정신건강의학과 전문의로부터 주의력결핍 과잉행동장애(ADHD) 가능성이 높다는 진단을 받았다.",
-      "25일 사유리의 유튜브 채널에는 정신건강의학과 전문의 오진승 원장이 운영하는 유튜브 채널 '닥터프렌즈'를 찾아 상담받는 영상이 공개됐다.",
-      "이날 오진승은 사유리의 상태를 살펴본 뒤 \"종합해서 말씀드리면 ADHD 가능성은 조금 있어 보인다\"고 말했다."
-    ],
-    "chips": [
-      "#의료"
-    ]
-  },
-  {
-    "id": "nc71c3de2",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "7분 전",
-    "url": "https://www.chosun.com/opinion/editorial/2026/11/26/O2FNF4HMWFE6DEIIZLL7VQBWCM/",
-    "title": "[사설] 법사위원장 황당 발언, “사법부 독립, 헌법에 없다”까지",
-    "summary": [
-      "[사설] 법사위원장 황당 발언, “사법부 독립, 헌법에 없다”까지."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n3b06f0d8",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "8분 전",
-    "url": "https://www.donga.com/news/Culture/article/all/20261125/135092344/1",
-    "title": "‘운명전쟁’ 무속인, 장영란에 “자식들 크면 나라에 이름 날 것” 예언",
-    "summary": [
-      "방송인 장영란이 무속인으로부터 자녀들의 미래와 신년 운세에 관한 이야기를 들었다.25일 유튜브 채널 ‘A급 장영란’에는 ‘무당이 장영란 동생 보자마자 건넨 소름 돋는 첫마디’라는 제목의 영상이 공개됐다.이날 장영란은 친구와 함께 예능 프로그램 ‘운명전쟁49’에 출연해 얼굴을 알린 한 무속인을 찾아갔다.",
-      "무속인은 장영란의 남편에 대해 “신랑분이 재밌지만 예민한 사람”이라면서도 “너무 사랑꾼이다.",
-      "신랑 없었으면 벌써 우울증 왔다”고 말했다.자녀들의."
-    ],
-    "chips": [
-      "#뉴스"
-    ]
-  },
-  {
-    "id": "n5f152d18",
-    "category": "사회",
-    "source": "동아일보",
-    "time": "8분 전",
-    "url": "https://www.donga.com/news/Entertainment/article/all/20261125/135092340/1",
-    "title": "이무진, 서울예대 ‘복도남’의 자신감…“신 같은 존재”",
-    "summary": [
-      "이무진이 대학 후배들에게 신 같은 존재가 됐다며 뿌듯해했다.25일 오후 방송된 MBC 예능 프로그램 ‘라디오스타’에서는 가수 이무진이 출연한 가운데 MC들로부터 “이무진 길이 생겼다던데”라는 질문을 받았다.이무진이 “아쉽게도 지번 있는 길은 아니다”라며 “모교 서울예대 복도에서 자연스럽게 놀던 영상이 아직도 회자하고 있는데, 그 복도가 나로 인해 뭔가 시끌벅적해졌더라”라고 밝혔다.이어 “당시 스팅 노래를 동기 형이랑 놀듯이 찍은 거였는데, 구독."
+      "[부산=뉴시스]원동화 기자 = 부산시 신임 감사위원장에 이정민 전 법무법인 진심 대표변호사가 임용됐다.",
+      "부산시는 이 전 대표변호사를 신임 감사위원장으로 임용한다고 26일 밝혔다.",
+      "감사위원장은 부산시와 산하기관의 감사·감찰, 부패방지 및 청렴 시책 등을 총괄하는 국장급 직위다."
     ],
     "chips": [
       "#교육"
     ]
   },
   {
-    "id": "nb31e1393",
-    "category": "스포츠",
-    "source": "연합뉴스",
-    "time": "10분 전",
-    "url": "https://www.yna.co.kr/view/AKR20261125187600005",
-    "title": "청룡영화상 작품상에 '호프'…설경구·전도연 남녀주연상 석권",
+    "id": "n04b79947",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "1분 전",
+    "url": "https://www.newsis.com/view/NISX20261126_0003883747",
+    "title": "철도노조, 오전 9시부터 '안전운행 투쟁'…열차 운행 지연 우려",
     "summary": [
-      "(서울=연합뉴스) 박원희 기자 = 나홍진 감독의 '호프'가 올해 청룡영화상 최우수작품상의 영예를 안았다."
+      "[서울=뉴시스]이지우 인턴 기자 = 전국철도노동조합(철도노조)이 26일 오전 9시부터 쟁의행위에 돌입한다.",
+      "철도노조는 승진제도 개선과 추가 수당 지급, 인력 확충 등을 요구하며 쟁의행위의 일종인 '안전운행 투쟁'을 벌일 예정이다.",
+      "요구사항이 받아들여지지 않을 경우 다음 달 10일부터 무기한 총파업을 시작할 계획이다."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "na8b047c6",
-    "category": "스포츠",
-    "source": "조선일보",
-    "time": "11분 전",
-    "url": "https://www.chosun.com/entertainments/enter_general/2026/11/25/G42DQY3CMYYTGNRSGU3DGY3DGQ/",
-    "title": "[청룡영화상] 전도연, '가능한 사랑' 여우주연상 트리플크라운 \"매순간 즐겼다\"",
+    "id": "n6f785876",
+    "category": "사회",
+    "source": "뉴시스",
+    "time": "1분 전",
+    "url": "https://www.newsis.com/view/NISX20261126_0003883802",
+    "title": "2026 경남메세나대회 대상, 창원 '디엠모빌리티' 수상",
     "summary": [
-      "[스포츠조선 백지은 기자] 전도연이 '가능한 사랑'으로 여우주연상을 받았다.",
-      "25일 오후 서울 여의도 KBS홀에서 제47회 청룡영화상 시상식이 열렸다.",
-      "전도연은 \"이창동 감독님, 영화 만들어 주셔서 너무 감사하다."
+      "[창원=뉴시스]홍정명 기자 = 경남메세나협회는 지난 25일 저녁 창원 그랜드머큐어앰배서더 호텔에서 기업인, 예술단체, 유관기관장 등 200여명이 참석한 가운데 '2026 경남메세나대회' 행사를 개최했다.",
+      "메세나상 시상식에서 영예의 대상은 창원 디엠모빌리티가 차지했고, 박범주 진주 참신한건설 이사가 메세나인상을 수상했다.",
+      "또 문화경영상 신신사, 문화공헌상 에스, Arts&Business상 엔티코리아와 진주필하모닉오케스트, 문화예술유망주 부문 서울."
     ],
     "chips": [
       "#뉴스"
     ]
   },
   {
-    "id": "na199e8ab",
+    "id": "n1ed69263",
+    "category": "경제",
+    "source": "머니투데이",
+    "time": "1분 전",
+    "url": "https://www.mt.co.kr/entertainment/2026/11/26/2026112608061447231",
+    "title": "정신과 전문의 \"연예인들, ADHD 많아…자녀 유전 여부 불확실\"",
+    "summary": [
+      "방송인 사유리가 정신건강의학과 전문의로부터 주의력결핍 과잉행동장애(ADHD) 가능성이 높다는 진단을 받았다.",
+      "지난 25일 사유리의 유튜브 채널에는 정신건강의학과 전문의 오진승 원장이 운영하는 유튜브 채널 '닥터프렌즈'를 찾아 상담받는 영상이 공개됐다.",
+      "영상에서 사유리는 첫 번째 검사 시작부터 집중하지 못하는 모습을 보였다."
+    ],
+    "chips": [
+      "#의료"
+    ]
+  },
+  {
+    "id": "naa21052c",
+    "category": "사회",
+    "source": "머니투데이",
+    "time": "2분 전",
+    "url": "https://www.mt.co.kr/politics/2026/11/26/2026112514491779858",
+    "title": "'코인 대주주 지분 제한' 정부안, 국회 왔지만…與 '냉랭' 野 '반대'",
+    "summary": [
+      "[the300] 금융위 디지털자산기본법 정부안 유동수 정무위원장에 전달 유 위원장 이달 발의…30일 정조회의 논의 후 국회 제출 전망 野 \"전례 없는 사후 규제\" 與 내부선 규제 옹호·반대 입장차 가상자산 2단계 입법인 '디지털자산업의 혁신과 이용자 보호에 관한 법률(디지털자산기본법)' 정부안이 국회에 전달됐다.",
+      "거래소 대주주 지분 보유 한도를 20%로 제한하고 금융위원회 승인 시 예외적으로 34%까지 허용한다는 대주주 지분율 제한 조항이 쟁점."
+    ],
+    "chips": [
+      "#정책",
+      "#정치"
+    ]
+  },
+  {
+    "id": "n33f10dac",
+    "category": "경제",
+    "source": "아시아경제",
+    "time": "4분 전",
+    "url": "https://view.asiae.co.kr/article/2026112608482967520",
+    "title": "기아, PBV 아이디어 공모 1944건 접수…PV5 활용 사업모델 발굴",
+    "summary": [
+      "기아가 전용 목적기반차량(PBV) PV5를 활용한 다양한 사업모델과 서비스 발굴에 나섰다.",
+      "소비자와 기업의 아이디어를 실제 차량 개발과 사업화로 연결해 PBV 생태계를 확대한다는 전략이다.",
+      "기아는 24일 서울 성수동 기아 언플러그드 그라운드에서 제5회 'PBV 아이디어 공모전' 시상식을 개최했다고 26일 밝혔다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n991ea75c",
     "category": "IT",
-    "source": "연합뉴스",
-    "time": "11분 전",
-    "url": "https://www.yna.co.kr/view/AKR20261125188100009",
-    "title": "뉴욕증시, AI 매도세·관세 우려에 하락 출발",
+    "source": "아시아경제",
+    "time": "4분 전",
+    "url": "https://view.asiae.co.kr/article/2026112608475754094",
+    "title": "용산구, 적극행정 최우수는 AI로 만든 ‘주택가격 플랫폼’",
     "summary": [
-      "(서울=연합뉴스) 윤정원 연합인포맥스 기자 = 뉴욕증시의 3대 주가지수는 인공지능(AI) 관련주 매도세와 관세 우려로 하락 출발했다."
+      "서울 용산구(구청장 김경대) 공무원들이 생성형 인공지능(AI)으로 직접 만든 업무 도구가 올해 하반기 적극행정 우수 사례로 뽑혔다.",
+      "구가 선정한 '2026년 하반기 적극행정 우수공무원' 6명 가운데 최우수를 포함한 3명이 AI를 활용해 성과를 냈다.26일 구에 따르면 최우수는 세무1과 정을균 주무관이 받았다.",
+      "정 주무관은 챗GPT와 파이어베이스 등을 활용해 별도 예산 없이 개별주택가격 업무 지원 웹 플랫폼을 만들었다."
     ],
     "chips": [
       "#AI"
     ]
   },
   {
-    "id": "n9ff3fab6",
-    "category": "사회",
-    "source": "조선일보",
-    "time": "12분 전",
-    "url": "https://www.chosun.com/opinion/column/2026/11/25/FLC3HLDTCJEDHB5DFJ4A3VJZW4/",
-    "title": "[김창균 칼럼] “대통령은 머슴”이라던 이재명, 法 위에 서다",
+    "id": "n3b205321",
+    "category": "경제",
+    "source": "머니투데이",
+    "time": "4분 전",
+    "url": "https://www.mt.co.kr/industry/2026/11/26/2026112608364578930",
+    "title": "SK케미칼 '에코젠', 글로벌 커피 드리퍼에 적용..15개국 수출",
     "summary": [
-      "[김창균 칼럼] “대통령은 머슴”이라던 이재명, 法 위에 서다."
+      "SK케미칼이 고기능성 바이오 코폴리에스터 소재 '에코젠(ECOZEN)'을 커피 추출 도구 전문 브랜드 헬로우 월드의 드리퍼 제품 2종에 적용했다고 26일 밝혔다.",
+      "헬로우 월드는 드리퍼 등 커피 추출 도구를 전문적으로 개발·판매하는 브랜드다.",
+      "에코젠이 적용된 V3 드리퍼는 현재 세계 15개국에 수출되고 있다."
     ],
     "chips": [
+      "#수출"
+    ]
+  },
+  {
+    "id": "n1584311b",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "5분 전",
+    "url": "https://www.yna.co.kr/view/AKR20261126025800054",
+    "title": "5·18기념재단 \"인권위, 혐오 피해 사회적참사 피해자 보호해야\"",
+    "summary": [
+      "(전남광주=연합뉴스) 민현기 기자 = 5·18기념재단은 26일 \"국가인권위원회는 표현의 자유 침해 우려를 밝히는 데 그치지 말고 혐오와 조롱으로..."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n70df7b93",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "5분 전",
+    "url": "https://www.yna.co.kr/view/AKR20261126026900030",
+    "title": "세븐일레븐, 연말 홈파티 수요 겨냥 즉석식품 프로모션",
+    "summary": [
+      "(서울=연합뉴스) 조민정 기자 = 편의점 세븐일레븐은 연말을 맞아 홈파티 수요를 겨냥한 즉석식품 프로모션을 벌인다고 26일 밝혔다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "n6eed6fce",
+    "category": "사회",
+    "source": "연합뉴스",
+    "time": "5분 전",
+    "url": "https://www.yna.co.kr/view/AKR20261126032500052",
+    "title": "경남대도 해킹 피해…교직원·학생 개인정보 1천202건 유출",
+    "summary": [
+      "(창원=연합뉴스) 박영민 기자 = 경남대학교 산학협력단이 운영하는 연구행정통합시스템이 해킹돼 이용자 개인정보 1천202건이 유출된 사실이 뒤늦게..."
+    ],
+    "chips": [
+      "#교육"
+    ]
+  },
+  {
+    "id": "ncc57710d",
+    "category": "IT",
+    "source": "연합뉴스",
+    "time": "5분 전",
+    "url": "https://www.yna.co.kr/view/AKR20261126030700091",
+    "title": "'中 원격접속 차단' 규제 신설되자 엔비디아칩 매물 쏟아져",
+    "summary": [
+      "(샌프란시스코=연합뉴스) 권영전 특파원 = 미국이 중국의 제3국 데이터센터 원격 접속을 금지하는 새 규제를 시행하자 그간 품귀였던 엔비디아 칩 ..."
+    ],
+    "chips": [
+      "#엔비디아",
+      "#정책"
+    ]
+  },
+  {
+    "id": "n10f37b18",
+    "category": "경제",
+    "source": "아시아경제",
+    "time": "6분 전",
+    "url": "https://view.asiae.co.kr/article/2026112608414287978",
+    "title": "\"육아휴직 내고 공부, 세무사 합격했어요\"…합격 수기 두고 논란",
+    "summary": [
+      "육아휴직 기간에 세무사 시험을 준비해 합격한 30대 여성의 수기가 논란이 되고 있다.",
+      "육아휴직을 연장해 세무사 시험을 준비하고, 시험을 앞두고는 아이를 양가 부모에게 맡긴 채 주당 70~80시간씩 공부했다는 내용이 알려지면서다.",
+      "자녀 양육을 위해 마련된 육아휴직을 개인의 자격시험 준비에 활용한 것이 제도의 취지에 부합하는지를 두고 논쟁이 이어지고 있다."
+    ],
+    "chips": [
+      "#뉴스"
+    ]
+  },
+  {
+    "id": "nbbd18762",
+    "category": "IT",
+    "source": "아시아경제",
+    "time": "7분 전",
+    "url": "https://view.asiae.co.kr/article/2026112608192103453",
+    "title": "美 밴스 \"젠슨 황 수사 대상 아냐\"…트럼프 이어 의혹 진화 나서",
+    "summary": [
+      "밴스 미국 부통령이 불륜 스캔들로 사임했다가 복귀한 젠슨 황 엔비디아 최고경영자(CEO)에 대해 애초에 수사 대상이 아니라며 사면받을 필요도 없다는 입장을 밝혔다.",
+      "황 CEO의 의회 청문회 출석을 앞두고 도널드 트럼프 대통령에 이어 의혹 진화에 나서는 모습이다.",
+      "25일(현지시간) AP통신 등에 따르면 밴스 부통령은 이날 미국 오하이오주 라이트패터슨 공군기지에서 기자들과 만나 법무부와 국가안보 관련 기관의 당국자들로부터 황 CEO가 어떠."
+    ],
+    "chips": [
+      "#엔비디아",
       "#정치"
+    ]
+  },
+  {
+    "id": "n17a9a9d5",
+    "category": "사회",
+    "source": "조선일보",
+    "time": "9분 전",
+    "url": "https://www.chosun.com/entertainments/broadcast/2026/11/26/GFSWGNBSGU3WGOBUG4YTEMRYGE/",
+    "title": "‘1010만 유튜버’ 진우와 해티, 결혼 4년만 이혼발표 ‘충격’..“익숙했던 모습 달라질 것” [핫피플]",
+    "summary": [
+      "[OSEN=김채연 기자] 1,010만 명의 구독자를 보유한 국제 부부 유튜버 진우와 해티가 결혼 4년 만에 이혼을 알렸다.",
+      "25일 진우와 해티는 공식 SNS를 통해 장문의 입장문을 올린 뒤 “많은 고민 끝에 부부로서의 관계를 마무리하고 각자의 삶을 살아가기로 했다”며 파경 소식을 전했다.",
+      "이날 두 사람은 “쉽게 내린 결정은 아니었다."
+    ],
+    "chips": [
+      "#뉴스"
     ]
   }
 ];
@@ -641,8 +654,8 @@ window.KEYWORD_TOP = [
   {
     "rank": 1,
     "tag": "뉴스",
-    "mentions": "2460건",
-    "trend": "+275%"
+    "mentions": "2330건",
+    "trend": "+255%"
   },
   {
     "rank": 2,
@@ -653,8 +666,8 @@ window.KEYWORD_TOP = [
   {
     "rank": 3,
     "tag": "AI",
-    "mentions": "1550건",
-    "trend": "+135%"
+    "mentions": "1680건",
+    "trend": "+155%"
   }
 ];
 // ====AUTO-GENERATED-END====
